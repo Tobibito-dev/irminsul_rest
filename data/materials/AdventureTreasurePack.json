@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventure Treasure Pack",
+        "de": "Abenteuerschatzpaket",
+        "chs": "冒险宝藏包",
+        "cht": "冒險寶藏包",
+        "es": "Paquete de tesoros del aventurero",
+        "fr": "Pactole de l'aventure",
+        "id": "Adventure Treasure Pack",
+        "jp": "冒険報酬パック",
+        "kr": "모험 보물 패키지",
+        "pt": "Pacote de Tesouro de Aventura",
+        "ru": "Набор сокровищ",
+        "th": "แพ็กขุมทรัพย์ผจญภัย",
+        "vi": "Túi kho báu mạo hiểm"
+    },
+    "id": 107004,
+    "materialDesc": {
+        "en": "Daily highscore reward. Grants 1 random T1 Character Ascension material.",
+        "de": "Belohnung für tägliche Punkte, bringt 1 zufälliges Material der Basisstufe für den Figurenaufstieg.",
+        "chs": "日常积分奖励，可以随机获得1个初阶角色突破素材",
+        "cht": "日常積分獎勵，可隨機獲得1個初階角色突破素材",
+        "es": "Recompensa por completar encargos diarios. Obtén 1 material de ascensión de personaje de nivel principiante aleatorio.",
+        "fr": "Récompense à l'issue du calcul de pts quotidien. Obtention d'un matériau d'élévation de personnage aléatoire.",
+        "id": "Hadiah Poin harian. Memberikan 1 Material Ascension Karakter T1 secara acak.",
+        "jp": "ポイント報酬、ランダムにキャラの初回突破に必要な素材が貰える。",
+        "kr": "일일 임무 점수 보상, 랜덤으로 캐릭터의 초급 돌파 소재를 1개 획득할 수 있다",
+        "pt": "Recompensa de pontuação diária. Obtém 1 Material de Ascensão de Personagem Aleatório T1.",
+        "ru": "Награда за ежедневные поручения. Даёт случайный материал возвышения персонажа начального уровня.",
+        "th": "รางวัลคะแนนรายวัน สามารถได้รับวัสดุเลื่อนขั้นตัวละครขั้นต้น 1 ชิ้น",
+        "vi": "Phần thưởng điểm hàng ngày, có thể nhận được ngẫu nhiên 1 nguyên liệu đột phá nhân vật cơ bản"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

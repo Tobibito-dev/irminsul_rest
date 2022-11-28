@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Golden Rose Seeds",
+        "de": "Goldrosen-Samen",
+        "chs": "金蔷薇种子",
+        "cht": "金薔薇種子",
+        "es": "Semilla de rosa dorada",
+        "fr": "Graines de rose dorée",
+        "id": "Benih Mawar Emas",
+        "jp": "ゴールデンローズの種",
+        "kr": "황금 장미 씨앗",
+        "pt": "Semente de Rosa Dourada",
+        "ru": "Семена золотой розы",
+        "th": "เมล็ดพันธุ์ Golden Rose",
+        "vi": "Hạt Giống Tường Vi Vàng"
+    },
+    "id": 101987,
+    "materialDesc": {
+        "en": "Compared to Sumeru Roses, Golden Roses are a unique species more suited to the deserts. To survive, it has had to protect itself with a shield of mud and stone, but in the right environment, it may yet recoup its original beauty.",
+        "de": "Anders als Sumeru-Rosen sind Goldrosen gut an das Leben in der Wüste angepasst. Zum Überleben schützt sie sich mit Lehm und Steinen, aber in geeigneten Umgebungen kann sie zu ihrer eigentlichen Schönheit aufblühen.",
+        "chs": "和须弥蔷薇相比，金蔷薇是更适应沙漠环境的独特品种。为了生存，它不得不用泥巴与石头将自己保护起来，但在合适的环境中，就能绽放出自己原本的美丽模样。",
+        "cht": "和須彌薔薇相比，金薔薇是更適應沙漠環境的獨特品種。為了生存，它不得不用泥巴與石頭將自己保護起來，但在適合的環境中，就能綻放出自己原本的美麗模樣。",
+        "es": "La rosa dorada es una especie única, más adaptada al desierto que la rosa de Sumeru. Para sobrevivir, ha tenido que protegerse con barro y piedras, pero en el entorno adecuado podría recuperar su hermosa forma original.",
+        "fr": "Par rapport aux roses sumériennes, les roses dorées sont une espèce unique plus adaptée aux déserts. Pour survivre, elles doivent se protéger avec un bouclier de boue et de pierre, mais une fois dans le bon environnement, elles peuvent retrouver leur beauté originelle.",
+        "id": "Jika dibandingkan dengan Sumeru Rose, Mawar Emas adalah spesies unik yang lebih cocok dengan padang pasir. Supanya bisa bertahan, spesies ini terpaksa menggunakan lumpur dan batu untuk melindungi dirinya sendiri. Namun di dalam lingkungan yang tepat, spesies ini akan bisa memancarkan keindahan alaminya.",
+        "jp": "スメールローズと比べて、ゴールデンローズはより砂漠の環境に適した、独特な品種である。生存のため、泥や石で自らを守らねばならなかったが、適切な環境に置かれれば、また元の美しい姿を見せてくれる。",
+        "kr": "황금 장미는 수메르 장미에 비해 사막 환경에 더 잘 적응하는 독특한 품종이다. 생존을 위해 어쩔 수 없이 진흙과 돌로 자신을 보호해야 하지만, 적절한 환경을 만나면 본연의 모습으로 아름답게 피어날 수 있다",
+        "pt": "Quando comparadas as Rosas de Sumeru, as Rosas Douradas são uma espécie única mais adaptada ao deserto. Para sobreviverem, tiveram que se proteger com um escudo de lama e pedra, mas num ambiente adequado, exibirão sua beleza original ao desabrocharem.",
+        "ru": "Золотая роза похожа на сумерскую, но более устойчива к жизни среди песков. Ей приходится выживать среди засохшей глины и камней. Зато в подходящих условиях она расцветает, обнажая свою истинную красоту.",
+        "th": "เมื่อเทียบกับ Sumeru Rose แล้ว Golden Rose เป็นพันธุ์พิเศษที่สามารถปรับตัวเข้ากับสภาพแวดล้อมของทะเลทรายได้ดีกว่า เพื่อความอยู่รอด พวกมันจึงต้องใช้ดินโคลนและก้อนหินปกป้องตัวเองไว้ แต่เมื่ออยู่ในสภาพแวดล้อมที่เหมาะสม มันก็สามารถเบ่งบานและเผยให้เห็นถึงรูปลักษณ์อันสวยงามของตนได้",
+        "vi": "So với Tường Vi Sumeru thì Tường Vi Vàng thích hợp hơn với môi trường sa mạc. Để sinh tồn, nó phải bảo vệ mình bằng bùn và đá, nhưng trong môi trường thích hợp, nó có thể nở ra vẻ đẹp vốn có của mình."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bedrock Key Location Diagram",
+        "de": "Standortdiagramm der „Gesteinsschlüssel“",
+        "chs": "「磐键」位置示意图",
+        "cht": "「磐鍵」位置示意圖",
+        "es": "Boceto de la ubicación de las llaves rocosas",
+        "fr": "Schéma de l'emplacement des clés de substratum",
+        "id": "Diagram Lokasi Batu Kunci",
+        "jp": "「磐鍵」の位置図",
+        "kr": "「반건」 위치 안내도",
+        "pt": "Mapa da Localização de Chaves de Rocha",
+        "ru": "Карта расположения скалистых затворов",
+        "th": "แผนผังตำแหน่ง Bedrock Key",
+        "vi": "Bản Đồ Vị Trí Thạch Ấn"
+    },
+    "id": 101666,
+    "materialDesc": {
+        "en": "A simple diagram that Zhiqiong drew in haste. It indicates the general locations of several Bedrock Keys.",
+        "de": "Ein einfaches Diagramm, das Jinwu in aller Eile gezeichnet hat. Es zeigt die ungefähren Standorte mehrerer Gesteinsschlüssel.",
+        "chs": "志琼速写的简略示意图，标示了矿坑地面上几处「磐键」的大体位置。",
+        "cht": "志瓊速寫的簡略示意圖，標示了礦坑地面上幾處「磐鍵」的大體位置。",
+        "es": "Un bosquejo que Zhichiong dibujó con prisas. Ha marcado las ubicaciones aproximadas de varias llaves rocosas en la mina.",
+        "fr": "Un schéma simple dessiné par Zhiqiong. Il indique l'emplacement approximatif de plusieurs clés de substratum situées à la surface de la mine.",
+        "id": "Sebuah diagram lokasi sederhana yang dibuat oleh Zhiqiong dengan terburu-buru, menunjukkan perkiraan letak beberapa Batu Kunci.",
+        "jp": "志璇が描いた、簡易的な図。鉱坑にある「磐鍵」の大まかな位置が記されている。",
+        "kr": "지경이 대충 그린 간략한 약도. 광갱 지상에 있는 「반건」의 대체적인 위치를 표기했다",
+        "pt": "Um diagrama simples que Zhiqiong fez apressadamente. Indica as localizações aproximadas de várias das Chaves de Rocha.",
+        "ru": "Схематическая карта, которую набросала Чжи Цюн. На ней указано примерное расположение скалистых затворов в шахтах.",
+        "th": "แผนผังแบบง่าย ๆ โดย Zhiqiong ซึ่งระบุตำแหน่งคร่าว ๆ ของ Bedrock Key หลายตำแหน่งที่อยู่บนพื้นเหมือง",
+        "vi": "Bản đồ vị trí giản lược do Zhiqiong vẽ vội, gợi ý vị trí đại khái của các Thạch Ấn trên mỏ khoáng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

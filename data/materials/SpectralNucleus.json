@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Spectral Nucleus",
+        "de": "Gespensterkern",
+        "chs": "浮游晶化核",
+        "cht": "浮游晶化核",
+        "es": "Núcleo espectral",
+        "fr": "Noyau spectral",
+        "id": "Specter Nucleus",
+        "jp": "フライムの晶化核",
+        "kr": "떠도는 정령 결정화 코어",
+        "pt": "Núcleo Espectral",
+        "ru": "Призрачное ядро",
+        "th": "Spectral Nucleus",
+        "vi": "Hạt Bay Lượn Kết Tinh"
+    },
+    "id": 112055,
+    "materialDesc": {
+        "en": "A complete energy core that can sometimes be found after defeating Specters.\\nThere is a debate among those who just have to divide the world into winners and losers: what floats better — a Specter or an Anemo Slime?",
+        "de": "Ein kompletter Energiekern, der manchmal nach dem Besiegen von Gespenstern gefunden werden kann.\\nEs gibt eine Debatte unter denen, die die Welt einfach in Gewinner und Verlierer einteilen müssen: Was schwimmt besser, ein Gespenst oder Anemo-Schleim?",
+        "chs": "击败飘浮灵后有时能发现的完整的能量核。\\n在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。",
+        "cht": "擊敗飄浮靈後有時能發現的完整的能量核。\\n在熱衷於給任何事物都分個高下的人當中，經常發生這樣的爭論：飄浮靈和風史萊姆的浮力，究竟孰高孰低。",
+        "es": "Un núcleo de energía integral que se puede encontrar a veces tras derrotar a un Espectro.\\nLas personas a las que les encanta clasificar las cosas en mejores y peores suelen tener un debate interno: ¿qué flota mejor, los Espectros o los Slimes Anemo?",
+        "fr": "Un noyau d'énergie intégral qui peut être ramassé après avoir vaincu un Spectre.\\nUn débat revient souvent parmi ceux qui aiment diviser le monde entre gagnants et perdants : Lequel flotte le mieux dans les airs ? Un Anémoblob ou un Spectre ?",
+        "id": "Inti energi penuh yang terkadang dapat ditemukan setelah mengalahkan Specter.\\nAda perdebatan di antara mereka yang gemar mengelompokkan segala sesuatunya menjadi pemenang dan pecundang: Siapa yang dapat melayang lebih tinggi — Specter atau Anemo Slime?\"",
+        "jp": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
+        "kr": "떠도는 정령 처치 시 일정 확률로 발견할 수 있는 완벽한 에너지 코어.\\n무엇이든 우열을 가리기 좋아하는 사람들 사이에선 이런 논쟁이 자주 일어난다. \"떠도는 정령과 바람 슬라임의 부력 중 뭐가 더 뛰어난 걸까\"",
+        "pt": "Um núcleo energético completo que às vezes pode ser encontrado depois de derrotar Espectros.\\nHá um debate entre aqueles que tem que dividir o mundo entre vencedores e perdedores: quem flutua melhor, um Espectro ou um Slime Anemo?",
+        "ru": "Цельное энергетическое ядро, которое иногда можно получить после победы над призраками.\\nСреди тех, кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или Анемо слайм?",
+        "th": "แกนพลังงานที่สมบูรณ์ซึ่งอาจพบได้หลังจากกำจัด Specter\\nมักมีการโต้เถียงกันในหมู่ผู้ที่ต้องการจะแบ่งแยกระหว่างผู้แพ้กับผู้ชนะว่า ระหว่าง Specter กับ Anemo Slime สิ่งไหนจะลอยตัวได้ดีกว่ากัน",
+        "vi": "Hạt năng lượng thỉnh thoảng được tìm thấy sau khi đánh bại Bóng Ma.\\nGiữa những người thích phân định cao thấp, thường xuyên xảy ra cuộc tranh luận này: Bóng Ma và Slime Phong, rốt cuộc thì bên nào bay cao hơn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dragon Lord's Crown",
+        "de": "Horn des Drachenkönigs",
+        "chs": "龙王之冕",
+        "cht": "龍王之冕",
+        "es": "Corona del rey dragón",
+        "fr": "Couronne du roi dragon",
+        "id": "Dragon Lord's Crown",
+        "jp": "龍王の冠",
+        "kr": "용왕의 면류관",
+        "pt": "Coroa do Senhor dos Dragões",
+        "ru": "Корона лорда драконов",
+        "th": "Dragon Lord's Crown",
+        "vi": "Vương Miện Vua Rồng"
+    },
+    "id": 113017,
+    "materialDesc": {
+        "en": "Horns created from hardened jade crystallized over a thousand years are the natural crown of the dragon king.\\nInfused with spirit and carved from bedrock, it was born from the mountain's heart to show the strength of the earth to the land amidst monoliths, and its long golden horns are the mark of its ancient strife with an ancient lord.\\nFor a time, this horn was shattered and lost its luster, but now it gleams cold and gold as it sits in your palm.",
+        "de": "Hörner, die aus gehärteter, über tausend Jahre kristallisierter Jade erschaffen wurden, sind die natürliche Krone des Drachenkönigs.\\nDurchdrungen von Geist und aus dem Fels gehauen, wurde er aus dem Herzen des Berges geboren, um dem Land inmitten von Monolithen die Kraft der Erde zu zeigen, und seine langen goldenen Hörner sind das Zeichen seines alten Streits mit einem alten König.\\nEine Zeit lang war dieses Horn zerbrochen und verlor seinen Glanz, aber jetzt schimmert es kalt und golden, wenn es in deiner Handfläche liegt.",
+        "chs": "千年刚玉凝成的结晶之角，乃是「龙王」的天生冠冕。\\n注之以精魄，塑之以顽岩。它自山涧而生，在群岩的国土彰示天地的威权，而黄金般的长角则是它在过去与某位君王分庭抗礼的标志。\\n曾一度裂折失色，如今却在你的手中闪烁着冰冷的黄金光泽。",
+        "cht": "#千年剛玉凝成的結晶之角，乃是「龍王」的天生冠冕。\\n注之以精魄，塑之以頑岩。它自山澗而生，在群岩的國土彰示天地的威權，而黃金般的長角則是它在過去與某位君王分庭抗禮的標誌。\\n曾一度裂折失色，如今卻在{F#妳}{M#你}的手中閃爍著冰冷的黃金光澤。",
+        "es": "Los cuernos formados durante mil años a partir de jade cristalizado son la corona del rey dragón.\\nEl dragón nació de la montaña, por eso está imbuido de su espíritu y su cuerpo es de piedra. El deseo de la montaña era mostrar la fuerza de la tierra al país entre monolitos, y los cuernos dorados del dragón son la marca de su conflicto ancestral con un antiguo rey.\\nDurante un tiempo, este cuerno estuvo agrietado y perdió su brillo, pero ahora reluce con una luz dorada y fría en la palma de tu mano.",
+        "fr": "Ces cornes créées à partir de jade durci et cristallisé pendant des milliers d'années forment la couronne du roi dragon.\\nInfusé par les esprits et sculpté dans la roche, il est né au cœur de la montagne pour montrer la force de la terre face aux étendues de monolithes, et ses longues cornes dorées sont la marque de sa lutte contre un roi du passé.\\nCette corne avait, pendant un temps, été brisée et avait perdu de son éclat, mais désormais, elle brille d'une lueur froide et dorée, pendant que vous la tenez dans la paume de votre main.",
+        "id": "Tanduk yang terbuat dari kristalisasi giok selama ribuan tahun, berada di kepala sang raja naga layaknya sebuah mahkota.\\nDipenuhi jiwa-jiwa dan diukir dari batu paling kokoh, tanduk ini lahir dari jantung gunung yang terdalam untuk menunjukkan kekuatan bumi pada bangsa ribuan bebatuan ini, dan tanduk berwarna emasnya melambangkan pertentangan masa lalu terhadap raja kuno.\\nSelama beberapa waktu, tanduk ini telah hancur dan kehilangan keindahannya, tapi kini dia berkilau kembali di dalam genggaman tanganmu.",
+        "jp": "千年の玉石が凝縮して成った結晶の角、「龍王」の天然の冠。\\n魂を力の源に、盤石で形をつくる。かの者は山の奥から生まれ、岩の国で天地の威厳を表した。金色の長い角は、その力が過去のとある君主に匹敵する証。\\nかつて破裂し、色を失ったが、今は手の中で冷たい黄金の輝きを放っている。",
+        "kr": "천년 강옥으로 응결된 결정체의 뿔. 「용왕」의 면류관이다.\\n정백으로 주입하고 단단한 암석으로 만들어졌다. 산과 계곡에서 생성되어 군암의 땅에서 천지의 위엄을 떨쳤다. 황금 같은 긴 뿔은 과거 어느 왕과 맞서 싸운 증거이다.\\n한 때는 빛이 바랬지만 지금은 당신의 손에 차가운 황금빛을 뿜어내고 있다",
+        "pt": "Chifres criados a partir da jade endurecida cristalizada durante mil anos são a coroa natural do rei dragão.\\nInfuso de espírito e esculpido da rocha-mãe, nasceu do coração da montanha para mostrar a força da terra para a região em meio aos monólitos, e seus longos chifres dourados são a marca de sua antiga luta com um antigo lorde.\\nPor um tempo, este chifre foi quebrado e perdeu seu brilho, mas agora brilha gelado e dourado enquanto está na palma de sua mão.",
+        "ru": "Рога из кристаллизовавшегося за тысячелетия корунда - корона, данная лорду драконов самой природой.\\nВырезанная из камня и наполненная душой, она родилась из сердца горы, чтобы явить земле скал силу и власть, а её длинные золотые рога - знак былого соперничества с древним властелином.\\nНекогда разбитая и потускневшая, теперь она переливается золотыми искрами в ваших руках.",
+        "th": "เขาผลึกหยกที่ทำจากหยกพันปี นั่นคือ มงกุฎตามธรรมชาติของ \"Azhdaha\" ผนึกด้วยวิญญาณ เจียระไนด้วยหิน มันเกิดในหินผาของพื้นดินบนภูเขาที่จะเผยให้เห็นอำนาจของโลก และเขาที่ยาวดั่งทองเป็นสัญลักษณ์ของการแตกหักกับราชาในอดีต \\nจากสีที่เคยซีดจางไป แต่ตอนนี้กลับเปล่งแสงสีทองประกายอยู่ในมือของคุณ",
+        "vi": "Sừng kết tinh ngưng tụ từ ngọc ngàn năm, là vương miện thiên sinh của \"Long Vương\".\\nĐược rót Tinh Phách, nặn từ thạch nham tạo thành, xuất hiện ở khe núi, là tượng trưng cho sự uy quyền quốc thổ, chiếc sừng dài lấp lánh như vàng là minh chứng cho sự phục vụ bậc quân vương nào đó trong quá khứ.\\nĐã từng một lần đổi màu, hiện giờ là màu ánh vàng sáng lấp lánh trong tay bạn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

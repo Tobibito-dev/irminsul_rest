@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Exquisite Gift (Furnishing)",
+        "de": "Anspruchsvolle Dekoration",
+        "chs": "精致的摆设赠礼",
+        "cht": "精緻的擺設贈禮",
+        "es": "Decoración de regalo sofisticada",
+        "fr": "Décoration exquise reçue en cadeau",
+        "id": "Hadiah Perabotan yang Cantik",
+        "jp": "精巧な調度品の贈り物。",
+        "kr": "정교한 장식 선물",
+        "pt": "Decoração Sofisticada",
+        "ru": "Изысканный подарок (декор)",
+        "th": "ของขวัญสุดประณีต",
+        "vi": "Quà Trưng Bày Tinh Tế"
+    },
+    "id": 115038,
+    "materialDesc": {
+        "en": "A gift from a certain someone. It appears to be an exquisitely-made furnishing.",
+        "de": "Als Geschenk eines Freundes scheint es eine sehr anspruchsvolle Dekoration zu sein.",
+        "chs": "来自某位友人的礼物，似乎是一件精心制作的摆设。",
+        "cht": "來自某位友人的禮物，似乎是一件精心製作的擺設。",
+        "es": "Un regalo de cierta persona. Parece ser un objeto decorativo muy sofisticado.",
+        "fr": "Un cadeau de la part d'une certaine personne. Il semble que ce soit une décoration des plus raffinées.",
+        "id": "Hadiah dari seorang teman, sepertinya perabotan ini dibuat dengan sepenuh hati.",
+        "jp": "とある友人からの贈り物。精巧に作られた調度品のようだ。",
+        "kr": "한 친구의 선물, 정성껏 만든 장식품 같다",
+        "pt": "Um presente de alguém. Parece ser uma decoração muito sofisticada.",
+        "ru": "Подарок от неизвестного. Представляет собой предмет декора тонкой работы.",
+        "th": "ของขวัญจากเพื่อนท่านหนึ่ง ดูเหมือนจะเป็นของตกแต่งที่ทำขึ้นอย่างวิจิตรบรรจง",
+        "vi": "Món quà của một người bạn, hình như là vật trưng bày được chế tác tỉ mỉ."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

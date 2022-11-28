@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teachings of Freedom",
+        "de": "Lehren der „Freiheit“",
+        "chs": "「自由」的教导",
+        "cht": "「自由」的教導",
+        "es": "Enseñanzas de la libertad",
+        "fr": "Enseignement de la Liberté",
+        "id": "Teachings of \"Freedom\"",
+        "jp": "「自由」の教え",
+        "kr": "「자유」의 가르침",
+        "pt": "Ensinamentos de \"Liberdade\"",
+        "ru": "Учения о «Свободе»",
+        "th": "Teachings of Freedom",
+        "vi": "Bài Giảng Của \"Tự Do\""
+    },
+    "id": 104301,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nFreedom is the spirit of the land of the wind.\\nThe freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.",
+        "de": "Material zum Verbessern von Talenten.\\nFreiheit ist der Geist des Reiches des Windes.\\nFreiheit ist erstens die Freiheit zu leben, gesund und unversehrt, ohne sich Sorgen über den nächsten Tag machen zu müssen.",
+        "chs": "天赋培养素材。\\n风之国土的精神是自由。\\n自由其一，是生存的自由，即是能健全、健康地生活，而不必担心朝不保夕的自由。",
+        "cht": "天賦培養素材。\\n風之國土的精神是自由。\\n自由其一，是生存的自由，即是能健全、健康地生活，而不必擔心朝不保夕的自由。",
+        "es": "Material de mejora de talento.\\nLa libertad es la esencia del Reino del Viento.\\nUna de esas libertades es la de vivir libre y sanamente, sin tener que preocuparse por el día siguiente.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'esprit du Royaume du Vent est défini par plusieurs libertés.\\nLa liberté de vivre est une d'entre elles, c'est-à-dire, être libre de vivre en bonne santé et sans jamais se soucier du danger.",
+        "id": "Material Penguatan Talenta.\\nKebebasan adalah gairah Kerajaan Angin.\\nKebebasan hidup adalah salah satunya, kebebasan untuk hidup dengan leluasa dan sehat tanpa perlu mengkhawatirkan keamanan seseorang.",
+        "jp": "天賦育成素材。\\n風の国の精神は自由である。\\n自由その1、生きる自由、すなわち健全、健康に生きること。いつ終わるか分からない自由の心配がないこと。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 정신은 자유다.\\n자유 하나, 생존의 자유. 즉 건전하고 건강하게 생활하며 위험을 걱정하지 않을 자유",
+        "pt": "Material de elevação de Talento.\\nA liberdade é o espírito do Reino do Vento.\\nA primeira liberdade é a de viver. É a liberdade de viver com liberdade e saúde, sem preocupações com a própria segurança.",
+        "ru": "Материал повышения таланта.\\nСвобода - это дух царства ветров.\\nЖизнь без забот о здоровье и благополучии.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nอิสรภาพนั้นคือพลังของประเทศแห่งสายลม\\nอิสรภาพแรกนั้นคืออิสระในการมีชีวิต ทั้งมีความเป็นอยู่ที่ดีแข็งแรงและไม่ ต้องคอยกังวลถึงความปลอดภัย ของตนแต่อย่างใด",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nTinh thần đất nước của gió là tự do.\\nĐầu tiên là tự do của việc sinh sống mạnh khỏe, ổn định, không phải lo lắng cuộc sống bấp bênh."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Barbara: Flow",
+        "de": "Barbara – Fließendes Wasser",
+        "chs": "芭芭拉·流淌",
+        "cht": "芭芭拉·流淌",
+        "es": "Bárbara - Flujo",
+        "fr": "Barbara - Thérapeutique",
+        "id": "Barbara: Flow",
+        "jp": "バーバラ·流れ",
+        "kr": "바바라·흐름",
+        "pt": "Barbara - Fluxo",
+        "ru": "Мелодия",
+        "th": "Barbara - Flow",
+        "vi": "Barbara - Dòng Chảy"
+    },
+    "id": 210009,
+    "materialDesc": {
+        "en": "Namecard style.\\nWhen Barbara sings, her melodic voice flows like the tender healing of a clear spring.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWas fließt wie das heilende Wasser einer Quelle? Barbaras Gesang und ihre Melodie.",
+        "chs": "名片纹饰。\\n什么东西会流淌？治愈的清泉和芭芭拉的歌声与旋律。",
+        "cht": "名片紋飾。\\n什麼東西會流淌？治癒的清泉和芭芭拉的歌聲與旋律。",
+        "es": "Diseño de tarjeta de presentación.\\nCuando Bárbara canta, su voz melódica fluye como la curativa agua de un transparente manantial.",
+        "fr": "Thème.\\nLe chant de Barbara, doux et mélodieux, apaise les esprits et soigne les maux, à la manière de quelque magique source de bienveillance...",
+        "id": "Style kartu nama.\\nSaat Barbara bernyanyi, suaranya yang merdu mengalir bagaikan mata air jernih yang dapat menyembuhkan.",
+        "jp": "名刺の飾り紋。\\n流れるものと言えば？癒しの清泉とバーバラの歌声とメロディだよ。",
+        "kr": "명함 스킨.\\n어떤 게 흐를까? 치유의 샘물과 바바라의 노래, 그리고 멜로디",
+        "pt": "Estilo de Cartão de Visita.\\nO que corre como a água termal? A voz e a melodia da Barbara.",
+        "ru": "Именная карта.\\nМелодия Барбары словно целебный родник: поставит на ноги и утолит вашу жажду.",
+        "th": "ลายนามบัตร\\nของอะไรที่ไหลได้งั้นเหรอ? สายน้ำแห่งการรักษา กับเสียงเพลงและท่วงทำนองของ Barbara ไงล่ะ",
+        "vi": "Hoa văn danh thiếp.\\nThứ gì có dòng chảy? Suối nguồn trị liệu cũng như tiếng hát hài hòa của Barbara."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Marionette Core",
+        "de": "Marionettenkern",
+        "chs": "魔偶机心",
+        "cht": "魔偶機心",
+        "es": "Engranaje Oni",
+        "fr": "Mécanisme oni",
+        "id": "Marionette Core",
+        "jp": "魔偶の芯",
+        "kr": "꼭두각시 부품",
+        "pt": "Núcleo de Marionete",
+        "ru": "Ядро марионетки",
+        "th": "Marionette Core",
+        "vi": "Lõi Marionette"
+    },
+    "id": 113022,
+    "materialDesc": {
+        "en": "This core can power the inorganic Maguu Kenki and cause it to wield a blade like a living being.\\nFlesh decays, and with it decay all martial arts mastery and all poignant memories.\\nPerhaps only by converting one's four limbs and body into sturdy mechanical parts, and by at last sacrificing one's very own heart for a sophisticated mechanical one, can one transcend the impermanence of the fleshly form...",
+        "de": "Dieser Kern kann die anorganischen Maguu Kenki mit Energie versorgen und sie dazu bringen, dass sie ihre Klingen wie ein lebendes Wesen führen.\\nFleisch vergeht und so auch Kampffähigkeiten und Erinnerung, egal wie meisterhaft oder wunderbar.\\nVielleicht kann man nur durch das Ersetzen aller vier Gliedmaßen und des Rumpfes durch robuste mechanische Teile und durch das Austauschen des eigenen Herzens mit einem ausgeklügelten mechanischen Gegenstück wirklich die Vergänglichkeit des Fleisches hinter sich lassen und sich der Ewigkeit nähern ...",
+        "chs": "能够驱动无机质的机关魔偶剑鬼，使它如同生者一般挥舞刀剑的核心。\\n无论是如何精湛的武艺、多么美丽的记忆，也会随着肉体的衰败而凋零。\\n恐怕只有将自己的四肢、躯体都换成牢固的机关，最终将心脏换成精密的「机心」，才能比凡骨肉胎更加接近永恒吧…",
+        "cht": "能夠驅動無機質的機關魔偶劍鬼，使它如同生者一般揮舞刀劍的核心。\\n無論是如何精湛的武藝、多麼美麗的記憶，也會隨著肉體的衰敗而凋零。\\n恐怕只有將自己的四肢、軀體都換成牢固的機關，最終將心臟換成精密的「機心」，才能比凡骨肉胎更加接近永恆吧…",
+        "es": "El núcleo que permite al Oni Espadachín, una máquina sin vida propia, moverse y blandir su espada como alguien vivo.\\nPor muy diestro que sea en las artes marciales o por muchos bellos recuerdos que conserve, este núcleo siempre acabará deteriorándose, igual que cualquier cuerpo humano.\\nSolo será posible estar más cerca de la eternidad si las cuatro extremidades y el cuerpo se convierten en una resistente máquina y el corazón en un preciso engranaje.",
+        "fr": "Un noyau pouvant alimenter le mécanisme de la Lame oni, et lui permettant de manier une épée tel un être autonome.\\nLa chair se décompose, et avec elle le souvenir des arts martiaux, quels qu'en soient la maîtrise et le raffinement.\\nPeut-être qu'est-ce seulement en convertissant ses quatre membres et son corps en pièces mécaniques, et en sacrifiant son cœur pour un mécanisme sophistiqué que l'on peut transcender la chair et approcher l'éternité...",
+        "id": "Inti ini bisa memberikan tenaga pada Maguu Kenki yang terbuat dari materi anorganik dan membuatnya bisa menggunakan pedang seperti makhluk hidup.\\nTubuh manusia akan menua, dan segala ilmu bela diri dan ingatan dalam tubuh itu perlahan akan menghilang, tidak peduli seberapa hebat atau indahnya.\\nMungkin kita hanya bisa mendekati keabadian dengan cara mengubah anggota tubuh kita menjadi bagian mesin yang kokoh, dan mengorbankan jantung kita menjadi sebuah jantung dari mesin...",
+        "jp": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
+        "kr": "무기물인 꼭두각시 검귀를 구동 시킬 수 있다, 그가 살아 있는 것처럼 검을 사용할 수 있게 하는 핵심 부품이다.\\n아무리 뛰어난 무예와 아름다운 기억이라도, 육체의 쇠락과 함께 시들어 버린다.\\n자신의 팔다리와 신체 모두를 단단한 기관으로 바꾼다 하더라도, 결국 심장을 정교한 「부품」으로 바꿔야, 일반적인 육체가 다가가기 힘든 영원에 가까워질 수 있지 않을까…",
+        "pt": "Um núcleo que propele o Maguu Kenki. Seu uso é o que permite que ele branda uma espada como se fosse uma criatura viva.\\nNão importa o quão exímio seja nas artes marciais, ou quantas belas memórias possua, seu corpo inevitavelmente se deteriorará com o tempo, tal como a carne humana.\\nTeme-se que só é possível se aproximar da eternidade se os quatro membros do corpo forem trocados por firmes engrenagens, e se o coração for substituído por um preciso mecanismo.",
+        "ru": "Ядро, которое позволяет мечнику магу кэнки, безжизненной машине, двигаться и размахивать мечом как живому человеку.\\nНеважно, насколько он искусен в боевых искусствах или сколько прекрасных воспоминаний хранит, он всегда будет разрушаться, как и любое человеческое тело.\\nПожалуй, только превратив свои конечности и тело в прочные механические части и пожертвовав собственным сердцем ради сложного механического, можно преодолеть бренную плоть и приблизиться к вечности...",
+        "th": "แกนกลางที่ทำให้หุ่นกลที่ไร้ชีวิตอย่าง Maguu Kenki สามารถเคลื่อนไหวและใช้ดาบได้เหมือนกับมนุษย์\\nไม่ว่าจะต่อสู้ได้เก่งกาจแค่ไหน หรือจะมีความทรงจำที่สวยงามเพียงใด มันก็จะเสื่อมโทรมไปตามร่างกายอย่างหลีกเลี่ยงไม่ได้\\nเกรงว่าคงมีแค่การเปลี่ยนแขนขาทั้งสี่และร่างกายให้กลายเป็นกลไก และเปลี่ยนหัวใจให้เป็นหัวใจจักรกลเท่านั้น ถึงจะสามารถเข้าใกล้ความเป็นอมตะได้มากกว่าร่างกายของมนุษย์...",
+        "vi": "Có thể khởi động Maguu Kenki, khiến nó có thể vung đao múa kiếm như con người.\\nBất luận võ nghệ tinh túy như thế nào, ký ức đẹp đẽ ra sao, thì cũng sẽ tan biến cùng cảm giác đau đớn của xác thịt.\\nE rằng chỉ khi biến tứ chi, cơ thể thành người máy kiên cố, ngay cả con tim cũng biến thành \"Tim Máy\" tinh xảo, mới có thể đến gần với sức mạnh vĩnh hằng..."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

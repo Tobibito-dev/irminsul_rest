@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starsilver",
+        "de": "Sternsilbererz",
+        "chs": "星银矿石",
+        "cht": "星銀礦石",
+        "es": "Argento estelar",
+        "fr": "Minerai d'argétoile",
+        "id": "Starsilver",
+        "jp": "星銀鉱石",
+        "kr": "성은 광석",
+        "pt": "Minério de Prata Estrelada",
+        "ru": "Руда звёздного серебра",
+        "th": "Starsilver",
+        "vi": "Quặng Tinh Ngân"
+    },
+    "id": 101006,
+    "materialDesc": {
+        "en": "A rare and precious ore formed by the unique geographical conditions and Ley Lines of Dragonspine.",
+        "de": "Ein seltenes und wertvolles Erz, das durch die einzigartigen geografischen Bedingungen und den Fluss der Elemente am Drachengrat gebildet wurde.",
+        "chs": "因为龙脊雪山的特殊地理环境与地脉，而产生的珍稀矿石。",
+        "cht": "因為龍脊雪山的特殊地理環境與地脈，而產生的珍稀礦石。",
+        "es": "Un preciado mineral formado gracias a la geografía, el entorno y las líneas ley especiales de Espinadragón.",
+        "fr": "Ce minerai précieux est le produit des lignes énergétiques et de l'environnement particulier des Monts Dosdragon.",
+        "id": "Mineral langka yang muncul karena karakteristik geografis dan ley line yang unik di Dragonspine.",
+        "jp": "ドラゴンスパインの特殊な地理環境と地脈により生成された珍しい鉱石。",
+        "kr": "드래곤 스파인의 특수한 자연환경과 지맥에 의해 생성된 진귀한 광석이다",
+        "pt": "Um minério raro e precioso formado pelas condições geográficas e Linhas Ley únicas da Espinha do Dragão.",
+        "ru": "Редкая и очень ценная руда, образовавшаяся благодаря географическим условиям и артериям земли Драконьего хребта.",
+        "th": "แร่หายากและล้ำค่าที่เกิดจาก สภาพแวดล้อมและกระแสพลังงานที่ค่อนข้างพิเศษของ Dragonspine",
+        "vi": "Bởi vì môi trường địa lý đặc biệt và địa mạch của Long Tích Tuyết Sơn, các loại quặng quý hiếm đã được tạo ra."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

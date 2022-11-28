@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Barbara's Stella Fortuna",
+        "de": "Stella Fortuna von Barbara",
+        "chs": "芭芭拉的命星",
+        "cht": "芭芭拉的命星",
+        "es": "Stella Fortuna de Bárbara",
+        "fr": "Stella Fortuna de Barbara",
+        "id": "Barbara's Stella Fortuna",
+        "jp": "バーバラの星屑",
+        "kr": "바바라의 운명의 별",
+        "pt": "Stella Fortuna de Barbara",
+        "ru": "Удача Барбары",
+        "th": "ดวงดาวแห่งชีวิตของ Barbara",
+        "vi": "Chòm Sao Của Barbara"
+    },
+    "id": 1114,
+    "materialDesc": {
+        "en": "Barbara's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Barbaras Sternbild",
+        "chs": "芭芭拉的命之座激活素材",
+        "cht": "芭芭拉的命之座啟用素材。",
+        "es": "Material de activación de constelación de Bárbara",
+        "fr": "Matériau d'activation de la constellation de Barbara.",
+        "id": "Material aktivasi untuk konstelasi Barbara",
+        "jp": "バーバラの命ノ星座アンロック用素材",
+        "kr": "바바라의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna da Barbara",
+        "ru": "Материал для активации созвездия Барбары.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Barbara",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Barbara"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

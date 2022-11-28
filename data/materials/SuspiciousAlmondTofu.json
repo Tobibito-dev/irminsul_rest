@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Almond Tofu",
+        "de": "Misslungener Mandeltofu",
+        "chs": "奇怪的杏仁豆腐",
+        "cht": "奇怪的杏仁豆腐",
+        "es": "Tofu de almendras extraño",
+        "fr": "Tofu aux amandes (suspect)",
+        "id": "Suspicious Almond Tofu",
+        "jp": "微妙な杏仁豆腐",
+        "kr": "이상한 행인두부",
+        "pt": "Tofu de Amêndoas Estranho",
+        "ru": "Странный миндальный тофу",
+        "th": "Almond Tofu รสประหลาด",
+        "vi": "Đậu Hũ Hạnh Nhân Kỳ Lạ"
+    },
+    "id": 108080,
+    "materialDesc": {
+        "en": "A dessert made from ground almonds. The almond milk is chilled without being properly ground and strained. You can only lie to yourself that its rough texture is what makes it special.",
+        "de": "Eine mit einer Soße aus Mandeln übergossene Süßspeise. Beim Zerstoßen der Mandeln hat man sich nicht genügend Zeit gelassen. Die groben Stückchen geben nur teilweise ihren Geschmack an den Rest des Gerichts weiter und müssen wohl als eine besondere Auslegung des Rezepts gedeutet werden.",
+        "chs": "杏仁磨浆制成的甜品。未将杏仁奶浆磨细便草草冷冻，只能欺骗自己颗粒感也属一大特色。",
+        "cht": "杏仁磨漿製成的甜品。未將杏仁奶漿磨細便草草冷凍，只能欺騙自己顆粒感也屬一大特色。",
+        "es": "Postre elaborado a base de almendras trituradas. La leche de almendras se ha enfriado sin haber molido y colado las almendras adecuadamente. Con esa sensación grumosa no te podrás engañar ni a ti mismo.",
+        "fr": "Un dessert à base d'amandes. Ces dernières ont été grossièrement moulues et leur lait n'a pas été filtré. La texture granulée de ce dessert le rend spécial... du moins, c'est ce que vous croyez.",
+        "id": "Makanan penutup yang terbuat dari almond. Susu almondnya didingankan tanpa benar-benar digiling dan disaring. Kamu hanya membohongi diri sendiri jika kamu bilang teksturnya yang kasar yang membuat rasanya enak.",
+        "jp": "杏仁が原材料のデザート。手抜きしたため、口触りはあまり良くない。",
+        "kr": "행인을 갈아 만든 디저트. 행인 요거트를 더 부드럽게 갈지 않고 대충 굳힌다. 그립감도 요리 나름의 특징이라며 자기 최면을 건다",
+        "pt": "Uma sobremesa feita com amêndoas trituradas. O leite de amêndoas foi resfriado sem ser adequadamente moído e coado. Você só pode mentir para si mesmo que sua textura áspera é o que a torna especial.",
+        "ru": "Десерт из молотого миндаля. Охлаждённое миндальное молоко, приготовленное без предварительного размола и давления. Продолжайте говорить себе, что особенным его делает грубая текстура.",
+        "th": "นำอัลมอนด์มาบดและทำให้เป็นซอส หวาน น้ำซอสถูกทำให้เย็นลง โดยที่ยังไม่ได้บดอัลมอนด์ให้ละเอียด คงทำได้แค่หลอกตัวเองว่าพวกเม็ด ๆ ที่เหลือนี้เป็นเอกลักษณ์อย่างนึง",
+        "vi": "Đồ ngọt được làm từ nước cốt hạnh nhân. Chưa xay nhuyễn hạnh nhân đã vội vàng đem làm lạnh, cuối cùng đành tự lừa dối bản thân rằng những hạt lổn nhổn kia cũng là một điểm đặc sắc."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

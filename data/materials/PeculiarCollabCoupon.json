@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Peculiar Collab Coupon",
+        "de": "Schein der wundersamen Bande",
+        "chs": "奇趣协力券",
+        "cht": "奇趣協力券",
+        "es": "Cupón peculiar",
+        "fr": "Coupon secret",
+        "id": "Peculiar Collab Coupon",
+        "jp": "メルヒェンチケット",
+        "kr": "기묘한 협력 티켓",
+        "pt": "Cupom de Colaboração Peculiar",
+        "ru": "Купон дружбы",
+        "th": "Peculiar Collab Coupon",
+        "vi": "Vé Trợ Giúp Kỳ Thú"
+    },
+    "id": 119,
+    "materialDesc": {
+        "en": "Take part in the Windblume Festival event Domain to obtain these coupons and exchange them in the event shop for rewards.\\nThis Domain of exceeding peculiarity is also part of the Windblume Festival celebrations, and it displays the fun-loving nature of Mondstadt's people.",
+        "de": "Nimm während des Windblumenfestes an Herausforderungen teil, um diese Coupons zu erhalten, und tausche sie beim Aktionshändler gegen Belohnungen ein.\\nDiese Sphäre der äußersten Besonderheit ist ebenfalls Teil des Windblumenfestes und zeigt die lebenslustige Natur der Mondstädter.",
+        "chs": "参加风花节期间的挑战活动，可以获得的奖励票券。在活动期间，可以用来兑换奖品。\\n将极为特殊的秘境，也作为风花节庆典的一部分，蒙德人的乐天天性可见一斑。",
+        "cht": "參加風花節期間的挑戰活動，可以獲得的獎勵票券。在活動期間，可以用來兌換獎品。\\n將極為特殊的秘境，也作為風花節慶典的一部分，蒙德人的樂天天性可見一斑。",
+        "es": "Participa en las actividades de celebración del Festival de las Flores de Viento para obtener estos cupones y canjearlos por recompensas en la tienda del evento.\\nEste dominio tan peculiar también es parte de las celebraciones del Festival de las Flores de Viento, y muestra la naturaleza alegre y desenfadada de las gentes de Mondstadt.",
+        "fr": "Coupon s'obtenant en participant aux défis de la Fête des alizées, échangeable pendant l'événement contre des récompenses.\\nLe Jardin secret est un donjon très particulier faisant partie de la Fête des alizées, preuve s'il en fallait que les Mondstadtois aiment s'amuser.",
+        "id": "Ikut sertalah dalam berbagai tantangan yang terdapat selama Festival Windblume berlangsung untuk mendapatkan tiket ini dan menukarnya di toko event dengan berbagai hadiah.\\nDomain dengan keunikan yang luar biasa ini juga merupakan bagian dari perayaan Festival Windblume dan menunjukkan sifat orang-orang Mondstadt yang suka bersenang-senang.",
+        "jp": "風花祭の挑戦に参加すると獲得できるチケット。イベント期間中、さまざまな報酬と交換できる。\\n極めて特殊な秘境でさえも、風花祭ではその一部となる。モンド人の陽気さを改めて認識できるお祭りだ。",
+        "kr": "윈드블룸 축제의 도전 이벤트에 참여하면 얻을 수 있는 티켓. 이벤트 기간 동안 상품을 교환할 수 있다.\\n특수한 비경까지 윈드블룸 축제의 일부분으로 생각하며 즐기는 모습에서, 몬드인들의 낙천적인 성격을 엿볼 수 있다",
+        "pt": "Participe nas atividades de celebração do Festival da Brisa Florescente para obter esses tíquetes e trocá-los na Loja do Evento por recompensas.\\nEsse Domínio de grande peculiaridade também faz parte das celebrações do Festival da Brisa Florescente, e exibe a natureza amante da diversão do povo de Mondstadt.",
+        "ru": "Купоны, которые можно получить в награду на мероприятиях Праздника ветряных цветов. Во время события их можно обменивать на соответствующие награды.\\nЭто необычное подземелье тоже часть Праздника ветряных цветов. Оно демонстрирует оптимизм жителей Мондштадта.",
+        "th": "เข้าร่วมกิจกรรมท้าทายในเทศกาล Windblume และรับคูปองเหล่านี้ เพื่อไปแลกของรางวัลในช่วงกิจกรรม\\nดันเจี้ยนพิศวงนี้เป็นส่วนหนึ่งของการเฉลิมฉลองในเทศกาล Windblume แสดงให้เห็นถึงความรื่นเริงของชาว Mondstadt",
+        "vi": "Vé thưởng nhận được trong sự kiện Lễ Hội Hoa Gió, có thể dùng để đổi thưởng.\\nDùng bí cảnh đặc biệt để tổ chức sự kiện, sự lạc quan của người Mondstadt không lẫn vào đâu được."
+    },
+    "materialType": false
+}

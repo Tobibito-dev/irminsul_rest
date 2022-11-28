@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Whopperflower Nectar",
+        "de": "Vaniloqua-Nektar",
+        "chs": "骗骗花蜜",
+        "cht": "騙騙花蜜",
+        "es": "Néctar de Megaflora",
+        "fr": "Nectar de Fleur mensongère",
+        "id": "Whopperflower Nectar",
+        "jp": "トリックフラワーの蜜",
+        "kr": "구라구라 꽃꿀",
+        "pt": "Néctar da Flor Gigante",
+        "ru": "Нектар попрыгуньи",
+        "th": "Whopperflower Nectar",
+        "vi": "Mật Hoa Lừa Dối"
+    },
+    "id": 112038,
+    "materialDesc": {
+        "en": "Nectar extracted from the stamen of a Whopperflower that contains trace amounts of elemental energy.\\nThe taste of the nectar has a hint of Sweet Flower in it.",
+        "de": "Aus Staubblättern entnommener Nektar mit geringen Spuren von Elementen.\\nDer Geschmack erinnert stark an den von Zuckerblumen.",
+        "chs": "从花蕊中提取出的花蜜，其中含有少量元素。\\n尝起来和甜甜花的味道有些微妙地相似。",
+        "cht": "從花蕊中提取出的花蜜，其中含有少量元素。\\n嘗起來和甜甜花的味道有些微妙地相似。",
+        "es": "Néctar extraído del pistilo de una Megaflora. Contiene pequeñas cantidades de algunos elementos.\\nEl sabor del néctar recuerda un poco al de la flor dulce.",
+        "fr": "Nectar extrait du pistil d'une Fleur mensongère. Il contient des traces d'éléments.\\nSon goût rappelle celui de la fleur sucrante.",
+        "id": "Nektar yang diekstrak dari benang sari Whopperflower yang mengandung banyak jejak elemental.\\nSepintas rasanya mirip seperti Sweet Flower.",
+        "jp": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
+        "kr": "꽃술에서 추출된 꽃꿀엔 소량의 원소가 함유되어 있다.\\n먹어보면 달콤달콤꽃과 맛이 미묘하게 비슷하다",
+        "pt": "Néctar extraído do estame de uma Flor Gigante que contém quantidades vestigiais de elementos.\\nO sabor do néctar tem uma pitada de Flor Doce.",
+        "ru": "Нектар из цветов попрыгуньи с остаточным содержанием элементов.\\nВкус нектара имеет нотки цветка-сахарка.",
+        "th": "น้ำหวานซึ่งสกัดออกมาจากเกสรดอกไม้ มีธาตุปริมาณเล็กน้อยอยู่ภายใน\\nเมื่อชิมดูแล้วให้ความรู้สึกคล้ายกันกับ Sweet Flower อยู่เล็กน้อย",
+        "vi": "Mật lấy từ nhụy hoa, có chứa lượng nhỏ nguyên tố.\\nMùi vị gần giống với Hoa Ngọt."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

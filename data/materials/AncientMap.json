@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Map",
+        "de": "Archaische Karte",
+        "chs": "古旧地图",
+        "cht": "古舊地圖",
+        "es": "Mapa antiguo",
+        "fr": "Carte ancienne",
+        "id": "Peta Kuno",
+        "jp": "古い地図",
+        "kr": "오래된 지도",
+        "pt": "Mapa Antigo",
+        "ru": "Древняя карта",
+        "th": "แผนที่โบราณ",
+        "vi": "Bản Đồ Cổ"
+    },
+    "id": 120114,
+    "materialDesc": {
+        "en": "A map that you found in Taj's room. It shows the location of the Court of Desolation.",
+        "de": "Eine in Tajs Zimmer gefundene Karte. Auf ihr ist die Lage des Hofs der Trübsal markiert.",
+        "chs": "从塔杰房间内找到的地图，上面标有归寂之庭的位置。",
+        "cht": "從塔傑房間內找到的地圖，上面標有歸寂之庭的位置。",
+        "es": "Un mapa que encontraste en la casa de Taj. En él se muestra la ubicación de la Corte de la Desolación.",
+        "fr": "Une carte que vous avez trouvée dans la maison de Taj. Elle indique la position de la Cour de la désolation.",
+        "id": "Peta yang kamu temukan di kamar Taj. Menunjukkan lokasi Court of Desolation.",
+        "jp": "タージの家で見つけた地図。帰元ノ庭の場所が記されている。",
+        "kr": "타지의 방에서 찾은 지도. 귀적의 사원 위치가 표시되어 있다",
+        "pt": "Um mapa que você encontrou no quarto de Taj. Nele está marcada a localização da Corte da Desolação.",
+        "ru": "Карта, которую вы нашли в комнате Таджа. На ней показано расположение Чертога упокоения.",
+        "th": "แผนที่ที่พบในห้องของ Taj ด้านบนมีการทำสัญลักษณ์ตำแหน่งของโถงแห่งความเงียบงันเอาไว้",
+        "vi": "Bản đồ tìm được trong phòng của Taj, bên trên có đánh dấu vị trí của Sảnh Đường Phiền Muộn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

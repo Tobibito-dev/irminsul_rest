@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Endora",
+        "de": "Endora",
+        "chs": "嫣朵拉",
+        "cht": "嫣朵拉",
+        "es": "Endora",
+        "fr": "Endora",
+        "id": "Endora",
+        "jp": "エンドラー",
+        "kr": "엔도라",
+        "pt": "Endora",
+        "ru": "Эндора",
+        "th": "Endora",
+        "vi": "Endora"
+    },
+    "id": 220023,
+    "materialDesc": {
+        "en": "Just a very curious Lochfolk who only wishes to see the world. Might actually get along very well with Mini Seelie: Dayflower, but please do not meld them together, thank you.",
+        "de": "Eine wahrlich sehr neugierige Okeanide, die nur die Welt sehen möchte. Könnte eigentlich sehr gut mit „Miniseelie – Taukraut“ auskommen, aber bitte verschmelze sie nicht miteinander, danke.",
+        "chs": "只是一个仍然好奇的纯水精灵，只想要看看世界。说不定和「迷你仙灵·露草」很合得来。不可以把它融合掉哦。",
+        "cht": "只是一個仍然好奇的純水精靈，只想要看看世界。說不定和「迷你仙靈·露草」很合得來。不可以把它融合掉哦。",
+        "es": "Una Oceánida que ansía ver el mundo. Tal vez se lleve muy bien con los Miniseelies rocío, ¡pero no los fusiones!",
+        "fr": "Endora n'est qu'une simple Océanide désireuse de voir le monde. Elle pourrait fort bien s'entendre avec la Mini-fée comméline. Mais interdiction de fusionner, merci.",
+        "id": "Seekor Lochfolk yang dipenuhi rasa ingin tahu tentang dunia ini. Sepertinya mereka bisa akrab dengan Mini Seelie: Dayflower, tapi tolong jangan digabung menjadi satu ya.",
+        "jp": "好奇心旺盛な純水精霊、この世界を観察したいようだ。「小さな仙霊·露草」と融和性が高い。融合しないよう注意を払う必要があるだろう。",
+        "kr": "호기심 많은 물의 정령, 단지 세상을 보고 싶어 한다. 「작은 선령·노초」와 잘 맞을지도 모른다. 그렇다고 융합해버리진 말자",
+        "pt": "Uma Oceanid muito curiosa que deseja apenas ver o mundo. Pode se dar muito bem com um Mini Seelie - Flor Azul, mas não deixe que eles se fundam, por favor.",
+        "ru": "Всего лишь пытливое создание вод, которое пожелало увидеть мир. Она наверняка отлично поладит с малой феей Синеглазкой, вот только сливать их друг с другом не стоит.",
+        "th": "Lochfolk ขี้สงสัยที่อยากรู้อยากเห็นทุกสิ่งบนโลกใบนี้ ไม่แน่ว่าอาจจะเข้ากันได้ดีกับ Mini Seelie - Dayflower ก็เป็นได้ แต่อย่าเผลอเอามันหลอมรวมเข้าด้วยกันเชียวล่ะ",
+        "vi": "Chỉ là một Tinh Linh Nước Trong hiếu kỳ, chỉ muốn ngắm nhìn thế giới. Nói không chừng rất hợp với \"Tiên Linh Nhỏ Bé - Cỏ Sương\" đó. Nhưng đừng để chúng dung hợp lại nhé."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

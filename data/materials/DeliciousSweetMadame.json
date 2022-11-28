@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Sweet Madame",
+        "de": "Leckeres süß mariniertes Hühnchen",
+        "chs": "美味的甜甜花酿鸡",
+        "cht": "美味的甜甜花釀雞",
+        "es": "Pollo asado con miel delicioso",
+        "fr": "Poulet mariné aux fleurs sucrantes (délicieux)",
+        "id": "Delicious Sweet Madame",
+        "jp": "美味しそうな鳥肉のスイートフラワー漬け焼き",
+        "kr": "맛있는 달콤달콤 닭고기 스튜",
+        "pt": "Frango Assado com Mel Delicioso",
+        "ru": "Вкусный цыплёнок в медовом соусе",
+        "th": "Sweet Madame แสนอร่อย",
+        "vi": "Gà Nấu Hoa Ngọt Ngon"
+    },
+    "id": 108033,
+    "materialDesc": {
+        "en": "Honey-roasted fowl. Tender and sweet, the meat has perfectly fused with the honey, ensuring the only thing left of this dish will be the cleanly-picked bones.",
+        "de": "Ein mariniertes und dann geschmortes Hühnchen. Das Hühnchen hat den süßen Geschmack vollständig aufgenommen. Die Knochen werden sicher wie blankgeputzt aussehen.",
+        "chs": "蜜酿后烤熟的禽肉。肉质如同流蜜一般香甜软糯，叫人想把每一根骨头都吮吸干净。",
+        "cht": "蜜釀後烤熟的禽肉。肉質如同流蜜一般香甜軟嫩，讓人想把每一根骨頭都吮吸乾淨。",
+        "es": "Pollo asado con miel. Suave y dulce, la carne y la miel se combinan creando un sabor extremadamente delicioso. ¡Querrás comerte hasta los huesos!",
+        "fr": "Poulet rôti après marinade avec des fleurs sucrantes. La volaille a parfaitement absorbé le miel des fleurs sucrantes. Il n'en restera pas un seul morceau.",
+        "id": "Daging ayam panggang yang dilumuri madu. Lembut dan manis, rasa madu meresap dalam dagingnya dengan sempurna. Aromanya yang khas memastikan bahwa hidangan ini pasti hanya akan tersisa tulang saat disajikan.",
+        "jp": "蜜漬けにしてから焼いた鳥肉。肉質は蜜のように甘くて柔らかい。骨まできれいに食べたくなってしまうほど。",
+        "kr": "꿀에 버무려 구운 새고기. 입에서 살살 녹는 새고기에 달콤한 꽃향기까지! 접시까지 핥아 먹는다는 환상의 요리!",
+        "pt": "Um frango assado com mel. Macia e doce, a carne e o mel criam uma combinação que garante que a única coisa que vai sobrar são apenas os ossos limpinhos.",
+        "ru": "Мясо птицы, обжаренное в меду. Идеальный тандем мяса с мёдом гарантирует, что после ужина от этого блюда не останется ничего, кроме обглоданных дочиста косточек.",
+        "th": "เนื้อสัตว์ปีกอบน้ำผึ้ง ทั้งนุ่มและหวานฉ่ำ เนื้อของสัตว์ปีกที่ใช้ทำนั้นเข้ากันได้ อย่างสมบูรณ์กับน้ำผึ้ง แน่นอนว่าสิ่งที่เหลือจากจานนี้ มีเพียงกระดูกที่สะอาดเอี่ยมเท่านั้น",
+        "vi": "Thịt nướng chín sau khi tẩm ướp mật ong. Thịt mềm ngọt như mật, khiến cho người ta muốn ăn sạch sẽ cả xương."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

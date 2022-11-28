@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Route Log: II",
+        "de": "Logbucheintrag II",
+        "chs": "循路留书·其二",
+        "cht": "循路留書·其二",
+        "es": "Cuaderno de ruta (II)",
+        "fr": "Journal de route II",
+        "id": "Catatan Rute: II",
+        "jp": "順路の覚え書き·其の二",
+        "kr": "길 위에 남겨진 기록·두 번째",
+        "pt": "Caderno de Rota: II",
+        "ru": "Журнал маршрута II",
+        "th": "บันทึกเส้นทาง - 2",
+        "vi": "Thư Dọc Đường II"
+    },
+    "id": 101800,
+    "materialDesc": {
+        "en": "A log indicating how to find the clues, left by the ones who hid them. If you proceed as it directs, you may indeed find a clue regarding the treasure left by Ako Domeki and company. Still, this is, what, the second log you've found already? Hopefully, it can lead you directly to the clue this time.",
+        "de": "Wurde von den Leuten, welche die Hinweise versteckt haben hinterlassen. Damit sollte es einfach sein, die Hinweise zu finden. Wenn man der hier verzeichneten Route folgt, kann man bestimmt alle Hinweise zum Schatz der „Ako-Domeki-Bande“ finden. Auch wenn es schon die zweite Aufzeichnung ist, dass du gefunden hast, solltest du die Hoffnung nicht verlieren, dieses Mal direkt einen Hinweis zum Schatz zu finden.",
+        "chs": "藏起线索的人留下的，找到线索的方法。说不定按上面的指示行动，就能够找到「赤穗百目鬼一众」秘宝的线索。不过已经是第二张留书了，希望这次能直接找到线索。",
+        "cht": "藏起線索的人留下的，找到線索的方法。說不定按上面的指示行動，就能夠找到「赤穗百目鬼一眾」秘寶的線索。不過已經是第二張留書了，希望這次能直接找到線索。",
+        "es": "Quien escondió las pistas dejó indicaciones sobre cómo encontrarlas. Si navegas según las indicaciones, es posible que encuentres una de las pistas sobre la ubicación del tesoro de la banda de Ako Domeki. Este es el segundo cuaderno que encuentras, a ver si esta vez sí que contiene una pista directa para encontrar el tesoro.",
+        "fr": "Celui qui a caché les indices a laissé des instructions pour les trouver. Si vous suivez les indications, vous obtiendrez peut-être un indice sur l'emplacement du trésor de l'équipage d'Ako Domeki. C'est le deuxième journal de route que vous trouvez, espérons qu'il vous mène à un indice.",
+        "id": "Sebuah catatan yang menjelaskan cara menemukan petunjuk, ditinggalkan oleh orang yang menyembunyikan harta tersebut. Kalau kamu bergerak mengikuti instruksinya maka kamu mungkin benar-benar akan menemukan petunjuk harta karun Ako Domeki dan kawan-kawannya. Tapi ini yang kedua. Semoga saja ini bisa langsung menunjukkan petunjuknya.",
+        "jp": "手がかりを隠した人が残したもの。手がかりの探し方が書いてある。指示通り行動すれば、「赤穂百目鬼の一味」の隠した秘宝の手がかりが手に入るかもしれない。これで二枚目だ、次こそは手がかりを得られますように。",
+        "kr": "단서를 숨긴 자가 남긴, 단서를 찾는 방법이다. 위에 적힌 지시대로 행동하면 「아코 도메키 일당」이 남긴 보물의 단서를 찾을 수 있을지도 모른다. 벌써 두 번째 기록이다. 이번에는 곧바로 단서를 찾을 수 있으면 좋을 텐데…",
+        "pt": "Quem escondeu as pistas deixou instruções para encontrá-las. Se você proceder conforme as instruções, você poderá encontrar uma pista sobre o tesouro deixado pela gangue de Ako Domeki. Este é o segundo caderno que você encontra, esperemos que desta vez contenha uma pista direta para encontrar o tesouro.",
+        "ru": "Журнал, указывающий, как найти спрятанные подсказки. Если следовать ему, то можно найти подсказки о местонахождении сокровища, оставленного бандой Ако Домэки. Но это уже второй журнал, который вы нашли? Надеюсь, этот приведёт вас прямо к разгадке.",
+        "th": "วิธีการตามหาเบาะแส ที่ผู้ซ่อนเบาะแสทิ้งเอาไว้ ไม่แน่ว่าหากเคลื่อนไหวตามคำแนะนำที่อยู่ด้านบน อาจจะสามารถค้นพบเบาะแสสมบัติลับของ \"กลุ่ม Ako Domeki\" ก็เป็นได้ แต่นี่ก็เป็นบันทึกใบที่สองแล้ว หวังว่าครั้งนี้จะสามารถพบเบาะแสได้โดยตรงนะ",
+        "vi": "Cách tìm ra manh mối do chính người cất giấu manh mối đã để lại. Hành động theo chỉ dẫn trên đó nói không chừng sẽ tìm được manh mối kho báu của \"nhóm hải tặc Ako Domeki\". Nhưng đây đã là lá thư thứ hai rồi, hy vọng lần này có thể trực tiếp tìm thấy manh mối."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

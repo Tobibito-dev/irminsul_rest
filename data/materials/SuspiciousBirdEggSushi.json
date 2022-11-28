@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Bird Egg Sushi",
+        "de": "Misslungenes Vogelei-Sushi",
+        "chs": "奇怪的鸟蛋寿司",
+        "cht": "奇怪的鳥蛋壽司",
+        "es": "Sushi de huevo extraño",
+        "fr": "Sushi à l'œuf (suspect)",
+        "id": "Suspicious Bird Egg Sushi",
+        "jp": "微妙な鳥の玉子寿司",
+        "kr": "이상한 새알 초밥",
+        "pt": "Sushi de Ovo de Pássaro Estranho",
+        "ru": "Странные яичные суши",
+        "th": "Bird Egg Sushi รสประหลาด",
+        "vi": "Sushi Trứng Chim Kỳ Lạ"
+    },
+    "id": 108324,
+    "materialDesc": {
+        "en": "An everyday Inazuman dish. The egg roll was not beaten evenly and the vinegared rice was also over-seasoned... Even simple dishes leave no room for carelessness.",
+        "de": "Ein alltägliches Gericht aus Inazuma. Die Eier der Eierrolle wurden nicht gleichmäßig gerührt und auch der Essigreis war überwürzt ... Selbst einfache Gerichte lassen keinen Raum für Nachlässigkeiten.",
+        "chs": "稻妻的家常料理之一。制作鸟蛋烧时没有搅拌均匀，醋饭的调味也稍显过头…看来再简单的料理也不能掉以轻心。",
+        "cht": "稻妻的家常料理之一。製作鳥蛋燒時沒有攪拌均勻，醋飯的調味也稍顯過頭…看來再簡單的料理也不能掉以輕心。",
+        "es": "Una comida cotidiana de Inazuma. Los huevos no se han batido bien y el arroz avinagrado está sobrecondimentado. Ay... ¡ni los platos más fáciles se pueden hacer sin cuidado!",
+        "fr": "Un plat typique d'Inazuma fait maison. Les ingrédients n'ont pas été bien mélangés lors de la préparation de l'omelette roulée et le riz est un tantinet trop assaisonné... Les plats simples ne doivent pas être pris à la légère.",
+        "id": "Makanan sehari-hari rakyat Inazuma. Telur gulung yang dikocok dengan tidak merata dan nasi yang diberi cuka dengan bumbu yang terlalu banyak... Bahkan hidangan sederhana pun tidak dapat luput dari kecerobohan.",
+        "jp": "稲妻の家庭料理の一つ。鳥卵の玉子焼きを作る時、卵をよくかき混ぜていなかったようで、酢飯の味付けも少し濃すぎた…いくら簡単な料理でも適当に扱ってはいけないようだ。",
+        "kr": "이나즈마의 가정식 중 하나. 새알말이를 제작할 때 골고루 섞지 않았고, 초밥의 간도 다소 과하다… 아무리 간단한 요리라도 방심은 금물이다",
+        "pt": "Um prato cotidiano de Inazuma. O ovo não foi batido uniformemente e o arroz com vinagre também foi excessivamente temperado... Mesmo os pratos mais simples não deixam espaço para o descuido.",
+        "ru": "Обычное инадзумское блюдо. Яйца были взбиты неравномерно, а рис немного пересолен... Даже в простых блюдах нет места небрежности.",
+        "th": "หนึ่งในเมนูประจำบ้านของชาว Inazuma ตอนที่ทำไข่ม้วนไม่ได้ตีไข่ให้เข้ากันดี และข้าวซูชิก็เปรี้ยวเกินไปหน่อย... ต่อให้เป็นอาหารเมนูง่าย ๆ ก็จะทำอย่างลวก ๆ ไม่ได้นะ",
+        "vi": "Một trong những món ăn thường ngày của Inazuma. Đảo không đều tay khi làm món trứng chiên, gia vị cơm dấm cũng hơi quá tay...Có vẻ như nấu những món thật đơn giản cũng không thể lơ là."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

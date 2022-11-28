@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stone Slate",
+        "de": "Schiefertafel",
+        "chs": "石板",
+        "cht": "石板",
+        "es": "Losa de piedra",
+        "fr": "Dalle en pierre",
+        "id": "Batu Tulis",
+        "jp": "石板",
+        "kr": "석판",
+        "pt": "Placa de Pedra",
+        "ru": "Каменная плита",
+        "th": "กระดานหิน",
+        "vi": "Phiến Đá"
+    },
+    "id": 100977,
+    "materialDesc": {
+        "en": "A stone slate with Ishine Script carved into it.\\nPerhaps it may be of some use on Tsurumi Island...?",
+        "de": "Eine Schiefertafel, in die die Ishine-Schrift eingemeißelt ist. \\nVielleicht kann sie auf Tsurumi von Nutzen sein ...",
+        "chs": "刻画了「石根文字」的石板。\\n或许能在鹤观的某些地方派上用场吧…？",
+        "cht": "刻畫了「石根文字」的石板。\\n或許能在鶴觀的某些地方派上用場吧…？",
+        "es": "Una losa de piedra con una inscripción Ishine.\\nSeguramente se pueda usar en algún lugar de la Isla Tsurumi.",
+        "fr": "Une dalle en pierre sur laquelle est gravée une inscription en script Ishine.\\nElle pourrait s'avérer utile sur l'Île de Tsurumi.",
+        "id": "Lempengan batu dengan ukiran Aksara Ishine.\\nMungkin bisa digunakan untuk sesuatu di Pulau Tsurumi ...?",
+        "jp": "「イシネ文字」が刻まれた石板。\\n鶴観のどこかで役に立てるかもしれない…",
+        "kr": "「이시네 문자」가 새겨진 석판이다.\\n츠루미의 어딘가에 이 석판을 유용하게 쓸 수 있는 곳이 있지 않을까…?",
+        "pt": "Uma placa de pedra com a Escritura Ishine entalhada nela.\\nTalvez ela possa ser utilizada em algum local da Ilha Tsurumi...?",
+        "ru": "Каменная плита с вырезанными на ней письменами Исинэ.\\nВозможно, она пригодится на острове Цуруми...",
+        "th": "กระดานหินที่มี \"อักษร Ishine\" สลักอยู่\\nบางทีมันอาจจะมีประโยชน์ในบางสถานที่ในเกาะ Tsurumi นะ...?",
+        "vi": "Phiến đá có khắc \"Văn Tự Ishine\".\\nCó lẽ sẽ phát huy tác dụng ở một nơi nào đó tại Đảo Tsurumi...?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

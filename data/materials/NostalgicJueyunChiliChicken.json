@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nostalgic Jueyun Chili Chicken",
+        "de": "Kalte Geflügelhäppchen wie früher",
+        "chs": "童年风味香嫩椒椒鸡",
+        "cht": "童年風味香嫩椒椒雞",
+        "es": "Pollo al chile Jueyun nostálgico",
+        "fr": "Poulet pimenté de Jueyun nostalgique",
+        "id": "Jueyun Chili Chicken dengan Rasa Masa Kecil",
+        "jp": "懐かしい味の椒椒鶏",
+        "kr": "동심 담긴 절운고추 치킨",
+        "pt": "Frango de Pimenta de Jueyun com Cheiro de Juventude",
+        "ru": "Острая курица из детских воспоминаний",
+        "th": "Nostalgic Jueyun Chili Chicken",
+        "vi": "Gà Cay Thơm Mềm hương vị tuổi thơ"
+    },
+    "id": 100682,
+    "materialDesc": {
+        "en": "Jueyun Chili Chicken made personally by Little Wu. According to him, it captures the taste of his youth perfectly, and though Big G will not be able to enjoy it, he may yet remember some of the happiness of his youth.",
+        "de": "Kalte Geflügelhäppchen, persönlich zubereitet vom kleinen Wu. Er behauptet, dass sie den Geschmack seiner Jugend perfekt einfangen, und auch wenn Brummi sie nicht kosten kann, werden in ihm vielleicht doch glückliche Erinnerungen seiner Jugend geweckt.",
+        "chs": "小五亲手制作的香嫩椒椒鸡，据他所说完美还原了童年时候的风味，虽然狼哥应该无法享用，但也能由此回忆起当年小小的幸福吧。",
+        "cht": "小五親手製作的香嫩椒椒雞，據他所說完美還原了童年時候的風味，雖然狼哥應該無法享用，但也能由此回憶起當年小小的幸福吧。",
+        "es": "Un pollo al chile Jueyun hecho por el Pequeño Wu. Según él, captura a la perfección el sabor de su infancia y, aunque el Temible Lang no pueda apreciarlo, quizás le recuerde algo de la felicidad de su niñez.",
+        "fr": "Un poulet pimenté de Jueyun préparé spécialement par Petit Wu. Il capture les saveurs de son enfance à la perfection et bien que P'tit Costaud ne puisse y goûter, cela lui rappellera certainement de bons moments.",
+        "id": "Jueyun Chili Chicken yang dibuat khusus oleh Little Wu. Menurut Little Wu, rasanya sama persis dengan yang dia makan sewaktu masih kecil. Meskipun Big G tidak bisa mencicipinya, tapi mungkin dia bisa mengenang masa kecilnya yang bahagia.",
+        "jp": "子供の頃の味を完璧に復刻したと言う、小五手作りの椒椒鶏。狼兄貴は食べられないが、昔の小さな幸せを思い出させるだろう。",
+        "kr": "동오가 손수 제작한 절운고추 치킨. 그의 말에 의하면 소싯적의 맛을 완벽하게 재현했다고 한다. 비록 대범이는 먹을 수 없지만 그에게 소소한 추억이 되어줄 것이다",
+        "pt": "Frango de Pimenta de Jueyun feito pelo Pequeno Wu. De acordo com ele, restaura o sabor da juventude. Apesar do Grande G não poder aproveita-lo, poderá se recobrar da felicidade do passado.",
+        "ru": "Острая курица на пару, приготовленная лично Маленьким У. По его словам, блюдо идеально передаёт вкус молодости, и хотя Большой Г не сможет насладиться его вкусом, он всё же будет способен вспомнить счастливые моменты из своего детства.",
+        "th": "Jueyun Chili Chicken ที่ Little Wu ทำเองกับมือ ว่ากันว่ามันมีรสชาติเหมือนกับที่เขาเคยกินตอนเด็ก ๆ ถึงแม้ Big G จะไม่ได้ลิ้มลอง แต่เขาก็สามารถหวนนึกถึง ความสุขในวัยเด็กของเขาได้จากที่นี่",
+        "vi": "Gà Cay Thơm Mềm do chính tay Wu làm, theo cậu ấy nói thì cậu ấy đã khôi phục hoàn hảo hương vị của tuổi thơ, mặc dù Big G không thể thưởng thức nó, nhưng cậu ấy cũng có thể nhớ lại niềm hạnh phúc trước đây."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

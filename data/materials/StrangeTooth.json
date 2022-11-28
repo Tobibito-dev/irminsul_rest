@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Tooth",
+        "de": "Merkwürdiger Zahn",
+        "chs": "奇异的「牙齿」",
+        "cht": "奇異的「牙齒」",
+        "es": "Colmillo extraño",
+        "fr": "Dent étrange",
+        "id": "Gigi Aneh",
+        "jp": "奇妙な「牙」",
+        "kr": "기이한 「이빨」",
+        "pt": "Dente Estranho",
+        "ru": "Необычный клык",
+        "th": "\"เขี้ยว\" ประหลาด",
+        "vi": "\"Chiếc Răng\" Kỳ Lạ"
+    },
+    "id": 100618,
+    "materialDesc": {
+        "en": "A Dragontooth you picked up in Dragonspine. Perhaps someone would know something more about it...",
+        "de": "Ein „Drachenzahn“, gefunden am Drachengrat. Ein gewisser Jemand, weiß vielleicht etwas damit anzufangen ...",
+        "chs": "从雪山上拾得的「牙齿」。也许有人会知道关于它的一些信息…",
+        "cht": "從雪山上拾得的「牙齒」。也許有人會知道關於它的一些資訊…",
+        "es": "Un colmillo recogido en Espinadragón. Tal vez alguien sepa algo sobre él...",
+        "fr": "Une étrange dent recueillie aux Monts Dosdragon. Peut-être que quelqu'un en sait plus à son sujet...",
+        "id": "Sebuah gigi yang ditemukan di atas gunung bersalju. Mungkin ada seseorang yang lebih mengerti tentang benda ini...",
+        "jp": "雪山で拾った「牙」。これについての情報を知っている人がいるかもしれない…",
+        "kr": "설산에서 습득한 「이빨」. 누군가가 관련된 정보를 알고 있을지도…",
+        "pt": "Um dente que você pegou na Montanha Nevada. Talvez alguém saiba algo sobre ele...",
+        "ru": "Найденный на Драконьем хребте клык дракона. Может, стоит расспросить о нём в базовом лагере...",
+        "th": "\"เขี้ยวมังกร\" ที่เก็บมาจากภูเขา Dragonspine บางทีอาจจะมีคนที่พอรู้ข้อมูลเกี่ยวกับมัน...",
+        "vi": "Chiếc răng nhặt được trên núi tuyết. Có lẽ sẽ có ai đó biết được chút thông tin về nó..."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

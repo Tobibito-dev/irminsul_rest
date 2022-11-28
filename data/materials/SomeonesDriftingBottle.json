@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Someone's Drifting Bottle",
+        "de": "Flaschenpost eines Unbekannten",
+        "chs": "某人的漂流瓶",
+        "cht": "某人的漂流瓶",
+        "es": "Botella a la deriva",
+        "fr": "Bouteille abandonnée",
+        "id": "Botol Hanyut Milik Seseorang",
+        "jp": "ある人の漂流瓶",
+        "kr": "누군가의 해류병",
+        "pt": "Garrafa à Deriva de Alguém",
+        "ru": "Чья-то дрейфующая бутылка",
+        "th": "Someone's Drifting Bottle",
+        "vi": "Bình trôi của ai đó"
+    },
+    "id": 100349,
+    "materialDesc": {
+        "en": "A hefty bottle that came drifting with the waves, carrying tokens of an old friendship and the hopes of being reunited.",
+        "de": "Eine schwere Flasche aus dickem Glas, die von den Wellen herangetragen wurde. Sie beinhaltet Erinnerungen an eine alte Freundschaft und die Hoffnung, eines Tages wieder vereint zu sein.",
+        "chs": "沉甸甸的漂流瓶，寄托了故友的信物与重聚的希望，随波逐流而来。",
+        "cht": "沉甸甸的漂流瓶，寄託了故友的信物與重聚的希望，隨波逐流而來。",
+        "es": "Una botella muy pesada en cuyo interior se encuentra la carta de un viejo amigo del dueño y un gran anhelo por reencontrarse. La botella ha llegado a la costa traída por las olas.",
+        "fr": "Une lourde bouteille apportée par les flots, portant le gage d'une vieille amitié et l'espoir de retrouvailles.",
+        "id": "Botol besar dan kuat yang hanyut terbawa ombak. Membawa tanda persahabatan lama dan harapan untuk bersatu kembali.",
+        "jp": "重みのある漂流瓶。古き友との絆と希望を背負い、波を漂ってここについた。",
+        "kr": "무거운 해류병. 옛 친구의 증표와 재회하고자 하는 희망이 담긴 채 파도를 따라 정처 없이 떠다닌다",
+        "pt": "Uma garrafa pesada que veio boiando com as ondas, carregando lembranças de uma velha amizade e a esperança de um reencontro.",
+        "ru": "Принесённая волнами большая бутылка. Она несёт в себе знаки древней дружбы и надежды на воссоединение.",
+        "th": "ขวดอันหนักอึ้งที่ลอยมาตามกระแสคลื่น มันเป็นสัญลักษณ์ของมิตรภาพเก่า ๆ และความหวังว่าจะได้กลับมารวมตัวกันอีกครั้ง",
+        "vi": "Chiếc bình nặng trĩu trôi dạt, mang theo tín vật của người bạn cũ và hy vọng đoàn tụ trôi theo dòng chảy."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

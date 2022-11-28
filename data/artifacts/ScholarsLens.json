@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Scholar's Lens",
+        "de": "Gelehrtenmonokel",
+        "chs": "学士的镜片",
+        "cht": "學士的鏡片",
+        "es": "Monóculo de la Erudita",
+        "fr": "Lunettes de l'Érudit",
+        "id": "Scholar's Glasses",
+        "jp": "学者のレンズ",
+        "kr": "학사의 렌즈",
+        "pt": "Lentes do Estudioso",
+        "ru": "Очки учёного",
+        "th": "Scholar's Glasses",
+        "vi": "Mảnh Kính Học Sĩ"
+    },
+    "id": 62534,
+    "setId": 10012,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

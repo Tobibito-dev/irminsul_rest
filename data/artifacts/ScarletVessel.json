@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Scarlet Vessel",
+        "de": "Krug mit dunkelroten Blumen",
+        "chs": "绯花之壶",
+        "cht": "緋花之壺",
+        "es": "Cáliz Escarlata",
+        "fr": "Gourde pourpre",
+        "id": "Scarlet Vessel",
+        "jp": "緋花の壺",
+        "kr": "진홍의 주전자",
+        "pt": "Ânfora das Flores Escarlates",
+        "ru": "Алый сосуд",
+        "th": "Scarlet Vessel",
+        "vi": "Bình Hoa Đào"
+    },
+    "id": 24801,
+    "setId": 15020,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

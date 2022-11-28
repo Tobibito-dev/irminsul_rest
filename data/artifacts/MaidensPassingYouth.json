@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Maiden's Passing Youth",
+        "de": "Morgen der Maid",
+        "chs": "少女苦短的良辰",
+        "cht": "少女苦短的良辰",
+        "es": "Juventud Pasajera de la Doncella",
+        "fr": "Petit matin de la Demoiselle",
+        "id": "Maiden's Passing Youth",
+        "jp": "少女の短い華年",
+        "kr": "소녀의 짧은 행복",
+        "pt": "Juventude Passageira da Donzela",
+        "ru": "Уходящая молодость юной девы",
+        "th": "Maiden's Passing Youth",
+        "vi": "Thời Gian Chờ Đợi Của Thiếu Nữ"
+    },
+    "id": 24795,
+    "setId": 14004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

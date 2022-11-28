@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pale Blue Crystal",
+        "de": "Bläulicher Kristall",
+        "chs": "浅蓝色的水晶",
+        "cht": "淺藍色的水晶",
+        "es": "Cristal azul claro",
+        "fr": "Cristal bleu clair",
+        "id": "Kristal Biru Muda",
+        "jp": "水色の水晶",
+        "kr": "연푸른빛 수정",
+        "pt": "Cristal Azul Claro",
+        "ru": "Светло-синий кристалл",
+        "th": "Crystal สีฟ้าอ่อน",
+        "vi": "Pha Lê Màu Lam Nhạt"
+    },
+    "id": 100822,
+    "materialDesc": {
+        "en": "A crystal chunk that is pale blue all over, fair as the purest winter snow.",
+        "de": "Ein bläulicher Brocken Kristall, der so schön wie der reine Winterschnee ist.",
+        "chs": "美丽的水晶块，通体呈澄澈如纯净冬雪般的浅蓝色。",
+        "cht": "美麗的水晶塊，通體呈澄澈如純淨冬雪般的淺藍色。",
+        "es": "Un bello pedazo de cristal de color azul claro y tan puro y traslúcido como un copo de nieve de invierno.",
+        "fr": "Un morceau de cristal bleu clair, comme la neige d'hiver la plus pure.",
+        "id": "Bongkahan kristal yang indah, berwarna biru muda bagaikan salju di musim dingin.",
+        "jp": "美しい水晶。澄み透った冬の雪のような水色をしている。",
+        "kr": "아름다운 수정 덩어리. 전체적으로 투명하고 깨끗한 겨울 눈과 같은 연한 파랑색이다",
+        "pt": "Um belo pedaço de cristal de cor azul clara, puro e translúcido como a neve do inverno.",
+        "ru": "Красивый обломок кристалла. Великолепен, словно чистейший зимний снег.",
+        "th": "ก้อนคริสตัลที่สวยงาม ทั้งชิ้นเป็นสีฟ้าอ่อนสดใสราวกับหิมะที่บริสุทธิ์ในฤดูหนาว",
+        "vi": "Mảnh Pha Lê xinh đẹp, toát lên màu lam nhạt tựa tuyết đông đầu mùa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

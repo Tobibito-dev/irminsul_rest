@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lucky Dog's Goblet",
+        "de": "Glückskelch",
+        "chs": "幸运儿之杯",
+        "cht": "幸運兒之杯",
+        "es": "Cáliz del Afortunado",
+        "fr": "Coupe du Chanceux",
+        "id": "Lucky Dog's Goblet",
+        "jp": "幸運のコップ",
+        "kr": "행운아의 잔",
+        "pt": "Cálice do Sortudo",
+        "ru": "Кубок везунчика",
+        "th": "Lucky Dog's Goblet",
+        "vi": "Ly May Mắn"
+    },
+    "id": 61414,
+    "setId": 10011,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

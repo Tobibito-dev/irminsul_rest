@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Valberry",
+        "de": "Frische Valbeere",
+        "chs": "新鲜的落落莓",
+        "cht": "新鮮的落落莓",
+        "es": "Valbaya fresca",
+        "fr": "Tombaies fraîches",
+        "id": "Valberry Segar",
+        "jp": "新鮮なヴァルベリー",
+        "kr": "신선한 낙락베리",
+        "pt": "Valberries Frescas",
+        "ru": "Свежая валяшка",
+        "th": "Valberry สด ๆ",
+        "vi": "Quả Dâu Đỏ Tươi"
+    },
+    "id": 100764,
+    "materialDesc": {
+        "en": "A freshly picked Valberry. It would make a fine dye once mashed.",
+        "de": "Frisch gepflückte reife Valbeeren eignen sich hervorragend zum Färben.",
+        "chs": "刚刚采摘下的落落莓，捣碎后很适合用来染色。",
+        "cht": "剛剛採摘下的落落莓，搗碎後很適合用來染色。",
+        "es": "Una valbaya recién recogida. Una vez machacada, servirá como colorante.",
+        "fr": "Des tombaies fraîchement cueillies. Elles feront un bon colorant une fois écrasées.",
+        "id": "Valberry yang baru dipetik. Buah-buah ini akan memberikan pewarnaan yang baik setelah dihaluskan.",
+        "jp": "採りたてのヴァルベリー。潰すと染料として使える。",
+        "kr": "방금 채집한 낙락베리. 으깬 뒤 염료로 쓰기 좋다",
+        "pt": "Valberries recém-colhidas. Elas fazem uma bela tintura uma vez que amassadas.",
+        "ru": "Свежесобранные валяшки. Если их протереть, получится отменная краска.",
+        "th": "Valberry ที่เพิ่งเก็บมาสด ๆ หลังจากบดแล้วเหมาะที่จะใช้ย้อมสีอย่างมาก",
+        "vi": "Quả Dâu Đỏ vừa mới được hái xuống, sau khi giã nát rất thích hợp dùng để nhuộm."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

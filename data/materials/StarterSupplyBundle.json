@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starter Supply Bundle",
+        "de": "Hilfsgüterpaket für Anfänger",
+        "chs": "启程补给包",
+        "cht": "啟程補給包",
+        "es": "Paquete de suministros de principiante",
+        "fr": "Pack de ravitaillement du débutant",
+        "id": "Starter Supply Bundle",
+        "jp": "旅立ち補給パック",
+        "kr": "초심자 보급 패키지",
+        "pt": "Pacote de Suprimentos de Iniciante",
+        "ru": "Набор начала путешествия",
+        "th": "แพ็กไอเทมเริ่มต้น",
+        "vi": "Gói Tiếp Tế Khi Khởi Hành"
+    },
+    "id": 115010,
+    "materialDesc": {
+        "en": "Supplies the Guild has prepared for those who are yet inexperienced. They should be of great help to you.",
+        "de": "Einige Hilfsgüter der Gilde für noch Unerfahrene. Da sind einige wirklich nützliche Dinge für dich.",
+        "chs": "协会为涉世未深之人准备的一些补给。应该会帮到你很多。",
+        "cht": "#協會為涉世未深之人準備的一些補給。應該會幫到{F#妳}{M#你}很多。",
+        "es": "Suministros del Gremio de Aventureros para los más inexpertos. Seguro que te serán de gran ayuda.",
+        "fr": "Fournitures préparées par la Guilde pour les nouveaux venus. Elles devraient vous être grandement utiles.",
+        "id": "Persediaan yang dipersiapkan Guild untuk orang-orang yang belum berpengalaman. Seharusnya akan sangat membantumu.",
+        "jp": "協会が新米冒険者のために用意した補給品。色々と助かるはず。",
+        "kr": "길드에서 세상 물정을 모르는 사람을 위해 준비한 보급. 큰 도움이 될 것이다",
+        "pt": "Suprimentos da Guilda de Aventureiros para os menos experientes. Com certeza ajudarão bastante.",
+        "ru": "Припасы, подготовленные Гильдией искателей приключений для самых неподготовленных её членов. Вам они также могут пригодиться.",
+        "th": "ไอเทมที่กิลด์เตรียมไว้สำหรับผู้ที่อ่อนหัดเหล่านั้น น่าจะช่วยเธอได้มากทีเดียว",
+        "vi": "Món đồ tiếp tế mà hiệp hội dành cho những người trẻ tuổi. Có lẽ sẽ có ích với bạn."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

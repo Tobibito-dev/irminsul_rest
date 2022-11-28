@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Childe and Teucer's Mora Pouch",
+        "de": "Morabörse vom Grafen und Teucer",
+        "chs": "「公子」与托克的摩拉袋",
+        "cht": "「公子」與托克的摩拉袋",
+        "es": "Bolsa de Moras de Nobile y Teucer",
+        "fr": "Bourse de Teucer et Tartaglia",
+        "id": "Kantong Mora Teucer dan Childe",
+        "jp": "「公子」とテウセルのモラ袋",
+        "kr": "「타르탈리아」와 테우세르의 모라 주머니",
+        "pt": "Saco de Mora de Childe e Teucer",
+        "ru": "Мешочек с морой Тевкра и Чайльда",
+        "th": "ถุง Mora ของ Childe และ Teucer",
+        "vi": "Túi Mora của Teucer và Childe"
+    },
+    "id": 100555,
+    "materialDesc": {
+        "en": "Funds for Teucer's entertainment, provided by Childe, now mixed in with the stash you received from Teucer earlier...\\nThe face value of each of these gold coins is very large, but they can be redeemed for smaller change at the Northland Bank.",
+        "de": "Geldmittel, die du vom Grafen erhalten hast, damit sich Teucer amüsieren kann. Das ganze Geld ist nun vermischt mit dem, das Teucer dir vorher gegeben hatte.\\nDie Zahlen auf jeder Münze sind sehr groß. In der Bank des Nordens können die Münzen jedoch gegen Kleingeld eingetauscht werden.",
+        "chs": "「公子」提供的游玩经费，托克之前给过的那些摩拉也都混在了一起…\\n每枚金币的面值都很庞大，但可以在「北国银行」兑换成零钱。",
+        "cht": "「公子」提供的遊玩經費，托克之前給過的那些摩拉也都混在了一起…\\n每枚金幣的面值都很龐大，但可以在「北國銀行」兌換成零錢。",
+        "es": "Fondos para entretenimiento proporcionados por Nobile. Los Moras que te dio Teucer antes también están aquí.\\nEl valor nominal de cada una de estas monedas de oro es muy alto, pero se pueden canjear por monedas de menor denominación en el Banco del Reino del Norte.",
+        "fr": "Les fonds remis par Tartaglia pour couvrir les frais de Teucer sont maintenant mélangés à ceux que vous a confiés Teucer plus tôt...\\nLa valeur de chacune des pièces d'or est élevée, mais vous pouvez les échanger contre de la monnaie à la Banque du Nord.",
+        "id": "Dana untuk menghibur Teucer yang Childe berikan kepadamu, kini digabung dengan Mora yang sudah kamu terima dari Teucer sebelumnya...\\nNilai pecahan masing-masing uang ini sangat besar, tapi bisa ditukarkan dengan pecahan yang lebih kecil di Northland Bank.",
+        "jp": "「公子」が提供する旅行経費。テウセルからもらったモラも混ざっている…\\n金貨1枚の価値は高すぎるが「北国銀行」で小銭と交換できる。",
+        "kr": "「타르탈리아」가 제공한 놀이 경비. 테우세르가 전에 줬던 그 모라도 섞여있다….\\n금화 한 개당 액면가가 매우 높지만 「북국 은행」에서 잔돈으로 바꿀 수 있다",
+        "pt": "Os fundos para o entretenimento de Teucer proporcionados por Childe, agora misturados com o dinheiro que você recebeu de Teucer antes.\\nO valor nominal dessas moedas é muito grande, mas elas podem ser trocadas por moedas de menor valor no Banco do Norte.",
+        "ru": "Денежные средства, предоставленные вам Чайльдом и смешавшиеся теперь с теми, что до этого вам выдал Тевкр...\\nМонеты внутри очень большого номинала, но их можно разменять в Банке северного королевства.",
+        "th": "ค่าใช้จ่ายที่ \"Childe\" ให้มาได้ปนเปไปกับ Mora ที่ Teucer ให้มาก่อนหน้านั้น...\\nมูลค่าของเหรียญทองแต่ละเหรียญนั้นมากมายมหาศาล และสามารถแลกเงินย่อยได้ที่ \"Northland Bank\"",
+        "vi": "Chi phí du lịch do Childe cung cấp, bên trong có lẫn số Mora mà trước kia đưa cho bạn...\\nMỗi đồng tiền vàng đều có mệnh giá vô cùng lớn, có thể đổi sang tiền lẻ tại \"Ngân hàng Bắc Quốc\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

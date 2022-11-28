@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Arakanta's Flower",
+        "de": "Blume von Arakanta",
+        "chs": "兰犍多的花",
+        "cht": "蘭犍多的花",
+        "es": "Flor de Arakanta",
+        "fr": "Fleur d'Arakanta",
+        "id": "Bunga Arakanta",
+        "jp": "アランカンタの花",
+        "kr": "아란칸타의 꽃",
+        "pt": "Flor de Arakanta",
+        "ru": "Цветок Араканты",
+        "th": "ดอกไม้ของ Arakanta",
+        "vi": "Hoa Arakanta"
+    },
+    "id": 101830,
+    "materialDesc": {
+        "en": "A flower gifted by Arakanta.\\nArakanta used to love hanging out with Rishboland Tigers. But now, he has created a new game for his Nara friend.",
+        "de": "Eine von Arakanta geschenkte Blume.\\nArakanta liebte es früher, mit dem Rishboland-Tiger zu spielen, aber für seine Nara-Freunde hat er ein neues Spiel entwickelt.",
+        "chs": "兰犍多赠送的花儿。\\n原本似乎很喜欢与长鬓虎一起玩儿。但为了那菈朋友，创造了新的游戏。",
+        "cht": "蘭犍多贈送的花朵。\\n原本似乎很喜歡與長鬢虎一起玩。但為了那菈朋友，創造了新的遊戲。",
+        "es": "#Una flor que te dio Arakanta.\\nParece que antes le encantaba jugar con el caracal patilludo. Pero ahora creó un nuevo juego para su amig{F#a}{M#o} nara.",
+        "fr": "#Une fleur offerte par Arakanta.\\nArakanta avait l'habitude d'aller jouer avec les tigres rishbolands. Mais pour {M#son ami narien}{F#son amie narienne}, il a créé un nouveau jeu.",
+        "id": "Bunga yang diberikan oleh Arakanta.\\nArakanta dulunya suka bermain dengan Rishboland Tiger. Tapi sekarang, dia sudah membuat permainan baru untuk teman Nara-ku.",
+        "jp": "アランカンタから貰った花。\\n以前はリシュボラン虎と一緒に遊ぶのが好きだったアランカンタだが、今は友達のナラのために、新しいゲームを作る。",
+        "kr": "아란칸타가 선물한 꽃.\\n원래는 머리깃 호랑이와 노는 걸 좋아했던 것 같지만 나라 친구를 위해 새로운 게임을 만들었다",
+        "pt": "#Flor dada por Arakanta.\\nParecia gostar muito de brincar com o Caracal, mas por causa daquel{M#e Nara amigo}{F#a Nara amiga}, ele inventou um novo jogo.",
+        "ru": "Цветок, подаренный Аракантой.\\nПохоже, Араканта любил играть с тигром ришболандом. Но для своего друга-нары он придумал новую игру.",
+        "th": "ดอกไม้ที่ Arakanta มอบให้\\nดูเหมือนว่าเดิมทีจะชอบเล่นกับสมิงเครายาวมาก แต่เพื่อเพื่อน Nara แล้ว จึงได้ริเริ่มสร้างเกมใหม่ขึ้นมา",
+        "vi": "Hoa Arakanta tặng.\\nVốn dĩ rất thích chơi cùng Hổ Lông Dài. Nhưng vì bạn Nara nên nghĩ ra trò chơi mới."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

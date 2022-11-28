@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Tuna Sushi",
+        "de": "Misslungenes Thunfisch-Sushi",
+        "chs": "奇怪的金枪鱼寿司",
+        "cht": "奇怪的金槍魚壽司",
+        "es": "Sushi de atún extraño",
+        "fr": "Sushi au thon (suspect)",
+        "id": "Suspicious Tuna Sushi",
+        "jp": "微妙なマグロの握り寿司",
+        "kr": "이상한 참치 초밥",
+        "pt": "Sushi de Atum Estranho",
+        "ru": "Странные суши с тунцом",
+        "th": "Tuna Sushi รสประหลาด",
+        "vi": "Sushi Cá Ngừ Kỳ Lạ"
+    },
+    "id": 108249,
+    "materialDesc": {
+        "en": "A traditional dish made with one's bare hands. The color of the fish slices looks a little weird, and it's hard to tell if the problem here is the sour rice or the rank fish.",
+        "de": "Ein traditionelles Gericht, das man mit bloßen Händen zubereitet. Die Farbe der Fischscheiben sieht etwas seltsam aus und es ist schwer zu sagen, ob das Problem hier der saure Reis oder der ranzige Fisch ist.",
+        "chs": "徒手捏制的传统食物。鱼片的颜色看起来有些古怪，难以辨别米饭的酸味和鱼片的腥味哪个更重。",
+        "cht": "徒手捏製的傳統食物。魚片的顏色看起來有些古怪，難以辨別米飯的酸味和魚片的腥味哪個更重。",
+        "es": "Una comida tradicional que se hace con las manos. El pescado tiene un color tan extraño que no sabes cuál es el problema, si la acidez del arroz o el fuerte sabor del pescado.",
+        "fr": "Un plat traditionnel confectionné à mains nues. La couleur des tranches de poisson a l'air un peu bizarre, et il est difficile de dire si le problème vient du riz aigre ou de la qualité du poisson.",
+        "id": "Makanan tradisional yang dipadatkan dengan tangan. Warna potongan ikannya sedikit aneh. Aroma kuat yang terpancar darinya entah berasal dari nasi yang asam atau potongan ikan yang amis.",
+        "jp": "素手で握った伝統料理。上に乗せるネタは変色しており、お米の酸味とネタの生臭さ、どっちが強いかすら判別できない。",
+        "kr": "맨손으로 뭉친 전통 음식. 생선회의 색상이 다소 이상해 보인다. 쌀의 신맛과 생선회의 비린 맛의 우열을 자세히 가리기는 힘들다",
+        "pt": "Um prato tradicional feito com as próprias mãos. A cor das fatias de peixe parece um pouco estranha, e é difícil dizer se o problema é o arroz azedo ou o peixe rançoso.",
+        "ru": "Традиционное блюдо, вылепленное из клейкого риса. Ломтики рыбы приобрели странный цвет. Трудно сказать, что сильнее - запах прокисшего риса или прогорклой рыбы.",
+        "th": "อาหารแบบดั้งเดิมที่ปรุงด้วยมือ สีของเนื้อปลาดูแปลก ๆ เล็กน้อยและยากที่จะบอกว่าอันไหนเข้มข้นกว่ากันระหว่างความเปรี้ยวของข้าวหรือกลิ่นคาวของปลา",
+        "vi": "Món ăn truyền thống được nắn bằng tay. Màu sắc của miếng cá trông có vẻ kỳ lạ, không biết giữa vị chua của cơm và mùi tanh của cá thì cái nào quan trọng hơn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

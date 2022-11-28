@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Character EXP",
+        "de": "Figuren-EP",
+        "chs": "角色经验",
+        "cht": "角色經驗",
+        "es": "EXP de Personaje",
+        "fr": "EXP Personnage",
+        "id": "Character EXP",
+        "jp": "キャラクター経験値",
+        "kr": "캐릭터 경험치",
+        "pt": "EXP do Personagem",
+        "ru": "Опыт персонажа",
+        "th": "Character EXP",
+        "vi": "EXP Nhân Vật"
+    },
+    "id": 101,
+    "materialDesc": {
+        "en": "Character EXP, used to level up characters.",
+        "de": "Figuren-EP, wird zum Hochstufen von Figuren verwendet.",
+        "chs": "角色经验，用于提升角色等级",
+        "cht": "角色經驗，用於提升角色等級。",
+        "es": "EXP de Personaje, utilizada para subir el nivel del personaje.",
+        "fr": "L'EXP de personnage sert à augmenter le niveau des personnages.",
+        "id": "Character EXP, digunakan untuk meningkatkan level karakter.",
+        "jp": "キャラクター経験値。キャラクターLvUPに使用できる。",
+        "kr": "캐릭터 경험치. 캐릭터의 레벨을 올릴 때 필요하다",
+        "pt": "EXP do Personagem, usado para aprimorar os personagens.",
+        "ru": "Опыт персонажа используется для поднятия уровня персонажей.",
+        "th": "EXP ตัวละคร ใช้สำหรับเพิ่มเลเวลของตัวละคร",
+        "vi": "EXP nhân vật, dùng để tăng cấp nhân vật"
+    },
+    "materialType": false
+}

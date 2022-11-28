@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Divda Ray",
+        "de": "Divda-Rochen",
+        "chs": "迪芙妲鳐",
+        "cht": "迪芙妲鰩",
+        "es": "Raya divda",
+        "fr": "Raie divda",
+        "id": "Divda Ray",
+        "jp": "ディフダエイ",
+        "kr": "다이브다 가오리",
+        "pt": "Arraia Divda",
+        "ru": "Дивдинский скат",
+        "th": "Divda Ray",
+        "vi": "Cá Đuối Divda"
+    },
+    "id": 131021,
+    "materialDesc": {
+        "en": "A strange cartilaginous fish that was once thought to be a fantastical creature, only recorded in some ancient scrolls of art on Watatsumi Island. As the seal over Enkanomiya was opened, their true forms were laid bare before the eyes of all.\\nIt is said that the bodily forms of these curious creatures will change color as time passes. When they are young, they are as gold as sunlight. Rays at this stage of life earned the name \"Divda\" in those ancient scrolls, which means \"the tail end of innocence.\"",
+        "de": "Ein seltsamer Rochen, von dem man einst dachte, er sei eine fantastische Kreatur, die nur in einigen alten Kunstrollen auf der Insel Watatsumi festgehalten wurde. Als das Siegel über Enkanomiya geöffnet wurde, kam seine wahre Gestalt vor aller Augen zum Vorschein.\\nEs heißt, dass die Körperformen dieser seltsamen Kreaturen im Laufe der Zeit ihre Farbe ändern. Wenn sie jung sind, sind sie so golden wie das Sonnenlicht. Rochen in diesem Lebensstadium erhielten in den alten Schriftrollen den Namen „Divda“, was „das Ende der Unschuld“ bedeutet.",
+        "chs": "曾经一度被认为是幻想生物的奇异鳐鱼，只被记录在一些海祇岛的古老画卷中。如今随着尘封的海渊被打开，它们的真实样貌才展现在人们眼前。\\n据传这种奇异生物的体色会随着时间的变化而变化，幼年时通常呈现出皦日一般的浅金色。在古画卷的记录中，这个时期的它们被冠以「迪芙妲」之名，其意为「纯真之尾」。",
+        "cht": "曾經一度被認為是幻想生物的奇異鰩魚，只被記錄在一些海祇島的古老畫卷中。如今隨著塵封的海淵被打開，牠們的真實樣貌才展現在人們眼前。\\n據傳這種奇異生物的體色會隨著時間的變化而變化，幼年時通常呈現出皦日一般的淺金色。在古畫卷的記錄中，這個時期的牠們被冠以「迪芙妲」之名，其意為「純真之尾」。",
+        "es": "Una misteriosa raya que, en el pasado, se pensaba que era un ser fantástico. Solo hay registros de ellas en algunas antiguas pinturas de la Isla Watatsumi. Su verdadero aspecto por fin se ha descubierto en el presente gracias a la reapertura de las profundidades del océano.\\nDicen que el color de su cuerpo cambia con el tiempo, y que de pequeñas tienen un color dorado claro y tan brillante como el sol. En las pinturas antiguas, a las rayas en esta etapa de la vida se las llamaba “divda”, lo cual significa “el final de la inocencia”.",
+        "fr": "#Un étrange poisson cartilagineux qui était autrefois considéré comme une créature fantastique et que l'on ne trouvait que dans certains anciens parchemins d'art sur l'Île de Watatsumi. Lorsque le sceau d'Enkanomiya a été ouvert, leur véritable apparence a été révélée.\\nIl paraît que l'aspect corporel de ces étranges créatures change de couleur avec le temps. Quand elles sont jeunes, elles sont aussi dorées que la lumière du soleil ce qui leur a valu le nom de « divda » dans les anciens parchemins, ce qui signifie « queue de l'innocence{NON_BREAK_SPACE}».",
+        "id": "Ikan bertulang rawan aneh yang pernah dianggap sebagai makhluk imajinasi karena hanya tercatat dalam beberapa gulungan gambar kuno di Pulau Watatsumi. Saat segel yang menyelubungi Enkanomiya akhirnya dibuka, kini wujud sesungguhnya dari mereka mau tidak mau akhirnya terungkap di depan mata semua orang.\\nDikatakan bahwa bentuk tubuh makhluk mengherankan ini akan berubah warna seiring berjalannya waktu. Ketika mereka masih muda, mereka berwarna seperti emas dan seperti sinar matahari. Sinar pada tahap kehidupan ini dinamai dengan nama \"Divda\", yang dalam gulungan kuno artinya adalah \"akhir dari kepolosan.\"",
+        "jp": "かつて空想上の生き物だと思われていた奇妙なエイ。海祇島にある一部の古い絵巻物にのみ記録されていた。そして、封じられた海淵への道が開かれた今、その姿が初めて明らかになった。\\nこの奇妙な生き物の体色は、生きた年数と共に変化していくと言われており、幼体は太陽のような薄黄金色らしい。絵巻物によれば、この時期の彼らには「無垢の尾」を意味する「ディフダ」という名が与えられたそうだ。",
+        "kr": "한때 환상의 생물로 여겨졌던 기이한 가오리. 와타츠미섬의 오래된 그림으로만 기록이 남아있다. 지금은 닫혀있던 해연이 열리면서 비로소 진실된 모습을 드러냈다.\\n이 기이한 생물의 체색은 시간에 따라 변한다고 전해지는데, 유년기에는 보통 해와 같은 연한 금빛을 띤다. 옛 그림의 기록에 따르면, 이 시기의 그것들은 「다이브다」라는 이름으로 불렀는데, 의미는 「순진한 꼬리」라는 뜻이다",
+        "pt": "Um estranho peixe cartilaginoso que costumava ser considerado uma criatura fantástica. Existem apenas registros deles em algumas pinturas antigas na Ilha Watatsumi. Quando o selo sobre Enkanomiya foi quebrado, sua verdadeira aparência foi finalmente revelada.\\nDiz-se que a cor de seu corpo muda com o tempo. Quando são jovens têm uma cor dourada clara tão brilhante quanto o sol. As listras nesta fase da vida destes peixes eram chamadas de \"Divda\", que significavam \"o fim da inocência\".",
+        "ru": "Загадочные скаты, которых раньше считали фантастическими существами. О них говорится лишь в нескольких древних свитках острова Ватацуми. Только теперь, когда открылась морская бездна, миру явился их истинный облик.\\nГоворят, что цвет тела этих необычных существ меняется с возрастом. Обычно в молодости они имеют светло-золотистые тела цвета искрящегося солнца. В древних свитках говорится, что им было дано имя «Дивда», что означает «хвост невинности».",
+        "th": "ปลากระเบนประหลาดที่ครั้งหนึ่งเคยถูกมองว่าเป็นสิ่งมีชีวิตในจินตนาการ ถูกบันทึกไว้ในม้วนภาพโบราณของเกาะ Watatsumi เท่านั้น เมื่อใต้ทะเลลึกที่ถูกทิ้งร้างมานานเปิดออก รูปร่างที่แท้จริงของมันจึงได้ปรากฏสู่สายตาของผู้คนในยุคปัจจุบัน \\nว่ากันว่าสิ่งมีชีวิตสุดประหลาดนี้จะเปลี่ยนสีของร่างกายไปตามกาลเวลา เมื่อยังอยู่ในช่วงวัยเด็กมักจะเป็นสีทองอ่อนดั่งดวงตะวัน ในม้วนภาพโบราณบันทึกเอาไว้ว่า ในช่วงวัยนี้มันจะมีชื่อเรียกว่า \"Divda\" ซึ่งหมายถึง \"ปลายทางของความบริสุทธิ์\"",
+        "vi": "Một con cá kỳ lạ từng được cho là sinh vật huyền bí, chỉ được ghi lại trong một số tác phẩm nghệ thuật cổ trên đảo Watatsumi. Khi phong ấn của Enkanomiya được mở ra, nó đã bắt đầu lộ diện trước mắt mọi người.\\nNgười ta nói rằng màu sắc cơ thể của những sinh vật kỳ lạ này sẽ thay đổi theo thời gian. Khi còn nhỏ, chúng có màu vàng như ánh sáng mặt trời. Trong những bức họa cổ, thời kỳ này chúng được gọi là \"Divda\", có nghĩa là \"Chiếc Đuôi Hồn Nhiên\"."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

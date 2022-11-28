@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ham",
+        "de": "Schinken",
+        "chs": "火腿",
+        "cht": "火腿",
+        "es": "Jamón",
+        "fr": "Jambon",
+        "id": "Ham",
+        "jp": "ハム",
+        "kr": "햄",
+        "pt": "Presunto",
+        "ru": "Ветчина",
+        "th": "Ham",
+        "vi": "Giăm Bông"
+    },
+    "id": 110005,
+    "materialDesc": {
+        "en": "Smoked leg meat. Even the thinnest slice is packed full of flavor.",
+        "de": "Geräuchertes Fleisch. Selbst die dünnste Scheibe ist voller Aroma.",
+        "chs": "经过熏制的腿部兽肉。薄薄的一片就能带来满嘴的芳香。",
+        "cht": "經過燻製的腿部獸肉。薄薄的一片就能帶來滿嘴的芳香。",
+        "es": "Carne de muslo ahumada. Incluso el trozo más fino tiene un sabor increíble.",
+        "fr": "Une cuisse d'animal cuite pour en améliorer la conservation. Même la plus fine des tranches est pleine de saveur.",
+        "id": "Daging asap dari bagian paha hewan. Satu lapisan tipis saja dapat memberikan rasa yang luar biasa.",
+        "jp": "燻製にした獣肉の足。薄い1切れでも口いっぱいに香りが広がる。",
+        "kr": "훈제한 고기로 만든 식재료. 얇게 썰어 구워 먹으면 아주 맛있다",
+        "pt": "Carne de coxa defumada. Mesmo o pedaço mais fino pode trazer muito sabor à boca.",
+        "ru": "Копчёная свиная нога. Даже тонкий ломтик может вызвать букет эмоций.",
+        "th": "เนื้อน่องรมควัน แม้ว่าจะมีชิ้นเล็กนิดเดียว แต่ก็ให้รสชาติที่แสนเข้มข้นแล้ว",
+        "vi": "Thịt đùi được xông khói. Một miếng mỏng thôi cũng thơm lừng cả miệng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

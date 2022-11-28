@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Zhongyuan Chop Suey",
+        "de": "Misslungenes eingelegtes Allerlei",
+        "chs": "奇怪的中原杂碎",
+        "cht": "奇怪的中原雜碎",
+        "es": "Chop suey de Zhongyuan extraño",
+        "fr": "Chop suey Zhongyuan (suspect)",
+        "id": "\"Special\" Zhongyuan Chop Suey",
+        "jp": "微妙な中原のもつ焼き",
+        "kr": "이상한 중원 내장꼬치",
+        "pt": "Chop Suey de Zhongyuan Estranho",
+        "ru": "Странная требуха «Чжун Юань»",
+        "th": "Zhongyuan Chop Suey รสประหลาด",
+        "vi": "Lòng Trung Nguyên Kỳ Lạ"
+    },
+    "id": 108071,
+    "materialDesc": {
+        "en": "A seasoned and cooked meat dish. Even if the dish was extremely delicious, it surely doesn't look the part. Even the most popular stalls would have trouble selling this.",
+        "de": "Ein zuerst in Gewürzen eingelegtes und dann gegartes Fleischgericht. Schon das Äußere verrät, wie es um die Künste des Kochs bestellt ist. Selbst am beliebtesten Stand werden diese Spieße kaum ihren Besitzer wechseln.",
+        "chs": "调味后烤熟的肉料理。菜肴的卖相无情地出卖了掌厨者的技艺，大概放在路边最火爆的小吃摊也很难卖出去。",
+        "cht": "調味後烤熟的肉料理。菜餚的賣相無情地出賣了掌廚者的技藝，大概放在路邊最火爆的小吃攤也很難賣出去。",
+        "es": "Un plato de carne sazonada y asada. El aspecto del plato revela las habilidades del cocinero. Este plato sería difícil de vender incluso en el puesto más popular.",
+        "fr": "Abats de viande cuits et assaisonnés. Malgré son apparence, ce plat est un vrai délice. Il a dû mal à se vendre, même sur les marchés les plus populaires.",
+        "id": "Hidangan daging yang dibumbui dan dimasak. Kalaupun hidangannya enak, kelihatannya tidak. Bahkan tempat makan paling populer pun akan kesulitan menjual ini.",
+        "jp": "味付けしてから出来上がった肉料理。作り手のレベルは見た目から分かる。一番人気な屋台に置いても売れないかもしれない。",
+        "kr": "양념에 버무려 구운 고기 요리. 요리사로서의 감각은 팔아먹은 건지 길가에서 가장 핫한 노점상에 둬도 안 팔릴 것 같은 모양새다",
+        "pt": "Um prato de carne temperada e cozida. Mesmo que o prato estivesse extremamente delicioso, não parece bom. Até as bancas mais populares teriam problemas para vender isso.",
+        "ru": "Это блюдо должно быть вкусным, но почему-то оно таковым не является. Даже самые дешёвые лавки общественного питания не возьмутся продавать такое.",
+        "th": "อาหารจำพวกเนื้อสัตว์ที่ถูกนำไปย่างให้ร้อนหลังจากปรุงรสแล้ว รูปลักษณ์ภายนอกที่แสนโหดร้ายได้เสนอให้เห็นถึงฝีมือของผู้ที่ทำ ถึงจะเอาไปขายในร้านค้าแผงลอยที่ขายดีที่สุดในถนนทั้งสายก็คงจะขายไม่ออกอยู่ดี",
+        "vi": "Món thịt được nướng chín sau khi tẩm ướp. Hình dạng món ăn đã bán đứng tài nghệ của bếp trưởng một cách vô tình, ngay cả việc đặt ở quán ăn đông khách nhất cũng khó lòng bán được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

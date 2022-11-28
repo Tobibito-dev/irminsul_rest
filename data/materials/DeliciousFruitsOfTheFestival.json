@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Fruits of the Festival",
+        "de": "Leckerer Festtagssaft",
+        "chs": "美味的假日果酿",
+        "cht": "美味的假日果釀",
+        "es": "Jugo festivo delicioso",
+        "fr": "Jus de fruits du festival (délicieux)",
+        "id": "Delicious Fruits of the Festival",
+        "jp": "美味しそうなバケーションサイダー",
+        "kr": "맛있는 바캉스 과일주",
+        "pt": "Frutas do Festival Deliciosas",
+        "ru": "Вкусный Праздничный сок",
+        "th": "Fruits of the Festival แสนอร่อย",
+        "vi": "Hương Vị Lễ Hội Ngon"
+    },
+    "id": 108465,
+    "materialDesc": {
+        "en": "A brightly colored non-alcoholic beverage. The sublime enjoyment brought by the refreshing taste is almost like a sweet, illusory dream. One small sip transports you onto a white, sandy beach, where the sparkling seawater beats with the rhythm to which the hymn of your leisurely vacation shall be composed.",
+        "de": "Ein alkoholfreies Getränk mit klarer, anziehender Farbe. Der das Herz erquickende Geschmack bringt einen traumtänzerisch leichten Genuss mit sich. Ein einziger kleiner Schluck genügt, um sich wie an einem weißen, funkelnden Sandstrand zu fühlen. Die glitzernden Meereswellen brechen sich zum Takt der Musik, in welcher sich die Leichtigkeit der Freizeit findet.",
+        "chs": "色彩清丽的无酒精饮品。沁人心脾的味道，带来如同虚幻梦境般的曼妙享受。只须浅浅一口，便能置身于莹白沙滩上，波光粼粼的海水打着节拍，在诗歌中谱写出假日的悠闲。",
+        "cht": "色彩清麗的無酒精飲品。沁人心脾的味道，帶來如同虛幻夢境般的曼妙享受。只須淺淺一口，便能置身於瑩白沙灘上，波光粼粼的海水打著節拍，在詩歌中譜寫出假日的悠閒。",
+        "es": "Una bebida no alcohólica de colores brillantes. Su sabor refrescante causa un ligero placer, como si se tratase de un dulce sueño imaginario. Un solo sorbo es capaz de transportarte a una playa de arena blanca y aguas cristalinas cuyas olas componen una canción que bien sería el himno de tus vacaciones.",
+        "fr": "Une boisson non alcoolisée aux couleurs vives. Le goût pénétrant de ce breuvage apporte un plaisir sublime tel celui d'un rêve doux et illusoire. Une petite gorgée vous transporte sur une plage de sable blanc, où l'eau de mer étincelante bat le rythme sur lequel sera composé l'hymne de vos paisibles vacances.",
+        "id": "Minuman non-alkohol yang berwarna cerah. Kenikmatan tiada duanya yang disajikan oleh rasa yang menyegarkan ini hampir seperti mimpi dan ilusi yang manis. Seteguk kecil saja sudah cukup untuk membawamu ke pantai berpasir putih. Kamu bisa melihat air laut yang berkilauan beresonansi dengan irama yang akan diciptakan oleh lagu liburan santaimu.",
+        "jp": "透き通った色のノンアルコールドリンク。爽やかな味わいは、ファンタジックな夢のよう。少し口をつけただけで、白い砂浜にいるかのような錯覚に陥る。きらめく海水はビートを刻み、ゆったりとしたバカンスの時間を詩のように詠ってくれる。",
+        "kr": "투명한 무알코올 음료. 상쾌한 맛은 환상의 꿈과 같은 즐거움을 선사한다. 한 모금만 마셔도 새하얀 백사장이 펼쳐지며 반짝이는 파도를 리듬 삼아 휴일의 여유를 시조로 써 내리게 된다",
+        "pt": "Uma bebida colorida não alcoólica. O degustar sublime do gosto refrescante é como um sonho doce e ilusório. Um gole basta para transportar-lhe para uma praia de areias brancas, com água do mar reluzente, batendo no ritmo que comporá as músicas de suas férias.",
+        "ru": "Безалкогольный напиток яркого цвета. Возвышенное наслаждение, которое приносит освежающий вкус, подобно сладкому сновидению. Один маленький глоток переносит вас на белый песчаный пляж, где искрящаяся морская волна плещется в ритм, который складывается в гимн вашего неспешного отдыха.",
+        "th": "เครื่องดื่มไร้แอลกอฮอล์สีสันสดใส รสชาติที่แสนสดชื่นนี้ นำมาซึ่งความเพลิดเพลินที่แสนเลิศล้ำ เพียงแค่จิบเดียว ก็ราวกับได้ทอดกายอยู่บนหาดทรายสีขาว น้ำทะเลใสกระจ่างประกายระยิบอยู่รอบกาย กระทบฝั่งเกิดเป็นเสียงดนตรีของฤดูกาลแห่งการพักผ่อน",
+        "vi": "Đồ uống không cồn màu sắc rực rỡ. Hương vị sảng khoái mang đến cảm giác thưởng thức tuyệt vời như một giấc mơ. Chỉ cần nhấp một ngụm là có cảm giác như đang nằm trên bãi biển cát trắng, nước biển lấp lánh hòa nhịp, tạo nên một kỳ nghỉ nhàn nhã như thơ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

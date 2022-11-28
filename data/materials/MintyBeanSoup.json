@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Minty Bean Soup",
+        "de": "Minzbohnensuppe",
+        "chs": "薄荷豆汤",
+        "cht": "薄荷豆湯",
+        "es": "Sopa de menta y frijoles",
+        "fr": "Soupe de pois-menthe",
+        "id": "Minty Bean Soup",
+        "jp": "ミントビーンスープ",
+        "kr": "완두콩 민트 수프",
+        "pt": "Sopa de Feijão com Menta",
+        "ru": "Мятно-фасолевый суп",
+        "th": "Minty Bean Soup",
+        "vi": "Canh Đậu Bạc Hà"
+    },
+    "id": 108413,
+    "materialDesc": {
+        "en": "A rich soup made with simple ingredients. Mints and beans were boiled and ground together to get a smooth texture. The soup was then left on low heat till it thickened. Finally, some beans and mints were sprinkled on the top. This refreshing delicacy tastes equally good whether served hot or cold.",
+        "de": "Eine dicke Suppe mit simplen Zutaten. Minze und Bohnen mit Wasser gar kochen, pürieren, bei schwacher Hitze einkochen. Abschließend mit Bohnen und Minzblättern garnieren. Das Gericht ist erfrischend und köstlich. Man kann es sowohl warm als auch kalt genießen.",
+        "chs": "用料简单的浓汤。薄荷与豆子下锅煮熟后打碎至顺滑，小火慢煮收稠出锅，最后缀以豆粒与薄荷叶。成品清新可口，热饮冷食两相宜。",
+        "cht": "用料簡單的濃湯。薄荷與豆子下鍋煮熟後打碎至順滑，小火慢煮至濃稠出鍋，最後綴以豆粒與薄荷葉。成品清新可口，熱飲冷食兩相宜。",
+        "es": "Una sopa espesa hecha con ingredientes sencillos. Se hierven las mentas y los frijoles juntos hasta que se ablanden y luego se trituran hasta conseguir una sopa suave. Si se sigue hirviendo, se espesa la textura. Se sirve con un cucharón y se espolvorean algunos frijoles y mentas por encima. Este refrescante manjar sabe igual de bien tanto si se sirve caliente como frío.",
+        "fr": "Une soupe préparée avec des ingrédients simples. La menthe et les haricots ont été bouillis et moulus ensemble pour obtenir une texture lisse. On a ensuite laissé la soupe mijoter à feu doux jusqu'à ce qu'elle s'épaississe. Enfin, des haricots et de la menthe ont été saupoudrés dessus. Ce délice rafraîchissant est aussi bon servi chaud que froid.",
+        "id": "Hidangan sup dengan bahan yang sederhana. Rebus daun mint dan kacang bersamaan sampai halus, lalu tumbuk hingga menyatu dengan kuahnya. Terus rebus hingga mengental. Hias dengan beberapa kacang dan daun mint sebelum disajikan. Hidangan yang segar ini cocok dimakan panas ataupun dingin.",
+        "jp": "シンプルな材料で作った濃厚なスープ。ミントと豆を煮込み、なめらかになるまでほぐす。そして、ゆっくりと煮てとろみをつけ、豆とミントの葉を添えて出来上がり。完成した料理は爽やかで口当たりがよく、温めても冷やしても美味しい。",
+        "kr": "간단한 재료로 만든 수프. 허브와 콩을 냄비에 넣어 잘 익히고 부드럽게 으깬다. 약한 불로 걸쭉해질 때까지 천천히 끓인 다음 콩가루와 허브를 넣어 장식해준다. 완성된 요리는 상큼한 맛을 자랑하며 차갑게 먹어도 되고 따뜻하게 먹어도 된다",
+        "pt": "Uma sopa bem rica, com ingredientes simples. Mentas e feijões foram fervidos e moídos juntos para criar uma textura suave. A sopa então foi deixada em fogo baixo até que ficasse grossa. Por fim, alguns feijões e mentas foram jogados por cima. Essa iguaria refrescante tem um gosto incrível seja ela servida quente ou fria.",
+        "ru": "Крем-суп из самых простых ингредиентов. Мята и фасоль отвариваются и перемалываются до однородной консистенции, а в конце прогреваются на слабом огне. Готовое блюдо украшают зёрнышками фасоли и листочком мяты. Мятно-фасолевый суп отличается приятным освежающим вкусом, его можно подавать как холодным, так и горячим.",
+        "th": "ซุปข้นที่ใช้ส่วนผสมแบบเรียบง่าย ต้ม Mint และ Bean จนสุกจากนั้นบดให้ละเอียด แล้วต้มต่อด้วยไฟอ่อนจนเข้ากัน สุดท้ายตกแต่งด้วย Bean และใบ Mint อาหารสำเร็จรูปที่ให้ความรู้สึกสดชื่น เหมาะสำหรับรับประทานทั้งแบบร้อนและแบบเย็น",
+        "vi": "Món canh đậm đà được nấu bằng nguyên liệu đơn giản. Cho bạc hà và đậu vào nồi nấu chín rồi nghiền nhuyễn, chỉnh lửa nhỏ nấu kỹ đến khi hoàn tất, cuối cùng điểm tô thêm hạt đậu và lá bạc hà. Thành phẩm thanh mát, ăn nóng hay lạnh đều ngon."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

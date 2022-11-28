@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Liyue: Stillness of Stone",
+        "de": "Liyue – Stille der Steine",
+        "chs": "璃月·岩寂",
+        "cht": "璃月·岩寂",
+        "es": "Liyue - Silencio de la roca",
+        "fr": "Liyue - Paix de la roche",
+        "id": "Liyue: Kekokohan Batu",
+        "jp": "璃月·岩寂",
+        "kr": "리월·적막한 바위",
+        "pt": "Liyue - Silêncio das Rochas",
+        "ru": "Каменный покой",
+        "th": "Liyue - นิ่งดั่งหินผา",
+        "vi": "Liyue - Sự cô đơn của đá"
+    },
+    "id": 210025,
+    "materialDesc": {
+        "en": "Namecard style.\\nWitness the lonely, cloud-covered peaks of Liyue.",
+        "de": "Ein Motiv für Namenskärtchen.\\nBetrachte die stillen Wolken und ruhigen Berge von Liyue.",
+        "chs": "名片纹饰。\\n看璃月的云寂岩静。",
+        "cht": "名片紋飾。\\n看璃月的雲寂岩靜。",
+        "es": "Diseño de tarjeta de presentación.\\nSé testigo de los solitarios picos cubiertos de nubes de Liyue.",
+        "fr": "Thème.\\nLiyue, ville aux tranquilles nuages et aux mille rochers...",
+        "id": "Style kartu nama.\\nSaksikan puncak Liyue yang sepi dan tertutup awan.",
+        "jp": "名刺の飾り紋。\\n璃月の雲と岩の静寂を感じる。",
+        "kr": "명함 스킨.\\n리월의 구름과 바위의 고요함을 보아라",
+        "pt": "Estilo de Cartão de Visita.\\nTestemunhe os picos solitários e cobertos de nuvens de Liyue.",
+        "ru": "Именная карта.\\nУзрите молчаливые, укрытые облаками скалы Ли Юэ...",
+        "th": "ลายนามบัตร\\nมองดูความเงียบสงบของหมู่เมฆและหินผาใน Liyue",
+        "vi": "Hoa văn danh thiếp.\\nNhìn mây Liyue cô đơn tĩnh lặng."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

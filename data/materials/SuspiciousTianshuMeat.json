@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Tianshu Meat",
+        "de": "Misslungener Tianshu-Braten",
+        "chs": "奇怪的天枢肉",
+        "cht": "奇怪的天樞肉",
+        "es": "Carne estilo Eje Celestial extraña",
+        "fr": "Viande façon Dubhe (suspecte)",
+        "id": "Suspicious Tianshu Meat",
+        "jp": "微妙な天枢肉",
+        "kr": "이상한 천추육",
+        "pt": "Carne de Tianshu Estranha",
+        "ru": "Странное мясо «Тяньшу»",
+        "th": "Tianshu Meat รสประหลาด",
+        "vi": "Thịt Thiên Khu Kỳ Lạ"
+    },
+    "id": 108158,
+    "materialDesc": {
+        "en": "A braised meat dish. It's been braised for too long, resulting in meat that's too soft. The fatty cuts are greasy enough to give you palpitations, and you can barely scarf them down even when wrapped in the Qingxin leaves.",
+        "de": "Langsam geschmortes Fleisch. Durch das lange Schmoren zerfällt das Fleisch völlig und die Fettschicht ist viel zu mächtig, sodass man das Fleisch höchstens eingewickelt in die Blätter von Qingxin überhaupt in den Mund bekommt, vom Herunterschlucken ganz zu schweigen.",
+        "chs": "焖制而成的兽肉。长时间的焖煮让口感过于软烂，肥肉的部分腻得令人心慌，包在围边的清心叶片里才姑且可以下咽。",
+        "cht": "燜煮而成的獸肉。長時間的燜煮讓口感過於軟爛，肥肉的部分膩得令人心驚驚，包在圍邊清心葉片裡才勉強可以下嚥。",
+        "es": "Un plato de carne estofada. El largo tiempo de cocinado ha dejado la carne demasiado blanda y la parte con grasa es demasiado grasienta. Rodearla con hojas de flor chingxin es la única forma de que sea comestible...",
+        "fr": "Un plat de viande braisée. La viande a été cuite trop longtemps, ce qui l'a rendue molle. Les coupes grasses sont écœurantes. Le seul moyen de les avaler est de les envelopper dans des fleurs de Qingxin.",
+        "id": "Hidangan daging yang direbus. Telah direbus begitu lama sampai menghasilkan daging yang sedemikian empuk. Bagian berlemaknya cukup berminyak sehingga hanya bisa ditelan saat dibungkus dengan daun Qingxin.",
+        "jp": "じっくり煮込んだ獣肉。長時間火にかけたことにより歯応えは皆無で脂身はギトギト。清心の葉で包むことで、ようやくなんとか飲み込むことができる。",
+        "kr": "짐승 고기로 만든 찜. 오랜 시간 고아 살코기는 흐물흐물하고 비계는 느끼해서 청심 잎에 싸 먹어야 겨우 삼킬 수 있다",
+        "pt": "Um prato de carne assada. Foi cozido por muito tempo, resultando em uma carne muito macia. Os cortes expessos são gordurosos o suficiente para causar palpitações, e você mal consegue enrolá-los nas pequenas pétalas de Qingxin.",
+        "ru": "Тушёное мясо. Долгая готовка на медленном огне сделала мясо слишком мягким, количество жира же вызывает смятение. Проглотить это можно только пока оно завёрнуто в лепестки цветка цинсинь.",
+        "th": "เนื้อที่อบเป็นเวลานานจนเละเกินไป และส่วนที่ติดมันก็เลี่ยนจนทำให้ใจสั่น ถึงขนาดต้องห่อด้วยใบของ Qingxin ถึงจะพอกลั้นใจกลืนลงไปได้",
+        "vi": "Món kho làm từ thịt rừng. Do nấu quá lâu khiến miếng thịt nát nhừ, phần mỡ ngậy đến mức làm con người ta khó chịu, phải dùng Lá Thanh Tâm cuốn quanh mới có thể nuốt được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

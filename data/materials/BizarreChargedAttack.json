@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bizarre \"Charged Attack\"",
+        "de": "Danebengegangener „Heftiger Schlag“",
+        "chs": "味道混杂的「重击」",
+        "cht": "味道混雜的「重擊」",
+        "es": "“Ataque Cargado” arruinado",
+        "fr": "« Attaque chargée » (saveurs désordonnées)",
+        "id": "\"Charged Attack\" yang Baunya Aneh",
+        "jp": "味が混ざった「スマッシュ」",
+        "kr": "정체성을 잃은 「스매쉬」",
+        "pt": "\"Ataque Carregado\" Bizarro",
+        "ru": "Странная «Заряженная атака»",
+        "th": "Bizarre \"Charged Attack\"",
+        "vi": "[Trọng Kích] mùi vị hỗn tạp"
+    },
+    "id": 100322,
+    "materialDesc": {
+        "en": "A shot without the taste of the distilled liquor and pretty much anything else... Something must have gone wrong.",
+        "de": "Der ursprüngliche Geschmack des puren Alkohols kommt nicht wirklich zur Geltung. Einen anderen Geschmack kann man aber auch nicht ausmachen ... Da ist wohl etwas schiefgegangen.",
+        "chs": "既没有完全展现出蒸馏酒的本味，也没有其他突出的风味，也许…是调制手法出了什么问题。",
+        "cht": "既沒有完全展現出蒸餾酒的本味，也沒有其他突出的風味，也許…是調製手法出了什麼問題。",
+        "es": "No tiene el característico sabor del licor destilado... Ni tampoco otro sabor. Tal vez algo salió mal al prepararlo.",
+        "fr": "Cette boisson n'a pas le goût d'un cocktail, et aucune saveur n'en ressort complètement... Quelque chose a dû clocher pendant la préparation.",
+        "id": "Anggur tanpa rasa murni dari proses penyulingan atau rasa lainnya... pasti ada sesuatu yang salah.",
+        "jp": "蒸留酒の味わいもせず、ほかの味もしない。もしかして…作り方に問題があるかもしれない。",
+        "kr": "셰이킹 과정에서 문제가 있었던 걸까? 증류주 본연의 맛도… 이 맛도 저 맛도 아니다",
+        "pt": "Um shot sem o sabor de licor destilado nem de qualquer outra coisa... Algo deve ter saído mal.",
+        "ru": "Без вкуса, цвета и запаха. Видимо, что-то пошло не так...",
+        "th": "ไม่แสดงรสชาติที่โดดเด่นตามแบบของสุรากลั่น และก็ไม่มีรสชาติอื่น ๆ ที่โดดเด่นขึ้นมา บางที... อาจเป็นปัญหาจากวิธีการทำ",
+        "vi": "Không có vị rượu chưng cất đặc trưng, cũng không có mùi vị gì nổi bật, có lẽ... do tay nghề điều chế có vấn đề."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

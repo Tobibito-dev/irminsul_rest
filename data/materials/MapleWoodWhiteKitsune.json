@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Maple Wood White Kitsune",
+        "de": "Weißer-Fuchs-Puppe aus Ahornholzstoff",
+        "chs": "枫木布面白狐玩偶",
+        "cht": "楓木布面白狐玩偶",
+        "es": "Figura blanca de kitsune de madera de arce",
+        "fr": "Kitsune blanc en bois d'érable",
+        "id": "Boneka Kitsune Putih dari Maple Wood",
+        "jp": "楓の布製白狐人形",
+        "kr": "단풍나무 천 백여우 인형",
+        "pt": "Boneco de Raposa Branca de Bordo",
+        "ru": "Кицунэ из клёна",
+        "th": "ตุ๊กตาจิ้งจอกขาวไม้ Maple หุ้มผ้า",
+        "vi": "Búp Bê Kitsune"
+    },
+    "id": 393324,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Maple Wood White Kitsune.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Weißer-Fuchs-Puppe aus Ahornholzstoff“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「枫木布面白狐玩偶」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「楓木布面白狐玩偶」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Figura blanca de kitsune de madera de arce.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du Kitsune blanc en bois d'érable.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Boneka Kitsune Putih dari Maple Wood.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「楓の布製白狐人形」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「단풍나무 흰여우 천 인형」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Boneco de Raposa Branca de Bordo.\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Кицунэ из клёна».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ตุ๊กตาจิ้งจอกขาวไม้ Maple หุ้มผ้า\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Búp Bê Kitsune.\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

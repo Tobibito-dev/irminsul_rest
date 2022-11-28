@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lotus Seed and Bird Egg Soup",
+        "de": "Gedämpftes Ei mit Lotossamen",
+        "chs": "莲子禽蛋羹",
+        "cht": "蓮子禽蛋羹",
+        "es": "Sopa de loto y huevo",
+        "fr": "Œufs et graines de lotus à la vapeur",
+        "id": "Lotus Seed and Bird Egg Soup",
+        "jp": "ハスの実入り茶碗蒸し",
+        "kr": "연밥 계란찜",
+        "pt": "Sopa de Lótus e Ovo",
+        "ru": "Яичный суп из лотоса",
+        "th": "Lotus Seed and Bird Egg Soup",
+        "vi": "Canh Trứng Hạt Sen"
+    },
+    "id": 108120,
+    "materialDesc": {
+        "en": "A steamed egg dish. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body.",
+        "de": "Eine gedämpfte Eierspeise. In der goldgelb glänzenden Oberfläche stecken einige Lotossamen. Dieses Gericht eignet sich als Frühstück wie als Nachspeise gleichermaßen und gibt einem die Kraft, die man für einen anstrengenden Tag braucht.",
+        "chs": "蒸制而成的蛋料理。色泽澄澈金黄的禽蛋羹上点缀了几颗莲子。不管是作为早餐还是饭后点心，都能大量补充身体所需的优质营养。",
+        "cht": "蒸製而成的蛋料理。色澤澄澈金黃的禽蛋羹上點綴了幾顆蓮子。不管是作為早餐還是飯後點心，都能大量補充身體所需的優質營養。",
+        "es": "Un plato de huevos al vapor. A la brillante y dorada sopa se le han añadido unas semillas de loto. Se coma como desayuno o como postre, siempre aportará al cuerpo los ingredientes que necesita.",
+        "fr": "Un plat à base d'œufs cuit à la vapeur. Les graines de lotus agrémentent la crème aux œufs. Ses valeurs nutritionnelles en font un mets idéal à consommer pour le petit déjeuner ou en tant qu'encas.",
+        "id": "Hidangan telur kukus. Beberapa biji bunga teratai menghiasi puding telur yang berwarna keemasan. Saat dimakan sebagai sarapan atau makanan penutup, hidangan ini bisa memberikan banyak nutrisi bagi tubuh.",
+        "jp": "卵の茶碗蒸し。透き通った黄色の卵の上に、ハスの実が輝いている。朝食としても、食後のデザートとしても、栄養バランスのとれた一品。",
+        "kr": "쪄서 만든 계란 요리. 빛이 고운 황금빛 계란찜 위를 연밥으로 장식했다. 아침 식사로든 디저트로든 필요한 양질의 영양을 보충해준다",
+        "pt": "Um prato de ovo cozido no vapor. As cores claras e douradas do creme de ovos foram adornadas com várias raízes de lótus. Seja no café da manhã ou lanche após a refeição, seu valor nutricional superior pode nutrir muito o corpo.",
+        "ru": "Яйцо, приготовленное на пару. Золотистый желток украшен семенами лотоса. Вне зависимости от того, завтрак это или послеобеденный перекус, оно заряжает вас бодростью на весь день.",
+        "th": "เมนูอาหารตุ๋นที่ทำจากไข่ ไข่ตุ๋นสีเหลืองทองตกแต่งหน้าด้วยเม็ดบัวสองสามชิ้น ไม่ว่าจะกินเป็นอาหารเช้าหรืออาหารว่างก็สามารถเสริมคุณค่าทางโภชนาการที่จำเป็นต่อร่างกายได้อย่างมาก",
+        "vi": "Món ăn từ trứng được hấp chín. Màu trứng vàng óng điểm thêm vài hạt sen. Dù là sử dụng cho bữa sáng hay món tráng miệng sau bữa ăn, thì cũng đều bổ sung rất nhiều dinh dưỡng tốt cho cơ thể."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

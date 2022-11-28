@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lavawalker's Wisdom",
+        "de": "Vernunft des Lavaläufers",
+        "chs": "渡火者的智慧",
+        "cht": "渡火者的智慧",
+        "es": "Sabiduría del Corredor de Lava",
+        "fr": "Sagesse du Marcheur du feu",
+        "id": "Lavawalker's Wisdom",
+        "jp": "火渡りの知恵",
+        "kr": "불 위를 걷는 자의 지혜",
+        "pt": "Sabedoria do Corredor de Lava",
+        "ru": "Мудрость ступающего по лаве",
+        "th": "Wisdom of Lavawalker",
+        "vi": "Trí Tuệ Người Vượt Lửa"
+    },
+    "id": 23438,
+    "setId": 14003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

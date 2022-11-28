@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: \"Pile 'Em Up\"",
+        "de": "Rezept: Hochgestapeltes",
+        "chs": "食谱：「堆高高」",
+        "cht": "食譜：「堆高高」",
+        "es": "Receta: Torre de Ludi",
+        "fr": "Recette : Empil'tout",
+        "id": "Resep: Pile 'Em Up\"",
+        "jp": "レシピ：「お肉ツミツミ」",
+        "kr": "레시피: 「높이 쌓기」",
+        "pt": "Receita: \"Empilhar\"",
+        "ru": "Рецепт: «Расти гора»",
+        "th": "สูตรอาหาร: \"Pile 'Em Up\"",
+        "vi": "Công Thức: Pile 'Em Up"
+    },
+    "id": 109304,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making \"Pile 'Em Up.\"",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Hochgestapeltes“.",
+        "chs": "步骤详实的食谱，记载着「堆高高」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「堆高高」的製作方法。",
+        "es": "Receta paso a paso para hacer una torre de Ludi.",
+        "fr": "Étapes de préparation de l'empil'tout.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat \"Pile 'Em Up\".",
+        "jp": "「お肉ツミツミ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「높이 쌓기」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo da \"Empilhar\".",
+        "ru": "Подробный рецепт приготовления блюда «Расти гора».",
+        "th": "สูตรอธิบายวิธีทำ \"Pile 'Em Up\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Pile 'Em Up\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

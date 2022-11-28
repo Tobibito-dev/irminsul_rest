@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hakuen Michimitsu Amenoma",
+        "de": "Hakuen Michimitsu Amenoma",
+        "chs": "「薄缘满光天目」",
+        "cht": "「薄緣滿光天目」",
+        "es": "Espada Amenoma Luminosa del Destino",
+        "fr": "Hakuen Michimitsu d'Amenoma",
+        "id": "Hakuen Michimitsu Amenoma",
+        "jp": "「薄縁満光天目」",
+        "kr": "「하쿠엔 미치미츠 아메노마」",
+        "pt": "Hakuen Michimitsu Amenoma",
+        "ru": "Хакуэн Митимицу Амэнома",
+        "th": "Hakuen Michimitsu Amenoma",
+        "vi": "Hakuen Michimitsu Amenoma"
+    },
+    "id": 101707,
+    "materialDesc": {
+        "en": "The heirloom blade of the Iwakura Clan.\\nAlthough the one who forged this blade possessed great skills, and though it is true that this sword has slain many a foe, it does not possess any special powers. Nor has the Iwakura Succession ever obtained a Vision. Their excellent swordsmanship was purely a result of their honing of mind, body, and technique.\\nThis blade has been submerged in water for a long time and seems to have completely rusted.",
+        "de": "Ein Schwert, das in der Familie Iwakura von Generation zu Generation weitergegeben wird.\\nTrotz der extrem ausgezeichneten Techniken der Schmiede und des vielen Blutes, das es in vielen Kämpfen getrunken hat, gibt es eigentlich nichts Besonderes an dem Schwert selbst. Keiner der Iwakura-Nachkommen bekam jemals den Segen eines Göttlichen Augen. Ihre ausgesprochen starke Schwertkampftechniken sind lediglich ein Resultat des langjährigen körperlichen und seelischen Trainings.\\nDas Schwert liegt seit langem im Wasser und ist jetzt schon vollständig verrostet.",
+        "chs": "岩藏家代代流传的宝刀。\\n虽然匠人的工艺极其出色，也经历了许多年月与真剑厮杀，但刀本身其实并没有任何特别的力量。历代岩藏之胤不曾获得过神之眼，他们傲人的剑术只来自对身、心、技的长年修炼。\\n这把刀在水中浸泡了一些日子。如今已经完全锈坏了。",
+        "cht": "岩藏家代代流傳的寶刀。\\n雖然匠人的工藝極其出色，也經歷了許多年月與真劍廝殺，但刀本身其實並沒有任何特別的力量。歷代岩藏之胤不曾獲得過神之眼，他們傲人的劍術只來自對身、心、技的長年修煉。\\n這把刀在水中浸泡了一些日子。如今已經完全鏽壞了。",
+        "es": "Una espada muy valiosa que pasó de generación en generación de la familia Iwakura.\\nLa técnica de forja es excepcional y ha estado en muchas batallas, pero en realidad esta espada no tiene ningún poder especial. Los descendientes del clan Iwakura nunca obtuvieron una Visión, por lo que su pericia con la espada proviene del entrenamiento físico, mental y técnico al que se sometieron durante años.\\nEsta espada ha pasado algún tiempo en el agua y está completamente oxidada.",
+        "fr": "Une épée transmise de génération en génération au sein du Clan Iwakura.\\nCette arme fut forgée par un artisan au talent exceptionnel et nombreux sont les ennemis qui connurent le trépas sous ses coups. Cependant, elle ne possède aucun pouvoir spécial. Tout comme aucun descendant du Clan Iwakura n'a possédé d'œil divin, leurs prouesses à l'épée ne furent que le résultat d'un perfectionnement du corps, de l'esprit et de la technique.\\nAyant passé une éternité sous l'eau, sa lame est complètement rouillée.",
+        "id": "Pedang pusaka milik Klan Iwakura.\\nMeskipun orang yang menempa pedang ini memiliki keterampilan yang hebat, dan meskipun pedang ini telah membunuh banyak musuh, pedang ini tidak memiliki kekuatan khusus. Keturunan Klan Iwakura juga tidak pernah memperoleh Vision. Ilmu pedang yang luar biasa milik mereka adalah murni hasil dari mengasah pikiran, tubuh, dan teknik mereka.\\nPedang ini sudah lama terendam air dan tampak begitu berkarat.",
+        "jp": "岩蔵家に代々受け継がれている宝刀。\\n非常に優れた腕を持つ職人が打ったもので、長い年月の間、真剣相手に勝負をしてきた。しかし、この刀自体に特別な力があるというわけではない。歴代の岩蔵の胤に、神の目を授かった者はいない。その自慢の剣術は、長年の心身と技の鍛錬から生まれたものである。\\nこの刀は何日か水に浸っていた。今ではすっかり錆びてしまっている。",
+        "kr": "이와쿠라 가문 대대로 전해지는 명검.\\n검을 만든 장인의 기술이 뛰어나고 이 검으로 많은 적을 해치웠지만 검 자체에 특별한 힘이 있는 것은 아니다. 역대 이와쿠라의 후손은 신의 눈을 얻은 적이 없으며, 그들의 뛰어난 검술은 다년간의 몸과 마음, 기술의 수련으로 얻어낸 결과다.\\n며칠 동안 물속에 잠겨 있던 검은 이미 완전히 녹슬었다",
+        "pt": "Uma lâmina passada de geração em geração no Clã Iwakura.\\nQuem forjou esta lâmina era muito habilidoso, e apesar dessa espada ter derrotado muitos inimigos, ela não possui poderes especiais, e ninguém da linhagem Iwakura também obteve uma Visão. Sua esgrima excelente era apenas um resultado do treinamento de sua mente, corpo e técnica.\\nEssa lâmina ficou submergida em água por um longo tempo, e acabou enferrujando completamente.",
+        "ru": "Наследственный клинок клана Ивакура.\\nНесмотря на исключительную технику ковки и на то, что он участвовал во многих сражениях, клинок не обладает никакой особой силой. Потомки клана Ивакура никогда не получали Глаз Бога, поэтому их мастерство владения мечом является результатом многолетнего оттачивания техники и тренировки ума и тела.\\nЭтот меч довольно долго пролежал в воде и полностью проржавел.",
+        "th": "ดาบที่เป็นมรดกตกทอดจากรุ่นสู่รุ่นของตระกูล Iwakura\\nแม้ว่าช่างจะฝีมือดีมาก และได้ผ่านการต่อสู้โดยใช้ดาบจริงมาแล้วนับไม่ถ้วน แต่ตัวดาบกลับไม่ได้มีพลังอะไรเป็นพิเศษเลย ในแต่ละรุ่นของ Iwakura ไม่เคยมีใครได้รับวิชั่นมาก่อน ความชำนาญในวิชาดาบของพวกเขามาจากการฝึกฝนร่างกาย, จิตใจและเทคนิคเป็นเวลานานเพียงเท่านั้น\\nดาบเล่มนี้ถูกแช่อยู่ในน้ำมาเป็นเวลานาน ดังนั้นตอนนี้จึงถูกสนิมกินจนหมดแล้ว",
+        "vi": "Bảo đao được lưu truyền qua nhiều đời của gia đình Iwakura.\\nTuy rằng tay nghề của những người thợ vô cùng xuất sắc, cũng đã trải qua nhiều năm va chạm với kiếm thật, nhưng bản thân thanh đao thật ra không có bất cứ sức mạnh đặc biệt nào. Suốt bao đời thừa kế Iwakura đều chưa từng có được Vision, niềm kiêu hãnh về kiếm thuật của họ chỉ đến từ sự rèn luyện thân, tâm, kỹ thuật trong suốt nhiều năm.\\nThanh đao này đã ngâm trong nước được một thời gian. Đến nay đã hoàn toàn gỉ sét."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Draff's Letter",
+        "de": "Draffs Brief",
+        "chs": "杜拉夫的信",
+        "cht": "杜拉夫的信",
+        "es": "Carta de Draff",
+        "fr": "Lettre de Draff",
+        "id": "Surat Draff",
+        "jp": "ドゥラフの手紙",
+        "kr": "두라프의 편지",
+        "pt": "Carta de Draff",
+        "ru": "Письмо Драффа",
+        "th": "จดหมายของ Draff",
+        "vi": "Thư Của Draff"
+    },
+    "id": 100352,
+    "materialDesc": {
+        "en": "A letter from Draff to Sister Grace. It was tightly sealed, but it wasn't enough to withstand the brute force of the hilichurls.",
+        "de": "Ein Brief von Draff an Grace, der eigentlich fest versiegelt war. Unter dem Einfluss der Hilichurle ist das Siegel aber gebrochen.",
+        "chs": "杜拉夫寄给葛瑞丝修女的信。本来封得很紧，但是在丘丘人的暴力下，封装完全被破坏了。",
+        "cht": "杜拉夫寄給葛瑞絲修女的信。本來封得很緊，但是在丘丘人的暴力下，封裝完全被破壞了。",
+        "es": "Una carta de Draff a la Hermana Grace. Estaba herméticamente sellada, pero no fue suficiente para resistir la fuerza bruta de los Hilichurls.",
+        "fr": "Une lettre de Draff à Grace. Elle était fermée par un sceau qui n'a pas résisté aux Brutocollinus.",
+        "id": "Surat dari Draff kepada Suster Grace. Suratnya tersegel rapat, tapi tidak cukup rapat untuk menahan kekuatan Hilichurl.",
+        "jp": "ドゥラフがシスターグレイスに宛てた手紙。密封された手紙だったが、ヒルチャールの乱暴によって封筒が完全に破壊された。",
+        "kr": "두라프가 그레이스 수녀에게 부친 편지. 단단히 봉했지만, 츄츄족의 폭력으로 밀봉이 완전히 뜯어졌다",
+        "pt": "Uma carta de Draff para a irmã Grace. Estava bem lacrada, mas não foi suficiente para suportar a força bruta dos Hilirchurls.",
+        "ru": "Письмо от Драффа к сестре Грейс. Несмотря на то, что оно было крепко запечатано, хиличурлы смогли его открыть.",
+        "th": "จดหมายที่ Draff เขียนถึงซิสเตอร์ Grace แต่เดิมถูกปิดไว้อย่างแน่นหนาแต่หลังจากถูกพวก Hilichurl โจมตีซองจดหมายก็ขาดไปหมดแล้ว",
+        "vi": "Thư của Draff gửi cho tu nữ Grace. Vốn được dán rất kỹ, nhưng dưới sự bạo lực của Hilichurl, niêm phong đã bị hủy."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

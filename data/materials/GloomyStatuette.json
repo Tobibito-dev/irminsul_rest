@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gloomy Statuette",
+        "de": "Figur der Dunkelheit",
+        "chs": "晦暗刻像",
+        "cht": "晦暗刻像",
+        "es": "Estatuilla oscura",
+        "fr": "Statuette sinistre",
+        "id": "Gloomy Statuette",
+        "jp": "暗晦の彫刻",
+        "kr": "어두운 조각상",
+        "pt": "Escultura Sombria",
+        "ru": "Мрачная статуэтка",
+        "th": "Gloomy Statuette",
+        "vi": "Tượng Hắc Ám"
+    },
+    "id": 112017,
+    "materialDesc": {
+        "en": "An idol made in the likeness of some unknown person.\\nEven though this carving has seen many years pass, it still has not been damaged in any way. It seems that its previous owner must have cherished it like some holy icon.",
+        "de": "Eine kleine Statue, die nach dem Abbild einer unbekannten Person angefertigt wurde.\\nAuch wenn diese Schnitzerei schon viele Jahre auf dem Buckel hat, wurde sie in keiner Weise beschädigt. Es scheint, als hätte ihr früherer Besitzer sie wie eine heilige Ikone gehütet.",
+        "chs": "刻画着某人形象的小塑像。\\n即使经过了长久的岁月，也没有受到任何损伤。似乎被原本的主人如同圣象一般呵护着。",
+        "cht": "刻畫著某人形象的小塑像。\\n即使經過了長久的歲月，也沒有受到任何損傷。似乎被原本的主人如同聖像一般呵護著。",
+        "es": "Una pequeña estatuilla de una figura humana.\\nNo ha sufrido ningún daño a pesar del paso del tiempo. Es como si el propietario hubiera cuidado de ella como una reliquia.",
+        "fr": "Une statuette sculptée à l'effigie d'une personne inconnue.\\nElle a été témoin du passage du temps, mais demeure intacte. Son précédent propriétaire semble l'avoir chérie comme une icône sainte.",
+        "id": "Patung kecil yang menggambarkan seseorang yang tak dikenal.\\nTidak ada kerusakan yang didapati padanya, bahkan setelah melewati waktu yang lama. Tampaknya, benda ini dirawat oleh pemilik aslinya layaknya sebuah benda suci.",
+        "jp": "誰かをかたどった小さな彫刻。\\n長い年月を経ても、傷一つない。元の持ち主からは、聖なる彫像のように大切にされてきたようだ。",
+        "kr": "누군가의 형상이 흐릿하게 새겨진 조각상.\\n긴 세월이 지났지만 여전히 멀쩡하다. 옛 주인이 성물 모시듯 관리한 것 같다",
+        "pt": "Uma imagem que retrata a imagem de alguém.\\nNão sofreu nenhum dano mesmo depois de muito tempo. Parece que seu dono anterior a cuidava como um ícone sagrado.",
+        "ru": "Статуэтка, сделанная по подобию неизвестного человека. Хоть она и повидала многое, повреждений на ней нет. Похоже, бывший владелец оберегал её так, будто это некое священное изваяние.",
+        "th": "รูปปั้นขนาดเล็กที่มีการสลักรูปคนไว้\\nแม้เวลาจะผ่านมานานขนาดนี้ก็ไม่ได้ รับความเสียหายเลยแม้แต่น้อย ดูเหมือนว่ามันจะได้รับการดูแลรักษาอย่างดีจากเจ้าของราวกับเป็นรูปปั้นศักดิ์สิทธิ์",
+        "vi": "Bức tượng khắc họa hình tượng một người nào đó. \\nCho dù trải qua năm tháng, vẫn không bị hư hỏng. Dường như được chủ nhân ban đầu giữ gìn như tượng thần."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

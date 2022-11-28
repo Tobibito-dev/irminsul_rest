@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sweet-Flower Medaka",
+        "de": "Zuckerblumen-Medaka",
+        "chs": "甜甜花鳉",
+        "cht": "甜甜花鱂",
+        "es": "Medaka flor dulce",
+        "fr": "Médaka sucrant",
+        "id": "Sweet-Flower Medaka",
+        "jp": "スイートグッピー",
+        "kr": "달콤달콤 구피",
+        "pt": "Flor Doce Medaka",
+        "ru": "Сахарная оризия",
+        "th": "Sweet-Flower Medaka",
+        "vi": "Cá Khổng Tước Ngọt"
+    },
+    "id": 131002,
+    "materialDesc": {
+        "en": "A lively, energetic fish famous for its petal-shaped tail.\\nIt might be because this fish has a sweet tooth, but every bone in its body seems to serve as an antenna to seek out sweet treats. Following this absolute ideology, they swim through every creek and river in Teyvat in search of tasty sweets. True egalitarians, they will never reject any morsel, and certainly not because there's a hook attached. Have bait, will bite, as they say.\\nBeginner friendly.",
+        "de": "Ein lebhafter, energiegeladener Fisch, der für seine blütenförmige Schwanzflosse berühmt ist.\\nVielleicht liegt es daran, dass dieser Fisch eine Naschkatze ist, aber jede Gräte in seinem Körper scheint als Antenne zu dienen, um nach süßen Leckereien zu suchen. Dieser absoluten Naschsucht folgend, schwimmen sie durch jeden Bach und Fluss in Teyvat auf der Suche nach leckeren Süßigkeiten. Sie werden niemals einen Bissen zurückweisen und schon gar nicht, weil ein Haken daran hängt. Sie beißen sicher an, solange du einen Köder hast.\\nGut geeignet für Anfänger.",
+        "chs": "活泼好动的小型鳉鱼，以优美的花瓣型鱼尾闻名。\\n可能是最爱甜食的一种鳉鱼，身体的每个部分都是一种甜味搜索器，循着甜蜜主义的指引，它们巡游到了提瓦特每条溪流，恪守绝对公正的教旨，对所有甜食一视同仁，绝不因为某些甜味饵料裹挟着鱼钩就将其拒之门外。你肯下饵，它们就肯上钩。\\n钓鱼新手友好。",
+        "cht": "活潑好動的小型鱂魚，以優美的花瓣型魚尾聞名。\\n可能是最愛甜食的一種鱂魚，身體的每個部分都是一種甜味搜索器，循著甜蜜主義的指引，牠們巡游到了提瓦特每條溪流，恪守絕對公正的教旨，對所有甜食一視同仁，絕不因為某些甜味餌料裹挾著魚鉤就將其拒之門外。你肯下餌，牠們就肯上鉤。\\n釣魚新手友好。",
+        "es": "Un pez enérgico y de pequeño tamaño conocido por su elegante cola con forma de pétalo.\\nEstos peces son muy golosos y cada parte de su cuerpo parece ser un radar para buscar dulces. Recorren cada arroyo y cada río de Teyvat buscando golosinas y nunca dicen que no a nada, aunque estén enganchadas a un anzuelo. Si pones un cebo, ellos lo morderán.\\nFáciles de atrapar incluso para pescadores principiantes.",
+        "fr": "Un sémillant petit médaka, connu pour sa queue en forme de pétale.\\nCe type de médaka apprécie les aliments sucrés et chaque partie de son corps est donc faite pour en chercher. Il nage dans tous les cours d'eau de Teyvat afin d'assouvir sa soif de sucre et ne fait pas la différence entre les aliments tant qu'ils sont sucrés. Par conséquent, il ne refuse jamais de mordre à un hameçon si l'appât s'y prête.\\nC'est un poisson facile à attraper pour les débutants.",
+        "id": "Ikan medaka kecil yang lincah, terkenal karena ekornya yang berbentuk kelopak dan indah.\\nMungkin sejenis ikan medaka yang paling menyukai makanan manis. Setiap bagian tubuhnya sudah semacam pelacak rasa manis. Sebagai pengikut setia dari rasa manis, mereka berenang ke setiap aliran sungai di Teyvat dan mencari makanan manis tanpa pandang bulu. Tidak ada makanan manis apa pun yang boleh \"dianaktirikan\", dan umpan manis tertentu juga tidak boleh ditolak hanya karena dibungkus dengan kail. Kamu beri umpan, mereka ambil umpan.\\nIkan ini ramah terhadap pemancing pemula.",
+        "jp": "活気のあるグッピー、花びらのような美しい尾ひれで有名。\\nグッピーの中で甘いものが一番好きなのかもしれない。体にある全ての部位は甘味探知器となっており、甘味をたどり、テイワットの川々を泳いでいる。絶対的な公正公平を守り、全ての甘いものを平等に扱う。釣り針が付いた甘い餌でも喰らい付く。釣り餌をやれば、確実に引き寄せることができる。\\n釣りの初心者にやさしい魚だ。",
+        "kr": "활동적이고 작은 구피.아름다운 꽃잎 모양 꼬리로 유명하다.\\n아마 단 것을 가장 좋아하는 구피가 아닐까 싶다. 모든 신체 부위가 단맛 탐지기이며, 달콤함에 이끌려 티바트의 모든 시냇물을 유람했다. 모든 단 음식을 동등하게 대우하고 바늘이 끼어 있는 달콤한 미끼라고 해서 예외는 없다. 미끼를 던져라, 그럼 물것이니.\\n낚시 초보자에게 딱 이다",
+        "pt": "Um peixe animado e enérgico famoso por seus padrões floridos.\\nPode ser por causa desse peixe ter um paladar doce, mas todas as partes de seu corpo são como um radar para procurar doces. Seguindo essa ideologia absoluta, eles nadam por todo riacho e rio em Teyvat em busca de comida doce. Verdadeiramente igualitários, nunca rejeitarão qualquer coisa doce, mesmo que possua um anzol fisgado. Basta uma isca para moderem.\\nSão amigos dos pescadores iniciantes.",
+        "ru": "Бойкая маленькая рыбка, известная своим красивым хвостом в форме лепестков.\\nВероятно, этот вид оризий больше всех любит сладкое. Каждый их орган будто настроен на поиск сладостей. В своих поисках они проплывают по всем ручьям Тейвата, и, руководствуясь принципом абсолютной справедливости, не отказываются ни от единой сладости, даже той, что посажена на крючок. Стоит сделать наживку, как они тут же клюнут на неё. \\nЛовля этой рыбы идеально подходит для новичков.",
+        "th": "ปลาขนาดเล็กที่เปี่ยมด้วยชีวิตชีวา มีชื่อเสียงเรื่องหางที่งดงามเหมือนกลีบดอกไม้\\nพวกมันน่าจะเป็นปลา Medaka ที่ชื่นชอบของหวานมากที่สุด ทุกส่วนในร่างกายของมันเป็นเหมือนเครื่องค้นหารสชาติหวาน ที่ถูกความหวานดึงดูดให้เข้าไปหา พวกมันว่ายไปตามแม่น้ำทุกสายใน Teyvat ทำตามจุดมุ่งหมายของตนเองอย่างเคร่งครัด และปฏิบัติต่อของหวานอย่างเท่าเทียม มันจะไม่ยอมเพิกเฉยต่อเหยื่อหวาน ๆ แค่เพราะมันผูกติดอยู่กับตะขอหรอกนะ ในเมื่อคุณกล้าใช้เหยื่อ มันก็กล้าที่จะงับเข้าปาก\\nมิตรแท้ของนักตกปลามือใหม่",
+        "vi": "Loài cá hoạt bát cỡ nhỏ, nổi tiếng với chiếc đuôi cá hình cánh hoa duyên dáng.\\nLà loài cá thích sự ngọt ngào nhất, chúng phân bố trên các kênh sông khắp Teyvat, đồng thời cũng cực kỳ tuân thủ chủ nghĩa ngọt ngào, chỉ cần là thứ gì đó ngọt ngào, chúng sẽ không quan tâm bên trong có móc câu hay gì. Chỉ cần chịu thả mồi, chúng sẽ tự động cắn câu.\\nLà loài cá thân thiện với tân thủ."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

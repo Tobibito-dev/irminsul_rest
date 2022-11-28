@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Glaze Lily",
+        "de": "Glaslilie",
+        "chs": "琉璃百合",
+        "cht": "琉璃百合",
+        "es": "Lirio de cristal",
+        "fr": "Lys verni",
+        "id": "Glaze Lily",
+        "jp": "琉璃百合",
+        "kr": "유리백합",
+        "pt": "Lírio de Vidro",
+        "ru": "Глазурная лилия",
+        "th": "Glaze Lily",
+        "vi": "Bách Hợp Lưu Ly"
+    },
+    "id": 100030,
+    "materialDesc": {
+        "en": "An extremely ancient flower that was said to be commonly seen in Liyue. It transforms the memories of the land into its fragrance during florescence.",
+        "de": "Eine uralte Pflanze, die einst ganz Liyue bedeckt haben soll. Sie sammelt die Erinnerungen des Landes und gibt sie in Form von süßem Duft ab, sobald sie blüht.",
+        "chs": "极为古老的花卉。据说曾经遍布璃月大地，能将大地的记忆积攒成花期时的芬芳。",
+        "cht": "極為古老的花卉。據說曾經遍佈璃月大地，能將大地的記憶積累成花期時的芬芳。",
+        "es": "Una flor milenaria que solía encontrarse comúnmente en Liyue. Transforma los recuerdos de la tierra en su fragancia durante la floración.",
+        "fr": "Une fleur qui pousse à Liyue depuis les temps anciens. Elle rassemble les souvenirs de la terre pour les libérer sous forme de parfum à sa fleuraison.",
+        "id": "Bunga yang sudah ada sejak dahulu kala dan dikabarkan bahwa sering dijumpai di Liyue. Konon katanya, mekarnya bunga ini dapat mengubah seluruh memori di daratan Liyue menjadi harum yang semerbak.",
+        "jp": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
+        "kr": "아주 오래된 화초. 과거엔 리월 전역에서 자라며 대지의 기억을 모아 꽃이 필 때쯤 그 기억을 향기로 내뿜었다고 한다",
+        "pt": "Uma flor extremamente antiga que dizem ser comumente encontrada em Liyue. Transforma as memórias da terra em sua fragrância durante a florescência.",
+        "ru": "Это одно из древнейших растений, которое многие видят в окрестностях Ли Юэ. Во время цветения трансформирует память земли в приятный цветочный аромат.",
+        "th": "ดอกไม้ที่มีความเก่าแก่มาก ว่ากันว่าเคยพบได้ทุกที่ใน Liyue สามารถแปลงความทรงจำของเมืองให้เป็นกลิ่นหอมในช่วงที่บานสะพรั่ง",
+        "vi": "Loài hoa từ thời cổ xưa. Nghe nói từng mọc khắp vùng đất Liyue, có thể tích tụ những ký ức tạo thành hương thơm của hoa."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

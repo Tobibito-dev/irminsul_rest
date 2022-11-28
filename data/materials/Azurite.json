@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Azurite",
+        "de": "Azurit",
+        "chs": "岚生石",
+        "cht": "嵐生石",
+        "es": "Azurita",
+        "fr": "Azurite",
+        "id": "Azurite",
+        "jp": "嵐生石",
+        "kr": "남생석",
+        "pt": "Azurite",
+        "ru": "Азурит",
+        "th": "Azurite",
+        "vi": "Lam Sinh Thạch"
+    },
+    "id": 100237,
+    "materialDesc": {
+        "en": "A piece of plaustrite dug up from the roots of a Bloatty Floatty. It has a rather unique color and is, perhaps, the Azurite that Wang'ya spoke of...",
+        "de": "Ein Stück Plaustrit von den Wurzeln einer Zauselfrucht. Es hat eine recht ungewöhnliche Farbe und könnte das Azurit sein, von dem Wangya sprach ...",
+        "chs": "从蓬蓬果的根系下挖出的浮生石，颜色十分特别，或许这就是望雅所说的「岚生石」…",
+        "cht": "從蓬蓬果的根系下挖出的浮生石，顏色十分特別，或許這就是望雅所說的「嵐生石」…",
+        "es": "Un tipo de plaustrita desenterrada de las raíces de un floti floti. El color es muy particular. Tal vez esta sea la azurita a la que se refería Wangya.",
+        "fr": "Un fragment de plaustrite à la couleur singulière extrait des racines d'un fruit pompon. Il s'agit peut-être de l'azurite dont Wangya a parlé...",
+        "id": "Plaustrite Shard yang digali dari akar Bloatty Floatty. Warnanya berbeda dari biasanya, mungkin ini batu Azurite yang diceritakan oleh Wang'ya...",
+        "jp": "ポンポンの実の根元から掘り出した浮生の石片。特別な色を持ち、もしかしたらこれが望雅の言う「嵐生石」なのかもしれない…",
+        "kr": "퐁퐁나무의 뿌리 밑에서 캐낸 부유석. 색이 아주 특이하다. 이게 바로 망아가 말한 「남생석」일까…",
+        "pt": "Plaustrite obtido de raízes de Sementes Flutuantes. Sua cor é muito especial. Talvez isso seja o Azurite que Wang'ya mencionou...",
+        "ru": "Кусок плаустрита, добытый из корней порхающей помидорки. Он имеет уникальный цвет. Наверняка это азурит, о котором говорила Ван Я...",
+        "th": "Plaustrite ที่ขุดขึ้นมาจากรากของ Bloatty Floatty มันมีสีที่พิเศษมาก บางทีนี่อาจจะเป็น \"Azurite\" ที่ Wang'ya พูดถึงก็เป็นได้...",
+        "vi": "Phù Sinh Thạch đào được từ bộ rễ của quả Bồng Bồng, màu sắc rất đặc biệt, có lẽ đây là \"Lam Sinh Thạch\" mà Wang'ya nói..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

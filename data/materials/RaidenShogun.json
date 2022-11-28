@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Raiden Shogun",
+        "de": "Shougun Raiden",
+        "chs": "雷电将军",
+        "cht": "雷電將軍",
+        "es": "Shogun Raiden",
+        "fr": "Shogun Raiden",
+        "id": "Raiden Shogun",
+        "jp": "雷電将軍",
+        "kr": "라이덴 쇼군",
+        "pt": "Shogun Raiden",
+        "ru": "Райдэн",
+        "th": "Raiden Shogun",
+        "vi": "Raiden Shogun"
+    },
+    "id": 1052,
+    "materialDesc": {
+        "en": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+        "de": "Ihre Exzellenz, die Allmächtige Narukami Ogosho. Sie hat dem Volk von Inazuma eine unvergängliche Ewigkeit versprochen.",
+        "chs": "其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。",
+        "cht": "其身為御建鳴神主尊大御所大人，許稻妻人民以亙古不變之「永恆」。",
+        "es": "Su Excelencia, la todopoderosa Narukami, quien le prometió al pueblo de Inazuma la inmutable eternidad.",
+        "fr": "Son Excellence, la toute-puissante Narukami Ogosho, qui a promis au peuple d'Inazuma une éternité immuable.",
+        "id": "Yang Mulia, Sang Narukami Ogosho Yang Mahakuasa. Dia menjanjikan para penduduk Inazuma keabadian yang tidak akan pernah berubah.",
+        "jp": "御建鳴神主尊大御所様。永劫不変の「永遠」を稲妻の民に約束する。",
+        "kr": "위대하신 나루카미 쇼군. 이나즈마 백성들에게 변치 않는 「영원」을 약속했다",
+        "pt": "Sua Excelência, a Toda-Poderosa Narukami Ogosho, que prometeu ao povo de Inazuma uma Eternidade imutável.",
+        "ru": "Её превосходительство Наруками Огосё, пообещавшая неизменную вечность для жителей Инадзумы.",
+        "th": "ท่าน Narukami Ogosho ผู้ยิ่งใหญ่ ผู้ซึ่งสัญญาว่าจะมอบ \"ความเป็นนิรันดร์\" ที่ไม่มีวันเปลี่ยนแปลงให้กับชาว Inazuma",
+        "vi": "Là Tôn Chủ Narukami Ogosho đại nhân, đưa người dân Inazuma hướng đến sự \"vĩnh hằng\" ngàn năm không đổi."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

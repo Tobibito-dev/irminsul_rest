@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Poster",
+        "de": "Plakat",
+        "chs": "海报",
+        "cht": "海報",
+        "es": "Póster",
+        "fr": "Affiche",
+        "id": "Poster",
+        "jp": "ポスター",
+        "kr": "포스터",
+        "pt": "Pôster",
+        "ru": "Афиша",
+        "th": "Poster",
+        "vi": "Áp Phích"
+    },
+    "id": 100185,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

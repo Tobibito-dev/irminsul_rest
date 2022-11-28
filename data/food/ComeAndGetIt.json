@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Come and Get It",
+        "de": "Schüssel Buntes",
+        "chs": "来来菜",
+        "cht": "來來菜",
+        "es": "¡Ven por ello!",
+        "fr": "Ramen Alézi",
+        "id": "Come and Get It",
+        "jp": "お食べくだ菜",
+        "kr": "흥얼채",
+        "pt": "Venha por Ela",
+        "ru": "Налетайка",
+        "th": "Come and Get It",
+        "vi": "Món Nào Nào"
+    },
+    "id": 3105,
+    "foodType": "COOK_FOOD_ATTACK",
+    "cookMethod": "COOK_METHOD_FRY",
+    "rankLevel": 3,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 15,
+    "inputVec": [
+        {
+            "id": 100061,
+            "count": 3
+        },
+        {
+            "id": 100084,
+            "count": 3
+        },
+        {
+            "id": 100092,
+            "count": 3
+        },
+        {
+            "id": 100088,
+            "count": 1
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108131,
+            "count": 1
+        },
+        {
+            "id": 108132,
+            "count": 1
+        },
+        {
+            "id": 108133,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.5,0.27",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Increases all party members' CRIT Rate by <color=#3399CCFF>10–20%</color> for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "de": "Erhöht die KT aller Truppenmitglieder 300 s lang um <color=#3399CCFF>10 bis 20 %</color>. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+        "chs": "队伍中所有角色暴击率提升<color=#3399CCFF>10%-20%</color>，持续300秒。 多人游戏时，仅对自己的角色生效。",
+        "cht": "隊伍中所有角色暴擊率提升<color=#3399CCFF>10%-20%</color>，持續300秒。 多人遊戲時，僅對自己的角色生效。",
+        "es": "Aumenta la Prob. CRIT de todos los miembros del equipo en un <color=#3399CCFF>10%-20%</color> durante 300 s. En modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
+        "fr": "Augmente le taux CRIT de tous les personnages de l'équipe de <color=#3399CCFF>10 % à 20 %</color> pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+        "id": "Meningkatkan <color=#3399CCFF>10-20%</color> CRIT Rate seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+        "jp": "チーム全員の会心率+<color=#3399CCFF>10%~20%</color>、継続時間300秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
+        "kr": "파티 내 모든 캐릭터의 치명타 확률이 <color=#3399CCFF>10%-20%</color> 증가한다. 지속 시간: 300초 다인 모드 시 자신의 캐릭터에만 적용된다",
+        "pt": "Aumenta a Taxa Crítica de todos os membros em <color=#3399CCFF>10% - 20%</color> por 300s. No modo multijogador, o efeito apenas se aplica ao seu personagem.",
+        "ru": "Увеличивает шанс крит. попадания всех членов отряда на <color=#3399CCFF>10%-20%</color> в течение 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "th": "เพิ่มอัตราคริของตัวละครทั้งหมดในทีม <color=#3399CCFF>10%-20%</color> เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+        "vi": "Tỷ lệ bạo kích cả đội tăng <color=#3399CCFF>10%-20%</color>, kéo dài 300s Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+}

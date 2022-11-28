@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tale of the Desert",
+        "de": "Geschichte der Wüste",
+        "chs": "关于沙漠的故事",
+        "cht": "關於沙漠的故事",
+        "es": "Cuento del desierto",
+        "fr": "Conte du désert",
+        "id": "Tale of the Desert",
+        "jp": "砂漠に関する物語",
+        "kr": "사막에 대한 이야기",
+        "pt": "Contos do Deserto",
+        "ru": "История о пустыне",
+        "th": "เรื่องราวเกี่ยวกับทะเลทราย",
+        "vi": "Câu Chuyện Về Sa Mạc"
+    },
+    "id": 221020,
+    "materialDesc": {
+        "en": "Through this tale, you can master the method to make the sword \"Sapwood Blade.\"\\n\\nThis tale is about a friend lost in the desert.\\n\"This is a story from Valuka...\"",
+        "de": "Durch diese Geschichte lernst du die Herstellung des Einhänders „Stammklinge“.\\n\\nDiese Geschichte hat eine enge Verbindung zu dem in der Wüste verlorenen Freunden.\\n„Dies ist eine Geschichte aus Valuka ...“",
+        "chs": "通过这个故事，能掌握单手剑「原木刀」的制造方法。\\n\\n这个故事与失落在沙海中的友人有关。\\n「这是来自巴螺迦的故事…」",
+        "cht": "透過這個故事，能掌握單手劍「原木刀」的製造方法。\\n\\n這個故事與失落在沙海中的友人有關。\\n「這是來自巴螺迦的故事…」",
+        "es": "A través de este cuento, aprenderás a fabricar Espada de Madera (espada ligera).\\n\\nTrata sobre un amigo que se perdió en el desierto.\\n“Esta es historia procedente de valuka...”.",
+        "fr": "#Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à une main «{NON_BREAK_SPACE}Lame d'aubier ».\\n\\nC'est une histoire qui parle d'amis emportés par le désert.\\n« Voici un récit qui nous vient des valukas... »",
+        "id": "Melalui kisah ini, kamu dapat menguasai metode untuk membuat pedang \"Sapwood Blade\".\\n\\nKisah ini menceritakan tentang seorang teman yang tersesat di padang pasir.\\nIni adalah kisah yang berasal dari Valuka ....",
+        "jp": "この物語を通して、片手剣「原木刀」の製作方法を把握できる。\\n\\nこの物語は、砂漠で失った友人に関するもの。\\n「これは、ワルカから伝わる物語…」",
+        "kr": "이 이야기를 통해 한손검 「원목 검」의 제작 방법을 습득할 수 있다.\\n\\n이 이야기는 모래바다 한가운데에서 사라진 친구와 관련이 있다.\\n「이건 바루카의 이야기야…」",
+        "pt": "Através desse conto, você aprenderá a fabricar a Espada \"Espada de Madeira\".\\n\\nEssa história é sobre um amigo que se perdeu no deserto.\\n\"Essa história veio de Valuka...\"",
+        "ru": "Эта история поможет вам овладеть техникой создания одноручного меча «Деревянный клинок».\\n\\nИстория о друге, потерявшемся в пустыне.\\n«Это история валуки...»",
+        "th": "คุณสามารถทราบวิธีการหลอมดาบ \"Sapwood Blade\" ผ่านเรื่องราวนี้ได้\\n\\nเรื่องราวนี้มีส่วนเกี่ยวข้องกับมิตรสหายที่สาบสูญท่ามกลางทะเลทราย\\n\"เรื่องเล่านี้มาจาก Valuka...\"",
+        "vi": "Thông qua câu chuyện này, có thể nắm được cách chế tạo kiếm đơn \"Kiếm Gỗ\". \\n\\nCâu chuyện này kể về một người bạn bị lạc giữa biển cát.\\n\"Đây là câu chuyện của Valuka...\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

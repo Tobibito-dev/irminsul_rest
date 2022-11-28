@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yakshas: The Guardian Adepti",
+        "de": "Yaksha, die schützenden Adepten",
+        "chs": "护法仙众夜叉录",
+        "cht": "護法仙眾夜叉錄",
+        "es": "Yakshas: los guardianes Adeptus",
+        "fr": "Les Yakshas, gardiens Adeptes",
+        "id": "Yaksha: Adeptus Pelindung",
+        "jp": "護法仙衆夜叉録",
+        "kr": "호법선중야차록",
+        "pt": "Yakshas: Os Guardiões Adepti",
+        "ru": "Яксы: Защитники Адептов",
+        "th": "บันทึกยักษาเซียนผู้พิทักษ์",
+        "vi": "Hộ Pháp Tiên Chúng Dạ Xoa"
+    },
+    "id": 100426,
+    "materialDesc": {
+        "en": "A volume out of the \"Wonders and Folklore of Liyue\" collection, which serves as Liyue's own version of \"Tour of the Land of Liyue,\" an encyclopedia of folk beliefs and customs by Masudi, a scholar from Sumeru. Due to the archaic nature of the author's writing style, it was largely dismissed by the public and publishers alike. \"Yakshas: The Guardian Adepti\" introduces the readers to the various yakshas who fought side-by-side with the Geo Archon.",
+        "de": "„Schmuckkästchen Liyue“ aus der von Masudi, einem Gelehrten aus Sumeru, verfassten Enzyklopädie über Brauchtümer „Ausflug durch Liyue, das Reich des Gesteins“ ist so kompliziert und unverständlich geschrieben, dass es von Buchhändlern und Lesern gleichermaßen geschmäht wird. „Yaksha, die schützenden Adepten“ ist ein Band aus der Sammlung, in dem die Heldentaten der Yaksha, die Seite an Seite mit dem Geo-Archon gekämpft haben, vorgestellt werden.",
+        "chs": "须弥学者麦苏迪所著民俗百科全书《琉璃岩间国土纪行》的璃月版本《匣中琉璃云间月》，因文笔佶屈聱牙，内容艰深难读而备受书商与读者冷落。《护法仙众夜叉录》是其中一册，本册介绍了曾与岩之神并肩作战的诸位夜叉之事迹。",
+        "cht": "須彌學者麥蘇迪所著民俗百科全書《琉璃岩間國土紀行》的璃月版本《匣中琉璃雲間月》，因文筆佶屈聱牙，內容艱深難讀而備受書商與讀者冷落。《護法仙眾夜叉錄》是其中一冊，本冊介紹了曾與岩之神並肩作戰的諸位夜叉之事蹟。",
+        "es": "Un volumen de la colección «Maravillas y folclore de Liyue» que sirve como versión de «Viaje por las tierras de Liyue», una enciclopedia de creencias y costumbres populares escrito por Masudi, un erudito de Sumeru. Debido al arcaico estilo de escritura del autor, fue rechazado en gran medida por el público y los editores por igual. En «Yakshas: los guardianes Adeptus», se describen los diversos Yakshas que lucharon codo a codo con el Arconte Geo.",
+        "fr": "Un volume de la collection « Folklore & merveilles de Liyue », qui est la version réservée à Liyue de la série « Un tour des terres de Liyue », rédigée par le chercheur Masudi de Sumeru. Son style obscur en rend le contenu difficilement compréhensible. « Les Yakshas, gardiens Adeptes » présente les différents Yakshas ayant combattu aux côtés de l'Archon Géo.",
+        "id": "Sebuah volume dari koleksi \"Keajaiban Tersembunyi dan Cerita Rakyat Liyue\", yang berfungsi sebagai \"Tur Daratan Liyue,\" versi Liyue sendiri sebuah ensiklopedia yang berisi tentang kepercayaan dan adat istiadat rakyat. Diciptakan oleh Masudi, seorang sarjana dari Sumeru. Karena cara penulisannya yang kuno, sebagian besar buku ini ditolak oleh publik dan penerbit. \"Yaksha: Adeptus Pelindung\" memperkenalkan para pembaca tentang berbagai Yaksha yang bertempur berdampingan dengan Geo Archon.",
+        "jp": "スメール学者マイソディによる民族百科事典『琉璃岩間国土紀行』の璃月バージョン『匣中琉璃雲間月』、内容が難しすぎるため、読者からの人気はかなり低い。『護法仙衆夜叉録』はそのうちの1冊で、岩の神と共に戦っていた夜叉たちのことが記されている。",
+        "kr": "수메르 학자 메수디가 쓴 민속 백과사전 《유리암과 국토 사이 기행》의 리월 버전 《유리 구름과 달 사이》. 글이 어렵고 내용이 심오해 서적상과 독자들에게 외면당했다. 《호법선중야차록》은 그중 한 편으로 바위 신과 함께 싸웠던 여러 야차의 이야기를 소개하고 있다",
+        "pt": "Um volume da coleção \"Maravilhas Ocultas e Folclore de Liyue\", que serve como a versão de Liyue de \"Visita à Terra de Liyue\", uma enciclopédia de crenças e costumes populares de Masudi, um estudioso da Sumeru. Devido à natureza arcaica do estilo de escrita do autor, foi amplamente descartado pelo público e pelos editores. \"Yakshas, os Guardiões Adepti\" apresenta aos leitores os vários yakshas que lutaram lado a lado com o Arconte Geo.",
+        "ru": "Том из коллекции «Скрытые чудеса и фольклор Ли Юэ», которая служит местной версией «Путеводителя по землям Ли Юэ», энциклопедии народных верований и обычаев, написанной Масуди, учёным из Сумеру. Из-за архаичной природы авторского стиля письма, он получил множество отрицательной критики от издателей и читателей. «Яксы: Защитники Адептов» рассказывают читателю о различных духах Якса, которые сражались бок о бок с Гео Архонтом.",
+        "th": "หนังสือเล่มหนึ่งที่ออกมาจากคอลเล็กชั่นของ \"สิ่งมหัศจรรย์ที่ซ่อนอยู่ใน Liyue\" โดยเป็นเวอร์ชัน \"การเดินทางสู่ดินแดนแห่งหิน\" ของ Liyue ซึ่งเป็นสารานุกรมเกี่ยวกับความเชื่อและประเพณีพื้นบ้านโดย Masudi นักวิชาการจาก Sumeru เพราะสไตล์การเขียนที่เข้าใจได้ยาก จึงทำให้ถูกเมินจากเหล่าเจ้าของร้านหนังสือและผู้อ่าน หนึ่งในนั้นก็คือ \"บันทึกยักษาเซียนผู้พิทักษ์\" ที่บอกเล่าเรื่องราวการสู้รบเคียงบ่า เคียงไหล่กับเทพแห่งหินของยักษา",
+        "vi": "\"Hạp Trung Lưu Ly Vân Gian Nguyệt\" của Liyue được biên soạn lại từ cuốn sách bách khoa văn hóa dân gian bách khoa toàn thư \"Lưu Ly Nham Gian Quốc Sĩ Kỷ Hành\" của học giả Sumeru - Masudi, do lời văn khó hiểu, nội dung uyên thâm mà khiến cuốn sách không được độc giả đón nhận rộng rãi. \"Hộ Pháp Tiên Chúng Dạ Xoa Lục\" là một trong số các tập trong đó, tập này giới thiệu về sự tích các Dạ Xoa từng kề vai sát cánh với Nham Thần."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

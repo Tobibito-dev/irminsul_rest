@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Lotus Seed and Bird Egg Soup",
+        "de": "Leckeres gedämpftes Ei mit Lotossamen",
+        "chs": "美味的莲子禽蛋羹",
+        "cht": "美味的蓮子禽蛋羹",
+        "es": "Sopa de loto y huevo deliciosa",
+        "fr": "Œufs et graines de lotus à la vapeur (délicieux)",
+        "id": "Delicious Lotus Seed and Bird Egg Soup",
+        "jp": "美味しそうなハスの実入り茶碗蒸し",
+        "kr": "맛있는 연밥 계란찜",
+        "pt": "Sopa de Lótus e Ovo Deliciosa",
+        "ru": "Вкусный яичный суп из лотоса",
+        "th": "Lotus Seed and Bird Egg Soup แสนอร่อย",
+        "vi": "Canh Trứng Hạt Sen Ngon"
+    },
+    "id": 108121,
+    "materialDesc": {
+        "en": "A steamed egg dish. The succulent eggs melt right in your mouth, and before you know it, a smooth and subtle sweetness of newly sprung lotus flowers covers your tastebuds.",
+        "de": "Eine gedämpfte Eierspeise. Die zarte Eiermasse zergeht auf der Zunge und flutscht nur so die Speiseröhre hinunter. Im Mund wird lediglich ein Gefühl der Zufriedenheit hinterlassen, so frisch und zart wie die Blüten einer Lotospflanze.",
+        "chs": "蒸制而成的蛋料理。弹嫩的禽蛋羹融化于口中，一不留神便滑入喉头。回过神来，唇齿之间留下的满是如莲花初绽般的清甜。",
+        "cht": "蒸製而成的蛋料理。彈嫩的禽蛋羹融化於口中，一不留神便滑入喉頭。回過神來，唇齒之間留下的滿是如蓮花初綻般的清甜。",
+        "es": "Un plato de huevos al vapor. Los suculentos huevos se derriten en la boca y, antes de que te des cuenta, la suave y sutil dulzura de las flores de loto recién abiertas inunda tus papilas gustativas.",
+        "fr": "Un plat à base d'œufs cuit à la vapeur. La crème d'œufs glisse de la bouche jusqu'à l'estomac et vous laisse une sensation de bien-être.",
+        "id": "Hidangan telur kukus. Rasa telur lezat yang meleleh di mulut, ditambah dengan rasa manis dari bunga lotus benar-benar menggugah selera.",
+        "jp": "卵の茶碗蒸し。滑らかな茶碗蒸しが口の中に溶けて、気がついたらすでにのどを通った。口の中に残る余韻が綻びるハスのように甘くて清々しい。",
+        "kr": "쪄서 만든 계란 요리. 탱탱한 계란찜을 입에 넣으면 금방이라도 녹을 것처럼 부드럽고 연꽃이 피어난 듯한 달콤한 향이 입안 가득 퍼진다",
+        "pt": "Um prato de ovo cozido no vapor. Os ovos suculentos derretem na boca e, antes que você perceba, uma doçura suave e sutil de flores de lótus recém-nascidas cobre o paladar.",
+        "ru": "Яйцо, приготовленное на пару. Сочный желток тает прямо во рту, и, неожиданно, сладковато нежный вкус лотоса застилает ваши вкусовые рецепторы.",
+        "th": "เมนูอาหารตุ๋นที่ทำจากไข่ คัสตาร์ดไข่ที่นุ่มจนละลายในปาก และไหลลงคอได้โดยไม่รู้ตัว เมื่อรู้สึกตัวอีกครั้ง ในปากก็เต็มไปด้วยรสหวานราวดอกบัวแรกแย้ม",
+        "vi": "Món hấp từ trứng. Bánh trứng mềm mịn tan vào miệng, chỉ cần lơ đễnh một chút là có thể lọt thỏm vào cổ họng. Đến khi giật mình lại thì hương vị ngọt thanh như hoa sen chớm nở đã len lỏi giữa những kẽ răng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

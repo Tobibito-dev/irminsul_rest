@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Araesha's Flower",
+        "de": "Blume von Araesha",
+        "chs": "兰伊舍的花",
+        "cht": "蘭伊舍的花",
+        "es": "Flor de Araesha",
+        "fr": "Fleur d'Araesha",
+        "id": "Bunga Araesha",
+        "jp": "アランイシャの花",
+        "kr": "아란에샤의 꽃",
+        "pt": "Flor de Araesha",
+        "ru": "Цветок Араеши",
+        "th": "ดอกไม้ของ Araesha",
+        "vi": "Hoa Araesha"
+    },
+    "id": 101825,
+    "materialDesc": {
+        "en": "A flower gifted to you by Araesha.\\nThe biggest mystery is perhaps why Araesha describes the riddles as being \"delicious\"... Is it because they are all about food?",
+        "de": "Eine von Araesha geschenkte Blume.\\nDas größte Rätsel ist wahrscheinlich, warum, Araesha Rätsel als „lecker“ beschreibt ... Etwa, weil sie sich alle um Essen drehen?",
+        "chs": "兰伊舍赠送的花儿。\\n恐怕最深的谜团是为何他将谜语形容为「好吃」…是因为都是食材吗？",
+        "cht": "蘭伊舍贈送的花朵。\\n恐怕最深的謎團是為何他將謎語形容為「好吃」…是因為都是食材嗎？",
+        "es": "Una flor que te dio Araesha.\\nQuizás la incógnita más misteriosa sea por qué razón Araesha describe sus acertijos como “deliciosos”.",
+        "fr": "Une fleur offerte par Araesha.\\nLe plus grand mystère est peut-être la raison pour laquelle Araesha décrit les énigmes comme étant « délicieuses »... Est-ce parce qu'elles parlent toutes de nourriture ?",
+        "id": "Bunga yang diberikan padamu oleh Araesha.\\nMisteri terbesar mungkin adalah mengapa Araesha menggambarkan teka-teki itu sebagai sesuatu yang \"lezat\" ... Apakah karena semuanya memang tentang makanan?",
+        "jp": "アランイシャから貰った花。\\nなぞなぞを「おいしい」と表現した理由は最大の謎…待って、もしかして謎の答えが全部食材だからってこと？",
+        "kr": "아란에샤가 선물한 꽃.\\n가장 풀기 어려운 수수께끼는 어째서 아란에샤가 수수께끼를 「맛있다」라고 표현했는가이다… 설마 모두 식자재이기 때문일까?",
+        "pt": "Flor dada por Araesha.\\nTalvez o maior mistério seja o fato dele adjetivar o enigma como \"delicioso\"... É porque são todos os ingredientes?",
+        "ru": "Цветок, подаренный Араешей.\\nСамая большая тайна - почему Араеша описывает загадки как «вкусные»... Потому что они все о еде?",
+        "th": "ดอกไม้ที่ Araesha มอบให้\\nปริศนาที่ลึกลับที่สุดคงจะเป็นการที่เขาอธิบายปริศนาเหล่านั้นว่า \"อร่อยมาก\"... เป็นเพราะว่าทุกสิ่งอย่างคือวัตถุดิบอาหารงั้นเหรอ?",
+        "vi": "Hoa Araesha tặng.\\nCó lẽ bí ẩn sâu sắc nhất là tại sao Araesha mô tả câu đố là \"ngon\"... vì đều là đồ ăn sao?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

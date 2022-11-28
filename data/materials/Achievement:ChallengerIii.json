@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Challenger III",
+        "de": "Errungenschaft – Herausforderung, die Dritte",
+        "chs": "成就·挑战·其三",
+        "cht": "成就·挑戰·其三",
+        "es": "Logro: Retador - Parte 3",
+        "fr": "Succès - Défi (3)",
+        "id": "Achievement: Penantang III",
+        "jp": "アチーブメント·挑戦·3",
+        "kr": "업적·도전·세 번째",
+        "pt": "Conquista - Desafiante III",
+        "ru": "Испытания III",
+        "th": "ความสำเร็จ - ผู้ท้าทาย III",
+        "vi": "Thành tựu - Khiêu chiến (III)"
+    },
+    "id": 210051,
+    "materialDesc": {
+        "en": "Namecard style.\\nFinally, a worthy opponent! Our battle will be legendary!",
+        "de": "Ein Motiv für Namenskärtchen.\\nEndlich ein Feind, gegen den es sich zu kämpfen lohnt. Dieser Kampf wird in die Geschichte eingehen.",
+        "chs": "名片纹饰。\\n终于有一个值得一战的对手了，这场战斗必定载入史诗。",
+        "cht": "名片紋飾。\\n終於有一個值得一戰的對手了，這場戰鬥必定載入史詩。",
+        "es": "Diseño de tarjeta de presentación.\\nPor fin tengo un rival contra el que merece la pena luchar. Nuestro combate pasará a la historia.",
+        "fr": "Thème.\\nEnfin un défi de taille. Ce combat restera dans les annales.",
+        "id": "Style kartu nama.\\nAkhirnya menemukan seorang lawan yang pantas, pertarungan ini akan menjadi pertarungan paling sengit sepanjang masa.",
+        "jp": "名刺の飾り紋。\\nようやく戦うに値する相手が現れた。この戦いは必ず歴史に刻まれる。",
+        "kr": "명함 스킨.\\n마침내 겨룰 만한 상대가 나타났다. 이번 전투는 반드시 역사에 기록될 것이다",
+        "pt": "Estilo de Cartão de Visita.\\nFinalmente um adversário que vale a pena lutar, esta batalha ficará para a história.",
+        "ru": "Именная карта.\\nНаконец-то достойный противник! Наша схватка будет легендарной!",
+        "th": "ลายนามบัตร\\nในที่สุดเจอคู่ต่อสู้ที่คู่ควร การต่อสู้ครั้งนี้เป็นการต่อสู้ที่ดุเดือดที่สุดในประวัติศาสตร์เลยทีเดียว",
+        "vi": "Hoa văn danh thiếp.\\nCuối cùng cũng có một đối thủ đáng để chiến đấu, và trận chiến này phải ghi vào lịch sử."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

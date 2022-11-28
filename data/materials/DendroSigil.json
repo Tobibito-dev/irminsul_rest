@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dendro Sigil",
+        "de": "Dendro-Siegel",
+        "chs": "草之印",
+        "cht": "草之印",
+        "es": "Insignia Dendro",
+        "fr": "Sceau Dendro",
+        "id": "Dendro Sigil",
+        "jp": "草の印",
+        "kr": "풀의 인장",
+        "pt": "Selo Dendro",
+        "ru": "Печать Дендро",
+        "th": "Dendro Sigil",
+        "vi": "Ấn Thảo"
+    },
+    "id": 303,
+    "materialDesc": {
+        "en": "A sigil that serves as a sign of recognition from the trees, grass, and flowers in Sumeru.\\nOffer it to the Tree of Dreams deep in the woods to receive the rewards from the forest.",
+        "de": "Ein Zeichen für die Anerkennung der Bäumen, Gräsern und Blumen von Sumeru.\\nBringe es dem Baum der Träume tief im Wald dar, um die Belohnungen des Waldes zu erhalten.",
+        "chs": "受到须弥的草木认可，获授的印记。\\n可以贡献给森林深处的「梦之树」，以此获得森林的嘉许。",
+        "cht": "受到須彌的草木認可，獲授的印記。\\n可以貢獻給森林深處的「夢之樹」，以此獲得森林的嘉許。",
+        "es": "Una insignia obtenida al ganarte la gracia de la vegetación de Sumeru.\\nOfrécesela al Árbol Onírico de las profundidades del bosque para aumentar su nivel de gracia.",
+        "fr": "Un insigne qui témoigne de la reconnaissance des arbres et des plantes de Sumeru.\\nPrésentez-le devant l'arbre des rêves situé au fond des bois pour recevoir la récompense de la forêt.",
+        "id": "Sigil yang berfungsi sebagai tanda pengakuan dari pohon, rumput, dan bunga di Sumeru.\\nBerikan ke Tree of Dreams yang ada jauh di kedalaman hutan untuk menerima hadiah dari hutan.",
+        "jp": "スメールの草木に認められ、授かった印記。\\n森の深くにある「夢の樹」に捧げると、森からの褒賞を得られる。",
+        "kr": "수메르 초목의 인정을 받아 획득한 인장.\\n숲속 깊은 곳의 「꿈 나무」에 공양해 숲의 찬사를 받을 수 있다",
+        "pt": "Um selo obtido pelo reconhecimento das árvores, grama e flores de Sumeru.\\nOfereça para a Árvore dos Sonhos nas profundezas da floresta para receber sua graça.",
+        "ru": "Эта печать - знак признания деревьев, трав и цветов Сумеру.\\nПреподнесите её Древу снов в чаще, чтобы получить одобрение леса.",
+        "th": "เครื่องหมายแมกไม้แห่ง Sumeru\\nสามารถนำไปอุทิศแด่ \"ต้นความฝัน\" ที่อยู่ยังส่วนลึกของป่า เพื่อรับการอวยพรจากป่าได้",
+        "vi": "Được cây cỏ của Sumeru công nhận và cấp con dấu. \\nCó thể cống hiến cho Cây Mơ Mộng ở rừng sâu để nhận lời khen của rừng."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

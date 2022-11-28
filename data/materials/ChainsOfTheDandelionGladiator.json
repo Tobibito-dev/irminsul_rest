@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chains of the Dandelion Gladiator",
+        "de": "Ketten des Löwenzahnkämpfers",
+        "chs": "狮牙斗士的铁链",
+        "cht": "獅牙鬥士的鐵鍊",
+        "es": "Cadena de Diente de León",
+        "fr": "Chaînes du Chevalier du Croc de Lion",
+        "id": "Chains of Dandelion Gladiator",
+        "jp": "獅牙戦士の鎖",
+        "kr": "라이언 투사의 쇠사슬",
+        "pt": "Correntes do Gladiador de Dandelion",
+        "ru": "Цепи львиного клыка",
+        "th": "Chains of the Dandelion Gladiator",
+        "vi": "Dây Sắt Đấu Sĩ Nanh Sư Tử"
+    },
+    "id": 114010,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nThe chains that once bound the great hero Vennessa. In truth, all gladiators would have worn chains in that era, and Vennessa was but one of many.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nDamit wurde einst die Heldin Vennessa gefangen gehalten. Man darf dabei nicht vergessen, dass zu jener Zeit alle Arenakämpfer in Ketten gelegt waren. Der Löwenzahnkämpfer war da keine Ausnahme.",
+        "chs": "赋予武器突破之力的材料。\\n曾经施在大英雄温妮莎身上的枷锁——或者这么说吧，那个时代里，所有剑斗士都会背负镣铐。狮牙的斗士也只是其中一员。",
+        "cht": "賦予武器突破之力的素材。\\n曾經施在大英雄溫妮莎身上的枷鎖——或者這麼說吧，那個時代裡，所有劍鬥士都會背負鐐銬。獅牙的鬥士也只是其中一員。",
+        "es": "Material de ascensión de arma.\\nLas cadenas que una vez ataron a la gran heroína Vennessa. En realidad, todos los gladiadores las debían llevar en aquella época, y la gladiadora del Diente de León no era una excepción.",
+        "fr": "Matériau d'élévation d'arme.\\nDes chaînes qui ont entravé la grande Vennessa lorsqu'elle n'était qu'une gladiatrice parmi les autres.",
+        "id": "Material Ascension Senjata.\\nRantai yang dulunya membelenggu pahlawan Vennessa - dengan kata lain, siapa saja yang memakainya sebenarnya sama dengan semua budak lainnya di zaman itu.",
+        "jp": "武器に突破の力を付与する材料。\\n遥か昔、剣闘士は鎖を背負っていた。獅牙の戦士、大英雄ヴァネッサも例外ではなかった。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n과거 대영웅 바네사가 찼던 족쇄——또는 그 시대의 모든 검투사들은 수갑을 찼다. 라이언투사 또한 그 일원 중 한 명일 뿐이다",
+        "pt": "Material de Ascensão de Armas.\\nAs correntes que uma vez prenderam a grande heroína Vennessa. Na verdade, todos os gladiadores naquela época usavam correntes, e Vennessa era apenas uma entre muitos.",
+        "ru": "Материал возвышения оружия.\\nОковы, что когда-то связывали великую героиню Веннессу. На самом деле в те времена все гладиаторы были закованы в цепи, а Веннесса всего лишь была одной из них.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nโซ่ที่ซึ่งครั้งหนึ่งเคยรัด Vennessa ฮีโร่ผู้ยิ่งใหญ่ หรือว่าในช่วงเวลานั้นเหล่านักดาบล้วนแต่โดนล่ามไว้กันนะ Lion Fang ก็เป็นเพียงหนึ่งในพวกเขาเหล่านั้น",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nTừng là xiềng xích trên người anh hùng Vennessa - hoặc nói như thế này, trong thời đại đó, tất cả kiếm sĩ đều phải đeo xiềng xích. Đấu sĩ nanh sư tử cũng chỉ là một trong số đó."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

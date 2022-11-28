@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Alchemic Device: Between Fire and Water",
+        "de": "Alchimistischer Apparat – „Zwischen Feuer und Wasser“",
+        "chs": "炼金装置-「水火之间」",
+        "cht": "煉金裝置-「水火之間」",
+        "es": "Equipamiento para alquimia: Entre el agua y el fuego",
+        "fr": "Appareil d'alchimie « Entre feu et eau »",
+        "id": "Perangkat Alkimia: Antara Api dan Air",
+        "jp": "錬金装置-「水と火の間」",
+        "kr": "연금 장치-「불과 물 사이」",
+        "pt": "Dispositivo Alquímico: \"Entre o Fogo e a Água\"",
+        "ru": "Алхимическое устройство: Между огнём и водой",
+        "th": "อุปกรณ์เล่นแร่แปรธาตุ - \"น้ำและไฟ\"",
+        "vi": "Thiết Bị Giả Kim - Giữa Nước Và Lửa"
+    },
+    "id": 383306,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Alchemic Device: Between Fire and Water.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Alchimistischer Apparat – Zwischen Feuer und Wasser“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「炼金装置-『水火之间』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「煉金裝置-『水火之間』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Equipamiento para alquimia: Entre el agua y el fuego.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'appareil d'alchimie « Entre feu et eau ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Perangkat Alkimia: Antara Api dan Air\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「錬金装置-『水と火の間』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「연금 장치-『불과 물 사이』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Dispositivo Alquímico: \"Entre o Fogo e a Água\"\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Алхимическое устройство: Между огнём и водой».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างอุปกรณ์เล่นแร่แปรธาตุ - \"น้ำและไฟ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thiết Bị Giả Kim - Giữa Nước Và Lửa\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

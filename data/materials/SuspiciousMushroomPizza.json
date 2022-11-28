@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Mushroom Pizza",
+        "de": "Merkwürdige Pilzza",
+        "chs": "奇怪的烤蘑菇披萨",
+        "cht": "奇怪的烤蘑菇披薩",
+        "es": "Pizza de champiñones extraña",
+        "fr": "Pizza aux champignons (suspecte)",
+        "id": "Suspicious Mushroom Pizza",
+        "jp": "微妙なキノコピザ",
+        "kr": "이상한 버섯피자",
+        "pt": "Pizza Estranha de Cogumelos",
+        "ru": "Странная грибная пицца",
+        "th": "Mushroom Pizza รสประหลาด",
+        "vi": "Pizza Nấm Rơm Nướng Kỳ Lạ"
+    },
+    "id": 108041,
+    "materialDesc": {
+        "en": "A pizza covered in cheese and mushrooms. If you can bite through the brick-like texture... At least it can ease your hunger.",
+        "de": "Eine Pizza voll mit Champignons und Käse. Wenn es dir nichts ausmacht, auf einer Ledersohle herumzukauen, macht dich diese Pizza wenigstens satt.",
+        "chs": "铺满蘑菇和奶酪的薄饼。只要能忍耐像砖头一样的口感，它作为主食提供的能量还是实打实的。",
+        "cht": "鋪滿蘑菇和乳酪的薄餅。只要能忍受像磚頭一樣的口感，它作為主食提供的能量還是很足夠的。",
+        "es": "Una pizza cubierta de queso y champiñones. Cómela si te ves capaz de morder un ladrillo... Al menos aliviará tu hambre.",
+        "fr": "Une pizza couverte de champignons et de fromage. La pâte est tellement dure qu'elle pourrait presque vous casser des dents... Enfin, c'est toujours mieux que de mourir de faim.",
+        "id": "Pizza dengan topping jamur dan keju. Keras seperti batu, tapi asalkan gigimu kuat menggigitnya, pizza ini bisa memulihkan tenagamu.",
+        "jp": "キノコとチーズを敷き詰めたピザ。レンガのような食感を我慢すれば、主食としてしっかりとしたエネルギーを供給してくれる。",
+        "kr": "버섯과 치즈 토핑이 가득 올려진 피자. 벽돌같이 딱딱한 식감만 참으면 주식을 먹은 것과 같은 에너지를 얻을 수 있다",
+        "pt": "Uma pizza coberta de queijo e cogumelos. Sua textura é dura como pedra, mas pelo menos consegue acalmar a sua fome.",
+        "ru": "Пицца с грибами и сыром. Она может утолить ваш голод... Если вы сможете прогрызть её твёрдое как кирпич тесто.",
+        "th": "พิซซ่าหน้าชีสและเห็ด หากคุณได้ลองชิมสักคำ คุณจะได้รับรู้ถึงรสชาติของก้อนอิฐ... เอาเถอะ อย่างน้อยก็แก้หิวไปได้บ้าง",
+        "vi": "Bánh nướng phô mai và nấm rơm. Chỉ cần chịu được cảm giác cứng như đá này, năng lượng mà món này mang lại rất tốt."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

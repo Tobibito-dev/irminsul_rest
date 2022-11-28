@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Feather of Judgment",
+        "de": "Feder des Urteils",
+        "chs": "裁断的翎羽",
+        "cht": "裁斷的翎羽",
+        "es": "Pluma del Juzgamiento",
+        "fr": "Plume du jugement",
+        "id": "Feather of Judgment",
+        "jp": "裁断の羽根",
+        "kr": "심판의 날개",
+        "pt": "Pluma do Julgamento",
+        "ru": "Перо суждения",
+        "th": "Feather of Judgment",
+        "vi": "Lông Vũ Phán Quyết"
+    },
+    "id": 23637,
+    "setId": 15026,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

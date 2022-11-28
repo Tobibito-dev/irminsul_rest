@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Featherweight",
+        "de": "Federleicht",
+        "chs": "轻盈",
+        "cht": "輕盈",
+        "es": "Ligereza",
+        "fr": "Légèreté",
+        "id": "Featherweight",
+        "jp": "軽やか",
+        "kr": "가뿐",
+        "pt": "Gracioso",
+        "ru": "Лёгкость",
+        "th": "Featherweight",
+        "vi": "Uyển Chuyển"
+    },
+    "id": 200209,
+    "materialDesc": {
+        "en": "Decreases all party members' Charged Attack Stamina consumption by 50%.",
+        "de": "Verringert den Ausdauerberbrauch aller Truppenmitglieder für heftige Schläge um 50 %.",
+        "chs": "队伍中所有角色的重击体力消耗降低50%。",
+        "cht": "隊伍中所有角色的重擊體力消耗降低50%。",
+        "es": "Disminuye el coste de Aguante de todos los miembros del equipo en un 50%.",
+        "fr": "Réduit la consommation d'endurance de tous les personnages de l'équipe de 50 % lors des attaques chargées.",
+        "id": "Mengurangi 50% konsumsi Stamina Charged Attack seluruh anggota party.",
+        "jp": "チーム全員の重撃スタミナ消費-50%。",
+        "kr": "파티 내 모든 캐릭터의 강공격 스태미나 소모가 50% 감소한다",
+        "pt": "Todos os Personagens da Equipe têm o Consumo de Stamina do Ataque Carregado reduzido em 50%.",
+        "ru": "Заряженные атаки всех членов отряда потребляют на 50% меньше выносливости.",
+        "th": "ลดการใช้พลังงานกายของการชาร์จโจมตีลงของตัวละครทั้งหมดในทีมลง 50%",
+        "vi": "Thể lực tiêu hao khi dùng trọng kích của tất cả nhân vật trong đội giảm 50%."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kindled Trees by the Moonlit Window",
+        "de": "Bunte Flammen tanzen im reinen Mondschein",
+        "chs": "瑞月火树落白间",
+        "cht": "瑞月火樹落白間",
+        "es": "Árbol lunar llameante",
+        "fr": "Au clair de lune, des arbres s'illuminent",
+        "id": "Kindled Trees by the Moonlit Window",
+        "jp": "白間に散る瑞月の光",
+        "kr": "창가에 내려앉은 빛살",
+        "pt": "Árvores sob o Luar",
+        "ru": "Опадающие листья у лунного окна",
+        "th": "ต้นไม้เปลวไฟใต้หน้าต่างแห่งแสงจันทรา",
+        "vi": "Thụy Nguyệt Hỏa Thụ Lạc Bạch Gian"
+    },
+    "id": 223006,
+    "materialDesc": {
+        "en": "After being released, these fireworks rain down flames like willow leaves and branches. It is said that the very edges of these flames can touch the window frames of the tallest buildings, granting a most unique viewing experience.",
+        "de": "Nach dem Abschuss regnen diese Feuerwerkskörper Flammen wie Weidenblätter und -zweige herab. Es heißt, dass die Flammen an den Rändern die Fensterrahmen der höchsten Gebäude berühren können, was ein einzigartiges Seherlebnis bietet.",
+        "chs": "绽放后如柳树枝叶般下落的经典烟花，据说焰光的末梢能触及高楼的窗棂，带给人们非同寻常的观赏体验。",
+        "cht": "綻放後如柳樹枝葉般下落的經典煙花，據說焰光的末梢能觸及高樓的窗櫺，帶給人們非同尋常的觀賞體驗。",
+        "es": "Tras explotar, las chispas de este fuego artificial caen como las ramas de un sauce. Al reflejarse en las celosías de los edificios, su luz se convierte en un espectáculo digno de admirar.",
+        "fr": "Après avoir été tiré, ce feu d'artifice provoque une pluie d'étincelles qui ressemblent aux branches feuillues d'un saule. Il est dit que l'extrémité de ces étincelles peut toucher les fenêtres des plus hauts bâtiments, apportant un spectacle unique.",
+        "id": "Setelah ditembakkan, kembang api klasik ini menurunkan hujan api seperti daun dan cabang pohon willow. Dikatakan bahwa ujung apinya bahkan dapat menyentuh bingkai jendela dari gedung yang tertinggi sekalipun, membuatnya sanggup memberikan pengalaman menonton kembang api yang paling unik untuk orang-orang.",
+        "jp": "咲くと、柳の葉のように散る古典的な花火。大きな建物であれば、その窓に焔の先が触れると言われており、他とはまた違う鑑賞体験を楽しめるそうだ。",
+        "kr": "터지면 버들가지처럼 떨어지는 전통 폭죽. 불빛의 끝자락이 높은 건물의 창가에 닿아 특별한 경험을 선사한다고 한다",
+        "pt": "Após ser soltado, esse fogo de artifício chove chamas como folhas e galhos de um salgueiro. Dizem que as pontas dessas chamas podem tocar as janelas de prédios altos, dando a experiência de uma vista única.",
+        "ru": "После запуска этот классический фейерверк рассыпается узором, похожим на ивовые листья и ветви. Говорят, что его края могут коснуться оконных рам самых высоких зданий, создавая необыкновенное зрелище.",
+        "th": "ดอกไม้ไฟคลาสสิกที่เมื่อเบ่งบานแล้วจะร่วงหล่นลงมาราวกับกิ่งใบของต้นหลิว ว่ากันว่า ส่วนปลายของเปลวไฟสามารถสัมผัสกับบานหน้าต่างของตึกสูงได้ ทำให้ผู้คนได้เพลิดเพลินกับประสบการณ์การรับชมที่แสนพิเศษ",
+        "vi": "Pháo hoa kinh điển sau khi bung nở sẽ trông như cành liễu rũ xuống, nghe nói đốm lửa tàn của nó có thể chạm được đến khung cửa sổ của tòa lầu cao, đem lại một trải nghiệm tuyệt vời cho người chiêm ngưỡng."
+    },
+    "materialType": "MATERIAL_FIREWORKS"
+}

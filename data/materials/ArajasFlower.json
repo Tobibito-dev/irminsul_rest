@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Araja's Flower",
+        "de": "Blume von Araja",
+        "chs": "兰拉迦的花",
+        "cht": "蘭拉迦的花",
+        "es": "Flor de Araja",
+        "fr": "Fleur d'Araja",
+        "id": "Bunga Araja",
+        "jp": "アランラジャの花",
+        "kr": "아란자의 꽃",
+        "pt": "Flor de Araja",
+        "ru": "Цветок Араджи",
+        "th": "ดอกไม้ของ Araja",
+        "vi": "Hoa Araja"
+    },
+    "id": 101815,
+    "materialDesc": {
+        "en": "A flower gifted to you by Araja.\\nAraja seems to have lost important memories.",
+        "de": "Eine von Araja geschenkte Blume.\\nEr scheint sehr wichtige Erinnerungen verloren zu haben.",
+        "chs": "兰拉迦赠送的花儿。\\n他似乎失去过重要的记忆。",
+        "cht": "蘭拉迦贈送的花朵。\\n他似乎失去過重要的記憶。",
+        "es": "Una flor que te dio Araja.\\nParece haber perdido recuerdos importantes.",
+        "fr": "Une fleur offerte par Araja.\\nAraja semble avoir perdu des souvenirs importants.",
+        "id": "Bunga yang diberikan padamu oleh Araja.\\nAraja sepertinya kehilangan ingatan yang penting.",
+        "jp": "アランラジャから貰った花。\\n彼は大事な記憶を失ったことがあるようだ。",
+        "kr": "아란자가 선물한 꽃.\\n아란자는 중요한 기억을 잃은 것 같다",
+        "pt": "Flor dada por Araja.\\nParece ter perdido memórias muito importantes.",
+        "ru": "Цветок, подаренный Араджей.\\nПохоже, Араджа лишился каких-то важных воспоминаний.",
+        "th": "ดอกไม้ที่ Araja มอบให้\\nดูเหมือนว่าเขาจะเคยสูญเสียความทรงจำที่แสนสำคัญไป",
+        "vi": "Hoa của Araja tặng.\\nAraja dường như đã mất đi những ký ức quan trọng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

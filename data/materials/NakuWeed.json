@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Naku Weed",
+        "de": "Naku-Kraut",
+        "chs": "鸣草",
+        "cht": "鳴草",
+        "es": "Percibetormentas",
+        "fr": "Herbe à sanglots",
+        "id": "Naku Weed",
+        "jp": "鳴草",
+        "kr": "울림풀",
+        "pt": "Erva Naku",
+        "ru": "Трава наку",
+        "th": "Naku Weed",
+        "vi": "Cỏ Naku"
+    },
+    "id": 101205,
+    "materialDesc": {
+        "en": "Even on windless days, this plant will tremble lightly amid the cries of thunder. The parts of it that resemble petals are in fact extensions of the leaves meant to protect the fragile flower.",
+        "de": "Selbst an windstillen Tagen zittert diese Pflanze leicht inmitten von Donnerschlägen. Der Teil der Pflanze, der den Blütenblättern ähnelt, sind in Wirklichkeit Verlängerungen der Blätter, die die zerbrechliche Blüte schützen sollen.",
+        "chs": "即使在无风的日子里，亦会随雷鸣之声隐隐振动的植物。看起来像是花瓣的结构其实是叶片的延伸，保护着脆弱的花朵。",
+        "cht": "即使在無風的日子裡，亦會隨雷鳴之聲隱隱振動的植物。看起來像是花瓣的結構其實是葉片的延伸，保護著脆弱的花朵。",
+        "es": "Una planta que, incluso durante los días en los que no corre ni un soplo de viento, vibrará ligeramente al sentir la llamada de las tormentas. Lo que a simple vista parecen pétalos, en realidad, son hojas que cubren y protegen las frágiles flores de la planta.",
+        "fr": "Même les jours sans vent, cette plante frissonnera au son du tonnerre. La partie qui ressemble à des pétales est en fait une extension de ses feuilles, destinée à protéger cette fleur si fragile.",
+        "id": "Di hari-hari tak berangin pun, tumbuhan ini akan bergetar ringan seiring dengan tangisan guntur. Bagiannya yang menyerupai kelopak bunga sebenarnya adalah daun yang memanjang, yang dimaksudkan untuk melindungi bunga yang rapuh.",
+        "jp": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
+        "kr": "바람이 없는 날에도 뇌명의 소리에 따라 은은하게 진동하는 식물. 꽃잎 구조로 보이나 사실은 잎이 뻗어 자라나 취약한 꽃을 보호하고 있는 것이다",
+        "pt": "Mesmo em dias sem vento, esta planta balança levemente em meio aos sons dos trovões. A parte que parece com pétalas é, na verdade, uma extensão das folhas destinada a proteger a frágil flor.",
+        "ru": "Даже в безветренный день при звуке грома это растение едва заметно дрожит. Его лепестки на самом деле являются продолжением листьев, которые защищают хрупкий цветок.",
+        "th": "แม้ในวันที่ไม่มีลม แต่พืชชนิดนี้ก็ยังสั่นไหวอย่างแผ่วเบาไปพร้อมกับเสียงของฟ้าร้อง โครงสร้างที่ดูเหมือนกลีบดอกไม้นั้น ความจริงแล้วคือส่วนของใบที่ยื่นออกมา เพื่อปกป้องดอกไม้ที่แสนเปราะบาง",
+        "vi": "Dù là ngày không gió, loại thực vật này cũng sẽ đung đưa theo tiếng sấm. Trông có vẻ giống kết cấu của cánh hoa, nhưng thật ra là lá vươn dài ra để bảo vệ những đóa hoa yếu ớt."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Glabrous Beans",
+        "de": "Kahle Bohnen",
+        "chs": "秃秃豆",
+        "cht": "禿禿豆",
+        "es": "Legumbres peladas",
+        "fr": "Haricot glabre",
+        "id": "Glabrous Beans",
+        "jp": "ツルツル豆",
+        "kr": "반질반질콩",
+        "pt": "Feijões Glabros",
+        "ru": "Голые бобы",
+        "th": "Glabrous Beans",
+        "vi": "Đậu Bóng"
+    },
+    "id": 100096,
+    "materialDesc": {
+        "en": "A common legume in Teyvat with a light aroma. It can be prepared in a variety of ways, and is thus widely accepted by people all over the world.",
+        "de": "Eine in Teyvat weit verbreitete Art von Bohnen. Sie haben ein angenehm leichtes Aroma und sind daher überall äußerst beliebt.",
+        "chs": "提瓦特常见的豆类作物。带有淡淡的香气，因食用方法多样而被各地民众广泛接受。",
+        "cht": "提瓦特常見的豆類作物。帶有淡淡的香氣，因食用方法多樣而被各地民眾廣泛接受。",
+        "es": "Una legumbre típica en Teyvat. Tiene un olor neutro. Dado que existen muchas formas de cocinarla, su uso está muy extendido y aceptado por todos.",
+        "fr": "Un légume commun en Teyvat qui dégage un parfum léger. Il se cuisine de diverses manières et son utilisation est donc répandue dans le monde entier.",
+        "id": "Tumbuhan kacang-kacangan yang umum ditemukan di Teyvat. Karena aromanya yang ringan, bahan ini bisa dimasak menjadi berbagai jenis hidangan dan disukai oleh orang-orang dari segala penjuru.",
+        "jp": "テイワットでよく見られる豆類の作物。ほのかに香りがあり、様々な食べ方ができることから、世界中の人々に受け入れられている。",
+        "kr": "티바트에서 흔히 볼 수 있는 콩류 작물. 은은한 향을 풍기고 있으며 활용 방법이 다양한 덕분에 각지의 주민들에게 인기를 끌고 있다",
+        "pt": "Uma leguminosa comum em Teyvat com um aroma leve. Pode ser preparado de várias maneiras, e é amplamente aceito por pessoas de todas regiões.",
+        "ru": "Распространённая в Тейвате бобовая культура. Голые бобы можно узнать по слабому аромату. Благодаря разнообразию способов приготовления они стали незаменимым продуктом во всех уголках Тейвата.",
+        "th": "พืชตระกูลถั่วที่พบเห็นได้ทั่วไปใน Teyvat มีกลิ่นหอมอ่อน ๆ และได้รับความนิยมจากผู้คนในทุกพื้นที่ เนื่องจากสามารถนำไปประกอบอาหารได้หลากหลาย",
+        "vi": "Một loại thực vật họ đậu phổ biến ở Teyvat. Có mùi thơm nhẹ, vì có nhiều cách ăn nên được nhiều người yêu thích."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

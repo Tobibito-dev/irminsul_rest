@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Aaru Mixed Rice",
+        "de": "Rezept: Gemischter Aaru-Reis",
+        "chs": "食谱：阿如拌饭",
+        "cht": "食譜：阿如拌飯",
+        "es": "Receta: Arroz de Aaru",
+        "fr": "Recette : Riz mélangé d'Aaru",
+        "id": "Resep: Aaru Mixed Rice",
+        "jp": "レシピ：アアルコシャリ",
+        "kr": "레시피: 아루 비빔밥",
+        "pt": "Receita: Arroz Misturado de Aaru",
+        "ru": "Рецепт: Пилав Аару",
+        "th": "สูตรอาหาร: Aaru Mixed Rice",
+        "vi": "Công Thức: Cơm Trộn Aaru"
+    },
+    "id": 109515,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Aaru Mixed Rice.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Gemischter Aaru-Reis“.",
+        "chs": "步骤详实的食谱，记载着「阿如拌饭」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「阿如拌飯」的製作方法。",
+        "es": "Receta paso a paso para hacer arroz de Aaru.",
+        "fr": "Étapes de préparation du riz mélangé d'Aaru.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Aaru Mixed Rice.",
+        "jp": "「アアルコシャリ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「아루 비빔밥」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Arroz Misturado de Aaru.",
+        "ru": "Подробный рецепт приготовления блюда «Пилав Аару».",
+        "th": "สูตรอธิบายวิธีทำ \"Aaru Mixed Rice\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Cơm Trộn Aaru\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

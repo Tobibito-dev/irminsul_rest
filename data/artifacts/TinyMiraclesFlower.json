@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Tiny Miracle's Flower",
+        "de": "Wunderblume",
+        "chs": "奇迹之花",
+        "cht": "奇蹟之花",
+        "es": "Flor del Milagro",
+        "fr": "Fleur du Miracle",
+        "id": "Tiny Miracle's Flower",
+        "jp": "奇跡の花",
+        "kr": "기적의 꽃",
+        "pt": "Flor do Milagre",
+        "ru": "Цветок маленького чуда",
+        "th": "Tiny Miracle's Flower",
+        "vi": "Hoa Kỳ Tích"
+    },
+    "id": 54544,
+    "setId": 10004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

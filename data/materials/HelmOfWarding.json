@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Helm of Warding",
+        "de": "Helm des dienlichen Schutzes",
+        "chs": "庇佑之冠",
+        "cht": "庇佑之冠",
+        "es": "Casco de protección",
+        "fr": "Heaume de protection",
+        "id": "Ketopong Berkah",
+        "jp": "加護の冠",
+        "kr": "수호의 투구",
+        "pt": "Capacete da Proteção",
+        "ru": "Шлем защиты",
+        "th": "หมวกพิทักษ์",
+        "vi": "Nón Phù Hộ"
+    },
+    "id": 101639,
+    "materialDesc": {
+        "en": "One of the six lost offerings scattered throughout The Chasm. It was found hidden in the living quarters of the miners. A slightly less discerning eye might have mistaken it for a miner's hat.\\nIt is heavily scarred and pitted, making one wonder how many miners' lives it must have saved.",
+        "de": "Eine der sechs verlorenen Opfergaben, die in der Großen Kluft verstreut sind. Er wurde versteckt in den Wohnräumen der Bergleute gefunden. Ein weniger scharfsinniges Auge hätte ihn vielleicht für einen Bergarbeiterhut gehalten.\\nEr ist stark vernarbt und angefressen, sodass man sich fragt, wie viele Leben der Bergleute er wohl gerettet hat.",
+        "chs": "传说中散落在层岩巨渊的六件供物之一，藏匿于矿工们的居所之中。如果不仔细分辨的话，很容易被当成常见的矿工用帽。\\n周身遍布擦刮痕迹，不知它在过去曾经庇佑过多少矿工的安全。",
+        "cht": "傳說中散落在層岩巨淵的六件供物之一，藏匿於礦工們的居所之中。如果不仔細分辨的話，很容易被當成常見的礦工用帽。\\n周身遍佈擦刮痕跡，不知它在過去曾經庇佑過多少礦工的安全。",
+        "es": "Una de las seis ofrendas legendarias esparcidas por la Sima. Se halla oculta en la morada de alguno de los mineros. Si no se observa con detenimiento, es fácil confundirlo con uno de los cascos de los mineros.\\nSu superficie está cubierta de roces, por lo que seguramente sirvió de protección para incontables mineros.",
+        "fr": "L'une des six offrandes légendaires dispersées dans le Gouffre. On l'a retrouvé dissimulé dans les quartiers d'habitation des mineurs. Ce casque peut facilement être confondu avec un casque de mineur au premier abord.\\nSa surface étant couverte d'éraflures, il a probablement servi de protection à d'innombrables mineurs.",
+        "id": "Satu dari enam benda pemberian yang hilang dan tersebar di seluruh Chasm. Benda ini tersembunyi di tempat tinggal para penambang. Kalau tidak dilihat secara teliti, benda ini tak ubahnya helm penambang biasa.\\nPermukaannya penuh goresan dan lekukan, yang membuat orang penasaran akan berapa banyak nyawa penambang yang tidak jadi melayang karenanya.",
+        "jp": "層岩巨淵に散らばる六つの伝説の供物の一つ。鉱夫たちの住居に隠されていた。よく見ないと、一般的な鉱夫用の帽子と見間違ってしまう。\\nあちこちにある傷跡から、過去に何人もの鉱夫を守ってきたことが伺える。",
+        "kr": "층암거연에 흩어져 있다고 전해지는 여섯 가지 공물 중 하나. 광부들의 거처에 숨겨져 있어 자세히 관찰하지 않으면 광부용 모자로 보이기 십상이다.\\n여기저기에 가득한 긁힌 자국으로 보아, 얼마나 많은 광부의 안전을 지켜줬을지 알 수 없다",
+        "pt": "Uma das seis oferendas perdidas espalhadas pelo Despenhadeiro. Foi encontrada no dormitório dos mineradores. Um olhar menos atento confundiria com um chapéu de minerador.\\nEstá com vários arranhões, e faz a pessoa se perguntar quantos mineradores ele chegou a salvar.",
+        "ru": "Один из шести легендарных даров, разбросанных по Разлому. Он был спрятан в жилище шахтёра. Не присматриваясь, его легко принять за простой шахтёрский шлем.\\nОн сплошь покрыт царапинами. Видимо, шлем этот уберёг голову не одному шахтёру.",
+        "th": "หนึ่งในหกของสักการะที่กล่าวกันว่ากระจัดกระจายอยู่ใน Chasm มันถูกซ่อนเอาไว้ในที่พักของคนงานเหมือง หากคุณไม่มองแยกแยะให้ดี ๆ อาจจะคิดว่ามันเป็นหมวกคนงานเหมืองทั่วไปได้\\nมีรอยขีดข่วนทั่วทั้งหมวก ไม่รู้ว่าในอดีตมันเคยป้องกันความปลอดภัยให้คนงานเหมืองมามากมายเพียงใดกันนะ",
+        "vi": "Một trong 6 món vật phẩm hiến tế trong truyền thuyết, rải rác ở Vực Đá Sâu, được cất trong nơi cư trú của các thợ mỏ. Nếu không phân biệt kỹ càng, sẽ rất dễ nhầm lẫn thành chiếc nón thường dùng của thợ mỏ.\\nXung quanh chi chít vết xước, không biết xưa kia nó từng che chở cho bao nhiêu người thợ mỏ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

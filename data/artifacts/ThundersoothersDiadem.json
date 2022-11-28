@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Thundersoother's Diadem",
+        "de": "Krone des Donnerbändigers",
+        "chs": "平雷之冠",
+        "cht": "平雷之冠",
+        "es": "Corona del Domador de Truenos",
+        "fr": "Couronne du Dompteur de foudre",
+        "id": "Thundersoother's Diadem",
+        "jp": "雷討ちの冠",
+        "kr": "뇌전 정복자의 관",
+        "pt": "Coroa do Domador de Raios",
+        "ru": "Корона усмиряющего гром",
+        "th": "Thundersoother's Diadem",
+        "vi": "Nón Bình Lôi"
+    },
+    "id": 23448,
+    "setId": 14002,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

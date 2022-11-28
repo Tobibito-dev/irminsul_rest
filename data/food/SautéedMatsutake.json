@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Sautéed Matsutake",
+        "de": "Kurzgebratene Matsutake",
+        "chs": "黄油松茸",
+        "cht": "奶油松茸",
+        "es": "Matsutakes salteados",
+        "fr": "Matsutake sautés au beurre",
+        "id": "Sautéed Matsutake",
+        "jp": "松茸のバター焼き",
+        "kr": "버터 송이구이",
+        "pt": "Matsutake Salteado",
+        "ru": "Обжаренные мацутакэ",
+        "th": "Sautéed Matsutake",
+        "vi": "Nhung Tùng Rán Bơ"
+    },
+    "id": 3002,
+    "foodType": "COOK_FOOD_ATTACK",
+    "cookMethod": "COOK_METHOD_BAKE",
+    "rankLevel": 3,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 15,
+    "inputVec": [
+        {
+            "id": 100063,
+            "count": 3
+        },
+        {
+            "id": 110001,
+            "count": 3
+        },
+        {
+            "id": 100020,
+            "count": 2
+        },
+        {
+            "id": 110004,
+            "count": 2
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108052,
+            "count": 1
+        },
+        {
+            "id": 108053,
+            "count": 1
+        },
+        {
+            "id": 108054,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.7,0.27",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Increases all party members' ATK by <color=#3399CCFF>160–228</color> for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "de": "Erhöht den ANG aller Truppenmitglieder 300 s lang um <color=#3399CCFF>160 bis 228</color> Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+        "chs": "队伍中所有角色攻击力提高<color=#3399CCFF>160-228</color>点，持续300秒。 多人游戏时，仅对自己的角色生效。",
+        "cht": "隊伍中所有角色攻擊力提高<color=#3399CCFF>160-228</color>點，持續300秒。 多人遊戲時，僅對自己的角色生效。",
+        "es": "Aumenta el ATQ de todos los miembros del equipo en <color=#3399CCFF>160-228</color> pts. durante 300 s. En modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
+        "fr": "Augmente l'ATQ de tous les personnages de l'équipe de <color=#3399CCFF>160 à 228</color> pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+        "id": "Meningkatkan <color=#3399CCFF>160–228</color> ATK seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+        "jp": "チーム全員の攻撃力+<color=#3399CCFF>160~228</color>、継続時間300秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
+        "kr": "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>160-228</color>pt 증가한다. 지속 시간: 300초 다인 모드 시 자신의 캐릭터에만 적용된다",
+        "pt": "Aumenta o ATQ de todos os membros da Equipe em <color=#3399CCFF>160 - 228</color> por 300s. No modo multijogador, o efeito apenas se aplica ao seu personagem.",
+        "ru": "Увеличивает силу атаки всех членов отряда на <color=#3399CCFF>160-228</color> в течение 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "th": "เพิ่มพลังโจมตีให้กับสมาชิกในทีมทั้งหมด <color=#3399CCFF>160-228</color> หน่วย เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+        "vi": "Tấn công cả đội tăng <color=#3399CCFF>160-228</color> điểm, kéo dài 300s Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+}

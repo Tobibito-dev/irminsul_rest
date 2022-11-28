@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Investigation Journal: Part I",
+        "de": "Antike Expeditionsprotokolle – Teil 1",
+        "chs": "古老的考察日志·其之一",
+        "cht": "古老的考察日誌·其之一",
+        "es": "Diario de investigación antiguo (I)",
+        "fr": "Journal d'inspection ancien - Partie I",
+        "id": "Catatan Ekspedisi Kuno: Bag. I",
+        "jp": "古い考察日誌·1",
+        "kr": "오래된 고찰 일지·첫 번째",
+        "pt": "Registros de Expedições Antigas: Parte I",
+        "ru": "Древний дневник исследователя. Часть I",
+        "th": "บันทึกการสำรวจโบราณ: ตอนที่ 1",
+        "vi": "Nhật Ký Khảo Sát Cũ (I)"
+    },
+    "id": 100645,
+    "materialDesc": {
+        "en": "An investigation journal found in front of the ruins with a circular entrance.\\nIts author seems to have been a member of the aristocracy that once ruled Mondstadt.",
+        "de": "Ein Forschungstagebuch, das vor der runden Tür einer Ruine gefunden wurde.\\nEs scheint, dass sein Verfasser ein Mitglied der Aristokraten war, welche in der Vergangenheit über Mondstadt herrschten.",
+        "chs": "在有着圆形大门的遗迹前，发现的考察日志。\\n记事者似乎是过去统治蒙德的贵族。",
+        "cht": "在有著圓形大門的遺蹟前，發現的考察日誌。\\n記事者似乎是過去統治蒙德的貴族。",
+        "es": "Un diario de investigación encontrado frente a la puerta circular de unas ruinas.\\nParece que su escritor fue miembro de la nobleza que gobernó Mondstadt en el pasado.",
+        "fr": "Un journal d'inspection retrouvé devant les ruines avec une entrée circulaire.\\nSon auteur semble avoir été membre de l'aristocratie qui dirigeait autrefois Mondstadt.",
+        "id": "Sebuah catatan ekspedisi yang ditemukan di depan gerbang melingkar sebuah reruntuhan.\\nSepertinya penulis catatan ini adalah seorang bangsawan yang pernah memerintah Mondstadt.",
+        "jp": "円形の大門の遺跡前で発見した考察日誌。\\nこれを記した者は、過去にモンドを統治していた貴族のようだ。",
+        "kr": "원형 대문이 있는 유적 앞에서 발견한 고찰 일지.\\n과거 몬드를 통치하던 귀족이 쓴 것 같다",
+        "pt": "Um diário de investigações encontrando na frente das ruínas com uma entrada circular.\\nSeu autor parece ter sido um membro da aristocracia que uma vez governou Mondstadt.",
+        "ru": "Журнал исследований, найденный в руинах с круглой дверью. Похоже, что его автор был одним из аристократов, которые когда-то правили Мондштадтом.",
+        "th": "พบบันทึกการสำรวจที่หน้าประตูทรงกลมของโบราณสถาน\\nดูเหมือนว่าผู้จดบันทึกจะเป็นชนชั้นสูงที่เคยปกครอง Mondstadt มาก่อน",
+        "vi": "Nhật ký khảo sát phát hiện trước một di tích có cửa hình tròn.\\nNgười ghi chép có lẽ là quý tộc thống trị Mondstadt trước đây."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

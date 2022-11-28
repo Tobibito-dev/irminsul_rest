@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Miso Soup",
+        "de": "Misslungene Miso-Suppe",
+        "chs": "奇怪的味噌汤",
+        "cht": "奇怪的味噌湯",
+        "es": "Sopa de miso extraña",
+        "fr": "Soupe miso (suspecte)",
+        "id": "Suspicious Miso Soup",
+        "jp": "微妙な味噌汁",
+        "kr": "이상한 미소된장국",
+        "pt": "Sopa de Miso Suspeita",
+        "ru": "Странный мисо-суп",
+        "th": "Miso Soup รสประหลาด",
+        "vi": "Súp Miso Kỳ Lạ"
+    },
+    "id": 108276,
+    "materialDesc": {
+        "en": "A simple and unadorned soup dish. The wilted seagrass, the crushed little bits of tofu, and the overly thick flavor are a real hazard to one's mood if consumed first thing in the morning.",
+        "de": "Ein einfaches und schmuckloses Suppengericht. Das verwelkte Seegras, die zerkleinerten Tofustückchen und der zu dicke Geschmack sind eine echte Gefahr für die Laune, wenn man sie als Erstes am Morgen zu sich nimmt.",
+        "chs": "朴实无华的汤料理。煮烂的海草、零碎的豆腐与过浓的味噌混为一体，如果早上来一碗的话，会有毁掉一整天心情的风险。",
+        "cht": "樸實無華的湯料理。煮爛的海草、零碎的豆腐與過濃的味噌混為一體，如果早上來一碗的話，會有毀掉一整天心情的風險。",
+        "es": "Una sopa simple y sencilla. Tanto las algas, que no estaban en muy buen estado, como el tofu, que se ha deshecho por completo, tienen un sabor demasiado fuerte. Tu día estará arruinado si decides comer un cuenco de esta sopa por la mañana.",
+        "fr": "Une soupe sans prétention. Les herbes marines passées, les petits morceaux de tofu écrasés et la saveur trop forte du bouillon risquent sérieusement d'entamer votre humeur si vous consommez un bol de cette soupe tôt le matin.",
+        "id": "Hidangan kuah yang sederhana. Seagrass yang dimasak terlalu lembek, tofu yang hancur, dan rasa miso yang terlalu kuat bergabung menjadi satu. Satu mangkuk sup ini di pagi hari akan merusak suasana hatimu sepanjang hari.",
+        "jp": "素朴な汁もの。茹ですぎた海草、崩れた豆腐と濃すぎた味噌が混ざったもの。朝に一杯食べると、一日の機嫌を損ねてしまう恐れがある。",
+        "kr": "평범하기 그지없는 국물 요리. 너무 익어 흐물흐물해진 해초, 흩어진 두부와 과하게 진한 미소된장국이 혼연일체를 이룬다. 아침 일찍 한 그릇 하면, 종일의 기분을 망칠 위험이 있다",
+        "pt": "Um prato de sopa simples e sem adornos. As Ervas Marinhas murchas, os pedacinhos amassados de tofu e o sabor excessivamente espesso são um perigo para o humor de uma pessoa se consumidos logo de manhã.",
+        "ru": "Простой и безыскусный суп. С утра эта миска разваренных водорослей, раздавленных кусочков тофу и избыток пасты мисо угрожает испортить настроение на весь день.",
+        "th": "เมนูซุปที่แสนเรียบง่าย ซึ่งมีสาหร่ายที่ต้มจนเละ เศษเต้าหู้ชิ้นเล็กชิ้นน้อย และมิโซะที่เข้มข้นเกินไปผสมเข้าด้วยกัน หากได้ทานสักชามในตอนเช้า ๆ ล่ะก็ คงทำให้หัวเสียไปตลอดทั้งวันเป็นแน่",
+        "vi": "Món ăn mộc mạc giản dị. Rong biển nấu quá nhừ, đậu phụ hơi nát và mùi vị quá nồng, tất cả trộn lẫn với nhau, nếu sáng sớm mà uống một chén súp này, bảo đảm sẽ \"tuột mood\" cả ngày đấy."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

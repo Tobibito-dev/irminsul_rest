@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Scholar's Quill Pen",
+        "de": "Gelehrtenfeder",
+        "chs": "学士的羽笔",
+        "cht": "學士的羽筆",
+        "es": "Pluma de la Erudita",
+        "fr": "Plume de l'Érudit",
+        "id": "Scholar's Quill Pen",
+        "jp": "学者の羽根ペン",
+        "kr": "학사의 깃펜",
+        "pt": "Caneta de Pena de Estudioso",
+        "ru": "Перо учёного",
+        "th": "Scholar's Quill Pen",
+        "vi": "Bút Lông Học Sĩ"
+    },
+    "id": 62524,
+    "setId": 10012,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

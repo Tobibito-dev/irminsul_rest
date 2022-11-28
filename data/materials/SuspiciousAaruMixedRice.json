@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Aaru Mixed Rice",
+        "de": "Misslungener gemischter Aaru-Reis",
+        "chs": "奇怪的阿如拌饭",
+        "cht": "奇怪的阿如拌飯",
+        "es": "Arroz de Aaru extraño",
+        "fr": "Riz mélangé d'Aaru (suspect)",
+        "id": "Suspicious Aaru Mixed Rice",
+        "jp": "微妙なアアルコシャリ",
+        "kr": "이상한 아루 비빔밥",
+        "pt": "Arroz Misturado de Aaru Estranho",
+        "ru": "Странный пилав Аару",
+        "th": "Aaru Mixed Rice รสประหลาด",
+        "vi": "Cơm Trộn Aaru Kỳ Lạ"
+    },
+    "id": 108460,
+    "materialDesc": {
+        "en": "A large serving of filling staple food. In your hurry, you did not mix the various ingredients well before eating, resulting in a ridiculously thick tomato flavor on one side of the rice, and an utter blandness on the other... Best you mix it a bit better next time.",
+        "de": "Ein sättigendes Hauptgericht. Aufgrund zu großer Ungeduld wurde der Reis vor dem Verzehr nicht gründlich durchmischt, weshalb der Reis teilweise übermäßig viel vom Geschmack der Tomate aufgenommen hat und ein anderer Teil nahezu geschmacklos geblieben ist ... Besser noch einmal mischen.",
+        "chs": "量大管饱的主食。由于心急，在食用前并没有搅拌均匀，导致部分米饭上的番茄味过浓，但另一部分的米饭又平淡无味…还是再拌一拌吧。",
+        "cht": "經濟實惠的主食。由於心急，在食用前並沒有攪拌均勻，導致部分米飯上的番茄味過濃，但另一部分的米飯又平淡無味…還是再拌一拌吧。",
+        "es": "Una gran porción de un alimento básico saciante. Por el apuro, los ingredientes no se mezclaron bien antes de servirlo, por eso una parte del arroz tiene demasiado sabor a tomate, y la otra parte es sosa e insípida... Será mejor que la próxima vez se mezclen con más cuidado.",
+        "fr": "Une grande portion d'aliments bien nutritifs. Dans votre hâte, vous n'avez pas bien mélangé les différents ingrédients avant dégustation, ce qui fait que le goût de tomate est envahissant sur une partie du riz tandis que l'autre partie est fade... Il vaut mieux mélanger une nouvelle fois le plat.",
+        "id": "Makanan berat yang sangat mengisi perut. Karena terburu-buru, kamu tidak mengaduk seluruh bahannya secara menyeluruh sebelum dimakan, sehingga rasa tomatnya terlalu kental di satu sisi nasinya, tapi sangat hambar di sisi yang lainnya ... Sebaiknya diaduk lebih teliti dulu lain kali.",
+        "jp": "ボリュームたっぷりの主食。焦ってよく混ぜずに食べ始めてしまったために、一部のご飯はトマトの風味が強すぎるのに対し、他のところはほとんど味がしない…次からはもうちょっと混ぜよう。",
+        "kr": "양이 많아 배불리 먹을 수 있는 주식. 급한 마음에 먹기 전에 골고루 섞지 않아 토마토 맛이 진한 부분도 있고 아무 맛도 없는 부분도 있다… 역시 좀 더 비벼보자",
+        "pt": "Uma porção grande de um alimento básico. Na sua pressa, acabou não misturando os ingredientes bem antes de comer, resultando em um sabor forte de tomate em um lado do arroz, mas a falta total dele noutro... Talvez seja melhor misturar mais na próxima vez.",
+        "ru": "Большая порция сытного блюда. В спешке вы плохо перемешали различные ингредиенты перед употреблением, в результате чего на одной стороне рис получился слишком томатным, а на другой - совершенно безвкусным... В следующий раз стоит хорошенько перемешать.",
+        "th": "อาหารจานหลักปริมาณจุใจ เพราะใจร้อนจึงไม่ได้คลุกเคล้าให้เข้ากันก่อนเสิร์ฟ นั่นจึงทำให้ข้าวบางส่วนมีซอสมะเขือเทศมากเกินไป ส่วนข้าวอีกบางส่วนกลับจืดชืดไร้รสชาติ... ยังไงก็ลองคลุกเคล้าให้เข้ากันใหม่จะดีกว่า",
+        "vi": "Món cơm được phục vụ với số lượng lớn. Do vội vàng nên không trộn đều trước khi ăn dẫn đến vị cà chua trên một phần cơm quá đậm, nhưng phần còn lại thì nhạt nhẽo vô vị... vẫn nên trộn lại lần nữa thì hơn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

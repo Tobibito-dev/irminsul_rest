@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Forest Watcher's Choice",
+        "de": "Wahl des Waldhütermeisters",
+        "chs": "巡林官精选",
+        "cht": "巡林官精選",
+        "es": "Recomendación de guarda forestal",
+        "fr": "Recommandation de brigadier forestier",
+        "id": "Forest Ranger's Choice",
+        "jp": "レンジャー長のイチオシ",
+        "kr": "숲의 순찰관 특선",
+        "pt": "Recomendação de Patrulheiro Florestal",
+        "ru": "Выбор лесного стража",
+        "th": "Forest Ranger's Choice",
+        "vi": "Tuyển Chọn Của Đội Trưởng Kiểm Lâm"
+    },
+    "id": 108436,
+    "materialDesc": {
+        "en": "Tighnari's specialty. The Forest Watcher personally picked out these edible mushrooms — not only the common ones but also a few mysterious-looking shrooms that you have never seen before. No condiments were added, for the limelight should go to the ingredients' unmarred freshness. It must have taken him quite some time to prepare this delicious dish.",
+        "de": "Tighnaris Spezialzubereitung. Der Waldhütermeister hat die essbaren Pilze persönlich ausgesucht, nicht nur die gewöhnlichen, sondern auch die geheimnisvoll aussehenden Pilze, die du noch nie gesehen hast. Es werden keine Gewürze hinzugefügt, denn die unverfälschte Frische der Zutaten soll im Vordergrund stehen. Er muss eine ganze Weile gebraucht haben, um dieses köstliche Gericht zuzubereiten.",
+        "chs": "提纳里的特色料理。由巡林官提纳里精心挑选出的可食用菇组成。除了寻常菇类，还有从未见过的神秘品种。未经任何香料调味，反而更加凸显出菌菇本身的鲜美…如此难得的珍馐美味，一定让他花了不少研究工作以外的时间吧。",
+        "cht": "提納里的特色料理。由巡林官提納里精心挑選出的可食用菇組成。除了尋常菇類，還有從未見過的神秘品種。未經任何香料調味，反而更加凸顯出菌菇本身的鮮美…如此難得的珍饈美味，一定讓他花了不少研究工作以外的時間吧。",
+        "es": "La especialidad de Tignari. El guarda forestal eligió personalmente estas setas comestibles, no solo de las comunes, sino también algunas de un misterioso aspecto inusual. No se añaden condimentos para que así el protagonismo recaiga sobre los ingredientes frescos. Le debió de llevar bastante tiempo preparar este delicioso plato.",
+        "fr": "Spécialité culinaire de Tighnari. Elle est composée de champignons comestibles soigneusement choisis par le brigadier forestier. En plus des champignons communs, ce plat présente des variétés que vous n'aviez jamais vues. Aucun assaisonnement n'a été ajouté afin de mettre l'accent sur le goût des champignons frais... Préparer ce magnifique plat a dû lui demander beaucoup de son temps libre.",
+        "id": "Masakan andalan Tighnari. Komposisi makanan ini terdiri jamur yang dapat dimakan yang dipilih sendiri dengan teliti oleh Tighnari sang Pelindung Hutan. Selain daripada jamur yang umum, ada juga spesies misterius yang belum pernah terlihat sebelumnya. Kalaupun makanan ini tidak ditambahkan dengan rempah apa pun, rasanya masih sangat mampu menonjolkan kelezatan jamurnya itu sendiri ... Kelezatan yang langka seperti itu pasti menghabiskan banyak waktu dan usaha di luar pekerjaan penelitiannya.",
+        "jp": "ティナリのオリジナル料理。レンジャー長のティナリが厳選した食用キノコを使っている。普通のキノコ以外に、見たこともない謎のキノコも。香料は使われていないため、キノコそのものの新鮮さが引き立っている…これほどの珍味を作るには、きっと研究以外の時間も沢山必要だったはずだ。",
+        "kr": "타이나리의 특제 요리. 숲의 순찰관 타이나리가 엄선한 식용 버섯으로 조리했다. 평범한 버섯 외에 처음 보는 신비한 품종들도 있으며 향신료를 추가하지 않아 오히려 버섯 본연의 신선함이 느껴진다…. 이 산해진미를 조리하기 위해 연구 외의 시간을 많이 쏟아부은 듯하다",
+        "pt": "Especialidade de Tighnari. O Patrulheiro Florestal escolheu pessoalmente os cogumelos comestíveis, não somente comuns, mas cogumelos misteriosos nunca antes vistos. Nenhum tempero foi adicionado, pois o destaque deve ser o fresco dos ingredientes. Ele deve ter passado muito tempo preparando esse prato delicioso.",
+        "ru": "Особое блюдо Тигнари. Приготовлено из съедобных грибов, собранных командиром Лесного дозора. Здесь есть и обычные грибы, и неизвестные вам доселе редкие виды. Приправы не нужны, они только заглушат вкус грибов... Такой деликатес наверняка отнял у Тигнари уйму времени, которое он мог бы потратить на свои исследования.",
+        "th": "เมนูพิเศษของ Tighnari เมนูจากเห็ดที่หัวหน้าเจ้าหน้าที่พิทักษ์ป่า Tighnari คัดสรรมาอย่างตั้งใจด้วยตนเอง นอกจากเห็ดแบบปกติทั่วไปแล้ว ยังมีแบบลึกลับที่ไม่เคยมีใครพบเห็นมาก่อนด้วย ไม่ผ่านการปรุงรสใด ๆ ทั้งสิ้น แต่กลับยิ่งขับเน้นความหอมหวานของตัวเห็ด... อาหารอันโอชะที่หาได้ยากเช่นนี้ คงทำให้เขาใช้เวลาที่อยู่นอกเหนือจากงานวิจัยไปไม่น้อยเลยสินะ",
+        "vi": "Món ăn độc quyền của Tighnari. Bao gồm các loại nấm ăn được do đội trưởng kiểm lâm Tighnari lựa chọn cẩn thận. Ngoài những loài nấm thông thường, còn có những loài bí ẩn chưa từng thấy. Không cần thêm bất cứ gia vị nào, ngược lại còn làm nổi bật lên cái ngon của chính cây nấm... Một món ngon hiếm có như vậy hẳn là anh ấy đã tốn rất nhiều thời gian ngoài công việc nghiên cứu."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

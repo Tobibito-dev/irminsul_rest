@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tasty-Looking Potion",
+        "de": "Sieht das lecker aus!",
+        "chs": "看上去很好吃",
+        "cht": "看起來很好吃",
+        "es": "Poción aparentemente sabrosa",
+        "fr": "Potion appétissante",
+        "id": "Potion yang Terlihat Enak",
+        "jp": "美味しそうに見える",
+        "kr": "아주 맛있어 보인다",
+        "pt": "Poção Aparentemente Saborosa",
+        "ru": "Вкусное на вид зелье",
+        "th": "Tasty-Looking Potion",
+        "vi": "Nhìn rất ngon"
+    },
+    "id": 100107,
+    "materialDesc": {
+        "en": "Looks tasty, but is actually a weakening potion.",
+        "de": "Sieht wirklich lecker aus, ist aber ein Schwächungstrank.",
+        "chs": "看上去很好吃，其实是虚弱药剂",
+        "cht": "看起來很好吃，其實是虛弱藥劑。",
+        "es": "Parece sabroso, pero en realidad es una poción debilitante.",
+        "fr": "Vous avez envie de la boire, mais vous le regretteriez...",
+        "id": "Kelihatannya enak sekali, tetapi sebenarnya merupakan ramuan yang membuat lemah.",
+        "jp": "美味しそうに見えるが、実は衰弱薬",
+        "kr": "맛있어 보이지만 사실은 허약 포션이다",
+        "pt": "Parece saborosa, mas na verdade é uma poção enfraquecedora.",
+        "ru": "Выглядит вкусно, но на самом деле это Зелье Ослабления.",
+        "th": "รูปลักษณ์ดูน่าอร่อย แต่ที่จริงแล้วมันเป็นยาที่ทำให้อ่อนแอลง",
+        "vi": "Nhìn rất ngon, nhưng thực chất là thuốc làm yếu sức."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

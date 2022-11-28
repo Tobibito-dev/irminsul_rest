@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wondrous Lovely Flower",
+        "de": "Wundersame wie schöne Blume",
+        "chs": "奇妙而美丽的花",
+        "cht": "奇妙而美麗的花",
+        "es": "Flor asombrosa",
+        "fr": "Fleur magnifique",
+        "id": "Bunga Indah yang Menakjubkan",
+        "jp": "不思議で綺麗な花",
+        "kr": "신비롭고 아름다운 꽃",
+        "pt": "Maravilhosa Flor Adorável",
+        "ru": "Удивительно красивый цветок",
+        "th": "Wondrous Lovely Flower",
+        "vi": "Hoa Đẹp Kỳ Lạ"
+    },
+    "id": 100762,
+    "materialDesc": {
+        "en": "A wondrous flower created using alchemy, with Starsilver as its main component. Its petals are large but soft, and it glimmers with a silver light.",
+        "de": "Eine wundersame Blume, die durch Alchimie erschaffen wurde, mit Sternsilber als Hauptbestandteil. Ihre Blütenblätter sind groß, aber weich, und sie schimmert in einem silbernen Licht.",
+        "chs": "以星银矿为主要材料，经炼金术炼制而成的奇异花朵。花瓣大而柔软，泛着银光。",
+        "cht": "以星銀礦為主要材料，經煉金術煉製而成的奇異花朵。花瓣大而柔軟，泛著銀光。",
+        "es": "Una flor asombrosa creada mediante alquimia a partir de argento estelar. Sus pétalos son grandes y suaves y brilla con una luz plateada.",
+        "fr": "Une drôle de fleur créée à partir d'argétoile grâce à l'alchimie. Elle possède de grands pétales doux qui brillent d'un éclat argenté.",
+        "id": "Bunga menakjubkan yang dibuat menggunakan alkimia dan Starsilver sebagai komponen utamanya. Kelopaknya besar tapi lembut, serta memancarkan cahayanya yang berwarna perak.",
+        "jp": "星銀鉱石を主な材料として錬金術によって錬成された奇妙な花。花びらは大きくやわらかで、銀色の光を輝かせる。",
+        "kr": "성은 광석을 주재료로 사용한 연금술로 만든 기이한 꽃. 꽃잎이 크고 부드러우며 은색 빛을 띠고 있다",
+        "pt": "Uma maravilhosa flor criada através de alquimia, utilizando Minério de Prata Estrelada como seu principal componente. Suas pétalas são grandes, e brilha com uma luz prateada.",
+        "ru": "Удивительный цветок, созданный с помощью алхимии из звёздного серебра. Его крупные и мягкие лепестки сияют серебристым светом.",
+        "th": "ดอกไม้ประหลาดที่สร้างขึ้นจากการเล่นแร่แปรธาตุ โดยมี Starsilver เป็นวัสดุหลัก กลีบดอกมีขนาดใหญ่และอ่อนนุ่ม และมีสีเงินสวยงาม",
+        "vi": "Đóa hoa được luyện thành từ thuật giả kim, có nguyên liệu chủ yếu là Quặng Tinh Ngân. Cánh hoa tuy lớn nhưng mềm mại, lấp lánh ánh bạc."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

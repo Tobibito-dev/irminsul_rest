@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Mint Salad",
+        "de": "Misslungener Minzsalat",
+        "chs": "奇怪的凉拌薄荷",
+        "cht": "奇怪的涼拌薄荷",
+        "es": "Ensalada de menta extraña",
+        "fr": "Salade de menthe froide (suspecte)",
+        "id": "Suspicious Mint Salad",
+        "jp": "微妙なミントの和え物",
+        "kr": "이상한 허브냉채",
+        "pt": "Salada de Menta Estranha",
+        "ru": "Странный мятный салат",
+        "th": "Mint Salad รสประหลาด",
+        "vi": "Rau Trộn Bạc Hà Kỳ Lạ"
+    },
+    "id": 108228,
+    "materialDesc": {
+        "en": "A fragrant salad dish. The Mint and Jueyun Chili have neither been matched nor incorporated well, which makes for a dish so spicy that any who eat it will be at a loss for words for a time.",
+        "de": "Ein duftendes Salatgericht. Die Minze und die Jueyun-Peperoni sind weder aufeinander abgestimmt noch gut eingearbeitet, was zu einem Gericht führt, das so scharf ist, dass jeder, der es isst, eine Zeit lang ratlos sein wird.",
+        "chs": "口味清香的凉拌菜。没有搭配好薄荷和绝云椒椒的比例也没有充分拌匀，辣到人吃了一口就说不出话。",
+        "cht": "口味清香的涼拌菜。沒有搭配好薄荷和絕雲椒椒的比例也沒有充分拌勻，辣到人吃了一口就說不出話。",
+        "es": "Un plato muy fresco y fragante. La proporción de menta y chile de Jueyun no es la correcta y, además, no se ha mezclado bien, por lo que está tan picante que ni te salen las palabras.",
+        "fr": "Une salade au goût rafraîchissant. La menthe et le piment de Jueyun n'ont pas été bien dosés ni mélangés, si bien que le plat est tellement épicé que quiconque y goûte ne peut dire mot pendant quelque temps.",
+        "id": "Hidangan salad yang wangi. Perbandingan Mint dengan Jueyun Chili-nya kurang pas, sehingga hidangan ini menjadi terlalu pedas. Siapa pun yang memakannya pasti akan kesulitan berbicara.",
+        "jp": "爽やかに香る和え物。ミントと絶雲の唐辛子のバランスが悪く、よくかき混ぜられてないゆえ、絶句するほど辛く感じる。",
+        "kr": "향긋한 맛이 나는 냉채. 허브와 절운고추의 비율을 잘못 맞췄을 뿐 아니라 충분히 섞이지 않아 한 입만 먹어도 말이 안 나올 정도로 맵다",
+        "pt": "Uma salada cheirosa. A Menta e a Pimenta de Jueyun não foram bem combinadas ou incorporadas bem, fazendo o prato tão picante que quem o comer ficará sem palavras por um tempo.",
+        "ru": "Ароматный салат. Мята и заоблачный перчик взяты в неверных пропорциях и непромешаны. Салат настолько острый, что человек, вкусив раз, долго не может вымолвить ни слова.",
+        "th": "สลัดหอมสดชื่น ที่ใส่ทั้งมิ้นต์และพริก Jueyun Chili ในอัตราส่วนที่ไม่พอดี เมื่อทานแล้วเผ็ดซะจนพูดไม่ออกเลยทีเดียว",
+        "vi": "Món trộn thơm ngon. Tỷ lệ bạc hà và Ớt Tuyệt Vân không hợp nhau, cũng không được trộn đều, cay đến mức khiến người ta không thể thốt nên lời sau khi ăn một miếng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

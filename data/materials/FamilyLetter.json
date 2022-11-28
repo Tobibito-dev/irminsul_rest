@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Family Letter",
+        "de": "Familienbrief",
+        "chs": "一封家信",
+        "cht": "一封家書",
+        "es": "Carta familiar",
+        "fr": "Lettre familiale",
+        "id": "Surat Keluarga",
+        "jp": "一通の家信",
+        "kr": "한 통의 가서",
+        "pt": "Carta de Família",
+        "ru": "Письмо из дома",
+        "th": "จดหมายครอบครัว",
+        "vi": "Một Bức Thư Nhà"
+    },
+    "id": 100969,
+    "materialDesc": {
+        "en": "The page has already yellowed and become incredibly brittle. A single touch might break it.",
+        "de": "Das Blatt ist bereits vergilbt und unglaublich brüchig geworden. Eine einzige Berührung könnte es zerfallen lassen.",
+        "chs": "纸张已经泛黄，而且脆弱不堪，似乎一碰就碎。",
+        "cht": "紙張已經泛黃，而且脆弱不堪，似乎一碰就碎。",
+        "es": "El papel ya ha amarilleado y es tan frágil que parece que se romperá al mínimo roce.",
+        "fr": "La page a déjà jauni et est devenue incroyablement friable. Au simple toucher, elle pourrait se casser.",
+        "id": "Halamannya sudah berwarna kuning dan sangat rapuh. Bisa langsung hancur saat disentuh.",
+        "jp": "紙は黄ばんでおり、とても脆い。触れただけで破けそうだ。",
+        "kr": "누렇게 번진 종이. 게다가 무척 취약해서 살짝만 건드려도 금방 깨어질 듯하다",
+        "pt": "A página está amarelada e muito quebradiça. Um único toque pode desmanchá-la.",
+        "ru": "Листок пожелтел и стал необычайно хрупким. Малейшее прикосновение, и он рассыпется.",
+        "th": "กระดาษเป็นที่เก่าจนเหลืองและเปราะบาง ดูเหมือนจะแตกยับเมื่อเอื้อมมือไปสัมผัส",
+        "vi": "Giấy đã ố vàng, lại còn mỏng tang, đến nỗi có thể rách nếu chạm vào."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

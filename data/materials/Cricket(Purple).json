@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cricket (Purple)",
+        "de": "Grille (lila)",
+        "chs": "蛐蛐（紫）",
+        "cht": "蟋蟀（紫）",
+        "es": "Grillo púrpura",
+        "fr": "Criquet (violet)",
+        "id": "Jangkrik (Ungu)",
+        "jp": "コオロギ（紫）",
+        "kr": "귀뚜라미(보라)",
+        "pt": "Grilo (Roxo)",
+        "ru": "Сверчок (Фиолетовый)",
+        "th": "Cricket (Purple)",
+        "vi": "Dế Mèn (Tím)"
+    },
+    "id": 100123,
+    "materialDesc": {
+        "en": "A rare cricket with seven different red and purple layers to its wings.",
+        "de": "Eine wahrlich seltene Grille, auf deren Flügeln sieben verschiedene Schichten mit violettem Glanz durchschimmern.",
+        "chs": "难得一见的珍贵蛐蛐，翅脉间透出七种不同层次的紫红光泽。",
+        "cht": "難得一見的珍貴蟋蟀，翅脈間透出七種不同層次的紫紅光澤。",
+        "es": "Un grillo raro con siete capas rojas y púrpuras diferentes a sus alas.",
+        "fr": "Une espèce de criquet rare avec des ailes luisantes constituées de sept couches aux différentes nuances de violet et de rouge.",
+        "id": "Jangkrik langka dengan sayap berlapis tujuh dengan warna merah dan ungu.",
+        "jp": "滅多に見られない珍しいコオロギ。羽の間から7種類の異なる赤紫の光を放っている。",
+        "kr": "아주 희귀한 귀뚜라미. 날개에 7가지 각기 다른 자홍빛이 난다",
+        "pt": "Um grilo raro com sete camadas diferentes de vermelho e roxo até suas asas.",
+        "ru": "Редкий сверчок с многослойными крыльями красного и фиолетового цвета.",
+        "th": "จิ้งหรีดหายากที่มีชั้นเฉดสีไล่จากแดงไปม่วงถึงเจ็ดชั้นที่ปีกของมัน",
+        "vi": "Dế Mèn rất hiếm gặp, gân cánh phát ra 7 loại ánh sáng tím."
+    },
+    "materialType": "MATERIAL_CRICKET"
+}

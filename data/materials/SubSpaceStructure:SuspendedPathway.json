@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sub-space Structure: Suspended Pathway",
+        "de": "Struktur der Raumschaffung – „Klippenpfad in der Dämmerung“",
+        "chs": "外景杰构-「烟空栈道」",
+        "cht": "外景傑構-「煙空棧道」",
+        "es": "Estructura dimensional: Puente colgante",
+        "fr": "Structure dimensionnelle « Sentier suspendu »",
+        "id": "Struktur Penciptaan Ruang: Jalan Kehampaan",
+        "jp": "外景佳作-「煙空桟道」",
+        "kr": "외경 구조물-「고공 잔도」",
+        "pt": "Estrutura Subespacial: Ponte Suspensa",
+        "ru": "Структура подпространства: Подвесной путь",
+        "th": "โครงสร้างภายนอก - \"สะพานแขวนควันกลางอากาศ\"",
+        "vi": "Kiệt Tác Ngoại Cảnh - Đường Mòn Sương Khói"
+    },
+    "id": 392606,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Sub-space Structure: Suspended Pathway.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Struktur der Raumschaffung – ‚Klippenpfad in der Dämmerung‘“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「外景杰构-『烟空栈道』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「外景傑構-『煙空棧道』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Estructura dimensional: Puente colgante.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la structure dimensionnelle « Sentier suspendu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Struktur Penciptaan Ruang: Jalan Kehampaan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「外景佳作-『煙空桟道』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면. 「외경 구조물-『고공 잔도』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Pintura com Estrutura Subespacial: Ponte Suspensa.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Структура подпространства: Подвесной путь».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างภาพวิว - \"โครงสร้างภายนอก - สะพานแขวนควันกลางอากาศ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Kiệt Tác Ngoại Cảnh - Đường Mòn Sương Khói.\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

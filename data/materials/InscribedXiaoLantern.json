@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inscribed Xiao Lantern",
+        "de": "Beschriftete Laterne",
+        "chs": "带有题字的霄灯",
+        "cht": "帶有題字的霄燈",
+        "es": "Linterna celeste con una inscripción",
+        "fr": "Lanterne céleste avec une inscription",
+        "id": "Lentera Xiao degan Kaligrafi",
+        "jp": "題字を持つ霄灯",
+        "kr": "글이 적혀있는 소등",
+        "pt": "Lanterna Celeste com Inscrições",
+        "ru": "Подписанный небесный фонарь",
+        "th": "โคม Xiao สลักตัวอักษร",
+        "vi": "Đèn Tiêu có đề thơ"
+    },
+    "id": 100751,
+    "materialDesc": {
+        "en": "At first glance, this looks no different from your average Xiao Lantern. However, closer observation reveals that this lantern has inscriptions upon it. The penmanship is most austere, and seems to have been written in Mr. Bohuan's hand.",
+        "de": "Auf dem ersten Blick scheint sie sich nicht von einer normalen Laterne zu unterscheiden. Sieht man jedoch genauer hin, merkt an, dass sie beschriftet ist. Die Schrift wirkt irgendwie streng und scheint von Bohuanzi zu stammen.",
+        "chs": "粗看与普通霄灯别无二致，但若仔细观察，会发现灯罩一侧的题字。字迹清峻沉逸，皆是出自伯桓子之手。",
+        "cht": "粗看與普通霄燈別無二致，但若仔細觀察，會發現燈罩一側的題字。字跡清峻沉逸，皆是出自伯桓子之手。",
+        "es": "A primera vista, parece igual que las demás linternas celestes, pero al observarla más de cerca, puede verse una inscripción en uno de los lados. El texto ha sido escrito por Bohuan, cuya caligrafía es bella y firme.",
+        "fr": "À première vue, cette lanterne n'a rien de spécial comparée aux autres lanternes célestes. Mais en y regardant de plus près, vous remarquez des inscriptions sur le côté. La calligraphie en est minutieuse, à la manière de Bohuanzi.",
+        "id": "Sekilas terlihat sama seperti Lentera Xiao biasa, tetapi kalau dilihat lebih jelas, kamu bisa menemukan tulisan kaligrafi di bagian luarnya. Teknik penulisan yang indah ini sepertinya hasil karya Tuan Bohuan.",
+        "jp": "一見普通の霄灯と同じだが、よく見ると火屋に題字が書かれている。伯桓によるはっきりとした綺麗な字だ。",
+        "kr": "언뜻 보기엔 평범한 소등 같지만, 자세히 보면 등피에 글씨가 적혀 있다. 백환자가 쓴 간결하고 수려하며 무게감 있는 글씨다",
+        "pt": "À primeira vista, isso não parece diferente de uma Lanterna Celeste comum. No entanto, uma observação mais atenta revela que esta lanterna possui inscrições. A caligrafia é muito austera e parece ter sido escrita com a letra do Sr. Bohuanzi.",
+        "ru": "На первый взгляд, он ничем не отличается от обычного небесного фонаря. Однако при ближайшем рассмотрении вы замечаете на нём надпись. Почерк очень строгий и, кажется, принадлежит руке господина Бо Хуаня.",
+        "th": "เมื่อมองแวบแรกสิ่งนี้ดูไม่แตกต่างจากโคม Xiao ทั่วไป แต่ถ้าดูใกล้ ๆ แล้วจะเห็นตัวอักษรบนตัวโคม ลายมือมีความชัดเจนและสวยงามนี้ เป็นฝีมือของคุณ Bohuan นั่นเอง",
+        "vi": "Thoạt nhìn, nó không khác gì một chiếc đèn tiêu bình thường, nhưng nếu nhìn kĩ, sẽ thấy một dòng chữ bên hông đèn. Nét chữ rõ ràng và trang trọng, tất cả đều là Bohuan viết."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

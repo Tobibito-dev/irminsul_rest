@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lavender Melon",
+        "de": "Lavendelmelone",
+        "chs": "堇瓜",
+        "cht": "堇瓜",
+        "es": "Calavanda",
+        "fr": "Melon lavande",
+        "id": "Lavender Melon",
+        "jp": "スミレウリ",
+        "kr": "제비꽃 열매",
+        "pt": "Melão de Lavanda",
+        "ru": "Фиалковая дыня",
+        "th": "Lavender Melon",
+        "vi": "Dưa Tím"
+    },
+    "id": 101211,
+    "materialDesc": {
+        "en": "A brightly-colored fruit. The flesh within transforms into food with a unique mouthfeel when cooked.",
+        "de": "Eine leuchtend farbige Frucht. Das Fruchtfleisch im Inneren verwandelt sich beim Kochen in ein Lebensmittel mit einem einzigartigen Mundgefühl.",
+        "chs": "有着色泽艳丽的外皮的果实，其中的果肉可以在烹饪后转化为口感独特的食物。",
+        "cht": "有著色澤豔麗的外皮的果實，其中的果肉可以在烹飪後轉化為口感獨特的食物。",
+        "es": "Esta fruta de piel colorida y brillante contiene una pulpa que, al ser cocinada, puede convertirse en un postre delicioso.",
+        "fr": "Un fruit à la couleur vive, dont la chair à l'intérieur offre une sensation en bouche unique lorsqu'elle est cuite.",
+        "id": "Buah yang berwarna cerah dan terang. Saat dimasak, dagingnya memberikan rasa unik di dalam mulut.",
+        "jp": "鮮やかな色合いの果実。果肉を調理すると独特な食感の料理になる。",
+        "kr": "껍데기의 색상이 화려한 과일. 과육은 요리 후 독특한 식감이 나는 음식으로 바뀐다",
+        "pt": "Uma fruta de cores vivas. Ela pode ser transformada em comida e causa uma sensação única na boca quando cozida.",
+        "ru": "Фрукт с красивой и яркой кожурой. После приготовления его мякоть приобретает исключительную текстуру.",
+        "th": "ผลไม้ที่มีเปลือกสีสันสดใส เนื้อของมันสามารถทำเป็นอาหารที่มีรสชาติเฉพาะตัวได้",
+        "vi": "Một loại trái cây có vỏ tươi sáng đẹp đẽ, phần thịt sau khi được nấu chín có hương vị vô cùng độc đáo."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

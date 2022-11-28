@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hunter's Sacrificial Knife",
+        "de": "Zeremonielles Jagdschwert",
+        "chs": "猎兵祭刀",
+        "cht": "獵兵祭刀",
+        "es": "Daga de cacería",
+        "fr": "Dague de chasse rituelle",
+        "id": "Hunter's Sacrificial Knife",
+        "jp": "猟兵の刀",
+        "kr": "사냥꾼의 제도",
+        "pt": "Faca de Caça",
+        "ru": "Церемониальный нож охотника",
+        "th": "Hunter's Sacrificial Knife",
+        "vi": "Dao Săn Bắt"
+    },
+    "id": 112029,
+    "materialDesc": {
+        "en": "A sharp alloy weapon. Though its owner has been lost, it still reflects a disturbingly cold light.",
+        "de": "Eine scharfe Waffe aus einer Metalllegierung. Selbst ohne ihren ursprünglichen Besitzer strahlt sie eine Eiseskälte aus.",
+        "chs": "某种锋利的合金武具。即便失去了原本的主人，仍反射着令人不安的寒光。",
+        "cht": "某種鋒利的合金武具。即便失去了原本的主人，仍反射著令人不安的寒光。",
+        "es": "Una afilada arma de aleación. Aunque haya perdido a su antiguo dueño, sigue reflejando una luz fría y perturbadora.",
+        "fr": "Une arme tranchante en alliage. Elle n'a plus de propriétaire depuis longtemps, mais sa lame brille toujours d'un éclat menaçant.",
+        "id": "Senjata logam yang tajam. Pemiliknya sudah lama tiada, tetapi cahaya yang dipancarkannya masih terasa dingin dan kelam.",
+        "jp": "ある種鋭利な合金武器。元の持ち主がいなくなっても、幽々たる光を反射して不安を誘う。",
+        "kr": "날카로운 합금 무기. 원래의 주인을 잃었지만 여전히 섬뜩하고 차가운 빛을 내뿜는다",
+        "pt": "Algum tipo de equipamento de liga afiada. Mesmo se o dono a perder, ela ainda reflete uma luz fria e perturbadora.",
+        "ru": "Заточенное оружие из сплава. Хоть и без хозяина, оно всё ещё отражает беспокойно холодный свет.",
+        "th": "ทำจากโลหะบางชนิดที่มีความคมมาก ถึงแม้เจ้าของเดิมจะสูญหายไป แต่ความแวววาวของมีดยังคงสะท้อนถึงความเยือกเย็น",
+        "vi": "Vũ khí hợp kim sắc bén. Cho dù mất đi chủ nhân vẫn toát ra ánh sáng lạnh lẽo làm người khác bất an."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

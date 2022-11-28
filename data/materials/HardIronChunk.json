@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hard Iron Chunk",
+        "de": "Harter Brocken Eisen",
+        "chs": "坚硬的铁块",
+        "cht": "堅硬的鐵塊",
+        "es": "Pedazo de hierro duro",
+        "fr": "Morceau de fer solide",
+        "id": "Iron Chunk Keras",
+        "jp": "硬い鉄の塊",
+        "kr": "단단한 철광",
+        "pt": "Pedaço de Ferro Duro",
+        "ru": "Крепкий обломок железа",
+        "th": "Hard Iron Chunk",
+        "vi": "Mảnh Sắt Cứng Cáp"
+    },
+    "id": 100742,
+    "materialDesc": {
+        "en": "Iron ore. Looks like it could take quite a strong blow to break it apart.",
+        "de": "Eisenerz. Sieht aus, als bräuchte es einen ziemlich starken Schlag, um es auseinanderzubrechen.",
+        "chs": "铁的矿石，需要施以相当强大的力量才会碎裂吧。",
+        "cht": "鐵的礦石，需要施加相當強大的力量才會碎裂吧。",
+        "es": "Un pedazo de hierro. Se necesita emplear bastante fuerza para romperlo.",
+        "fr": "Du minerai de fer résistant. Il doit falloir pas mal de force pour arriver à le briser.",
+        "id": "Bijih besi, sepertinya hanya bisa dipecahkan dengan pukulan yang cukup kuat.",
+        "jp": "鉄の鉱石、相当強い力じゃないと砕けないだろう。",
+        "kr": "철광석, 부수기 위해선 강력한 힘이 필요하다",
+        "pt": "Um pedaço de ferro que precisa de uma força poderosa para ser quebrado.",
+        "ru": "Железная руда. Похоже, чтобы разбить её на части, понадобится сильный удар.",
+        "th": "แร่ที่เป็นเหล็ก น่าจะต้องใช้เรี่ยวแรงที่แข็งแกร่งมากพอสมควร ถึงจะทำให้แตกได้ล่ะนะ",
+        "vi": "Khoáng thạch sắt cần dùng sức mạnh tương đương mới có thể phá vỡ được nó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

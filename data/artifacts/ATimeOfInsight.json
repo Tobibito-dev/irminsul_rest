@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "A Time of Insight",
+        "de": "Zeitmesser der Weisheit",
+        "chs": "贤智的定期",
+        "cht": "賢智的定期",
+        "es": "Fenecimiento de la Sabiduría",
+        "fr": "Période de perspicacité",
+        "id": "A Time of Insight",
+        "jp": "賢知の定期",
+        "kr": "현명의 주기",
+        "pt": "Momento de Sabedoria",
+        "ru": "Час осмысления",
+        "th": "A Time of Insight",
+        "vi": "Thời Hạn Của Hiền Trí"
+    },
+    "id": 23630,
+    "setId": 15025,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

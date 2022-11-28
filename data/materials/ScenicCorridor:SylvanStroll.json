@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scenic Corridor: Sylvan Stroll",
+        "de": "Szenischer Korridor – „Waldspaziergang“",
+        "chs": "古宅游廊-「信步前林」",
+        "cht": "古宅遊廊-「信步前林」",
+        "es": "Corredor decorado: Paseo silvano",
+        "fr": "Corridor panoramique « Promenade sylvestre »",
+        "id": "Koridor Pemandangan: Berjalan di Tengah Hutan",
+        "jp": "古宅の廊下-「森林漫歩」",
+        "kr": "고택 회랑-「발길 닿는 대로」",
+        "pt": "Corredor Cênico: \"Passeio Silvestre\"",
+        "ru": "Галерея: Лесная прогулка",
+        "th": "ทางเดินชมวิวบ้านโบราณ - \"ท่องไปในแมกไม้\"",
+        "vi": "Hành Lang Cổ - Dạo Chơi Trong Rừng"
+    },
+    "id": 391205,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Scenic Corridor: Sylvan Stroll.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Szenischer Korridor – Waldspaziergang“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「古宅游廊-『信步前林』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「古宅遊廊-『信步前林』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Corredor decorado: Paseo silvano.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du corridor panoramique « Promenade sylvestre ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Koridor Pemandangan: Berjalan di Tengah Hutan\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「古宅の廊下-『森林漫歩』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「고택 회랑-『발길 닿는 대로』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Corredor Cênico: \"Passeio Silvestre\"\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Галерея: Лесная прогулка».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างทางเดินชมวิวบ้านโบราณ - \"ท่องไปในแมกไม้\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Hành Lang Cổ - Dạo Chơi Trong Rừng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

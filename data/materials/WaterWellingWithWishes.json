@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Water Welling With \"Wishes\"",
+        "de": "Wasserbrunnen mit „Wünschen\"",
+        "chs": "饱含「愿望」的水",
+        "cht": "飽含「願望」的水",
+        "es": "Agua de los deseos",
+        "fr": "Eau pleine de souhaits",
+        "id": "Air yang Mengandung \"Harapan\"",
+        "jp": "「願い」が込められた水",
+        "kr": "「염원」이 담긴 물",
+        "pt": "Água dos Desejos",
+        "ru": "Вода, наполненная желаниями",
+        "th": "น้ำที่เต็มไปด้วย \"ความปรารถนา\"",
+        "vi": "Nước Ước Nguyện"
+    },
+    "id": 100897,
+    "materialDesc": {
+        "en": "This water is filled with hopes and dreams. Please send them to the place where they belong.",
+        "de": "Dieses Wasser ist gefüllt mit Hoffnungen und Träumen. Bitte schicke sie an den Ort, wo sie hingehören.",
+        "chs": "水中饱含着梦想与愿望，请你把它们送往应去的归宿。",
+        "cht": "#水中飽含著夢想與願望，請{F#妳}{M#你}把它們送往應去的歸宿。",
+        "es": "Esta agua está llena de sueños y esperanzas. Llévalos al lugar que les corresponde.",
+        "fr": "Cette eau est remplie d'espoirs et de rêves. Envoyez-les à l'endroit où ils appartiennent.",
+        "id": "Air ini penuh dengan harapan dan impian. Tolong kirimkan air ini ke tempat di mana seharusnya mereka berada.",
+        "jp": "夢と願いが込められた水。あるべき場所まで送り届けよう。",
+        "kr": "꿈과 염원이 담긴 물. 그들이 돌아가야 할 곳으로 보내주자",
+        "pt": "Essa água está cheia de desejos e esperanças. Por favor, levem-na para o local que pertence.",
+        "ru": "Эта вода наполнена надеждами и мечтами. Пожалуйста, отправьте их туда, где им самое место.",
+        "th": "ในน้ำบรรจุไปด้วยความฝันและความปรารถนา โปรดส่งมันไปให้ถึงปลายทางด้วยเถอะ",
+        "vi": "Nước chứa đựng ước mơ và nguyện vọng, hãy đưa chúng đến nơi cần đến."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

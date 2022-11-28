@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Plume of Luxury",
+        "de": "Feder der Opulenz",
+        "chs": "华馆之羽",
+        "cht": "華館之羽",
+        "es": "Pluma de la Opulencia",
+        "fr": "Plume d'opulence",
+        "id": "Plume of Luxury",
+        "jp": "華館の羽",
+        "kr": "화관(華館)의 깃털",
+        "pt": "Plumas da Opulência",
+        "ru": "Перо чертога",
+        "th": "Plume of Luxury",
+        "vi": "Lông Vũ Phù Hoa"
+    },
+    "id": 24822,
+    "setId": 15021,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

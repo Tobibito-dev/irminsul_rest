@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lord of Wind over Firmament's Hourglass",
+        "de": "Sand der himmlischen Winde",
+        "chs": "高天的风之主沙",
+        "cht": "高天的風之主沙",
+        "es": "Arena del Señor de los Vientos Celestiales",
+        "fr": "Sable des Vents célestes",
+        "id": "Lord of Wind over Firmament's Hourglass",
+        "jp": "高天の風の主の砂",
+        "kr": "바람 군주의 모래",
+        "pt": "Areia dos Ventos Celestiais",
+        "ru": "Часы хозяина ветров",
+        "th": "Lord of Wind over Firmament's Hourglass",
+        "vi": "Cát Ngọn Gió Trời Cao"
+    },
+    "id": 99554,
+    "setId": 15000,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

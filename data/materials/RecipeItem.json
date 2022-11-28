@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe Item",
+        "de": "Objekt für Rezepte",
+        "chs": "食谱道具",
+        "cht": "食譜道具",
+        "es": "Ingredientes",
+        "fr": "Ingrédient",
+        "id": "Bahan Resep",
+        "jp": "レシピアイテム",
+        "kr": "레시피 아이템",
+        "pt": "Ingredientes",
+        "ru": "Ингредиенты",
+        "th": "Cooking Ingredients",
+        "vi": "Đạo Cụ Công Thức"
+    },
+    "id": 109000,
+    "materialDesc": {
+        "en": "Item for unlocking recipes",
+        "de": "Objekt zum Freischalten von Rezepten",
+        "chs": "解锁食谱的道具",
+        "cht": "解鎖食譜的道具",
+        "es": "Utensilios de cocina desbloqueados",
+        "fr": "Objet pour débloquer des recettes",
+        "id": "Membuka alat memasak",
+        "jp": "レシピのアイテムを開放",
+        "kr": "레시피 해제 아이템",
+        "pt": "Desbloquear utensílios de cozinha",
+        "ru": "Предмет для разблокировки рецептов",
+        "th": "ไอเทมสำหรับปลดล็อกสูตรอาหาร",
+        "vi": "Mở Đạo Cụ Công Thức"
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

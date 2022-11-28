@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lisa Test Package",
+        "de": "None",
+        "chs": "(test)丽莎测试包-cb1用",
+        "cht": "麗莎測試包",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "リサテストパック",
+        "kr": "리사 테스트 패키지",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "id": 3016,
+    "materialDesc": {
+        "en": "Lisa Stardust x16",
+        "de": "None",
+        "chs": "(test)丽莎的星辉点x16、丽莎的星尘点x16",
+        "cht": "麗莎的星輝點x16、麗莎的星塵點x16",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "リサのスターダストx16",
+        "kr": "리사's 스타더스트x16",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

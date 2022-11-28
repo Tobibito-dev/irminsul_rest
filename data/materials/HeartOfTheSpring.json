@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heart of the Spring",
+        "de": "Aufrichtigkeit des Ozeans",
+        "chs": "纯水真心",
+        "cht": "純水真心",
+        "es": "Corazón del manantial",
+        "fr": "Cœur de l'océan",
+        "id": "Heart of the Spring",
+        "jp": "純水の本心",
+        "kr": "물의 진심",
+        "pt": "Coração da Água Pura",
+        "ru": "Сердце родника",
+        "th": "Heart of the Spring",
+        "vi": "Chân Tình Nước Trong"
+    },
+    "id": 120,
+    "materialDesc": {
+        "en": "The true heart of an Oceanid. This item is truly hard to find, for one must become one with the waters to truly perceive the heart of the springs.",
+        "de": "Das wahre Herz einer Okeanide. Dieser Gegenstand ist wirklich schwer zu finden, denn man muss eins werden mit dem Wasser, um das Herz der Quellen wirklich wahrzunehmen.",
+        "chs": "纯水精灵的真心。因为需要融为一体才能见到纯水的真心，所以世上难觅。",
+        "cht": "純水精靈的真心。因為需要融為一體才能見到純水的真心，所以世上難覓。",
+        "es": "El auténtico corazón de una Oceánida. Este objeto no se encuentra fácilmente, ya que hay que hacerse uno con el agua para poder percibir el corazón del manantial.",
+        "fr": "Le cœur d'une Océanide. Cet objet est particulièrement difficile à trouver : la seule façon de l'obtenir étant de faire corps avec les eaux.",
+        "id": "Jantung sejati dari Oceanid. Benda ini benar-benar sulit ditemukan, karena seseorang harus menyatu dengan air untuk benar-benar dapat memahami jantung mata air.",
+        "jp": "純水精霊の本心。融合し体が1つになった時にのみ見ることができる純水なる心、極めて稀なものである。",
+        "kr": "물의 정령의 진실한 마음. 하나가 되어야만 물의 진심을 엿볼 수 있기에 찾기가 아주 어렵다",
+        "pt": "O verdadeiro coração de uma Oceanid. Esse item é difícil de ser encontrado, pois é necessário se tornar um com as águas para realmente entender o coração das águas termais.",
+        "ru": "Истинное сердце океанида. Его трудно найти, ведь чтобы увидеть сердце родника, нужно стать единым целым с водой.",
+        "th": "หัวใจที่แท้จริงของ Oceanid เป็นไอเทมที่หายากเป็นที่สุด คุณต้องรวมเป็นหนึ่งกับน้ำ จึงจะสามารถเห็นหัวใจของ น้ำบริสุทธิ์ที่แท้จริงได้",
+        "vi": "Tấm lòng của Tinh Linh Nước Trong. Vì cần phải hợp nhất lại mới có thể thấy được, nên rất khó để tìm thấy."
+    },
+    "materialType": false
+}

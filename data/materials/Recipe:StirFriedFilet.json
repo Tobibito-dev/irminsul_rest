@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Stir-Fried Filet",
+        "de": "Rezept: Scharfes Geschnetzeltes",
+        "chs": "食谱：爆炒肉片",
+        "cht": "食譜：爆炒肉片",
+        "es": "Receta: Carne frita",
+        "fr": "Recette : Viande sautée",
+        "id": "Resep: Stir-Fried Filet",
+        "jp": "レシピ：豚肉の油炒め",
+        "kr": "레시피: 고기볶음",
+        "pt": "Receita: Carne Frita",
+        "ru": "Рецепт: Жаренное в воке мясо",
+        "th": "สูตรอาหาร: Stir-Fried Filet",
+        "vi": "Công thức: Thịt Xào Ớt Tuyệt Vân"
+    },
+    "id": 109407,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Stir-Fried Filet.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Scharfes Geschnetzeltes“.",
+        "chs": "步骤详实的食谱，记载着「爆炒肉片」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「爆炒肉片」的製作方法。",
+        "es": "Receta paso a paso para hacer una carne frita.",
+        "fr": "Étapes de préparation de la viande sautée.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Stir-Fried Filet.",
+        "jp": "「豚肉の油炒め」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「고기볶음」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo de \"Frango Frito\".",
+        "ru": "Подробный рецепт приготовления блюда «Жаренное в воке мясо».",
+        "th": "สูตรอธิบายวิธีทำ \"Stir-Fried Filet\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thịt Xào Ớt Tuyệt Vân\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

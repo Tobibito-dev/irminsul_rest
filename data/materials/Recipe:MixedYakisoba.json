@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Mixed Yakisoba",
+        "de": "Rezept: Gemischte Yakisoba",
+        "chs": "食谱：什锦炒面",
+        "cht": "食譜：什錦炒麵",
+        "es": "Receta: Yakisoba con verdura",
+        "fr": "Recette : Yakisoba",
+        "id": "Resep: Mixed Yakisoba",
+        "jp": "レシピ：焼きそば",
+        "kr": "레시피: 야채 볶음면",
+        "pt": "Receita: Yakisoba Misto",
+        "ru": "Рецепт: Якисоба",
+        "th": "สูตรอาหาร: Mixed Yakisoba",
+        "vi": "Công Thức: Mì Xào Thập Cẩm"
+    },
+    "id": 109466,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Mixed Yakisoba.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Gemischte Yakisoba“.",
+        "chs": "步骤详实的食谱，记载着「什锦炒面」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「什錦炒麵」的製作方法。",
+        "es": "Receta paso a paso para hacer yakisoba con verdura.",
+        "fr": "Étapes de préparation des yakisoba.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Mixed Yakisoba.",
+        "jp": "「焼きそば」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「야채 볶음면」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Yakisoba Misto.",
+        "ru": "Подробный рецепт приготовления блюда «Якисоба».",
+        "th": "สูตรอธิบายวิธีทำ \"Mixed Yakisoba\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Mì Xào Thập Cẩm\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

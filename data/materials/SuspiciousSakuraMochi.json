@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Sakura Mochi",
+        "de": "Misslungene Sakuramochi",
+        "chs": "奇怪的绯樱饼",
+        "cht": "奇怪的緋櫻餅",
+        "es": "Mochis de cerezo extraños",
+        "fr": "Mochis de fleur de cerisier (suspects)",
+        "id": "Suspicious Sakura Mochi",
+        "jp": "微妙な緋櫻餅",
+        "kr": "이상한 벚꽃 모찌",
+        "pt": "Sakura Mochi Estranho",
+        "ru": "Странные моти с сакурой",
+        "th": "Sakura Mochi รสประหลาด",
+        "vi": "Bánh Anh Đào Kỳ Lạ"
+    },
+    "id": 108282,
+    "materialDesc": {
+        "en": "A delicate and elegant snack. Its exterior looks fair enough, but its sickening sweetness almost causes it to get stuck in your throat, leaving you with no appetite for another.",
+        "de": "Ein zarter und eleganter Snack. Sein Äußeres sieht angenehm aus, aber seine widerwärtige Süße bewirkt fast, dass er im Hals stecken bleibt und man keinen Appetit auf einen weiteren hat.",
+        "chs": "细腻雅致的点心。外形尚可，但吃完一个后，过于甜腻的味道仿佛粘在喉头，让人没有胃口再吃下一个。",
+        "cht": "細膩雅致的點心。外形尚可，但吃完一個後，過於甜膩的味道彷彿黏在喉頭，讓人沒有胃口再吃下一個。",
+        "es": "Un dulce exquisito y elegante. Su aspecto es aceptable, pero al comerlo es tan empalagoso que prácticamente se te queda pegado en la garganta. A ver quién se atreve a comer más de uno...",
+        "fr": "Un encas délicat et élégant. L'apparence est acceptable, mais le goût est si sucré et gras qu'il semble coller à la gorge, ce qui fait que personne n'a envie d'en manger un deuxième.",
+        "id": "Camilan yang indah dan elegan. Tampilan luarnya biasa saja, tapi setelah dimakan, rasa manis yang memualkan terasa seperti masih tertinggal di tenggorokan. Kamu tidak akan mau memakannya lagi setelahnya.",
+        "jp": "繊細で上品な菓子。見た目はまあまあだが、気持ち悪いほど甘すぎる。食べると喉がつかえたような感じがして、二個目を諦めてしまう。",
+        "kr": "섬세하고 운치 있는 디저트. 외형은 그럭저럭 봐줄 만하나 하나만 먹어도 목구멍에 과하게 달짝지근한 맛이 달라붙는 느낌에 더 이상 손을 대기 싫어진다",
+        "pt": "Um lanche delicado e elegante. Seu exterior parece agradável, mas sua doçura nauseante quase fica presa na garganta, deixando você sem vontade de comer outro.",
+        "ru": "Изящный и нежный десерт. Вид сносный, но стоит съесть одно, и приторный вкус будто прилипает к горлу, отбивая всякое желание есть дальше.",
+        "th": "ของว่างที่ละเอียดอ่อนและสง่างาม ภายนอกนั้นดูสวยงาม แต่หลังจากที่ทานไปชิ้นนึงแล้ว ความหวานเลี่ยนจนเกินไปของมัน จะติดอยู่ในคอจนทำให้ไม่อยากกินชิ้นต่อไปเลยทีเดียว",
+        "vi": "Món điểm tâm tinh tế và tao nhã. Nhìn bề ngoài vẫn có thể chấp nhận được, nhưng sau khi ăn xong, vị béo ngậy và ngọt gắt như bám chặt cổ họng, khiến người ta không muốn ăn thêm một miếng nào nữa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

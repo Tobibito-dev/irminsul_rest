@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Legend of the Lone Sword (IV)",
+        "de": "Das Schwert in der Einöde IV",
+        "chs": "荒山孤剑录·四",
+        "cht": "荒山孤劍錄·四",
+        "es": "La leyenda de la espada solitaria (IV)",
+        "fr": "L'Épée solitaire du mont désolé - Partie IV",
+        "id": "Pedang Sebatang Kara (IV)",
+        "jp": "荒山孤剣録·四",
+        "kr": "황산고검록·Ⅳ",
+        "pt": "Espada Solitária em Terra Estéril (IV)",
+        "ru": "Одинокий клинок в пустошах IV",
+        "th": "บันทึกดาบเดี่ยวแห่งเขาหวงซาน IV",
+        "vi": "Hoang Sơn Cô Kiếm Lục IV"
+    },
+    "id": 100593,
+    "materialDesc": {
+        "en": "A popular martial arts novel in Liyue Harbor. In a world without elemental energy or alchemy, a tale unfolds of love and hate between friends and foes. This volume tells of Jin the Seventy-Second's treacherous trek into the mountains.",
+        "de": "Ein in Liyue überaus beliebter Kampfkunstroman. Er spielt in einer Welt ohne Elementarkräfte und Alchimie. Die Geschcihte dreht sich dabei um Liebe und Hass. In diesem Band geht es um die gefährliche Wanderung von Jin LXXII. in die Berge.",
+        "chs": "流行璃月港的武侠小说，讲述了一个没有元素力与炼金术的世界中发生的爱恨情仇故事。本册讲述了金七十二郎初入荒山的险恶。",
+        "cht": "流行璃月港的武俠小說，講述了一個沒有元素力與煉金術的世界中發生的愛恨情仇故事。本冊講述了金七十二郎初入荒山的險惡。",
+        "es": "Una popular novela de artes marciales de Liyue. Una historia de amor y odio, de amistad y enemistad, que tiene lugar en un mundo sin elementos y alquimia. En este volumen, se relata el peligroso viaje de Jin 72 a las montañas.",
+        "fr": "Un roman d'arts martiaux populaire à Liyue. Dans un monde sans énergie élémentaire et sans alchimie, une histoire d'amour et de haine se dévoile. Ce tome narre le dangereux périple de Jin le Soixante-douzième dans les montagnes.",
+        "id": "Novel seni bela diri yang populer di Pelabuhan Liyue, menceritakan kisah cinta dan kebencian di dunia tanpa kekuatan unsur dan alkimia. Buku ini menceritakan kedatangan pertama Jin ke-72 di pegunungan tandus.",
+        "jp": "璃月港で流行ってる武侠小説、元素力と錬金術のない世界で起こった愛と憎しみの物語。本巻は金七十二郎が荒山で遭った危機を述べた一冊。",
+        "kr": "리월항에서 유행하는 무협 소설, 원소의 힘과 연금술이 없던 세계에서 발생한 사랑과 원한의 이야기이다. 이 책에는 금칠십이랑이 황산에 발을 들인 뒤 위험에 처한 이야기가 적혀있다",
+        "pt": "Um romance de artes marciais muito popular em Liyue. Ocorre em um mundo sem poderes elementais e alquimia. A história gira em torno de amor e ódio. Este volume é sobre a perigosa caminhada do Jin LXXII para as montanhas.",
+        "ru": "Роман о боевых искусствах, популярный в Ли Юэ. В мире, лишённом элементов и алхимии, разворачивается история о вражде и любви. В этой книге Цзинь Семьдесят второй отправляется в опасное путешествие по диким горам.",
+        "th": "นวนิยายศิลปะการต่อสู้ที่ได้รับความนิยมมากใน Liyue ได้บอกเล่าเรื่องราวความรักและความแค้นที่เกิดขึ้นในโลกที่ไม่มีพลังงานธาตุและการเล่นแร่แปรธาตุ หนังสือเล่มนี้ได้บอกเล่าเรื่องราวการตกอยู่ในอันตรายของ Jin ที่ 72 เมื่อได้เข้าไปยังเขาหวงซานเป็นครั้งแรก",
+        "vi": "Tiểu thuyết kiếm hiệp nổi tiếng ở Liyue, kể lại câu chuyện về tình yêu, sự căm phẫn, lòng yêu thương và sự thù địch trong thế giới không bị ảnh hưởng bởi nguyên tố và thuật giả kim. Tập truyện này kể về Kim Thất Thập Nhị Lang lần đầu đặt chân vào nơi hiểm ác vùng núi hoang dã."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Light Realm Sigil",
+        "de": "Siegel der Lichtwelt",
+        "chs": "光界之印",
+        "cht": "光界之印",
+        "es": "Sello de luz",
+        "fr": "Sceau du Royaume de la lumière",
+        "id": "Sigil Dunia Terang",
+        "jp": "光界の印",
+        "kr": "광계의 인장",
+        "pt": "Selo do Reino da Luz",
+        "ru": "Печать Мира света",
+        "th": "Light Realm Sigil",
+        "vi": "Ấn Ánh Sáng"
+    },
+    "id": 101692,
+    "materialDesc": {
+        "en": "A mark symbolizing the recognition of Enkanomiya's Tokoyo Ookami.\\nThey can be offered up to the Statue of the Vassals of Watatsumi, thus upgrading the Bokuso Box.",
+        "de": "Ein Zeichen, das die Anerkennung von Tokoyo Ookami von Enkanomiya symbolisiert.\\nEs kann der Statue der Boten geopfert werden, wodurch die Stufe des Bokuso-Kastens erhöht wird.",
+        "chs": "受到渊下宫常世大神的认可，获授的印记。\\n用来供奉给御使雕像，提升睦疏之匣的等级。",
+        "cht": "受到淵下宮常世大神的認可，獲授的印記。\\n用來供奉給御使雕像，提升睦疏之匣的等級。",
+        "es": "Una insignia conseguida tras obtener la aprobación de Oomikami de Tokoyo en Enkanomiya.\\nÚsala para hacer ofrendas a la estatua del vasallo de Watatsumi y para aumentar el nivel de la Caja de armonización.",
+        "fr": "Une marque qui symbolise la reconnaissance d'Ookami Tokoyo à Enkanomiya.\\nOn peut les donner en offrande à la statue de vassal pour améliorer la Boîte de Bokuso.",
+        "id": "Sebuah tanda yang melambangkan pengakuan Enkanomiya Tokoyo Ookami.\\nBenda ini dapat diberikan ke patung Vassals of Watatsumi untuk meningkatkan level Bokuso Box.",
+        "jp": "淵下宮の常世大神に認められ、授かった印記。\\n御使いの彫像に奉納すると、睦疎の箱をレベルアップできる。",
+        "kr": "연하궁 토코요노카미의 인정을 받아 획득한 인장.\\n어사 석상에 공양해 보쿠소의 함의 등급을 올릴 수 있다",
+        "pt": "Uma insígnia simbolizando o reconhecimento de Tokoyo Ookami de Enkanomiya.\\nOfereça-a na estátua do Vassalo de Watatsumi para aumentar o nível da Caixa de Bokuso.",
+        "ru": "Печать, которая символизирует признание великого бога Токоё Энканомии.\\nЕё можно использовать как подношение Статуе вассалов, чтобы повысить уровень Шкатулки Бокусо.",
+        "th": "เครื่องหมายที่แสดงว่าได้รับการยอมรับจาก Tokoyo Ookami แห่ง Enkanomiya\\nใช้ถวายให้กับรูปปั้น Vassals of Watatsumi เพื่อเพิ่มเลเวลของกล่อง Bokuso",
+        "vi": "Dấu ấn tượng trưng cho sự công nhận của Tokoyo Ookami - Enkanomiya. \\nHiến tế cho Tượng Ngự Sử để nâng cấp Hộp Bokuso."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

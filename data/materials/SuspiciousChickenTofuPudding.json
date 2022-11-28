@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Chicken Tofu Pudding",
+        "de": "Misslungener Hühnerpudding",
+        "chs": "奇怪的鸡豆花",
+        "cht": "奇怪的雞豆花",
+        "es": "Pollo con textura de tofu extraño",
+        "fr": "Poulet façon tofu (suspect)",
+        "id": "Suspicious Chicken Tofu Pudding",
+        "jp": "微妙な鶏豆花",
+        "kr": "이상한 꼬꼬 연두부",
+        "pt": "Caldo de Tofu com Galinha Estranho",
+        "ru": "Странный куриный тофу",
+        "th": "Chicken Tofu Pudding รสประหลาด",
+        "vi": "Gà Nấu Đậu Kỳ Lạ"
+    },
+    "id": 108246,
+    "materialDesc": {
+        "en": "A dish that requires great precision to make. The soup base is far too salty and the texture of the chicken tofu pudding is not delicate enough. Lack of technical proficiency has led to a dish that looks the part, but has no soul.",
+        "de": "Ein Gericht, das mit großer Präzision zubereitet wird. Die Suppenbasis ist viel zu salzig und das Mundgefühl des Hühnerpuddings ist nicht fein genug. Diese technischen Unzulänglichkeiten führen dazu, dass dieses Gericht weder das Aussehen noch die ausreichende Kraft hat.",
+        "chs": "制作精细的菜肴。底汤咸鲜味过重，鸡豆花口感不够细腻。技艺的缺失使这道菜空有形似，而缺乏神似。",
+        "cht": "製作精細的菜餚。湯底鹹鮮味過重、雞豆花口感不夠細膩。技藝的缺失使這道菜空有形無神。",
+        "es": "Un plato exquisitamente elaborado. El caldo está demasiado salado y la textura de la carne no es tan fina como debería. Debido a la falta de técnica, el plato tiene el aspecto adecuado, pero no ha logrado capturar su esencia.",
+        "fr": "Un plat exécuté avec soin et attention. La soupe de base est bien trop salée et la sensation en bouche du pudding de tofu de poulet n'est pas suffisamment fine. Ce manque de technique amène le plat à avoir l'aspect mais pas la consistance de la recette originale.",
+        "id": "Hidangan yang dibuat dengan sangat tepat. Kuah dasarnya terlalu asin dan rasa puding tahu ayamnya terasa kurang enak di mulut. Keterbatasan teknis ini menyebabkan hidangan ini hanya indah dipandang dan bukan dimakan.",
+        "jp": "細かく作られた料理。ベースのスープはしょっぱくて、鶏豆花の食感は雑。技術が欠けているため、形はちゃんとしていても、魂が抜けている。残念な一品だ。",
+        "kr": "정교하고 세밀하게 조리된 요리. 국물이 매우 짜고 꼬꼬 연두부의 식감이 거칠다. 요리 실력이 부족해서 모양은 비슷하지만, 식감은 형편없다",
+        "pt": "Uma comida feita cuidadosamente. Seu caldo é muito salgado, e a textura do tofu não está tão fina. A falta de habilidade ao fazer esse prato resultou numa aparência vazia, faltando algo vívido.",
+        "ru": "Блюдо, приготовление которого требует особой тщательности. Бульон слишком солёный, а текстура тофу недостаточно нежная. Из-за неверной техники приготовления блюдо выглядит правильно по форме, но совсем лишено души.",
+        "th": "อาหารที่ทำขึ้นอย่างพิถีพิถัน รสชาติของซุปเค็มมากจนเกินไป แถมสัมผัสเมื่อเคี้ยวของถั่วชิกพีก็ยังไม่ละมุนมากพอ ความด้อยฝีมือทำให้อาหารจานนี้ไร้ซึ่งรูปร่างและขาดซึ่งจิตวิญญาณ",
+        "vi": "Món ăn được chế biến công phu. Nước canh hơi mặn, gà chưa được mềm. Thiếu kỹ thuật nấu khiến món ăn này chỉ đơn thuần là có hình thức, còn hương vị lại kém xa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

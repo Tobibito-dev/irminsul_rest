@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Worksite Records",
+        "de": "Baustellenbericht",
+        "chs": "工地记录",
+        "cht": "工地紀錄",
+        "es": "Registro de obra",
+        "fr": "Registre de chantier",
+        "id": "Catatan Lokasi Konstruksi",
+        "jp": "工事現場の記録",
+        "kr": "공사 현장 기록",
+        "pt": "Registro do Local de Construção",
+        "ru": "Рабочие записи",
+        "th": "บันทึกหน้างาน",
+        "vi": "Sổ Tay Công Trường"
+    },
+    "id": 101717,
+    "materialDesc": {
+        "en": "This was originally a ledger, but appears to have been re-purposed as a site log instead. The latest daily happenings at The Chasm have been scribbled into its pages, though not much of this information is of any particular use.",
+        "de": "Ursprünglich war dies ein Hauptbuch, aber es scheint, dass es stattdessen zu einem Notizbuch umfunktioniert wurde. Der Verlauf des gegenwärtigen Alltags in der Schwarzsteinschmiede wurden auf dessen Seiten gekritzelt, auch wenn die meisten dieser Informationen nicht von besonderem Nutzen sind.",
+        "chs": "原本是账本，现在似乎被当做记录本来使用了。上面记录了黑岩厂最近的日常，不过并没有太多有用的信息。",
+        "cht": "原本是帳本，現在似乎被當做紀錄本來使用了。上面記錄了黑岩廠最近的日常，不過並沒有太多有用的資訊。",
+        "es": "Originalmente era un libro de cuentas, pero ahora tan solo es un cuaderno de registro. En él se habla sobre el día a día en la Forja Peñasco Oscuro, aunque en realidad no contiene información muy útil.",
+        "fr": "Un livre de comptes qui a été transformé en journal. Les événements quotidiens du Gouffre ont été renseignés dedans, mais ces informations ne vous sont d'aucune utilité.",
+        "id": "Pada awalnya ini hanyalah buku besar keuangan biasa, namun kini dialihfungsikan sebagai buku catatan. Buku ini mencatat pekerjaan sehari-hari di Blackcliff Forge, namun tidak banyak informasi penting di dalamnya.",
+        "jp": "本来は帳簿であったが、現在は記録帳として使われているようだ。あまり有益な情報は書かれていないが、黒岩場の日常が書き留められている。",
+        "kr": "원래는 장부였으나 현재는 기록하는데 사용되는 것 같다. 흑암 공장의 최근 일상이 기록되어 있지만 유용한 정보는 많지 않아 보인다",
+        "pt": "Originalmente um livro fiscal, agora parece ser usado como um livro de anotações. Ele contém registros recentes da rotina diária da Forja do Penhasco Obscuro, embora não haja muitas informações úteis.",
+        "ru": "Изначально это была бухгалтерская книга, но, похоже, её стали использовать в качестве дневника. На его страницах описаны последние повседневные события кузницы Черногорья. Однако эта информация не особо полезна.",
+        "th": "เดิมทีเป็นสมุดบัญชี แต่ตอนนี้ดูเหมือนจะถูกใช้เป็นสมุดบันทึกไปซะแล้ว ในนั้นบันทึกเรื่องราวประจำวันช่วงนี้ของ Blackcliff Forge ไว้ แต่ไม่ค่อยมีข้อมูลที่เป็นประโยชน์เท่าไหร่นัก",
+        "vi": "Ban đầu vốn là quyển sổ kế toán, nhưng giờ đã được dùng để ghi chép. Trên đó ghi lại những sự việc diễn ra hằng ngày tại Hắc Nham Xưởng, nhưng không có nhiều thông tin quan trọng gì."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

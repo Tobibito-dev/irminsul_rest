@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Jewelry Soup",
+        "de": "Leckere Juwelensuppe",
+        "chs": "美味的珍珠翡翠白玉汤",
+        "cht": "美味的珍珠翡翠白玉湯",
+        "es": "Estofado de gemas delicioso",
+        "fr": "Soupe aux perles et au jade (délicieuse)",
+        "id": "Delicious Jewelry Soup",
+        "jp": "美味しそうな真珠翡翠白玉湯",
+        "kr": "맛있는 진주비취백옥탕",
+        "pt": "Ensopado de Gemas Delicioso",
+        "ru": "Вкусный суп из украшений",
+        "th": "Jewelry Soup แสนอร่อย",
+        "vi": "Canh Trân Châu Phỉ Thúy Bạch Ngọc Ngon"
+    },
+    "id": 108088,
+    "materialDesc": {
+        "en": "A simple vegetable soup. The mild-tasting soup is filled with the fragrance of fresh vegetables. This down-to-earth and heart-warming soup can rival any luxurious dish.",
+        "de": "Eine Gemüsesuppe mit einfachen Zutaten. Wenn der Duft dieser kräftigen, warmen Suppe einem in die Nase steigt, spürt man deutlich, wie frisch das Gemüse, dessen Süße hervorsticht ist, gewesen sein muss. Eine Schüssel davon vermag selbst die teuersten Gerichte zu verdrängen.",
+        "chs": "用料朴素的菜汤。温润的汤中扑鼻而来蔬菜的清新。这一碗自然甘甜，抵得过玉盘珍馐。",
+        "cht": "用料樸素的菜湯。溫潤的湯中撲鼻而來蔬菜的清新。這一碗自然甘甜，抵得過玉盤珍饈。",
+        "es": "Una sencilla sopa de verduras. Una sopa caliente cuyo aroma penetra en las fosas nasales. Este manjar dulce es digno de servirse en un tazón de jade.",
+        "fr": "Une simple soupe de légumes. Ce plat savoureux dégage une douce odeur de légumes frais, et rivalise avec les mets les plus délicats.",
+        "id": "Sup sayur yang simpel. Kuahnya yang terasa ringan dipenuhi aroma sayuran segar. Sup sederhana yang menghangatkan hati ini dapat menyaingi hidangan mewah apa pun.",
+        "jp": "簡単な材料で作られたスープ。野菜本来の味がする。自然の味はどんな珍味よりも味わえる。",
+        "kr": "소박한 재료로 만든 야채수프. 따뜻한 국물에서 야채의 싱그러움이 물씬 풍겨 온다. 한 그릇에 담겨있는 자연의 감미로움은 옥쟁반에 놓인 진수성찬 부럽지 않다",
+        "pt": "Uma simples sopa de legumes. A sopa de sabor suave é preenchida com a fragrância de legumes frescos. Esta sopa prática e comovente pode rivalizar com qualquer prato de luxo.",
+        "ru": "Простой овощной суп. Его мягкий вкус наполнен ароматом цветущих полей. Этот практичный и душевный суп может составить конкуренцию любому роскошному блюду.",
+        "th": "สตูผักที่ทำจากส่วนผสมวัตถุดิบทั่ว ๆ ไป กลิ่นหอมของน้ำซุปที่ลอยมาเตะจมูกและใบผักที่สดใหม่ อาหารจานนี้มีความหวานโดยธรรมชาติและเหมาะที่จะใส่อยู่ในชามหยกที่หรูหรา",
+        "vi": "Canh có nguyên liệu mộc mạc. Trong nước canh ngọt ngào có sự tươi mát của rau củ. Vị ngọt tự nhiên này còn hơn cả trân châu đá quý."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

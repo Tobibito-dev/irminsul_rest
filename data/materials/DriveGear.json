@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Drive Gear",
+        "de": "Starter-Zahnrad",
+        "chs": "始动齿轮",
+        "cht": "始動齒輪",
+        "es": "Engranaje conductor",
+        "fr": "Engrenage entraînant",
+        "id": "Roda Gigi Starter",
+        "jp": "スターターギア",
+        "kr": "시동 톱니바퀴",
+        "pt": "Engrenagem Condutora",
+        "ru": "Пусковая шестерня",
+        "th": "เฟืองขับเคลื่อน",
+        "vi": "Bánh Răng Khởi Động"
+    },
+    "id": 101849,
+    "materialDesc": {
+        "en": "A gear that can transmit a measure of force. After all, momentum is key.",
+        "de": "Ein Zahnrad, das ein wenig Kraft bereitstellen kann. Kraft ist das Allerwichtigste.",
+        "chs": "能够提供些许动力的齿轮。动力是重中之重。",
+        "cht": "能夠提供些許動力的齒輪。動力是重中之重。",
+        "es": "Un engranaje que es capaz de proporcionar cierta fuerza impulsora, la cual es de suma importancia.",
+        "fr": "Un engrenage qui apporte de la force motrice. Elle est essentielle, après tout.",
+        "id": "Roda gigi yang memberikan tenaga. Tenaga adalah hal yang sangat pokok.",
+        "jp": "ある程度の動力を提供できるギア。動力は最重要事項だ。",
+        "kr": "동력 일부를 제공해 주는 톱니바퀴. 동력은 무엇보다 중요하다",
+        "pt": "Uma engrenagem capaz de fornecer uma certa força. Afinal, isso que é importante.",
+        "ru": "Шестерня, способная обеспечить необходимую движущую силу. Движущая сила - это главное.",
+        "th": "เป็นเฟืองที่ให้พลังงานบางอย่างได้ แรงขับเคลื่อนคือสิ่งที่มีความสำคัญสูงสุด",
+        "vi": "Bánh răng có thể cung cấp một ít động lực. Động lực chính là điều quan trọng nhất."
+    },
+    "materialType": "MATERIAL_ACTIVITY_GEAR"
+}

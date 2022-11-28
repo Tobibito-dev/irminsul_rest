@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Chicken-Mushroom Skewer",
+        "de": "Misslungener Spieß mit Pilzen und Hühnchen",
+        "chs": "奇怪的野菇鸡肉串",
+        "cht": "奇怪的野菇雞肉串",
+        "es": "Brocheta de champiñones y pollo extraña",
+        "fr": "Brochette de poulet et de champignons (suspecte)",
+        "id": "\"Special\" Chicken-Mushroom Skewer",
+        "jp": "微妙な鳥肉と野生キノコの串焼き",
+        "kr": "이상한 버섯 닭꼬치",
+        "pt": "Espetinho Estranho de Cogumelos e Frango",
+        "ru": "Странный куриный шашлычок с грибами",
+        "th": "Chicken-Mushroom Skewer รสประหลาด",
+        "vi": "Xiên Thịt Gà Nấm Kỳ Lạ"
+    },
+    "id": 108011,
+    "materialDesc": {
+        "en": "A skewer of mushrooms and poultry. At first glance it's hard to tell which is which.",
+        "de": "Ein Spieß bestückt mit Pilzen und Hühnerfiletstückchen. Bedauerlicherweise hat man Schwierigkeiten dabei, das eine vom anderen zu unterscheiden.",
+        "chs": "由野菇和禽肉组成的烤串。乍一看有些难以区分两者。",
+        "cht": "由野菇和禽肉組成的烤串。乍一看有些難以區分兩者。",
+        "es": "Una brocheta de champiñones y pollo. A primera vista, es difícil adivinar cuál es cuál.",
+        "fr": "Des morceaux de poulet et de champignons sauvages enfilés sur une broche. Difficile de différencier le poulet des champignons...",
+        "id": "Sate jamur dan daging ayam. Sulit dibedakan mana yang jamur mana yang daging ayam.",
+        "jp": "キノコと鳥肉を組み合わせた串焼き。ちょっと見ただけでは両者の違いが分からないかもしれない。",
+        "kr": "야생버섯과 새고기로 만든 꼬치. 얼핏 보면 버섯과 고기의 구분이 어렵다",
+        "pt": "Um espetinho de cogumelos e frango. À primeira vista, é difícil de dizer o que é o que.",
+        "ru": "Шашлычок из грибов и птицы. На первый взгляд трудно сказать, что есть что.",
+        "th": "เห็ดกับเนื้อไก่เสียบไม้ย่าง มองแวบแรกก็คงไม่มีใครรู้ ว่าชิ้นไหนเป็นไก่ ชิ้นไหนเป็นเห็ด",
+        "vi": "Xiên thịt và nấm rừng. Nhìn thì cũng khó phân biệt được hai món đó."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

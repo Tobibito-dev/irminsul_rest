@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Clear Dvalin Tear",
+        "de": "Reine Dvalinträne",
+        "chs": "清澈的风龙泪滴",
+        "cht": "清澈的風龍淚滴",
+        "es": "Lágrima limpia de Dvalin",
+        "fr": "Larme limpide de Dvalin",
+        "id": "Air Mata Dvalin",
+        "jp": "透き通ったトワリンの涙",
+        "kr": "맑은 바람 드래곤의 눈물",
+        "pt": "Lágrima Límpida de Dvalin",
+        "ru": "Очищенная слеза Двалина",
+        "th": "Clear Dvalin Tear",
+        "vi": "Nước mắt Phong Long Tinh Khiết"
+    },
+    "id": 100164,
+    "materialDesc": {
+        "en": "A teardrop left behind by Dvalin. The pure power of Anemo resonates within it.",
+        "de": "Eine von Dvalin zurückgelassene Träne, die pure Anemo-Kraft innehat.",
+        "chs": "风龙留下的泪滴，似乎涌动着一股清澈的风元素之力。",
+        "cht": "風龍留下的淚滴，似乎湧動著一股清澈的風元素之力。",
+        "es": "Una lágrima derramada por Dvalin. El poder puro de Anemo resuena en su interior.",
+        "fr": "Une larme versée par Dvalin. Elle contient un puissant pouvoir de type Anémo.",
+        "id": "Air mata yang diteteskan oleh Dvalin. Kekuatan murni Anemo terpancar dari tetesan air mata ini.",
+        "jp": "風龍が残した涙。中には透き通った風元素の力が流れているようだ。",
+        "kr": "바람 드래곤이 남긴 눈물. 맑고 투명한 바람 원소의 힘이 꿈틀대고 있는 것 같다",
+        "pt": "Um lágrima deixada para trás por Dvalin. O poder puro de Anemo ressona dentro dela.",
+        "ru": "Слеза, оставленная Двалином. В ней резонирует чистая энергия Анемо.",
+        "th": "น้ำตาที่ Dvalin เหลือทิ้งไว้ มันเต็มเปี่ยมไปด้วยพลังของธาตุลมก้องสะท้อนอยู่ภายใน",
+        "vi": "Nước mắt Phong Long sót lại, dường như vẫn tỏa ra sức mạnh Nguyên Tố Phong."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

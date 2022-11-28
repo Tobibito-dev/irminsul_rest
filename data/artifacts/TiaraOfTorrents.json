@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Tiara of Torrents",
+        "de": "Wasseropferdiadem",
+        "chs": "祭水礼冠",
+        "cht": "祭水禮冠",
+        "es": "Diadema Torrencial",
+        "fr": "Couronne rituelle Hydro",
+        "id": "Tiara of Torrents",
+        "jp": "水祭りの冠",
+        "kr": "제수의 관",
+        "pt": "Coroa do Ritual Hydro",
+        "ru": "Тиара воды",
+        "th": "Tiara of Torrents",
+        "vi": "Nón Tế Thủy"
+    },
+    "id": 84534,
+    "setId": 15010,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

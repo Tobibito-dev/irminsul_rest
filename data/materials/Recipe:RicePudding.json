@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Rice Pudding",
+        "de": "Rezept: Reispudding",
+        "chs": "食谱：米饭布丁",
+        "cht": "食譜：米飯布丁",
+        "es": "Receta: Pudín de arroz",
+        "fr": "Recette : Pudding de riz",
+        "id": "Resep: Rice Pudding",
+        "jp": "レシピ：お米プリン",
+        "kr": "레시피: 쌀 푸딩",
+        "pt": "Receita: Pudim de Arroz",
+        "ru": "Рецепт: Рисовый пудинг",
+        "th": "สูตรอาหาร: Rice Pudding",
+        "vi": "Công Thức: Pudding Gạo"
+    },
+    "id": 109469,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Rice Pudding.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Reispudding“.",
+        "chs": "步骤详实的食谱，记载着「米饭布丁」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「米飯布丁」的製作方法。",
+        "es": "Receta paso a paso para hacer un pudín de arroz.",
+        "fr": "Étapes de préparation du pudding de riz.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Rice Pudding.",
+        "jp": "「お米プリン」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「쌀 푸딩」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Pudim de Arroz.",
+        "ru": "Подробный рецепт приготовления блюда «Рисовый пудинг».",
+        "th": "สูตรอธิบายวิธีทำ \"Rice Pudding\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Pudding Gạo\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

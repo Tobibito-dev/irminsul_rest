@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Catch the Wind",
+        "de": "Erlebnispass – Windfänger",
+        "chs": "纪行·捕风",
+        "cht": "紀行·補風",
+        "es": "PB - Atrapaviento",
+        "fr": "PB - Attrape-vent",
+        "id": "Catatan Perjalanan: Mengejar Angin",
+        "jp": "紀行·風捕り",
+        "kr": "기행·바람을 잡다",
+        "pt": "Anotações de Viagem - O Início da Aventura",
+        "ru": "Ловец ветра",
+        "th": "บันทึก-ล่าสายลม",
+        "vi": "Nhật Ký Hành Trình Của Gió"
+    },
+    "id": 210002,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe most difficult part of writing a travel journal is coming up with the beginning.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDas Allerschwierigste beim Schreiben eines Reiseberichts ist wohl der Anfang.",
+        "chs": "名片纹饰。\\n完成了游记写作最困难的部分，就是写个开头。",
+        "cht": "名片紋飾。\\n完成了遊記寫作最困難的部分，就是寫個開頭。",
+        "es": "Diseño de tarjeta de presentación.\\nLa parte más difícil de escribir un diario de viaje es dar el primer paso.",
+        "fr": "Thème.\\nLe plus difficile quand on écrit un journal de voyage, c'est la première page.",
+        "id": "Style kartu nama.\\nBagian tersulit dalam menulis catatan perjalanan adalah menulis awalnya.",
+        "jp": "名刺の飾り紋。\\n旅行記の作成の最難関である冒頭を完成した。",
+        "kr": "명함 스킨.\\n여행기에서 쓰기 가장 어려운 부분인 서론을 작성했다",
+        "pt": "Estilo de Cartão de Visita\\nA parte mais difícil de escrever um diário de viagem é o começo.",
+        "ru": "Именная карта.\\nСамое сложное в ведении путевых заметок - начать их писать.",
+        "th": "ลายนามบัตร\\n\"ทำส่วนที่ยากที่สุดของการเขียนบันทึกการเดินทางให้เสร็จ ซึ่งนั่นก็คือการเริ่มต้นเขียน\"",
+        "vi": "Hoa văn danh thiếp.\\nHoàn thành phần khó nhất của sáng tác du kí, đó chính là phần mở đầu."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Driven Gear",
+        "de": "Getriebenes Zahnrad",
+        "chs": "零动齿轮",
+        "cht": "零動齒輪",
+        "es": "Engranaje conducido",
+        "fr": "Engrenage entraîné",
+        "id": "Roda Gigi",
+        "jp": "ゼロギア",
+        "kr": "피동 톱니바퀴",
+        "pt": "Engrenagem Estática",
+        "ru": "Ведомая шестерня",
+        "th": "เฟืองไร้แรงขับเคลื่อน",
+        "vi": "Bánh Răng Không Động Lực"
+    },
+    "id": 101853,
+    "materialDesc": {
+        "en": "A gear that requires power to rotate. It can be very helpful. Really. Can someone help rotate it, please?",
+        "de": "Ein Zahnrad, das angetrieben werden muss. Es ist sehr nützlich, wirklich. Wer könnte helfen, es zu drehen?",
+        "chs": "需要动力驱动的齿轮。它很有用，真的，谁来帮它转起来？",
+        "cht": "需要動力驅動的齒輪。它很有用，真的，誰來幫它轉起來？",
+        "es": "Engranaje que necesita fuerza de impulso para accionarse. Es muy útil, de verdad, ¿pero quién lo va a poner en marcha?",
+        "fr": "Un engrenage qui a besoin de force pour tourner. Il peut être très utile, mais quelqu'un pourrait-il lui donner un coup de pouce ?",
+        "id": "Roda gigi yang perlu tenaga untuk digerakkan. Benda ini berguna sekali loh. Barangkali ada yang bisa membantu membalikkannya?",
+        "jp": "動力で駆動させる必要のあるギア。すごく役に立つから、誰かそれを回してくれない？",
+        "kr": "동력으로 구동이 필요한 톱니바퀴. 매우 유용하지만, 과연 누가 움직일 수 있을까?",
+        "pt": "Uma engrenagem que necessita de força para ser movida. Ela é muito útil. Sério. Alguém pode ajudar a girá-la?",
+        "ru": "Шестерня, для вращения которой требуется энергия. Может быть очень полезна. Кто-нибудь может привести её в действие?",
+        "th": "เฟืองที่ต้องการพลังขับเคลื่อนในการทำงาน มันมีประโยชน์จริง ๆ นะ ใครก็ได้มาช่วยทำให้มันหมุนหน่อย?",
+        "vi": "Bánh răng cần có động lực để khởi động. Nó rất hữu dụng, thật đó, ai giúp nó xoay đây?"
+    },
+    "materialType": "MATERIAL_ACTIVITY_GEAR"
+}

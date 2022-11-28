@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Azalai's Payment",
+        "de": "Azalais Zahlung",
+        "chs": "阿扎莱的货款",
+        "cht": "阿扎萊的貨款",
+        "es": "Pago de Azalai",
+        "fr": "Paiement d'Azalai",
+        "id": "Pembayaran Azalai",
+        "jp": "アザライの資金",
+        "kr": "아잘라이의 대금",
+        "pt": "Pagamento de Azalai",
+        "ru": "Платёж Азалая",
+        "th": "ทุนซื้อสินค้าของ Azalai",
+        "vi": "Tiền Hàng Của Azalai"
+    },
+    "id": 120118,
+    "materialDesc": {
+        "en": "Azalai's payment. It feels quite substantial...",
+        "de": "Azalais Zahlung, fühlt sich recht schwer an ...",
+        "chs": "阿扎莱的货款，拿起来时很有份量…",
+        "cht": "阿扎萊的貨款，拿起來時很有份量…",
+        "es": "El pago de Azalai. Parece una cantidad considerable...",
+        "fr": "Le paiement d'Azalai. Il semble assez conséquent...",
+        "id": "Pembayaran Azalai. Rasanya cukup berbobot ....",
+        "jp": "アザライの資金。結構な重さ…",
+        "kr": "아잘라이의 대금. 무게가 약간 묵직하다…",
+        "pt": "Pagamento de Azalai. É bem pesado...",
+        "ru": "Платёж от Азалая. На вид немаленький.",
+        "th": "ทุนซื้อสินค้าของ Azalai เมื่อลองยกดูแล้วมันมีน้ำหนักอยู่ไม่น้อยเลยทีเดียว...",
+        "vi": "Tiền hàng của Azalai, nó có vẻ khá nặng..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rather Fine Windwheel Aster",
+        "de": "Recht hochwertige Windmühlenaster",
+        "chs": "品质不错的风车菊",
+        "cht": "品質不錯的風車菊",
+        "es": "Margarita voladora de buena calidad",
+        "fr": "Chrysanthème à aubes de bonne qualité",
+        "id": "Windwheel Aster Berkualitas Baik",
+        "jp": "質の高い風車アスター",
+        "kr": "품질 좋은 풍차 국화",
+        "pt": "Margaridas Voadoras de Boa Qualidade",
+        "ru": "Неплохая ветряная астра",
+        "th": "Windwheel Aster คุณภาพดี",
+        "vi": "Cúc Cánh Quạt Chất Lượng Tốt"
+    },
+    "id": 100780,
+    "materialDesc": {
+        "en": "A Windwheel Aster that grows near Windrise. Said to be of fine quality.",
+        "de": "Eine Windmühlenaster, die in der Nähe des Windstiegs wächst. Sie soll von hoher Qualität sein.",
+        "chs": "生长在风起地附近的风车菊，据说品质不错。",
+        "cht": "生長在風起地附近的風車菊，據說品質不錯。",
+        "es": "Margarita voladora recogida en las cercanías de Levantaviento. Parece de muy buena calidad.",
+        "fr": "Un chrysanthème à aubes poussant près de Ventlevé. De bonne qualité, paraît-il.",
+        "id": "Windwheel Aster yang tumbuh di sekitar Windrise. Orang bilang Windwheel Aster ini memiliki kualitas yang cukup bagus.",
+        "jp": "風立ちの地に生える風車アスター、品質が高いらしい。",
+        "kr": "바람이 시작되는 곳 근처에서 자라는 풍차 국화, 품질이 꽤 좋다고 한다",
+        "pt": "Uma Margarida Voadora que cresce próxima à Origem do Vento. Parece ser de uma ótima qualidade.",
+        "ru": "Ветряная астра, растущая в долине Ветров. Говорят, она неплохого качества.",
+        "th": "Windwheel Aster ที่เติบโตแถว Windrise ว่ากันว่าคุณภาพไม่เลวเลยทีเดียว",
+        "vi": "Cúc Cánh Quạt sinh trưởng ở quanh Phong Khởi Địa, nghe nói chất lượng rất tốt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

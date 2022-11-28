@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vermillionite",
+        "de": "Cinnabarit",
+        "chs": "霞生石",
+        "cht": "霞生石",
+        "es": "Bermellonita",
+        "fr": "Vermillionite",
+        "id": "Vermillionite",
+        "jp": "霞生石",
+        "kr": "하생석",
+        "pt": "Vermillionite",
+        "ru": "Вермилионит",
+        "th": "Vermillionite",
+        "vi": "Hà Sinh Thạch"
+    },
+    "id": 100238,
+    "materialDesc": {
+        "en": "A piece of plaustrite plucked from a Ruin Hunter. It has a rather unique color and is, perchance, the Vermillionite that Wang'ya mentioned...",
+        "de": "Ein Stück Plaustrit, das du bei einem Ruinenjäger gefunden hast. Es hat eine recht ungewöhnliche Farbe und könnte das Cinnabarit sein, von dem Wangya sprach ...",
+        "chs": "从遗迹猎者处获得的浮生石，颜色十分特别，或许这就是望雅所说的「霞生石」…",
+        "cht": "從遺蹟獵者處獲得的浮生石，顏色十分特別，或許這就是望雅所說的「霞生石」…",
+        "es": "Un tipo de plaustrita obtenida de un Cazador de las Ruinas. El color es muy particular. Tal vez esta sea la bermellonita a la que se refería Wangya.",
+        "fr": "Un fragment de plaustrite prélevé sur un Chasseur des ruines. Sa couleur est singulière. Cela pourrait être la vermillionite que Wangya a mentionnée...",
+        "id": "Plaustrite Shard yang didapatkan dari Ruin Hunter. Warnanya berbeda dari biasanya, mungkin ini batu Vermillionite yang diceritakan oleh Wang'ya...",
+        "jp": "遺跡ハンターから獲得した浮生の石片。特別な色を持ち、もしかしたらこれが望雅の言う「霞生石」なのかもしれない…",
+        "kr": "유적 헌터한테서 얻은 부유석. 색이 아주 특이하다. 이게 바로 망아가 말한 「하생석」일까…",
+        "pt": "Plaustrite obtido de um Caçador das Ruínas. Sua cor é muito especial. Talvez isso seja o Vermillionite que Wang'ya mencionou...",
+        "ru": "Кусок плаустрита, добытый из руинного охотника. Он имеет уникальный цвет. Наверняка это вермилионит, о котором говорила Ван Я...",
+        "th": "Plaustrite ที่ได้มาจาก Ruin Hunter มันมีสีที่พิเศษมาก บางทีนี่อาจจะเป็น \"Vermillionite\" ที่ Wang'ya พูดถึงก็เป็นได้...",
+        "vi": "Phù Sinh Thạch nhận từ Thợ Săn Di Tích, màu sắc rất đặc biệt, có lẽ đây là \"Hà Sinh Thạch\" mà Wang'ya nói..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

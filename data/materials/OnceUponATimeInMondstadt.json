@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Once Upon a Time in Mondstadt\"",
+        "de": "„Es war einmal in Mondstadt“",
+        "chs": "「蒙德往事」",
+        "cht": "「蒙德往事」",
+        "es": "Érase una vez en Mondstadt",
+        "fr": "« Le passé de Mondstadt »",
+        "id": "\"Once Upon a Time in Mondstadt\"",
+        "jp": "「モンドの過去」",
+        "kr": "「몬드의 과거」",
+        "pt": "\"Era Uma Vez em Mondstadt\"",
+        "ru": "«Однажды в Мондштадте»",
+        "th": "\"Once Upon a Time in Mondstadt\"",
+        "vi": "Truyện Kể Mondstadt"
+    },
+    "id": 108058,
+    "materialDesc": {
+        "en": "Diluc's specialty. Feast your eyes and then your stomach upon this delicacy as the soft ribs melt in your mouth. Who knew Diluc was able to cook this well?",
+        "de": "Dilucs Spezialzubereitung. Erst labst du deine Augen an dieser Köstlichkeit. Dann füllst du deinen Magen damit. Wer hätte gedacht, dass Diluc etwas so Erstaunliches zubereiten könnte?",
+        "chs": "迪卢克的特色料理。先用眼睛饱尝精致细致的摆盘，再让柔嫩的肉排在唇齿间微微融化。嗯…没想到老爷还有这种手艺？",
+        "cht": "迪盧克的特色料理。先用眼睛飽嘗精緻細緻的擺盤，再讓柔嫩的肉排在唇齒間微微融化。嗯…沒想到老爺還有這種手藝？",
+        "es": "La especialidad de Diluc. Disfruta primero con tus ojos y luego satisface tu estómago con este deleite en tu boca. ¿Quién iba a decir que Diluc cocinaba tan bien?",
+        "fr": "Spécialité culinaire de Diluc. Un délice aussi bien pour les yeux que pour l'estomac. Qui aurait cru que Diluc était un cordon-bleu ?",
+        "id": "Masakan andalan Diluc. Manjakan mata dengan keindahan sajian di atas piring, dan manjakan mulut dengan setiap santapan daging iga yang gurih dan lembut. Siapa sangka Diluc begitu berbakat memasak?",
+        "jp": "ディルックのオリジナル料理。まずは目で綺麗な盛り付けを楽しむ。柔らかいステーキが口の中で融けていく。えっ…旦那様にこんな得意料理があったとは知らなかった。",
+        "kr": "다이루크의 특제 요리. 우선 눈으로 정교하고 섬세한 플레이팅을 음미한 후, 입에 넣으면 부드러운 고기가 입에서 살살 녹는다. 흠… 어르신이 이런 솜씨가 있을 줄은 몰랐네?",
+        "pt": "Especialidade de Diluc. Aprecie primeiro com os olhos para depois satisfazer o seu estômago com essa delícia na sua boca. Quem sabia que Diluc sabia cozinhar tão bem?",
+        "ru": "Особое блюдо Дилюка. Насладитесь тающими во рту рёбрышками. Удовлетворите свои эстетические потребности, а затем и голод. Кто подозревал, что Дилюк вообще умеет готовить?",
+        "th": "เมนูพิเศษของ Diluc จงมองด้วยตา และรับรู้ด้วยท้องไปกับเนื้อที่นุ่มละลายในปาก ใครจะไปรู้ว่าคุณ Diluc ก็ทำอะไรแบบนี้เป็นด้วย?",
+        "vi": "Món độc quyền của Diluc. Đầu tiên phải no mắt trước rồi mới để miếng thịt sườn tan chảy trong miệng. Uhm... thật không ngờ ta còn có tài nghệ này."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

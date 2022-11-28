@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guide to Ballad",
+        "de": "Anleitung zur „Poesie“",
+        "chs": "「诗文」的指引",
+        "cht": "「詩文」的指引",
+        "es": "Guía de la poesía",
+        "fr": "Guide de la Poésie",
+        "id": "Guide to \"Ballad\"",
+        "jp": "「詩文」の導き",
+        "kr": "「시문」의 인도",
+        "pt": "Guia de Poemas",
+        "ru": "Указания о «Поэзии»",
+        "th": "Guide to Ballad",
+        "vi": "Hướng Dẫn Của \"Thơ Văn\""
+    },
+    "id": 104308,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nPoetry is the soul of the land of the wind.\\nPoetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.",
+        "de": "Material zum Verbessern von Talenten.\\nPoesie ist die Seele des Reiches des Windes.\\nDie Poesie ist die Darstellung des Tatendrangs. An düsteren Tagen trägt der Wind in den Gassen Geflüster über unheilvolle Gedanken mit sich. Die Poesie ist wie die Kriegstrommel, wie das leise Vogelgezwitscher vor dem Sturm.",
+        "chs": "天赋培养素材。\\n风之国土的灵魂是诗文。\\n诗文是激励的心意。在黯淡的日子里，穿过巷道的风中低语着愤怒的诗文，如同战鼓，如同风暴前的低鸣。",
+        "cht": "天賦培養素材。\\n風之國土的靈魂是詩文。\\n詩文是激勵的心意。在黯淡的日子裡，穿過巷道的風中低語著憤怒的詩文，如同戰鼓，如同風暴前的低鳴。",
+        "es": "Material de mejora de talento.\\nLa poesía es el alma del Reino del Viento.\\nEs la manifestación de la voluntad de animar a otros. En los días más oscuros, el viento que sopla en las calles y callejones susurra versos furiosos como tambores de batalla o como el estruendo previo a una tormenta.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'âme du Royaume du Vent réside dans la poésie.\\nElle existe pour donner du courage à ceux qui en ont besoin. Pendant les jours sombres, les bourrasques soufflaient des mots de colère dans les rues, comme des tambours de guerre qui annoncent une tempête à venir.",
+        "id": "Material Penguatan Talenta.\\nPuisi adalah jiwa dari Kerajaan Angin.\\nPuisi muncul dari keinginan untuk mendorong. Di hari-hari yang gelap, angin kencang di jalan-jalan dan lorong-lorong membisikkan kata-kata kemarahan, seperti genderang pertempuran, seperti gemuruh rendah sebelum badai.",
+        "jp": "天賦育成素材。\\n風の国の魂は詩と文章である。\\n詩と文章は激励の心意気。暗い日々の中で、巷を通る風は怒りの詩を囁き、それは戦鼓、嵐の前の呟きである。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 영혼은 노래다.\\n노래는 격려하는 마음이다. 암담한 날에는 분노의 시가 골목을 가로지르는 바람을 타고 마치 전장의 북소리와 폭풍 전 낮게 울부짖는 소리처럼 울려 퍼진다",
+        "pt": "Material para aprimorar o nível de Talento.\\nA poesia é a alma do Reino do Vento.\\nA poesia é a manifestação da vontade de encorajar. Nos dias obscuros, os vendavais nas ruas e becos sussurram palavras de fúria, como os tambores de batalha, como o estrondo baixo antes da tempestade.",
+        "ru": "Материал повышения таланта.\\nПоэзия - это душа царства ветров.\\nПоэзия - это проявление желания воодушевлять. Тёмным летним днём злой ветер на улицах и в переулках шепчет слова ярости, словно бой военных барабанов, словно грохот бури.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nบทกวีนั้นคือจิตวิญญาณของประเทศแห่งสายลม\\nบทกวีคือแรงขับเคลื่อนของความรู้สึก ในวันที่มืดมน เสียงกระซิบต่อว่าเป็นเหมือนราวกับ กลองรบ ราวกับฟ้าคะนองก่อนที่พายุจะมา",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nLinh hồn đất nước của gió là thơ văn.\\nThơ văn là sự khích lệ. Trong những ngày u ám, gió thổi qua bến cảng mang theo lời thơ tức giận, như tiếng trống trận, cũng như tiếng hót của con chim nhỏ trước giông bão."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

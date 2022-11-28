@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Luminescent Pollen",
+        "de": "Leuchtendes Sporenpulver",
+        "chs": "荧光孢粉",
+        "cht": "螢光孢粉",
+        "es": "Polen fluorescente",
+        "fr": "Pollen fluorescent",
+        "id": "Luminescent Pollen",
+        "jp": "キノコンの蛍胞子",
+        "kr": "형광 포자 분말",
+        "pt": "Pólen fluorescente",
+        "ru": "Светящаяся пыльца",
+        "th": "Luminescent Pollen",
+        "vi": "Bột Huỳnh Quang"
+    },
+    "id": 112060,
+    "materialDesc": {
+        "en": "A small parcel of luminescent Fungal Spore powder, a common medical ingredient in the land of rainforests. Merchants usually sell them in paper packets.",
+        "de": "Ein kleines Päckchen mit leuchtendem Sporenpulver von Pilzbestien, das im Land der Regenwälder ein gängiger medizinischer Wirkstoff ist. Händler verkaufen sie normalerweise in Papierpaketen.",
+        "chs": "小小一包散发着荧光的蕈兽孢子粉末，在雨林之国是一剂常见的药材，往往被商人用纸包封装起来贩售。",
+        "cht": "小小一包散發著螢光的蕈獸孢子粉末，在雨林之國是一劑常見的藥材，往往被商人用紙包封裝起來販售。",
+        "es": "Pequeño montón de polvo brillante de las Esporas fúngicas. Es un ingrediente medicinal muy frecuente en la nación de las selvas tropicales. Los comerciantes suelen venderlo en bolsitas de papel.",
+        "fr": "Un petit paquet de spores fluorescentes qui provient d'un Fongus. Il s'agit d'un ingrédient médicinal commun dans les pays avec des forêts tropicales. Les marchands en vendent souvent dans des sachets en papier.",
+        "id": "Sekantong kecil bubuk Fungal Spore bercahaya, sejenis obat yang umum dipakai di tanah hutan hujan. Biasa dijual dalam kemasan kertas.",
+        "jp": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
+        "kr": "형광 불빛이 나는 버섯몬 포자 분말. 우림의 나라에서 흔히 보이는 약재다. 상인들은 보통 종이로 포장해서 판매한다",
+        "pt": "Uma pequena quantidade de esporos luminescentes de Cogumelos Flutuantes, um ingrediente medicinal comum na terra das florestas tropicais. Os comerciantes geralmente os vendem em pacotinhos de papel.",
+        "ru": "Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов. Торговцы обычно продают их в бумажных пакетах.",
+        "th": "Fungal Spore เรืองแสงซองเล็ก ๆ ซองหนึ่ง เป็นตัวยารักษาโรคที่พบเห็นได้บ่อยในดินแดนแห่งป่าฝน มักจะถูกพ่อค้านำมาบรรจุใส่ซองกระดาษเพื่อวางขาย",
+        "vi": "Một gói nhỏ bột bào tử nấm huỳnh quang, là dược liệu phổ biến ở xứ sở rừng nhiệt đới, thường được các thương nhân gói trong túi giấy để bán."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

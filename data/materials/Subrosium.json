@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Subrosium",
+        "de": "Geheimessenzerz",
+        "chs": "秘华石",
+        "cht": "秘華石",
+        "es": "Subrosium",
+        "fr": "Subrosium",
+        "id": "Subrosium",
+        "jp": "秘華石",
+        "kr": "비화석",
+        "pt": "Subrosium",
+        "ru": "Суброзий",
+        "th": "Subrosium",
+        "vi": "Bí Hoa Thạch"
+    },
+    "id": 101610,
+    "materialDesc": {
+        "en": "One of the ores required to create Wonder Cores. It can often be found where dawn meets dusk.",
+        "de": "Eines der Erzen, die zur Herstellung von „Wunderkernen“ erforderlich sind. Man kann es meistens in der Scheide zwischen Tag und Nach finden.",
+        "chs": "制作「千奇核心」的必要矿石之一，多出现于晨昏交界之处。",
+        "cht": "製作「千奇核心」的必要礦石之一，多出現於晨昏交界之處。",
+        "es": "Uno de los minerales necesarios para fabricar el núcleo de los prodigios. Suele encontrarse en el momento en el que el día se encuentra con la noche.",
+        "fr": "Un des minerais requis pour la fabrication d'un noyau des merveilles. Il se trouve souvent dans les endroits où l'aube rencontre le crépuscule.",
+        "id": "Salah satu bijih yang diperlukan untuk membuat Wonder Core. Biasa ditemukan di tempat fajar bertemu dengan petang.",
+        "jp": "「千奇核心」を作るために必要な鉱石の一つ。朝と夕が交わるところでしばし発見される。",
+        "kr": "「기묘한 코어」 제작에 필수인 광석 중 하나. 주로 밤과 낮의 경계에서 흔히 발견된다",
+        "pt": "Um dos minérios necessários para criar Núcleos Maravilhosos. Pode ser encontrado comumente onde o alvorecer encontra o entardecer.",
+        "ru": "Одна из руд, необходимых для создания Ядра чудес. Её часто можно найти в месте, где рассвет встречается с закатом.",
+        "th": "หนึ่งในแร่ที่จำเป็นในการสร้าง \"Wonder Core\" มักพบเจอได้มากในบริเวณพรมแดนที่เชื่อมระหว่างกลางวันและกลางคืน",
+        "vi": "Một trong các khoáng thạch cần thiết để chế tạo \"Lõi Thần Kỳ\", thường xuất hiện ở nơi ngày và đêm giao thoa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Braised Meat",
+        "de": "Misslungener Fleischeintopf",
+        "chs": "奇怪的红烩兽肉",
+        "cht": "奇怪的紅燴獸肉",
+        "es": "Carne estofada extraña",
+        "fr": "Viande braisée (suspecte)",
+        "id": "Suspicious Braised Meat",
+        "jp": "微妙な獣肉シチュー",
+        "kr": "이상한 걸쭉 짐승고기탕",
+        "pt": "Carne Bestial Refogada Estranha",
+        "ru": "Странный мясной гуляш",
+        "th": "Meat Stew รสประหลาด",
+        "vi": "Thịt Rừng Kho Tàu Kỳ Lạ"
+    },
+    "id": 108309,
+    "materialDesc": {
+        "en": "A stewed dish. The stewing process seems to have been bungled, with the ingredients just have been bundled into the pot to cook together, resulting in wilted vegetables that have all but dissolved into the soup, leaving nothing to this pot but the greasy taste of meat...",
+        "de": "Ein geschmortes Gericht. Der Schmorprozess scheint verpfuscht worden zu sein, denn die Zutaten wurden einfach in den Topf geworfen, um zusammen zu kochen. Das Ergebnis ist welkes Gemüse, das sich fast in der Suppe aufgelöst hat und nichts als den fettigen Geschmack von Fleisch übrig lässt ...",
+        "chs": "炖煮而成的菜肴。似乎没有掌握好炖煮的方法，只是单纯地将所有食材投入锅内一并煮制，导致蔬菜过于烂熟，几乎化入了汤里。整锅菜除了发腻的肉味之外再无其他…",
+        "cht": "燉煮而成的菜餚。似乎沒有掌握好燉煮的方法，只是單純地將所有食材投入鍋內一併煮制，導致蔬菜過於爛熟，幾乎化入了湯裡。整鍋菜除了發膩的肉味之外再無其他…",
+        "es": "Un plato de carne guisada. No parece que quien hizo este plato dominara la técnica del estofado, ya que solo metió los ingredientes en una olla y los coció juntos. Además, las verduras se han desintegrado y no hay ni rastro de ellas, por lo que el plato no sabe más que a carne y... a carne.",
+        "fr": "Un plat mijoté. Le processus de cuisson semble ne pas avoir été maitrisé et les ingrédients, simplement rassemblés dans la marmite et laissés à leur sort. Résultat ? Les légumes sont flétris et sont quasiment dissous dans la soupe, ne laissant rien d'autre que le goût gras de la viande dans la marmite...",
+        "id": "Hidangan rebus. Proses merebusnya tampaknya tidak terlalu baik, dengan berbagai bahan yang disatukan ke dalam panci dan dimasak bersama, alhasil menjadi sayuran layu yang semuanya larut ke dalam sup, tidak meninggalkan apa pun ke panci ini kecuali rasa daging yang berminyak...",
+        "jp": "煮込んだ料理。調理方法をうまく把握していないようで、全ての材料を鍋に入れただけなため、野菜が煮込みすぎてスープに溶けてしまった。結果、脂っこい肉の味しかしない料理となった…",
+        "kr": "끓여서 제작된 스튜 요리. 스튜의 조리법을 제대로 파악하지 못한 듯, 단순히 모든 재료를 냄비에 넣고 함께 끓였다. 그러다 보니 채소가 너무 익어 국물에 풀어질 지경이다. 냄비에 느끼한 고기 냄새 말고는 아무것도 느껴지지 않는다…",
+        "pt": "Um prato cozido. O processo de cozimento parece ter sido estragado, com os ingredientes apenas agrupados na panela para cozinharem juntos, resultando em vegetais murchos que praticamente se dissolveram na sopa, não deixando nada nesta panela, a não ser o sabor gorduroso da carne...",
+        "ru": "Тушёное блюдо. Похоже, что метод тушения не был освоен, и все ингредиенты просто бросили в кастрюлю и варили вместе, в результате чего овощи переварились и почти растворились в бульоне. Блюдо превратилось в кашеобразную массу со вкусом мяса...",
+        "th": "สตูที่ได้จากการตุ๋น ดูเหมือนว่าขั้นตอนการตุ๋นจะยังมีความผิดพลาดอยู่บ้าง เพียงแค่ใส่ส่วนผสมทั้งหมดลงในหม้อแล้วต้มรวมกันแบบนี้ มันทำให้ผักสุกเกินไป และเกือบจะละลายเป็นเนื้อเดียวกับน้ำซุป ทำให้สตูทั้งหม้อมีแต่รสมันเยิ้มของเนื้อ...",
+        "vi": "Món hầm. Có vẻ như chưa nắm vững phương pháp hầm mà chỉ đơn giản là cho tất cả các nguyên liệu vào nồi và nấu khiến rau bị chín nhừ và gần như hòa quyện vào nồi canh. Cả nồi không có gì ngoài vị béo ngậy của thịt..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

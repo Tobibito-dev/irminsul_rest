@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Storehouse Security Key No. 1",
+        "de": "Lagersicherheitsschlüssel Nr. 1",
+        "chs": "库房安全钥匙·甲字号",
+        "cht": "庫房安全鑰匙·甲字號",
+        "es": "Primera llave de seguridad del almacén",
+        "fr": "Clé de sécurité de l'entrepôt 1",
+        "id": "Kunci Keamanan Gudang No. 1",
+        "jp": "倉庫の鍵·甲",
+        "kr": "창고 보안 열쇠·갑",
+        "pt": "Chave de Segurança do Depósito — I",
+        "ru": "Ключ безопасности склада А",
+        "th": "กุญแจรักษาความปลอดภัยคลัง หมายเลข 1",
+        "vi": "Chìa Khóa An Toàn Nhà Kho 1"
+    },
+    "id": 101622,
+    "materialDesc": {
+        "en": "A key to a certain storehouse that was hidden in a very obvious place, yet was never found by the Treasure Hoarders. Guess they're not as good at their job as they think, huh?",
+        "de": "Ein Schlüssel zum Lagerhaus, der an einem leicht zu findenden Ort versteckt ist. Die Schatzräuber haben ihn jedoch nicht gefunden, was bedeutet, dass ihre Professionalität zu wünschen übrig lässt.",
+        "chs": "一把库房的钥匙，藏在很显眼的地方，并且没有被找到，盗宝团的业务能力可见一斑。",
+        "cht": "一把庫房的鑰匙，藏在很顯眼的地方，並且沒有被找到，盜寶團的專業能力可見一斑。",
+        "es": "Una llave del almacén escondida en un lugar fácil de encontrar. No obstante, los Ladrones de Tesoros no dieron con su paradero, lo que significa que su profesionalidad deja mucho que desear.",
+        "fr": "La clé d'un entrepôt. Elle a été cachée dans un endroit facile à trouver, mais les Pilleurs de trésors n'ont pas réussi à mettre la main dessus. Ces gens manquent vraiment de professionnalisme...",
+        "id": "Kunci gudang tertentu yang tersembunyi di tempat yang mencolok, tapi tidak kunjung ditemukan oleh Treasure Hoarder. Sepertinya kemampuan mereka patut diragukan, ya?",
+        "jp": "丸わかりな場所に隠されていた倉庫の鍵。それでも宝盗団に見つからなかったことから、彼らの業務スキルの低さが分かる。",
+        "kr": "창고의 열쇠. 눈에 띄는 곳에 놓여 있지만 보물 사냥단은 찾지 못했다. 보물 사냥단의 업무 능력이 짐작된다",
+        "pt": "A chave de um armazém. Ela estava escondida em um lugar muito exposto, mas ainda assim não foi encontrada pelos Ladrões de Tesouro. Seu profissionalismo deixa muito a desejar.",
+        "ru": "Ключ от склада, который был спрятан в очевидном месте. Похитители сокровищ всё же умудрились его не найти, что говорит об остром недостатке профессионализма этой группировки.",
+        "th": "กุญแจคลังที่ซ่อนไว้ในสถานที่ที่สามารถมองเห็นได้อย่างชัดเจน แต่กลับไม่มีใครเจอ กองโจรล่าสมบัติทำงานไม่รอบคอบเอาซะเลย",
+        "vi": "Một chiếc chìa khóa nhà kho, được giấu ở nơi rất dễ thấy, mà không ai phát hiện, xem ra năng lực chuyên môn của Đạo Bảo Đoàn cũng tầm thường thôi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Full Mora Purse",
+        "de": "Gefüllter Mora-Geldbeutel",
+        "chs": "充实的摩拉袋",
+        "cht": "充實的摩拉袋",
+        "es": "Bolsa llena de Mora",
+        "fr": "Bourse de moras remplie",
+        "id": "Dompet Mora yang Berat",
+        "jp": "どっさりとしたモラ袋",
+        "kr": "묵직한 모라 주머니",
+        "pt": "Saco de Mora Cheio",
+        "ru": "Увесистый кошелёк с морой",
+        "th": "ถุงใส่ Mora ที่แน่นปึ้ก",
+        "vi": "Túi Mora Đầy Tràn"
+    },
+    "id": 101668,
+    "materialDesc": {
+        "en": "A Mora purse you found in a treasure chest. Compared to the previous purse you found, this one provides a decent amount more comfort.",
+        "de": "Ein Mora-Geldbeutel, den du in einer Schatztruhe gefunden hast. Im Vergleich zum vorherigen Geldbeutel, den du gefunden hast, fühlt sich dieser deutlich komfortabler an.",
+        "chs": "从宝箱里找到的摩拉袋。相比起之前找到的摩拉袋，它的重量要令人安心许多。",
+        "cht": "從寶箱裡找到的摩拉袋。相比起之前找到的摩拉袋，它的重量要令人安心許多。",
+        "es": "Una bolsa de Mora encontrada en un cofre. Comparado con la bolsa que encontraste antes, el peso de esta te reconforta el corazón.",
+        "fr": "Une bourse de moras que vous avez trouvée dans un coffre aux trésors. Comparée à la bourse précédente que vous avez trouvée, celle-ci est plus satisfaisante...",
+        "id": "Sebuah dompet Mora yang ditemukan di sebuah peti harta karun. Kalau dibandingkan dengan benda serupa yang ditemukan sebelumnya, bobot benda yang kali ini minimal bisa membuat orang jauh lebih lega.",
+        "jp": "宝箱から見つけたモラ袋。前に見つけたモラ袋と比べて、その重さは安心できる。",
+        "kr": "보물 상자에서 찾은 모라 주머니. 전에 찾은 모라 주머니에 비해 기분이 좋아지는 무게이다",
+        "pt": "#Um saco de Mora encontrado em um baú. Quando comparado ao saco encontrado anteriormente, seu peso lhe deixa bem mais satisfeit{F#a}{M#o}.",
+        "ru": "Кошелёк с морой, который вы нашли в сундуке с сокровищами. По сравнению с предыдущим кошельком, этот внушает больше оптимизма.",
+        "th": "ถุง Mora ที่พบในหีบสมบัติ เมื่อเทียบกับถุง Mora ที่พบก่อนหน้านี้ น้ำหนักของมันช่วยทำให้อุ่นใจกว่ามากทีเดียว",
+        "vi": "Túi Mora tìm được trong rương, so với túi Mora tìm được trước đó thì trọng lượng của thứ này khiến người ta cảm thấy an tâm hơn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

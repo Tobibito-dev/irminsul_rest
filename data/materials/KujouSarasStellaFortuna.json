@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kujou Sara's Stella Fortuna",
+        "de": "Stella Fortuna von Kujou Sara",
+        "chs": "九条裟罗的命星",
+        "cht": "九條裟羅的命星",
+        "es": "Stella Fortuna de Kujou Sara",
+        "fr": "Stella Fortuna de Kujou Sara",
+        "id": "Kujou Sara's Stella Fortuna",
+        "jp": "九条裟羅の星屑",
+        "kr": "쿠죠 사라의 운명의 별",
+        "pt": "Stella Fortuna de Kujou Sara",
+        "ru": "Удача Кудзё Сары",
+        "th": "ดวงดาวแห่งชีวิตของ Kujou Sara",
+        "vi": "Chòm Sao Của Kujou Sara"
+    },
+    "id": 1156,
+    "materialDesc": {
+        "en": "Kujou Sara's Constellation Activation Material",
+        "de": "Kujou Saras Material zum Aktivieren von Sternbildern",
+        "chs": "九条裟罗的命之座激活素材",
+        "cht": "九條裟羅的命之座啟用素材",
+        "es": "Material de activación de constelación de Kujou Sara",
+        "fr": "Matériau d'activation de la constellation de Kujou Sara.",
+        "id": "Material aktivasi untuk konstelasi Kujou Sara",
+        "jp": "九条裟羅の命ノ星座アンロック用素材",
+        "kr": "쿠죠 사라의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Kujou Sara",
+        "ru": "Материал для активации созвездия Кудзё Сары.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Kujou Sara",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Kujou Sara"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

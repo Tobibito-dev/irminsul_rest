@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Minty Meat Rolls",
+        "de": "Minzröllchen",
+        "chs": "兽肉薄荷卷",
+        "cht": "獸肉薄荷捲",
+        "es": "Rollitos de carne y menta",
+        "fr": "Rouleaux de viande à la menthe",
+        "id": "Minty Meat Roll",
+        "jp": "ミントの獣肉巻き",
+        "kr": "허브 고기말이",
+        "pt": "Enroladinho de Carne com Menta",
+        "ru": "Мясные рулетики с мятой",
+        "th": "Minty Meat Rolls",
+        "vi": "Thịt Rừng Cuộn Bạc Hà"
+    },
+    "id": 108232,
+    "materialDesc": {
+        "en": "A sour-and-spicy dish. The marinated meat has been thinly sliced and rolled into the mint leaves, before being brushed with a sauce blend containing Jueyun Chilis. The unique mint flavor adds the finishing touch to this dish, turning it into an excellent addition to any cold platter.",
+        "de": "Ein sauer-würziges Gericht. Das marinierte Fleisch wurde in dünne Scheiben geschnitten und in die Minzblätter eingerollt, bevor es mit einer Soßenmischung mit Jueyun-Peperoni bestrichen wurde. Der einzigartige Minzgeschmack gibt diesem Gericht den letzten Schliff und macht es zu einer hervorragenden Ergänzung für jede kalte Platte.",
+        "chs": "酸辣爽口的菜肴。将卤制好的兽肉切成薄片，卷入薄荷叶，并浇上由绝云椒椒调制的蘸水。独特的薄荷清香正是这道菜的点睛之笔，作为凉菜冷盘再合适不过。",
+        "cht": "酸辣爽口的菜餚。將滷製好的獸肉切成薄片，捲入薄荷葉，並澆上由絕雲椒椒調製的醬汁。獨特的薄荷清香正是這道菜的畫龍點睛之筆，作為涼菜冷盤再適合不過。",
+        "es": "Una deliciosa y refrescante comida con un sabor agripicante. Tras estofar la carne y cortarla en finas láminas, se envuelve en una hoja de menta y se adereza con una salsa hecha con chiles de Jueyun. La fragancia única de la menta es el toque final de este plato, insuperable para servir como aperitivo frío.",
+        "fr": "Un plat frais et épicé. Coupez en tranches fines la viande préalablement hachée, que vous enroulez ensuite de feuilles de menthe, avant de verser par-dessus la sauce à base de piments de Jueyun. La clé de cette spécialité réside dans le goût si particulier de la menthe, et en fait un hors-d'œuvre plébiscité à toutes les tables.",
+        "id": "Hidangan dengan rasa asam dan manis. Daging yang telah dimarinasi, dipotong tipis dan digulung dengan daun Mint, kemudian dioleskan saus berbahan Jueyun Chili. Rasa Mint yang unik adalah sentuhan akhir yang sangat cocok untuk hidangan dingin seperti ini.",
+        "jp": "酸っぱ辛い料理。ソースに漬けた獣肉を薄切りにし、ミントの葉を巻き絶雲の唐辛子で作った調味料をかけ加えた。独特のミントの香りがこの料理の特筆すべきポイントであり、冷たい和え物としては最適な一品だ。",
+        "kr": "매콤 새콤한 반찬. 절인 짐승고기를 얇게 썬 후 허브잎으로 돌돌 말아 절운고추로 만든 소스를 그 위에 붓는다. 독특한 허브향이 돋보이는 이 요리는 냉채로 안성맞춤이다",
+        "pt": "Um prato amargo e picante. A carne marinada foi cortada finamente e enrolada nas folhas de Menta antes de ser pincelada com um molho que contém Pimentas de Jueyun. O sabor único de Menta é o toque final que esse prato precisa, sendo uma parte excelente de qualquer tábua de frios.",
+        "ru": "Кисло-острое блюдо. Хорошенько промаринованные тонкие ломтики мяса закручены в листья мяты и политы соусом из заоблачного перчика. Особая нежность мяты - украшение этого блюда, как никогда подходящее ему.",
+        "th": "อาหารเผ็ดเปรี้ยวที่สดชื่นซาบซ่าน เนื้อตุ๋นหั่นบาง ๆ ที่ม้วนรวมกับใบสะระแหน่ แล้วราดด้วยซอสที่ทำจาก Jueyun Chili กลิ่นหอมสดชื่นที่เป็นเอกลักษณ์ของมิ้นต์คือจุดเด่นของอาหารจานนี้ ซึ่งเข้ากับออเดิร์ฟเย็นจานนี้เป็นที่สุด",
+        "vi": "Thức ăn chua cay. Cắt thịt động vật đã ướp thành từng lát mỏng, cuộn trong lá bạc hà và rưới nước Ớt Tuyệt Vân lên. Hương thơm bạc hà độc đáo là điểm nhấn của món ăn này, là món khai vị hoàn hảo nhất."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

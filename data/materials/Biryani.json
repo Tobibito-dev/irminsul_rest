@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Biryani",
+        "de": "Biryani",
+        "chs": "兽米香香",
+        "cht": "獸米香香",
+        "es": "Biryani",
+        "fr": "Biryani",
+        "id": "Biryani",
+        "jp": "獣肉のビリヤニ",
+        "kr": "짐승고기 필라프",
+        "pt": "Biryani",
+        "ru": "Бирьяни",
+        "th": "Biryani",
+        "vi": "Biryani"
+    },
+    "id": 108416,
+    "materialDesc": {
+        "en": "An aromatic rice dish. Stir-fry the meat such that it is crispy on the outside and tender on the inside. Then stew it with condiments and long-grain rice. Sprinkle a few Padisarah petals before serving. Every grain is saturated with the aroma of fatty meat and condiments. The dish has an exquisite taste only found in Sumeru.",
+        "de": "Ein aromatischer Pilaw. Das marinierte rohe Fleisch knusprig anbraten. Alle Zutaten und den Langkornreis auf sehr kleiner Flamme ausquellen lassen. Mit den Padisarah garnieren. Das deftige Fleisch mitsamt dem vielschichtigen Aroma der Gewürze vermischt sich mit den prallen Reiskörnern. So entsteht eine in Sumeru ganz beliebte Delikatesse.",
+        "chs": "肉香四溢的抓饭。先将处理好的兽肉炒得外焦里嫩，再将全部配菜与长米一并炖煮，最后出锅的时候缀以帕蒂沙兰。兽肉的脂香与调料的复合香气，融入到饱满的米粒之中，可谓是须弥珍味。",
+        "cht": "肉香四溢的抓飯。先將處理好的獸肉炒得外焦裡嫩，再將全部配菜與長米一起燉煮，最後出鍋的時候綴以帕蒂沙蘭。獸肉的脂香與調味料的複合香氣，融入到飽滿的米粒之中，可謂是須彌珍味。",
+        "es": "Un aromático plato de arroz. Se saltea la carne para que quede crujiente por fuera y tierna por dentro. A continuación, se guisa con condimentos y arroz de grano largo. Se espolvorea un poco de orquídea padishá antes de servir. El interior de cada grano contiene el aroma de la carne y de los condimentos, con lo que ofrece un sabor exquisito que solo se encuentra en Sumeru.",
+        "fr": "Un riz pilaf aux parfums intenses. La viande est sautée pour qu'elle soit croustillante à l'extérieur et tendre à l'intérieur. Elle est ensuite cuite à l'étouffée avec un assaisonnement et du riz à grains longs. Un peu de padisachidée est saupoudrée sur le dessus de la composition avant que celle-ci ne soit servie. L'intérieur de chaque grain de riz contient l'arôme de la viande et des assaisonnements, ce qui confère à ce plat un goût exquis que l'on ne trouve qu'à Sumeru.",
+        "id": "Pilaf yang berisi dan beraroma. Dagingnya ditumis hingga terasa renyah di luar dan empuk di dalam. Kemudian rebus dengan bumbu dan nasi bulir panjang. Sebelum disajikan, taburkan juga beberapa kelopak Padisarah ke atasnya. Setiap butirannya mengunci aroma daging berlemak yang kaya akan bumbu, dan hidangan ini menawarkan rasa istimewa yang hanya ditemukan di Sumeru.",
+        "jp": "肉の香ばしい匂いがするビリヤニ。まずは下処理済みの獣肉を外がカリッと、中が柔らかくなるまで炒める。そして、すべての材料とロングライスを一緒に蒸し、最後にパティサラを飾れば出来上がり。獣肉の脂の香りと調味料の混ざりあう香りが膨らんだ米に溶け込む。まさに、スメールの珍味と言えるだろう。",
+        "kr": "고기 향이 확 느껴지는 필라프. 먼저 겉은 바삭하고 속은 촉촉하게 짐승고기를 손질한 후, 다른 재료 및 길쭉한 쌀과 함께 밥을 짓고 마지막엔 파디사라로 장식해 준다. 짐승고기와 조미료의 향기가 속이 꽉 찬 밥알에 녹아들어 수메르의 진미라고 해도 과언이 아니다",
+        "pt": "Um pilaf aromático. Frite a carne de tal forma que ela fique crocante por fora e macia por dentro. Em seguida, refogue-a com temperos e arroz de grãos longos. Jogue algumas pétalas de Padisarah antes de servir. Cada chão está cheio do aroma gorduroso da carne e dos temperos. O prato tem um gosto único, apenas encontrado em Sumeru.",
+        "ru": "Плов с характерным мясным ароматом. Свежее мясо обжаривают до хрустящей корочки, затем тушат вместе с длиннозёрным рисом и приправами, а перед подачей блюдо украшают орхидеей падисара. Непревзойдённое сочетание нежного мяса с ароматными специями и рассыпчатым рисом - плов по праву называют одним из сокровищ сумерской кухни.",
+        "th": "พิลาฟเนื้อที่กลิ่นหอมฟุ้งไปทั่วสารทิศ ผัดเนื้อก่อนให้กรอบนอกนุ่มใน จากนั้นเคี่ยวเครื่องเคียงทั้งหมดและข้าวเข้าด้วยกัน เมื่อนำออกจากหม้อแล้วตกแต่งด้วย Padisarah กลิ่นหอมของเนื้อที่คลุกเคล้ากับเครื่องเทศซึมซาบเข้าไปในเมล็ดข้าว เป็นรสชาติสุดโอชะอันเป็นเอกลักษณ์เฉพาะของ Sumeru",
+        "vi": "Cơm thập cẩm nhiều thịt. Đầu tiên, chiên thịt đã chế biến cho đến khi giòn bên ngoài và mềm ở bên trong, sau đó hầm với nguyên liệu đi kèm và gạo hạt dài, cuối cùng là trang trí với Padisarah. Vị thơm béo của thịt và mùi thơm của hỗn hợp gia vị quyện vào những hạt cơm dẻo, có thể được ví như một món ngon của Sumeru."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tea-Colored Shirakodai",
+        "de": "Teefarbiger Schmetterlingsfisch",
+        "chs": "流纹茶蝶鱼",
+        "cht": "流紋茶蝶魚",
+        "es": "Pez mariposa verdoso",
+        "fr": "Poisson-papillon vert",
+        "id": "Tea-Colored Shirakodai",
+        "jp": "緑チョウチョウウオ",
+        "kr": "녹색 나비고기",
+        "pt": "Shirakodai Cor de Chá",
+        "ru": "Чайная рыба-бабочка",
+        "th": "Tea-Colored Shirakodai",
+        "vi": "Cá Bướm Vân Trà"
+    },
+    "id": 131015,
+    "materialDesc": {
+        "en": "A gentle, elegant butterflyfish variant. It has a lovely, streamlined dorsal fin, and has the nickname \"Queen of the Waters.\"\\nTea-colored patterns swirl around this inquisitive fish that seems strongly interested in everything around it. Unfortunately, its method of expressing interest in anything is to have a nibble to see if it can be eaten. This isn't a malicious move by any means, but it has landed this species in hot water many times all the same.",
+        "de": "Eine sanfte, elegante Schmetterlingsfisch-Variante. Er hat eine schöne, stromlinienförmige Rückenflosse und trägt den Spitznamen „Königin der Gewässer“.\\nTeefarbene Muster wirbeln um diesen neugierigen Fisch, der sich stark für alles um ihn herum zu interessieren scheint. Leider ist seine Methode, Interesse an allem zu bekunden, ein Knabbern, um zu sehen, ob es gefressen werden kann. Das ist keineswegs bösartig, aber es hat diese Art trotzdem schon oft in Schwierigkeiten gebracht.",
+        "chs": "性情温和，姿态优雅的蝶鱼，拥有流线型的美丽背鳍，又有「水中王后」的美誉。\\n体表环绕着茶色的纹路，好奇心旺盛，对一切活动物体都抱有强烈的兴趣，而它们表达兴趣的方式就是用嘴试试能不能吃，虽然不是什么带有恶意的攻击，但却因此常常招来灭顶之灾。",
+        "cht": "性情溫和，姿態優雅的蝶魚，擁有流線型的美麗背鰭，又有「水中王后」的美譽。\\n體表環繞著茶色的紋路，好奇心旺盛，對一切活動物體都抱有強烈的興趣，而牠們表達興趣的方式就是用嘴試試能不能吃，雖然不是什麼帶有惡意的攻擊，但卻因此常常招來滅頂之災。",
+        "es": "Una subespecie grácil y elegante del pez mariposa. Tiene una aleta dorsal muy bonita y la llaman “reina de los mares”.\\nEl cuerpo de este pez con curiosidad por todas las cosas luce motivos de color verdoso. Lamentablemente, su método para expresar interés es morder el objeto que le atrae. Esta acción, sin malicia en sí misma, ha puesto en aprietos a esta especie multitud de veces.",
+        "fr": "Élégant poisson-papillon au caractère amène, qui affiche une magnifique nageoire dorsale profilée et répond également au surnom de « reine des eaux ».\\nD'une profonde couleur bronze, ce poisson déborde de curiosité, en particulier à l'égard de toute chose capable de bouger, exprimant son vif intérêt en essayant de dévorer la chose en question. Ce type d'attaque n'a rien de malveillant, mais est souvent la cause de catastrophes de taille.",
+        "id": "Varian ikan kupu-kupu yang lembut dan elegan. Mereka memiliki sirip punggung yang indah dan ramping, serta julukan \"Ratu Perairan\".\\nPola-pola berwarna teh menghiasi sekujur tubuhnya. Ikan yang penuh rasa penasaran ini tampak sangat tertarik pada segala sesuatu di sekitarnya. Sayangnya, cara mereka menyampaikan minatnya tersebut adalah dengan cara menggigit untuk melihat apakah benda itu bisa dimakan atau tidak. Tindakan ini sama sekali tidak mengandung niat jahat, namun gara-gara tindakan tersebut, mereka seringkali harus berhadapan dengan bencana yang sangat fatal.",
+        "jp": "温厚な性格と優雅な姿を持つチョウチョウウオ。流線形の背びれが美しく、「水中の女王」という名を持つ。\\n体の表面に緑色の模様があり、好奇心旺盛で、全ての動くものに強い興味を持っている。だが、彼らの興味を示す方法は、それを口に入れて食べられるかどうか確認することである。悪意を持つ攻撃ではないが、よくそれで滅亡の災いを招いてしまう。",
+        "kr": "성격이 온화하고 자태가 우아한 나비고기. 유선형의 아름다운 등지느러미를 가지고 있으며, 「물의 여왕」으로 불린다.\\n외피는 물결무늬로 되어있다. 호기심이 강해 모든 움직이는 생명체에 강렬한 관심을 보인다. 그들이 관심을 표현하는 방법은 입으로 툭툭 건드려 먹을 수 있는지를 판단하는 것이다. 악의적인 공격은 아니지만, 이로 인해 종종 치명적인 위험에 처하기도 한다",
+        "pt": "Um gentil e elegante peixe borboleta. Possui uma adorável barbatana dorsal, e possui o apelido \"Rainha das Águas\".\\nOs padrões cor de chá rodeiam esse peixe curioso que parece interessado em tudo ao seu redor. Infelizmente, seu método de expressar interesse em qualquer coisa é para ver se pode comer. Não é algo malicioso, mas essa atitude já colocou essa espécie em apuros muitas vezes.",
+        "ru": "Рыба-бабочка обладает кротким нравом, изящной внешностью, красивыми спинными плавниками, а также известна как «подводная королева». \\nТело покрыто зелёными линиями. Эта рыба крайне любопытна и проявляет интерес ко всему, что движется. Выражает она его, пробуя всё на зуб, и хотя это не намеренная атака, всё же таким образом она часто навлекает на себя беду.",
+        "th": "ปลาผีเสื้อที่มีนิสัยอ่อนโยน และท่วงท่าสง่างาม มันมีครีบหลังที่สวยงาม และเป็นที่รู้จักกันในชื่อ \"ราชินีแห่งน้ำ\" อีกด้วย\\nพวกมันมีลวดลายสีน้ำตาลรอบตัว ด้วยนิสัยที่อยากรู้อยากเห็น ทำให้พวกมันดูจะสนใจทุกสิ่งที่เคลื่อนไหวรอบตัวพวกมันมาก แต่วิธีการแสดงความสนใจของพวกมันคือการลองงับเพื่อดูว่าจะกินได้หรือไม่ ถึงแม้นี่ไม่ใช่การกระทำที่แสดงความมุ่งร้าย แต่พฤติกรรมนี้ทำให้มันเสี่ยงต่อการสูญพันธุ์",
+        "vi": "Cá bướm với tính cách hiền lành, dáng điệu tao nhã, có vây lưng suôn dài đẹp mắt, còn được mệnh danh là \"Nữ hoàng của nước\".\\nBề mặt cơ thể được bao quanh bởi các đường vân màu trà, tính tò mò mạnh mẽ, chúng rất thích mọi vật chuyển động và thường dùng miệng để chào hỏi, tuy không phải là đòn tấn công ác ý nhưng điều này lại khiến nó lâm vào nguy cơ tuyệt chủng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

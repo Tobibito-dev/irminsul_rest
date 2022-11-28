@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Legend of Sword (V)",
+        "de": "Vom Schwert gefunden im Herbst V",
+        "chs": "沉秋拾剑录·五",
+        "cht": "沉秋拾劍錄·五",
+        "es": "Una leyenda de espadas (V)",
+        "fr": "Une légende d'épée - V",
+        "id": "Legenda Pedang (V)",
+        "jp": "沈秋拾剣録·五",
+        "kr": "침추습검록·Ⅴ",
+        "pt": "A Lenda da Espada (V)",
+        "ru": "Легенда о клинке (V)",
+        "th": "ตำนานของดาบ (V)",
+        "vi": "Trầm Thu Thập Kiếm Lục V"
+    },
+    "id": 101536,
+    "materialDesc": {
+        "en": "Amid a sea of stars that spin in reverse, in nondescript village in a remote corner of the shattered isles, a ronin who has fallen upon hard times forms an alliance with a group of farmers. A great battle with the bandits draws near...",
+        "de": "Inmitten eines Sternenmeeres, das sich rückwärts dreht. In einer unauffälligen Ecke der zerrütteten Inseln. In einem Dorf, das kaum eine Erwähnung wert ist, schließen ein in Not geratener Ronin und die Bauern ein Bündnis. Ihr großer Kampf gegen die Banditen scheint jede Sekunde ausbrechen zu können ...",
+        "chs": "在逆转的星海中央，碎片之岸的一隅，似乎并不值得一书的小村，落难浪人与农民结成同盟，与山贼的大战一触即发——",
+        "cht": "在逆轉的星海中央，碎片之岸的一隅，似乎並不值得一書的小村，落難浪人與農民結成同盟，與山賊的大戰一觸即發——",
+        "es": "En una orilla remota de las islas dispersas que yacen en el mar de estrellas invertido, en una aldea poco digna de mención alguna, un guerrero errante en apuros y unos campesinos unirán fuerzas. La gran batalla contra los bandidos se acerca...",
+        "fr": "Dans un coin reculé des îles brisées, au beau milieu de la mer d'étoiles tourbillonnant à l'envers se trouve un village à peine digne d'être mentionné. Un ronin qui a connu des temps difficiles y a lancé une alliance avec les paysans. La guerre contre les bandits est sur le point de commencer...",
+        "id": "Di sudut terpencil pulau-pulau hancur yang terletak di tengah lautan bintang yang berputar terbalik, di sebuah desa yang hampir tidak layak disebutkan namanya, seorang ronin jatuh pada masa-masa sulit dan para petani membuat aliansi. Pertarungan hebat dengan para bandit semakin dekat—",
+        "jp": "逆転した星海の中、散らばった島の一角にある、書きつづる価値も無い小さな村で、流れ着いた浪人と農民が手をとり合い、山賊との戦に備えていた。",
+        "kr": "역전의 별바다 중심부, 조각의 해안 한 켠, 글에 담기에는 보잘것없는 듯한 한 마을에서 조난당한 낭인이 농민들과 동맹을 맺는다! 산적들과의 대전, 일촉즉발 대위기ㅡ",
+        "pt": "Em um canto remoto das ilhas destruídas que ficam em meio ao mar de estrelas em redemoinho inverso, em uma vila que nem vale a pena mencionar, um ronin passa por tempos difíceis e os fazendeiros fazem uma aliança. Sua grande batalha com os bandidos se aproxima...",
+        "ru": "Среди моря звёзд, вращающихся вспять, в углу лоскутка-острова ютится не стоящая упоминания деревушка. Крестьяне и бедствующий ронин заключили союз. Близится бой с разбойниками...",
+        "th": "ในใจกลางของทะเลดาวที่แปรผัน มุมหนึ่งของชายฝั่ง หมู่บ้านเล็กๆ ที่ดูเหมือนไม่รู้หนังสือ Ronin และชาวนาได้รวมตัวกันเป็นพันธมิตร และการทำสงครามกับพวกโจรใกล้จะมาถึงแล้ว -",
+        "vi": "Giữa biển sao xoay ngược chiều với quỹ đạo vốn có, ở ngóc ngách nào đó trên một bờ đất mong manh, hình như tồn tại một ngôi làng không đáng để nhắc đến, tại nơi đó, những Ronin gặp nạn cùng nông dân đã lập thành liên minh, chuẩn bị cho trận đại chiến với bọn sơn tặc..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

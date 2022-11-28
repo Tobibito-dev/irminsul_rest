@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fruit and Veggie Stall: Good Honest Flavor",
+        "de": "Obst- und Gemüsestand – „Geschmack der Aufrichtigkeit“",
+        "chs": "果蔬摊-「纯诚之味」",
+        "cht": "果蔬攤-「純誠之味」",
+        "es": "Puesto de frutas y verduras: El sabor de la honestidad",
+        "fr": "Étalage de primeurs « Saveur sincère »",
+        "id": "Kios Buah dan Sayuran: Rasa Sebuah Kejujuran",
+        "jp": "青果露店-「純粋な味」",
+        "kr": "과채 노점-「진실된 맛」",
+        "pt": "Tenda de Frutas e Vegetais: \"Saber Sincero\"",
+        "ru": "Фруктово-овощная лавка: Честный вкус",
+        "th": "แผงผักผลไม้ - \"รสชาติที่แสนจริงใจ\"",
+        "vi": "Sạp Rau Quả - Đặc Sản Địa Phương"
+    },
+    "id": 390509,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Fruit and Veggie Stall: Good Honest Flavor.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Obst- und Gemüsestand – Geschmack der Aufrichtigkeit“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「果蔬摊-『纯诚之味』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「果蔬攤-『純誠之味』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Puesto de frutas y verduras: El sabor de la honestidad.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'étalage de primeurs « Saveur sincère ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Kios Buah dan Sayuran: Rasa Sebuah Kejujuran.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「青果露店-『純粋な味』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「과채 노점-『진실된 맛』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Tenda de Frutas e Vegetais: \"Saber Sincero\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Фруктово-овощная лавка: Честный вкус».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างแผงผักผลไม้ - \"รสชาติที่แสนจริงใจ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Sạp Rau Quả - Đặc Sản Địa Phương\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

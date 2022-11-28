@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Grilled Tiger Fish",
+        "de": "Leckerer Gegrillter Tigerfisch",
+        "chs": "美味的烤吃虎鱼",
+        "cht": "美味的烤吃虎魚",
+        "es": "Pez tigre a la parrilla delicioso",
+        "fr": "Poisson chihu grillé (délicieux)",
+        "id": "Delicious Grilled Tiger Fish",
+        "jp": "美味しそうなチ虎魚焼き",
+        "kr": "맛있는 흘호어 구이",
+        "pt": "Peixe Tigre Frito Delicioso",
+        "ru": "Вкусная жареная рыба-тигр",
+        "th": "Grilled Tiger Fish แสนอร่อย",
+        "vi": "Cá Hổ Nướng Ngon"
+    },
+    "id": 108109,
+    "materialDesc": {
+        "en": "A fish kebab grilled over an open flame. The shimmering golden skin has locked the fresh and tender meat in. You cannot help but sigh in satisfaction as you chew on it. Not a scrap of meat here will go uneaten, not even those stuck firmly to the bamboo stick.",
+        "de": "Ein auf offener Flamme gegrillter Fischspieß. Die golden glänzende Kruste hält das feine Fleisch im Innern saftig. Frisch vom Grill hält man es einfach nicht aus und pustet kräftig, damit man endlich den ersten Bissen nehmen kann. Selbst für den letzten Rest, der am Spieß klebt, gibt es kein Erbarmen.",
+        "chs": "急火烤制的鱼串。金灿灿的表皮锁住鲜嫩嫩的鱼肉，是刚出炉时忍不住一边吹气一边咀嚼的美味。连最后黏在竹签上的那几丝鱼肉都不想放过。",
+        "cht": "急火烤製的魚串。金閃閃的表皮鎖住鮮嫩嫩的魚肉，是剛出爐時忍不住一邊吹氣一邊咀嚼的美味。連最後黏在竹籤上的那幾絲魚肉都不想放過。",
+        "es": "Una brocheta de pescado a la brasa. La piel, dorada y brillante, cubre la fresca y tierna carne del pescado. No puedes evitar exhalar un suspiro de satisfacción al comerla. Ni un trozo de carne se librará de ser devorado, ni siquiera aquellos que se quedan pegados a la brocheta.",
+        "fr": "Une brochette de poisson grillé à la flamme. La peau dorée du poisson enrobe une viande tendre et fraîche. Vous soupirez de bonheur à la première bouchée avant de tout dévorer jusqu'à ce que la brochette soit bien propre.",
+        "id": "Ikan kebab yang dipanggang di atas api. Kulit keemasannya yang mengkilap seolah membungkus kesegaran daging empuk di dalamnya. Kamu tidak bisa memungkiri kelezatan saat menyantapnya. Tidak ada serpihan daging dari hidangan ini yang tidak dimakan, bahkan daging yang menempel pada batang bambu sekalipun.",
+        "jp": "強火で焼いた魚の串焼き。金色の皮が柔らかい魚肉を包み、ハフハフしながら、串につく細かい肉をも食べ尽くしたいほどの美味である。",
+        "kr": "센 불에서 구운 생선 꼬치. 황금빛 찬란한 껍질이 촉촉한 살을 둘러싸고 있다. 한입 베어 물고 싶을 만큼 군침 돈다. 꼬챙이에 붙어있는 마지막 살 한점까지 절대 놓칠 수 없다",
+        "pt": "Um espetinho de peixe grelhado sobre uma chama aberta. A pele dourada cintilante selou a carne fresca e macia. Você não pode deixar de suspirar de satisfação ao mastigá-la. Nem um pedaço de carne sequer ficará intocado, nem mesmo aqueles presos firmemente ao espetinho de bambu.",
+        "ru": "Рыб-кебаб. Яркая золотая чешуя скрывает под собой нежное мясо. Смачно пережёвывая кусочек этого рыб-кебаба, вы не можете не вздохнуть с удовлетворением. Ни один кусочек не останется несъеденным, даже то мясо, что прилипло к бамбуковым палочкам.",
+        "th": "ปลาเสียบไม้ย่าง หนังปลาสีทองอร่ามที่ปกคลุมเนื้อปลาซึ่งทั้งสดและนุ่มเอาไว้ เมื่อออกจากเตามาใหม่ ๆ นั้นมันช่างอดไม่ได้เสียจริงที่จะสูดดมและลิ้มชิมรสไปพร้อมกัน แม้แต่เนื้อปลาที่เหลือติดอยู่บนไม้ไผ่นั้นก็เหลือไว้ไม่ได้",
+        "vi": "Cá xiên nướng trên lửa lớn. Lớp vỏ vàng ươm giữ được vị thơm mềm, khi vừa ra lò không kìm nổi mình vừa ăn vừa thổi. Những miếng thịt còn vương vấn trên thanh tre cũng khó mà thoát khỏi miệng lưỡi của kẻ sành ăn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

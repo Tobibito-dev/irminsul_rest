@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Fruit Farmer's Thrift",
+        "de": "„Sparsamer Obstbauer“",
+        "chs": "「果农的勤俭」",
+        "cht": "「果農的勤儉」",
+        "es": "Diligencia del agricultor",
+        "fr": "« L'épargne du fruiticulteur »",
+        "id": "\"Petani Buah yang Hemat\"",
+        "jp": "「果樹農家の勤勉」",
+        "kr": "「알뜰한 과수 농가」",
+        "pt": "\"Labuta do Camponês\"",
+        "ru": "Трудолюбивый садовод",
+        "th": "\"ความขยันของชาวสวน\"",
+        "vi": "\"Nông Dân Cần Kiệm\""
+    },
+    "id": 394109,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making \"The Fruit Farmer's Thrift.\"\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Sparsamer Obstbauer“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『果农的勤俭』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『果農的勤儉』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Diligencia del agricultor.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de « L'épargne du fruiticulteur ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Petani Buah yang Hemat\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『果樹農家の勤勉』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「알뜰한 과수 농가」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar a \"Labuta do Camponês\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Трудолюбивый садовод».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ความขยันของชาวสวน\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nông Dân Cần Kiệm\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuma: Raiden Emblem",
+        "de": "Inazuma – Raiden-Wappen",
+        "chs": "稻妻·雷电之纹",
+        "cht": "稻妻·雷電之紋",
+        "es": "Inazuma - Emblema de Raiden",
+        "fr": "Inazuma - Emblème de Raiden",
+        "id": "Inazuma: Lambang Raiden",
+        "jp": "稲妻·雷電の紋",
+        "kr": "이나즈마·번개의 문양",
+        "pt": "Inazuma - Padrões dos Relâmpagos",
+        "ru": "Эмблема Райдэн",
+        "th": "Inazuma - ลวดลายสายฟ้า",
+        "vi": "Inazuma - Hoa Văn Lôi Điện"
+    },
+    "id": 210084,
+    "materialDesc": {
+        "en": "Namecard style.\\nThis is the emblem of the Ogosho Shogun, and is the banner of her troops, the Electro Mitsudomoe.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDies ist das Wappen des Ogosho-Shougun und steht auf dem Banner ihrer Truppen, der Elektro-Mitsudomoe.",
+        "chs": "名片纹饰。\\n大御所将军的纹样，亦即麾下军势之旗印，「雷之三重巴」。",
+        "cht": "名片紋飾。\\n大御所將軍的紋樣，亦即麾下軍勢之旗印，「雷之三重巴」。",
+        "es": "Diseño de tarjeta de presentación.\\nEl emblema Electro, símbolo de Su Excelencia, la Shogun, e insignia de las tropas bajo su mando.",
+        "fr": "Thème.\\nCeci est l'emblème de la Shogun Ogosho et la bannière de ses troupes, le Mitsudomoe Électro.",
+        "id": "Style Kartu Nama.\\nIni adalah lambang Shogun Ogosho, dan merupakan simbol bendera pasukannya sendiri, Electro Mitsudomoe.",
+        "jp": "名刺の飾り紋。\\n大御所将軍の紋、軍隊の紋章でもある「雷の三つ巴」。",
+        "kr": "명함 스킨\\n쇼군의 문양, 쇼군 휘하 군기의 문양이기도 하다. 일명 「번개의 삼파문」",
+        "pt": "Estilo de Cartão de Visita.\\nEsse é o emblema da Shogun Ogosho, e é a bandeira das suas tropas, Mitsudomoe Electro.",
+        "ru": "Именная карта.\\nЭмблема сёгуна Огосё, а также знамя её войск, Электро мицудомоэ.",
+        "th": "ลายนามบัตร \\nลวดลาย Ogosho Shogun และยังเป็นธงประจำกองทัพภายใต้การบังคับบัญชา \"Electro Mitsudomoe\" อีกด้วย",
+        "vi": "Hoa văn danh thiếp. \\n\"Tam Trùng Lôi\", hoa văn biểu tượng và cũng là phù hiệu của quân đội dưới quyền chỉ huy của Ogosho tướng quân."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

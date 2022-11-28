@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Golden Fried Chicken",
+        "de": "Misslungene golden frittierte Hühnerhappen",
+        "chs": "奇怪的大黄金吮指鸡",
+        "cht": "奇怪的大黃金脆皮雞",
+        "es": "Pollo frito extraño",
+        "fr": "Nuggets de poulet (suspects)",
+        "id": "Suspicious Golden Fried Chicken",
+        "jp": "微妙な黄金のジャンボチキン",
+        "kr": "이상한 황금 크리스피 치킨",
+        "pt": "Galinha Dourada Frita Estranha",
+        "ru": "Странная курочка «Пальчики оближешь!»",
+        "th": "Golden Fried Chicken รสประหลาด",
+        "vi": "Gà Vàng Khổng Lồ Kỳ Lạ"
+    },
+    "id": 108235,
+    "materialDesc": {
+        "en": "Fowl that has been seasoned and then fried. Perhaps the oil temperature was not sufficiently well-controlled, but what should have been a crispy outer skin seems to have gone all soggy, adding to the overall greasiness by at least a few degrees.",
+        "de": "Geflügel, das gewürzt und dann gebraten wurde. Vielleicht war die Öltemperatur nicht gut genug kontrolliert, aber was eigentlich eine knusprige Außenhaut hätte sein sollen, scheint völlig aufgeweicht zu sein, wodurch die Gesamtfettigkeit um mindestens ein paar Grad erhöht wurde.",
+        "chs": "调味后炸制的禽肉。可能是对油温的控制不足，本应香脆的外皮嚼起来却有些软烂，让整体口感油腻了几分。",
+        "cht": "調味後油炸的禽肉。可能是對油溫的控制不足，本應香脆的外皮咬起來起來卻有些軟爛，讓整體口感油膩了幾分。",
+        "es": "Carne de ave salpimentada y frita. Quizás el aceite no estaba a la temperatura adecuada, porque lo que debería haber sido una piel crujiente se ha convertido en una masa blandurria que hace que el plato sea más grasiento de lo de que debería.",
+        "fr": "Viande de volaille hachée, agrémentée puis frite. La température de l'huile n'a sans doute pas été maîtrisée comme il fallait, et la peau qui devrait être croustillante est toute molle, donnant l'impression que le plat est plus gras qu'il ne devrait l'être.",
+        "id": "Fowl yang telah dibumbui dan digoreng. Mungkin temperatur minyaknya tidak diatur dengan baik, karena kulit yang seharusnya garing sudah menjadi lembek, sehingga hidangan ini menjadi sangat berminyak.",
+        "jp": "味付けした鳥肉の揚げ物。油温のコントロールが不十分なせいか、サクサクのはずだった皮が柔らかくなり、脂っこい食感になった。",
+        "kr": "양념을 해 튀긴 새고기. 기름 온도를 잘못 맞춰 바삭해야 할 껍질이 살짝 눅눅해져 느끼한 맛이 난다",
+        "pt": "Carne de Ave que foi temperada e frita. Talvez a temperatura do óleo não estava bem controlada, mas o que deveria ser uma pele crocante está encharcada, fazendo com que a gordura do prato fique ainda maior.",
+        "ru": "Мясо птицы, щедро приправленное специями и обжаренное в масле. Возможно, масло было не подходящей температуры, потому что то, что должно было быть хрустящей корочкой, превратилось в мягкую массу, которая делает блюдо более жирным, чем нужно.",
+        "th": "เนื้อสัตว์ปีกที่ปรุงรสแล้วนำไปทอด อาจเป็นเพราะควบคุมอุณหภูมิน้ำมันได้ไม่ดีพอ จนทำให้ผิวด้านนอกที่ควรจะกรอบกลับนิ่มจนเละไปหมด เมื่อทานแล้วให้รสชาติที่มันจนเลี่ยนไปทั้งปาก",
+        "vi": "Thịt gia cầm chiên sau khi ướp gia vị. Có thể là do nhiệt độ dầu không được kiểm soát tốt, và phần da giòn hơi mềm khi nhai khiến tổng thể có vị hơi ngấy."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

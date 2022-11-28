@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Bloodstained Black Plume",
+        "de": "Feder des Blutbefleckten",
+        "chs": "染血的黑之羽",
+        "cht": "染血的黑之羽",
+        "es": "Pluma Oscura Sanguinaria",
+        "fr": "Plume noire ensanglantée",
+        "id": "Bloodstained Black Plume",
+        "jp": "血染めの黒羽",
+        "kr": "피에 물든 검은 깃털",
+        "pt": "Pena Negra Sanguinária",
+        "ru": "Перо рыцаря крови",
+        "th": "Bloodstained Black Plume",
+        "vi": "Lông Vũ Đen Nhuốm Máu"
+    },
+    "id": 24712,
+    "setId": 15008,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

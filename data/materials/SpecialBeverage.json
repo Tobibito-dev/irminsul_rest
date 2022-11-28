@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Beverage",
+        "de": "Spezialgetränk",
+        "chs": "特制饮品",
+        "cht": "特製飲品",
+        "es": "Bebida especial",
+        "fr": "Boisson spéciale",
+        "id": "Minuman Spesial",
+        "jp": "特製ドリンク",
+        "kr": "특제 음료",
+        "pt": "Bebida Especial",
+        "ru": "Особый напиток",
+        "th": "เครื่องดื่มพิเศษ",
+        "vi": "Đồ Uống Đặc Chế"
+    },
+    "id": 100782,
+    "materialDesc": {
+        "en": "A special beverage that has just been brewed. Who knows how it will taste...",
+        "de": "Ein besonderes Getränk, das gerade gebraut wurde. Wer weiß, wie es schmecken wird ...",
+        "chs": "刚刚调制好的特制饮品。不知道喝起来是什么味道…",
+        "cht": "剛剛調製好的特製飲品。不知道喝起來是什麼味道…",
+        "es": "Una bebida especial recién preparada. ¿A qué sabrá?",
+        "fr": "Une boisson spéciale qui vient d'être préparée. Quel goût peut-elle bien avoir ?",
+        "id": "Minuman spesial yang baru saja diracik. Entah bagaimana rasanya...",
+        "jp": "作りたてのスペシャルドリンク。どんな味なのかは不明だ…",
+        "kr": "방금 만든 특제 음료. 어떤 맛일지 궁금하다…",
+        "pt": "Uma bebida especial que acabou de ser feita. Quem sabe qual é o seu gosto?",
+        "ru": "Только что приготовленный особый напиток. Кто знает, каков он на вкус...",
+        "th": "เครื่องดื่มสูตรพิเศษที่เพิ่งทำเสร็จ ไม่รู้ว่าดื่มแล้วจะมีรสชาติยังไงกันนะ...",
+        "vi": "Đồ uống đặc chế vừa được pha chế xong. Không biết sẽ có vị như thế nào..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Returning Winds",
+        "de": "Erlebnispass – Heimkehr",
+        "chs": "纪行·归风",
+        "cht": "紀行·歸風",
+        "es": "PB - Viento del retorno",
+        "fr": "PB - Vent de retour",
+        "id": "Catatan Perjalanan: Kembalinya Angin",
+        "jp": "紀行·帰風",
+        "kr": "기행·돌아온 바람",
+        "pt": "Passe de Batalha — Retorno do Vento",
+        "ru": "Возвращение ветров",
+        "th": "บันทึก - สายลมที่หวนคืน",
+        "vi": "Nhật Ký Hành Trình Gió Về"
+    },
+    "id": 210133,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe years come and go. Only remembrance and the winds that return do not change.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDie Jahre laufen unaufhörlich fort, allein die Gedanken und der zurückkehrende Wind bleiben unabänderlich.",
+        "chs": "名片纹饰。\\n岁月流转，唯有思念与归风不变。",
+        "cht": "名片紋飾。\\n歲月流轉，唯有思念與歸風不變。",
+        "es": "Diseño de tarjeta de presentación.\\nMientras los años pasan, lo único que perdura son los recuerdos y los vientos que retornan.",
+        "fr": "Thème.\\nLes années passent, et seuls le souvenir et les vents de retour ne changent pas.",
+        "id": "Style kartu nama.\\nTahun yang berlalu, datang dan pergi. Hanya kenangan dan angin yang kembalilah tetap abadi.",
+        "jp": "名刺の飾り紋。\\n歳月が流れても、想いと帰る風だけは変わらない。",
+        "kr": "명함 스킨.\\n세월이 흘러도 그리움과 돌아온 바람은 변하지 않는다",
+        "pt": "Estilo de Cartão de Visita.\\nOs anos passam, somente as memórias e os ventos que retornam não mudam.",
+        "ru": "Именная карта.\\nГоды приходят и уходят. Только память и вернувшиеся ветра не меняются.",
+        "th": "ลวดลายนามบัตร\\nวันเดือนที่เวียนผ่าน มีเพียงความคิดคะนึงและสายลมที่หวนคืนเท่านั้น ที่จะไม่เปลี่ยนแปลง",
+        "vi": "Hoa văn danh thiếp.\\nNăm tháng trôi đi, chỉ có suy nghĩ và ngọn gió trở về là không thay đổi."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

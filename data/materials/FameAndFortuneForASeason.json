@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fame and Fortune For a Season",
+        "de": "Ruhm und Reichtum für ein ganzes Jahr",
+        "chs": "财运亨通一岁中",
+        "cht": "財運亨通一歲中",
+        "es": "Tiempos de fortuna y prosperidad",
+        "fr": "Une saison de fortune et de prospérité",
+        "id": "Fame and Fortune For a Season",
+        "jp": "財運隆昌の年",
+        "kr": "올해 재물운 대통",
+        "pt": "Tempos de Fama e Fortuna",
+        "ru": "Слава и богатство на год",
+        "th": "ปีแห่งความรุ่งเรืองและมั่งคั่ง",
+        "vi": "Tài Vận Hanh Thông Suốt Cả Năm"
+    },
+    "id": 223009,
+    "materialDesc": {
+        "en": "A firework that explodes in the shape of Mora. Some say that if you view this from just the right angle, your fortunes for the year shall be assured.",
+        "de": "Ein Feuerwerk, das in Form von Mora explodiert. Manche sagen, falls man es aus dem richtigen Winkel betrachtet, ist das Glück für das Jahr gesichert.",
+        "chs": "摩拉造型的创意烟花。传说从最端正的角度欣赏到这种烟花后，今后一整年都会得到财运的保佑。",
+        "cht": "摩拉造型的創意煙花。傳說從最端正的角度欣賞到這種煙花後，今後一整年都會得到財運的保佑。",
+        "es": "Un fuego artificial con la imagen del Mora. Dicen que, si lo admiras desde el ángulo correcto, tendrás garantizado un año de buena suerte.",
+        "fr": "Un feu d'artifice qui explose en forme de moras. Certains racontent que vos finances pour l'année à venir seront au beau fixe en le regardant d'un certain angle.",
+        "id": "Kembang api penuh kreativitas yang akan meledak dalam bentuk Mora. Dikatakan bahwa kalau kamu menonton kembang api ini dari sudut yang tepat, maka keberuntunganmu sepanjang tahun akan terjamin.",
+        "jp": "モラの形をした独創的な花火。この花火を最も正しい角度から見上げると、この先一年、金運に恵まれるという言い伝えがある。",
+        "kr": "모라 모양의 창의적인 폭죽. 가장 잘 맞는 각도에서 보면 일 년 내내 재물신의 가호를 받을 수 있단 전설이 있다",
+        "pt": "Um fogo de artifício que explode na forma de Mora. Dizem que se for visto do ângulo correto, sua sorte no ano seguinte estará garantida.",
+        "ru": "Фейерверк в форме моры. Говорят, что если посмотреть на него под правильным углом, то вам будет обеспечена финансовая удача на весь год.",
+        "th": "ดอกไม้ไฟรูปทรง Mora ตามตำนานเล่าว่าหากได้ชมดอกไม้ไฟชนิดนี้ในมุมที่ตรงที่สุด จะได้พบโชคด้านเงินทองตลอดทั้งปี",
+        "vi": "Pháo hoa sáng tạo có hình dạng Mora. Tương truyền rằng sau khi ngắm nhìn loại pháo hoa này từ một góc độ đứng đắn nhất, thì cả năm sẽ được bảo hộ về mặt tài vận."
+    },
+    "materialType": "MATERIAL_FIREWORKS"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Flash-Fried Filet",
+        "de": "Würzige Fleischpfanne",
+        "chs": "炝炒肉片",
+        "cht": "熗炒肉片",
+        "es": "Tiras de carne salteadas",
+        "fr": "Tranches de viande sautées",
+        "id": "Flash-Fried Filet",
+        "jp": "豚肉の唐辛子炒め",
+        "kr": "데친 고기볶음",
+        "pt": "Fatias de Carne Salteadas",
+        "ru": "Обжаренные ломтики мяса",
+        "th": "Sautéed Meat Slices",
+        "vi": "Thịt Xào Ớt"
+    },
+    "id": 108138,
+    "materialDesc": {
+        "en": "Beidou's specialty. They say that Beidou once learned some tricks from Xiangling, making some refinements and adding more flavor to this dish. If you can clean it out in one go, perhaps you might impress her.",
+        "de": "Beidous Spezialzubereitung. Beidou soll von Xiangling ein paar Tipps erhalten und diesem Gericht mehr Pfiff verpasst haben. Vielleicht kannst du Beidou ja beeindrucken, indem du es mit einem Schlag verputzt.",
+        "chs": "北斗的特色料理。据说北斗曾向香菱学了一手，并对这道菜肴加重了口味进行改良。要是豪放地一口气吃完，或许能得到北斗的赞赏？",
+        "cht": "北斗的特色料理。據說北斗曾向香菱學了一手，並對這道菜餚加重了口味進行改良。要是豪放地一口氣吃完，或許能得到北斗的讚賞？",
+        "es": "La especialidad de Beidou. Dicen que Beidou aprendió algunos trucos de cocina de Xiangling y refinó y añadió más sabor a este plato. Si puedes dejarlo limpio de una vez, tal vez puedas impresionarla.",
+        "fr": "Spécialité culinaire de Beidou. Cette dernière a appris une ou deux choses de Xiangling pour améliorer le goût de ce plat. Elle sera impressionnée si vous arrivez à le terminer d'une traite.",
+        "id": "Spesialisasi Beidou. Dikatakan bahwa Beidou dulu pernah mempelajari trik dari Xiangling untuk membuat hidangan ini menjadi lebih sempurna dengan menambahkan rasanya. Jika kamu bisa menghabiskannya dalam sekali makan, mungkin kamu bisa membuatnya tercengang?",
+        "jp": "北斗のオリジナル料理。香菱に教わった料理をさらに改良を加えたものらしい。一気に全部食べると、北斗の称賛を得られるかもしれない。",
+        "kr": "북두의 특제 요리. 예전에 북두가 향릉한테 배운 요리였지만 자극적인 맛을 추가하면서 개량했다. 호방하게 한 번에 다 먹으면 북두의 칭찬을 받을 수 있을지도?",
+        "pt": "A especialidade de Beidou. Dizem que Beidou aprendeu alguns truques com Xiangling, fazendo alguns refinamentos e adicionando mais sabor a este prato. Se você conseguir comer tudo de uma só vez, talvez possa impressioná-la.",
+        "ru": "Особое блюдо Бэй Доу. Говорят, что Сян Лин научила Бэй Доу некоторым своим уловкам в приготовлении изысканных блюд. Если вы сможете съесть всю тарелку за один раз, то произведёте приятное впечатление на повара.",
+        "th": "เมนูพิเศษของ Beidou ว่ากันว่า Beidou ได้เรียนรู้ฝีมือมาจาก Xiangling แต่ได้ทำการปรับปรุงรสชาติของ อาหารจานนี้ หากกินหมดในทีเดียวล่ะก็ บางทีอาจจะได้รับคำชมจาก Beidou ก็เป็นได้?",
+        "vi": "Món ăn đặc biệt của Beidou. Nghe đồn công thức học từ Xiangling được Beidou thay đổi, tăng gia vị. Nếu có thể một miếng ăn hết thì Beidou nhất định rất vui?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

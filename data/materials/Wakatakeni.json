@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wakatakeni",
+        "de": "Wakatakeni",
+        "chs": "若竹煮",
+        "cht": "若竹煮",
+        "es": "Brotes de bambú hervidos",
+        "fr": "Wakatakeni",
+        "id": "Wakatakeni",
+        "jp": "若竹煮",
+        "kr": "와카타케니",
+        "pt": "Wakatakeni",
+        "ru": "Вакатакэни",
+        "th": "Wakatakeni",
+        "vi": "Món Wakatakeni"
+    },
+    "id": 108346,
+    "materialDesc": {
+        "en": "A light-colored vegetarian dish. Broth is first poured into the pot before the bamboo shoots, and then the seaweed, are added in. The result is an elegant product with a light mouthfeel that agrees well with all palates. Suitable as a pre-meal appetizer or as a side to a main dish.",
+        "de": "Ein helles, vegetarisches Gericht. Die Brühe wird zuerst in die Pfanne gegossen, bevor die Bambussprossen und dann der Seetang hinzugefügt werden. Das Ergebnis ist ein elegantes Produkt mit einem leichten Mundgefühl, das allen Gaumen schmeichelt. Geeignet als Aperitif vor dem Essen oder als Beilage zu einem Hauptgericht.",
+        "chs": "色泽淡雅的素菜。锅中先倒入高汤，放入竹笋，煮至将熟之时再下入裙带菜。成品造型雅致，口感清淡易于入口。无论是作为餐前小菜还是正餐配菜都很合适。",
+        "cht": "色澤淡雅的素菜。鍋中先倒入高湯，放入竹筍，煮至將熟之時再下入裙帶菜。成品造型雅致，口感清淡易於入口。無論是作為餐前小菜還是正餐配菜都很合適。",
+        "es": "Un plato vegetariano de color claro. Primero se añade caldo en una olla y luego se agregan los brotes de bambú. Cuando están casi hervidos, se agrega el alga wakame. El resultado es una comida de aspecto elegante y textura suave. Perfecto tanto como aperitivo como para acompañar al plato principal.",
+        "fr": "Un plat végétarien aux couleurs claires. Du bouillon est versé dans la casserole avant d'y placer les pousses de bambou et les algues. Le tout forme un mets élégant dont la saveur légère convient à tous les palais. Il peut être servi en entrée ou en accompagnement.",
+        "id": "Hidangan vegetarian berwarna pucat. Pertama-tama tuangkan kaldu ke dalam panci, masukkan rebung, masak sampai matang dan kemudian tambahkan rumput laut. Campuran ini menghasilkan produk elegan dengan rasa yang ringan di mulut, pas dengan selera semua orang. Hidangan ini cocok dijadikan hidangan pembuka sebelum makan atau sebagai pelengkap hidangan utama.",
+        "jp": "薄い色合いの野菜料理。タケノコをスープに入れて、煮詰める前にワカメを入れる。上品な見た目と、あっさりとした優しい食感を持つ。おつまみにも、正餐の料理にも適している。",
+        "kr": "단아한 색감의 야채 요리. 냄비에 육수를 붓고 죽순을 넣어, 죽순이 다 익으면 미역을 넣는다. 완성된 요리의 모양은 정갈하고 맛은 담백해 가볍게 먹기 좋다. 애피타이저로도 메인 음식의 곁들임 요리로도 제격이다",
+        "pt": "Um prato vegetariano de cor clara. O caldo é derramado primeiro na panela antes que os brotos de bambu, e depois as algas marinhas, sejam adicionados. O resultado é um produto elegante com uma leve sensação na boca que concorda bem com todos os paladares. Adequado como aperitivo de pré-refeições ou como acompanhamento de um prato principal.",
+        "ru": "Изящное вегетарианское блюдо. Сначала налейте в кастрюлю бульон, затем добавьте побеги бамбука и морские водоросли. В результате получится лёгкое утончённое блюдо. Идеально подходит как в качестве закуски, так и в качестве дополнения к основному блюду.",
+        "th": "อาหารมังสวิรัติสีอ่อนดูสง่างาม เทน้ำซุปลงในหม้อ ใส่หน่อไม้ และปรุงจนสุกก่อนใส่สาหร่ายวากาเมะ รูปลักษณ์เมื่อทำเสร็จดูสง่างาม รสชาติอ่อน ๆ กินง่าย เหมาะมากทั้งกินเป็นกับแกล้มหรือกับข้าวของมื้อหลัก",
+        "vi": "Món chay với màu sắc thanh đạm. Đổ nước dùng vào nồi trước, cho măng nấu đến khi chín mới cho rong biển vào. Thành phẩm nhìn tao nhã, khẩu vị cũng thanh đạm. Làm món khai vị hay món ăn kèm đều phù hợp."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

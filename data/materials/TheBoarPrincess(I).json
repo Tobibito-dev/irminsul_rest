@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Boar Princess (I)",
+        "de": "Die Wildschweinprinzessin – Band I",
+        "chs": "野猪公主·卷一",
+        "cht": "野豬公主·卷一",
+        "es": "La princesa jabalí (I)",
+        "fr": "La princesse sanglier - Tome I",
+        "id": "Putri Babi Hutan (I)",
+        "jp": "イノシシプリンセス·1",
+        "kr": "멧돼지 공주·권1",
+        "pt": "A Princesa Javali (I)",
+        "ru": "Принцесса-кабан. Том I",
+        "th": "เจ้าหญิงหมูป่า (I)",
+        "vi": "Công Chúa Heo Rừng (I)"
+    },
+    "id": 100202,
+    "materialDesc": {
+        "en": "A long, long time ago, in the forest kingdom... What legends occurred there?\\nThe Boar Princess, Part 1. A story about friendship, love, and death.",
+        "de": "Welche Geschichte spielte sich in dem Waldreich vor langer, langer Zeit ab?\\nDer erste Teil von „Die Wildschweinprinzessin“ handelt von Freundschaft, Liebe und Tod.",
+        "chs": "很久、很久以前的森林王国，发生着怎样的传奇故事？\\n《野猪公主》，第一卷，为您揭示一个关于友谊，爱与生死的童话。",
+        "cht": "很久、很久以前的森林王國，發生著怎樣的傳奇故事？\\n《野豬公主》第一卷，為您揭示一個關於友誼，愛與生死的童話。",
+        "es": "¿Qué fantásticas historias ocurrieron hace tiempo en el Reino del Bosque?\\nEn «La princesa jabalí (I)», se narra una historia de amistad, amor y muerte.",
+        "fr": "Il était une fois dans le Royaume de la Forêt... Quelles aventures nous attendent cette fois-ci ?\\nTome 1 de « La princesse sanglier », une histoire d'amitié, d'amour, de vie et de mort.",
+        "id": "Kerajaan hutan dari zaman yang teramat lampau, kisah legenda apa yang terjadi di sini?\\nPutri Babi Hutan (I). Menceritakan kisah persahabatan, kasih, dan kematian.",
+        "jp": "ずっと、ずっと昔の森の王国では、どのような伝説的な物語があったのだろう？\\n『イノシシプリンセス』、第1巻、友情、愛、生死にまつわる童話である。",
+        "kr": "아주 먼 옛날, 숲의 왕국에는 어떤 기묘한 일들이 있었을까?\\n《멧돼지 공주》, 제1권. 우정과 사랑, 생사에 대한 동화가 펼쳐진다",
+        "pt": "Há muito tempo, na floresta do reino...o que será que aconteceu de tão incrível?\\nA Princesa Javali, Parte 1. É uma história de amizade, amor e morte.",
+        "ru": "Давным-давно, в лесном королевстве... Какие легенды оно хранило?\\nПринцесса-кабан, Часть 1. История о дружбе, любви и смерти.",
+        "th": "เนิ่นนานมาแล้ว ในอาณาจักรแห่งป่า... จะมีตำนานใดเล่าขานอยู่กันนะ?\\nเจ้าหญิงหมูป่า - เจ้าหญิงหมูป่า ตอนที่ 1 เรื่องราวของมิตรภาพ ความรัก และความตาย",
+        "vi": "Ngày xửa ngày xưa, tại vương quốc Rừng Già, đã xảy ra câu chuyện truyền kỳ gì?\\n\"Công Chúa Heo Rừng\", quyển 1, sẽ kể cho bạn về tình bạn, tình yêu và sự sống."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

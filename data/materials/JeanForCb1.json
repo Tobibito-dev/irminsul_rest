@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jean - for CB1",
+        "de": "Jean – für CB1",
+        "chs": "(test)琴-cb1用",
+        "cht": "琴",
+        "es": "Jean-Para cb1",
+        "fr": "Jean - pour bêta-test 1",
+        "id": "Jean",
+        "jp": "ジン",
+        "kr": "진-cb1",
+        "pt": "Jean",
+        "ru": "Джинн (CB1)",
+        "th": "Jean - cb1 ใช้",
+        "vi": "Jean-cho cb1"
+    },
+    "id": 3006,
+    "materialDesc": {
+        "en": "Get Lv.15 Jean",
+        "de": "Jean St. 15 erhalten.",
+        "chs": "(test)获得15级角色琴",
+        "cht": "獲得15級角色琴。",
+        "es": "Obtén a Jean Niv. 15",
+        "fr": "Jean Niv.15 obtenue.",
+        "id": "Mendapatkan Jean Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)",
+        "jp": "Lv15のジンを獲得する",
+        "kr": "Lv.15 진 획득",
+        "pt": "Obteve Jean Nv.15",
+        "ru": "Получите Джинн 15 уровня",
+        "th": "ได้รับ Jean Lv.15",
+        "vi": "Nhận Jean cấp 15"
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

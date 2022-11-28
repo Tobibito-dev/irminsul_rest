@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diluc's Stella Fortuna",
+        "de": "Stella Fortuna von Diluc",
+        "chs": "迪卢克的命星",
+        "cht": "迪盧克的命星",
+        "es": "Stella Fortuna de Diluc",
+        "fr": "Stella Fortuna de Diluc",
+        "id": "Diluc's Stella Fortuna",
+        "jp": "ディルックの星屑",
+        "kr": "다이루크의 운명의 별",
+        "pt": "Stella Fortuna de Diluc",
+        "ru": "Удача Дилюка",
+        "th": "ดวงดาวแห่งชีวิตของ Diluc",
+        "vi": "Chòm Sao Của Diluc"
+    },
+    "id": 1116,
+    "materialDesc": {
+        "en": "Diluc's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Dilucs Sternbild",
+        "chs": "迪卢克的命之座激活素材",
+        "cht": "迪盧克的命之座啟用素材。",
+        "es": "Material de activación de constelación de Diluc",
+        "fr": "Matériau d'activation de la constellation de Diluc.",
+        "id": "Material aktivasi untuk konstelasi Diluc",
+        "jp": "ディルックの命ノ星座アンロック用素材",
+        "kr": "다이루크의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Diluc",
+        "ru": "Материал для активации созвездия Дилюка.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Diluc",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Diluc"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Set of Cannonballs",
+        "de": "Satz Kanonenkugeln",
+        "chs": "一组弹丸",
+        "cht": "一組彈丸",
+        "es": "Bolas de cañón",
+        "fr": "Lot de boulets de canon",
+        "id": "Satu Set Amunisi",
+        "jp": "一揃いの砲弾",
+        "kr": "포탄 한 세트",
+        "pt": "Conjunto de Bolas de Canhão",
+        "ru": "Ядра горовзрывателя",
+        "th": "ชุดลูกกระสุนปืนใหญ่",
+        "vi": "Một Bộ Đạn Pháo"
+    },
+    "id": 101624,
+    "materialDesc": {
+        "en": "Cannonballs for the Mountainator, also known as the Safe Blasting Mechanism 2156. Although you used the Lumenstone Adjuvant to clear the unknown pollutants away, there is still a stench about them that can be detected even while covering your nose.\\nUgh. Do you really have to touch it?",
+        "de": "Die Geschosse des „Bergsprengers“, der auch als „Sprengmaschine mit Sicherheitsabstand – Typ 2156“ bezeichnet wird. Obwohl der Schmutz darauf bereits mit dem Lumenstein-Katalysator entfernt wurde, verströmen sie immer noch einen seltsamen Gestank, den du nicht loswerden kannst, selbst wenn du dir die Nase zuhältst.\\nLass deine Finger einfach davon!",
+        "chs": "「开山炮」，或「安全距离爆破机关·贰壹伍陆型」的炮弹，虽然用流明石「触媒」清理了上面的不明污物，但是还散发着令人不悦的气息，捏住鼻子也能闻到。\\n真不想碰它！",
+        "cht": "「開山炮」，或「安全距離爆破機關·貳壹伍陸型」的炮彈，雖然用流明石「觸媒」清理了上面的不明汙物，但是還散發著令人不悅的氣息，捏住鼻子也能聞到。\\n真不想碰它！",
+        "es": "Munición de artillería del Explotamontañas, también conocido como “mecanismo explosivo de distancia de seguridad modelo 2156”. Aunque su suciedad más evidente ha sido limpiada con la roca lumínica, sigue emitiendo un extraño hedor del que no es posible librarse ni tapándose la nariz.\\nEspero no tener que tocarlo nunca...",
+        "fr": "Des boulets de canon pour le démontagnateur, aussi connu sous le nom de « Dispositif de démolition à distance de sécurité - modèle 2156 ». Bien qu'ils aient été nettoyés de la substance inconnue qui les salissait grâce à l'Adjuvant, il en émane encore une odeur nauséabonde à laquelle on ne peut échapper, même en se bouchant le nez.\\nÇa ne donne pas du tout envie d'y toucher !",
+        "id": "\"Mountainator\", atau \"Alat Peledak Jarak Aman: Model 2156\", meskipun kotoran tak dikenal di atasnya sudah dibersihkan dengan Lumenstone Adjuvant, tapi masih tercium bau tidak sedap biarpun hidung sudah ditutup rapat.\\nIh, enggak mau pegang deh!",
+        "jp": "「発破砲」あるいは「安全距離爆破装置·二一五六型」の砲弾。流明石を触媒として表面についた謎の汚れを落としたが、今なお鼻をつまんでも漂ってくるほどの不快な臭いを放っている。\\n触りたくない！",
+        "kr": "「개산포」, 또는 「안전거리 폭파 기관·215 육지형」의 포탄. 유명석 「촉매」를 사용해 포탄의 오염 물질을 제거했지만, 여전히 썩 유쾌하지 않은 냄새가 코를 찌른다. 심지어 코를 막아도 스며든다.\\n이 포탄을 만지는 건 정말 끔찍한 일이다!",
+        "pt": "Munição para o Canhão Demole-Montanhas, também conhecido como \"Mecanismo de Explosão à Distância Segura Modelo 2156\". Apesar de você ter usado o Condutor de Pedra Lúmen para purificar suas impurezas, ainda há um fedor nele que pode ser sentido mesmo cobrindo o nariz.\\nVocê realmente não quer tocar nele!",
+        "ru": "Снаряды для горовзрывателя или «Механизма безопасных взрывов 2156». Хоть снаряды эти и очистили от странной грязи с помощью Адъювант светоносного камня, от них всё равно исходит зловоние, как бы вы не зажимали нос.\\nТолько бы не пришлось прикасаться к ним!",
+        "th": "\"ปืนระเบิดเปิดภูเขา\" หรือกระสุนของ \"กลไกระเบิดระยะปลอดภัย หมายเลข 2156\" แม้ว่าสิ่งสกปรกที่ไม่สามารถระบุได้ว่าคืออะไรจะถูกชะล้างด้วย \"ตัวเร่งปฏิกิริยา\" ของ Lumenstone แต่ก็ยังมีกลิ่นที่ไม่พึงประสงค์ที่แม้แต่บีบจมูกไว้ก็ยังได้กลิ่น\\nไม่อยากแตะต้องมันเลยจริง ๆ",
+        "vi": "Đạn pháo của \"Pháo Phá Núi\" hoặc \"Cơ Quan Nổ Mìn An Toàn 2156\", tuy đã dùng Lưu Minh Thạch để làm sạch vết dơ trên bề mặt, nhưng vẫn tỏa ra mùi gì đó làm người ta phải bịt mũi khi ngửi thấy.\\nThật không muốn chạm vào!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

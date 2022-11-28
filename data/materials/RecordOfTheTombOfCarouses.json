@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Record of the Tomb of Carouses",
+        "de": "Aufzeichnung vom Mausoleum des Trunks",
+        "chs": "饱饮之陵的记录",
+        "cht": "飽飲之陵的紀錄",
+        "es": "Registro de la Tumba del Festín",
+        "fr": "Registre de la Tombe des ribotes",
+        "id": "Catatan Tomb of Carouses",
+        "jp": "飽飲の霊廟の記録",
+        "kr": "포식의 릉 기록",
+        "pt": "Registro da Tumba do Festim",
+        "ru": "Записи кургана Пиршеств",
+        "th": "บันทึกของสุสานเริงสำราญ",
+        "vi": "Ghi Chép Của Lăng No Say"
+    },
+    "id": 101990,
+    "materialDesc": {
+        "en": "A stone slate that you found in the Tomb of Carouses. This seems to be a record left by a lost civilization.",
+        "de": "Inmitten des Mausoleums des Trunks gefundene Steinplatte. Sie scheint die Niederschrift einer verlorenen Zivilisation zu sein ...",
+        "chs": "从饱饮之陵中找到的石板。似乎是已经失落的文明留下的记录…",
+        "cht": "從飽飲之陵中找到的石板。似乎是已經失落的文明留下的紀錄…",
+        "es": "Una placa de piedra que encontraste en la Tumba del Festín. Parece ser el registro de una civilización perdida.",
+        "fr": "Une plaque de pierre que vous avez trouvée dans la Tombe des ribotes. Cela semble être un enregistrement laissé par une civilisation perdue...",
+        "id": "Batu tulis yang ditemukan di Tomb of Carouses. Tampaknya berisi catatan tentang peradaban yang telah hilang.",
+        "jp": "飽飲の霊廟で見つけた石板。失われた文明が残した記録らしい…",
+        "kr": "포식의 릉에서 찾은 석판. 사라진 문명이 남긴 기록인 것 같다…",
+        "pt": "Uma tabuleta de pedra que você encontrou na Tumba do Festim. Parece ser o vestígio de uma civilização perdida...",
+        "ru": "Каменная плита, которую вы нашли в кургане Пиршеств. Похоже на записи, оставленные древней цивилизацией.",
+        "th": "แผ่นหินที่พบในสุสานเริงสำราญ ดูเหมือนจะเป็นบันทึกของอารยธรรมที่ล่มสลายไปแล้ว...",
+        "vi": "Phiến đá được tìm thấy trong Lăng No Say. Có vẻ như là một ghi chép để lại bởi một nền văn minh đã mất..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

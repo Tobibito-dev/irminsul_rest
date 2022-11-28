@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Tea Break Pancake",
+        "de": "Leckere Landeierkuchen",
+        "chs": "美味的庄园烤松饼",
+        "cht": "美味的莊園烤鬆餅",
+        "es": "Panqueques deliciosos",
+        "fr": "Pancakes (délicieux)",
+        "id": "Delicious Tea Break Pancake",
+        "jp": "美味しそうな午後のパンケーキ",
+        "kr": "맛있는 장원 팬케익",
+        "pt": "Panqueca Deliciosa do Chá da Tarde",
+        "ru": "Вкусные блинчики к чаю",
+        "th": "Tea Break Pancake แสนอร่อย",
+        "vi": "Bánh Xốp Ngon"
+    },
+    "id": 108024,
+    "materialDesc": {
+        "en": "A stack of round pancakes. Tender and fluffy, the sweet-smelling pancakes taste like clouds. A heavenly delicacy, no doubt.",
+        "de": "Dicke, runde Eierkuchen. Beißt du in diese fluffigen Eierkuchen, ist es, als würdest du dein Gesicht in eine wuschelige Wolke drücken.",
+        "chs": "圆形的烤饼。香乎乎的松饼嚼上去有着软绵绵的口感，味蕾也仿佛置身于云端。",
+        "cht": "圓形的烤餅。香呼呼的鬆餅嚼上去有著軟綿綿的口感，味蕾也彷彿置身於雲端。",
+        "es": "Un montón de panqueques. Su esponjosa textura trasladará a tus papilas gustativas a un lugar entre las nubes.",
+        "fr": "Une pile de pancakes mœlleux comme des nuages et qui dégagent une odeur divine. Quel délice !",
+        "id": "Tumpukan panekuk berbentuk bulat. Lembut dan kenyal, panekuk manisnya terasa seperti awan. Tidak bisa dipungkiri ini hidangan dari Surga.",
+        "jp": "丸いパンケーキ。いい香りにフワフワな食感、まるで雲の上を歩いているようだ。",
+        "kr": "동그란 팬케익. 구름 위를 걷는 듯 폭신한 식감의 향기로운 팬케익이다",
+        "pt": "Uma pilha de panquecas. Consistentes e macios, o cheirinho doce das panquecas se parece com as nuvens.",
+        "ru": "Стопка круглых блинчиков. Нежные, мягкие, ароматные блинчики, способные свести с ума любого. Вкуснотища!",
+        "th": "แพนเค้กที่จัดวางซ้อนกันอยู่ เนื้อนุ่มฟู กลิ่นหวานหอม รสสัมผัสดั่งปุยเมฆ นี่มันของขวัญจากสวรรค์ชัดๆ",
+        "vi": "Bánh nướng hình tròn. Khi ăn có cảm giác mềm mại thơm lừng, vị giác như đang ở trên mây."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

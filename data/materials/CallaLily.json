@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Calla Lily",
+        "de": "Wasserlilie",
+        "chs": "嘟嘟莲",
+        "cht": "嘟嘟蓮",
+        "es": "Lirio cala",
+        "fr": "Lys calla",
+        "id": "Calla Lily",
+        "jp": "ドドリアン",
+        "kr": "통통 연꽃",
+        "pt": "Lótus de Leite",
+        "ru": "Лилия калла",
+        "th": "Calla Lily",
+        "vi": "Hoa Calla Lily"
+    },
+    "id": 100056,
+    "materialDesc": {
+        "en": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter.",
+        "de": "Eine Blume, die am Ufer von Gewässern wächst. Ihre Blüten sind zubereitet ein wahres Erlebnis auf der Zunge, leicht süß und bitter.",
+        "chs": "生长在水边的花。花瓣经过烹制口感爽脆，清甜微苦。",
+        "cht": "生長在水邊的花。花瓣經過烹製口感爽脆，清甜微苦。",
+        "es": "Una flor que crece cerca del agua. Cuando se cocina, los pétalos cobran una textura crujiente y un sabor dulce y amargo al mismo tiempo.",
+        "fr": "Une fleur qui pousse près des points d'eaux. Ses pétales dodus ont un goût sucré et amer lorsqu'ils sont cuisinés.",
+        "id": "Bunga yang tumbuh di dekat sumber air. Saat dimasak, kelopaknya memiliki tekstur yang renyah, dengan rasa manis dan sedikit pahit.",
+        "jp": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
+        "kr": "물가에서 자라는 꽃. 꽃잎을 조리하면 식감이 아삭해지고 은은한 단맛에 살짝 쓴맛이 난다",
+        "pt": "Uma flor que cresce perto de fontes de água. Suas pétalas, quando cozinhadas, possuem textura crocante, com um pouco do doce e do azedo.",
+        "ru": "Цветок, растущий у воды. Его лепестки достаточно твёрдые, но после приготовления становятся мягкими, сладкими и немножко горьковатыми на вкус.",
+        "th": "ดอกที่จะขึ้นบริเวณริมน้ำ เมื่อนำมาทำอาหารจะมีความกรอบ, หวานนิดๆและอมขมหน่อยๆ",
+        "vi": "Hoa mọc bên sông suối. Cánh hoa giòn ngọt pha chút đắng khi nấu."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

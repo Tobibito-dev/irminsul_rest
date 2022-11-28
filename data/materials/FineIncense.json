@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fine Incense",
+        "de": "Edler Weihrauch",
+        "chs": "上好的香",
+        "cht": "上好的香",
+        "es": "Incienso de excelente calidad",
+        "fr": "Encens exquis",
+        "id": "Dupa Kualitas Bagus",
+        "jp": "上質な線香",
+        "kr": "질 좋은 향",
+        "pt": "Incenso de Alta Qualidade",
+        "ru": "Воскуренные благовония",
+        "th": "ธูปคุณภาพดี",
+        "vi": "Hương Cao Cấp"
+    },
+    "id": 101657,
+    "materialDesc": {
+        "en": "Incense you got from Wang Ping'an. Looks to be of good quality.",
+        "de": "Weihrauch, den du von Wang Ping’an bekommen hast. Sieht aus, als wäre er von hoher Qualität.",
+        "chs": "从王平安处取得的香。据说品质不错。",
+        "cht": "從王平安處取得的香。據說品質不錯。",
+        "es": "Un incienso que te dio Wang Ping'an. Según él, es de muy buena calidad.",
+        "fr": "Un encens que vous avez obtenu de Wang Ping'an. Il semble être de bonne qualité.",
+        "id": "Dupa yang didapat dari Wang Ping'an. Sepertinya berkualitas bagus.",
+        "jp": "平安から貰った線香。品質が良い物らしい。",
+        "kr": "왕평안에게서 받은 향, 품질이 꽤 좋다고 한다",
+        "pt": "Um incenso que você obteve de Wang Ping'an. Dizem que é de ótima qualidade.",
+        "ru": "Полученные от Ван Пинъаня благовония. Похоже, довольно качественные.",
+        "th": "ธูปที่ได้มาจาก Wang Ping'an ว่ากันว่าคุณภาพใช้ได้เลยทีเดียว",
+        "vi": "Loại hương lấy được từ chỗ Wang Ping'an, nghe nói là hàng cao cấp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

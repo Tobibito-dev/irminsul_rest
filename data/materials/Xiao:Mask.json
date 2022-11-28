@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xiao: Mask",
+        "de": "Xiao – Maske",
+        "chs": "魈·傩面",
+        "cht": "魈·儺面",
+        "es": "Xiao - Máscara",
+        "fr": "Xiao - Masque",
+        "id": "Xiao: Mask",
+        "jp": "魈·儺面",
+        "kr": "소·가면",
+        "pt": "Xiao - Máscara",
+        "ru": "Маска Якса",
+        "th": "Xiao - Mask",
+        "vi": "Xiao - Mặt Nạ"
+    },
+    "id": 210058,
+    "materialDesc": {
+        "en": "Namecard style.\\nHe longs for a day to come when he will wear the mask and dance — not to conquer demons, but to the tune of that flute amid a sea of flowers.",
+        "de": "Ein Motiv für Namenskärtchen.\\nEr sehnt sich nach dem Tag, an dem er die Maske tragen und tanzen wird – nicht, um Dämonen zu besiegen, sondern zur Melodie dieser Flöte inmitten eines Blumenmeeres.",
+        "chs": "名片纹饰。\\n他总想着有一天，能带着这傩面起舞。不为除魔之故，只为伴随那花洲的笛声。",
+        "cht": "名片紋飾。\\n他總想著有一天，能帶著這儺面起舞。不為除魔之故，只為伴隨那花洲的笛聲。",
+        "es": "Diseño de tarjeta de presentación.\\nOjalá llegue el día en que se ponga la máscara y comience a bailar. No para acabar con demonios malvados, sino para acompañar al sonido de las flautas del Pantano Dihua.",
+        "fr": "Thème.\\nIl attend avec impatience le jour où il pourra porter le masque et danser non pas pour conquérir des démons mais au son de cette fameuse flûte, dans un océan de fleurs.",
+        "id": "Style kartu nama.\\nDia menanti datangnya hari di mana dia bisa mengenakan topeng itu sambil berdansa. Bukan untuk membasmi iblis, tetapi untuk menikmati suara seruling di tengah lautan bunga.",
+        "jp": "名刺の飾り紋。\\nいつか、魔と戦うためにこの儺面を被るのではなく、祭りのように、花洲の笛の音に合わせ悠々と舞うために被る日がくるのだろうか。",
+        "kr": "명함 스킨.\\n그는 언젠가 이 가면을 쓰고 요마 제거를 위해서가 아닌 화주의 피리 소리에 맞춰 춤추길 원한다",
+        "pt": "Estilo de Cartão de Visita.\\nEle sempre acreditou que um dia colocaria essa máscara e dançaria. Não para derrotar monstros, mas para acompanhar o som da flauta da Ilhota de Dihua.",
+        "ru": "Именная карта.\\nОн предвкушает наступление дня, который позволит ему надеть маску и танцевать. Но не для истребления демонов, а под мелодию флейты, что звучит среди моря цветов.",
+        "th": "ลายนามบัตร\\nเขามักจะคิดถึงวันที่ได้สวมหน้ากากเต้นรำ ซึ่งไม่ใช่เพื่อปราบอสูร แต่เพื่อเสียงขลุ่ยท่ามกลางทุ่งดอกไม้",
+        "vi": "Hoa văn danh thiếp.\\nAnh ta mong mỏi một ngày được đeo mặt nạ vào và nhảy múa, không phải để chinh phục ma quỷ, mà để đi theo giai điệu của tiếng sáo giữa một biển hoa."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

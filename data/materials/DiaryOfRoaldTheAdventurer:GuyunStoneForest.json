@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diary of Roald the Adventurer: Guyun Stone Forest",
+        "de": "Tagebuch des Abenteurers Roald – Guyun-Türme",
+        "chs": "冒险家罗尔德的日志·孤云阁",
+        "cht": "冒險家羅爾德的日誌·孤雲閣",
+        "es": "Diario del aventurero Roald: Bosque de Piedra Guyun",
+        "fr": "Journal de l'aventurier Roald - Forêt de pierre de Guyun",
+        "id": "Jurnal Roald sang Petualang: Guyun Stone Forest",
+        "jp": "冒険者ロアルドの日誌·孤雲閣",
+        "kr": "모험가 로알드의 일지·고운각",
+        "pt": "Diário do Aventureiro Roald - Floresta de Pedra Guyun",
+        "ru": "Дневники Роальда, искателя приключений: Каменный лес Гуюнь",
+        "th": "บันทึกการเดินทางของนักผจญภัย Roald - Guyun Stone Forest",
+        "vi": "Nhật Ký Nhà Mạo Hiểm Roald - Cô Vân Các"
+    },
+    "id": 100388,
+    "materialDesc": {
+        "en": "A diary left behind by the famed adventurer, Roald, by chance. The pages are damp and seem to have been soaked in water.",
+        "de": "Ein vom berühmten Abenteurer Roald zufällig zurückgelassenes Tagebuch. Die Seiten sind ganz feucht und scheinen mal im Wasser gelegen zu haben.",
+        "chs": "著名冒险家罗尔德偶然留下的日志，纸面湿湿的，似乎被潮水浸泡过。",
+        "cht": "著名冒險家羅爾德偶然留下的日誌，紙面濕濕的，似乎被潮水浸泡過。",
+        "es": "Un diario olvidado por el famoso aventurero Roald. Está mojado. Parece haber estado sumergido en las aguas del mar.",
+        "fr": "Un journal accidentellement laissé par le célèbre aventurier Roald. Les pages sont humides, et ont dû séjourné dans l'eau.",
+        "id": "Sebuah buku harian milik petualang terkenal, Roald, yang tidak sengaja tertinggal. Halamannya lembap, sepertinya bekas terkena air.",
+        "jp": "有名な冒険者ロアルドが偶然残した日誌。紙は少し濡れていて、どうやら水に浸されたようだ。",
+        "kr": "유명한 모험가 로알드가 남긴 일지. 겉이 축축한 게 물에 빠졌던 적이 있는 것 같다",
+        "pt": "Um diário deixado para trás pelo famoso aventureiro, Roald, por acaso. As páginas estão úmidas e parecem estar embebidas em água.",
+        "ru": "Дневник искателя приключений Роальда, оставленный в походном лагере. Страницы влажные, словно этот дневник пробыл какое-то время под водой.",
+        "th": "บันทึกที่ Roald นักผจญภัยชื่อดังบังเอิญทิ้งเอาไว้ กระดาษค่อนข้างชื้น ๆ ดูเหมือนว่าจะเคยตกน้ำมาก่อน",
+        "vi": "Nhật ký được Nhà Mạo Hiểm nổi tiếng Roald để lại, dường như do dính nước nên trang giấy đã bị ẩm."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

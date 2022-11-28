@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rocks & Plants",
+        "de": "Felsen und Pflanzen",
+        "chs": "自在的岩石与草木",
+        "cht": "自在的岩石與草木",
+        "es": "Rocas y plantas",
+        "fr": "« Plantes et pierres »",
+        "id": "Bebatuan & Tanaman",
+        "jp": "自在な岩石と植物",
+        "kr": "자유로운 암석과 초목",
+        "pt": "Rochas e Plantas",
+        "ru": "Камни и трава",
+        "th": "หินและต้นไม้แสนอิสระ",
+        "vi": "Thảm Cỏ Và Núi Đá"
+    },
+    "id": 350003,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up \"Rocks & Plants.\"\\nThe grass and trees grow free in the wilds where human feet do not tread. Rocks are also piled up in a corner, seemingly the work of some beast.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Felsen und Pflanzen“.\\nDas Gras und die Bäume wachsen frei in der Wildnis, wo menschliche Füße nicht hinkommen. Auch Felsen sind in einer Ecke aufgetürmt, anscheinend das Werk eines Tieres.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「自在的岩石与草木」的放置方法。\\n杳无人烟的荒野中，草木自由生长。岩石也堆积在一处，似乎是某些走兽的杰作。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「自在的岩石與草木」的放置方法。\\n杳無人煙的荒野中，草木自由生長。岩石也堆積在一處，似乎是某些走獸的傑作。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar Rocas y plantas.\\nLa hierba y los árboles crecen libremente en los sitios por donde no pasa el hombre. Las rocas también se apilan en un rincón, como si algún animal las hubiera colocado allí.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place des « Plantes et pierres ».\\nL'herbe et les arbres poussent librement dans la nature, loin des hommes. Les pierres ont été entassées dans un coin, sans doute par un monstre.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Bebatuan & Tanaman\".\\nRerumputan dan pohon-pohon tumbuh dengan bebas di alam liar yang tidak tersentuh oleh manusia. Di suatu pojokan ada tumpukan bebatuan yang sepertinya merupakan buatan para binatang liar.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「自在な岩石と植物」の詳しい配置方法が載っている設計図。\\n誰もいない荒野の中、草や木は自由に育っている。ある場所に積まれている岩があるが、恐らく獣の仕業だろう。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「자유로운 암석과 초목」의 설치 방법이 기재되어 있다.\\n사람이 살지 않는 야생에서는 초목이 자유롭게 자란다. 돌도 한곳에 쌓여있어 어떤 짐승들의 멋진 작품인 것 같다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Rochas e Plantas\".\\nA grama e as árvores crescem livres na natureza, onde os pés humanos não pisam. As pedras também estão empilhadas em um canto, aparentemente o trabalho de alguma criatura.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Камни и трава».\\nТрава и деревья свободно растут в дикой природе, где не ступала нога человека. Камни скопились в углу, по-видимому, это работа какого-то существа.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"หินและต้นไม้แสนอิสระ\" \\nในถิ่นทุรกันดารที่ไร้ซึ่งผู้คน พืชพันธุ์เติบโตอย่างอิสระ มีหินกองอยู่ในที่สถานที่หนึ่ง ซึ่งดูเหมือนจะเป็นผลงานชิ้นเอกของสัตว์ร้ายบางชนิด\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Thảm Cỏ Và Núi Đá\".\\nỞ nơi hoang vắng, cây cỏ mọc tự do. Đá cuội cũng chất chồng lên nhau, có vẻ là kiệt tác của một số thú vật nào đó.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

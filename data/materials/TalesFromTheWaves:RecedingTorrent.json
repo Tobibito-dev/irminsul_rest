@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tales From the Waves: Receding Torrent",
+        "de": "Mit den Wellen – Eintretende Ebbe",
+        "chs": "浮浪记·潮息",
+        "cht": "浮浪記·潮息",
+        "es": "La leyenda de los mares: Marea baja",
+        "fr": "Journal du Vagabond - Marée descendante",
+        "id": "Cerita dari Ombak: Air Surut",
+        "jp": "浮浪記·下り潮",
+        "kr": "방랑기·간조",
+        "pt": "Diário das Ondas: Maré Baixa",
+        "ru": "Записи бродяги. Отлив",
+        "th": "บันทึกแห่งเกลียวคลื่น: น้ำลง",
+        "vi": "Nhật Ký Sóng Vỗ - Sóng Lặng"
+    },
+    "id": 100567,
+    "materialDesc": {
+        "en": "Finally, when the tempest eased and the ocean surface was tranquil once more, the soft wind played a poignant homecoming tune...",
+        "de": "Als der Sturm sich gelegt und die Wellen sich beruhigt hatten, stimmte der Seefahrer auf seiner Heimreise ein Lied ein.",
+        "chs": "待到一切复归风平浪静，海风轻轻吟唱着归乡的故曲……",
+        "cht": "待到一切複歸風平浪靜，海風輕輕吟唱著歸鄉的故曲……",
+        "es": "Cuando la tormenta por fin amainó y la superficie del océano volvió a estar tranquila, el suave viento tocó una conmovedora melodía de regreso a casa.",
+        "fr": "Lorsque la tempête cessa et que le calme régna de nouveau sur l'océan, le vent joua une poignante mélodie...",
+        "id": "Akhirnya, saat badai mereda dan permukaan laut kembali tenang, tiupan angin yang lembut melantunkan lagu untuk kembali ke kampung halaman yang dirindukannya...",
+        "jp": "海面が穏やかに戻り、海風は微かに帰郷の歌を唄う…",
+        "kr": "파도가 다시 잔잔해지자 해풍이 고향으로 돌아가는 노래를 부르기 시작한다…",
+        "pt": "Quando todas as inquietações voltarem à normalidade, a brisa do mar toca uma melodia da terra...",
+        "ru": "Когда ветер наконец затих, а волны успокоились, нежный бриз тихо пел о дороге домой...",
+        "th": "เมื่อคลื่นลมสงบ เสียงลมทะเลก็เริ่มขับกล่อมบทเพลงกลับบ้านเกิด...",
+        "vi": "Chờ đến khi sóng yên biển lặng, gió biển nhẹ nhàng hát lên bài ca hồi hương..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

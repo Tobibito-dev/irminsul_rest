@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sumeru Reputation EXP",
+        "de": "Ansehens-EP für Sumeru",
+        "chs": "声望经验·须弥",
+        "cht": "聲望經驗·須彌",
+        "es": "EXP de reputación - Sumeru",
+        "fr": "EXP de réputation de Sumeru",
+        "id": "EXP Reputasi Sumeru",
+        "jp": "評判経験値·スメール",
+        "kr": "평판 경험치·수메르",
+        "pt": "EXP de Reputação de Sumeru",
+        "ru": "Опыт репутации (Сумеру)",
+        "th": "EXP ชื่อเสียงประจำเมือง Sumeru",
+        "vi": "EXP Danh Vọng - Sumeru"
+    },
+    "id": 316,
+    "materialDesc": {
+        "en": "Increases your Reputation Lv. (Sumeru)",
+        "de": "Erhöht dein Ansehen in Sumeru.",
+        "chs": "提升须弥声望等级。",
+        "cht": "提升須彌聲望等級。",
+        "es": "Aumenta el nivel de reputación en Sumeru.",
+        "fr": "Augmente votre Niv. de réputation à Sumeru.",
+        "id": "Meningkatkan Lv. Reputasi (Sumeru)",
+        "jp": "スメールでの都市評判Lvを上げる。",
+        "kr": "수메르 평판 등급을 올린다",
+        "pt": "Aumenta o nível de sua Reputação em Sumeru",
+        "ru": "Повышает уровень вашей репутации в Сумеру.",
+        "th": "เพิ่มระดับชื่อเสียงประจำเมือง Sumeru",
+        "vi": "Tăng cấp danh vọng Sumeru."
+    },
+    "materialType": false
+}

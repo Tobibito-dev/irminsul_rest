@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sakuya's Special Gardening Package",
+        "de": "Sakuyas spezielles Gärtnereipaket",
+        "chs": "咲耶的特别园艺搭配包",
+        "cht": "咲耶的特別園藝搭配包",
+        "es": "Paquete de jardinería de Sakuya",
+        "fr": "Paquet de jardinage spécial de Sakuya",
+        "id": "Sakuya's Special Gardening Package",
+        "jp": "咲耶の園芸スペシャルパック",
+        "kr": "사쿠야의 특별 원예 패키지",
+        "pt": "Pacote de Jardinagem Especial de Sakuya",
+        "ru": "Специальный садовый набор Сакуи",
+        "th": "ชุดทำสวนพิเศษของ Sakuya",
+        "vi": "Gói Làm Vườn Đặc Biệt Của Sakuya"
+    },
+    "id": 115035,
+    "materialDesc": {
+        "en": "A special gardening package that you received from Sakuya. Use it to receive one out of the three flower stands.",
+        "de": "Ein spezielles Gärtnereipaket, das du von Sakuya erhalten hast. Benutze es, um einen der drei Blumenständer zu erhalten.",
+        "chs": "从咲耶处获得的特别园艺搭配包。使用后，可以获得三种花架中的任意一种。",
+        "cht": "從咲耶處獲得的特別園藝搭配包。使用後，可以獲得三種花架中的任意一種。",
+        "es": "Un paquete de jardinería especial que obtuviste de Sakuya. Úsalo para recibir uno de los tres estantes para flores.",
+        "fr": "Un kit de jardinage que vous avez reçu de Sakuya. Utilisez-le pour obtenir une des trois jardinières proposées.",
+        "id": "Paket berkebun khusus yang kamu terima dari Sakuya. Gunakan ini untuk menerima salah satu dari tiga rak bunga.",
+        "jp": "咲耶から入手した園芸パック。使用すると、3つのフラワースタンドのうち1つを獲得できる。",
+        "kr": "사쿠야에게서 획득한 원예 패키지. 사용 후 세 가지 화분대 중 한 가지를 고를 수 있다",
+        "pt": "Um pacote especial de jardinagem obtido de Sakuya. Depois de ser utilizado é possível obter qualquer um de três tipos de suportes para flores.",
+        "ru": "Специальный садовый набор, который вы получили от Сакуи. Используйте его, чтобы получить одну из трёх подставок для цветов.",
+        "th": "ชุดทำสวนพิเศษที่ได้มาจาก Sakuya หลังใช้งานแล้วคุณจะได้รับชั้นวางดอกไม้จากหนึ่งในสามชนิด",
+        "vi": "Gói làm vườn đặc biệt nhận từ Sakuya. Dùng sẽ nhận được một trong ba loại kệ hoa."
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

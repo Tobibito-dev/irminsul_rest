@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Celebration: Binge Vessel",
+        "de": "Feierlichkeit – Trinkgelage",
+        "chs": "庆典·觥筹",
+        "cht": "慶典·觥籌",
+        "es": "Celebración - Embriaguez",
+        "fr": "Célébration - Enivrement",
+        "id": "Perayaan: Wadah Meriah",
+        "jp": "祭典·祝杯",
+        "kr": "축제·술잔",
+        "pt": "Celebração: Embriaguez",
+        "ru": "Кубки и развлечения",
+        "th": "การฉลอง - แก้วอันแสนดื่มด่ำ",
+        "vi": "Tiệc Mừng - Linh Đình"
+    },
+    "id": 210111,
+    "materialDesc": {
+        "en": "Namecard.\\nThere's a great many stories here, but no alcohol, so it's safe for Paimon to drink.",
+        "de": "Ein Motiv für Namenskärtchen.\\nHier werden jede Menge Geschichten erzählt. Aber kein einziger Tropfen Alkohol wird geboten. Paimon kann auch mittrinken, ohne sich Sorgen zu machen.",
+        "chs": "名片纹饰。\\n这里有很多很多的故事，但是没有酒精。派蒙也可以喝。",
+        "cht": "名片紋飾。\\n這裡有很多很多的故事，但是沒有酒精。派蒙也可以喝。",
+        "es": "Diseño de tarjeta de presentación.\\nAquí hay muchas historias, pero ni una gota de alcohol, así que Paimon también puede beber.",
+        "fr": "Thème.\\nIl y a beaucoup d'histoires ici, mais pas une goutte d'alcool. Paimon peut donc boire sans souci.",
+        "id": "Style kartu nama.\\nAda banyak sekali cerita di sini, tapi tidak ada alkohol. Bahkan Paimon pun boleh minum.",
+        "jp": "名刺の飾り紋。\\nたくさんの物語がここにはあるが、アルコールはない。だから、パイモンも飲める。",
+        "kr": "명함 스킨.\\n여기에는 많은 이야기가 담겨있지만, 알코올이 없어서 페이몬도 마실 수 있다",
+        "pt": "Estilo de Cartão de Visita.\\nHá muitas histórias aqui, mas nenhum álcool. Por isso Paimon também pode beber.",
+        "ru": "Именная карта.\\nБесчисленные истории и ни капли алкоголя. Паймон тоже можно пить.",
+        "th": "ลายนามบัตร\\nที่นี่มีเรื่องราวมากมาย แต่ไม่มีแอลกอฮอล์หรอกนะ Paimon เองก็ดื่มได้",
+        "vi": "Hoa văn danh thiếp.\\nBên trong có rất nhiều rất nhiều câu chuyện, mà lại không có cồn. Paimon cũng có thể uống."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

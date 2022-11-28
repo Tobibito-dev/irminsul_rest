@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Beverage from Angel's Share",
+        "de": "Spezialgetränk der Engelsgabe",
+        "chs": "「天使的馈赠」的特色饮料",
+        "cht": "「天使的饋贈」的特色飲料",
+        "es": "Bebida especial de la taberna El Obsequio del Ángel",
+        "fr": "Boisson spéciale du Cadeau de l'Ange",
+        "id": "Minuman Hadiah Angel's Share",
+        "jp": "「エンジェルズシェア」の人気メニュー",
+        "kr": "「천사의 몫」의 특제 음료",
+        "pt": "Bebida Especial do Presentes dos Anjos",
+        "ru": "Особый напиток «Доли ангелов»",
+        "th": "เครื่องดื่มสุดพิเศษของร้าน Angel's Share",
+        "vi": "Đồ uống đặc sắc của quán Quà Tặng Của Thiên Sứ"
+    },
+    "id": 100544,
+    "materialDesc": {
+        "en": "An extra-special beverage obtained from the Angel's Share. Claimed to be the most cool and refreshing beverage ever, one can certainly feel the wind at the back of the throat more keenly after consuming it.",
+        "de": "Ein Spezialgetränk von der Engelsgabe. Angeblich hat es einen überaus erfrischenden Geschmack. Tatsächlich fühlt es sich nach dem Genuss an, als führe ein kalter Luftzug durch den Rachen.",
+        "chs": "从「天使的馈赠」酒馆处得到的特色饮料。据说有着无与伦比的清凉口感，喝完之后，能让人格外清晰地感受到「风」…",
+        "cht": "從「天使的饋贈」酒館處得到的特色飲料。據說有著無與倫比的清涼口感，喝完之後，能讓人格外清晰地感受到「風」…",
+        "es": "Una bebida especial que se puede conseguir en la taberna El Obsequio del Ángel. Dicen que es una de las bebidas más frescas y refrescantes que hay. Al beberla, se puede sentir claramente la frescura del viento.",
+        "fr": "Une boisson spéciale préparée par la taverne du Cadeau de l'Ange. Son goût rafraichissant serait inégalé ; après en avoir terminé un verre, vous sentez un vent agréable souffler sur vous.",
+        "id": "Minuman spesial dari Angel's Share. Konon memiliki rasa menyegarkan yang tiada duanya, dapat membuat seseorang merasakan angin di tenggorokan setelah meminumnya...",
+        "jp": "「エンジェルズシェア」から獲得した特製ドリンク。比類のない涼しい舌触りがする。一口で「風」を感じられるという…",
+        "kr": "「천사의 몫」 술집에서 받은 특제 음료. 비교불가의 청량한 맛으로 마시고 나면 「바람」이 더 잘 느껴진다고 한다…",
+        "pt": "Uma especialidade de bebida dos Presentes dos Anjos. Dizem que dá uma sensação refrescante indescritivelmente. De fato, depois de apreciá-la, parece que uma brisa fria está soprando em sua garganta.",
+        "ru": "Диковинка из «Доли ангелов». Бармен заверяет, что это самый освежающий напиток всех времён. Выпейте его, чтобы почувствовать прохладу мондштадтского ветерка.",
+        "th": "เครื่องดื่มสุดพิเศษที่ได้มาจากร้าน Angel's Share ว่ากันว่ามีรสชาติเย็นสดชื่นแบบไม่มีอะไรมาเทียบได้ หลังจากดื่มหมดแล้วจะรู้สึกได้ถึง \"ลม\" ได้อย่างชัดเจน...",
+        "vi": "Thức uống đặc sắc ở quán rượu \"Quà Tặng Của Thiên Sứ\". Nghe nói vô cùng mát lạnh, uống xong có thể khiến người ta cảm nhận được \"Phong\" một cách rõ rệt..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Red Pine Wood Round Stool",
+        "de": "Runder Hocker aus rot lackiertem Kiefernholz",
+        "chs": "松木朱漆圆凳",
+        "cht": "松木朱漆圓凳",
+        "es": "Taburete rojo redondo de pino",
+        "fr": "Tabouret rond rouge en pin",
+        "id": "Kursi Bundar Merah dari Kayu Pinus Merah",
+        "jp": "松の円椅子",
+        "kr": "붉은 소나무 원형 스툴",
+        "pt": "Banco Redondo de Pinheiro Vermelho",
+        "ru": "Круглый табурет из красной сосны",
+        "th": "ม้านั่งไม้สนสีแดงทรงกลม",
+        "vi": "Ghế Tròn Gỗ Thông Đỏ"
+    },
+    "id": 382106,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Red Pine Wood Round Stool.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Runder Hocker aus rot lackiertem Kiefernholz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「松木朱漆圆凳」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「松木朱漆圓凳」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Taburete rojo redondo de pino.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du tabouret rond rouge en pin.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Kursi Bundar Merah dari Kayu Pinus Merah\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「松の円椅子」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「붉은 소나무 원형 스툴」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Banco Redondo de Pinheiro Vermelho\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Круглый табурет из красной сосны».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ม้านั่งไม้สนสีแดงทรงกลม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Tròn Gỗ Thông Đỏ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

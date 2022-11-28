@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chaos Oculus",
+        "de": "Chaos-Oculus",
+        "chs": "混沌真眼",
+        "cht": "混沌真眼",
+        "es": "Ojo del caos",
+        "fr": "Œil du chaos",
+        "id": "Chaos Oculus",
+        "jp": "混沌の真眼",
+        "kr": "혼돈의 눈동자",
+        "pt": "Olho do Caos",
+        "ru": "Око хаоса",
+        "th": "Chaos Oculus",
+        "vi": "Con Ngươi Hỗn Độn"
+    },
+    "id": 112049,
+    "materialDesc": {
+        "en": "Comes from a now-inactive ancient Ruin machine.\\nThe \"Ruin\" part of the name comes from the areas where they are most active. However, Ruin machines actually have little in common with the detritus in which they are often found.\\nIn the ancient past, these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament, while \"ruin\" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot.",
+        "de": "Stammt von einer jetzt inaktiven alten Ruinenmaschine.\\nDer „Ruinen“-Teil des Namens kommt von den Gebieten, in denen sie am aktivsten sind. Allerdings haben Ruinenmaschinen eigentlich wenig mit dem Geröll gemein, in dem sie oft zu finden sind.\\nIn der alten Vergangenheit waren diese Ruinen einst Teil einer Zivilisation, die mächtig genug war, um fast die Kuppel des Firmaments zu berühren, während „Ruin“ immer noch in den Tiefen der Erde wartet und auf den Befehl wartet, sich zu erheben und alle Königreiche mit Füßen zu treten.",
+        "chs": "来自不再活动的古代遗迹机关。\\n这类机关的「遗迹」之名源自它们热衷的活动区域。但遗迹机关本身与它们所寄居的残垣断壁之间却没有多少共同之处。\\n在遥远的过去，遗迹曾经属于伟大的、几乎可以触碰天空穹顶的文明，而「遗迹」则在大地的深处蓄势待发，等待着踏平一切国度的指令下达。",
+        "cht": "來自不再活動的古代遺蹟機關。\\n這類機關的「遺蹟」之名源自它們熱衷的活動區域。但遺蹟機關本身與它們所寄居的殘垣斷壁之間卻沒有多少共同之處。\\n在遙遠的過去，遺蹟曾經屬於偉大的、幾乎可以觸碰天空穹頂的文明，而「遺蹟」則在大地的深處蓄勢待發，等待著踏平一切國度的指令下達。",
+        "es": "Un objeto procedente de una máquina de las ruinas inactiva.\\nLa palabra “ruinas” de su nombre tiene su origen en las zonas donde son más activas. Sin embargo, las máquinas de las ruinas guardan poco en común con los escombros entre los que suelen ser encontradas.\\nEn tiempos remotos, estas ruinas solían pertenecer a una grandiosa civilización que casi podía rozar los límites del cielo, mientras ellas permanecían acalladas en las profundidades de la tierra, esperando el momento oportuno para tener a todos los reinos a sus pies.",
+        "fr": "Provient d'un ancien mécanisme des ruines désormais inactif.\\nLe mot « ruines » fait référence aux zones dans lesquelles ils sont les plus actifs. Cependant, les mécanismes des ruines n'ont en réalité que peu de points communs avec les débris dans lesquels ils se trouvent habituellement.\\nDans un passé lointain, ces ruines appartenaient à une civilisation assez puissante pour presque toucher le dôme du firmament, pendant qu'elles restaient à attendre dans les tréfonds de la terre, l'ordre de se soulever et de renverser tous les royaumes.",
+        "id": "Berasal dari mesin Ruin kuno yang sekarang sudah tidak aktif.\\nNama \"Ruin\" berasal dari area di mana mereka sering melakukan aktivitasnya. Namun kenyataannya, mesin Ruin sebenarnya tidak punya banyak kesamaan dengan puing-puing reruntuhan di area di mana mereka biasanya ditemukan.\\nDi masa lalu, reruntuhan ini pernah menjadi bagian dari peradaban yang kekuatannya hampir sanggup untuk menyentuh atap langit, sementara \"Ruin\" masih menunggu dengan manis di tempat-tempat yang dalam di bumi, menunggu datangnya perintah untuk bangkit dan menginjak semua kerajaan yang ada.",
+        "jp": "すでに動かなくなった古代遺跡機械からとったもの。\\nその名にある「遺跡」は、彼らがよく出没するエリアを由来としている。しかし実際、彼らとその「遺跡」の間にはあまり共通点がなかった。\\n遠い昔、遺跡は天空の頂点にも届く偉大なる文明に属していた。しかし、その「遺跡」は大地の深部に身を置き、国々を葬る命令を待ち続けている。",
+        "kr": "작동하지 않는 고대 유적 기관에서 왔다.\\n이 기관의 「유적」이라는 명칭은 그들이 활동하던 구역으로부터 유래된다. 하지만 유적 기관 자체와는 그들이 기거하고 있는 황폐해진 담벼락 사이의 공통점이 딱히 없다\\n머나먼 과거, 유적은 하늘에 곧 닿을 듯한 위대한 문명에 속해있었다. 「유적」은 땅의 깊은 곳에서 그 예기를 갈며 나라를 궤멸시킬 명령을 기다리고 있다",
+        "pt": "Originário de uma máquina antiga das Ruínas.\\nA parte \"Ruína\" de seu nome vem das áreas em que são mais ativas. Mas na realidade, máquinas das Ruínas possuem pouco em comum com os detritos em que são comumente encontrados.\\nNo passado antigo, essas ruínas foram parte de uma civilização grande o suficiente para quase tocar o domo do firmamente, enquanto a \"ruína\" ainda aguarda nos cantos mais profundos da terra, esperando a ordem para erguer-se e pisar sobre todos os reinos.",
+        "ru": "Часть древнего механизма из руин.\\nМеханизмы руин называются так потому, что они наиболее активны в руинах. Вот только с развалинами, где они обычно обитают, у них ничего общего.\\nВ далёком прошлом эти развалины были частью великой цивилизации, способной прикоснуться к куполу небосвода, а «руины» затаились в земных глубинах и до сих пор ждут приказа растоптать все королевства.",
+        "th": "มาจากซากกลไกโบราณที่ไม่ได้ใช้งานแล้ว\\nชื่อของ \"ซาก\" กลไกชนิดนี้มาจากพื้นที่ที่มีการใช้งานพวกมันมากที่สุด แต่ระหว่างตัวซากกลไกและซากปรักหักพังที่พวกมันอยู่ ก็ไม่มีส่วนที่เหมือนกันมากนัก\\nในอดีตอันไกลโพ้น ซากปรักหักพังเหล่านี้เคยเป็นส่วนหนึ่งของอารยธรรมที่ยิ่งใหญ่เสียจนดูเหมือนจะสัมผัสจุดสูงสุดของท้องฟ้าได้ แต่ \"ซาก\" เหล่านี้กลับอยู่ส่วนที่ลึกลงไปใต้ผืนโลก เพื่อรอคอยคำสั่งที่จะก้าวไปสู่ดินแดนทั้งหมด",
+        "vi": "Đến từ cơ quan di tích cổ không còn hoạt động nữa.\\nNguồn gốc tên gọi của những \"di tích\" này đến từ khu vực mà chúng hoạt động. Nhưng cũng không có nhiều điểm chung lắm giữa các di tích này và nơi chúng có mặt.\\nTrong quá khứ xa xôi, di tích từng thuộc về nền văn minh vĩ đại gần như có thể chạm được tới trời, còn \"di tích\" thì vẫn luôn sẵn sàng chờ lệnh để san bằng bất kỳ quốc gia nào."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

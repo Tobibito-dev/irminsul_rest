@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Freshly-Picked Harra Fruit",
+        "de": "Frisch gepflückte Harra-Früchte",
+        "chs": "刚摘下的香辛果",
+        "cht": "剛摘下的香辛果",
+        "es": "Fruto harra recién recogido",
+        "fr": "Fruit harra fraîchement cueilli",
+        "id": "Harra Fruit yang Baru Dipetik",
+        "jp": "摘みたてのハッラの実",
+        "kr": "방금 딴 향신과",
+        "pt": "Fruta Harra Recém-Colhida",
+        "ru": "Свежесорванный фрукт харра",
+        "th": "Harra Fruit ที่เพิ่งเก็บมา",
+        "vi": "Quả Harra Vừa Hái"
+    },
+    "id": 101994,
+    "materialDesc": {
+        "en": "A freshly picked Harra Fruit. Perfect for cooking.",
+        "de": "Frisch gepflückte Harra-Früchte, gut zum Kochen geeignet.",
+        "chs": "刚刚采下的香辛果，很适合用于烹饪。",
+        "cht": "剛剛採下的香辛果，很適合用於烹飪。",
+        "es": "Un fruto harra recién recogido. Ideal para usar como ingrediente culinario.",
+        "fr": "Un fruit harra fraîchement cueilli, idéal pour être préparé dans un plat.",
+        "id": "Harra Fruit yang baru saja dipetik, sangat cocok digunakan untuk memasak.",
+        "jp": "採ったばかりのハッラの実。料理に最適。",
+        "kr": "방금 채집한 향신과. 요리에 쓰기 좋다",
+        "pt": "Fruta Harra recém-colhida, ideal para fazer comida.",
+        "ru": "Фрукт харра, только что сорванный с ветки. Идеально подходит для готовки.",
+        "th": "Harra Fruit ที่เพิ่งเก็บมาสด ๆ เหมาะสำหรับการนำมาปรุงอาหารเป็นอย่างมาก",
+        "vi": "Quả Harra vừa hái, rất thích hợp dùng để nấu nướng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

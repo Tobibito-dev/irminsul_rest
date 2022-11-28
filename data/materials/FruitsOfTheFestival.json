@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fruits of the Festival",
+        "de": "Festtagssaft",
+        "chs": "假日果酿",
+        "cht": "假日果釀",
+        "es": "Jugo festivo",
+        "fr": "Jus de fruits du festival",
+        "id": "Fruits of the Festival",
+        "jp": "バケーションサイダー",
+        "kr": "바캉스 과일주",
+        "pt": "Frutas do Festival",
+        "ru": "Праздничный сок",
+        "th": "Fruits of the Festival",
+        "vi": "Hương Vị Lễ Hội"
+    },
+    "id": 108464,
+    "materialDesc": {
+        "en": "A brightly colored non-alcoholic beverage. Freshly squeezed Sunsettia and Wolfhook juices have been poured into a cup in a specific order. The cool and refreshing flavor and vibrant color remind people of the beautiful holiday times. Do not mess the order up if you want to get the gradient effect right!",
+        "de": "Ein alkoholfreies Getränk mit klarer, anziehender Farbe. Dämmerfrucht und Wolfshaken werden getrennt ausgepresst und abgeschmeckt, bevor sie in der Reihenfolge ihrer oberen Erwähnung ins Glas geschüttet werden. Das erfrischend kühle Gefühl im Mund und die angenehme Farbe wecken angenehme Erinnerungen an Urlaube. Um den richtigen Effekt zu erzielen, muss man die Herstellungsreihenfolge genau einhalten!",
+        "chs": "色彩清丽的无酒精饮品。将日落果和钩钩果分别捣出汁液调味后，再依次倒入杯中。冰爽的口感加上清凉的颜色，能轻易让人想起关于假日的美好回忆。为了顺利制作出渐变效果，千万不能弄错顺序哦！",
+        "cht": "色彩清麗的無酒精飲品。將日落果和鉤鉤果分別搗出汁液調味後，再依次倒入杯中。冰爽的口感加上清涼的顏色，能輕易讓人想起關於假日的美好回憶。為了順利製作出漸層效果，千萬不能弄錯順序喔！",
+        "es": "Una bebida sin alcohol de colores brillantes. Las solsettias y los ganchos de lobo se exprimen por separado y se vierten en ese orden en un vaso. Su sabor refrescante y color vibrante traen gratos recuerdos de las vacaciones. ¡Para conseguir el efecto de sabor graduado, hay que verter los ingredientes en el orden correcto!",
+        "fr": "Une boisson non alcoolisée aux couleurs vives. Des pommes crépusculaires et des baies à crochet ont été pressées séparément pour produire les arômes qui sont ensuite versés en séquence dans la tasse. La saveur fraîche et rafraîchissante et la couleur vibrante rappellent facilement aux gens les bons moments des vacances. Mais si vous voulez obtenir le bon effet de dégradé, ne vous trompez pas dans l'ordre !",
+        "id": "Minuman non-alkohol yang berwarna cerah. Jus Sunsettia dan Wolfhook segar dituangkan ke dalam cangkir dengan urutan tertentu. Rasanya yang dingin dan menyegarkan, dipadu dengan warnanya yang cerah akan mengingatkanmu pada musim liburan yang indah. Jangan sampai urutannya salah kalau mau campuran warnanya terlihat cantik!",
+        "jp": "透き通った色のノンアルコールドリンク。夕暮れの実とググプラムを別々に絞って味を調えてから、順番にグラスに注いでいく。氷のようにひんやりとした味わいと涼しげな色が、バカンスの楽しい思い出を簡単に蘇らせてくれる。綺麗なグラデーションを作るには、手順を間違わないこと！",
+        "kr": "투명한 무알코올 음료. 일몰 열매와 고리고리 열매를 따로 갈아 맛을 낸 후, 차례로 컵에 붓는다. 시원한 맛과 청량한 색은 휴일의 추억을 떠올리게 한다. 완벽한 그라데이션을 위해 레시피의 순서를 꼭 지켜야 한다!",
+        "pt": "Uma bebida colorida não alcoólica. Sucos frescos de Fruto do Pôr do Sol e Gancho do Lobo são colocados em um copo em uma ordem específica. O sabor refrescante e a cor vibrante lembra as pessoas do período de festividades. Não erre a ordem se você quiser acertar no efeito gradiente!",
+        "ru": "Безалкогольный напиток яркого цвета. Сок волчьего крюка и сок закатника наливают в стакан в определённой последовательности. Освежающий вкус и приятный цвет навевают воспоминания о чудесном празднике. Но чтобы цвета красиво перетекали друг в друга, не перепутайте, в какой последовательности добавлять ингредиенты!",
+        "th": "เครื่องดื่มไร้แอลกอฮอล์สีสันสดใส หลังจากคั้นน้ำผล Sunsettia และ Wolfhook แยกกันแล้ว นำมาเทลงในแก้วอีกครั้งตามลำดับ รสชาติเย็นสดชื่นบวกกับสีสันที่สดใสสบายตา ชวนให้หวนนึกถึงความทรงจำอันสวยงามในช่วงวันหยุด เพื่อให้ได้ผลลัพธ์ไล่สีสวยงาม ยังไงก็ห้ามเทผิดลำดับเด็ดขาดเลยนะ!",
+        "vi": "Đồ uống không cồn màu sắc rực rỡ. Giã nát Quả Nhật Lạc và Quả Móc Câu lấy nước, sau đó rót lần lượt vào cốc. Hương vị mát lạnh và màu sắc mát mẻ có thể dễ dàng mang lại những kỷ niệm khó phai trong những ngày lễ. Để tạo hiệu ứng biến đổi dần, tuyệt đối đừng nhầm lẫn thứ tự!"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jack's Map",
+        "de": "Jacks Karte",
+        "chs": "杰克的地图",
+        "cht": "傑克的地圖",
+        "es": "Mapa de Jack",
+        "fr": "Carte de Jack",
+        "id": "Peta Jack",
+        "jp": "ジャックの地図",
+        "kr": "잭의 지도",
+        "pt": "Mapa de Jack",
+        "ru": "Карта Джека",
+        "th": "แผนที่ของ Jack",
+        "vi": "Bản đồ của Jack"
+    },
+    "id": 100602,
+    "materialDesc": {
+        "en": "Jack's map. Huge when unfolded, but currently neatly packed into a box.",
+        "de": "Eine große Landkarte von Jack, die ganz vorsichtig in eine Schachtel gelegt worden ist.",
+        "chs": "杰克的地图。厚厚的一卷地图，细心地装在盒子里。",
+        "cht": "傑克的地圖。厚厚的一捲地圖，細心地裝在盒子裡。",
+        "es": "El mapa de Jack. Al desplegarlo, es enorme, pero se encuentra guardado en una caja.",
+        "fr": "Une grande carte appartenant à Jack. Elle est soigneusement rangée dans une boîte.",
+        "id": "Peta milik Jack. Gulungan peta yang sangat besar, dan dikemas dengan rapi di dalam kotak.",
+        "jp": "ジャックの地図。内容が多そうで、ちゃんと箱の中に保存されている。",
+        "kr": "잭의 지도. 두툼한 지도. 상자에 곱게 들어 있다",
+        "pt": "Mapa do Jack. Enorme quando aberto, mas agora encontra-se guardado em uma caixa.",
+        "ru": "Увесистый рулон бумаги, аккуратно упакованный в коробку.",
+        "th": "แผนที่ของ Jack แผนที่ม้วนหนาที่ตั้งใจเก็บเอาไว้ในกล่องอย่างดี",
+        "vi": "Bản đồ dày cộm của Jack được cất giữ cẩn thận trong hộp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

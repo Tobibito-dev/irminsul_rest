@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Eula's Stella Fortuna",
+        "de": "Stella Fortuna von Eula",
+        "chs": "优菈的命星",
+        "cht": "優菈的命星",
+        "es": "Stella Fortuna de Eula",
+        "fr": "Stella Fortuna d'Eula",
+        "id": "Eula's Stella Fortuna",
+        "jp": "エウルアの星屑",
+        "kr": "유라의 운명의 별",
+        "pt": "Stella Fortuna de Eula",
+        "ru": "Удача Эолы",
+        "th": "ดวงดาวแห่งชีวิตของ Eula",
+        "vi": "Chòm Sao Của Eula"
+    },
+    "id": 1151,
+    "materialDesc": {
+        "en": "Eula's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Eulas Sternbild",
+        "chs": "优菈的命之座激活素材",
+        "cht": "優菈的命之座啟用素材",
+        "es": "Material de activación de constelación de Eula",
+        "fr": "Matériau d'activation de la constellation d'Eula.",
+        "id": "Material aktivasi untuk konstelasi Eula",
+        "jp": "エウルアの命ノ星座アンロック用素材",
+        "kr": "유라의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Eula",
+        "ru": "Материал для активации созвездия Эолы.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Eula",
+        "vi": "Nguyên liệu kích hoạt Cung Mệnh của Eula."
+    },
+    "materialType": "MATERIAL_TALENT"
+}

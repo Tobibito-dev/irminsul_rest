@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Mushroom",
+        "de": "Frischer Champignon",
+        "chs": "新鲜的蘑菇",
+        "cht": "新鮮的蘑菇",
+        "es": "Champiñón fresco",
+        "fr": "Champignon frais",
+        "id": "Mushroom Segar",
+        "jp": "新鮮なキノコ",
+        "kr": "신선한 버섯",
+        "pt": "Cogumelo Fresco",
+        "ru": "Свежий гриб",
+        "th": "Mushroom สด ๆ",
+        "vi": "Nấm Rơm Tươi"
+    },
+    "id": 101538,
+    "materialDesc": {
+        "en": "A mushroom that did not originally grow in this area, but began to grow with wild profusion after absorbing sufficient special nutrition.",
+        "de": "Ein Champignon, der ursprünglich nicht in diesem Gebiet wuchs, aber durch Aufnahme genügend spezieller Nährstoffe wild zu wachsen begann.",
+        "chs": "原本并不在此处生长的蘑菇，因为吸收了充足的特殊养分开始疯长。",
+        "cht": "原本並不在此處生長的蘑菇，因為吸收了充足的特殊養分開始瘋長。",
+        "es": "Un champiñón que no debería haber crecido donde lo hizo. Sin embargo, al absorber los suficientes nutrientes, empezó a crecer desmesuradamente.",
+        "fr": "Un champignon qui ne pousse pas dans cette région à l'origine, mais a commencé à pousser à profusion après avoir absorbé une nutrition spéciale.",
+        "id": "Sebuah jamur yang awalnya tidak tumbuh di area ini, tetapi mulai tumbuh subur setelah menyerap nutrisi khusus yang cukup.",
+        "jp": "本来ここでは育たないキノコ。特殊な栄養を十分に吸収したため、急に増えた。",
+        "kr": "이곳에 서식하지 않던 버섯. 특별한 양분을 충분히 흡수하여 엄청난 속도로 성장했다",
+        "pt": "Um cogumelo que antes não crescia neste local, mas como absorveu muitos nutrientes especiais, começou a crescer sem limites.",
+        "ru": "Эти грибы завезли сюда из другой области. Здесь они начали бурно расти, поскольку получили необходимые питательные вещества.",
+        "th": "เห็ดที่แต่เดิมไม่ได้เติบโตที่นี่ แต่เพราะมันดูดซึมสารอาหารพิเศษเข้าไปเพียงพอ จึงเริ่มเติบโตอย่างมหาศาล",
+        "vi": "Nấm rơm vốn dĩ không mọc ở đây, nhưng do đã hấp thụ đủ chất dinh dưỡng đặc biệt nên bắt đầu sinh trưởng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "id": 100468,
+    "materialDesc": {
+        "en": "A report regarding the hidden treasure of Mt. Qingce.",
+        "de": "Ein Bericht über den geheimen Schatz vom Qingce-Berg.",
+        "chs": "写着关于轻策山密藏的情报",
+        "cht": "寫著關於輕策山密藏的情報",
+        "es": "Reporte del tesoro escondido del Monte Chingtsé",
+        "fr": "Un rapport sur le trésor caché des Monts Qingce.",
+        "id": "Laporan mengenai harta karun yang tersembunyi di Mt.Qingce.",
+        "jp": "軽策山の秘宝に関する情報が記されている",
+        "kr": "경책산에 숨겨진 보물에 관한 정보가 쓰여있다",
+        "pt": "Um relatório sobre o Tesouro Oculto do Monte Qingce.",
+        "ru": "Доклад о скрытом сокровище горы Цинцэ.",
+        "th": "ข้อมูลที่เขียนเกี่ยวกับหุบเขาขุมทรัพย์ Qingce",
+        "vi": "Tin tình báo liên quan đến kho báu bí ẩn Khinh Sách Sơn"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

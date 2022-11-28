@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Onibudou",
+        "de": "Onibudou",
+        "chs": "鬼武道",
+        "cht": "鬼武道",
+        "es": "El espíritu marcial",
+        "fr": "Onibudo",
+        "id": "Onibudou",
+        "jp": "鬼武道",
+        "kr": "귀무도",
+        "pt": "Espírito Marcial",
+        "ru": "Онибудо",
+        "th": "ศาสตร์การต่อสู้ของโอนิ",
+        "vi": "Quỷ Võ Đạo"
+    },
+    "id": 101560,
+    "materialDesc": {
+        "en": "A standalone volume from the light novel series \"Onibudou,\" written by Junkichi, a writer with Yae Publishing House. This collection contains the first two major arcs in the story. The quality of the serialized version varies quite a bit, but it still enjoys a degree of popularity amongst readers.",
+        "de": "Ein Buch, das von Junkichi geschrieben und vom Verlagshaus Yae veröffentlicht wurde. Es ist die einbändige Version der kurzen Erzählung „Onibudou“ und enthält die ersten beiden Kapitel der Geschichte. Die Qualität der Zeitungsroman-Version ist unter dem Strich eher nur mittelmäßig, aber sie ist immer noch beliebt bei den Lesern.",
+        "chs": "由八重堂的作家顺吉所著，是轻小说《鬼武道》的单行本，收录了故事最初的两大篇章。其连载版本质量参差不齐，但在读者中仍有着一定的人气。",
+        "cht": "由八重堂的作家順吉所著，是輕小說《鬼武道》的單行本，收錄了故事最初的兩大篇章。其連載版本品質參差不齊，但在讀者中仍有著一定的人氣。",
+        "es": "Un libro escrito por Junkichi y publicado por la Editorial Yae. Es la versión en un solo tomo de la novela ligera «El espíritu marcial» y contiene los dos primeros capítulos de la historia. La calidad de la versión serializada muestra algunos altibajos, pero sigue siendo popular entre los lectores.",
+        "fr": "Un volume indépendant de la série de romans légers « Onibudo » écrite par Junkichi, un auteur de la Chambre Yae. Celui-ci contient les deux premiers arcs majeurs de l'histoire. La qualité des chapitres sérialisés varie, mais la série reste bien appréciée par les lecteurs.",
+        "id": "Novel \"Onibudou\" terbitan Yae Publishing House dalam bentuk monograf (tamat/lengkap dalam satu jilid) yang ditulis oleh Junkichi. Koleksi ini berisi dua cerita besar pertama. Kualitas versi serial buku ini sedikit bervariasi, tapi masih cukup populer di kalangan pembaca.",
+        "jp": "八重堂の作家順吉による、娯楽小説『鬼武道』の単行本。物語の最初の2章が書かれている。その連載版の質は上下するが、それでも読者から一定の人気を得ている。",
+        "kr": "야에 출판사의 작가 쥰키치가 쓴 라이트 노벨 《귀무도》의 단행본, 이야기의 첫 두 장이 쓰여 있다. 그 연재판의 질은 들쭉날쭉하지만, 독자들에게는 여전히 인기다",
+        "pt": "Um livro escrito por Junkichi da Editora Yae. É um volume único da light novel \"Espírito Marcial\" e contém os dois primeiros capítulos da história. A qualidade da saga tem tido seus altos e baixos, mas permanece popular entre os leitores.",
+        "ru": "Отдельный том из серии лёгких романов «Онибудо», написанный Дзюнкити, писателем издательского дома Яэ. В этом сборнике содержатся первые две основные линии сюжета. Качество отдельных выпусков сильно различается, но серия по-прежнему пользуется популярностью среди читателей.",
+        "th": "\"ศาสตร์การต่อสู้ของโอนิ\" ไลท์โนเวลที่เขียนโดย Junkichi แห่งสำนักพิมพ์ Yae โดยเรื่องราวในช่วงแรกนั้นมีมาถึงสองฉบับแล้ว และคุณภาพของฉบับต่อเนื่องนั้นไม่มีความสม่ำเสมอสักเท่าไหร่นัก แต่ก็ยังเป็นที่นิยมจากผู้อ่าน",
+        "vi": "Tác phẩm của tác gia Junkichi thuộc Nhà Xuất Bản Yae, là một trích đoạn từ tiểu thuyết ngắn \"Quỷ Võ Đạo\", bao gồm nội dung hai chương đầu của câu chuyện. Tuy chất lượng không ổn định nhưng vẫn có chỗ đứng nhất định trong lòng độc giả."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

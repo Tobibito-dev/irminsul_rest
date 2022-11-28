@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Varunada Lazurite Chunk",
+        "de": "Varunada-Lasurit-Brocken",
+        "chs": "涤净青金块",
+        "cht": "滌淨青金塊",
+        "es": "Trozo de lazurita varunada",
+        "fr": "Morceau de lazurite varunada",
+        "id": "Varunada Lazurite Chunk",
+        "jp": "澄明なラピスラズリ·塊",
+        "kr": "순수한 청금석 덩이",
+        "pt": "Pedaço de Lazurita Varunada",
+        "ru": "Кусок лазурита Варунада",
+        "th": "Varunada Lazurite Chunk",
+        "vi": "Miếng Thanh Kim Sạch"
+    },
+    "id": 104123,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"My ideals have no stains.\\nI must correct you. People here bear no sins in the eyes of the gods...\"",
+        "de": "Material für den Figurenaufstieg.\\n„Meine Ideale sind vollkommen klar.“\\n„Ich muss dich berichtigen. Die Menschen hier werden für ihre Sünden nicht von den Göttern gerichtet ...“",
+        "chs": "角色突破素材。\\n「我的理想之内并没有一丝污浊。\\n「我要纠正你，在这里，人并不对神背负罪孽…」",
+        "cht": "角色突破素材。\\n「我的理想之內並沒有一絲污濁。」\\n「我要糾正你，在這裡，人並不對神背負罪孽…」",
+        "es": "Material de ascensión de personaje.\\n“Mis ideales son inmaculados”.\\n“Permíteme que te corrija. Aquí, la gente no carga con pecados a ojos de los dioses, pues solo las leyes y el Tribunal pueden juzgar a las personas”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Mes idéaux sont purs. »\\n« Je me dois de te corriger : personne ici n'est impur aux yeux des dieux... »",
+        "id": "Material Ascension Karakter.\\n\"Ideologiku tidak bernoda.\"\\n\"Aku harus membenarkanmu. Orang-orang di sini tidak berdosa di mata para Dewa...\"",
+        "jp": "キャラクターの突破用アイテム。\\n「吾の理想には一片の穢れも無い。」\\n「正そうか、ここでは、人間は神に罪を背負わん…」",
+        "kr": "캐릭터 돌파 소재.\\n「나의 이상에는 한 치의 혼탁함도 존재하지 않는다」\\n「난 너를 바로잡을 것이다. 이곳에서 인간은 신에게 심판 받지 않는다…」",
+        "pt": "Material de Ascensão de Personagem.\\n\"Meus ideais são intocados.\"\\n\"Eu preciso corrigir você. As pessoas aqui não cometem erros diante dos olhos dos deuses...\"",
+        "ru": "Материал возвышения персонажа.\\n«Мои идеалы кристально чисты!»\\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны...»",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\n\"ไม่มีความสกปรกแม้แต่น้อยในอุดมคติของฉัน\"\\nฉันต้องการที่จะแก้ไขสิ่งที่เธอคิด ที่นี่มนุษย์ไม่ได้ทำบาปต่อพระเจ้า...",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Trong lý tưởng của ta không có chút vấy bẩn nào.\"\\n\"Tôi phải đính chính với bạn, ở nơi này, người không phải gánh vác tội lỗi nào với Thần...\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

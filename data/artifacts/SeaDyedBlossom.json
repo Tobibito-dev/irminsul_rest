@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Sea-Dyed Blossom",
+        "de": "Meerfarbene Blüte",
+        "chs": "海染之花",
+        "cht": "海染之花",
+        "es": "Flor Marina",
+        "fr": "Fleur de teinte marine",
+        "id": "Sea-Dyed Blossom",
+        "jp": "海染の花",
+        "kr": "바다에 물든 꽃",
+        "pt": "Flor Tingida Pelo Mar",
+        "ru": "Цветок морских красок",
+        "th": "Sea-Dyed Blossom",
+        "vi": "Hoa Đại Dương"
+    },
+    "id": 23599,
+    "setId": 15022,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

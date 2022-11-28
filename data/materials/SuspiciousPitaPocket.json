@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Pita Pocket",
+        "de": "Misslungener Taschenfladen",
+        "chs": "奇怪的口袋饼",
+        "cht": "奇怪的口袋餅",
+        "es": "Döner kebab extraño",
+        "fr": "Snack pita (suspect)",
+        "id": "Suspicious Pita Pocket",
+        "jp": "微妙なピタ",
+        "kr": "이상한 포켓 피타",
+        "pt": "Pão Pita Estranho",
+        "ru": "Странная пита",
+        "th": "Pita Pocket รสประหลาด",
+        "vi": "Bánh Túi Kỳ Lạ"
+    },
+    "id": 108406,
+    "materialDesc": {
+        "en": "A bread with varied fillings. The pastry shell feels like sand, and the firm fillings present an unpleasant color... Only a lost traveler who has been starving for days would willingly accept this Pita Pocket.",
+        "de": "Fladenbrot mit vielfältigen Füllungen. Die Kruste fühlt sich auf der Zunge sandig an und dann ist da noch die verhärtete Füllung, welche ihre ursprüngliche Farbe verloren hat ... Wahrscheinlich würde nur eine Person, die tagelang herumgeirrt ist, das Wagnis auf sich nehmen, etwas Derartiges zu verzehren.",
+        "chs": "内馅多样的面饼。粗糙的饼皮像沙砾一般磨过舌尖，加上已经失去原有色泽的干硬内馅…恐怕只有饿了三天的迷路之人才愿意接受这样一份食物。",
+        "cht": "內餡多樣的麵餅。粗糙的餅皮像沙礫一般磨過舌尖，加上已經失去原有色澤的乾硬內餡…恐怕只有餓了三天的迷路之人才願意接受這樣一份食物。",
+        "es": "Un pan de pita con variedad de rellenos. El pan crudo deja una textura áspera sobre la lengua, y el relleno seco y duro ha perdido su color. Parece que solo alguien hambriento y perdido durante tres días estaría dispuesto a aceptar una comida así.",
+        "fr": "Une galette de pain contenant de la garniture en tout genre. Le pain râpe la langue comme du gravier, et il faut ajouter à cela la garniture sèche et dure qui a perdu toute sa couleur d'origine... Seul un voyageur égaré qui n'a pas mangé depuis trois jours accepterait de goûter ça.",
+        "id": "Roti pipih dengan berbagai macam isi. Kulit rotinya yang kering terasa seperti pasir saat menyentuh lidah, ditambah dengan isi roti yang sudah kehilangan warna aslinya ... Sepertinya hanya orang kelaparan yang sudah tersesat selama tiga hari tiga malam yang mau makan makanan seperti ini.",
+        "jp": "色んなものが入ったピタ。粗い皮は砂利のように舌の上で砕け、中身は色を失い乾ききっている…こんな食事を喜んで食べるのは、道に迷って三日ばかり腹を空かせた者だけだろう。",
+        "kr": "다양한 고기가 들어간 밀가루 빵. 빵의 거친 표면은 모래처럼 혀끝을 스치고 속 재료는 본연의 광택을 잃고 딱딱하게 말라 버렸다…. 길을 잃고 삼일 정도 헤맨 사람이라면 간신히 먹을 수 있을 듯하다",
+        "pt": "Um Pão Pita com vários recheios. O pão cru deixa uma textura áspera na língua e o recheio seco e duro perdeu a sua cor. Parece que só alguém faminto e perdido por dias estaria disposto a aceitar esta refeição.",
+        "ru": "Лепёшка с начинками на любой вкус. Жёсткое тесто царапает язык, словно щебёнка, да и начинка в пите давно заветрилась... На такое угощение польстится разве что заблудившийся путник, который три дня ничего не ел.",
+        "th": "ขนมปังสอดไส้ต่าง ๆ เนื้อสัมผัสหยาบกระด้างราวกับก้อนกรวด มาพร้อมกับไส้ในที่แข็งกระด้างและสีซีดจาง... เกรงว่าคงจะมีแต่คนที่หิวจัดเพราะไม่ได้กินอะไรมาสามวันแล้วเท่านั้นถึงจะเต็มใจยอมรับอาหารชิ้นนี้",
+        "vi": "Một chiếc bánh mì với nhiều loại nhân khác nhau. Lớp vỏ sần sùi như có sạn nơi đầu lưỡi, thêm vào phần nhân khô cứng mất đi màu sắc ban đầu... E là chỉ có những người đi lạc bị đói ba ngày mới chấp nhận nổi món ăn này."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

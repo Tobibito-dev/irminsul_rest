@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Mixed Yakisoba",
+        "de": "Misslungene gemischte Yakisoba",
+        "chs": "奇怪的什锦炒面",
+        "cht": "奇怪的什錦炒麵",
+        "es": "Yakisoba con verdura extraños",
+        "fr": "Yakisoba (suspectes)",
+        "id": "Suspicious Mixed Yakisoba",
+        "jp": "微妙な焼きそば",
+        "kr": "이상한 야채 볶음면",
+        "pt": "Yakisoba Misto Estranho",
+        "ru": "Странная якисоба",
+        "th": "Mixed Yakisoba รสประหลาด",
+        "vi": "Mì Xào Thập Cẩm Kỳ Lạ"
+    },
+    "id": 108291,
+    "materialDesc": {
+        "en": "One of Inazuma's common household dishes. Both the noodles and the side dishes show signs of having been burned black, testament to the tragedy that must have befallen earlier.",
+        "de": "Eine in Inazuma übliche Haushaltskost. Sowohl die Nudeln als auch die Beilagen zeigen Anzeichen, dass sie schwarz verbrannt wurden, Zeugnis der Tragödie, die sich zuvor ereignet haben muss.",
+        "chs": "稻妻的家常料理之一。面条与配菜上焦黑的痕迹，暗示着刚刚发生过的惨案。",
+        "cht": "稻妻的家常料理之一。麵條與配菜上焦黑的痕跡，暗示著剛剛發生過的慘案。",
+        "es": "Un típico plato casero de Inazuma. El color carbón de los fideos y la verdura es la prueba fehaciente de la masacre que ha ocurrido al cocinarlos.",
+        "fr": "Un plat typique d'Inazuma fait maison. Les nouilles et l'accompagnement ont été brûlés, témoignant de la tragédie qui a dû se produire en cuisine.",
+        "id": "Masakan rumahan yang umum di Inazuma. Baik mi dan menu pendamping yang berwarna agak kehitaman, membuktikan kalau sebuah tragedi telah terjadi saat masakan ini dibuat.",
+        "jp": "稲妻の家庭料理の一つ。麺と具についた黒焦げの跡は、先ほど起こった惨事を物語っている。",
+        "kr": "이나즈마의 가정식 중 하나. 다소 그을린 자국이 있는 면발과 고명이 방금 전의 참사를 암시하는 듯하다",
+        "pt": "Um prato comum das casas de Inazuma. Tanto o macarrão quanto os acompanhamentos estão queimados, prova da tragédia que deve ter ocorrido antes.",
+        "ru": "Одно из самых распространённых блюд Инадзумы. Лапша и овощи пригорели, намекая о недавно произошедшей катастрофе.",
+        "th": "หนึ่งในอาหารบ้าน ๆ ของ Inazuma รอยไหม้ของบะหมี่และเครื่องเคียง แสดงให้เห็นถึงโศกนาฏกรรมที่เพิ่งเกิดขึ้นก่อนหน้านี้",
+        "vi": "Một trong những món ăn thường ngày của Inazuma. Cả tô mỳ và món ăn kèm đều có dấu hiệu bị cháy, cho thấy thảm kịch vừa mới xảy ra trước đó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Atomic Energy Orb (Electro)",
+        "de": "Kernenergiekugel (Elektro)",
+        "chs": "原子能量球(电)",
+        "cht": "原子能量球(雷)",
+        "es": "Orbe de energía atómica (Electro)",
+        "fr": "Orbe d'énergie atomique (Électro)",
+        "id": "Atomic Energy Orb (Electro)",
+        "jp": "原子エネルギーボール(雷)",
+        "kr": "원자 에너지 오브(번개)",
+        "pt": "Orbe de Energia Atômico (Electro)",
+        "ru": "Сфера атомной энергии (Электро)",
+        "th": "Atomic Energy Orb (Electro)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Điện)"
+    },
+    "id": 2020,
+    "materialDesc": {
+        "en": "Atomic Energy Orb (Electro)",
+        "de": "Kernenergiekugel (Elektro)",
+        "chs": "原子能量球(电)",
+        "cht": "原子能量球(雷)。",
+        "es": "Orbe de energía atómica (Electro)",
+        "fr": "Orbe d'énergie atomique (Électro)",
+        "id": "Atomic Energy Orb (Electro)",
+        "jp": "元素エネルギーボール(雷)",
+        "kr": "원자 에너지 오브(번개)",
+        "pt": "Orbe de Energia Atômico (Electro)",
+        "ru": "Сфера атомной энергии (Электро)",
+        "th": "Atomic Energy Orb (Electro)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Điện)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

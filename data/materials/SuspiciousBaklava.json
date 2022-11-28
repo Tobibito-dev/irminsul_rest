@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Baklava",
+        "de": "Misslungenes Baklava",
+        "chs": "奇怪的千层酥酥",
+        "cht": "奇怪的千層酥酥",
+        "es": "Baklava extraño",
+        "fr": "Baklava (suspect)",
+        "id": "Suspicious Baklava",
+        "jp": "微妙なバクラヴァ",
+        "kr": "이상한 바클라바",
+        "pt": "Baklava Estranho",
+        "ru": "Странная пахлава",
+        "th": "Baklava รสประหลาด",
+        "vi": "Baklava Kỳ Lạ"
+    },
+    "id": 108451,
+    "materialDesc": {
+        "en": "A traditional Sumeru dessert. The sickly sweetness explodes in your mouth like a bomb, leaving your teeth rattling in the wake of its saccharine shockwave. The appropriate amount of sweetness lifts the spirits, but too much of it becomes a terrible burden.",
+        "de": "Eine traditionelle Süßspeise Sumerus. Ein ungestüm süßer Angriff entfaltet sich wie die Explosion einer Granate im Mund und versetzt selbst die Zähne in leichte Schmerzen ... Eine angemessene Menge Zucker macht fröhlich, aber eine solch überbordende Menge ist kaum zu ertragen.",
+        "chs": "传统的须弥甜点。甜腻的冲击宛若炸弹一般，在嘴里爆裂开，甚至让牙齿隐隐发痛…适当的糖分能使人心情愉悦，一旦过量却会成为难以承受的负担。",
+        "cht": "傳統的須彌甜點。甜膩的衝擊宛若炸彈一般，在嘴裡爆裂開，甚至讓牙齒隱隱發痛…適當的糖分能使人心情愉悅，一旦過量卻會成為難以承受的負擔。",
+        "es": "Un postre tradicional de Sumeru. El dulce es como una bomba que estalla en tu boca dejando los dientes doloridos... El azúcar es agradable en cantidades adecuadas, pero en exceso puede volverse insoportable.",
+        "fr": "Un dessert traditionnel sumérien. Son sucre excessif explose en bouche comme une bombe, laissant vos gencives virevolter dans le sillage de son onde de choc édulcorée. Une quantité appropriée de sucre remonte le moral, mais une quantité démesurée devient un terrible fardeau...",
+        "id": "Makanan pencuci mulut tradisional dari Sumeru. Rasa manisnya yang berlebiban langsung meledak di mulut seperti layaknya bom dan membuat gigi gemeretak karena kemanisannya. Rasa manis dalam jumlah yang tepat bisa membangkitkan semangat dan suasana hati, namun jumlah yang berlebihan malah akan menjadi beban yang mengerikan.",
+        "jp": "スメールの伝統的なデザート。甘い衝撃はまるで口の中ではじける爆弾のようで、歯まで痛くなってしまう…適度な糖分は気分を良くしてくれるが、多すぎると耐え難いほど重い…",
+        "kr": "수메르의 전통 디저트. 달콤함이 폭탄처럼 입안에서 터져 치아가 은근히 아플 정도다… 적당한 당분은 기분을 즐겁게 하지만, 과하면 감당하기 힘든 부담이 될 것이다",
+        "pt": "Uma sobremesa tradicional de Sumeru. A doçura explode em sua boca como uma bomba, doendo levemente os seus dentes. Geralmente, doçura é bom para se animar, mas muito dela se torna insuportável.",
+        "ru": "Традиционный десерт Сумеру. Приторная сладость производит сахарный взрыв во рту, оставляя зубы дребезжащими от её сладостной ударной волны. Уместное количество сладости поднимает настроение, но чрезмерное употребление становится тяжким трудом.",
+        "th": "ขนมหวานดั้งเดิมของ Sumeru ทั้งหวานเลี่ยนและมันเยิ้มราวกับลูกระเบิดที่แตกซ่านอยู่ในปาก ถึงขั้นทำให้ปวดฟันได้เลยทีเดียว... ความหวานในปริมาณที่เหมาะสมนั้น ทำจิตใจเบิกบานได้ แต่หากมากเกินไปก็จะกลายเป็นภาระที่ยากเกินจะรับไหว",
+        "vi": "Món tráng miệng Sumeru truyền thống. Vị ngọt béo ngậy như một quả bom nổ tung trong miệng, thậm chí khiến răng đau âm ỉ... Lượng đường phù hợp có thể khiến người ta cảm thấy dễ chịu, nhưng một khi quá nhiều đường thì khó mà chịu được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

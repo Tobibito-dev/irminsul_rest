@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Selva Salad",
+        "de": "Misslungener Selva-Salat",
+        "chs": "奇怪的雨林沙拉",
+        "cht": "奇怪的雨林沙拉",
+        "es": "Ensalada tropical extraña",
+        "fr": "Salade de selve (suspecte)",
+        "id": "Suspicious Selva Salad",
+        "jp": "微妙な雨林サラダ",
+        "kr": "이상한 우림 샐러드",
+        "pt": "Salada Tropical Estranha",
+        "ru": "Странный тропический салат",
+        "th": "Selva Salad รสประหลาด",
+        "vi": "Salad Nhiệt Đới Kỳ Lạ"
+    },
+    "id": 108397,
+    "materialDesc": {
+        "en": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Ripe — \"slightly fermented\" to be more precise — Zaytun Peaches give off a bizarre smell. And this is to say nothing of the disproportionate use of mints and roses...",
+        "de": "Aranara-Salat, dessen Rezept Paimon nach vielen Gedanken verfeinert hat. Ähnliche Rezepte sind in Sumeru jedoch schon lange verbreitet. Darin gibt es Zaytun-Pfirsich mit fast schon überreifem, merkwürdigen Geschmack. Minze und Sumeru-Rose scheinen ein wenig unausgewogen zu sein.",
+        "chs": "经过派蒙苦思冥想改良后的兰那罗沙拉，但实际上在须弥却是早已有之的做法。墩墩桃散发着近乎熟烂到发酵的古怪味道，薄荷与蔷薇的比例也相当失衡…",
+        "cht": "經過派蒙苦思冥想改良後的蘭那羅沙拉，但實際上在須彌卻是早已有之的做法。墩墩桃散發著近乎熟爛到發酵的古怪味道，薄荷與薔薇的比例也相當失衡…",
+        "es": "Una ensalada típica aranara que Paimon ha refinado minuciosamente, pero cuya preparación en realidad se remonta a muchos años atrás en Sumeru. La duraznoliva emite un olor extraño, casi como si se hubiera cocinado hasta el punto de fermentación, y la proporción de menta y rosa está bastante desequilibrada.",
+        "fr": "Une salade aranarienne typique. Paimon s'est creusé la tête pour essayer d'améliorer ce plat en dépit du fait que la recette d'origine soit utilisée depuis longtemps à Sumeru. Les pêches zaytuns dégagent une odeur étrange, presque comme si elles avaient moisi au point de fermenter, tandis que les proportions de menthe et de rose sont déséquilibrées...",
+        "id": "Salad bergaya Aranara yang dikembangkan mati-matian oleh Paimon. Tapi sebenarnya resep hidangan ini sudah ada di Sumeru sejak dulu. Zaytun Peach yang matang, atau lebih tepatnya sudah \"mulai berfermentasi\", mengeluarkan aroma yang sedikit aneh. Lalu ditambah dengan proporsi daun Mint dan bunga mawar yang tidak pas ....",
+        "jp": "パイモンが目を瞑り、長いこと思い悩んだ末に改良したアランナラサラダだが——実はスメールで古くから流行していた調理法。しかし…ザイトゥン桃は熟しきって発酵したような変な匂いがするし、ミントとローズのバランスもかなり悪い…",
+        "kr": "페이몬이 고심 끝에 개량한 아란나라의 샐러드. 하지만 수메르에는 이미 똑같은 레시피의 샐러드가 있었다. 뚠뚠 복숭아가 숙성을 넘어서 발효에 가까운 이상한 냄새를 풍기고 있으며 허브와 장미의 비율도 균형을 잃었다…",
+        "pt": "Uma salada estilo Aranara que Paimon quebrou a cabeça para melhorar. É, na verdade, uma receita bastante tradicional em Sumeru. Maduro, \"levemente fermentado\" para ser mais preciso, os Pêssegos Zaytun exalam um cheiro exótico. E isso para não falar do uso desproporcional de Mentas e Rosas...",
+        "ru": "Салат аранар, улучшенный стараниями Паймон. Хотя на самом деле в Сумеру давно знакомы с таким рецептом. От персиков зайтун пахнет так странно, будто они уже забродили. А мята и розовые лепестки добавлены в неверной пропорции...",
+        "th": "Salad สไตล์ Aranara ที่ Paimon ทุ่มเทมันสมองปรับปรุงขึ้นมา แต่แท้จริงกลับเป็นสูตรที่ทาง Sumeru มีมาแต่เนิ่นนานแล้ว Zaytun Peach ส่งกลิ่นแปลกประหลาดคล้ายสุกงอมใกล้เน่าเต็มที สัดส่วนของ Mint และ Rose เองก็ดูเหมือนจะไม่สมดุลกันเอาซะเลย...",
+        "vi": "Một món salad kiểu Aranara đã được Paimon vắt óc suy nghĩ để cải thiện, nhưng thật ra công thức này khá truyền thống ở Sumeru. Đào Zaytun toát ra một mùi kỳ lạ gần như chín đến lên men, và tỷ lệ giữa bạc hà và tường vi cũng khá mất cân đối..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

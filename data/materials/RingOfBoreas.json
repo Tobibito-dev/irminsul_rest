@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ring of Boreas",
+        "de": "Ring des Nordwinds",
+        "chs": "北风之环",
+        "cht": "北風之環",
+        "es": "Anillo de Boreas",
+        "fr": "Vertèbre de Borée",
+        "id": "Ring of Boreas",
+        "jp": "北風のリング",
+        "kr": "북풍의 고리",
+        "pt": "Cálice do Vento Norte",
+        "ru": "Кольцо Борея",
+        "th": "Ring of Boreas",
+        "vi": "Móng Vuốt Bắc Phong"
+    },
+    "id": 113007,
+    "materialDesc": {
+        "en": "A bit of crystallized ice from the Great Wolf King of the North.\\nThis land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. Though his power may have diminished, he could still freeze the land in an instant.",
+        "de": "Einige Eiskristalle vom großen Wolf des Nordens.\\nDurch dieses Land pfiff einst der eiskalte Wind des Nordens. Wie scharfkantiger Kies sausten die Eiskristalle durch die Luft. Nackte Haut zerschlitzten sie in ihrem wilden Tanz und das Blut erstarrte im Nu. Heute ist der Wolf des Nordens zwar nur noch ein Schatten seiner selbst. Er besitzt aber immer noch die Kraft, das gesamte Land mit Schnee zu bedecken.",
+        "chs": "从北风的伟大王狼身上，取来的些许凝冰。\\n这片大地曾经北风呼啸，呼气凝霜。如砂砾的冰与雪在寒风中嚣叫，飞舞着将肌肤撕裂，让血液凝结。如今的北风王狼力量虽然不如往昔，却仍有能将大地冰封的力量。",
+        "cht": "從北風的偉大王狼身上，取來的些許凝冰。\\n這片大地曾經北風呼嘯，呼氣凝霜。如砂礫的冰與雪在寒風中囂叫，飛舞著將肌膚撕裂，讓血液凝結。如今的北風王狼力量雖然不如往昔，卻仍有能冰封大地的力量。",
+        "es": "Un poco de hielo cristalizado del gran Rey Lobo del Norte.\\nEsta tierra fue una vez un reino de ventiscas gélidas y tormentas de hielo llenas de fragmentos de hielo afilados como cuchillas, todo a las órdenes de Boreas. Aunque sus poderes hayan disminuido, puede congelar la tierra fácilmente.",
+        "fr": "Un peu de glace provenant du corps du Grand Roi Loup du Nord.\\nIl déclenchait des blizzards et des tempêtes de neige à la grêle si acérée qu'elle pouvait couper la chair. Ses pouvoirs ne sont plus ceux d'antan, mais il possède encore la puissance de recouvrir ses terres de neige.",
+        "id": "Sebongkah es kristal dari Great Wolf King of the North.\\nDaratan ini sebelumnya merupakan tempat yang selalu dilanda badai salju dan dipenuhi potongan es yang tajam, semuanya bergerak atas kehendak Boreas. Meskipun kekuatannya sudah meredup, tetapi angin dingin masih berembus di daratan ini.",
+        "jp": "北風の王狼の体から取ったごくわずかな氷。\\nこの大地はかつて北風に吹かれ、氷霜に包まれていた。砂利のような氷と雪は寒風の中で叫び、肌を裂き、血を固まらせる。今の北風の王狼の力は昔より劣るが、大地を凍らせるほどの力はまだある。",
+        "kr": "북풍의 위대한 왕랑의 몸에서 얻은 약간의 얼음.\\n예전에는 북풍이 울부짖고 서리를 내쉬었던 대지였다. 우박과 눈이 살을 찢고 피를 얼릴 듯이 매섭게 내린다. 현재 왕랑의 힘은 예전 같지 않지만 여전히 대지를 얼려버릴 수 있을 만큼 강력하다",
+        "pt": "Condensado de gelo vindo do corpo do Grande Lobo do Vento do Norte.\\nNeste pedaço de terra, soprou-se o vento do norte congelante. O gelo e a neve rasgam a pele, deixando o sangue se condensar. Embora a força do Grande Lobo do Vento do Norte não seja tão boa quanto costumava ser, ele ainda possui o poder de congelar a terra.",
+        "ru": "Кристаллизованный лёд Великого Короля Волков Севера.\\nВо времена правления Борея в этих землях царили замораживающие кровь в венах бури и метели из острых как бритва ледяных осколков. Сейчас же Борея покинула почти вся его сила, но заморозить землю он всё ещё может лишь моргнув глазом.",
+        "th": "หยดน้ำแข็งเพียงเล็กน้อยที่ได้มาจากหมาป่าแห่งสายลมเหนือ\\nในอดีตดินแดนแห่งนี้เคยเป็นดินแดนที่หนาวเย็นมาก แม้แต่ลมหายใจยังแทบจะกลายเป็นหยดน้ำแข็ง แต่ทว่าในทุกวันนี้พลังของหมาป่าแห่งลมเหนือนั้นกลับไม่ได้แข็งแกร่งดังเช่นในอดีตอีกต่อไป",
+        "vi": "Một chút băng lấy từ trên người Vua Sói Bắc Phong.\\nNơi này từng có gió bắc lạnh giá thổi qua, khiến cho người ta lạnh buốt da khi bay. Hiện nay sức mạnh Vua Sói tuy không được như trước, nhưng vẫn đủ để khiến nơi này đóng băng."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

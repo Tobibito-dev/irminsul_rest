@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Bag of Mora",
+        "de": "Beutel voll Mora",
+        "chs": "一袋摩拉",
+        "cht": "一袋摩拉",
+        "es": "Saco de Mora",
+        "fr": "Bourse de moras",
+        "id": "Sekantong Mora",
+        "jp": "1袋のモラ",
+        "kr": "모라 한 주머니",
+        "pt": "Uma Bolsa de Mora",
+        "ru": "Кошелёк с деньгами",
+        "th": "ถุง Mora",
+        "vi": "1 túi Mora"
+    },
+    "id": 100713,
+    "materialDesc": {
+        "en": "A bag of Mora. Not the heaviest, but one would not mind finding it on the street.",
+        "de": "Ein Beutel voll Mora. Er ist zwar nicht sonderlich schwer, aber auch nicht gerade leicht.",
+        "chs": "一袋摩拉。虽然不算重，但也不算轻。",
+        "cht": "一袋摩拉。雖然不算重，但也不算輕。",
+        "es": "Una bolsa con Mora. No es muy pesada, pero tampoco ligera.",
+        "fr": "Un sac de moras. Pas le plus lourd, mais cela ne vous dérangerait pas de le trouver dans la rue.",
+        "id": "Sekantong Mora. Tidak begitu berat, tetapi tidak enteng juga.",
+        "jp": "1袋のモラ。重くもないし軽くもない。",
+        "kr": "모라 한 주머니. 무겁지도 가볍지도 않다",
+        "pt": "Um saco de Mora. Não é muito pesado, mas também não é leve.",
+        "ru": "Кошелёк с морой. Он вовсе не тяжёлый, но и не лёгкий.",
+        "th": "ถุง Mora ที่ถึงแม้จะไม่หนักแต่ก็ไม่เบานัก",
+        "vi": "Một túi Mora. Tuy không nặng nhưng cũng không nhẹ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Purple Shirakodai",
+        "de": "Lila Schmetterlingsfisch",
+        "chs": "流纹京紫蝶鱼",
+        "cht": "流紋京紫蝶魚",
+        "es": "Pez mariposa violeta",
+        "fr": "Poisson-papillon violet",
+        "id": "Purple Shirakodai",
+        "jp": "紫チョウチョウウオ",
+        "kr": "자색 나비고기",
+        "pt": "Shirakodai Roxo",
+        "ru": "Пурпурная рыба-бабочка",
+        "th": "Purple Shirakodai",
+        "vi": "Cá Bướm Vân Tím"
+    },
+    "id": 131014,
+    "materialDesc": {
+        "en": "A gentle, elegant butterflyfish variant. It has a lovely, streamlined dorsal fin, and has the nickname \"Queen of the Waters.\"\\nLovely purple patterns run across its body, and they love to swim together in schools to fend off natural dangers and predators. But once this quirk of theirs was grasped by seasoned fisherpeople, they realized that all one needed to do was to lure a single fish into the trap, and all the rest would follow.",
+        "de": "Eine sanfte, elegante Schmetterlingsfisch-Variante. Er hat eine schöne, stromlinienförmige Rückenflosse und trägt den Spitznamen „Königin der Gewässer“.\\nWunderschöne lila Muster ziehen sich über ihren Körper und sie lieben es, in Schwärmen zusammen zu schwimmen, um natürliche Gefahren und Räuber abzuwehren. Aber sobald diese Eigenart von erfahrenen Fischern begriffen wurde, erkannten sie, dass man nur einen einzigen Fisch in die Falle locken musste, und alle anderen würden folgen.",
+        "chs": "性情温和，姿态优雅的蝶鱼，拥有流线型的美丽背鳍，又有「水中王后」的美誉。体表环绕着京紫色纹路，喜好群居，以此来抵抗环境和天敌的危险。但这种习性被老道的渔师摸透后，便成了反过来捕捉它们的良方——只要想办法将头鱼引进陷阱，剩下的家伙就坐看它们自投罗网就好。",
+        "cht": "性情溫和，姿態優雅的蝶魚，擁有流線型的美麗背鰭，又有「水中王后」的美譽。體表環繞著京紫色紋路，喜好群居，以此來抵抗環境和天敵的危險。但這種習性被老道的漁師摸透後，便成了反過來捕捉牠們的良方——只要想辦法將頭魚引進陷阱，剩下的傢伙就坐看牠們自投羅網就好。",
+        "es": "Una subespecie grácil y elegante del pez mariposa. Tiene una aleta dorsal muy bonita y la llaman “reina de los mares”.\\nSu cuerpo luce motivos de color violeta y le gusta nadar en bancos con sus compañeros para defenderse de los peligros y de los depredadores. Pero una vez que los pescadores se dieron cuenta de esto, descubrieron que lo único que tenían que hacer era atraer a un pez a su trampa y todos los demás irían detrás.",
+        "fr": "Élégant poisson-papillon au caractère amène, qui affiche une magnifique nageoire dorsale profilée et répond également au surnom de « reine des eaux ».\\nCe poisson ornemental d'une agréable teinte magenta possède un instinct grégaire particulièrement développé, ce qui explique qu'il soit en première ligne lorsqu'il s'agit de protéger l'espèce contre les dangers de l'environnement ou contre les prédateurs naturels. Hélas, cette particularité est depuis longtemps connue de tout pêcheur qui se respecte, et constitue un talon d'Achille de taille contre les ardeurs de ces derniers, qui savent bien qu'il suffit pour le capturer de piéger un de ses congénères pour voir une multitude de ces poissons-papillons se jeter d'eux-mêmes dans les filets.",
+        "id": "Varian ikan kupu-kupu yang lembut dan elegan. Mereka memiliki sirip punggung yang indah dan ramping, serta julukan \"Ratu Perairan\".\\nPola-pola berwarna ungu menghiasi sekujur tubuhnya, dan mereka lebih suka hidup berkelompok demi menghindari bahaya lingkungan dan pemangsa. Namun ketika karakteristik ini dipahami oleh para nelayan yang berpengalaman, para nelayan itu bisa menangkap mereka dengan mudahnya saja — cukup pancing seekor ikan ke dalam perangkap, maka ikan-ikan lainnya secara otomatis akan mengikuti ikan yang sudah masuk perangkap barusan.",
+        "jp": "温厚な性格と優雅な姿を持つチョウチョウウオ。流線形の背びれが美しく、「水中の女王」という名を持つ。体の表面に京紫の模様があり、群れで行動することで、環境と天敵からの危険を防ぐ。しかし、この習性がベテランの漁師に知られた後、これはかえって彼らを捕まえる良いヒントとなった——魚のリーダーを罠に導けば、残りのやつらが自ら罠に入ってくるのを待っているだけでいい。",
+        "kr": "성격이 온화하고 자태가 우아한 나비고기. 유선형의 아름다운 등지느러미를 가지고 있으며, 「물의 여왕」으로 불린다. 외피는 자색 무늬로 되어있다. 무리 생활을 선호하며, 이를 통해 환경과 천적의 위험에 대항한다. 하지만 노련한 낚시꾼은 이 습성을 절호의 포획 찬스로 여긴다ㅡ우두머리를 함정에 유인한다면, 남은 녀석들은 손을 쓰지 않아도 스스로 함정에 빠질 것이다",
+        "pt": "Um gentil e elegante peixe borboleta. Possui uma adorável barbatana dorsal, e possui o apelido \"Rainha das Águas\".\\nPadrões adoráveis roxos percorrem o seu corpo, e eles adoram nadar juntos para afastar inimigos naturais e predadores. Mas quando essa característica sua foi compreendida por pescadores experientes, perceberam que tudo que precisavam fazer era atrair um único peixe para a armadilha, e todos os demais seguiriam.",
+        "ru": "Рыба-бабочка. Обладает кротким нравом, изящной внешностью, красивыми спинными плавниками. Также известна как «подводная королева». Её туловище покрыто фиолетовыми линиями. Предпочитает жить в группе, чтобы было легче противостоять опасностям окружающей среды и естественным врагам. Опытные рыбаки обернули это в свою пользу: стоит лишь заманить в сеть вожака, как весь косяк тут же поплывёт за ним.",
+        "th": "ปลาผีเสื้อที่มีนิสัยอ่อนโยน และท่วงท่าสง่างาม มันมีครีบหลังที่สวยงาม และเป็นที่รู้จักกันในชื่อ \"ราชินีแห่งน้ำ\" อีกด้วย\\nพวกมันมีลวดลายสีม่วงงดงามตามลำตัว และพวกมันชอบที่จะว่ายน้ำรวมกันเป็นฝูงเพื่อป้องกันอันตรายจากสิ่งแวดล้อมและผู้ล่า แต่เมื่อชาวประมงผู้มากประสบการณ์ได้รับรู้ถึงนิสัยของมันแล้ว กลับกลายเป็นว่าค้นพบวิธีสุดเจ๋งในการจับมัน สิ่งที่ต้องทำมีเพียงล่อปลาที่เป็นจ่าฝูงเข้าไปในกับดัก แล้วที่เหลือทั้งหมดก็จะตามมา",
+        "vi": "Cá bướm với tính cách hiền lành, dáng điệu tao nhã, có vây lưng suôn dài đẹp mắt, còn được mệnh danh là \"Nữ hoàng của nước\".\\nBề mặt cơ thể được bao quanh bởi vân tím, thích sống thành đàn để chống lại sự nguy hiểm của môi trường và thiên địch. Nhưng thói quen này đã được những người câu cá sành sỏi nắm tẩy, nên chỉ cần dụ con cá đầu đàn vào bẫy, thì những con còn lại cũng sẽ tự sa vào lưới."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

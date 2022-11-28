@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ward",
+        "de": "„Omamori“",
+        "chs": "「镇物」",
+        "cht": "「鎮物」",
+        "es": "Amuleto",
+        "fr": "Amulette",
+        "id": "Jimat Penangkal",
+        "jp": "「鎮め物」",
+        "kr": "「주술 도구」",
+        "pt": "Amuleto",
+        "ru": "Оберег",
+        "th": "\"เครื่องราง\"",
+        "vi": "\"Vật Trấn Giữ\""
+    },
+    "id": 100769,
+    "materialDesc": {
+        "en": "A ward retrieved from within the kitsune-shaped sculpture within the abandoned shrine north of Konda Village.\\nAccording to Hanachirusato, these wards are required to conduct rites of purification.",
+        "de": "Ein „Omamori“, das aus der fuchsförmigen Statue im verlassenen Schrein nördlich des Dorfes Konda geborgen wurde.\\nLaut Hanachirusato wird dieses „Omamori“ angewendet, um Reinigungsriten durchzuführen.",
+        "chs": "在绀田村北面的荒废神社中，从狐狸造型的雕像中，取得的「镇物」。\\n根据「花散里」的说法，需要利用这种镇物来实行净化的工作。",
+        "cht": "在紺田村北面的荒廢神社中，從狐狸造型的雕像中取得的「鎮物」。\\n根據「花散里」的說法，淨化的工作需要用到這種鎮物。",
+        "es": "Un amuleto obtenido de la estatua de zorro situada cerca del santuario abandonado en el norte de la Aldea Konda.\\nSegún Hanachirusato, se trata de un objeto utilizado para realizar purificaciones.",
+        "fr": "Une amulette récupérée à l'intérieur de la sculpture en forme de renard du sanctuaire abandonné au nord du Village de Konda.\\nSelon Hanachirusato, ces amulettes sont nécessaires pour le rituel de purification.",
+        "id": "Jimat penangkal yang diambil dari patung rubah di kuil terbengkalai yang terletak di utara Desa Konda.\\nMenurut Hanachirusato, penangkal ini diperlukan untuk ritual pemurnian.",
+        "jp": "紺田村の北の廃れた神社にある、狐の形をした彫像から得た「鎮め物」。\\n「花散里」によると、浄化の際にこのような鎮め物を使っているらしい。",
+        "kr": "콘다 마을 북쪽의 황폐한 신사, 여우 모양을 한 조각상에서 획득한 「주술 도구」\\n「하나치루사토」의 말에 따르면, 이러한 주술 도구로 정화를 진행해야 된다고 한다",
+        "pt": "Um Amuleto encontrado dentro da escultura em forma de raposa localizada no santuário abandonado ao nordeste da Vila Konda.\\nDe acordo com Hanachirusato, essas proteções são necessárias para conduzir ritos de purificação.",
+        "ru": "Оберег, взятый из статуи в форме лисы в заброшенном святилище к северу от деревни Конда.\\nПо словам Ханатирусато, этот оберег нужен для ритуала очищения.",
+        "th": "\"เครื่องราง\" ที่ได้จากรูปสลักสุนัขจิ้งจอกในศาลเจ้าร้างทางทิศเหนือของหมู่บ้าน Konda\\nตามคำกล่าวของ Hanachirusato จะต้องใช้เครื่องรางแบบนี้ในการประกอบพิธีชำระล้าง",
+        "vi": "Vật trấn giữ được lấy từ bức tượng hình hồ ly trong ngôi đền hoang ở phía bắc Làng Konda.\\nTheo cách nói của Hanachirusato, cần phải dùng vật trấn giữ này để tiến hành thanh tẩy."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Grain of Aerosiderite",
+        "de": "Körnchen pechschwarzer Aerosiderit",
+        "chs": "漆黑陨铁的一粒",
+        "cht": "漆黑隕鐵的一粒",
+        "es": "Grano de siderita oscura",
+        "fr": "Grain d'aérosidérite noire",
+        "id": "Grain of Aerosiderite",
+        "jp": "漆黒の隕鉄の一粒",
+        "kr": "흑운철 한 알",
+        "pt": "Grão de Aerosiderite",
+        "ru": "Зерно чёрного сидерита",
+        "th": "Grain of Aerosiderite",
+        "vi": "Hạt Thiên Thạch Đen"
+    },
+    "id": 114021,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nA black meteor once fell beyond Liyue's Sea of Clouds, said to have fallen to vanquish a monster. However, it was stained by powerful tainted blood, so this item no longer possesses the pure power of Rex Lapis.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nVor langer Zeit ist ein pechschwarzer Meteorit über dem Wolkenmeer von Liyue aus dem Himmel gefallen, angeblich um Monster und Dämonen zu besiegen. Aufgrund des unreinen Blutes, mit dem dieses Metall befleckt ist, übersteigt es die Kräfte von Rex Lapis.",
+        "chs": "赋予武器突破之力的材料。\\n曾经在璃月云来海之外落下过一个漆黑陨铁，据说也是为了降伏魔兽妖物。但是因为沾染了强大的污秽之血，这块材料的特性已经不再是纯粹的岩王帝君之力了。",
+        "cht": "賦予武器突破之力的材料。\\n曾經在璃月雲來海之外落下過一個漆黑隕鐵，據說也是為了降伏魔獸妖物。但是因為沾染了強大的污穢之血，這塊材料的特性已經不再是純粹的岩王帝君之力了。",
+        "es": "Material de ascensión de arma.\\nSe dice que, hace mucho tiempo, un meteorito negro cayó más allá del Mar de Nubes de Liyue para derrotar a un monstruo. Sin embargo, quedó manchado por un tipo de sangre muy poderosa y perdió el poder puro de Rex Lapis.",
+        "fr": "Matériau d'élévation d'arme.\\nD'après la légende, une météorite noire tombée à travers la Mer de nuages de Liyue terrassa un monstre. Elle fut cependant souillée par le sang impur de la créature et perdit le pouvoir divin que lui avait insufflé le Souverain de la Roche.",
+        "id": "Material Ascension Senjata.\\nSebuah meteor hitam dulu jatuh di Sea of Cloud, Liyue, dikatakan bahwa meteor itu jatuh untuk mengalahkan monster. Namun, ternodai oleh darah tercemar yang sangat kuat, sehingga benda ini tidak lagi mempunyai kekuatan suci dari Rex Lapis.",
+        "jp": "武器に突破の力を付与する材料。\\nかつて魔物を退治するために、璃月雲来の海の外に漆黒の隕石が落ちてきた。しかし汚れた血に染めたため、この材料にはもう純粋な岩王帝君の力がなくなっている。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n과거 리월의 운래해에 칠흑의 운철이 떨어졌고 이는 마수를 굴복시키기 위해서라고 한다. 하지만 오염된 피에 물들어 더 이상 순수한 암왕제군의 힘이 깃든 재료가 아니다",
+        "pt": "Material de Ascensão de Armas.\\nUm meteoro preto caiu uma vez além do Mar das Nuvens de Liyue, que supostamente caiu para derrotar um monstro. No entanto, ele foi manchado por um poderoso sangue contaminado, portanto esse item não possui mais o puro poder de Rex Lapis.",
+        "ru": "Материал возвышения оружия.\\nОднажды за Облачным морем упал чёрный метеорит, который должен был уничтожить страшное чудовище. Этот метеорит был осквернён злой кровью чудовища, поэтому в нём больше не осталось божественных сил Властелина Камня.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nอุกกาบาตสีดำที่ครั้งหนึ่งเคยตกลงมาสู่บริเวณรอบนอก Sea of Clouds ของ Liyue ว่ากันว่าเพื่อเป็นการปราบเหล่าอสูร แต่เนื่องจากมันถูกปนเปื้อนไปด้วยเลือดของสิ่งชั่วร้ายที่แข็งแกร่ง ไอเทมนี้จึงไม่ได้ครอบครองพลังบริสุทธิ์ของราชาแห่งหินอีกต่อไป",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nLà thiên thạch màu đen rơi bên ngoài Vân Lai Hải của Liyue, nghe nói là để hàng yêu phục ma. Nhưng do bị nhiễm máu đen, đặc tính của nguyên liệu này đã không còn là sức mạch thuần khiết của Nham Vương Đế Quân nữa."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

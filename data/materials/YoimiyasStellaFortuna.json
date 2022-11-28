@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yoimiya's Stella Fortuna",
+        "de": "Stella Fortuna von Yoimiya",
+        "chs": "宵宫的命星",
+        "cht": "宵宮的命星",
+        "es": "Stella Fortuna de Yoimiya",
+        "fr": "Stella Fortuna de Yoimiya",
+        "id": "Yoimiya's Stella Fortuna",
+        "jp": "宵宮の星屑",
+        "kr": "요이미야의 운명의 별",
+        "pt": "Constelação de Yoimiya",
+        "ru": "Удача Ёимии",
+        "th": "ดวงดาวแห่งชีวิตของ Yoimiya",
+        "vi": "Chòm Sao Của Yoimiya"
+    },
+    "id": 1149,
+    "materialDesc": {
+        "en": "Yoimiya's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Yoimiyas Sternbild",
+        "chs": "宵宫的命之座激活素材",
+        "cht": "宵宮的命之座啟用素材",
+        "es": "Material de activación de constelación de Yoimiya",
+        "fr": "Matériau d'activation de la constellation de Yoimiya.",
+        "id": "Material aktivasi untuk konstelasi Yoimiya",
+        "jp": "宵宮の命ノ星座アンロック用素材",
+        "kr": "요이미야의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Yoimiya",
+        "ru": "Материал для активации созвездия Ёимии.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Yoimiya",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Yoimiya"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

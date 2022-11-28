@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "War Breeds War",
+        "de": "Krieg um Krieg",
+        "chs": "以战养战",
+        "cht": "以戰養戰",
+        "es": "Más guerra",
+        "fr": "Guerre éternelle",
+        "id": "War Breeds War",
+        "jp": "持続戦",
+        "kr": "지속되는 전쟁",
+        "pt": "Guerra Cria Guerra",
+        "ru": "Война есть война",
+        "th": "War Breeds War",
+        "vi": "Chiến Đấu Bền Bỉ"
+    },
+    "id": 200216,
+    "materialDesc": {
+        "en": "For 8s after a character uses an Elemental Burst, Normal Attacks that hit opponents have a 50% chance to generate an Elemental Particle that regenerates 2 Energy. Each character can generate this effect once every 1.7s.",
+        "de": "Erzeugt innerhalb von 8 s nach dem Auslösen von Spezialfähigkeiten bei Treffern mit Standardangriffen der Figur mit einer Wahrscheinlichkeit von 50 % ein Elementarteilchen, das 2 Punkte Elementarenergie wiederherstellen kann. 1,7 s Abklingzeit für jedes auf diese Weise erzeugte Elementarteilchen für jede Figur.",
+        "chs": "角色施放元素爆发后的8秒内，普通攻击命中时有50%几率产生一个能恢复2点元素能量的元素微粒。通过这种方式，每个角色每1.7秒只能产生一个元素晶球。",
+        "cht": "角色施放元素爆發後的8秒內，普通攻擊命中時有50%機率產生一個能恢復2點元素能量的元素微粒。透過這種方式，每個角色每1.7秒只能產生一個元素晶球。",
+        "es": "Durante los 8 s siguientes después de usar una Habilidad Definitiva, al golpear a un enemigo con un Ataque Normal, hay un 50% de probabilidad de producir una partícula elemental que regenera 2 pts. de Energía Elemental. Cada personaje solo puede producir una partícula elemental de esta manera cada 1.7 s.",
+        "fr": "Dans les 8 s qui suivent l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent des ennemis ont 50 % de chances de générer une particule élémentaire qui restaure 2 pts d'énergie. Chaque personnage peut déclencher cet effet une fois toutes les 1,7 s.",
+        "id": "Dalam 8 detik setelah Karakter melancarkan Elemental Burst, Normal Attack yang mengenai musuh memiliki 50% kemungkinan untuk menghasilkan Elemental Particle yang memulihkan 2 Energy. Setiap Karakter hanya dapat memicu efek ini setiap 1,7 detik.",
+        "jp": "キャラクターが元素爆発を発動した後の8秒内、通常攻撃が命中すると50%の確率で元素エネルギーを2回復できる元素粒子を発生させる。この方法での元素粒子の発生は、各キャラクターごとに1.7秒毎に1回のみ発動可能。",
+        "kr": "원소폭발 발동 후 8초 동안 일반 공격이 명중하면, 50%의 확률로 원소 에너지를 2pt 회복할 수 있는 원소 입자를 1개 생성한다. 모든 캐릭터는 해당 방식으로 원소 입자를 1.7초마다 1개만 생성할 수 있다",
+        "pt": "Nos próximos 8s depois de um Personagem liberar o Supremo, acertar um Ataque Normal possui uma chance de 50% de criar uma Partícula Elemental que regenera 2 Pontos de Energia Elemental. Cada Personagem só pode gerar um Orbe Elemental a cada 1,7s dessa maneira.",
+        "ru": "В течение 8 сек. после активации взрыва стихии персонажа есть 50% шанс, что при попадании по врагу обычной атакой появится элементальная частица, которая восстанавливает 2 ед. элементальной энергии. Каждый персонаж может создать этим способом только одну элементальную частицу каждые 1,7 сек.",
+        "th": "ภายใน 8 วินาทีหลังจากที่ตัวละครปล่อยท่าไม้ตาย เมื่อการโจมตีปกติถูกเป้าหมาย จะมีโอกาส 50% จะทำการผลิตอณูธาตุที่สามารถฟื้นฟู 2 หน่วยพลังงานธาตุ ด้วยวิธีนี้ทุก ๆ 1.7 วินาทีตัวละครทุกตัวจะสามารถสร้างลูกแก้วธาตุหนึ่งลูก",
+        "vi": "Trong 8s sau khi kỹ năng nộ của nhân vật trúng đích, đánh thường chính xác sẽ có 50% xác suất tạo ra 1 Nguyên Tố Hạt Nhân có thể hồi phục 2 năng lượng nguyên tố. Thông qua cách này, mỗi nhân vật mỗi 1.7s chỉ có thể sản sinh 1 Nguyên Tố Tinh Cầu."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

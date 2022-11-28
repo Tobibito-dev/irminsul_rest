@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Treasure Map of Giant's Steps",
+        "de": "Schatzkarte der Hünenstufe",
+        "chs": "巨阶的藏宝图",
+        "cht": "巨階的藏寶圖",
+        "es": "Mapa del tesoro de las Escaleras del Gigante",
+        "fr": "Carte au trésor des Marches du Géant",
+        "id": "Peta Harta Giant's Steps",
+        "jp": "巨階の宝蔵図",
+        "kr": "거대 계단의 보물지도",
+        "pt": "Mapa do Tesouro da Escadaria Gigante",
+        "ru": "Карта сокровищ гигантской лестницы",
+        "th": "แผนที่ขุมทรัพย์แห่งขั้นบันไดยักษ์",
+        "vi": "Bản Đồ Kho Báu Cao Cấp"
+    },
+    "id": 100416,
+    "materialDesc": {
+        "en": "A treasure map obtained from Bolai of a hidden treasure somewhere out there...",
+        "de": "Eine Schatzkarte, die du von Bolai bekommen hast. Wo der Schatz wohl versteckt ist?",
+        "chs": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+        "cht": "從博來處得到的藏寶圖，不知道指向何處的寶藏…",
+        "es": "Un mapa del tesoro obtenido de Bolai. No queda claro dónde está el tesoro...",
+        "fr": "Une carte au trésor donnée par Bolai. Le trésor n'est pas indiqué dessus...",
+        "id": "Peta harta karun yang didapat dari Bolai, ke mana peta ini menunjuk ya...",
+        "jp": "博来から入手した宝蔵図、どこの宝物が書かれているか誰も分からない…",
+        "kr": "박래에게서 얻은 보물지도. 어느 곳의 보물을 가리키는지 잘 모르겠다…",
+        "pt": "Um mapa de tesouro obtido de Bolai de um tesouro que está escondido em algum lugar por aí.",
+        "ru": "Карта от Бо Лай, на которой отмечено месторасположение сокровищ",
+        "th": "แผนที่ขุมทรัพย์ที่ได้รับมาจาก Bolai ไม่รู้ว่ามันบอกว่าสมบัติซ่อนอยู่ที่ไหน...",
+        "vi": "Nhận được Bản Đồ Kho Báu từ chỗ Bolai, không biết chỉ hướng kho báu nào..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

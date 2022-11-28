@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Guardian's Sigil",
+        "de": "Wächterabzeichen",
+        "chs": "守护徽印",
+        "cht": "守護徽印",
+        "es": "Insignia del Guardián",
+        "fr": "Plume du Gardien",
+        "id": "Guardian's Sigil",
+        "jp": "守護の印",
+        "kr": "수호의 인장",
+        "pt": "Emblema do Guarda",
+        "ru": "Брошь защитника",
+        "th": "Guardian's Sigil",
+        "vi": "Huy Hiệu Thủ Hộ"
+    },
+    "id": 23487,
+    "setId": 10003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

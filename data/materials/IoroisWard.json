@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ioroi's Ward",
+        "de": "„Omamori“, das Ioroi dir gegeben hat",
+        "chs": "五百藏交给你的「镇物」",
+        "cht": "#五百藏交給{F#妳}{M#你}的「鎮物」",
+        "es": "Amuleto de Ioroi",
+        "fr": "Amulette d'Ioroi",
+        "id": "Jimat Penangkal dari Ioroi",
+        "jp": "五百蔵から渡された「鎮め物」",
+        "kr": "이오로이가 여행자에게 선물한 「주술 도구」",
+        "pt": "Amuleto de Ioroi",
+        "ru": "Оберег Иороя",
+        "th": "\"เครื่องราง\" ที่ Ioroi มอบให้",
+        "vi": "\"Vật Trấn Giữ\" mà Ioroi giao cho bạn"
+    },
+    "id": 100770,
+    "materialDesc": {
+        "en": "A ward given to you by the bake-danuki Ioroi as a sign of thanks. It is shaped like a lovely comb.\\nIoroi once stole this comb to lure \"that sneaky kitsune\" out. As punishment, Ioroi and his companions were sealed into graven stone by \"that dratted fellow.\"\\nAccording to Hanachirusato, these wards are needed to conduct the Sacred Sakura Cleansing Ritual.",
+        "de": "Ein „Omamori“ in Form eines schönen Kammes, das das Bakedanuki Ioroi dir als Zeichen der Dankbarkeit gegeben hat.\\nIoroi hat diesen Kamm einst gestohlen, um „diesen verflixten Fuchs“ herauszulocken. Zur Strafe wurden Ioroi und seine Gefährten von „diesem verflixten Kerl“ in der Steinstatue versiegelt.\\nLaut Hanachirusato wird dieses Omamori benutzt, um das „Sakura-Reinigungsritual“ durchzuführen.",
+        "chs": "妖狸五百藏作为答谢交给你的「镇物」，造型是相当华丽的梳子。\\n五百藏曾经盗走了这把梳子，为了引「那个臭狐狸」现身。作为惩罚，五百藏和他的同伴们被「那个混小子」封在石像当中。\\n根据「花散里」的说法，需要利用这种镇物来进行「神樱大祓」。",
+        "cht": "#妖狸五百藏送給{F#妳}{M#你}當成謝禮的「鎮物」，造型是相當華麗的梳子。\\n五百藏曾經盜走了這把梳子，為了引「那隻臭狐狸」現身。作為懲罰，五百藏和他的同伴們被「那個混小子」封在石像當中。\\n根據「花散里」的說法，進行「神櫻大祓」需要用到這種鎮物。",
+        "es": "Un amuleto obtenido de Ioroi, el tanuki. Tiene la forma de una hermosa peineta.\\nUna vez, Ioroi robó esta peineta para que esa “kitsune escurridiza” apareciera. Como castigo, ese “condenado bribón” los convirtió a él y a sus compañeros en estatuas de piedra.\\nSegún Hanachirusato, estos amuletos se utilizan para llevar a cabo las ceremonias de purificación del Cerezo Sagrado.",
+        "fr": "Une amulette en forme de peigne qui vous a été offerte par le Bake-danuki Ioroi en signe de remerciement.\\nIoroi a autrefois volé ce peigne pour attirer cette « Kitsune sournoise ». En guise de punition, Ioroi et ses compagnons ont été scellés dans la pierre par « ce sale type ».\\nSelon Hanachirusato, ces amulettes sont nécessaires pour le rituel de purification du cerisier sacré.",
+        "id": "Jimat penangkal yang diberikan Ioroi — bake-danuki sebagai tanda terima kasih untukmu. Bentuknya seperti sisir yang sangat indah.\\nIoroi pernah mencuri sisir ini untuk memancing \"rubah terkutuk\" itu keluar. Sebagai hukuman, Ioroi dan rekan-rekannya pun disegel \"si dungu\" ke dalam patung batu.\\nMenurut Hanachirusato, benda penangkal ini dibutuhkan untuk melakukan Ritual Pemurnian Sacred Sakura.",
+        "jp": "謝礼として妖狸の五百蔵からもらった「鎮め物」。非常に華美なくしである。\\n五百蔵はかつて、「あのクソ狐」の姿を現すために、このくしを盗んだ。罰として五百蔵と仲間は「あの野郎」によって石像に封印された。\\n「花散里」によると、「神櫻大祓」の際はこのような鎮め物が必要らしい。",
+        "kr": "너구리 요괴 이오로이가 고마움의 표시로 선물한 「주술 도구」, 무척 화려한 빗이다.\\n이오로이는 과거 이 빗을 훔쳐 「그 망할 여우 녀석」을 유인하려고 했다. 그 벌로, 이오로이와 그의 동료들은 「그놈」에 의해 석상에 봉인되고 만다\\n「하나치루사토」의 말에 따르면, 이러한 주술 도구로 「신성한 벚나무 대액막이」를 진행해야 된다고 한다",
+        "pt": "Um amuleto dado para você por Ioroi como agradecimento. Tem a forma de um delicado pente.\\nIoroi roubou esse pente para atrair \"aquela maldita raposa\". Como punição, Ioroi e seus companheiros foram selados na imagem entalhada na pedra por \"aquele colega desprezível\".\\nDe acordo com Hanachirusato, esses amuletos são necessários para conduzir o Ritual Sagrado de Purificação Sakura.",
+        "ru": "Оберег в форме прекрасного гребня, который дал вам в благодарность бакэ-дануки Иорой.\\nИорой когда-то украл его, чтобы выманить «ту подлую кицунэ». В наказание «эта негодница» превратила Иороя и его друзей в каменные изваяния.\\nПо словам Ханатирусато, этот оберег нужен для ритуала очищения.",
+        "th": "\"เครื่องราง\" ที่ Bake-Danuki Ioroi มอบให้คุณเพื่อเป็นการขอบคุณ เป็นหวีที่มีความสวยงาม\\nครั้งหนึ่ง Ioroi เคยขโมยหวีนี้เพื่อดึงดูด \"เจ้าจิ้งจอกตัวนั้น\" ให้ปรากฏตัว จากนั้นเพื่อเป็นการลงโทษ Ioroi และพรรคพวกของเขาจึงถูก \"เจ้าบ้านั่น\" ผนึกไว้ในรูปปั้น\\nตามคำกล่าวของ Hanachirusato จะต้องใช้เครื่องรางแบบนี้ในการดำเนิน \"พิธีชำระซากุระศักดิ์สิทธิ์\"",
+        "vi": "\"Vật Trấn Giữ\" mà Ioroi tặng bạn làm quà cám ơn, có hình dáng của một chiếc lược đẹp đẽ.\\nIoroi từng cướp chiếc lược này để dụ \"hồ ly thối kia\" hiện thân. Để trừng phạt, Ioroi và đồng bọn đã bị \"tên khốn đó\" phong ấn trong tượng đá.\\nTheo cách nói của \"Hanachirusato\", cần phải dùng vật này để thực hiện \"Tế Lễ Thần Anh Đào\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

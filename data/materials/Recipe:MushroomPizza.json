@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Mushroom Pizza",
+        "de": "Rezept: Pilzza",
+        "chs": "食谱：烤蘑菇披萨",
+        "cht": "食譜：烤蘑菇披薩",
+        "es": "Receta: Pizza de champiñones",
+        "fr": "Recette : Pizza aux champignons",
+        "id": "Resep: Mushroom Pizza",
+        "jp": "レシピ：キノコピザ",
+        "kr": "레시피: 버섯피자",
+        "pt": "Receita: Pizza de Cogumelos",
+        "ru": "Рецепт: Грибная пицца",
+        "th": "สูตรอาหาร: Mushroom Pizza",
+        "vi": "Công Thức: Pizza Nấm Rơm Nướng"
+    },
+    "id": 109207,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Mushroom Pizza.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Pilzza“.",
+        "chs": "步骤详实的食谱，记载着「烤蘑菇披萨」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「烤蘑菇披薩」的製作方法。",
+        "es": "Receta paso a paso para hacer una pizza de champiñones.",
+        "fr": "Étapes de préparation de la pizza aux champignons.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Mushroom Pizza.",
+        "jp": "「キノコピザ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「버섯피자」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo da \"Pizza de Cogumelos\".",
+        "ru": "Подробный рецепт приготовления блюда «Грибная пицца».",
+        "th": "สูตรอธิบายวิธีทำ \"Mushroom Pizza\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Pizza Nấm Rơm Nướng\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

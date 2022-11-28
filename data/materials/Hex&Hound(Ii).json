@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hex & Hound (II)",
+        "de": "Mehr als nur ein Hund II",
+        "chs": "犬又二分之一·二",
+        "cht": "犬又二分之一·二",
+        "es": "Más que un simple perro (II)",
+        "fr": "Plus qu'un chien - II",
+        "id": "Separuh Serigala (II)",
+        "jp": "犬と二分の一·2",
+        "kr": "개와 2분의 1·Ⅱ",
+        "pt": "Hex & Hound (II)",
+        "ru": "Ведьма и гончая. Том II",
+        "th": "เฮ็กซ์ & ฮาวด์-II",
+        "vi": "Mật Ngữ Của Khuyển II"
+    },
+    "id": 100569,
+    "materialDesc": {
+        "en": "Money doesn't solve all your problems, but it can certainly solve a lot of them! A young woman's summer vacation in Mondstadt opens to the melodic tune of a symphonic sum of Mora.",
+        "de": "Mit Geld kann man zwar nicht jedes Problem lösen, aber schon eine ganze Menge! So beginnt der Sommer eines umherziehenden Mädchens mit klimpernden Mora!",
+        "chs": "金钱虽然不能解决一切烦恼，但是真的能解决很多问题！ 以叮当作响的摩拉作为开幕，浪游少女的蒙德夏日物语！",
+        "cht": "金錢雖然不能解決一切煩惱，但是真的能解決很多問題！以叮噹作響的摩拉作為開幕，浪遊少女的蒙德夏日物語！",
+        "es": "Dicen que el dinero no trae la felicidad, ¡pero puede resolver la gran mayoría de los problemas! Las vacaciones de verano de una joven en Mondstadt comienzan con el melódico tintineo de unos Moras.",
+        "fr": "L'argent ne fait pas le bonheur, mais il résout un bon nombre de problèmes ! Suivez les vacances d'été d'une jeune femme à Mondstadt qui débute au son des moras !",
+        "id": "Uang tidak dapat menyelesaikan semua masalah, tapi sebagian besar masalah bisa diselesaikan dengan uang! Seorang wanita muda yang sedang berlibur di Mondstadt mulai bernyanyi dengan didampingi bunyi gemerincing Mora.",
+        "jp": "お金で全ての悩みを解決できないが、ほとんどの悩みはお金で解決できる！モラがチリンチリンと鳴り、漫遊する少女のモンドの夏物語が幕を開く！",
+        "kr": "돈으로 모든 걱정을 해결할 수는 없지만 수많은 문제들을 해결할 수 있다! 짤랑거리는 모라를 시작으로 유랑하는 소녀의 몬드의 여름 이야기가 시작된다",
+        "pt": "O dinheiro não resolve todos os seus problemas, mas certamente pode resolver muitos deles! As férias de verão de uma jovem em Mondstadt começa com a melodia de uma soma sinfônica de Mora.",
+        "ru": "Деньги всех проблем не решат, но со значительной их частью помогут! Под мелодичный перезвон моры начинается летнее путешествие девушки по Мондштадту!",
+        "th": "แม้ว่าเงินทองจะไม่สามารถแก้ปัญหาได้ทุกอย่าง แต่ก็สามารถแก้ปัญหาได้มากมายเสียจริง! เรื่องราวการท่องเที่ยวในหน้าร้อนของหญิงสาวชาว Mondstadt เริ่มต้นขึ้นด้วยเสียงกรุ๊งกริ๊งของ Mora!",
+        "vi": "Tiền bạc không thể giải quyết tất cả phiền não, nhưng có thể giải quyết rất nhiều vấn đề! Câu chuyện mùa hè Mondstadt của thiếu nữ rong chơi sẽ bắt đầu bằng âm vang leng keng của đồng Mora!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

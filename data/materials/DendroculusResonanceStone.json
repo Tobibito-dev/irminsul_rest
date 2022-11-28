@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dendroculus Resonance Stone",
+        "de": "Dendroculus-Resonanzstein",
+        "chs": "草神瞳共鸣石",
+        "cht": "草神瞳共鳴石",
+        "es": "Roca de resonancia de dendróculus",
+        "fr": "Pierre de résonance Dendroculus",
+        "id": "Dendroculus Resonance Stone",
+        "jp": "草神の瞳の共鳴石",
+        "kr": "풀의 신의 눈동자 공명석",
+        "pt": "Pedra de Ressonância de Dendroculus",
+        "ru": "Камень эха дендрокула",
+        "th": "Dendroculus Resonance Stone",
+        "vi": "Đá Cộng Hưởng Thảo Thần Đồng"
+    },
+    "id": 220057,
+    "materialDesc": {
+        "en": "A stone that can be used in Sumeru to search for nearby Dendroculi.\\nA curious amulet of a similar nature to the Dendro Statues of The Seven. By the same token, it is drawn to Dendroculi.\\nIn the world, there are grass and trees, vines and flowers — living beings of Dendro Element that abound in diverse shapes and forms. Though differing in appearance and various other aspects, they were born from the same land and will return to the same land.",
+        "de": "Ein Stein, der in Sumeru verwendet werden kann, um nach Dendroculi in der Nähe zu suchen.\\nEin seltsames Amulett, das den Dendro-Statuen der Sieben ähnlich ist. Es wird ebenfalls von Dendroculi angezogen.\\nIn der Welt gibt es Gras, Bäume, Reben, Blumen und Lebewesen aus der Dendro-Kraft in den verschiedensten Formen und Ausprägungen. Obwohl sie sich im Aussehen und in vielen anderen Aspekten unterscheiden, wurden sie aus demselben Land geboren und werden in dasselbe Land zurückkehren.",
+        "chs": "在须弥使用时，能寻找附近的「散失的草神瞳」。\\n具有与草之七天神像相似性质的奇特护符。因此，也会被草元素的神瞳所吸引。\\n芳草与树木、藤蔓与花，仰赖草元素的生命具有诸多形态。尽管有着形态的差别，尽管生命与生命是具有隔阂的，但来自同一片大地的，最终也会回归同一片大地。",
+        "cht": "在須彌使用時，能尋找附近的「散失的草神瞳」。\\n具有與草之七天神像相似性質的奇特護符。因此，也會被草元素的神瞳所吸引。\\n芳草與樹木、藤蔓與花，仰賴草元素的生命具有諸多形態。儘管有著形態的差別，儘管生命與生命是具有隔閡的，但來自同一片大地的，最終也會回歸同一片大地。",
+        "es": "Puede utilizarse en Sumeru para encontrar dendróculus en las cercanías.\\nUn particular amuleto protector con cualidades similares a las de las Estatuas de Los Siete Dendro, razón por la cual siente atracción por los dendróculus.\\nPlantas, árboles, enredaderas, flores... Los seres vivos que dependen del elemento Dendro tienen todo tipo de formas. Aunque sean de formas distintas y tampoco se parezcan en otros aspectos, los seres que proceden de un mismo lugar acabarán por volver a él.",
+        "fr": "Utilisez cet objet à Sumeru pour localiser les Dendroculus proches de vous.\\nUne amulette de protection qui produit des effets similaires aux Statues des Sept Dendro, ce qui explique qu'elle soit attirée par les Dendroculus.\\nDes plantes, des arbres, des lianes, ou encore des fleurs... Les formes de vie qui dépendent de l'élément Dendro se présentent sous diverses formes. Bien qu'elles diffèrent par leur apparence et divers autres aspects, elles sont toutes nées de la même terre et finiront toutes par y retourner.",
+        "id": "Ketika digunakan di Sumeru, dapat membantu untuk menemukan \"Dendroculus\".\\nSebuah jimat dengan kekuatan yang mirip dengan Patung the Seven Dendro yang terkandung di dalamnya sehingga dapat menarik Dendroculus ke arahnya juga\\nRumput dan pepohonan, tumbuhan merambat dan bunga, kehidupan yang bergantung pada elemen Dendro terdiri dari berbagai macam bentuk. Meskipun ada perbedaan bentuk, meskipun ada perbedaan jarak antar kehidupan tersebut, mereka yang berasal dari tanah yang sama, pada akhirnya akan kembali ke tanah yang sama.",
+        "jp": "スメールで使用することで、近くにある「失われた草神の瞳」を探知できる。\\n草の七天神像と似たような性質を持つお守り。そのため、草元素の神の瞳に引き寄せられる。草と木、ツル草と花…草元素に頼る生命には、数多くの形態がある。たとえ形が違っても、そして生命とその区分が違っても、同じ大地から生まれたものは、やがて同じ大地に還る。",
+        "kr": "수메르에서 사용하면 근처의 「잃어버린 풀의 신의 눈동자」를 찾을 수 있다.\\n풀의 일곱신상과 비슷한 성질을 가진 특이한 부적. 풀 원소의 신의 눈동자에 끌린다.\\n향긋한 풀과 나무, 넝쿨과 꽃처럼 풀 원소에 의지하는 생명은 수많은 형태를 가지고 있다. 각자 형태도 다르고 생명과 생명 사이에는 장벽이 존재하지만, 같은 대지에서 태어난 것은 결국 같은 대지로 돌아가기 마련이다",
+        "pt": "Uma pedra que pode ser utilizada em Sumeru para procurar por Dendroculus perdidos.\\nUm amuleto peculiar com qualidades similares as Estátuas dos Sete Dendro. Por isso, é atraído para os Dendroculus.\\nNesse mundo há grama e árvores, videiras e flores — seres vivos Dendro em diversos tamanhos e formas. Apesar de aparências diferentes e vários outros aspectos, todos nasceram da mesma terra, e todos retornarão para ela.",
+        "ru": "Камень, который можно использовать в Сумеру для поиска дендрокулов неподалёку.\\nЭтот любопытный амулет по своей природе схож со статуями Дендро Архонта, из-за чего дендрокулы притягивают его к себе.\\nТрава и деревья, лианы и цветы - живые существа, воплощающие элемент Дендро, могут принимать различные формы. Хотя их внешний вид и другие характеристики могут отличаться, все они родились из земли и в неё же вернутся.",
+        "th": "เมื่อใช้ใน Sumeru จะสามารถหา Dendroculus ในบริเวณใกล้เคียงได้\\nเครื่องรางแปลกประหลาดที่มีคุณสมบัติพิเศษคล้ายกับ Statue of The Seven แห่งพฤกษา ดังนั้นจึงมักถูกดึงดูดโดย Oculus ของธาตุไม้\\nสมุนไพรและต้นไม้ เถาวัลย์และดอกไม้ ชีวิตที่พึ่งพิงธาตุไม้นั้นมีอยู่หลากหลายรูปแบบ และแม้จะมีรูปแบบที่แตกต่าง หรือแม้จะมีช่องว่างระหว่างชีวิตและชีวิต แต่หากมาจากผืนดินแห่งเดียวกัน สุดท้ายก็ต้องหวนกลับไปยังผืนดินถิ่นกำเนิดเดิม",
+        "vi": "Khi sử dụng ở Sumeru, có thể tìm kiếm \"Thảo Thần Đồng\" xung quanh.\\nMột loại bùa hộ mệnh đặc biệt có các đặc tính tương tự như Thất Thiên Thần Tượng Thảo. Vì vậy cũng sẽ bị Thần Đồng nguyên tố Thảo hấp dẫn.\\nCỏ và cây, dây leo và hoa, sinh mệnh phụ thuộc vào nguyên tố Thảo có nhiều dạng. Dù có khác nhau về hình thức, dù có khoảng cách giữa sinh mệnh với sinh mệnh, nhưng cùng đến từ một nơi, cuối cùng cũng sẽ trở về cùng một nơi."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

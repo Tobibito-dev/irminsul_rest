@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lucky Dog's Clover",
+        "de": "Glücksklee",
+        "chs": "幸运儿绿花",
+        "cht": "幸運兒綠花",
+        "es": "Trébol de Cuatro Hojas del Afortunado",
+        "fr": "Trèfle du Chanceux",
+        "id": "Lucky Dog's Green Flower",
+        "jp": "幸運のクローバー",
+        "kr": "행운아의 네 잎 클로버",
+        "pt": "Flor Verde do Sortudo",
+        "ru": "Клевер везунчика",
+        "th": "Lucky Dog's Clover",
+        "vi": "Hoa May Mắn"
+    },
+    "id": 61444,
+    "setId": 10011,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sohreh's Note",
+        "de": "Sohrehs Notiz",
+        "chs": "索赫蕾的笔记",
+        "cht": "索赫蕾的筆記",
+        "es": "Notas de Sohreh",
+        "fr": "Note de Sohreh",
+        "id": "Catatan Sohreh",
+        "jp": "ソホレのノート",
+        "kr": "소흐레의 메모",
+        "pt": "Notas de Sohreh",
+        "ru": "Записка Сохре",
+        "th": "บันทึกของ Sohreh",
+        "vi": "Nhật Ký Của Sohreh"
+    },
+    "id": 120039,
+    "materialDesc": {
+        "en": "Sohreh's Note",
+        "de": "Sohrehs Notiz",
+        "chs": "索赫蕾的笔记",
+        "cht": "索赫蕾的筆記",
+        "es": "Unas notas escritas por Sohreh.",
+        "fr": "Note de Sohreh",
+        "id": "Catatan Sohreh",
+        "jp": "ソホレのノート",
+        "kr": "소흐레의 메모",
+        "pt": "Notas de Sohreh",
+        "ru": "Записка Сохре",
+        "th": "บันทึกของ Sohreh",
+        "vi": "Nhật Ký Của Sohreh"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

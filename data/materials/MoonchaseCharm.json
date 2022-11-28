@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Moonchase Charm",
+        "de": "Mondjagd-Amulett",
+        "chs": "逐月符",
+        "cht": "逐月符",
+        "es": "Talismán lunar",
+        "fr": "Amulette sélénite",
+        "id": "Moonchase Charm",
+        "jp": "月逐い符",
+        "kr": "축월 부적",
+        "pt": "Amuleto Lunar",
+        "ru": "Амулет Лунной охоты",
+        "th": "Moonchase Charm",
+        "vi": "Bùa Trục Nguyệt"
+    },
+    "id": 107015,
+    "materialDesc": {
+        "en": "These jade talismans have been placed in various areas by the Adventurers' Guild. They are made from crystal-clear and gently lustrous Plaustrite Shards. It is said that these talismans contain the essence of the bright white moon and store the reminiscences that people have of festivals past.",
+        "de": "Diese Talismane wurden von der Abenteurergilde in verschiedenen Gebieten platziert. Sie sind aus kristallklarem und sanft glänzende Plaustritbröckchen gefertigt. Man sagt, dass diese Talismane die Essenz des hellen, weißen Mondes enthalten und die Erinnerungen der Menschen an vergangene Feste speichern.",
+        "chs": "由冒险家协会布设在各地的玉符，以「浮生石片」雕琢而成，光泽温润，晶莹剔透。据说这种玉符凝聚着皓月的精华，寄托着人们对往日佳节的追思，意义非凡。",
+        "cht": "由冒險家協會佈設在各地的玉符，以「浮生石片」雕琢而成，光澤溫潤，晶瑩剔透。據說這種玉符凝聚著皓月的精華，寄託著人們對往日佳節的追思，意義非凡。",
+        "es": "Unos brillantes y cristalinos talismanes distribuidos por todas partes por el Gremio de Aventureros y creados con fragmentos de plaustrita. Dicen que contienen la esencia de la luna y las reminiscencias de otros antiguos festivales.",
+        "fr": "Ce genre d'amulette sculptée à partir d'un fragment de plaustrite présente un éclat chaleureux et une clarté cristalline. Elle contiendrait l'essence de la lune et renfermerait les souvenirs festifs d'une grande importance.",
+        "id": "Jimat tersebut sudah diletakkan di berbagai tempat oleh Adventurers' Guild. Mereka dibuat dari Plaustrite sebening kristal dan berkilau lembut. Dikatakan bahwa jimat tersebut mengandung esensi cahaya bulan putih dan menyimpan kenangan yang dimiliki orang-orang tentang festival di masa lalu.",
+        "jp": "冒険者協会によって各地に設けられた玉佩。「浮生の石片」で彫り上げた。光沢感があり、透き通っている。この玉佩には皓月の精華が凝縮され、人々の佳節への記憶が託されているため、特別な意味があるようだ。",
+        "kr": "모험가 길드가 각지에 설치한 옥빛 부적, 「부유석 파편」을 조각하여 만든 것으로 광택이 부드럽고 투명하다. 이러한 옥빛 부적은 밝은 달의 정수가 응집되어 과거 명절에 대한 사람들의 그리움이 담겨 있어 특별한 의미가 있다고 한다",
+        "pt": "Estes Amuletos foram colocados em vários lugares pela Guilda de Aventureiros. Eles são feitos de Plaustrite cristalina e suavemente lustrosa. Dizem que estes Amuletos contêm a essência da brilhante lua branca e armazenam a reminiscência que as pessoas têm dos festivais passados.",
+        "ru": "Эти талисманы были размещены в различных местах Гильдией искателей приключений. Они сделаны из кристально чистого блестящего плаустрита. Говорят, что в них заключена сущность яркой белой луны, и они хранят воспоминания людей о прошедших праздниках.",
+        "th": "เครื่องรางที่ถูกนำไปใช้ในสถานที่ต่าง ๆ โดยกิลด์นักผจญภัย มันแกะสลักมาจาก Plaustrite Shard ที่มีความแวววาวและใสราวกับคริสตัล ว่ากันว่าเครื่องรางเหล่านี้ได้รวมแก่นแท้ของพระจันทร์ที่สว่างสดใส และบรรจุความทรงจำของผู้คนเกี่ยวกับเทศกาลในอดีต ซึ่งมีความสำคัญอย่างมาก",
+        "vi": "Bùa do Hiệp Hội Nhà Mạo Hiểm bố trí ở các nơi, được điêu khắc từ Phù Sinh Thạch, mặt đá trơn bóng, trong suốt lung linh. Nghe nói loại bùa này ngưng tụ tinh hoa của mặt trăng, gửi gắm trong đó sự hoài niệm về quá khứ của mọi người, vô cùng ý nghĩa."
+    },
+    "materialType": "MATERIAL_ELEM_CRYSTAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Supersized Firework",
+        "de": "Supergroßes Feuerwerk",
+        "chs": "特大号烟花",
+        "cht": "特大號煙花",
+        "es": "Mega-fuego artificial",
+        "fr": "Feu d'artifice géant",
+        "id": "Kembang Api Super Besar",
+        "jp": "特大版花火",
+        "kr": "초대형 폭죽",
+        "pt": "Fogo de Artifício Gigante",
+        "ru": "Большой фейерверк",
+        "th": "ดอกไม้ไฟขนาดใหญ่",
+        "vi": "Pháo Hoa Khổng Lồ"
+    },
+    "id": 101545,
+    "materialDesc": {
+        "en": "Yoimiya's pride and joy as the current owner of Naganohara Fireworks. It still seems to be in an experimental state. Nothing's going to go wrong... right?",
+        "de": "Yoimiyas ganzer Stolz als aktuelle Inhaberin von Naganoharas Feuerwerksartikeln. Es scheint noch in einem experimentellen Zustand zu sein. Da kann doch nichts schiefgehen ... oder?",
+        "chs": "「长野原烟花店」现任店长宵宫的得意之作，但似乎还是试做品…应该不会出事…的吧？",
+        "cht": "「長野原煙花店」現任店長宵宮的得意之作，但似乎還是試做品…應該不會出事…的吧？",
+        "es": "La creación de la que Yoimiya, la actual dueña de Pirotecnia Naganohara, se siente más orgullosa. Parece un objeto de prueba... Supongo que no causará ningún accidente... ¿cierto?",
+        "fr": "Une œuvre de Yoimiya, la propriétaire des Feux de Naganohara. C'est encore un prototype, alors rien de grave ne devrait se passer... normalement.",
+        "id": "Kebanggaan Yoimiya sebagai pemilik dari Naganohara Fireworks. Sepertinya masih dalam tahap masa percobaan. Tapi pasti tidak akan terjadi apa-apa, kan...?",
+        "jp": "「長野原花火屋」現店主である宵宮の自信作。まだ試作品のようだが…きっと問題ない…だろう…",
+        "kr": "「나가노하라 폭죽가게」 현직 점장 요이미야의 야심작. 하지만 아직 시제품인 듯한데… 이대로 터뜨려도 괜찮은… 거겠지?",
+        "pt": "A criação de Yoimiya que ela tem mais orgulho como dona da Fogos de Artifício Naganohara. Ainda parece estar em um estágio experimental. Talvez não cause nenhum problema, não é?",
+        "ru": "Гордость и радость Ёимии как нынешнего владельца «Фейерверков Наганохары». Экспериментальный образец. Ведь всё пройдёт как надо... верно?",
+        "th": "ดอกไม้ไฟที่เป็นความภาคภูมิใจของ Yoimiya ผู้เป็นเจ้าของร้านดอกไม้ไฟ Naganohara คนปัจจุบัน ดูเหมือนว่ามันยังเป็นสินค้าที่อยู่ในระยะทดลองอยู่... คงไม่มีอะไรผิดพลาดหรอก... มั้ง?",
+        "vi": "Là sản phẩm đáng tự hào của Yoimiya, chủ Tiệm Pháo Hoa Naganohara, nhưng có vẻ như nó vẫn chỉ là một sản phẩm thử nghiệm...chắc là không xảy ra chuyện gì...đâu nhỉ?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

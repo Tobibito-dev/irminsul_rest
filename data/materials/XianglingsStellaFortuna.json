@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xiangling's Stella Fortuna",
+        "de": "Stella Fortuna von Xiangling",
+        "chs": "香菱的命星",
+        "cht": "香菱的命星",
+        "es": "Stella Fortuna de Xiangling",
+        "fr": "Stella Fortuna de Xiangling",
+        "id": "Xiangling's Stella Fortuna",
+        "jp": "香菱の星屑",
+        "kr": "향릉의 운명의 별",
+        "pt": "Stella Fortuna de Xiangling",
+        "ru": "Удача Сян Лин",
+        "th": "ดวงดาวแห่งชีวิตของ Xiangling",
+        "vi": "Chòm Sao Của Xiangling"
+    },
+    "id": 1123,
+    "materialDesc": {
+        "en": "Xiangling's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Xianglings Sternbild",
+        "chs": "香菱的命之座激活素材",
+        "cht": "香菱的命之座啟用素材。",
+        "es": "Material de activación de constelación de Xiangling",
+        "fr": "Matériau d'activation de la constellation de Xiangling.",
+        "id": "Material aktivasi untuk konstelasi Xiangling",
+        "jp": "香菱の命ノ星座アンロック用素材",
+        "kr": "향릉의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Xiangling",
+        "ru": "Материал для активации созвездия Сян Лин.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Xiangling",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Xiangling"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

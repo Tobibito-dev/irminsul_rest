@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pop's Teas",
+        "de": "Große Schüssel Tee",
+        "chs": "大碗茶",
+        "cht": "大碗茶",
+        "es": "Tazón de té",
+        "fr": "Tasse de thé",
+        "id": "Pop's Teas",
+        "jp": "大椀のお茶",
+        "kr": "대왕차",
+        "pt": "Xícara de Chá",
+        "ru": "Пиала чая",
+        "th": "Pop's Teas",
+        "vi": "Chén Trà Lớn"
+    },
+    "id": 108148,
+    "materialDesc": {
+        "en": "Tea from Liyue. After a grueling trek around the vast region of Liyue, there's nothing more rejuvenating than a big swig of tea from Pop's Teas.",
+        "de": "Spezieller Tee aus Liyue. Eine Reise durch die schier endlosen Landschaften Liyues kann ausgesprochen mühsam sein. Triffst du unterwegs auf einen Stand, bei dem es eine große Schüssel frischen Tee gibt, wird dich nichts davon abhalten können, dich dem Genuss hinzugeben.",
+        "chs": "璃月特色的茶饮。在幅员辽阔的璃月旅行可是一件苦差事，所以当你看到卖大碗茶的茶摊时，只会期望它的茶碗越大越好。",
+        "cht": "璃月特色的茶飲。在幅員遼闊的璃月旅行可是一件苦差事，所以看到賣大碗茶的茶攤時，只會期望它的茶碗越大越好。",
+        "es": "Té típico de Liyue. Tras un agotador viaje por la vasta región de Liyue, no hay nada más revitalizador que un sorbo de este tazón de té.",
+        "fr": "Une boisson typique de Liyue. Explorer une région aussi vaste que Liyue demande de l'énergie, et on aimerait que chaque tasse de thé que l'on prend sur la route soit de plus en plus grande.",
+        "id": "Teh khas Liyue. Setelah perjalanan yang melelahkan di sekitar wilayah Liyue yang luas, tidak ada yang lebih menyegarkan lagi daripada meneguk teh dari kios teh.",
+        "jp": "璃月の名物飲み物。領土が広い璃月で旅するのは大変なことである。故に大椀茶の容器が大きいほど助かる。",
+        "kr": "리월 특색 차. 영토가 넓은 리월을 여행하는 건 아주 고된 일이다. 따라서 대왕차를 파는 노점을 보면 사발이 크길 바랄 것이다",
+        "pt": "Uma especialidade de chá de Liyue. Viajar em Liyue com um território interminável é um trabalho duro. Então quando você vir uma tenda de chá, o que você deseja é simplesmente uma chávena super grande.",
+        "ru": "Особый чай из Ли Юэ. Ничто так не освежает после изнурительного похода по обширной территории Ли Юэ, как добрая порция чая из «Большой чаши».",
+        "th": "ชาสุดพิเศษของ Liyue การเดินทางใน Liyue อันกว้างใหญ่นั้น ช่างเป็นเรื่องที่หนักเอาการเลยทีเดียว ดังนั้นเมื่อคุณเห็นร้านชาที่ขายชาถ้วยใหญ่ ก็เพียงแค่หวังว่าชาถ้วยใหญ่นั้นยิ่งใหญ่ยิ่งดี",
+        "vi": "Trà đặc sắc của Liyue. Du hành ở Liyue rộng lớn là một việc gian khổ, vì vậy khi trông thấy quán trà nào bán chén trà to, bạn chỉ mong rằng chén trà đó càng lớn càng tốt."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Anemo Slime-Swallowed Bamboo Shoots",
+        "de": "Von einem Anemo-Schleim verschluckte Bambussprossen",
+        "chs": "被风史莱姆吞下过的竹笋",
+        "cht": "被風史萊姆吞下過的竹筍",
+        "es": "Brote de bambú tragado por un Slime Anemo",
+        "fr": "Pousse de bambou ingérée par un Anémoblob",
+        "id": "Bamboo Shoot yang Tertelan Anemo Slime",
+        "jp": "風スライムに呑み込まれたタケノコ",
+        "kr": "바람 슬라임이 삼켰던 죽순",
+        "pt": "Broto de Bambu Engolido por um Slime Anemo",
+        "ru": "Проглоченные Анемо слаймом побеги бамбука",
+        "th": "Anemo Slime-Swallowed Bamboo Shoot",
+        "vi": "Măng Từng Bị Slime Phong Nuốt"
+    },
+    "id": 100982,
+    "materialDesc": {
+        "en": "Bamboo Shoots that have been swallowed by Anemo Slimes. Who knows what special flavor they might add...",
+        "de": "Bambussprossen, die von einem Anemo-Schleim verschluckt wurden. Wer weiß, was für einen besonderen Geschmack sie hinzufügen könnten ...",
+        "chs": "被风史莱姆吞下过的竹笋，不知道会不会带上什么特别的味道…",
+        "cht": "被風史萊姆吞下過的竹筍，不知道會不會帶上什麼特別的味道…",
+        "es": "Un brote de bambú que un Slime Anemo se tragó. Quién sabe qué sabor especial aportará a la comida...",
+        "fr": "Une pousse de bambou ingérée par un Anémoblob. Peut-être qu'elle a un goût spécial ?",
+        "id": "Bamboo Shoot yang pernah tertelan oleh Anemo Slime. Kira-kira Bamboo Shoot-nya jadi ada rasa tambahan seperti apa ya...",
+        "jp": "風スライムに呑み込まれたタケノコ。何か特別な味が付いているかもしれない。",
+        "kr": "바람 슬라임이 삼켰던 죽순. 무언가 특별한 맛이 날지도 모른다…",
+        "pt": "Broto de Bambu que foi engolido por um Slime Anemo. Qual será o seu gosto?",
+        "ru": "Проглоченные Анемо слаймом побеги бамбука. Кто знает, какой особый вкус они могут привнести...",
+        "th": "Bamboo Shoot ที่ถูก Anemo Slime กลืนลงไป ไม่รู้ว่ามันจะมีรสชาติพิเศษยังไงกันนะ...",
+        "vi": "Măng đã từng bị Slime Phong nuốt vào bụng, không biết có ám mùi gì đặc biệt không..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rex Incognito (II)",
+        "de": "Rex Incognitus II",
+        "chs": "帝君尘游记·二",
+        "cht": "帝君塵遊記·二",
+        "es": "Rex Incognito (II)",
+        "fr": "L'Archon invisible - II",
+        "id": "Penyamaran Rex (II)",
+        "jp": "帝君遊塵記·二",
+        "kr": "제군의 속세 여행기·Ⅱ",
+        "pt": "Rex Incognito (II)",
+        "ru": "Властелин Инкогнито. Том II",
+        "th": "บันทึกการเดินทางราชาแห่งหิน II",
+        "vi": "Đế Quân Vi Hành II"
+    },
+    "id": 100587,
+    "materialDesc": {
+        "en": "A Liyue fantasy novel that tells the tales of Rex Lapis' incognito excursions in the mortal realm. Between lofty mountain peaks where bounteous jade lies beneath, substantial ideas and empty lies are suddenly shown up side by side.",
+        "de": "Ein Fantasieroman über Liyue. Erzählt wird von Rex Lapis, der sich in menschlicher Gestalt auf die Erde begibt. In den Bergen reich gefüllt mit Jade treffen konkrete Ideen spektakulär auf haltlose Fantastereien.",
+        "chs": "璃月的幻想小说，讲述了岩王帝君化为凡形行走人间的旧事。在蕴玉的山峦间，有形的表象与无形的妄言恍然得以对照。",
+        "cht": "璃月的幻想小說，講述了岩王帝君化為凡形行走人間的舊事。在蘊玉的山巒間，有形的表像與無形的妄言恍然得以對照。",
+        "es": "Una novela fantástica de Liyue en la que se relatan las visitas de Rex Lapis al reino de los mortales en una de sus formas reencarnadas. Entre los altos picos de las montañas repletas de jade, las imágenes con formas concretas contrastan con las mentiras vacías y sin forma.",
+        "fr": "Un roman fantastique populaire à Liyue qui raconte les voyages incognito du Souverain de la Roche dans le monde les mortels. Dans les montagnes qui abritent une abondance de jade en leur sein, des idées concrètes rencontrent des pensées vides.",
+        "id": "Novel fantasi Liyue menceritakan kisah tentang Rex Lapis yang turun ke dunia fana dan menjadi manusia. Di antara puncak gunung yang tinggi di mana batu giok yang indah terletak di bawahnya, sandiwara-sandiwara dan kebohongan kosong tiba-tiba muncul berdampingan.",
+        "jp": "璃月のファンタジー小説。岩王帝君が凡人の姿になり、人間の世界を旅したことを描写する小説。数々の宝物が眠っている山の中で、有形の表象と無形の嘘がはっきりと分けられる。",
+        "kr": "리월의 판타지 소설, 암왕제군이 평범한 사람으로 변해 속세를 활보하던 옛이야기이다. 옥을 품고 있는 산봉우리에서 유형의 표상과 무형의 망언이 대조된다",
+        "pt": "Um romance de fantasia de Liyue que conta as excursões incógnitas no reino mortal do Rex Lapis em forma humana. Entre os altos picos das montanhas, onde inúmeros jades jazem embaixo, ideias substanciais e mentiras vazias são subitamente mostradas lado a lado.",
+        "ru": "Фантастический роман Ли Юэ, повествующий о хождениях Властелина Камня в человеческом обличье среди смертных. Между зелёных гор, под которыми в изобилии залегает нефрит, телесные образы и бесформенный вздор неожиданно оказываются рядом друг с другом.",
+        "th": "นิยายแฟนตาซีของ Liyue ที่บอกเล่าเรื่องราวในอดีตของราชาแห่งหินที่ได้แปลงกายเป็นคนธรรมดาลงมาในโลกมนุษย์ ภูเขาที่สลับทับซ้อนกันนั้นเทียบได้กับคำพูดเพ้อเจ้อที่ทั้งจับต้องได้และจับต้องไม่ได้",
+        "vi": "Tiểu thuyết viễn tưởng Liyue, kể lại câu chuyện Nham Vương Đế Quân hóa thành thường dân du hành khắp thế gian. Những viên ngọc sáng ngời cất giấu nơi thâm sơn cùng cốc, cũng giống như câu nói vạn vật hữu hình luôn là thứ để đánh giá lời nói vô hình của kẻ gian dối."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

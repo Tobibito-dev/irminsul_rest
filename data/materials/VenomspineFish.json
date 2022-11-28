@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Venomspine Fish",
+        "de": "Giftstichling",
+        "chs": "鸩棘鱼",
+        "cht": "鴆棘魚",
+        "es": "Espinoso venenoso",
+        "fr": "Épinoche dovenin",
+        "id": "Venomspine Fish",
+        "jp": "ポイズントゲウオ",
+        "kr": "맹독 가시고기",
+        "pt": "Peixe-leão Esgana-Gato",
+        "ru": "Ядовитая колюшка",
+        "th": "Venomspine Fish",
+        "vi": "Cá Gai Độc"
+    },
+    "id": 131008,
+    "materialDesc": {
+        "en": "A swift, fierce fish with spiny fins whose spiny mouth can pierce the current when it swims at full speed. Its capabilities have earned it the nicknames \"The Cutter\" and \"Hard-To-Get.\"\\nThe Venomspine Fish's most well-known trait is its poisonous spines, which contain a neurotoxin that is fatal to smaller prey but proves far weaker against large organisms, mostly only causing mild confusion or hallucinations.\\n\"Fill 'er up, Rex, my good lad! Fill 'er up to the brim for big brother!\" — A certain fisherman from Liyue who was accidentally pricked.",
+        "de": "Ein schneller, grimmiger Fisch mit stacheligen Flossen, dessen stacheliges Maul die Strömung durchbohren kann, wenn er mit voller Geschwindigkeit schwimmt. Seine Fähigkeiten haben ihm die Spitznamen „Wasserdorn“ und „Bachpfeil“ eingebracht.\\nDas bekannteste Merkmal des Giftstichlings sind seine giftigen Stacheln, die ein Nervengift enthalten, das für kleinere Beutetiere tödlich ist, sich aber bei großen Organismen als weitaus schwächer erweist und meist nur leichte Verwirrung oder Halluzinationen hervorruft.\\n„Mach ihn voll, Rex Lapis, mein guter Junge! Füll ihn bis zum Rand für mich!“ – Ein gewisser Fischer aus Liyue, der von dem Giftstachel versehentlich gestochen wurde.",
+        "chs": "长满刺状鳍的迅猛鱼类，迅捷灵敏，全速游动时矛般尖吻甚至能劈开水流。因此又得名「劈水刺」、「箭难追」等。\\n鸩棘鱼最为人熟知的是其带毒的棘刺，这种神经毒素对小型猎物足够致命，但对大型生物则显得力不从心，多数情况下只有致惑、致幻等不良症状。\\n「满上！岩王老弟！给哥哥满上！」——某位不慎被刺伤的璃月渔师。",
+        "cht": "長滿刺狀鰭的迅猛魚類，迅捷靈敏，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\\n鴆棘魚最為人熟知的是其帶毒的棘刺，這種神經毒素對小型獵物足夠致命，但對大型生物則顯得力不從心，多數情況下只有致惑、致幻等不良症狀。\\n「滿上！岩王老弟！幫哥哥滿上！」——某位不慎被刺傷的璃月漁師。",
+        "es": "Un pez rápido y feroz con aletas espinosas y una protuberancia afilada que parte en dos la corriente cuando nada a gran velocidad, por lo que se lo conoce como “pez cortante” y “pez flecha”.\\nEl espinoso venenoso es conocido por sus espinas, que contienen una neurotoxina letal para las presas pequeñas pero débil contra organismos grandes, a los que causa desconcierto o alucinaciones.\\n“¡Hasta arriba, Rex! ¡Llénalo hasta arriba!”, dijo cierto pescador de Liyue tras pincharse accidentalmente con una espina venenosa.",
+        "fr": "Une espèce de poisson rapide aux nageoires couvertes d'épines, qui lancé à pleine allure, n'est pas sans rappeler une lance capable de séparer les eaux. C'est d'ailleurs de là que lui viennent les surnoms d'« épine des eaux » ou encore de « flèche des courants ».\\nL'épinoche dovenin est plus connue pour ses épines venimeuses, dont la toxine est suffisamment puissante pour tuer les proies de moindre taille, mais qui sur les cibles de taille plus importante se limite à des effets secondaires tels que vertiges ou hallucinations.\\n« Remplis mon verre, Souverain de la Roche, remplis-le donc ! » – Pêcheur liyuéen venant de se faire piquer.",
+        "id": "Ikan yang lincah dan ganas dengan sirip berduri yang mulut runcingnya dapat menembus arus saat berenang dengan kecepatan penuh. Kemampuan tersebut membuatnya dijuluki sebagai \"Ikan Pembelah Arus\" dan \"Ikan Jagoan Kabur\".\\nCiri Ikan Venomspine yang paling terkenal adalah duri beracunnya, yang mengandung racun yang dapat berakibat fatal bagi mangsa yang lebih kecil, tetapi terbukti jauh lebih lemah terhadap organisme besar, yang kebanyakan hanya akan menyebabkan kebingungan atau halusinasi ringan.\\n\"Ahh, sakit sekali, sial!\" — ujar seorang nelayan dari Liyue yang tertusuk karena ceroboh.",
+        "jp": "トゲに満ちたヒレを持つ猛魚。全速力で泳ぐときに、槍のような鼻は水流を切り裂くことができる。そのため「水切針」、「飛箭」などの別名がある。\\nポイズントゲウオはその毒針でよく知られている。その毒は小さな獲物に対して十分な致死力を発揮するが、大きな生き物に対してあまり効果がない。多くの場合、混乱や幻覚などの不良症状を引き起こすだけである。\\n「オラぁ酔ってないぞ！もっと飲ませろ！」——うっかり刺されてしまった璃月の漁師より。",
+        "kr": "가시가 가득한 지느러미를 지닌 빠른 어류. 전속력으로 헤엄칠 때 창처럼 뾰족한 주둥이가 물살을 갈라 「물을 가르는 가시」, 「쫓기 힘든 화살」이라는 별명이 있다.\\n맹독 가시고기의 가시는 맹독을 띠고 있으며, 가시의 신경 독소는 체구가 작은 사냥감에 치명상을 입히기에는 충분하지만, 체구가 큰 생물에게는 역부족이며 대개 환각, 환청 등 이상 증세만 나타날 뿐이다.\\n「한 잔 가득 따라보라고! 암왕제군 아우! 어서 형님한테 한 잔 가득 따라보래도!」——불행히도 맹독 가시고기에 찔린 리월의 한 낚시꾼",
+        "pt": "Um peixe rápido e feroz com barbatanas espinhosas, cuja boca espinhosa pode furar a corrente quando nada a toda velocidade. Suas capacidades lhe renderam os apelidos de \"O Cortador\" e \"Difícil de Pegar\".\\nA característica mais conhecida do Peixe Venenoso é sua espinha venenosa, que contém uma neurotoxina que é fatal para as presas menores, mas que se mostra muito mais fraca contra grandes organismos, causando principalmente apenas uma leve confusão ou alucinações.\\n\"Encha meu copo até a borda Rex, meu bom rapaz! Encha-o até a borda para me deixar feliz!\" - Um certo pescador de Liyue, que foi picado acidentalmente.",
+        "ru": "Свирепая рыба с колючими плавниками, быстрая и проворная. На высокой скорости может даже разделять водный поток своей копьеобразной головой. Отсюда и прозвища «острое копьё» и «быстрая стрела».\\nИзвестна своими ядовитыми иглами. Этот нейротоксин достаточно силён, чтобы убить мелкую добычу, но большим существам не может причинить особого вреда, в основном вызывая лишь спутанность сознания и галлюцинации.\\n«Наливай! Эй, Властелин Камня! Давай махнём по рюмашке!» - какой-то рыбак Ли Юэ, которого ужалила ядовитая колюшка.",
+        "th": "ปลาที่มีความว่องไวและดุดัน มีครีบหนามอยู่เต็มตัว ปากที่แหลมเหมือนหอกของมันนั้นสามารถแหวกน้ำได้เมื่อว่ายเร็วเต็มที่ ดังนั้นจึงมีฉายาอื่น ๆ ว่า \"หอกแหวกน้ำ\" หรือ \"ลูกธนูสุดซิ่ง\" เป็นต้น\\nสิ่งที่มีชื่อเสียงที่สุดของปลา Venomspine Fish คือหนามมีพิษของมัน พิษที่มีผลต่อระบบประสาทนี้เป็นอันตรายถึงตายได้สำหรับเหยื่อขนาดเล็ก แต่พิษจะอ่อนลงมากเมื่อใช้กับสัตว์ขนาดใหญ่ ส่วนใหญ่แล้วจะมีอาการสับสนและประสาทหลอนเท่านั้น\\n\"ใส่ให้เต็ม! ราชาแห่งหินน้องรัก! จัดมาให้พี่เต็มที่เลย!\"—— ชาวประมงจาก Liyue ที่ถูกหนามพิษแทงโดยไม่ได้ตั้งใจ",
+        "vi": "Loài cá hung hãn nhanh nhẹn đầy gai nhọn, khi bơi với tốc độ cao nhất thậm chí còn có thể chia cách dòng nước, cũng vì thế nên chúng có danh hiệu \"Gai Chẻ Nước\", \"Mũi Tên Gió\".\\nĐây là loài cá có gai độc, chất độc thần kinh này sẽ gây ra vết thương chí mạng với các sinh vật nhỏ, nhưng khá vô hại với những sinh vật lớn, đa số chỉ cảm thấy hơi chóng mặt và gây ảo giác mà thôi.\\n\"Thêm mồi! Thêm mồi coi tên Nham Vương lão đệ kia!\" - Một thợ câu Liyue khi trúng độc đã từng nói như vậy."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cured Pork Dry Hotpot",
+        "de": "Pökeltopf",
+        "chs": "干锅腊肉",
+        "cht": "乾鍋臘肉",
+        "es": "Carne curada con matsutake",
+        "fr": "Cocotte de porc fumé",
+        "id": "Cured Pork Dry Hotpot",
+        "jp": "干し肉の炒め鍋",
+        "kr": "훈제고기 볶음",
+        "pt": "Porco Curado com Matsutake",
+        "ru": "Ветчина на сковороде",
+        "th": "Cured Pork Dry Hotpot",
+        "vi": "Thịt Xông Khói Xào"
+    },
+    "id": 108183,
+    "materialDesc": {
+        "en": "A dish fried over a great flame. Matsutake and Ham have been sliced up, stir-fried, and garnished with some spicy condiments. The flavor of the Ham is a match for the Matsutake's crispness, and the combination grows ever lovelier and more addictive as you chew. The heat-conducting wok also serves to keep it piping hot for long periods.",
+        "de": "Ein Gericht, das bei großer Hitze schnell gebraten wird. In Scheiben geschnittene Matsutake und Schinken werden unter Rühren angebraten und leicht gewürzt. Das trockene Aroma des Schinkens in Kombination mit den knusprigen Matsutakescheiben macht süchtig und intensiviert sich noch, je länger man kaut. Durch den superwärmeleitenden Wok bleibt das Gericht zudem lange heiß und lecker.",
+        "chs": "旺火炒制的菜肴。将松茸火腿切片，翻炒后加入少许香辛料。火腿的干香配合松茸的脆嫩，在口中越嚼越香，十分过瘾。易于导热的锅体也让它能长时间保持热气腾腾的美味。",
+        "cht": "旺火炒製的菜餚。將松茸火腿切片，翻炒後加入少許辛香料。火腿的乾香配合松茸的脆嫩，在口中越嚼越香，十分過癮。易於導熱的鍋體也讓它能長時間保持熱氣騰騰的美味。",
+        "es": "Un plato salteado a fuego rápido. Tras laminar y saltear la carne y los matsutakes, se añaden las especias. El sabor del jamón combina con la textura del matsutake y, cuanto más comes, más te gusta. Servirlo en la misma olla permite que se mantenga caliente durante mucho tiempo.",
+        "fr": "Un plat sauté sur feu vif. Les matsutake et le jambon ont été coupés, sautés et accompagnés d'épices. La saveur du jambon forme une parfaite harmonie avec le croustillant des matsutake, qui ne fait que s'intensifier dans la bouche. La cuisson au wok permet au plat de conserver sa chaleur pendant une longue durée.",
+        "id": "Hidangan yang digoreng di atas api besar. Matsutake dan Ham telah diiris-iris, digoreng, dan diberi bumbu pedas. Rasa Ham cocok dengan kerenyahan dari Matsutake, serta kombinasinya membuat hidangan ini semakin cantik. Semakin kamu mengunyahnya semakin kamu ketagihan. Wajan penghantar panas juga berfungsi untuk menjaganya tetap panas dalam waktu lama.",
+        "jp": "強火で炒めた料理。松茸とハムをスライスし、香辛料を少々加えて炒める。ハムの香りと松茸の食感が、噛めば噛むほど口内に広がり、病みつきになる。加熱しやすい鍋を使えば、長時間熱さを保てる美味しい料理が出来上がる。",
+        "kr": "센 불에 볶은 요리. 송이버섯과 훈제고기를 얇게 썰어 볶은 뒤 향신료를 살짝 추가했다. 고기의 향과 송이버섯의 부드러움이 조화를 이루며 씹으면 씹을수록 입안 가득 퍼지는 향이 중독되는 맛이다. 열전도가 빠른 냄비도 요리를 오래도록 따뜻하게 유지시켜준다",
+        "pt": "Um prato frito sobre uma grande chama. O Matsutake e o Presunto foram fatiados, fritos e enfeitados com alguns condimentos picantes. O sabor do presunto combina com a crocância do Matsutake, e a combinação fica cada vez melhor e mais viciante à medida que você mastiga. A frigideira condutora de calor também serve para mantê-lo quente por longos períodos.",
+        "ru": "Тонко нарезанные ломтики мацутакэ и ветчины сперва были обжарены на сильном огне, а затем сдобрены щепоткой пряностей. Ароматная ветчина прекрасно дополняет хрустящие и нежные грибы. Чем дольше жуёшь, тем вкуснее, и тем труднее остановиться. На сковороде лакомство ещё долго будет оставаться горячим.",
+        "th": "อาหารที่ผัดด้วยไฟแรง Matsutake และแฮมหั่นเป็นชิ้นนำไปผัดและเติมเครื่องเทศเล็กน้อย ความหอมของแฮมผสมกับความนุ่มของ Matsutake เมื่อเข้าปากจะยิ่งรู้สึกเคี้ยวสนุกและหอมคละคลุ้งจนอยากกินอีก หม้อที่นำความร้อนช่วยให้มันรักษาความร้อนและอร่อยเอาไว้ได้",
+        "vi": "Món xào bằng lửa lớn, giăm bông và Nhung Tùng cắt lát xào và thêm một chút gia vị. Vị khô của giăm bông kết hợp với cái giòn tan của Nhung Tùng, càng nhai càng thơm, ăn rất dễ nghiện. Đáy nồi dẫn nhiệt nên có thể giữ cho món ăn nóng lâu và luôn thơm ngon trong thời gian dài."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

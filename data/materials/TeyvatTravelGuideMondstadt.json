@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teyvat Travel Guide - Mondstadt",
+        "de": "Reiseführer Teyvat – Mondstadt",
+        "chs": "提瓦特游览指南·蒙德篇",
+        "cht": "提瓦特遊覽指南·蒙德篇",
+        "es": "Guía de viaje de Teyvat: Mondstadt",
+        "fr": "Guide de voyage en Teyvat – Mondstadt",
+        "id": "Panduan Wisata Teyvat - Mondstadt",
+        "jp": "テイワット観光ガイド·モンド編",
+        "kr": "티바트 유람 가이드·몬드편",
+        "pt": "Guia de Viagem de Teyvat - Mondstadt",
+        "ru": "Путеводитель по Тейвату. Мондштадт",
+        "th": "หนังสือนำเที่ยว Teyvat - Mondstadt",
+        "vi": "Hướng Dẫn Du Ngoạn Teyvat - Chương Mondstadt"
+    },
+    "id": 100223,
+    "materialDesc": {
+        "en": "A magazine by the Adventurers' Guild. Each issue introduces great sceneries across Teyvat. This issue includes a short traveling diary of Alice the Traveler on her experiences in Mondstadt.",
+        "de": "Eine Reisezeitschrift, die von der Abenteurergilde herausgegeben wird. In jeder Ausgabe werden Szenerien auf Teyvat beschrieben und Reiseempfehlungen ausgesprochen. In diesem Heft ist eine Zusammenfassung des Reiseberichts von Alice in Mondstadt zu finden.",
+        "chs": "冒险家协会主办的旅行杂志，每一期都会介绍提瓦特大陆各地值得游览的景色。这一本登载了旅行家艾莉丝在蒙德的简短行记。",
+        "cht": "冒險家協會主辦的旅遊雜誌，每一期都會介紹提瓦特大陸各地值得遊覽的景色。這一本登載了旅行家艾莉絲在蒙德的簡短遊記。",
+        "es": "Una revista del Gremio de Aventureros. Cada número muestra grandes paisajes de todo Teyvat. Este número incluye un breve diario de Alice la viajera, en Mondstadt.",
+        "fr": "Un magazine publié par la Guilde des aventuriers. Chaque numéro montre de beaux paysages et recommande les lieux à visiter en Teyvat. Ce numéro comprend les petits récits de Mondstadt d'Alice, la voyageuse.",
+        "id": "Majalah yang diterbitkan oleh Adventurers' Guild. Setiap edisi memperkenalkan pemandangan yang luar biasa di seluruh Teyvat. Edisi kali ini berisi buku harian singkat tentang perjalanan Alice si pengembara dan pengalamannya di Mondstadt.",
+        "jp": "冒険者協会が発行する観光ガイド。毎回テイワット大陸の観光名所を紹介する。この一冊は旅行家アリスがモンド滞在時の旅行記が掲載されている。",
+        "kr": "모험가 길드에서 발행하는 여행잡지. 매번 티바트 대륙의 여행할 만한 장소를 소개한다. 이 책엔 여행가 앨리스의 몬드 여행기가 실려 있다",
+        "pt": "Uma revista da Associação de Aventureiros. Cada edição apresenta ótimos cenários em Teyvat. Esta edição inclui um breve diário de viagem de Alice, a Viajante, sobre suas experiências em Mondstadt.",
+        "ru": "Периодическое издание, выпускаемое Гильдией искателей приключений. Каждый выпуск посвящён отдельному региону Тейвата. В этом выпуске вас ждут путевые заметки путешественницы Алисы о её визите в Мондштадт.",
+        "th": "นิตยสารการท่องเที่ยวที่จัดทำขึ้นโดยกิลด์นักผจญภัย แต่ละภาคจะแนะนำสถานที่น่าเที่ยวของทวีป Teyvat เล่มนี้มีบันทึกการเดินทางช่วงสั้น ๆ ของนักเดินทาง Alice ขณะอยู่ที่ Mondstadt อยู่",
+        "vi": "Tạp chí lữ hành được Hiệp Hội Nhà Mạo Hiểm biên tập, mỗi kỳ đều giới thiệu những điểm du lịch đáng đến trên đại lục Teyvat. Kỳ này giới thiệu về hành trình tại Mondstadt của Nhà Lữ Hành Alice."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

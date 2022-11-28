@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Chalk",
+        "de": "Erlebnispass – Kreide",
+        "chs": "纪行·白垩",
+        "cht": "紀行·白堊",
+        "es": "PB - Roca caliza",
+        "fr": "PB - Craie",
+        "id": "Catatan Perjalanan: Kapur Putih",
+        "jp": "紀行·白亜",
+        "kr": "기행·백악",
+        "pt": "Passe de Batalha - Giz",
+        "ru": "Мел",
+        "th": "บันทึก - ชอล์กขาว",
+        "vi": "Nhật Ký Hành Trình - Vôi Trắng"
+    },
+    "id": 210055,
+    "materialDesc": {
+        "en": "Namecard style.\\nRemember to keep warm when setting foot on the mountain.",
+        "de": "Ein Motiv für Namenskärtchen.\\nZieh dich warm an, wenn du den Berg besteigst.",
+        "chs": "名片纹饰。\\n踏足雪山，注意保暖。",
+        "cht": "名片紋飾。\\n踏足雪山，注意保暖。",
+        "es": "Diseño de tarjeta de presentación.\\nEn la montaña nevada, sin calor no eres nada.",
+        "fr": "Thème.\\nÉquipez-vous chaudement avant de poser le pied sur cette montagne.",
+        "id": "Style kartu nama.\\nSaat mendaki gunung salju, harus selalu menjaga tubuh tetap hangat.",
+        "jp": "名刺の飾り紋。\\n雪山に足を踏み入れる時は、防寒をしっかり。",
+        "kr": "명함 스킨.\\n설산을 오를 땐 몸을 따뜻하게 하자",
+        "pt": "Estilo de Cartão de Visita.\\nLembre-se de se manter aquecido ao colocar os pés na montanha.",
+        "ru": "Именная карта.\\nНе забудьте одеться теплее перед тем, как идти в горы.",
+        "th": "ลายนามบัตร\\nอย่าลืมรักษาความอบอุ่น เมื่อก้าวเข้าสู่ภูเขาหิมะ",
+        "vi": "Hoa văn danh thiếp.\\nBước chân lên núi tuyết phải chú ý giữ ấm."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

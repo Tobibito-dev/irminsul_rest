@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scattered Page",
+        "de": "Lose Buchseiten",
+        "chs": "散落的书页",
+        "cht": "散落的書頁",
+        "es": "Páginas dispersas",
+        "fr": "Pages dispersées",
+        "id": "Lembaran Buku yang Berserakan",
+        "jp": "散らかっている本のページ",
+        "kr": "산산조각난 페이지",
+        "pt": "Páginas dispersas",
+        "ru": "Разбросанные страницы",
+        "th": "Scattered Page",
+        "vi": "Trang Sách Bị Mất"
+    },
+    "id": 100231,
+    "materialDesc": {
+        "en": "(TEST) Adventure Journal Page",
+        "de": "None",
+        "chs": "(test)冒险日志书页",
+        "cht": "（TEST）冒險日誌書頁",
+        "es": "(TEST) Página de Diario de Aventuras",
+        "fr": "(TEST) Pages d'un journal d'aventure",
+        "id": "None",
+        "jp": "（TEST）冒険日誌のページ",
+        "kr": "None",
+        "pt": "None",
+        "ru": "（TEST）冒险日志书页",
+        "th": "（TEST）หน้าหนังสือที่บันทึกการผจญภัย",
+        "vi": "（TEST）Trang nhật ký mạo hiểm"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

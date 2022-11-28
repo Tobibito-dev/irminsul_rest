@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Autake Slate",
+        "de": "Autake-Schiefer",
+        "chs": "逢岳的石块",
+        "cht": "逢嶽的石塊",
+        "es": "Piedra de Autake",
+        "fr": "Pierre d'Autake",
+        "id": "Batu Autake",
+        "jp": "アウタケの石",
+        "kr": "아우타케의 돌",
+        "pt": "Pedra Autake",
+        "ru": "Камень с Аутакэ",
+        "th": "หิน Autake",
+        "vi": "Đá Autake"
+    },
+    "id": 101592,
+    "materialDesc": {
+        "en": "An example of the Ishine Script that was once used on Tsurumi Island.\\nIt probably needs to be returned to some place in the Autake Plains.",
+        "de": "Ein Beispiel für die Ishine-Schrift, die einst auf der Insel Tsurumi verwendet wurde. \\nSie muss wahrscheinlich an einen Ort in der Autake-Ebene zurückgebracht werden.",
+        "chs": "鹤观文明的「石根文字」的载体。\\n应当将其归还至逢岳之野的某处吧。",
+        "cht": "鶴觀文明的「石根文字」的載體。\\n應當將其歸還至逢嶽之野的某處吧。",
+        "es": "Uno de los objetos en los que se inscribe la lengua Ishine de la civilización de la Isla Tsurumi.\\nTal vez tendrías que devolverla a algún lugar de la Llanura Autake.",
+        "fr": "Un morceau du script Ishine qui était autrefois utilisé sur l'Île de Tsurumi.\\nIl faut probablement la ramener quelque part dans les Plaines d'Autake.",
+        "id": "Contoh Aksara Ishine yang pernah digunakan di Pulau Tsurumi.\\nMungkin perlu dikembalikan ke suatu tempat di Autake Plain.",
+        "jp": "鶴観文明の「イシネ文字」の運び手である。\\nアウタケ平原のどこかに戻すべきだろう。",
+        "kr": "츠루미 문명의 「이시네 문자」의 매체.\\n아우타케 들판에 있는 어딘가에 있는 원래 위치에 되돌려놓아야 한다",
+        "pt": "Um exemplo da Escritura Ishine que foi usada pela civilização da Ilha Tsurumi.\\nEle deve ser colocado de volta em algum local da Planície Autake.",
+        "ru": "Камень с письменами Исинэ, которые когда-то использовались на острове Цуруми.\\nВероятно, его нужно вернуть на место где-то на равнинах Аутакэ.",
+        "th": "สื่อกลางของ \"อักษร Ishine\" ซึ่งเป็นอารยธรรมบนเกาะ Tsurumi\\nน่าจะต้องนำมันกลับไปยังสถานที่บางแห่งในที่ราบ Autake",
+        "vi": "Vật thể khắc \"Văn Tự Ishine\" của nền văn minh Đảo Tsurumi.\\nChắc nên trả nó về nơi nào đó trên Lãnh Địa Autake nhỉ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

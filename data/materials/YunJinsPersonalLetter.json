@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yun Jin's Personal Letter",
+        "de": "Persönlicher Brief von Yun Jin",
+        "chs": "云堇的亲笔信",
+        "cht": "雲堇的親筆信",
+        "es": "Carta de Yun Jin",
+        "fr": "Lettre personnelle de Yun Jin",
+        "id": "Surat Pribadi Yun Jin",
+        "jp": "雲菫直筆の手紙",
+        "kr": "운근의 친필 편지",
+        "pt": "Carta de Yunjin",
+        "ru": "Письмо Юнь Цзинь",
+        "th": "จดหมายที่เขียนโดย Yun Jin",
+        "vi": "Thư Tay Của Yun Jin"
+    },
+    "id": 101671,
+    "materialDesc": {
+        "en": "A letter that Yun Jin personally wrote to Shiyun. It seems to hold the key to turning the situation around.",
+        "de": "Ein Brief, den Yun Jin persönlich an Shiyun geschrieben hat. Er scheint der Schlüssel zu sein, um die Situation zu ändern.",
+        "chs": "云堇写给诗筠的亲笔信，似乎是扭转局面的关键？",
+        "cht": "雲堇寫給詩筠的親筆信，似乎是扭轉局面的關鍵？",
+        "es": "Una carta para Shiyun escrita por Yun Jin. Tal vez sea la clave para darle la vuelta a la situación.",
+        "fr": "Une lettre que Yun Jin a écrite personnellement pour Shiyun. On dirait qu'elle sait comment renverser la situation.",
+        "id": "Surat yang ditulis oleh Yun Jin secara pribadi untuk Shiyun, tampaknya memegang peranan kunci untuk membalikkan situasi.",
+        "jp": "雲菫が詩筠に宛てた直筆の手紙。局面を変える鍵となるかも？",
+        "kr": "운근이 시윤에게 쓴 친필 편지. 상황을 반전시킬 키 포인트일지도?",
+        "pt": "Uma carta que Yunjin escreveu pessoalmente a Shiyun. Talvez seja a chave para reverter a situação.",
+        "ru": "Письмо, которое Юнь Цзинь лично написала Ши Юнь. Оно может стать ключом к изменению ситуации.",
+        "th": "จดหมายที่ Yun Jin เขียนถึง Shiyun ดูเหมือนจะเป็นกุญแจสำคัญในการพลิกสถานการณ์?",
+        "vi": "Bức thư của Yun Jin viết cho Shiyun, có lẽ là chìa khóa để xoay chuyển cục diện chăng?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

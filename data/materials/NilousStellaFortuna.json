@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nilou's Stella Fortuna",
+        "de": "Stella Fortuna von Nilou",
+        "chs": "妮露的命星",
+        "cht": "妮露的命星",
+        "es": "Stella Fortuna de Nilou",
+        "fr": "Stella Fortuna de Nilou",
+        "id": "Nilou's Stella Fortuna",
+        "jp": "ニィロウの星屑",
+        "kr": "닐루의 운명의 별",
+        "pt": "Stella Fortuna de Nillou",
+        "ru": "Удача Нилу",
+        "th": "ดวงดาวแห่งชีวิตของ Nilou",
+        "vi": "Chòm Sao Của Nilou"
+    },
+    "id": 1170,
+    "materialDesc": {
+        "en": "Nilou's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Nilous Sternbild",
+        "chs": "妮露的命之座激活素材",
+        "cht": "妮露的命之座啟用素材",
+        "es": "Material de activación de constelación de Nilou",
+        "fr": "Matériau d'activation de la constellation de Nilou.",
+        "id": "Material aktivasi untuk konstelasi Nilou",
+        "jp": "ニィロウの命ノ星座アンロック用素材",
+        "kr": "닐루의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Nilou",
+        "ru": "Материал для активации созвездия Нилу.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Nilou",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Nilou"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sayu's Stella Fortuna",
+        "de": "Stella Fortuna von Sayu",
+        "chs": "早柚的命星",
+        "cht": "早柚的命星",
+        "es": "Stella Fortuna de Sayu",
+        "fr": "Stella Fortuna de Sayu",
+        "id": "Sayu's Stella Fortuna",
+        "jp": "早柚の星屑",
+        "kr": "사유의 운명의 별",
+        "pt": "Constelação de Sayu",
+        "ru": "Удача Саю",
+        "th": "ดวงดาวแห่งชีวิตของ Sayu",
+        "vi": "Chòm Sao Của Sayu"
+    },
+    "id": 1153,
+    "materialDesc": {
+        "en": "Sayu's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Sayus Sternbild",
+        "chs": "早柚的命之座激活素材",
+        "cht": "早柚的命之座啟用素材",
+        "es": "Material de activación de constelación de Sayu",
+        "fr": "Matériau d'activation de la constellation de Sayu.",
+        "id": "Material aktivasi untuk konstelasi Sayu",
+        "jp": "早柚の命ノ星座アンロック用素材",
+        "kr": "사유의 운명의 자리 활성화 소재",
+        "pt": "Material da Ativação da Constelação de Sayu",
+        "ru": "Материал для активации созвездия Саю.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Sayu",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Sayu"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

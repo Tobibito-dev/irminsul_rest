@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amethyst Lump",
+        "de": "Amethyst-Brocken",
+        "chs": "紫晶块",
+        "cht": "紫晶塊",
+        "es": "Trozo de amatista",
+        "fr": "Morceau d'améthyste",
+        "id": "Amethyst Lump",
+        "jp": "紫水晶の塊",
+        "kr": "자수정 덩이",
+        "pt": "Pedaço de Ametista",
+        "ru": "Кусок аметиста",
+        "th": "Amethyst Lump",
+        "vi": "Miếng Tử Tinh"
+    },
+    "id": 101008,
+    "materialDesc": {
+        "en": "An uncut crystal that can only be found in Inazuma. Some professional craftsmanship will bring out its true value.",
+        "de": "Ein ungeschliffener Kristall, der nur in Inazuma gefunden werden kann. Etwas professionelle Handwerkskunst wird seinen wahren Wert zur Geltung bringen.",
+        "chs": "未经削切的矿物晶体，仅在稻妻列岛上产生。经过专门处理后，能展现其真正的价值。",
+        "cht": "未經切割的礦物晶體，僅在稻妻列島上產生。經過專門處理後，始能展現其真正的價值。",
+        "es": "Cristal mineral bruto. Obtenible únicamente en las islas de Inazuma. Solo un profesional podrá sacar su auténtico valor.",
+        "fr": "Un cristal non taillé qui ne peut être trouvé qu'à Inazuma. Un certain savoir-faire professionnel fera ressortir sa véritable valeur.",
+        "id": "Kristal yang belum pernah diolah dan hanya dapat ditemukan di Inazuma. Potensi asli kristal ini hanya bisa dimunculkan oleh tangan seorang pengrajin profesional.",
+        "jp": "稲妻列島でしか産出されていない、未加工の鉱物の結晶。専門的な処理を施すことで、真価を発揮できる。",
+        "kr": "가공되지 않은 광물 결정체. 이나즈마에서만 생성된다. 전문적인 세공을 거쳐야 진정한 가치를 알 수 있다",
+        "pt": "Cristais não moldados que podem ser feitos apenas nas ilhas de Inazuma. Apenas um profissional poderá trazer o seu verdadeiro valor.",
+        "ru": "Необработанные кристаллы, которые встречаются только в Инадзуме. Только профессиональный ремесленник может выявить его истинную ценность.",
+        "th": "ก้อนคริสตัลที่ยังไม่ผ่านการเจียระไน สามารถพบได้ที่หมู่เกาะ Inazuma เท่านั้น ช่างฝีมือที่ชำนาญแล้วเท่านั้นที่จะดึงเอาคุณค่าที่แท้จริงของมันออกมาได้",
+        "vi": "Tinh thể khoáng chưa qua gọt giũa, chỉ có ở quần đảo của Inazuma. Sau khi xử lý đặc biệt mới thể hiện được giá trị thực sự của nó."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

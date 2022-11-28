@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lightly-Perfumed Letter",
+        "de": "Leicht parfümierter Brief",
+        "chs": "略带香味的书信",
+        "cht": "略帶香味的書信",
+        "es": "Carta ligeramente perfumada",
+        "fr": "Lettre légèrement parfumée",
+        "id": "Surat yang Harum",
+        "jp": "ほのかに香る手紙",
+        "kr": "은은한 향기의 편지",
+        "pt": "Carta Levemente Perfumada",
+        "ru": "Письмо с лёгким ароматом духов",
+        "th": "จดหมายที่มีกลิ่นน้ำหอมจาง ๆ",
+        "vi": "Thư Mang Mùi Thơm"
+    },
+    "id": 100916,
+    "materialDesc": {
+        "en": "You obtained this from an infantryman at the Kanjou Commission. They say that this was written personally by the young lady of the Hiiragi Clan.",
+        "de": "Du hast ihn von einem Infanteristen der Kanjou-Verwaltung erhalten. Er sagt, dass er persönlich von der jungen Dame des Hiiragi-Klans geschrieben wurde.",
+        "chs": "从勘定奉行的足轻那里拿到的信，据说是由柊家的大小姐亲笔所写。",
+        "cht": "從勘定奉行的足輕那裡拿到的信，據說是由柊家的大小姐親筆寫就。",
+        "es": "Una carta que te dio un soldado de infantería de la Comisión Kanjou. Al parecer, fue escrita por la hija mayor del clan Hiiragi.",
+        "fr": "Vous avez obtenu cette lettre d'un ashigaru de la Commission économique. On dirait qu'elle a été écrite personnellement par la fille du Clan Hiiragi.",
+        "id": "Surat yang kamu dapatkan dari seorang prajurit infanteri di Kanjou Commission. Kata mereka, surat ini ditulis secara pribadi oleh nona muda Klan Hiiragi.",
+        "jp": "勘定奉行の足軽から入手した手紙。柊家のお嬢様が自ら書いたものらしい。",
+        "kr": "간조 봉행의 아시가루한테서 받은 편지. 치사토 아가씨가 친필로 작성했다고 한다",
+        "pt": "Você obteve isso de um soldado da infantaria da Comissão Kanjou. Dizem que isso foi escrito pessoalmente pela jovem senhorita do Clã Hiiragi.",
+        "ru": "Письмо, полученное от пехотинца в комиссии Кандзё. Говорят, что его написала сама старшая дочь клана Хийраги.",
+        "th": "จดหมายที่ได้รับจากคนในสำนัก Kanjou เห็นว่าคุณหนูใหญ่แห่งตระกูล Hiiragi เขียนขึ้นมาด้วยตนเอง",
+        "vi": "Phong thư nhận được từ Hiệp Hội Kanjou, nghe bảo do đích thân đại tiểu thư nhà Hiiragi viết."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

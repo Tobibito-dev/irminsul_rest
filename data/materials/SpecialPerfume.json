@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Perfume",
+        "de": "Besondere Duftessenz",
+        "chs": "特制香膏",
+        "cht": "特製香膏",
+        "es": "Perfume",
+        "fr": "Baume spécial",
+        "id": "Parfum Spesial",
+        "jp": "特製香膏",
+        "kr": "특제 향고",
+        "pt": "Perfume Especial",
+        "ru": "Особый парфюм",
+        "th": "น้ำหอมสูตรพิเศษ",
+        "vi": "Sáp Thơm Đặc Chế"
+    },
+    "id": 100545,
+    "materialDesc": {
+        "en": "A mint-scented perfume specially prepared for Little Lulu by Ying'er. It's the perfect scent for Lulu, Ying'er says.",
+        "de": "Ein Minzduft, den Ying’er extra für die kleine Lulu hergestellt hat. Ying’er meint, es wäre der perfekte Duft für Lulu.",
+        "chs": "莺儿为璐璐特别制作的薄荷香膏。据莺儿说，这一种香膏是最适合璐璐的…",
+        "cht": "鶯兒為璐璐特別製作的薄荷香膏。據鶯兒說，這一種香膏是最適合璐璐的…",
+        "es": "Un perfume con aroma a menta preparado por Ying'er especialmente para Lulu. Según Ying'er, es el perfume perfecto para ella.",
+        "fr": "Un parfum qui sent la menthe que Ying'er a confectionné pour Lulu. D'après Ying'er, il lui conviendrait parfaitement...",
+        "id": "Parfum beraroma Mint yang disiapkan khusus oleh Ying'er untuk Little Lulu. Itu adalah aroma yang paling cocok untuk Lulu, begitulah kata Ying'er...",
+        "jp": "鶯がルルのために作った特製ミント香膏。鶯の話しによると、これがルルに一番似合う香膏らしい。",
+        "kr": "앵아가 룰루를 위해 특별 제조한 허브 향고. 앵아는 이 향고가 룰루에게 딱이라고 한다…",
+        "pt": "Perfume de Menta feito pela Ying'er para o Lulu. Segundo a Ying'er, esse perfume fica muito bem com o Lulu.",
+        "ru": "Мятные духи, которые Ин Эр сделала специально для малышки Лулу. По словам Ин Эр, именно этот аромат больше всего ей подойдёт.",
+        "th": "Ying'er ทำน้ำหอมกลิ่นมิ้นต์ให้ Lulu เป็นพิเศษ Ying'er บอกว่าน้ำหอมชนิดนี้เข้ากับ Lulu ที่สุด...",
+        "vi": "Ying'er đã làm cho Lulu một loại sáp thơm bạc hà đặc biệt. Theo lời Ying'er nói, loại sáp thơm này vô cùng phù hợp với Lulu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

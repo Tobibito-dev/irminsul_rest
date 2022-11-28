@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yumemiru \"Juunen\" Street Lamp",
+        "de": "Straßenlaterne „Juunen“ aus Yumemiru-Holz",
+        "chs": "梦见木「重念」路灯",
+        "cht": "夢見木「重念」路燈",
+        "es": "Farola de madera onírica: Anhelos pendientes",
+        "fr": "Lampadaire « Juunen » en bois de rêve",
+        "id": "Lampu Jalan \"Juunen\" dari Yumemiru",
+        "jp": "夢見の「重念」街灯",
+        "kr": "꿈의 나무 「재고(再顧)」 가로등",
+        "pt": "Lanterna de Estrada de Madeira Yumemiru \"Juunen\"",
+        "ru": "Уличный фонарь из юмэмиру «Дзюнэн»",
+        "th": "โคมไฟถนน \"Juunen\" จากไม้ Yumemiru",
+        "vi": "Đèn Đường \"Juunen\" Gỗ Mơ Mộng"
+    },
+    "id": 393412,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Yumemiru \"Juunen\" Street Lamp.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Straßenlaterne Juunen aus Yumemiru-Holz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「梦见木『重念』路灯」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「夢見木『重念』路燈」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Farola de madera onírica: Anhelos pendientes.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du lampadaire « Juunen » en bois de rêve.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Lampu Jalan \"Juunen\" dari Yumemiru.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「夢見の『重念』街灯」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「꿈의 나무 『재고(再顧)』 가로등」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Lanterna de Estrada de Madeira Yumemiru \"Juunen\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Уличный фонарь из юмэмиру \"Дзюнэн\"».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างโคมไฟถนน \"Juunen\" จากไม้ Yumemiru\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Đường \"Juunen\" Gỗ Mơ Mộng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

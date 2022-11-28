@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Fortune Slip",
+        "de": "Merkwürdiger Orakelzettel",
+        "chs": "诡谲的「御神签」",
+        "cht": "詭譎的「御神籤」",
+        "es": "Papel de la fortuna extraño",
+        "fr": "Omikuji étrange",
+        "id": "Slip Keberuntungan Aneh",
+        "jp": "怪奇な「おみくじ」",
+        "kr": "괴상한 「점괘」",
+        "pt": "Rolinho da Sorte Estranho",
+        "ru": "Странный гадальный листок",
+        "th": "ใบเซียมซีประหลาด",
+        "vi": "\"Thẻ Ngự Thần\" Kỳ Lạ"
+    },
+    "id": 100810,
+    "materialDesc": {
+        "en": "A special slip that can only be obtained if you use a certain secret code while exchanging for a Fortune Slip. Indicates a target and the location where they will emerge.",
+        "de": "Ein spezieller Zettel, den du nur erhalten kannst, wenn du beim Tausch gegen einen Orakelzettel einen bestimmten Geheimcode sprichst. Zeigt ein Ziel an und den Ort, an dem es auftauchen wird.",
+        "chs": "在兑换「御神签」时，说出某个「暗语」才能领取到的特殊签文。记载着行动的目标与其出没的地点。",
+        "cht": "在兌換「御神籤」時，說出某個「暗語」才能領取到的特殊籤文。記載著行動的目標與其出沒的地點。",
+        "es": "Predicción misteriosa que solo se puede conseguir al mencionar un código secreto en el momento de canjear el papel de la fortuna. Contiene un objetivo y la ubicación en la que aparece.",
+        "fr": "Un bout de papier spécial qui ne peut être obtenu que si vous prononcez un certain code secret lors de l'échange d'un omikuji. Indique une cible et l'emplacement où elle émergera.",
+        "id": "Slip khusus yang hanya bisa didapatkan kalau kamu mengucapkan kode rahasia saat menukarkan Slip Keberuntungan. Slip khusus ini mencatat pergerakan target dan lokasi kemunculannya.",
+        "jp": "引き換えの際、ある「合言葉」を言うことでのみ得られる特別なおみくじ。ターゲットとその出没地点が記されている。",
+        "kr": "「점괘」 교환 시 어떤 「암호」를 대면, 타깃의 움직임 및 출몰 지점이 기록되어 있는 특수한 점괘를 획득할 수 있다고 한다",
+        "pt": "Um Rolinho especial que só pode ser obtido se você falar um certo código secreto enquanto estiver trocando por um Rolinho da Sorte. Indica um alvo e a localização que ele aparecerá.",
+        "ru": "Особый гадальный листок. Необходимо назвать пароль, чтобы получить его в обмен на гадальную палочку. Содержит цель и место её появления.",
+        "th": "คำทำนายพิเศษที่จะได้รับเมื่อพูด \"รหัสลับ\" ในตอนแลกรับ \"ใบเซียมซี\" เท่านั้น บันทึกเป้าหมายที่ต้องจัดการและตำแหน่งที่มันจะโผล่ออกมา",
+        "vi": "Chữ trên quẻ nhận được khi đọc \"ám ngữ\" lúc đổi \"Thẻ Ngự Thần\". Ghi chép mục tiêu hành động và địa điểm xuất hiện."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

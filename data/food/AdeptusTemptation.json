@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Adeptus' Temptation",
+        "de": "Versuchung der Adepten",
+        "chs": "仙跳墙",
+        "cht": "仙跳牆",
+        "es": "Tentación de Adeptus",
+        "fr": "Attrape-Adepte",
+        "id": "Adeptus' Temptation",
+        "jp": "仙跳牆",
+        "kr": "선도장",
+        "pt": "Tentação do Adeptus",
+        "ru": "«Искушение Адепта»",
+        "th": "Adeptus' Temptation",
+        "vi": "Tiên Nhảy Tường"
+    },
+    "id": 5101,
+    "foodType": "COOK_FOOD_ATTACK",
+    "cookMethod": "COOK_METHOD_BOIL",
+    "rankLevel": 5,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 25,
+    "inputVec": [
+        {
+            "id": 110005,
+            "count": 4
+        },
+        {
+            "id": 100073,
+            "count": 3
+        },
+        {
+            "id": 100093,
+            "count": 3
+        },
+        {
+            "id": 100063,
+            "count": 3
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108122,
+            "count": 1
+        },
+        {
+            "id": 108123,
+            "count": 1
+        },
+        {
+            "id": 108124,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.63,0.17",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Increases all party members' ATK by <color=#3399CCFF>260–372</color> and CRIT Rate by <color=#3399CCFF>8–12%</color> for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "de": "Erhöht den ANG aller Truppenmitglieder 300 s lang um <color=#3399CCFF>260 bis 372</color> Punkte und die KT um <color=#3399CCFF>8 bis 12 %</color>. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+        "chs": "队伍中所有角色攻击力提高<color=#3399CCFF>260-372</color>点，暴击率提升<color=#3399CCFF>8%-12%</color>，持续300秒。 多人游戏时，仅对自己的角色生效。",
+        "cht": "隊伍中所有角色攻擊力提高<color=#3399CCFF>260-372</color>點，暴擊率提升<color=#3399CCFF>8%-12%</color>，持續300秒。 多人遊戲時，僅對自己的角色生效。",
+        "es": "Aumenta el ATQ <color=#3399CCFF>260-372</color> pts y la Prob. CRIT un <color=#3399CCFF>8%-12%</color> de todos los miembros del equipo durante 300 s. En modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
+        "fr": "Augmente l'ATQ de <color=#3399CCFF>260 à 372</color> pts et le taux CRIT de <color=#3399CCFF>8 % à 12 %</color> pour tous les personnages de l'équipe pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+        "id": "Meningkatkan ATK semua anggota party sebanyak <color=#3399CCFF>260–372</color> dan CRIT Rate sebanyak <color=#3399CCFF>8–12%</color> selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+        "jp": "チーム全員の攻撃力+<color=#3399CCFF>260~372</color>、会心率+<color=#3399CCFF>8%~12%</color>、継続時間300秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
+        "kr": "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>260-372</color>pt, 치명타 확률이 <color=#3399CCFF>8%-12%</color> 증가한다. 지속 시간: 300초 다인 모드 시 자신의 캐릭터에만 적용된다",
+        "pt": "Aumenta o ATQ de todos os membros da Equipe em <color=#3399CCFF>260 - 372</color> e aumenta Taxa Crítica em <color=#3399CCFF>8% - 12%</color> por 300s. No modo multijogador, o efeito apenas se aplica ao seu personagem.",
+        "ru": "Увеличивает силу атаки на <color=#3399CCFF>260-372</color> ед. и шанс крит. попадания на <color=#3399CCFF>8%-12%</color> всем членам отряда в течение 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "th": "เพิ่มพลังโจมตีให้กับสมาชิกในทีมทั้งหมด <color=#3399CCFF>260-372</color> หน่วย และเพิ่มอัตราคริ <color=#3399CCFF>8%-12%</color> เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+        "vi": "Tăng <color=#3399CCFF>260-372</color> điểm tấn công cho toàn đội, tỷ lệ bạo kích tăng <color=#3399CCFF>8%-12%</color>, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+}

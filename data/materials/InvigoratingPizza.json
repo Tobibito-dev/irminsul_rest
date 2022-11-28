@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Invigorating Pizza",
+        "de": "Belebende Pizza",
+        "chs": "提神醒脑披萨",
+        "cht": "提神醒腦披薩",
+        "es": "Pizza vigorizante",
+        "fr": "Pizza revigorante",
+        "id": "Invigorating Pizza",
+        "jp": "眠気覚ましピザ",
+        "kr": "정신번쩍 피자",
+        "pt": "Pizza Revigorante",
+        "ru": "Бодрящая пицца",
+        "th": "Invigorating Pizza",
+        "vi": "Pizza Tỉnh Táo"
+    },
+    "id": 108044,
+    "materialDesc": {
+        "en": "Jean's specialty. This pizza almost seems more art than food. Just one slice is enough to have you raring to go. Is this what keeps Jean working so hard?",
+        "de": "Jeans Spezialzubereitung. Sie sieht so gleichmäßig aus, dass man sich kaum traut hineinzubeißen. Tut man es doch, ist man wieder voller Energie. Deswegen schafft sie es also, so lange am Stück zu arbeiten?!",
+        "chs": "琴的特色料理。规整得像是工艺品的薄饼，吃一片就可以大大地振奋精神。这就是她能够连续工作的秘密武器吗？",
+        "cht": "琴的特色料理。規整得像是工藝品的薄餅，吃一片就可以大大地振奮精神。這就是她能夠連續工作的秘密武器嗎？",
+        "es": "La especialidad de Jean. Esta pizza parece más arte que comida. Solo una porción es suficiente para recuperar toda la energía. ¿Es este el secreto de Jean para trabajar con tanta diligencia?",
+        "fr": "Spécialité culinaire de Jean. Cette pizza est une œuvre d'art qu'on n'ose pas manger, mais une part suffit pour nous requinquer. Est-ce grâce à ce plat que Jean trouve la force de travailler aussi dur ?",
+        "id": "Masakan andalan Jean. Pizza ini lebih terlihat seperti karya seni dibandingkan masakan. Satu potong saja bisa membuatmu bersemangat! Apakah ini rahasia di balik ketekunan Jean?",
+        "jp": "ジンのオリジナル料理。工芸品のように整えられたピザ。一切れ食べるだけで元気がみなぎる。彼女が何時間も仕事を続けられる秘密は、これだろうか？",
+        "kr": "진의 특제 요리. 예술품 같은 씬 피자다. 한 조각만 먹어도 정신이 번쩍 든다. 이게 바로 몇 날 며칠 동안 야근할 수 있게 해준 비밀 병기인가?",
+        "pt": "#Especialidade de Jean. Essa pizza parece mais uma obra de arte do que comida. Apenas um único pedaço é o suficiente para revigorá-l{F#a}{M#o}. Será que é por isso que a Jean sempre está trabalhando tanto?",
+        "ru": "Особое блюдо Джинн. Эта пицца не просто еда, а произведение искусства. Всего лишь один кусочек может поднять ваш дух до предела. Может, эта пицца и есть то, что заставляет Джинн всегда идти вперёд и не сдаваться?",
+        "th": "เมนูพิเศษของ Jean พิซซ่าที่ดูเหมือนจะเป็นงานศิลปะมากกว่าอาหาร เพียงแค่ชิ้นเดียวก็มากพอจะให้คุณ พร้อมออกไปตะลุย หรือว่านี่คือเคล็ดลับการทำงานหนัก ของ Jean กันแน่นะ?",
+        "vi": "Món độc quyền của Jean. Trông giống như tác phẩm nghệ thuật, ăn một miếng có thể khiến tinh thần phấn chấn. Đây chính là vũ khí bí mật khiến cô ấy làm việc không mệt mỏi sao?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

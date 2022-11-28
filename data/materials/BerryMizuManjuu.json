@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Berry Mizu Manjuu",
+        "de": "Beeren-Mizu-Dampfbrötchen",
+        "chs": "树莓水馒头",
+        "cht": "樹莓水饅頭",
+        "es": "Pastelillos de bayas acuosos",
+        "fr": "Mizu manju aux baies",
+        "id": "Berry Mizu Manjuu",
+        "jp": "ラズベリー水まんじゅう",
+        "kr": "라즈베리 물방울 떡",
+        "pt": "Mizu Manjuu de Baga",
+        "ru": "Ягодный мидзу мандзю",
+        "th": "Berry Mizu Manjuu",
+        "vi": "Mochi Mâm Xôi"
+    },
+    "id": 108349,
+    "materialDesc": {
+        "en": "A crystal-clear snack. The transparent skin wraps the yellow filling. It is said that some vendors will put these snacks into a small clay bowl and immerse it in water to ensure that the cool mouthfeel is retained. This dish is as transparent as water, but it will not be washed away by flowing water — this is probably the origin of the name.",
+        "de": "Ein kristallklarer Leckerbissen. Die durchscheinende Hülle umgibt die gelbe Füllung. Es heißt, dass einige fliegende Händler diese Speisen in eine kleine Tonschale legen und sie in Wasser tauchen, damit das frische Gefühl im Mund erhalten bleibt. Diese Hülle ist durchsichtig wie Wasser, wird aber von fließendem Wasser nicht weggetragen. Daher wohl auch der Name.",
+        "chs": "晶莹剔透的点心。透明的外皮包裹着黄澄澄的内馅。据说有的商贩会将其置于小陶碗，再浸入水中，以保证清凉的口感。透明似水，却又不会被流水冲走，大概就是它名字的来由吧。",
+        "cht": "晶瑩剔透的點心。透明的外皮包裹著黃澄澄的內餡。據說有的商販會將其置於小陶碗，再浸入水中，以保證清涼的口感。透明似水，卻又不會被流水沖走，大概就是它名字的來由吧。",
+        "es": "Un postre de aspecto brillante y traslúcido. A través de su exterior transparente puede verse un dorado relleno. Se dice que algunos comerciantes los colocan en un cuenco de porcelana y los sumergen en agua para conservar su frescura. Su aspecto es transparente como el agua, pero esta nunca los deshace, lo cual podría explicar el motivo del nombre de este postre.",
+        "fr": "Un encas clair comme du cristal. La peau transparente enveloppe la garniture jaune. Certains restaurateurs placent ces bouchées dans un petit bol en argile et les immergent avec de l'eau pour qu'elles gardent une température fraîche. Ce mets est aussi transparent que l'eau, mais ne se laisse pas emporter par elle... C'est ainsi que peut s'expliquer l'origine de son nom.",
+        "id": "Camilan sebening kristal. Kulit transparannya membungkus isian berwarna kuning. Dikatakan bahwa beberapa penjual akan memasukkan makanan ringan ini ke dalam mangkuk tembikar kecil dan merendamnya dalam air untuk memastikan rasa dingin di mulut tetap terjaga. Hidangan ini sama transparannya seperti air, namun tidak akan hanyut oleh air yang mengalir itu sendiri — mungkin inlah asal-usul dari namanya.",
+        "jp": "透き通ったお菓子。透明の皮で黄金色の餡を包んだ食べ物。ひんやりと爽やかな食感を保つために、それを陶製のお椀に入れて、水に浸ける商人もいるそうだ。水のように透明だが、水に流されない、それがこの名の由来だろう。",
+        "kr": "반짝이고 투명한 후식. 투명한 외피가 샛노란 소를 감싸고 있다. 어떤 장사꾼은 작은 그릇에 넣은 후 물속에 담가 청량한 맛을 내기도 한다. 물처럼 투명하지만 흐르는 물에 휩쓸리지 않는 특징 때문에 이런 이름을 가지게 되었다",
+        "pt": "Um lanche cristalino. A pele transparente envolve o recheio amarelo. Diz-se que alguns vendedores colocarão estes lanches em uma pequena tigela de barro e a imergirão em água para garantir que a sensação de frescor na boca seja mantida. Este prato é tão transparente quanto a água, mas não será levado pela água corrente - esta é provavelmente a origem do nome.",
+        "ru": "Блестящий полупрозрачный десерт. Сквозь прозрачную оболочку видна жёлтая начинка. Говорят, что некоторые торговцы кладут его в фарфоровую чашу и погружают в воду, чтобы сохранить его свежий вкус. Это блюдо выглядит прозрачным, как вода, но не растворяется в ней, что может объяснить происхождения названия этого десерта.",
+        "th": "ขนมสีโปร่งใส ผิวชั้นนอกโปร่งใสห่อหุ้มไส้สีเหลืองเอาไว้ คนขายบางคนจะนำมันใส่ลงไปในชามเครื่องปั้นดินเผาขนาดเล็ก แล้วนำไปแช่น้ำเพื่อให้ได้รสชาติที่สดชื่นยิ่งขึ้น รูปร่างโปร่งใสเหมือนน้ำ แต่ไม่ถูกสายน้ำพัดพาไป นี่น่าจะเป็นที่มาของชื่อของมัน",
+        "vi": "Món ăn có màu sắc trong trẻo lung linh. Lớp vỏ trong suốt bên ngoài bọc lấy lớp nhân vàng nhạt. Nghe nói có tiệm còn đặt nó vào chén sứ rồi ngâm trong nước để giữ được vị mát của món ăn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

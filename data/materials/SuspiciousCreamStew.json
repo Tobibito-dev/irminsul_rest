@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Cream Stew",
+        "de": "Misslungener Sahneeintopf",
+        "chs": "奇怪的白汁时蔬烩肉",
+        "cht": "奇怪的白醬時蔬燴肉",
+        "es": "Guisado de temporada extraño",
+        "fr": "Ragoût à la crème (suspect)",
+        "id": "Suspicious Cream Stew",
+        "jp": "微妙なホワイトソースポトフ",
+        "kr": "이상한 크림 스튜",
+        "pt": "Ensopado de Creme Estranho",
+        "ru": "Странное сливочное рагу",
+        "th": "Cream Stew รสประหลาด",
+        "vi": "Rau Củ Hầm Kem Kỳ Lạ"
+    },
+    "id": 108037,
+    "materialDesc": {
+        "en": "A meat and vegetable stew. Surprisingly dry for something that's meant to have liquid.",
+        "de": "Ein milder Eintopf mit frischer Sahne. Zu sehr eingedickt hat dieser Eintopf eher die Konsistenz von Kartoffelbrei, leider aber nicht den Geschmack.",
+        "chs": "奶油炖煮的烩菜。过干的收汁让这道菜更像铁盘煎肉。",
+        "cht": "鮮奶油燉煮的燴菜。過乾的收汁讓這道菜更像鐵板煎肉。",
+        "es": "Guiso de carne y verduras. Sorprendentemente seco para un plato que normalmente tiene mucho jugo.",
+        "fr": "Un ragoût de viande et de légumes. Un peu sec pour un plat à la crème...",
+        "id": "Sup yang berisi daging dan sayuran. Anehnya, sup ini rasanya... \"kering\".",
+        "jp": "クリームで煮込んだポトフ。ソースが乾いているせいで、鉄板焼きのような料理になっている。",
+        "kr": "고기와 채소를 크림에 넣고 조린 요리. 너무 조린 탓에 철판구이가 돼버렸다",
+        "pt": "Ensopado de Creme com carne e vegetais. Muito seco para algo que era suposto ter algum líquido.",
+        "ru": "Рагу из мяса и овощей. Удивительно сухо для блюда, основой которого является подлив.",
+        "th": "สตูเนื้อกับผัก ที่แห้งได้อย่างไม่น่าเชื่อ ทั้งที่เป็นสตูแท้ๆ",
+        "vi": "Món thập cẩm hầm kem. Rút hết nước làm cho món này trông như thịt chiên trên vỉ sắt."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

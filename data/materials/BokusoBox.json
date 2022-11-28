@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bokuso Box",
+        "de": "Bokuso-Kasten",
+        "chs": "睦疏之匣",
+        "cht": "睦疏之匣",
+        "es": "Caja de armonización",
+        "fr": "Boîte de Bokuso",
+        "id": "Bokuso Box",
+        "jp": "睦疎の箱",
+        "kr": "보쿠소의 함",
+        "pt": "Caixa de Bokuso",
+        "ru": "Шкатулка Бокусо",
+        "th": "กล่อง Bokuso",
+        "vi": "Hộp Bokuso"
+    },
+    "id": 220049,
+    "materialDesc": {
+        "en": "Use this to clear a certain area in Enkanomiya of the darkness' influence.\\nThe name \"Bokuso\" is formed from \"boku,\" meaning \"to draw near to what is good,\" and \"so,\" meaning \"to shun that which is tainted.\"",
+        "de": "Benutze dies, um ein bestimmtes Gebiet in Enkanomiya von dem schwarzen Nebel zu befreien.\\nDer Name „Bokuso“ setzt sich zusammen aus „boku“, was „sich dem Guten nähern“ bedeutet, und „so“, was „das Verdorbene meiden“ bedeutet.",
+        "chs": "使用后，可以清除一定范围内，渊下宫黑雾的影响。\\n「亲近美好之物」谓之「睦」，「远离污秽之物」谓之「疏」。此即「睦疏」之意。",
+        "cht": "使用後，可以清除一定範圍內，淵下宮黑霧的影響。\\n「親近美好之物」謂之「睦」，「遠離污穢之物」謂之「疏」。此即「睦疏」之意。",
+        "es": "Un objeto que elimina la niebla oscura de Enkanomiya en cierta AdE.\\nLa Caja de la armonización sirve para acercar las cosas a un estado de perfección y para limpiar lo corrupto y lo impuro, de ahí su nombre.",
+        "fr": "#Utilisez cette boîte pour dissiper l'influence des ténèbres dans une certaine zone d'Enkanomiya.\\nLe nom « Bokuso » est formé de «{NON_BREAK_SPACE}boku{NON_BREAK_SPACE}», qui signifie « s'approcher de ce qui est bon », et « so », qui signifie « éviter ce qui est souillé{NON_BREAK_SPACE}».",
+        "id": "Setelah digunakan, benda ini dapat membersihkan satu area tertentu di Enkanomiya dari pengaruh kegelapan.\\nNama \"Bokuso\" diambil dari \"boku\", yang artinya \"mendekati sesuatu yang baik dan indah\", dan \"so\", yang artinya \"menjauhi sesuatu yang kotor dan ternoda\".",
+        "jp": "使用後、一定範囲内の淵下宮の黒霧による効果を消すことができる。\\n「美しいものに近づける」ことを「睦」といい、「汚れたものを遠ざける」ことを「疎」という。これが「睦疎」の意味である。",
+        "kr": "사용 후 일정 범위 내의 연하궁 검은 안개의 영향을 없앨 수 있다.\\n「친근하고 아름다운 것을 가까이하는 것」을 일컬어 「보쿠(睦)」라고 부르고, 「오염된 물건을 멀리하는 것」을 일컬어 「소(疎)」라고 부른다. 이게 「보쿠소」의 진짜 의미다",
+        "pt": "Use isso para eliminar a Escuridão de uma certa área de Enkanomiya.\\nO nome \"Bokuso\" é formado de \"boku\" que significa \"aproximar o que é bom\" e \"so\", que significa \"afastar o que está sujo\".",
+        "ru": "Используйте её, чтобы очистить определённую область в Энканомии от влияния тьмы.\\nНазвание Бокусо состоит из двух частей: «боку», что означает «приближаться к тому, что хорошо», и «со», что означает «сторониться того, что запятнано».",
+        "th": "เมื่อใช้แล้ว จะสามารถลบล้างเอฟเฟกต์หมอกดำของ Enkanomiya ภายในขอบเขตที่กำหนดได้\\nคำว่า \"Boku\" แปลว่า \"เข้าใกล้สิ่งที่ดีงาม\" และคำว่า \"So\" แปลว่า \"หลีกเลี่ยงสิ่งที่เลวร้าย\" นี่แหละคือความหมายของ \"Bokuso\"",
+        "vi": "Sau khi dùng, có thể xóa bỏ ảnh hưởng của màn sương đen ở Enkanomiya trong một phạm vi nhất định.\\nCái tên Bokuso được hình thành từ \"boku\" có nghĩa là \"đến gần những thứ đẹp đẽ\", và \"so\" có nghĩa là \"tránh xa những thứ bẩn thỉu\"."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

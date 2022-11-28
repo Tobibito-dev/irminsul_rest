@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Dragonspine Spear",
+        "de": "Drachengratspeer",
+        "chs": "龙脊长枪",
+        "cht": "龍脊長槍",
+        "es": "Lanza de Espinadragón",
+        "fr": "Lance Dosdragon",
+        "id": "Dragonspine Spear",
+        "jp": "ドラゴンスピア",
+        "kr": "용의 척추",
+        "pt": "Lança da Espinha do Dragão",
+        "ru": "Копьё Драконьего хребта",
+        "th": "Dragonspine Spear",
+        "vi": "Thương Long Tích"
+    },
+    "id": 13409,
+    "type": "WEAPON_POLE",
+    "rankLevel": 4,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 41.067100524902344
+        },
+        {
+            "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+            "value": 0.15013299882411957
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0770000219345093,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1540000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2300000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.305999994277954,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3819999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4570000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5329999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6069999933242798,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6820000410079956,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8309999704360962,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9049999713897705,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9789999723434448,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.052000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.125999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1989998817443848,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2720000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.3450000286102295,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4170000553131104,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.634000062942505,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7070000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7780001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8499999046325684,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.921999931335449,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.993000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.065000057220459,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.135999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2070000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2780001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3489999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4200000762939453,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.561000108718872,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.631999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7019999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7720000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8420000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9130001068115234,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9830000400543213,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.052999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.122000217437744,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.191999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.26200008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.331999778747559,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.401000022888184,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.4710001945495605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.539999961853027,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.609000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.678999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.748000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.816999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.886000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.954999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.02400016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.1620001792907715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.230999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.300000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.368000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.436999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.50600004196167,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.573999881744385,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.64300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.710999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.78000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.8480000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.915999889373779,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.985000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.052999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.120999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.189000129699707,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.256999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.326000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.394000053405762,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.461999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.53000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.5980000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.664999961853027,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.732999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.801000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.86899995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.936999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.072000026702881,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.139999866485596,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.208000183105469,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.275000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.3429999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.410999774932861,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.478000164031982,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.61299991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.681000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.748000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.815999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.882999897003174,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.949999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 13409,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114005,
+                    "count": 3
+                },
+                {
+                    "id": 112026,
+                    "count": 3
+                },
+                {
+                    "id": 112032,
+                    "count": 2
+                }
+            ],
+            "coinCost": 5000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 25.899999618530273
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 3
+                },
+                {
+                    "id": 112026,
+                    "count": 12
+                },
+                {
+                    "id": 112032,
+                    "count": 8
+                }
+            ],
+            "coinCost": 15000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 51.900001525878906
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 6
+                },
+                {
+                    "id": 112027,
+                    "count": 6
+                },
+                {
+                    "id": 112033,
+                    "count": 6
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 77.80000305175781
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 3
+                },
+                {
+                    "id": 112027,
+                    "count": 12
+                },
+                {
+                    "id": 112033,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 103.69999694824219
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 6
+                },
+                {
+                    "id": 112028,
+                    "count": 9
+                },
+                {
+                    "id": 112034,
+                    "count": 6
+                }
+            ],
+            "coinCost": 35000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 129.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 13409,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114008,
+                    "count": 4
+                },
+                {
+                    "id": 112028,
+                    "count": 18
+                },
+                {
+                    "id": 112034,
+                    "count": 12
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+        "de": "Ein Speer, der aus dem Reißzahn eines Drachen hergestellt wurde. Er fühlt sich seltsam warm an.",
+        "chs": "利用龙之牙制成的长枪。有着奇异的温暖触感。",
+        "cht": "利用龍之牙製成的長槍。有著奇異的溫暖觸感。",
+        "es": "Una lanza creada a partir del colmillo de un dragón. Sorprendentemente, es cálida al tacto.",
+        "fr": "Une lance fabriquée à partir d'un croc de dragon. Une certaine chaleur en émane.",
+        "id": "Sebuah tombak yang dibuat dari gigi naga. Anehnya, tombak ini terasa hangat saat disentuh.",
+        "jp": "龍の牙で作られた長槍。妙に暖かさを感じる。",
+        "kr": "드래곤의 이빨로 만든 장창. 기이한 따뜻함이 느껴진다",
+        "pt": "Uma lança criada a partir da presa de um dragão. É estranhamente quente ao toque.",
+        "ru": "Копьё из драконьих клыков. От него исходит необычное тепло.",
+        "th": "หอกที่สร้างจากเขี้ยวของมังกร เมื่อสัมผัสแล้วให้ความรู้สึกที่อบอุ่นอย่างน่าประหลาด",
+        "vi": "Trường thương được chế tạo từ răng rồng. Có một cảm giác ấm áp kỳ lạ."
+    },
+    "flavor": {
+        "en": "\nHe had a very, very long dream...\n\nHe dreamed that he and everyone else had gone on a long, long journey,\nInto a land where green grass grew, and where soulful songs were sung.\nHe dreamed that he sang along with the gentle people of this land,\nAnd danced in the skies with a dragon as beauteous as a jewel.\n\nWhen he opened his eyes, he was in the sky above a mountain swept by roaring snowstorms.\nThe green, tranquil land had already been painted crimson by fire and blood,\nAnd the song of that sky-blue bard's lyre was almost drowned in the howling tumult.\nAnd that bejeweled, lovely dragon, like a tender lover,\nHad now pierced his neck through with its sharp fangs.\n\n\"Farewell, Mother! My journey is ended.\"\n\"I shall sleep beneath this white, shining silver... and perhaps this, too, is good.\"\n\"Farewell, O lovely bard! And farewell, O lovely dragon!\"\n\"Would that we had met in a different time and place,\"\n\"To meet, to sing and dance together!\"\nSo he thought most sincerely as he lay dying.\n\n\"Now then, this great blessing that pulses through my veins,\"\n\"And the lovely sight of the dark universe that gave me birth...\"\n\"They are now yours to inherit.\"\n",
+        "de": "\nEr hatte einen sehr, sehr langen Traum ...\n\nEr träumte, dass er und alle anderen auf eine lange, lange Reise gegangen waren\nin ein Land, wo grünes Gras wuchs und sanfte Lieder gesungen wurden.\nEr träumte, dass er zusammen mit den sanften Menschen dieses Landes sang,\nund er tanzte am Himmel mit einem Drachen, der so schön wie ein Juwel war.\n\nAls er seine Augen öffnete, befand er sich im Himmel über einem Berg, der von tosenden Schneestürmen heimgesucht wurde.\nDas einst grüne, sanfte Land war bereits von Feuer und Blut karminrot gestrichen worden\nund der Gesang der himmelblauen Bardenleier wäre in dem heulenden Getümmel fast untergegangen.\nDieser liebliche Drache, so hübsch wie ein Juwel und wie ein zärtlicher Liebhaber,\nhatte nun seinen Hals mit seinen scharfen Reißzähnen durchbohrt.\n\n„Leb wohl, Mutter! Meine Reise ist nun zu Ende.“\n„Ich werde unter diesem weißen, glänzenden Silberschnee schlafen gehen ... und vielleicht ist das auch gut so.“\n„Leb wohl, schöner Barde! Und lebe wohl, o lieblicher Drache!“\n„Hätten wir uns doch nur zu einer anderen Zeit und an einem anderen Ort getroffen“\n„um zu spielen, zusammen zu singen und zu tanzen!“\nSo dachte er höchst aufrichtig, als er im Sterben lag.\n\n„Nun denn, dieser große Segen, der durch meine Adern pulsiert“\n„und der schöne Anblick des dunklen Universums, das mich geboren hat ...“\n„Sie gehören nun dir, sie sind dein Erbe.“\n",
+        "chs": null,
+        "cht": "\n他做了一個很長、很長的夢…\n\n夢見他與大家走了很遠、很遠的路，\n來到了歌聲飄舞、綠草芬芳的土地。\n夢見他與這裡善良的人們一同歡歌，\n與寶石一般美麗的巨龍在空中舞蹈。\n\n睜開眼時，是風雪嘶吼的山嶽上空。\n翠綠恬靜的大地已經被火與血染紅，\n那蒼色詩人的琴聲幾乎被咆哮淹沒。\n而那寶石般美麗的巨龍，\n將利齒沒入他的項頸，其姿態猶如纏綿的愛侶。\n\n「再見了，媽媽，我的旅途結束了」\n「沉睡在白銀般閃耀的雪中也不錯」\n「再見了，美麗的詩人、美麗的龍」\n「如果我們能在不同的時間、地點」\n「相遇、歡唱、共舞，那該有多好」\n垂死的他由衷地想。\n\n「在我的血管當中鼓動的深刻祝福」\n「我所誕生的漆黑宇宙的美麗圖景」\n「就由你們繼承吧」\n",
+        "es": "\nTuvo un sueño muy, muy largo...\n\nSoñó que iba con todos ellos a un lugar muy lejano\nen el que la hierba era verde y se cantaban canciones con sentimiento.\nSoñó que cantaba junto a las buenas gentes de esa tierra\ny bailaba en el aire junto a un dragón tan hermoso como una piedra preciosa.\n\nCuando abrió los ojos, estaba en medio de una tormenta sobre las montañas.\nLa verde tierra estaba manchada de sangre y fuego\ny el tumulto ahogaba la canción del bardo.\nY el hermoso dragón, como un amante tierno,\nle hundía los colmillos en el cuello.\n\n“Adiós, madre. Mi viaje terminó”.\n“Dormir en la nieve reluciente no está nada mal”.\n“Adiós, hermoso bardo. Adiós, hermoso dragón”.\n“Si nos encontramos en otro momento, en otro lugar...\npodremos bailar y cantar”.\nEso pensó mientras exhalaba su último suspiro.\n\n“La bendición que corre por mis venas\ny la hermosa vista del universo oscuro que me dio la vida\nson ahora para ustedes”.\n",
+        "fr": "\nIl fit un rêve, un très long rêve...\n\nIl rêva qu'il parcourait un long, un très long chemin avec tout le monde,\npour arriver sur une terre de chants et de danses, couverte d'une herbe verte...\nIl rêva qu'il chantait avec les bonnes gens du pays,\net dansait dans les airs avec un dragon à la beauté rivalisant celle de quelque gemme.\n\nOuvrant les yeux, il réalisa qu'il se tenait sur la montagne, le vent glacial emplissant l'atmosphère d'un son lugubre.\nLa paisible terre verdoyante était maintenant teintée du rouge du feu et du sang,\net le chant de la lyre du barde d'azur était presque noyé sous les rugissements du vent.\nEt le magnifique dragon, tel un amoureux passionné,\nplanta ses crocs dans son cou.\n\n« Adieu, mère. Mon voyage est terminé. »\n« Je dormirai sous cette neige brillant du blanc de l'argent... Ce ne sera pas désagréable. »\n« Adieu, barde, adieu, beau dragon ! »\n« Puissions-nous nous revoir en un temps et un lieu différents, »\n« et chanter et danser ensemble le moment venu ! »\nEt, sur ces paroles douloureusement sincères, il sombra dans la mort.\n\n« La profonde bénédiction qui coule dans mes veines, »\n« et le magnifique paysage du sombre univers d'où je viens... »\n« Cet héritage vous revient à présent. »\n",
+        "id": "\nDia bermimpi, mimpi yang sangat panjang...\n\nDia bermimpi tentang orang-orang termasuk dirinya, berjalan sangat jauh.\nHingga sampai di padang rumput hijau yang riuh oleh lagu.\nDia bermimpi dia sedang bersenang-senang dengan orang yang ada di sana,\nLalu menari bersama naga besar yang cantik layaknya permata di langit.\n\nSaat dia membuka mata, hanya ada gunung tinggi penuh salju di atasnya.\nRerumputan yang hijau itu kini sudah hangus dan penuh dengan darah.\nSuara lantunan lagu itu juga tenggelam oleh suara auman binatang buas.\nDan naga jinak dan cantik layaknya permata itu,\nMenggigit tepat di lehernya menggunakan gigi taringnya.\n\n\"Sampai jumpa, Ibu, perjalananku sudah usai\"\n\"Tertidur dalam salju yang seputih perak yang menyilaukan itu rupanya cukup menyenangkan\"\n\"Sampai jumpa para penyair, sampai jumpa naga yang cantik\"\n\"Kalau kita bisa bertemu di tempat dan waktu yang berbeda\"\n\"Bertemu, bernyanyi dan menari lagi, itu pasti akan sangat menyenangkan\"\nDirinya yang sekarat berpikir dengan tulus.\n\n\"Dalam pembuluh darahku mengalir berkat yang mendalam.\"\n\"Pemandangan menakjubkan dari alam semesta yang gelap di tempat aku dilahirkan.\"\n\"Kalianlah yang mewarisinya.\"\n",
+        "jp": "\n彼はとてつもなく長い夢を見た…\n\n夢の中で彼は仲間とはぐれ、遠い道を行き、\n歌声が響く、緑の草原にたどり着いた。\n心優しい人々と共に歌を歌い、\n宝石のように美しい巨龍と共に空を舞っていた。\n\n目を開けると、吹雪が吹き荒れる山脈にいた。\n緑の大地は火と血によって赤く染められ、\n詩人の琴の音もその中にかき消された。\nそして宝石のように美しかった巨龍は、\n恋人のようにその牙を彼の首にあてた。\n\n「さらばだ、これで俺の旅は終わった」\n「白銀の雪の中に眠るのも悪くない」\n「さらばだ、美しい詩人、美しい龍」\n「もし違う場所、違う時間で」\n「出会い、歌い、踊っていたら、どれだけよかったか」\n死に向かう彼はそう思った。\n\n「俺の血に宿いし祝福よ」\n「この美しく漆黒の宇宙は」\n「お前たちが引き継いでくれ」\n",
+        "kr": "\n그는 아주 기나긴 꿈을 꾸었다…\n\n꿈속에서 그는 모두와 함께 아주 먼 길을 걸어\n노랫소리가 울려 퍼지는 푸른 풀들이 가득한 대지에 도착했다.\n그는 거기서 마음씨 좋은 사람들과 함께 노래 부르고\n보석처럼 아름다운 거대한 드래곤과 함께 공중에서 춤을 추는 꿈을 꾸었다.\n\n눈을 떴을 땐 눈보라가 몰아치는 산 위에 있었다.\n푸르른 대지는 불과 피에 붉게 물들고,\n시인의 하프 소리도 포효 소리에 묻혀 버렸다.\n그리고 그 보석같이 아름답던 거대한 드래곤은 마치 애인처럼\n날카로운 이빨로 그의 목덜미를 뚫었다.\n\n「어머니, 내 여행은 여기까진 가봐요」\n「은처럼 반짝이는 눈 속에 잠드는 것도 괜찮을 것 같아요」\n「아름다운 시인, 아름다운 드래곤이여, 안녕」\n「만약 우리가 다른 시간과 장소에서」\n「만나 노래하고 함께 춤을 췄다면 얼마나 좋았을까」\n그는 죽어가면서 진지하게 생각했다.\n\n「내 혈관 안에서 꿈틀대는 깊은 축복」\n「내가 태어난 어두운 우주의 아름다운 풍경」\n「이제 너희가 이어받아줘」\n",
+        "pt": "\nEle teve um sonho muito, muito longo...\n\nNo sonho, ele e os demais caminharam até um caminho longínquo,\nAté chegarem numa terra onde as canções voavam no vento e se sentia o perfume da grama verde.\nNo sonho, cantou junto com as pessoas honestas dessa terra,\nE o dragão belo como uma joia dançava no céu.\n\nMas quando acordou, somente o som da nevasca rugia no céu.\nA terra verde calma já havia sido pintada pelo vermelho das chamas e do sangue,\nE a melodia da lira do poeta pálido quase foi engolida pelos rugidos.\nE esse dragão belo, apaixonado como um amante\nPenetrou suas presas no pescoço dele.\n\n\"Adeus, mamãe. Minha jornada chegou ao fim\"\n\"Dormir na neve brilhante não é tão ruim assim\"\n\"Adeus, belo poeta e belo dragão\"\n\"Se pudéssemos ter nos encontrado noutro tempo e local\"\n\"Para cantar e dançar, creio que teria sido melhor\"\nPensou sinceramente enquanto morria.\n\n\"Corre uma forte bênção nas profundezas de minhas veias\"\n\"Uma bela imagem do universo escuro em que nasci\"\n\"Herdei de vocês\"\n",
+        "ru": "\nДавным-давно у него была мечта...\n\nОн мечтал, что однажды вместе со всеми уйдёт в далёкое-далёкое путешествие\nв земли, где зеленеет трава, а ветер разносит звуки песен.\nОн мечтал о том, чтобы петь песни вместе с добрыми людьми\nи плясать в облаках с драконом, прекрасным, как самоцвет.\n\nОткрыв глаза, он увидел небо над горными пиками, разрываемое воющими метелями.\nМирные, зелёные земли были окрашены в красный огнём и кровью, \nа песня небесно-голубой лиры барда утонула в нескончаемом рёве.\nА тот прекрасный, что самоцвет, дракон, словно любовник\nвонзал острые зубы в его шею.\n\n«Прощай, мама. Моё путешествие окончено.\nЗабыться вечным сном в снегах, сияющих, как серебро, не так уж и плохо...\nПрощай, очаровательный поэт, прощай, прекрасный дракон!\nВозможно, мы ещё свидимся в другое время и в другом месте\nи сможем вместе петь и танцевать...»\nТаковыми были его искренние мысли, пока он испускал свой последний дух.\n\n«Великое благословение, что течёт по моим венам,\nи прекрасные виды наполненной непроглядной тьмой вселенной, что породила меня...\nЯ передаю вам. Теперь они - ваше наследие...»\n",
+        "th": "\nเขามีความฝันที่ยาวนานแสนนาน...\n\nเขาฝันว่าเขากับทุกคนได้เดินทางไปในที่ที่แสนไกล\nมาถึงดินแดนที่เต็มไปด้วยหญ้าเขียวขจี ที่เต็มไปด้วยเสียงเพลงและการร่ายรำ\nเขาฝันว่าเขาได้ร่วมร้องเพลงไปกับคนที่แสนใจดีที่นี่\nและได้เต้นรำบนอากาศกับมังกรที่งดงามราวกับอัญมณีล้ำค่า\n\nเมื่อเขาลืมตาขึ้น เขาอยู่บนท้องฟ้าเหนือภูเขาที่มีเสียงพายุหิมะคำราม\nดินแดนที่เขียวขจีอันเงียบสงบ ได้ถูกย้อมเป็นสีแดงด้วยไฟและเลือด\nและเสียงพิณของกวีชุดเขียวก็ถูกกลบไปด้วยเสียงคำราม\nและมังกรที่งดงามราวอัญมณีที่เคยเป็นเหมือนคู่รักของเขา\nได้ฝังเขี้ยวอันแหลมคมของมันลงที่คอของเขา\n\n\"ลาก่อนท่านแม่ การเดินทางของข้าสิ้นสุดลงแล้ว\"\n\"การหลับไหลท่ามกลางพื้นหิมะที่ส่องประกายราวกับเงิน ก็ฟังดูไม่เลว\"\n\"ลาก่อน กวีรูปงาม ลาก่อน มังกรที่งดงาม\"\n\"ถ้าเราได้เจอกันในต่างที่ ต่างเวลา\"\n\"ได้ร้องเพลง และเต้นรำร่วมกันอีกครั้ง ก็คงจะดีไม่น้อย\"\nเขาคิดด้วยความจริงใจในขณะที่เขากำลังจะตาย\n\n\"พรอันประเสริฐที่ไหลเวียนอยู่ในสายเลือดของข้า\"\n\"และฉากอันสวยงามของจักรวาลอันมืดมิดที่ให้กำเนิดข้า\"\n\"ขอมอบให้เจ้ารับมันไป\"\n",
+        "vi": "\nAnh đã mơ một giấc mơ rất dài, rất dài...\n\nTrong mơ anh đã đi cùng mọi người một con đường rất xa, rất xa...\nĐến mảnh đất ngập tràn múa ca, cỏ xanh bát ngát.\nTrong mơ anh cùng những người lương thiện nơi đây vui vẻ ca hát,\nCùng Rồng đẹp đẽ như đá quý nhảy múa giữa trời.\n\nKhi mở mắt ra, là bầu trời trên núi cao gió tuyết rít gào.\nVùng đất yên bình tươi xanh đã bị nhuộm đỏ bởi máu và lửa,\nTiếng đàn của nhà thơ gần như bị át đi bởi tiếng gầm.\nCòn Rồng đẹp đẽ như bảo thạch kia hệt như người tình,\nGăm những chiếc răng sắc nhọn lên cổ anh.\n\n\"Tạm biệt, mẹ ơi, hành trình của con đã kết thúc rồi\"\n\"Được ngủ trong tuyết bạc sáng lấp lánh cũng không tồi\"\n\"Tạm biệt, nhà thơ xinh đẹp, rồng đẹp xinh\"\n\"Nếu chúng ta có thể không cùng một thời gian, một địa điểm\"\n\"Gặp gỡ, hát ca, nhảy múa, vậy thì tốt biết mấy\"\nAnh ấy đã suy nghĩ chân thành như vậy trước khi chết.\n\n\"Lời chúc phúc sâu sắc len lỏi trong huyết quản của tôi\"\n\"Bức tranh tuyệt đẹp về vũ trụ tăm tối mà tôi sinh ra\"\n\"Hãy để các người kế thừa\"\n"
+    }
+}

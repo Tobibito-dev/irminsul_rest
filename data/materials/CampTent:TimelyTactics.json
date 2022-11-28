@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Camp Tent: Timely Tactics",
+        "de": "Feldlagerzelt – „Zeittaktik“",
+        "chs": "阵屋行帐-「时策」",
+        "cht": "陣屋行帳-「時策」",
+        "es": "Barracón de cuartel: Estrategia",
+        "fr": "Tente de camp « Tactique opportune »",
+        "id": "Tenda Kamp: Taktik yang Tepat",
+        "jp": "陣屋行帳-「時策」",
+        "kr": "병영 군막-「책략」",
+        "pt": "Tenda do Quartel: Tempo de Estratégias",
+        "ru": "Лагерная ставка: Своевременная тактика",
+        "th": "เต็นท์ประจำค่าย - \"กลยุทธ์ในแง่ของเวลา\"",
+        "vi": "Lều Trại - Chiến Lược"
+    },
+    "id": 390619,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Camp Tent: Timely Tactics.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Feldlagerzelt – Zeittaktik“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「阵屋行帐-『时策』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「陣屋行帳-『時策』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Barracón de cuartel: Estrategia.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la tente de camp « Tactique opportune ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Tenda Kamp: Taktik yang Tepat.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「陣屋行帳-『時策』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「병영 군막-『책략』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Tenda do Quartel: Tempo de Estratégias.\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Лагерная ставка: Своевременная тактика».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างเต็นท์ประจำค่าย - \"กลยุทธ์ในแง่ของเวลา\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lều Trại - Chiến Lược\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

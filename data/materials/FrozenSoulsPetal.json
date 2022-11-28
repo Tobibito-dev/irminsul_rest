@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Frozen Soul's Petal",
+        "de": "Blütenblatt des Gefrorenen Herzens",
+        "chs": "冰封之心的花瓣",
+        "cht": "冰封之心的花瓣",
+        "es": "Pétalo de Corazón Gélido",
+        "fr": "Pétale d'Âme gelée",
+        "id": "Kelopak Frozen Soul",
+        "jp": "氷封の心の花びら",
+        "kr": "얼어붙은 마음의 꽃잎",
+        "pt": "Pétala de Coração Gélido",
+        "ru": "Лепесток Ледяного сердца",
+        "th": "Frozen Soul's Petal",
+        "vi": "Cánh hoa của \"Con Tim Băng Giá\""
+    },
+    "id": 101837,
+    "materialDesc": {
+        "en": "An uncanny petal. At first glance, it seems like ice molded into the shape of a petal, but it is quite soft to the touch.\\n\"Plant my petal at the ending point of the intersection of melodies, and what had once sunk into the earth will re-emerge with the music.\"\\nThat's what Frozen Soul said.",
+        "de": "Ein unglaubliches Blütenblatt. Auf den ersten Blick wirkt es, als hätte man Eisbrocken in die Form eines Blütenblatts geschnitzt, doch in der Hand fühlt es sich sanft an.\\n„Nimm mein Blütenblatt und pflanze es am Ende des Aufeinandertreffens der Töne. Die Berge, die im Boden versunken sind, werden sich zum Klang dieser Musik erheben.“\\nSo sagte es Gefrorenes Herz.",
+        "chs": "不可思议的花瓣。乍看像是把冰块凿成花瓣的形状，触手却很柔软。\\n「拿着我的花瓣，把它种在音律交汇的终点，沉入地下的山脉将为这乐声升起。」\\n——冰封之心是这么说的。",
+        "cht": "不可思議的花瓣。乍看像是把冰塊鑿成花瓣的形狀，觸手卻很柔軟。\\n「拿著我的花瓣，把它種在音律交匯的終點，沉入地下的山脈將為這樂聲升起。」\\n——冰封之心是這麼說的。",
+        "es": "Un pétalo inconcebible. A primera vista, es como si se hubiese esculpido a partir de un trozo de hielo. Resulta realmente suave al tacto.\\n“Planten mi pétalo en donde confluyen las melodías, y aquello que alguna vez se sumergió en la tierra brotará de nuevo con la música”.\\nEstas fueron las palabras de Corazón Gélido.",
+        "fr": "Un pétale particulier. Au premier abord, on pourrait croire qu'il a été façonné dans de la glace, mais sa surface est douce au toucher.\\n« Prenez mon pétale et plantez-le à l'extrémité où les mélodies se rencontrent. Les montagnes qui s'enfoncent dans le sol s'élèveront à leur son. »\\nAinsi furent les mots d'Âme gelée.",
+        "id": "Kelopak yang luar biasa. Sepintas tampak seperti es yang dibentuk menjadi kelopak, namun cukup lembut saat disentuh.\\n\"Tanam kelopakku ini di titik akhir persimpangan melodi, maka apa yang pernah tenggelam ke bumi akan muncul kembali dengan musik.\"\\nItulah yang dikatakan oleh Frozen Soul.",
+        "jp": "不思議な花びら。一見すると氷を花びらの形に掘ったように見えるが、触ると柔らかい。\\n「私の花びらを取って、旋律の交わる先に埋めてみてちょうだい。そうすれば、地下に沈んだ山脈が音楽を響かせようと隆起するはず。」\\n——氷封の心はこう言った。",
+        "kr": "불가사의한 꽃잎. 얼핏 보면 얼음을 깎아 만든 꽃잎 같지만 촉감은 매우 부드럽다.\\n「내 꽃잎을 음률이 만나는 끝자락에 심으면, 지하에 묻힌 산맥이 음악 소리를 듣고 다시 솟아오를 거야.」\\n——얼어붙은 마음이 말했다",
+        "pt": "Uma pétala incrível. À primeira vista, ela parece um pedaço de gelo em forma de pétala, mas macia ao toque.\\n\"Plante minha pétala no ponto final da intersecção das melodias, e o que antes afundou na terra reemergirá com a música.\"\\nFoi isso que o Coração Gélido disse.",
+        "ru": "Необычный лепесток. На первый взгляд, он похож на лёд в форме лепестка, но на ощупь он очень мягкий.\\n«Вот, возьмите мой лепесток и посадите его в конечной точке пересечения мелодий. Пока живы, мы не дадим музыке умолкнуть».\\nТак молвило Ледяное сердце.",
+        "th": "กลีบดอกไม้อัศจรรย์ แวบแรกดูเหมือนเป็นกลีบดอกไม้ที่สลักขึ้นจากน้ำแข็ง แต่เมื่อสัมผัสแล้วกลับนุ่มนวลมาก\\n\"เอากลีบดอกไม้ของฉันไปปลูกไว้ตรงตอนจบที่ท่วงทำนองประสานกัน แล้วเทือกเขาที่จมลงสู่พื้นดินจะสูงขึ้นเพราะเสียงดนตรีนี้\"\\n...Frozen Soul กล่าวไว้เช่นนี้",
+        "vi": "Những cánh hoa thần bí. Thoạt nhìn, nó giống như những viên đá được đục thành hình cánh hoa, nhưng chạm vào lại rất mềm mại.\\n\"Hãy đem cánh hoa của tôi gieo vào điểm cuối nơi giao thoa của âm nhạc, và những gì đã từng chìm vào lòng đất sẽ tái hiện theo âm nhạc.\"\\nCon Tim Băng Giá đã nói như thế."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

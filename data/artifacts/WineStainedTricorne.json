@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Wine-Stained Tricorne",
+        "de": "Weinverschmierte Kapitänsmütze",
+        "chs": "酒渍船帽",
+        "cht": "酒漬船帽",
+        "es": "Gorro de Capitán Manchado de Vino",
+        "fr": "Calot taché de vin",
+        "id": "Wine-Stained Tricorne",
+        "jp": "酒に漬けた帽子",
+        "kr": "술로 얼룩진 수병모",
+        "pt": "Quepe de Capitão Manchado de Vinho",
+        "ru": "Треуголка в пятнах вина",
+        "th": "Wine-Stained Tricorne",
+        "vi": "Mũ Đượm Rượu"
+    },
+    "id": 24213,
+    "setId": 15016,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bamboo Shoot Soup",
+        "de": "Bambussuppe mit Fleischeinlage",
+        "chs": "腌笃鲜",
+        "cht": "醃篤鮮",
+        "es": "Sopa de brotes de bambú",
+        "fr": "Soupe de porc aux pousses de bambou",
+        "id": "Bamboo Shoot Soup",
+        "jp": "腌篤鮮",
+        "kr": "죽순 수프",
+        "pt": "Sopa de Bambu",
+        "ru": "Свиной суп с бамбуком",
+        "th": "Salted Pork Soup",
+        "vi": "Măng Chua Tươi"
+    },
+    "id": 108153,
+    "materialDesc": {
+        "en": "A soup dish that's been stewed for a good long while. The meat and ham have been diced into small pieces, and the soup has been kept on low heat till it turned milky white. The process has brought out the distinct flavors of both kinds of meat, making for an especially tasty soup.",
+        "de": "Eine Suppe, die lange geköchelt wird. Frische Bambussprossen, Fleisch und Schinken werden in kleine Stücke geschnitten und auf kleiner Flamme gekocht, bis das Wasser milchig wird. Die verschiedenen Fleischsorten sorgen für verschiedene Aromen in der Suppe, was ihren Charme ausmacht.",
+        "chs": "久经炖煮的汤羹。将鲜竹笋、鲜肉和火腿切成小块，小火慢炖直至汤色乳白。两种不同质地的肉焕发出不同的风味，而汤汁则尤为鲜美。",
+        "cht": "久經燉煮的湯羹。將鮮竹筍、鮮肉和火腿切成小塊，小火慢燉直至湯色乳白。兩種不同質地的肉煥發出不同的風味，而湯汁則尤為鮮美。",
+        "es": "Un caldo hervido durante mucho tiempo. Los brotes de bambú frescos, la carne y el jamón se cortan en trozos pequeños y se cuecen hasta que la sopa adquiere un color blanco. Las dos texturas de la carne crean distintos sabores y el caldo es muy sabroso.",
+        "fr": "Un bouillon mijoté pendant longtemps. Les pousses de bambou fraîches, la viande et le jambon sont coupés en petits morceaux et cuits jusqu'à ce que la soupe devienne blanche. Les deux textures de viande apportent des saveurs différentes, et sont accompagnées d'un bouillon des plus savoureux.",
+        "id": "Hidangan sup yang direbus cukup lama. Rebung, daging dan ham dipotong kecil-kecil, lalu direbus selama beberapa saat hingga sup berubah menjadi berwarna putih susu. Dua tekstur daging tersebut memberikan rasa yang berbeda, dan rasa supnya juga sangat lezat.",
+        "jp": "長い時間をかけて煮込んだスープ。新鮮なタケノコ、豚肉、ハムを細かく切って、スープが白くなるまで弱火でじっくり煮込む。2種類の肉から異なる味がして、スープに旨味が凝縮される。",
+        "kr": "오래 끓인 수프. 신선한 죽순과 고기, 햄을 작게 썰어서 약불로 우유빛이 될 때까지 천천히 끓인다. 고기와 햄에서 서로 다른 풍미가 느껴지고 맛이 훌륭하다",
+        "pt": "Um prato de sopa que foi fervida durante muito tempo. A carne e o presunto foram cortados em pedaços pequenos, e a sopa foi mantida em fogo brando até ficar esbranquiçada. As duas carnes trouxeram à tona seus sabores distintos, e a sopa é especialmente deliciosa.",
+        "ru": "Суп, варившийся долгое время. Свежие побеги бамбука, мясо и кусочки ветчины выварены до белизны. Два типа мяса имеют разный вкус, но это придаёт супу особый шарм.",
+        "th": "ซุปที่ผ่านการตุ๋นเป็นเวลานาน หน่อไม้ เนื้อสดและแฮมที่หั่นเป็นชิ้น ตุ๋นด้วยไฟอ่อน ๆ จนน้ำซุปกลายเป็นสีขาว เนื้อสัตว์ทั้งสองชนิดให้รสชาติที่ต่างกัน ยิ่งทำให้น้ำซุปอร่อยเป็นพิเศษ",
+        "vi": "Canh được hầm kỹ. Măng trúc, thịt tươi và giăm bông cắt thành từng miếng, dùng lửa nhỏ đun tới khi canh chuyển sang màu trắng sữa. Hai loại thịt khác nhau tỏa ra mùi hương riêng biệt, còn nước dùng thì tuyệt hảo."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Little Liu's Letter",
+        "de": "Brief der kleinen Liu",
+        "chs": "小六的信",
+        "cht": "小六的信",
+        "es": "Carta de la Pequeña Liu",
+        "fr": "Lettre de Petite Liu",
+        "id": "Surat Little Liu",
+        "jp": "六の手紙",
+        "kr": "육이의 편지",
+        "pt": "Carta da Pequena Liu",
+        "ru": "Письмо малышки Лю",
+        "th": "จดหมายของเจ้าหนู Liu",
+        "vi": "Thư Của Bé Liu"
+    },
+    "id": 100626,
+    "materialDesc": {
+        "en": "A letter that Little Liu wrote to Jiayi. The seal isn't all that tight. Best not to open it...",
+        "de": "Brief von der kleinen Liu an Jiayi. Er ist nicht sehr fest verschlossen, sollte aber besser nicht vorzeitig geöffnet werden.",
+        "chs": "小六写给嘉义的信。信件封得不太紧，但还是别打开看比较好…",
+        "cht": "小六寫給嘉毅的信。信件封得不太緊，但還是別打開看比較好…",
+        "es": "Una carta que la pequeña Liu escribió a Jiayi. El sobre no está muy bien cerrado, pero lo mejor será que no la leas.",
+        "fr": "Lettre écrite par Petite Liu à son père, Jiayi. L'enveloppe n'est pas très bien scellée, mais défense de lire quoi que ce soit...",
+        "id": "Sebuah surat yang ditulis Little Liu untuk Jiayi. Suratnya tidak tertutup rapat, tapi lebih baik jangan membukanya...",
+        "jp": "六ちゃんが嘉義に宛てた手紙。きちんと封がされていないが、中身は読まない方がいいだろう…",
+        "kr": "육이가 가의에게 쓴 편지. 봉인이 단단하진 않지만, 열어보지 않는 게 좋을 듯하다…",
+        "pt": "Carta da Pequena Liu para Jiayi. O selo não está bem colado, mas ainda assim é melhor não abrir...",
+        "ru": "Письмо, написанное малышкой Лю для Цзя И. Оно запечатано неплотно, но лучше всё равно не открывать его...",
+        "th": "จดหมายที่เจ้าหนู Liu เขียนถึง Jiayi นั้น ปิดซองจดหมายไม่ค่อยสนิทเท่าไหร่ แต่ยังไงก็อย่าเปิดดูจะดีกว่า...",
+        "vi": "Thư bé Liu viết cho Jiayi. Bức thư không được dán chặt, nhưng không nên mở ra thì tốt hơn..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Tahchin",
+        "de": "Misslungenes Tahchin",
+        "chs": "奇怪的米圆塔",
+        "cht": "奇怪的米圓塔",
+        "es": "Tahchín extraño",
+        "fr": "Tahtchine (suspect)",
+        "id": "Suspicious Tahchin",
+        "jp": "微妙なタフチーン",
+        "kr": "이상한 타친",
+        "pt": "Tahchin Estranho",
+        "ru": "Странный тахчин",
+        "th": "Tahchin รสประหลาด",
+        "vi": "Tahchin Kỳ Lạ"
+    },
+    "id": 108418,
+    "materialDesc": {
+        "en": "A classic rice dish served in large quantities. Its dark-colored shell looks rather suspicious. A bite into its hardened surface feels like a duel between the teeth and the food. For the sake of your poor teeth, you decide to only eat the fillings...",
+        "de": "Ein sättigendes klassisches Reisgericht, das in großzügigen Portionen serviert wird. Seine dunkel gefärbte Kruste sieht ziemlich verdächtig aus. Ein Biss auf seine gehärtete Oberfläche fühlt sich an wie ein Duell zwischen den Zähnen und dem Essen. Deinen armen Zähnen zuliebe beschließt du, nur die Füllungen zu essen ...",
+        "chs": "量大管饱的经典主食。外壳的颜色看起来很深，感觉不太妙。尝了一口，过度的焦硬给人一种食物在和牙齿吱吱嘎嘎打架的错觉。为了牙齿的健康，只吃里面的部分好了…",
+        "cht": "超大份量富有飽食感的經典主食。外殼的顏色看起來很深，感覺不太妙。嚐了一口，過度的焦硬給人一種食物在和牙齒吱吱嘎嘎打架的錯覺。為了牙齒的健康，只吃裡面的部分好了…",
+        "es": "Un clásico plato de arroz que se sirve en gran cantidad y que resulta muy saciante. El color de la parte exterior ennegrecido no parece muy apetitoso. Al probarlo, está tan duro que da la sensación de que la comida está luchando con los dientes. Por el bien de la salud dental, es mejor comer solo el relleno...",
+        "fr": "Un plat de riz classique et rassasiant servi en grande quantité. Sa partie extérieure a une couleur sombre, ce qui est loin d'être appétissant. Quand on le goûte, il est tellement dur qu'on a l'impression de se battre avec pour le manger. Il est préférable de ne consommer que la garniture afin de préserver l'intégrité de vos dents...",
+        "id": "Hidangan nasi klasik yang mengenyangkan disajikan dalam jumlah besar. Keraknya yang berwarna gelap kelihatannya sedikit mencurigakan. Gigitan di permukaannya yang sekeras batu jadi seperti sebuah pertarungan antara gigi dan makanan. Demi kesehatan dan keselamatan gigi, lebih baik makan isinya saja ....",
+        "jp": "量が多く、食べ応えのある定番の一品。殻の色が濃く、何だか嫌な予感がする。食べてみると、焦げすぎの硬さに食べ物が歯と戦っているような錯覚に陥ってしまう。歯の健康のためには、中の部分だけ食べるのがいいだろう…",
+        "kr": "양이 많아 배부르게 먹을 수 있는 주식. 겉면의 색이 지나치게 짙은 것이 상태가 썩 좋아 보이지는 않는다. 한입 베어 물면 딱딱하게 탄 맛이 느껴지며 식자재들이 치아 사이에서 시끄럽게 싸우는 듯한 착각마저 든다. 치아 건강을 위해 안쪽만 먹도록 하자…",
+        "pt": "Um clássico prato de arroz recheado servido em grandes quantidades. A cor da parte externa escurecida não parece muito apetitosa. Quando você prova, é tão duro que parece que a comida está brigando com os seus dentes. Por uma questão de saúde bucal, é melhor comer apenas o recheio...",
+        "ru": "Большая порция классического тахчина. Сверху блюдо покрыто неприятной коричневой коркой, а пересушенный рис так и хрустит на зубах. Если зубы вам ещё дороги, не советуем есть верхний слой этого тахчина...",
+        "th": "เมนูจานหลักที่ปริมาณจุใจ เปลือกนอกสีเข้มดูท่าทางไม่น่าไว้วางใจ เมื่อลองชิมดูคำนึงแล้ว อาหารที่แข็งกระด้างกระทบกับฟันจนเกิดเสียงกึกกัก เพื่อสุขภาพฟัน ยังไงก็กินแค่ส่วนที่อยู่ด้านในจะดีกว่านะ...",
+        "vi": "Một món cơm kinh điển được phục vụ với số lượng lớn. Vỏ ngoài sậm màu trông không ổn cho lắm. Cắn thử một miếng, miếng cơm quá cứng làm cho người ta có cảm giác như cơm đang đánh nhau chí chóe với răng vậy. Để bảo vệ hàm răng thì tốt nhất chỉ nên ăn phần bên trong thôi..."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Noelle's Stella Fortuna",
+        "de": "Stella Fortuna von Noelle",
+        "chs": "诺艾尔的命星",
+        "cht": "諾艾爾的命星",
+        "es": "Stella Fortuna de Noelle",
+        "fr": "Stella Fortuna de Noëlle",
+        "id": "Noelle's Stella Fortuna",
+        "jp": "ノエルの星屑",
+        "kr": "노엘의 운명의 별",
+        "pt": "Stella Fortuna de Noelle",
+        "ru": "Удача Ноэлль",
+        "th": "ดวงดาวแห่งชีวิตของ Noelle",
+        "vi": "Chòm Sao Của Noelle"
+    },
+    "id": 1134,
+    "materialDesc": {
+        "en": "Noelle's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Noelles Sternbild",
+        "chs": "诺艾尔的命之座激活素材",
+        "cht": "諾艾爾的命之座啟用素材。",
+        "es": "Material de activación de constelación de Noelle",
+        "fr": "Matériau d'activation de la constellation de Noëlle.",
+        "id": "Material aktivasi untuk konstelasi Noelle",
+        "jp": "ノエルの命ノ星座アンロック用素材",
+        "kr": "노엘의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Noelle",
+        "ru": "Материал для активации созвездия Ноэлль.",
+        "th": "วัสดุเปิดใช้งานกลุ่มดาวของ Noelle",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Noelle"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Cold Cut Platter",
+        "de": "Rezept: Kalte Fleischplatte",
+        "chs": "食谱：冷肉拼盘",
+        "cht": "食譜：冷肉拼盤",
+        "es": "Receta: Plato de carnes frías",
+        "fr": "Recette : Assortiment de charcuterie",
+        "id": "Resep: Cold Cut Platter",
+        "jp": "レシピ：冷製肉盛り合わせ",
+        "kr": "레시피: 냉채수육",
+        "pt": "Receita: Prato de Carnes Frias",
+        "ru": "Рецепт: Мясное ассорти",
+        "th": "สูตรอาหาร: Cold Cut Platter",
+        "vi": "Công Thức: Thịt Lạnh"
+    },
+    "id": 109204,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Cold Cut Platter.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Kalte Fleischplatte“.",
+        "chs": "步骤详实的食谱，记载着「冷肉拼盘」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「冷肉拼盤」的製作方法。",
+        "es": "Receta paso a paso para hacer un plato de carnes frías.",
+        "fr": "Étapes de préparation de l'assortiment de charcuterie.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Cold Cut Platter.",
+        "jp": "「冷製肉盛り合わせ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「냉채수육」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo de \"Prato de Carnes Frias\".",
+        "ru": "Подробный рецепт приготовления блюда «Мясное ассорти».",
+        "th": "สูตรอธิบายวิธีทำ \"Cold Cut Platter\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thịt Lạnh\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

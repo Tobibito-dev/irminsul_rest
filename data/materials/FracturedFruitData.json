@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fractured Fruit Data",
+        "de": "Frucht-Fragment-Daten",
+        "chs": "碎果数据",
+        "cht": "碎果數據",
+        "es": "Datos del fruto",
+        "fr": "Données de fruit fracturé",
+        "id": "Fractured Fruit Data",
+        "jp": "砕実データ",
+        "kr": "부서진 열매 데이터",
+        "pt": "Dados dos Fragmentos do Fruto",
+        "ru": "Данные раздробленного плода",
+        "th": "Fractured Fruit Data",
+        "vi": "Dữ Liệu Mảnh Quả"
+    },
+    "id": 122,
+    "materialDesc": {
+        "en": "Irminsul Fruit fragment data that you have obtained via calculations and analysis performed by the Energy Amplifier. It contains a vast bounty of knowledge that may yet lead to surprising gains if you use it well.",
+        "de": "Daten über die Irminsul-Frucht-Fragmente, erhalten durch die Nutzung der Energieleitscheibe. Bei geschickter Nutzung können die Belohnungen dafür gewaltig ausfallen.",
+        "chs": "借用导能原盘分析运算后得到的「地脉之果」碎片数据，承载了海量知识。加以善用的话，能获得令人惊喜的回馈。",
+        "cht": "藉由導能原盤分析運算後得到的「地脈之果」碎片數據，承載了大量知識。加以善用的話，能獲得令人驚喜的回饋。",
+        "es": "Datos sobre los fragmentos de fruto ley obtenidos mediante los cálculos y análisis del amplificador de energía. Contienen un vasto conocimiento que puede otorgarte ganancias sorprendentes si lo usas bien.",
+        "fr": "Données de fruit fracturé obtenues grâce aux calculs et aux analyses de l'Amplificateur d'énergie. Elles renferment une multitude de connaissances qui pourraient aboutir à de surprenants résultats en les utilisant efficacement.",
+        "id": "Data pecahan Irminsul Fruit yang kamu dapat melalui perhitungan dan analisis dari Energy Amplifier. Berisi banyak pengetahuan yang bisa memberikan banyak keuntungan jika digunakan dengan baik.",
+        "jp": "エネルギー原盤で分析し得た「地脈の実」の欠片のデータ、大量の情報がこもっている。活用することで、驚きのお返しを獲得できるだろう。",
+        "kr": "전도 원판으로 분석하고 계산해 얻어낸 「지맥의 열매」 조각 데이터엔 방대한 지식이 담겨있다. 이를 잘 활용한다면, 놀라운 결과를 얻게 될 수 있다",
+        "pt": "Dados de fragmentos do Fruto da Linha Ley que você obteve através de cálculos e análises realizadas pelo Disco de Adivinhação. Eles contêm uma grande quantidade de conhecimento que ainda pode gerar benefícios surpreendentes se você os utilizar bem.",
+        "ru": "Данные плода Ирминсула, полученные с помощью анализа и расчётов посредством диска усиления. При правильном применении они могут принести удивительные результаты.",
+        "th": "เมื่อใช้ \"Fractured Fruit Data\" ที่ได้รับหลังจากการวิเคราะห์แผ่นควบคุมพลังงานก็จะได้ความรู้มากมาย หากใช้ประโยชน์ในทางที่ดี คุณจะได้รับข้อเสนอแนะที่น่าทึ่งเลยล่ะ",
+        "vi": "Dữ liệu của Mảnh \"Quả Địa Mạch\" nhận được sau khi dùng Đĩa Dẫn Năng Lượng phân tích tính toán chứa đựng lượng tri thức khổng lồ. Nếu vận dụng một cách thỏa đáng, nó có thể mang lại những điều vô cùng bất ngờ."
+    },
+    "materialType": false
+}

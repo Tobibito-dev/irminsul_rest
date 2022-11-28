@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Climbing Finish Line Garland",
+        "de": "Blumenkranz am Kletterendpunkt",
+        "chs": "攀爬终点花环",
+        "cht": "攀爬終點花環",
+        "es": "Guirnalda de línea de meta de escalada",
+        "fr": "Bande de ligne d'arrivée (Escalade)",
+        "id": "Bunga Garis Akhir Pendakian",
+        "jp": "登攀ゴールガーランド",
+        "kr": "등반 결승점 화환",
+        "pt": "Grinalda de Faixa de Linha de Chegada de Escalada",
+        "ru": "Финишный венок карабканья",
+        "th": "Climbing Finish Line Garland",
+        "vi": "Vòng Hoa Leo Núi"
+    },
+    "id": 100007,
+    "materialDesc": {
+        "en": "Marker indicating the finish line of the Climbing Competition.",
+        "de": "Objekt, das das Ende für den Kletterwettkampf anzeigt.",
+        "chs": "攀爬比赛终点的标记物",
+        "cht": "攀爬比賽終點的標記物。",
+        "es": "Marcador que señala la línea de meta de la Competición de Escalada.",
+        "fr": "Une bande qui indique la ligne d'arrivée lors du Championnat d'escalade.",
+        "id": "Benda yang menandakan garis akhir lomba mendaki.",
+        "jp": "登りレースのゴールマーカー",
+        "kr": "등반 시합 결승점의 표식",
+        "pt": "Marca sinalizadora da linha de chagada da Competição de Escalada.",
+        "ru": "Венок, отмечающий финишную линию во время соревнований по карабканью.",
+        "th": "เครื่องหมายสำหรับบอกจุดที่เป็นเส้นชัยของการแข่งขันการปีนผา",
+        "vi": "Vật đánh dấu điểm cuối của Thi Đấu Leo Núi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

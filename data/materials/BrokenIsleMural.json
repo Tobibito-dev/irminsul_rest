@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Broken Isle Mural",
+        "de": "Wandmalerei der Ruineninsel",
+        "chs": "「破破岛」的壁画",
+        "cht": "「破破島」的壁畫",
+        "es": "Mural de la Isla Partida",
+        "fr": "Fresque des Îles brisées",
+        "id": "Mural Broken Isle",
+        "jp": "「ボロボロ島」の壁画",
+        "kr": "「너덜너덜섬」의 벽화",
+        "pt": "Mural da Ilha Abandonada",
+        "ru": "Рисунок с Изломанного острова",
+        "th": "ภาพวาดฝาผนังเกาะร้าง",
+        "vi": "Bích Họa Đảo Vỡ Vụn"
+    },
+    "id": 100842,
+    "materialDesc": {
+        "en": "A mural that you found on a stone wall on Broken Isle. It depicts five strange objects...",
+        "de": "Die Wandmalerei, die du an einer Steinwand auf der Ruinen-Insel gefunden hast. Sie scheint fünf komische Gegenstände darzustellen ...",
+        "chs": "从「破破岛」的石壁上记录下来的壁画。画中描绘着五个奇怪的物体…",
+        "cht": "從「破破島」的石壁上記錄下來的壁畫。畫中描繪著五個奇怪的物體…",
+        "es": "Una imagen de un mural que había en un peñasco de la Isla Partida. En ella, se ven cinco objetos extraños.",
+        "fr": "Une fresque que vous avez trouvée sur un mur en pierre des Îles brisées. Elle représente cinq objets étranges...",
+        "id": "Salinan dari mural yang ditemukan di Broken Isle. Sepertinya mural ini menggambarkan lima benda yang aneh...",
+        "jp": "「ボロボロ島」の石壁から写した壁画。5つの奇妙な物体が描かれているようだ…",
+        "kr": "「너덜너덜섬」의 바위 벽에 그려진 벽화. 5개의 이상한 물체를 그린 것 같다…",
+        "pt": "Um desenho de um mural que estava em uma parede de pedra na Ilha Abandonada. O mural parece representar cinco objetos estranhos...",
+        "ru": "Рисунок, который был обнаружен на каменной стене на Изломанном острове. На нём изображено пять странных предметов...",
+        "th": "ภาพวาดฝาผนังที่บันทึกมาจากกำแพงหินของ \"เกาะร้าง\" ดูเหมือนว่าจะเป็นภาพของวัตถุแปลก ๆ ห้าชิ้น...",
+        "vi": "Tranh khắc trên vách đá trên \"Đảo Vỡ Vụn\". Bức tranh dường như đang vẽ 5 vật thể kỳ lạ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

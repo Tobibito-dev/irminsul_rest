@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Fisherman's Toast",
+        "de": "Merkwürdige Fischerschnitte",
+        "chs": "奇怪的渔人吐司",
+        "cht": "奇怪的漁人吐司",
+        "es": "Tostada del pescador extraña",
+        "fr": "Toast du pêcheur (suspect)",
+        "id": "Suspicious Fisherman's Toast",
+        "jp": "微妙な漁師トースト",
+        "kr": "이상한 어부 토스트",
+        "pt": "Torrada do Pescador Estranha",
+        "ru": "Странный рыбацкий бутерброд",
+        "th": "Fisherman's Toast รสประหลาด",
+        "vi": "Bánh Người Cá Kỳ Lạ"
+    },
+    "id": 108001,
+    "materialDesc": {
+        "en": "Onion-covered toast. Not quite cooked right. You'll notice its imperfection, even if you eat it while fishing.",
+        "de": "Eine mit Zwiebeln übersäte Scheibe Brot. Beim Überbacken ist wohl etwas schiefgegangen. Selbst wenn man beim Kauen nebenbei fischt, schmeckt man den Unterschied heraus.",
+        "chs": "铺满洋葱的吐司。但烤得有些不对劲，即使一边钓鱼一边啃，也能尝出味道的差别。",
+        "cht": "鋪滿洋蔥的吐司。但烤得有些不對勁，即使一邊釣魚一邊啃，也能嘗出味道的差別。",
+        "es": "Tostada cubierta de cebolla. No está bien cocinada del todo. Notarás sus imperfecciones incluso si la comes mientras pescas.",
+        "fr": "Une tranche de pain de mie grillée recouverte d'oignon. Son imperfection saute aux yeux, même si on essaie de ne pas y faire attention.",
+        "id": "Roti yang dilumuri bawang bombai dan dipanggang. Tetapi panggangannya kurang baik, dimakan sambil memancing pun rasanya tetap kurang pas.",
+        "jp": "玉ねぎを敷き詰めたトースト。焼き方が少しおかしくて、釣りをしながら食べても、味の違いははっきりと分かる。",
+        "kr": "양파가 가득 올려진 토스트.굽기에 실패해서 낚시하면서 먹어도 맛이 이상한 게 느껴진다",
+        "pt": "Torrada com cobertura de cebola. Não feita muito bem, você perceberá as imperfeições, mesmo se você comer enquanto pesca.",
+        "ru": "Ломтик хлеба, посыпанный луком. Не совсем правильно приготовлен. Вы заметите его несовершенство, даже если будете по уши погружены в процесс рыбалки.",
+        "th": "โทสต์หัวหอมที่ยังปรุงไม่ได้ที่ คุณจะรู้สึกถึงความไม่ได้เรื่องของมัน แม้จะทานตอนตกปลาอยู่ก็ตาม",
+        "vi": "Bánh kẹp đầy hành tây. Nhưng nướng có vẻ không đúng, cho dù vừa câu cá vừa ăn thì cũng thấy vị khác lạ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

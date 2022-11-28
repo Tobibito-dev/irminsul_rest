@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Clerk Zhao's Invoice for Jiangzhou",
+        "de": "Papiere der Beamten Zhao für Jiangzhou",
+        "chs": "小昭写给江舟的单据",
+        "cht": "小昭寫給江舟的單據",
+        "es": "Facturas de la Recepcionista Zhao para Jiangzhou",
+        "fr": "Note de la clergesse Zhao à Jiangzhou",
+        "id": "Faktur Tagihan Clerk Zhao untuk Jiangzhou",
+        "jp": "昭から江舟への領収書",
+        "kr": "소소가 강주에게 적어준 영수증",
+        "pt": "Fatura da Escriturária Zhao para Jiangzhou",
+        "ru": "Квитанция клерка Чжао для Цзян Чжоу",
+        "th": "ใบเสร็จที่ Zhao เขียนให้ Jiangzhou",
+        "vi": "Hóa đơn Zhao viết cho Jiangzhou"
+    },
+    "id": 100598,
+    "materialDesc": {
+        "en": "An invoice from Clerk Zhao to Jiangzhou. There are several sheets, each with reams of text on. It seems that Jiangzhou has been putting off the planning for Lantern Rite for a very long time...",
+        "de": "Papiere der Beamten Zhao an Jiangzhou. Es sind einige Seiten, auf denen dicht aneinander geschriebene Buchstaben und Wörter stehen. Jiangzhou scheint die Planung des Laternenrituals schon eine ganze Zeit aufgeschoben zu haben.",
+        "chs": "小昭写给江舟的单据。数页纸张上填写着密密麻麻的字，似乎是说江舟的海灯节策划案已经拖了很长时间…",
+        "cht": "小昭寫給江舟的單據。數頁紙張上填寫著密密麻麻的字，似乎是說江舟的海燈節策劃案已經拖了很長時間…",
+        "es": "Una factura de la Recepcionista Zhao para Jiangzhou. Consta de varias hojas con mucho texto. Parece que Jiangzhou ha pospuesto la planificación del Rito de la Linterna durante mucho tiempo...",
+        "fr": "Une note de la clergesse Zhao adressée à Jiangzhou. Elle dénombre plusieurs pages de texte condensé. Il semble que Jiangzhou ait du retard dans la planification du Festival des lanternes...",
+        "id": "Faktur tagihan dari Clerk Zhao kepada Jiangzhou. Ada beberapa lembar dan masing-masing lembar penuh dengan kata-kata. Tampaknya Jiangzhou telah menunda perencanaan Lantern Rite untuk waktu yang sangat lama...",
+        "jp": "昭から江舟への領収書。びっしりと書いてある。江舟の海灯祭の企画案の提出を促すとの内容である。",
+        "kr": "소소가 강주에게 적어준 영수증. 여러 장의 종이에 글자가 빼곡히 적혀있다. 강주의 해등절 기획이 많이 지체되고 있다고 적혀 있는 듯하다…",
+        "pt": "A fatura da Escriturária Zhao para o Jiangzhou. Muitas palavras estão escritas em suas folhas, e parece que a proposta do Ritual de Lanternas já demorou bastante...",
+        "ru": "Эту расписку Клерк Чжао выдал Цзян Чжоу. Слова плотно покрывают поверхность её листов. Похоже, что Цзян Чжоу отложила планирование Праздника морских фонарей в очень долгий ящик...",
+        "th": "ใบเสร็จที่ Zhao เขียนให้ Jiangzhou กระดาษหลายหน้าที่เต็มไปด้วยตัวหนังสือ ดูเหมือนจะเขียนว่าเทศกาล Lantern Rite ของ Jiangzhou นั้นวางแผนล่าช้ามานานมากแล้ว...",
+        "vi": "Biên lai Zhao viết cho Jiangzhou. Những con chữ dày đặc trên trang giấy đủ cho ta thấy kế hoạch cho Tết Hải Đăng của Jiangzhou đã bị trì hoãn trong một khoảng thời gian dài..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

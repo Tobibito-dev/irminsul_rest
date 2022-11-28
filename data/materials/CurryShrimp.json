@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Curry Shrimp",
+        "de": "Currygarnelen",
+        "chs": "咖喱虾",
+        "cht": "咖哩蝦",
+        "es": "Camarones al curri",
+        "fr": "Crevettes au curry",
+        "id": "Curry Shrimp",
+        "jp": "カレーシュリムプ",
+        "kr": "새우 카레",
+        "pt": "Camarão com Curry",
+        "ru": "Креветки в соусе карри",
+        "th": "Curry Shrimp",
+        "vi": "Tôm Cà Ri"
+    },
+    "id": 108425,
+    "materialDesc": {
+        "en": "A common household dish in Sumeru. The shrimps are first boiled until chewy, then added into the curry broth. The perfect blend of savory curry and flavors from the ocean is enough to make one's stomach growl. Though it's a common household dish, almost every family seems to have made their own variations to the recipe. Perhaps one could say that for every Sumeru household, there'll be a different version of curry shrimp.",
+        "de": "Ein einfaches, gängiges Gericht in Sumeru. Das Garnelenfleisch wird beim Kochen elastisch und wird in die Currysuppe eingearbeitet, wodurch ein sehr appetitliches Aroma entsteht. So verschmilzt das duftende Curry mit dem Aroma des Meeres. Dieses Gericht wird in fast jedem Haushalt in Sumeru zubereitet, aber der Geschmack ist ganz anders. Man kann sagen, dass es in tausend Sumeru-Familien tausend Arten von Currygarnelen gibt.",
+        "chs": "须弥的家常菜肴。浓香的咖喱与海洋气息相结合，虾肉经炖煮变得弹牙，带着鲜味一并融入到咖喱汤汁之中，令人食欲大开。在须弥几乎每家每户都会做这道菜肴，但味道大相径庭，可以说一千个须弥家庭有一千种咖喱虾。",
+        "cht": "須彌的家常菜餚。濃香的咖哩與海洋氣息相結合，蝦肉經燉煮變得彈牙，帶著鮮味一併融入到咖哩湯汁之中，令人食欲大開。在須彌幾乎每家每戶都會做這道菜餚，但味道大相徑庭，可以說一千個須彌家庭有一千種咖哩蝦。",
+        "es": "Un plato sencillo y común en Sumeru. Una sabrosa combinación de curri y marisco. El aromático olor del curri se combina con el olor del mar, y los camarones se cocinan con una consistencia crujiente y sabrosa mientras se fusionan con el caldo de curri, lo que va abriendo poco a poco el apetito. Este plato se sirve en todos los hogares de Sumeru, con un sabor distintivo bajo cada techo. Parece que cada familia tiene su propia receta.",
+        "fr": "Un plat familial de Sumeru. Une savoureuse combinaison de curry et de fruits de mer. L'odeur parfumée du curry se combine à celle de la mer. Les crevettes sont cuites jusqu'à obtenir une consistance croustillante et savoureuse alors qu'elles se mêlent au bouillon de curry. Le frais et l'épicé s'allient et vous ouvrent l'appétit. Bien que tous les Sumériens sachent préparer ce plat, celui-ci a une saveur unique dans chaque foyer où il est préparé. Il semble que chaque famille ait sa propre recette.",
+        "id": "Hidangan sederhana dan umum di Sumeru. Kari yang gurih dipadukan dengan seafood. Udangnya direbus sampai kenyal, kemudian dituangkan ke dalam sup kari. Rasa udang segar dengan kari membuat orang ngiler saat melihat hidangannya. Hidangan ini disajikan di setiap rumah di Sumeru, tapi masing-masing punya cita rasa yang khas. Kelihatannya semua orang memasak Curry Shrimp dengan resepnya sendiri-sendiri.",
+        "jp": "スメールの家庭料理。香ばしいカレーに海の香りが加わる。パリッとおいしく調理されたエビがカレースープの味を引き立て、食欲をそそる一品に仕上がっている。スメールのほとんどの家庭で作られているが、味は千差万別だ。スメールに千の家庭があれば、千種類のカレーシュリムプがあると言えるだろう。",
+        "kr": "수메르의 가정식 요리. 짙은 카레 향과 바다 내음이 어우러지고 탱글탱글하게 삶아진 새우는 신선하게 카레에 녹아들어 식욕을 돋운다. 웬만한 수메르 사람이라면 새우 카레를 만들 줄 알지만 맛과 만드는 방법은 집마다 천차만별이다",
+        "pt": "Um prato comum de Sumeru. O cheiro forte do curry e dos frutos do mar se combinam, a carne do camarão é cozinhada até ficar no ponto para então ser adicionada a uma sopa de curry, abrindo o apetite das pessoas. Esse prato é fato em quase todas as residências de Sumeru, mas o seu sabor em cada uma totalmente diferente, por isso, pode-se que toda família de Sumery tem uma receita de Curry diferente.",
+        "ru": "Одно из повседневных блюд Сумеру. В нём насыщенный аромат карри сочетается с дыханием морских глубин. Ничто так не разжигает аппетит, как вид упругих отварных креветок, залитых густым соусом. Это блюдо подают в каждом доме Сумеру, и всюду у него будет свой неповторимый вкус: сколько в Сумеру хозяек - столько и будет рецептов креветок в соусе карри.",
+        "th": "อาหารพื้นบ้านของชาว Sumeru กลิ่นหอมของแกงกะหรี่และท้องทะเลหลอมรวมกันเป็นหนึ่งเดียว เนื้อกุ้งที่ผ่านการลวกจนสุกแล้วมีความเด้งสู้ลิ้น นำพากลิ่นสดใหม่ให้มาผสานเข้ากับความเข้มข้นของแกงกะหรี่ เป็นตัวที่ช่วยกระตุ้นความอยากอาหารได้เป็นอย่างดี ชาว Sumeru ต่างก็ทำเมนูนี้ได้กันในทุกครัวเรือน แต่รสชาติก็แตกต่างกันไปตามความถนัดของแต่ละคน พูดได้เลยว่า หากมีชาว Sumeru หนึ่งพันครัวเรือน ก็จะมีสูตรการทำ Curry Shrimp อยู่หนึ่งพันสูตร",
+        "vi": "Món ăn gia đình của Sumeru. Sự kết hợp giữa cà ri thơm nồng cùng với hương vị của hải sản, tôm được nấu rất giòn, mang theo hương vị tươi ngon vào trong nước sốt cà ri, khơi gợi cảm giác thèm ăn cho người dùng. Ở Sumeru hầu như nhà nhà đều biết làm món này, nhưng hương vị thì rất khác biệt, có thể nói một ngàn hộ gia đình ở Sumeru sẽ có một ngàn loại Tôm Cà Ri khác nhau."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

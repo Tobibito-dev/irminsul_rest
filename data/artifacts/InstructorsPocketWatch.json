@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Instructor's Pocket Watch",
+        "de": "Ausbilderstoppuhr",
+        "chs": "教官的怀表",
+        "cht": "教官的懷錶",
+        "es": "Reloj de Bolsillo del Instructor",
+        "fr": "Montre de poche de l'Instructeur",
+        "id": "Instructor's Pocket Watch",
+        "jp": "教官の懐中時計",
+        "kr": "교관의 회중시계",
+        "pt": "Relógio de Bolso de Instrutor",
+        "ru": "Карманные часы инструктора",
+        "th": "Instructor's Pocket Watch",
+        "vi": "Đồng Hồ Giáo Quan"
+    },
+    "id": 23520,
+    "setId": 10007,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

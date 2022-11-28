@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Razor Test Package",
+        "de": "None",
+        "chs": "(test)雷泽测试包-cb1用",
+        "cht": "雷澤測試包",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "レザーテストパック",
+        "kr": "레이져 테스트 패키지",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "id": 3020,
+    "materialDesc": {
+        "en": "Obtained Razor, 3-Star Ferrous Shadow, Razor Stardust x16",
+        "de": "None",
+        "chs": "(test)获得角色雷泽、3星铁影阔剑、雷泽的星辉点x16、雷泽的星尘点x16",
+        "cht": "獲得角色雷澤、3星鐵影闊劍、雷澤的星輝點x16、雷澤的星塵點x16",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "レザー、星3鉄影のブロードソード、レザーのスターダストx16を獲得",
+        "kr": "레이져 캐릭터 카드, ★3 무기 아이언 섀도우 클레이모어, 레이져's 스타더스트x16 획득",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

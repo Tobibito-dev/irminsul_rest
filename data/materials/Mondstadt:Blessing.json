@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt: Blessing",
+        "de": "Mondstadt – Segen",
+        "chs": "蒙德·祝愿",
+        "cht": "蒙德·祝願",
+        "es": "Mondstadt - Bendición",
+        "fr": "Mondstadt - Vœux",
+        "id": "Mondstadt: Berkah",
+        "jp": "モンド·祝福",
+        "kr": "몬드·축복",
+        "pt": "Mondstadt - Bênção",
+        "ru": "Молитва",
+        "th": "Mondstadt - Blessing",
+        "vi": "Mondstadt - Chúc Phúc"
+    },
+    "id": 210048,
+    "materialDesc": {
+        "en": "Namecard style.\\nThey who have it in their hearts to bless others shall themselves be blessed.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWer ein Herz für seine Mitmenschen hat, wird den entsprechenden Segen erhalten.",
+        "chs": "名片纹饰。\\n喜欢帮助他人的仁心，大家都会相应地予之祝福。",
+        "cht": "名片紋飾。\\n喜歡幫助他人的仁心，大家都會相應地予之祝福。",
+        "es": "Diseño de tarjeta de presentación.\\nUna persona bondadosa siempre recibirá las bendiciones de los demás.",
+        "fr": "Thème.\\nCeux qui ont à cœur d'aider les autres seront aidés à leur tour.",
+        "id": "Style kartu nama.\\nSemua orang akan memberikan berkat kepada orang yang senang membantu sesamanya.",
+        "jp": "名刺の飾り紋。\\n他人を助けることを喜びとする心は皆に祝福されるだろう。",
+        "kr": "명함 스킨.\\n남을 돕길 좋아하는 인자한 마음, 모두 상응하는 축복을 받을 것이다",
+        "pt": "Estilo de Cartão de Visita.\\nQuem deseja a felicidade de outros sempre receberá as benções de outros.",
+        "ru": "Именная карта.\\nТот, кто бескорыстно помогает ближнему, да будет благословлён.",
+        "th": "ลายนามบัตร\\nจิตใจที่มีเมตตาและชอบช่วยเหลือผู้อื่น ก็จะได้รับพรจากทุกคนกลับคืน",
+        "vi": "Hoa văn danh thiếp.\\nMột tấm lòng nhân ái, biết giúp đỡ người khác, rồi sẽ nhận được lời chúc phúc từ mọi người."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Derived Contents",
+        "de": "Interpretierter Inhalt",
+        "chs": "解读出的内容",
+        "cht": "解讀出的內容",
+        "es": "Contenido descifrado",
+        "fr": "Contenu déchiffré",
+        "id": "Isi Interpretasi Catatan",
+        "jp": "解析された内容",
+        "kr": "해석한 내용",
+        "pt": "Conteúdo Decifrado",
+        "ru": "Расшифрованное содержимое",
+        "th": "เนื้อหาการตีความ",
+        "vi": "Nội Dung Lý Giải"
+    },
+    "id": 120180,
+    "materialDesc": {
+        "en": "Contents compiled after combining the clues.",
+        "de": "Der Inhalt, der anhand von Hinweisen interpretiert wurde.",
+        "chs": "结合线索后解读而出的内容",
+        "cht": "結合線索後解讀而出的內容",
+        "es": "Información que descubriste al unir todas las pistas de las que disponías.",
+        "fr": "Les informations que vous avez découvertes en rassemblant tous les indices dont vous disposiez.",
+        "id": "Konten yang didapatkan setelah menggabungkan petunjuk-petunjuknya.",
+        "jp": "手がかりと合わせて解読した内容",
+        "kr": "단서를 조합한 후 해석한 내용",
+        "pt": "Conteúdo decifrado depois de ter suas pistas reunidas.",
+        "ru": "Содержимое, составленное после расшифровки улик.",
+        "th": "เนื้อหาที่ตีความได้หลังจากที่รวบรวมเบาะแสแล้ว",
+        "vi": "Nội dung lý giải được sau khi tổng hợp các manh mối"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

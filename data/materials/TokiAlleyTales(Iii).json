@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toki Alley Tales (III)",
+        "de": "Geschichten aus der Tokigasse – Teil III",
+        "chs": "鹮巷物语·三",
+        "cht": "䴉巷物語·三",
+        "es": "La novela de la Calle del Ibis (III)",
+        "fr": "Contes de l'Allée Toki - III",
+        "id": "Kisah Gang Toki (III)",
+        "jp": "朱鷺町物語·三",
+        "kr": "따오기 골목 모노가타리·III",
+        "pt": "Contos da Rua Toki (III)",
+        "ru": "Рассказы улицы Токи (III)",
+        "th": "เรื่องราวแห่งตรอก Toki (III)",
+        "vi": "Câu Chuyện Hẻm Ibis 3"
+    },
+    "id": 101510,
+    "materialDesc": {
+        "en": "They say that those who make the ameonna cry will bring inescapable sorrow upon themselves. —Tanuki Historical Commentary",
+        "de": "Man sagt, wenn man der Regenjungfrau Tränen in die Augen bringt, ruft man sich die Trauer hervor, der man nie entkommen würde. – Überlieferte Weisheit der Tanuki",
+        "chs": "俗语有言，招惹雨女哭泣者，必然招致无法解脱的悲哀。——狸史氏评",
+        "cht": "俗語有言，招惹雨女哭泣者，必然招致無法解脫的悲哀。——狸史氏評",
+        "es": "Dicen que una irremediable tristeza cae sobre aquellos que hacen llorar a la ameonna —comentario histórico de un tanuki.",
+        "fr": "Il est dit que les malheureux qui font pleurer une ameonna seront proie à un chagrin insurmontable. — Commentaire historique d'un Tanuki",
+        "id": "Pepatah mengatakan, barang siapa yang membuat ameonna menangis pasti akan terkena penderitaan tanpa akhir. — Tafsiran Sejarah Tanuki",
+        "jp": "ことわざにもあるように、雨女を泣かせる者は、必ず解脱できない悲しみを招くことになる。——狸歴史家より",
+        "kr": "이런 속담이 있다. 아메온나를 울리는 자, 필히 벗어날 수 없는 슬픔을 자초한 것이니. ——너구리 사씨 평",
+        "pt": "Dizem que aqueles que fizerem Ameonna chorar trarão penúrias inescapáveis sobre si mesmos. — Comentário Histórico Tanuki.",
+        "ru": "«Говорят, что непоправимая печаль постигает тех, кто заставляет плакать амеонну». - исторический комментарий тануки.",
+        "th": "ว่ากันว่าหากทำให้สาวเรียกฝนต้องเสียน้ำตา จะนำมาซึ่งความเศร้าโศกที่ไม่อาจหลุดพ้นได้ – คำอธิบายทางประวัติศาสตร์ของทานูกิ",
+        "vi": "Tục ngữ nói rằng, người làm nàng mưa khóc, chắc chắn sẽ gánh chịu nỗi buồn không thể nào giải thoát. - Tanuki"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

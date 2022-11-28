@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Sunshine Sprat",
+        "de": "Leckerer Butterbratling",
+        "chs": "美味的黄油煎鱼",
+        "cht": "美味的奶油煎魚",
+        "es": "Pescado salteado con mantequilla delicioso",
+        "fr": "Poisson grillé au beurre (délicieux)",
+        "id": "Delicious Sunshine Sprat",
+        "jp": "美味しそうなバター魚焼き",
+        "kr": "맛있는 버터 생선 구이",
+        "pt": "Peixe Frito na Manteiga Delicioso",
+        "ru": "Вкусная солнечная рыба",
+        "th": "Sunshine Sprat แสนอร่อย",
+        "vi": "Cá Chiên Bơ Ngon"
+    },
+    "id": 108209,
+    "materialDesc": {
+        "en": "Gently fried fish dish. The fish melts in your mouth, melding the flavors of land and sea together as it does, making for an unforgettable experience. Little wonder, then, that such a simply-made dish can make it into restaurants of great class.",
+        "de": "Ein langsam in Butter goldbraun gebratener Fisch. Genau auf den Punkt gegart, schmeichelt das zarte Fleisch der Zunge und man spürt die Frische des Ozeans in seiner gesamten Geschmackspalette. Ein einfaches, aber unvergessliches Gericht, einfach ein Hochgenuss.",
+        "chs": "慢火煎制的鱼料理。鱼肉入口即化，海洋与陆地的风味在口中碰撞，令人久久难以忘怀。难怪做法如此简单的一道菜，也能跻身大雅之堂。",
+        "cht": "慢火煎製的魚料理。魚肉入口即化，海洋與陸地的風味在口中碰撞，令人久久難以忘懷。難怪做法如此簡單的一道菜，也能躋身大雅之堂。",
+        "es": "Un pescado salteado a fuego lento. Al comerlo, la carne se deshace en la boca, sintiendo los sabores del mar y de la tierra al mismo tiempo, una experiencia que nunca querrás olvidar. Aunque su cocinado sea sencillo, es un plato que puede servirse incluso en ocasiones muy refinadas.",
+        "fr": "Un plat de poisson délicatement frit au beurre. Le poisson fond dans la bouche, mêlant les saveurs de la terre et de la mer, et créant une expérience inoubliable. Pas étonnant qu'un plat aussi simple se soit fait une place à la table des plus grands restaurants.",
+        "id": "Hidangan ikan yang digoreng perlahan. Daging ikannya terasa meleleh saat dimakan, rasa segar dari laut dan darat tercampur dengan sempurna, membuat seseorang tidak dapat melupakannya. Tidak heran hidangan yang sangat simpel ini, juga merupakan salah satu hidangan yang paling elegan.",
+        "jp": "じっくり焼いた魚料理。魚を口に入れた瞬間、海と陸の味がぶつかり合い、忘れ難い味となる。単純な料理でも、このような大層な味を産み出せるのだ。",
+        "kr": "약한 불에 구운 생선 요리. 입안에서 살살 녹는다. 바다와 육지가 입안에서 어우러져 평생 잊을 수 없는 맛이다. 이렇게 간단한 요리로도 천국을 맛볼 수 있다니…",
+        "pt": "Peixe lentamente frito. Derrete na boca, combinando os sabores da terra e do mar e criando uma experiência inesquecível. Mesmo sendo simples, este prato pode ser servido em restaurantes refinados.",
+        "ru": "Жаренная на медленном огне рыба. Она тает во рту, соединяя в себе вкусы моря и земли и оставляя незабываемое впечатление. Неудивительно, что такое простое блюдо подаётся и в изысканных ресторанах.",
+        "th": "ปลาทอดด้วยไฟอ่อน ๆ ที่เนื้อปลาละลายในปาก บวกกับรสชาติสดใหม่ของท้องทะเลและผืนดินที่ผสมผสานกันอย่างลงตัว ทำให้มีรสชาติที่ยากจะลืมเลือน ไม่น่าแปลกใจเลยที่อาหารที่มีวิธีทำง่าย ๆ เช่นนี้จะสามารถเป็นอาหารอันโอชะได้",
+        "vi": "Món cá chiên trong lửa nhỏ. Thịt cá tan trong miệng, hương vị của đại dương và đất liền hòa quyện trong miệng, tạo nên mùi vị khó quên. Không có gì lạ khi một món ăn với công thức đơn giản như vậy cũng có thể được xếp vào hàng mỹ vị."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

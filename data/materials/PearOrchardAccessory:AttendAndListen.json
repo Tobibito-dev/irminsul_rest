@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pear Orchard Accessory: Attend and Listen",
+        "de": "Birnengarten-Zubehör – „Aufgepasst und zugehört“",
+        "chs": "梨园砌末-「且听分解」",
+        "cht": "梨園砌末-「且聽分解」",
+        "es": "Atrezo del peral: Presten atención",
+        "fr": "Accessoire des poiriers « Audience captivée »",
+        "id": "Aksesoris Kebun Pir - Hadir dan Dengarkan",
+        "jp": "梨園装飾-「お楽しみに」",
+        "kr": "이원 소품-「경청」",
+        "pt": "Acessório do Pomar de Peras: Plateia Atenta",
+        "ru": "Декорация грушевого сада: Смотрите и слушайте",
+        "th": "อุปกรณ์ประกอบฉาก Pear Orchard - \"สดับรับฟัง\"",
+        "vi": "Phụ Kiện Đoàn Kịch - Tạm Nghe Phân Giải"
+    },
+    "id": 394316,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Pear Orchard Accessory: Attend and Listen.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Birnengarten-Zubehör – Aufgepasst und zugehört“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「梨园砌末-『且听分解』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「梨園砌末-『且聽分解』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Atrezo del peral: Presten atención.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "#Étapes de fabrication de l'accessoire des poiriers «{NON_BREAK_SPACE}Audience captivée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Aksesori Kebun Pir: Dengar dan Pahami.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「梨園装飾-『お楽しみに』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「이원 소품-『경청』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Acessório do Pomar de Peras: Plateia Atenta.\\nDepois de usar, você pode entrar na interface de produção para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Декорация грушевого сада: Смотрите и слушайте».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง อุปกรณ์ประกอบฉาก Pear Orchard - \"สดับรับฟัง\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Phụ Kiện Đoàn Kịch - Tạm Nghe Phân Giải\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

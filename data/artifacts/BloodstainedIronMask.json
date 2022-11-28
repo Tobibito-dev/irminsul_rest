@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Bloodstained Iron Mask",
+        "de": "Eisenmaske des Blutbefleckten",
+        "chs": "染血的铁假面",
+        "cht": "染血的鐵假面",
+        "es": "Máscara de Hierro Sanguinaria",
+        "fr": "Masque de fer ensanglanté",
+        "id": "Bloodstained Iron Mask",
+        "jp": "血染めの鉄仮面",
+        "kr": "피에 물든 철가면",
+        "pt": "Máscara de Ferro Sanguinária",
+        "ru": "Железная маска рыцаря крови",
+        "th": "Bloodstained Iron Mask",
+        "vi": "Mặt Nạ Sắt Nhuốm Máu"
+    },
+    "id": 24713,
+    "setId": 15008,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

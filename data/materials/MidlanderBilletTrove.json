@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Midlander Billet Trove",
+        "de": "Kiste der unbearbeiteten Waffen des Kernlands",
+        "chs": "央陆原胚之匣",
+        "cht": "央陸原胚之匣",
+        "es": "Cofre de prototipos de las Regiones Centrales",
+        "fr": "Coffre de base d'arme du centre",
+        "id": "Midlander Billet Trove",
+        "jp": "中央大陸の原型の箱",
+        "kr": "중앙 대륙 원형 상자",
+        "pt": "Caixa de Protótipos dos Territórios Centrais",
+        "ru": "Шкатулка с заготовкой центральных земель",
+        "th": "Midlander Billet Trove",
+        "vi": "Hộp Phôi Trung Địa"
+    },
+    "id": 115040,
+    "materialDesc": {
+        "en": "A precious strongbox that contains a billet filled with potential. It is capable of changing its shape to fit the wishes of its owner.\\n\\nUse this item to choose one of the following items:\\n·Midlander Sword Billet\\n·Midlander Bow Billet\\n·Midlander Claymore Billet\\n·Midlander Catalyst Billet\\n·Midlander Polearm Billet",
+        "de": "Eine wertvolle Kiste, in der eine zauberhafte unbearbeitete Waffe aufbewahrt ist, die allerlei Möglichkeiten in sich birgt. Sie kann sich je nach dem Wunsch des Besitzers in die gewünschte Form der Waffe verwandeln.\\n\\nWähle beim Anwenden dieser Kiste einen der folgenden Gegenstände aus:\\n- Unbearbeiteter Einhänder des Kernlandes\\n- Unbearbeiteter Bogen des Kernlandes\\n- Unbearbeiteter Zweihänder des Kernlandes\\n- Unbearbeiteter Katalysator des Kernlandes\\n- Unbearbeitete Stangenwaffe des Kernlandes",
+        "chs": "蕴含着充满可能性的原胚的宝匣，会随着主人的愿望幻现为对应武器类型的原胚。\\n\\n使用后可从以下选项中选择一项获取:\\n·央陆单手剑原胚\\n·央陆弓原胚\\n·央陆双手剑原胚\\n·央陆法器原胚\\n·央陆长柄武器原胚",
+        "cht": "蘊含著充滿可能性的原胚的寶匣，會隨著主人的願望幻現為對應武器類型的原胚。\\n\\n使用後可從以下選項中選擇取得一項：\\n·央陸單手劍原胚\\n·央陸弓原胚\\n·央陸雙手劍原胚\\n·央陸法器原胚\\n·央陸長柄武器原胚",
+        "es": "Un cofre que contiene un prototipo lleno de posibilidades, ya que cambia de forma según los deseos de su dueño.\\n\\nÚsalo para elegir uno de los siguientes:\\n·Prototipo de espada de las Regiones Centrales\\n·Protipo de arco de las Regiones Centrales\\n·Prototipo de mandoble de las Regiones Centrales\\n·Prototipo de catalizador de las Regiones Centrales\\n·Prototipo de lanza de las Regiones Centrales",
+        "fr": "Un coffre précieux qui contient une base d'arme aux nombreuses possibilités. Il peut se transformer en ce que son possesseur désire.\\nUtilisez cet objet pour choisir un des objets suivants :\\n·Base d'épée du centre\\n·Base d'arc du centre\\n·Base d'épée à deux mains du centre\\n·Base de catalyseur du centre\\n·Base de lance du centre",
+        "id": "Sebuah kotak harta karun yang berisi berbagai cetakan dasar senjata. Dapat mengubah bentuknya sesuai keinginan pemiliknya.\\n\\nGunakan barang ini untuk mendapatkan salah satu dari item berikut:\\n·Midlander Sword Billet\\n·Midlander Bow Billet\\n·Midlander Claymore Billet\\n·Midlander Catalyst Billet\\n·Midlander Polearm Billet",
+        "jp": "可能性に満ちた原型の箱。持ち主の希望に応じて武器を造り出すことができる。\\n\\n使用すると以下から1つ獲得できる。\\n·中央大陸片手剣の原型\\n·中央大陸弓の原型\\n·中央大陸両手剣の原型\\n·中央大陸法器の原型\\n·中央大陸長柄武器の原型",
+        "kr": "충만한 가능성을 가진 원형이 담긴 보물상자, 주인의 소망에 따라, 원하는 무기의 원형으로 나타난다.\\n\\n사용 후 아래 항목 중 한 가지를 획득할 수 있다:\\n·중앙 대륙의 한손검 원형\\n·중앙 대륙의 활 원형\\n·중앙 대륙의 양손검 원형\\n·중앙 대륙의 법구 원형\\n·중앙 대륙의 장병기 원형",
+        "pt": "Um precioso baú que contém protótipos repletos de possibilidades. Ele é capaz de mudar sua forma para se adaptar aos desejos de seu proprietário.\\n\\nUse este item para escolher um dos seguintes itens:\\n· Protótipo de Espada do Território Central\\n· Protótipo de Arco do Território Central\\n· Protótipo de Espadão do Território Central\\n· Protótipo de Catalisador do Território Central\\n· Protótipo de Lança do Território Central",
+        "ru": "Драгоценная шкатулка, в которой хранится заготовка, обладающая богатым потенциалом. Она способна изменять свою форму в соответствии с желаниями владельца.\\n\\nИспользуйте её, чтобы выбрать и получить один из следующих предметов:\\n· Заготовка одноручного меча центральных земель\\n· Заготовка лука центральных земель\\n· Заготовка двуручного меча центральных земель\\n· Заготовка катализатора центральных земель\\n· Заготовка копья центральных земель",
+        "th": "กล่องสมบัติของ Billet ที่เต็มไปด้วยความเป็นไปได้ จะปรากฏเป็น Billet ของประเภทอาวุธที่สอดคล้องกันตามความต้องการของเจ้าของ\\n\\nหลังการใช้งานจะสามารถเลือกหนึ่งในตัวเลือกต่อไปนี้เพื่อรับ:\\n·Midlander Sword Billet\\n·Midlander Bow Billet\\n·Midlander Claymore Billet\\n·Midlander Catalyst Billet\\n·Midlander Polearm Billet",
+        "vi": "Hộp phôi đa dụng, tùy theo nguyện vọng của chủ nhân biến thành phôi vũ khí tương ứng.\\n\\nSau khi sử dụng có thể chọn để nhận một trong các món sau:\\n·Phôi Kiếm Đơn Trung Địa\\n·Phôi Cung Trung Địa\\n·Phôi Trọng Kiếm Trung Địa\\n·Phôi Pháp Khí Trung Địa\\n·Phôi Vũ Khí Cán Dài Trung Địa"
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

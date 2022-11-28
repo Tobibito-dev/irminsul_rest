@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Remelting Device",
+        "de": "Umschmelzapparat",
+        "chs": "重熔装置",
+        "cht": "重熔裝置",
+        "es": "Dispositivo refundente",
+        "fr": "Dispositif de refonte",
+        "id": "Perangkat Remelting",
+        "jp": "リメルト装置",
+        "kr": "재용해 장치",
+        "pt": "Dispositivo de Refusão",
+        "ru": "Устройство переплавки",
+        "th": "อุปกรณ์หลอมละลาย",
+        "vi": "Thiết Bị Tái Luyện"
+    },
+    "id": 101997,
+    "materialDesc": {
+        "en": "This device, developed by alchemist Hajanad, is cleverly designed with an internal chamber capable of withstanding high pressure and high temperature to withstand the explosion from the \"remelting effect\". The special valve can be opened automatically at the right time to release the fully mixed medicament smoke and provide the user with assistance in combat. However, judging from some of its details, this experiment seems to be suffering from a shortage of funds. Hajanad's research doesn't seem to be all that well-funded...",
+        "de": "Ein vom Alchimisten Hajanad erfundener Apparat, eine begnadete Tüftelei mit einer Kammer im Inneren, die hohe Temperaturen und hohen Druck aushalten kann. Sie kann die Explosion des „Umschmelzeffekts“ aushalten. Ein besonderes Ventil öffnet sich automatisch zur rechten Zeit und entlässt den vollkommen vermischten medizinischen Rauch, der dem Anwender zusätzliche Kampfkraft verleiht.\\nEs ist aber an einigen Details diesen Apparates zu erkennen, dass das Experiment unter Gelddruck entstanden ist. Hajanads Forschungsgelder scheinen nicht ausgereicht zu haben ...",
+        "chs": "由炼金术士哈贾娜德开发的装置，设计较为精巧，具有能够承受高压与高温的内部腔室，用以承载「重熔效应」的爆炸。特殊的阀门则能在适当的时机自动开启，释放充分混合后的药剂烟雾，为使用者提供战斗的助力。\\n不过，从这个装置的部分细节可以判断，它似乎是压缩成本的实验品。哈贾娜德的研发资金好像并不充裕…",
+        "cht": "由煉金術士哈賈娜德開發的裝置，設計較為精巧，具有能夠承受高壓與高溫的內部倉室，用以承載「重熔效應」的爆炸。特殊的閥門則能在適當的時機自動開啟，釋放充分混合後的藥劑煙霧，為使用者提供戰鬥的助力。\\n不過，從這個裝置的部分細節可以判斷，它似乎是壓縮成本的實驗品。哈賈娜德的研發資金好像並不充裕…",
+        "es": "Este dispositivo es obra de la alquimista Hayanad. Su complejo diseño se basa en una cámara interna capaz de soportar altas presiones y temperaturas para contener la explosión causada por el efecto refundente. Posee una válvula especial capaz de abrirse automáticamente en el momento preciso para dejar escapar el humo resultante al mezclar la poción y otorgar a su usuario la ayuda necesaria durante la batalla.\\nSin embargo, a juzgar por su aspecto, este invento sufrió los efectos de la falta de fondos. No parece que Hayanad cuente con mucha financiación para su proyecto...",
+        "fr": "Un dispositif astucieusement conçu par l'alchimiste Hajanad. Il dispose d'une chambre interne capable de supporter la pression et la température élevées provoquées par l'explosion de l'effet de refonte. Une valve spéciale s'ouvre automatiquement au bon moment pour libérer la fumée d'une potion complètement mélangée afin de fournir à l'utilisateur une aide au combat.\\nCependant, en examinant certains détails de l'appareil, on peut en déduire qu'il est le produit d'une expérience scientifique ayant souffert d'un manque de budget. Il semblerait que les recherches de Hajanad ne soient pas si bien financées que ça...",
+        "id": "Sebuah perangkat yang diciptakan oleh alkemis Hajanad. Desainnya cukup rumit, dan memiliki bagian ruang dalam yang bisa menahan tekanan dan suhu yang tinggi, digunakan untuk menampung ledakan dari \"Efek Remelting\". Katup khususnya dapat otomatis terbuka di saat yang tepat dan dapat melepaskan uap ramuan yang sudah digabungkan untuk memberikan bantuan dalam pertempuran bagi penggunanya.\\nTapi, dilihat dari sebagian detail perangkat ini, bisa disimpulkan kalau ini adalah sampel eksperimen dengan modal yang sudah dikurangi. Sepertinya biaya penelitian Hajanad tidak terlalu cukup ya ....",
+        "jp": "錬金術師ハジャナドが開発した装置。コンパクトな設計で、高温高圧に耐えられる内部チャンバーを備え、「リメルト効果」による爆発を防ぐ。特殊なバルブが適切なタイミングで自動的に開き、充分に混ぜられた薬の煙を放出することで、使用者に戦闘支援を提供できる。\\nしかし、細部を見る限り、これはコスト削減のための実験品のようだ。どうやらハジャナドはあまり研究資金を持ち合わせていないらしい…",
+        "kr": "연금술사 하자나드가 개발한 장치. 정교한 설계로 고압과 고온을 견딜 수 있는 내부 챔버를 갖추고 있어 「재용해 효과」의 폭발을 감당할 수 있다. 특수 밸브는 적절한 타이밍에 자동으로 열려 충분히 혼합된 포션의 증기를 방출하고 사용자의 전투를 지원한다.\\n그러나 일부 디테일로 미루어 볼 때, 이 장치는 원가 절감을 위한 실험품인 것 같다. 혹시 하자나드의 연구 자금이 넉넉하지 않은 걸까…",
+        "pt": "Um dispositivo engenhosamente desenvolvido pela alquimista Hajanad, com uma câmara interna capaz de suportar alta pressão e alta temperatura, para suportar a explosão do \"Efeito de Refusão\". A válvula especial pode ser habilitada automaticamente no momento certo, liberando a fumaça da poção totalmente misturada, para proporcionar ao usuário um forte suporte de combate.\\nNo entanto, a julgar por alguns detalhes deste dispositivo, parece ser uma versão experimental para baixar os custos. Dessa forma, o orçamento de pesquisa da Hajanad não parece ser suficiente...",
+        "ru": "Устройство алхимика Хаджанад, которое отличается весьма продуманной конструкцией. Устройство оснащено внутренними камерами, способными выдерживать высокую температуру и напряжение, которые сопровождают взрыв во время «эффекта переплавки». Специальные клапаны выпускают дым, образовавшийся после смешения реагентов, который очень помогает во время боя.\\nНо по некоторым деталям этого устройства заметно, что перед нами экспериментальный образец с невысокой себестоимостью. Судя по всему, средств у Хаджанад не так уж много...",
+        "th": "อุปกรณ์ที่นักเล่นแร่แปรธาตุ Hajanad คิดค้นขึ้น การออกแบบค่อนข้างประณีต ภายในมีที่ที่สามารถทนต่อแรงดันและความร้อนสูง ใช้เพื่อรองรับการระเบิดที่เกิดจาก \"เอฟเฟกต์หลอมละลาย\" วาล์วพิเศษสามารถเปิดได้โดยอัตโนมัติในเวลาที่เหมาะสม และปลดปล่อยควันจากน้ำยาโพชั่นที่ผสมผสานกันอย่างเต็มที่แล้ว เพื่อช่วยเสริมกำลังในการต่อสู้ให้แก่ผู้ใช้งาน\\nอย่างไรก็ตาม เมื่อพิจารณาจากรายละเอียดบางส่วนแล้ว ดูเหมือนว่านี่จะเป็นการทดลองที่ประสบปัญหาการขาดแคลนเงินทุน การวิจัยของ Hajanad ดูเหมือนจะไม่ได้รับทุนสนับสนุนที่เพียงพอ...",
+        "vi": "Thiết bị được phát triển bởi Giả Kim Thuật Sĩ Hajanad, thiết kế tinh xảo, với một khoang bên trong có khả năng chịu áp suất và nhiệt độ cao, để chịu tải vụ nổ của \"Hiệu Ứng Tái Luyện\". Van đặc biệt có thể tự động mở vào đúng thời điểm, giải phóng khói thuốc đã được trộn đều, trợ lực chiến đấu cho người sử dụng.\\nTuy nhiên, đánh giá từ một số chi tiết của thiết bị này, nó dường như là một thử nghiệm trong việc giảm chi phí. Kinh phí của Hajanad dường như không đủ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

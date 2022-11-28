@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Celebration: Shining Scale",
+        "de": "Feierlichkeit – Glitzernde Schuppe",
+        "chs": "庆典·光鳞",
+        "cht": "慶典·光鱗",
+        "es": "Celebración - Escamas relucientes",
+        "fr": "Célébration - Écaille brillante",
+        "id": "Perayaan: Sisik Penuh Kilauan",
+        "jp": "祭典·光鱗",
+        "kr": "축제·빛의 비늘",
+        "pt": "Celebração - Escama Brilhante",
+        "ru": "Сияющая чешуя",
+        "th": "การฉลอง - เกล็ดที่เป็นประกาย",
+        "vi": "Lễ Hội - Quang Lân"
+    },
+    "id": 210066,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe universe does play host to just such a snake, whose scales glitter with precisely these colors.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDas Universum beherbergt genau so eine Schlange, deren Schuppen in genau diesen Farben glitzern.",
+        "chs": "名片纹饰。\\n宇宙里真的有这样一条蛇，闪烁着这样颜色的光辉鳞片。",
+        "cht": "名片紋飾。\\n宇宙裡真的有這樣一條蛇，閃爍著這樣顏色的光輝鱗片。",
+        "es": "Diseño de tarjeta de presentación.\\nEn el universo realmente existe una serpiente como esta, con escamas que relucen con estos colores.",
+        "fr": "Thème.\\nL'univers abrite un serpent, dont les écailles scintillent précisément de ces couleurs.",
+        "id": "Style Kartu Nama.\\nAlam semesta adalah tuan rumah bagi ular seperti itu, yang sisiknya berkilau indah warna-warni.",
+        "jp": "名刺の飾り紋。\\n宇宙には、このような色輝く鱗を持つ蛇が確かに存在する。",
+        "kr": "명함 스킨.\\n우주에는 정말로 이런 뱀이 존재한다, 이런 색의 빛나는 비늘이 반짝이는 뱀 말이다",
+        "pt": "Estilo de Cartão de Visita.\\nO universo abriga uma cobra cujas escamas brilham precisamente com essas cores.",
+        "ru": "Именная карта.\\nВо вселенной действительно существует змея, чья чешуя переливается такими цветами.",
+        "th": "ลายนามบัตร\\nในจักรวาลนี้มีงูแบบนี้อยู่จริง ๆ นะ สีของมันแวววาวเหมือนกับเกล็ดนี้เลยล่ะ",
+        "vi": "Hoa văn danh thiếp.\\nTrong vũ trụ thực sự có một con rắn như vậy, với lớp vảy màu sáng lấp lánh như thế này."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

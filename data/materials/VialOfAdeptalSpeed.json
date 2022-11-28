@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vial of Adeptal Speed",
+        "de": "Adeptenschwung-Flakon",
+        "chs": "仙速瓶",
+        "cht": "仙速瓶",
+        "es": "Frasco de velocidad adéptica",
+        "fr": "Fiole d'accélération mystique",
+        "id": "Vial of Adeptal Speed",
+        "jp": "仙速瓶",
+        "kr": "선력 가속병",
+        "pt": "Frasco de Velocidade Adeptal",
+        "ru": "Флакон скорости Адепта",
+        "th": "Vial of Adeptal Speed",
+        "vi": "Bình Tiên Tốc"
+    },
+    "id": 107013,
+    "materialDesc": {
+        "en": "A small bottle that seals some adeptal energy within. Will immediately complete a furnishing when used.",
+        "de": "Ein Flakon, der mit adeptischer Energie gefüllt ist. Schließt nach der Anwendung die Herstellung eines Stücks Dekoration sofort ab.",
+        "chs": "封存着一股仙力的小瓶。使用后能立即完成一件摆设的制作。",
+        "cht": "封存著一股仙力的小瓶。使用後能立即完成一件擺設的製作。",
+        "es": "Una botellita que contiene un poco de energía adéptica. Úsala para completar inmediatamente la fabricación de una decoración.",
+        "fr": "Une petite bouteille qui contient de l'énergie mystique. Elle termine immédiatement la fabrication d'une décoration lorsqu'elle est utilisée.",
+        "id": "Botol kecil yang menyegel adeptal energy di dalamnya. Saat digunakan maka akan segera menyelesaikan proses pembuatan perabot.",
+        "jp": "仙力を封じた小さな瓶。使うと調度品の製作をすぐに完了させることができる。",
+        "kr": "선력이 봉인된 작은 병. 사용 시, 즉각 장식을 제작할 수 있다",
+        "pt": "Uma pequena garrafa que sela um pouco da Força Adepti dentro dela. Completará imediatamente uma Decoração quando utilizada.",
+        "ru": "Бутылочка с силой Адептов. Позволяет мгновенно изготовить один предмет декора.",
+        "th": "ขวดพลังเซียนที่ถูกปิดผนึก หลังใช้งานสามารถผลิตเฟอร์นิเจอร์สำเร็จได้ทันที",
+        "vi": "Chiếc bình phong ấn tiên khí, sau khi dùng sẽ hoàn thành ngay việc chế tạo một món đồ trang trí."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

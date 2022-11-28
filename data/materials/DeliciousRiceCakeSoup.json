@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Rice Cake Soup",
+        "de": "Leckere Klebreissuppe",
+        "chs": "美味的市井杂煮",
+        "cht": "美味的市井雜煮",
+        "es": "Sopa de pastel de arroz deliciosa",
+        "fr": "Soupe de galettes de riz (délicieuse)",
+        "id": "Delicious Rice Cake Soup",
+        "jp": "美味しそうな市井おでん",
+        "kr": "맛있는 모둠 어묵탕",
+        "pt": "Cozido Misto do Mercado Delicioso",
+        "ru": "Вкусный суп одзони",
+        "th": "Rice Cake Soup แสนอร่อย",
+        "vi": "Zoni Đường Phố Ngon"
+    },
+    "id": 108290,
+    "materialDesc": {
+        "en": "Commonly-seen city cuisine. The freshness of light soup forms the perfect backdrop for the original flavor of the ingredients to stand out, giving you that ancient taste of Inazuma City. This back-to-basics cuisine is sure to make you feel warm inside when eaten on a snowy night as you travel alone.",
+        "de": "Übliche Stadtküche. Die Frische der leichten Suppe bildet den perfekten Hintergrund, um den ursprünglichen Geschmack der Zutaten hervorzuheben und gibt dir den alten Geschmack von Inazuma. Wenn du in einer verschneiten Nacht alleine unterwegs bist, wird dir bei dieser einfachen Küche ganz warm ums Herz.",
+        "chs": "常见的市井料理。清淡汤汁提供的鲜味，凸显出了食材的本味，带有稻妻市井的古拙气息。在形单影只的雪夜，如果能吃上这么一份返璞归真的料理，大概会觉得身心俱暖吧。",
+        "cht": "常見的市井料理。清淡湯汁提供的鮮味，凸顯出了食材的本味，帶有稻妻市井的古拙氣息。在形單影隻的雪夜，如果能吃上這麼一份返璞歸真的料理，大概會覺得身心俱暖吧。",
+        "es": "Una comida típica de los mercados callejeros. El caldo resalta el sabor de los demás ingredientes, que adquieren el antiguo sabor de los mercados de Inazuma. Si comes este plato tan auténtico en una solitaria noche nevada, tendrás una reconfortante sensación.",
+        "fr": "#Plat vendu sur les marchés. La fraîcheur de la soupe légère constitue la toile de fond parfaite pour que la saveur originale des ingrédients s'épanouisse, rappelant la saveur à l'ancienne des marchés d'Inazuma. C'est le plat qui ne manquera pas de vous ragaillardir, lorsque vous le mangerez {M#seul}{F#seule} par une nuit enneigée.",
+        "id": "Masakan kota yang umum dilihat. Rasa laut yang segar dari sup menonjolkan rasa asli bahan-bahannya, membawakanmu rasa kuno Kota Inazuma. Masakan yang sederhana ini pasti dapat menghangatkanmu yang sedang bepergian sendirian di malam bersalju.",
+        "jp": "よく見かける巷の料理。あっさりとしたスープが、素材本来の味を引き立て、稲妻の巷の古き歴史を感じさせてくれる。一人きりの雪の夜に、このような素朴で飾り気がない料理を食べることができたら、きっと心も体も温かくなる。",
+        "kr": "흔히 볼 수 있는 축제 요리. 담백한 육수가 깔끔한 맛을 제공해 식자재 본연의 맛을 더욱 돋보일 뿐만 아니라 이나즈마 축제 특유의 예스럽고 전통적인 맛이 느껴진다. 순박한 본연의 모습으로 돌아갈 수 있게 하는 이 요리를 맛보면, 몸과 마음 모두 따스해질 것이다",
+        "pt": "Uma comida comum das cidades. O frescor da sopa leve forma o pano de fundo perfeito para o sabor original dos ingredientes se destacar, dando a você o gosto antigo de Inazuma. Essa culinária simples com certeza lhe fará sentir quente quando comida em uma noite de neve enquanto viaja sozinho.",
+        "ru": "Распространённая городская еда. Свежий лёгкий бульон служит великолепным фоном, подчёркивающим вкус ингредиентов, своим ароматом сообщая дух древней Инадзумы. Морозной тёмной ночью это простое блюдо согреет тело и душу.",
+        "th": "อาหารในเมืองที่พบได้ทั่วไป ซุปบางเบาที่ให้รสชาติสดใหม่ ซึ่งช่วยชูโรงให้รสชาติดั้งเดิมของวัตถุดิบโดดเด่นออกมา และยังผสมผสานไปด้วยกลิ่นอายโบราณของเมือง Inazuma หากคุณได้ทานเมนูนี้ในคืนหิมะตกเพียงลำพังล่ะก็ น่าจะทำให้ทั้งร่างกายและจิตใจอบอุ่นขึ้นมาเลยทีเดียว",
+        "vi": "Món ăn đường phố thường gặp. Món súp nhẹ tươi ngon, làm nổi bật hương vị vốn có của nguyên liệu, hoà quyện với bầu không khí cổ kính của thành phố Inazuma. Nếu được ăn món ăn này trong đêm mưa tuyết cô tịch, ắt hẳn sẽ cảm thấy vô cùng ấm áp."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Invigorating Kitty Meal",
+        "de": "Belebende Katzenmahlzeit",
+        "chs": "活力喵饭",
+        "cht": "活力喵飯",
+        "es": "Comida felina revitalizante",
+        "fr": "Pâté miaou revigorant",
+        "id": "Invigorating Kitty Meal",
+        "jp": "活力にゃんこ飯",
+        "kr": "활력충만 고양이 밥",
+        "pt": "Refeição Revigorante Miau",
+        "ru": "Бодрящее кошачье лакомство",
+        "th": "Invigorating Kitty Meal",
+        "vi": "Cơm Mèo Năng Động"
+    },
+    "id": 108319,
+    "materialDesc": {
+        "en": "This main dish looks rather cute. With Kiminami Anna's help, this dish was made with the tastes of provisional head priestess Neko in mind. Although it does not quite match the flavor that Hibiki used to produce, Lady Neko seems rather pleased with your work nonetheless. Due to the lack of spices, humans might find this dish a tad on the plain side.",
+        "de": "Dieses Hauptgericht sieht ziemlich süß aus. Mit Kiminami Annas Hilfe wurde dieses Gericht nach dem Geschmack der vorläufigen Oberpriesterin Neko zubereitet. Obwohl es nicht ganz an den Geschmack von Hibiki herankommt, scheint Neko dennoch recht zufrieden mit Ihrer Arbeit zu sein. Aufgrund der fehlenden Gewürze könnten die Menschen dieses Gericht ein wenig schlicht finden.",
+        "chs": "外形可爱的主食。在木南杏奈的帮助下，按照「代宫司寝子」的口味制作而成，虽然无法还原当初「阿响」做出的味道，但是寝子大人似乎很满意的样子。由于没有加入调味料，对人类来说会有些寡淡。",
+        "cht": "外形可愛的主食。在木南杏奈的幫助下，按照「代宮司寢子」的口味製作而成，雖然無法還原當初「阿響」做出的味道，但是寢子大人似乎很滿意的樣子。由於沒有加入調味料，對人類來說會有些寡淡。",
+        "es": "Una comida de aspecto adorable. Hecha según los gustos de Neko, la Suma Sacerdotisa suplente, y con la ayuda de Kiminami Anna. Aunque no es igual que la que hizo Hibiki, parece que es suficiente para satisfacer a Neko. Como el plato no se ha condimentado, podría resultar un poco insípido para un humano.",
+        "fr": "Un plat à l'apparence mignonne qui a été préparé avec l'aide d'Anna Kiminami et selon les goûts de Neko. Bien qu'il n'ait pas le même goût que s'il avait été cuisiné par Hibiki, Neko semble en être satisfaite. Non assaisonné, ce plat serait un peu fade pour les humains.",
+        "id": "Hidangan ini terlihat cukup imut. Dengan bantuan Kiminami Anna, hidangan ini dibuat dengan memperhatikan cita rasa yang disukai oleh kepala pendeta Neko. Walaupun tidak sebanding dengan rasa yang biasa dibuat Hibiki, tapi Nona Neko sepertinya cukup puas dengan hasil ini. Karena kurangnya bumbu, manusia mungkin merasa hidangan ini agak hambar.",
+        "jp": "見た目がかわいい主食。木南杏奈の助けのもと、「代理宮司寝子」の口に合わせて作った料理。「響」の味は復元できないが、寝子様が気に入ったようで何よりだ。調味料を加えなかったため、人間にとっては少し味が薄い。",
+        "kr": "외형이 귀여운 주식. 키미나미 안나의 도움으로 「대리 궁사 네코」의 입맛에 맞게 만들어졌다. 「히비키」가 만든 요리의 맛을 완벽하게 재현할 수는 없지만 네코는 꽤 만족해하는 것 같다. 조미료를 넣지 않았기 때문에 인간에게는 조금 싱거울 듯하다",
+        "pt": "Este prato principal parece muito fofo. Com a ajuda de Kiminami Anna, este prato foi feito com os gostos da Sacerdotisa Chefe Provisória Neko em mente. Embora não corresponda exatamente ao sabor que Hibiki costumava fazer, a Srta. Neko parece bastante satisfeita com seu trabalho, mesmo assim. Devido à falta de especiarias, os humanos podem achar este prato um pouco sem graça.",
+        "ru": "Довольно милое основное блюдо. Благодаря Киминами Анне это блюдо было приготовлено с учётом вкусов временной главной жрицы Нэко. Хотя оно не совсем соответствует предпочтениям Хибики, леди Нэко, похоже, довольна вашей работой. Из-за отсутствия специй это блюдо может показаться пресноватым.",
+        "th": "อาหารหลักที่หน้าตาดูน่ารัก ด้วยความช่วยเหลือของ Kiminami Anna อาหารจานนี้จึงถูกทำขึ้นตามความชื่นชอบของรักษาการณ์หัวหน้ามิโกะ Neko แม้มันจะไม่เหมือนรสชาติดั้งเดิมที่ Hibiki เคยทำ แต่ดูเหมือนว่าท่าน Neko จะพอใจมากทีเดียว แต่เนื่องจากมันไม่ได้ใส่เครื่องปรุงใด ๆ จึงค่อนข้างจืดชืดเกินไปสำหรับมนุษย์",
+        "vi": "Món chính có hình dạng dễ thương. Được chế biến theo khẩu vị của Guuji Đại Diện của Đền Asase và nhờ sự giúp đỡ của Kiminami Anna, tuy không thể giống y như hương vị do chính Hibiki làm, nhưng Guuji Đại Diện có vẻ rất hài lòng. Do không thêm bất cứ gia vị gì, nên có lẽ hơi nhạt nhẽo đối với con người."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

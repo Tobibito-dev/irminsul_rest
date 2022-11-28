@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hardwood Screen: Morning Mist in Jueyun",
+        "de": "Hartholz-Leinwand – „Morgennebel in Jueyun“",
+        "chs": "硬木座屏-「绝云晨雾」",
+        "cht": "硬木座屏-「絕雲晨霧」",
+        "es": "Pantalla de madera noble: Niebla matinal en Jueyun",
+        "fr": "Paravent en bois solide « Brume matinale à Jueyun »",
+        "id": "Tirai Kayu Keras: Embun Pagi Jueyun",
+        "jp": "堅木座屏-「絶雲朝霧」",
+        "kr": "경목 좌병-「구름과 아침 안개」",
+        "pt": "Tela de Madeira Nobre: \"Neblina Matinal em Jueyun\"",
+        "ru": "Грубая ширма: Утренняя мгла Заоблачного предела",
+        "th": "ฉากไม้เนื้อแข็ง - \"ก้อนเมฆยามเช้า\"",
+        "vi": "Bình Phong Gỗ Cứng - Sương Phủ Mây Mờ"
+    },
+    "id": 382203,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Hardwood Screen: Morning Mist in Jueyun.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Hartholz-Leinwand – Morgennebel in Jueyun“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「硬木座屏-『绝云晨雾』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「硬木座屏-『絕雲晨霧』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Pantalla de madera noble: Niebla matinal en Jueyun.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du paravent en bois solide « Brume matinale à Jueyun ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Tirai Kayu Keras: Embun Pagi Jueyun\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「堅木座屏-『絶雲朝霧』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「경목 좌병-『구름과 아침 안개』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Tela de Madeira Nobre: \"Neblina Matinal em Jueyun\"\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Грубая ширма: Утренняя мгла Заоблачного предела».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างฉากไม้เนื้อแข็ง - \"ก้อนเมฆยามเช้า\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bình Phong Gỗ Cứng - Sương Phủ Mây Mờ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

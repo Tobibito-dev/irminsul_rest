@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Venti Test Package",
+        "de": "None",
+        "chs": "(test)温迪测试包-cb1用",
+        "cht": "溫迪測試包",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "ウェンティテストパック",
+        "kr": "벤티 테스트 패키지",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "id": 3013,
+    "materialDesc": {
+        "en": "Obtained Venti, 3-Star Raven Bow, Venti Stardust x16",
+        "de": "None",
+        "chs": "(test)获得角色温迪、3星武器鸦羽弓、温迪的星辉点x16、温迪的星尘点x16",
+        "cht": "獲得角色溫蒂、3星武器鴉羽弓、溫蒂的星輝點x16、溫蒂的星塵點x16",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "ウェンティ、星3鴉羽の弓、ウェンティのスターダストx16を獲得する",
+        "kr": "벤티 캐릭터 카드, ★3 무기 까마귀깃 활, 벤티's 스타더스트x16 획득",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Luxurious Silk Cloth",
+        "de": "Luxuriöses Seidentuch",
+        "chs": "华美的丝绸",
+        "cht": "華美的絲綢",
+        "es": "Seda lujosa",
+        "fr": "Tissu de soie luxueux",
+        "id": "Kain Sutra Mewah",
+        "jp": "華麗な絹",
+        "kr": "화려한 비단",
+        "pt": "Seda Luxuosa",
+        "ru": "Изысканный шёлк",
+        "th": "ผ้าไหมสุดหรูหรา",
+        "vi": "Tơ Lụa Hoa Lệ"
+    },
+    "id": 100885,
+    "materialDesc": {
+        "en": "A bolt of lovely silk. This is normally used to make high-end clothing.",
+        "de": "Ein Ballen feinster Seide. Diese wird normalerweise für die Herstellung von hochwertiger Kleidung verwendet.",
+        "chs": "一匹精美的丝绸。通常，人们会用这种布料来制作高档衣物。",
+        "cht": "一匹精美的絲綢。通常，人們會用這種布料來製作高級衣物。",
+        "es": "Un rollo de seda realmente bella. La gente suele utilizar este tipo de seda para confeccionar prendas de alta gama.",
+        "fr": "Un rouleau de soie de bonne qualité, normalement utilisé pour fabriquer des vêtements haut de gamme.",
+        "id": "Kain sutra yang indah. Biasanya dipakai untuk membuat pakaian kelas atas.",
+        "jp": "細かいところまで綺麗に作られた美しい絹。通常、このような生地は高価な着物に使用されている。",
+        "kr": "정교한 비단 한 필. 사람들은 보통 이러한 원단으로 고급 의상을 제작한다",
+        "pt": "Um pedaço elegante de seda. Comumente as pessoas usam esse tipo de tecido para fazer roupas de alta qualidade.",
+        "ru": "Отрез великолепного шёлка. Из такого шьют только лучшую одежду.",
+        "th": "ผ้าไหมชั้นดี โดยปกติแล้วผู้คนมักจะใช้ผ้าชนิดนี้ในการทำเสื้อผ้าระดับพรีเมี่ยม",
+        "vi": "Một tấm lụa tinh xảo, thông thường sẽ được dùng để may ra những trang phục cao cấp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

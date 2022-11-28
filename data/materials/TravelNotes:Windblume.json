@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Windblume",
+        "de": "Erlebnispass – Windblumen",
+        "chs": "纪行·风花",
+        "cht": "紀行·風花",
+        "es": "PB - Flores de viento",
+        "fr": "PB - Alizée",
+        "id": "Catatan Perjalanan: Windblume",
+        "jp": "紀行·風花",
+        "kr": "기행·윈드블룸",
+        "pt": "Passe de Batalha - Brisa Florescente",
+        "ru": "Анемония",
+        "th": "บันทึก - Windblume",
+        "vi": "Nhật Ký Hành Trình Hoa Gió"
+    },
+    "id": 210064,
+    "materialDesc": {
+        "en": "Namecard style.\\nWho has seen the wind? Neither you nor I. Nor has anyone ever seen love, till a bouquet comes flying by.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWer hat schon den Wind gesehen? Weder du noch ich. Auch hat noch niemand die Liebe gesehen, bis ein Strauß vorbeifliegt.",
+        "chs": "名片纹饰。\\n谁也没有见过风，更别说我和你了。谁也没有见过爱情，直到有花束抛向自己。",
+        "cht": "名片紋飾。\\n誰也沒有見過風，更別說我和你了。誰也沒有見過愛情，直到有花束拋向自己。",
+        "es": "Diseño de tarjeta de presentación.\\n¿Quién ha visto al viento? Ni tú, ni yo. Tampoco nadie ha visto nunca el amor, hasta que un ramo de flores llega volando.",
+        "fr": "Thème.\\nPersonne ne voit le vent, jusqu'à ce qu'il vous souffle au visage. Il en va de même pour l'amour. Personne ne le voit, jusqu'au jour où on se retrouve avec un bouquet entre les mains.",
+        "id": "Style kartu nama.\\nSiapa yang pernah melihat angin? Kamu dan aku juga belum pernah. Begitu pula dengan cinta, tidak ada yang pernah melihatnya, sampai ada sebuket bunga yang dilemparkan ke arahmu.",
+        "jp": "名刺の飾り紋。\\n私たちはおろか、誰も風を見たことがない。花束が放られるまで、誰も愛を見たことがない。",
+        "kr": "명함 스킨.\\n우리 중 바람을 본 사람은 아무도 없다. 꽃다발이 자신에게 향하기 전까지 사랑을 본 사람 또한 아무도 없다",
+        "pt": "Estilo de Cartão de Visita.\\nQuem viu o vento? Nem eu e nem você. Ninguém nunca viu o amor, até um buquê receber.",
+        "ru": "Именная карта.\\nКто видел ветер? Я не видел, и ты не видел. И никто не видит любви, пока ему не прилетит букет цветов.",
+        "th": "ลายนามบัตร\\nไม่มีใครเคยเห็นลมมาก่อน รวมถึงทั้งเธอและฉันด้วยเช่นกัน และก็ไม่มีใครเคยเห็นความรัก จนกว่าช่อดอกไม้จะโผเข้าหา",
+        "vi": "Hoa văn danh thiếp.\\nChưa ai có thể nhìn thấy gió, huống chi tôi và bạn. Chưa có ai nhìn thấy tình yêu cho đến khi một bó hoa được ném về phía mình."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

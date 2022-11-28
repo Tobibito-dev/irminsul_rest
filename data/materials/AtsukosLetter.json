@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Atsuko's Letter",
+        "de": "Atsukos Brief",
+        "chs": "竺子的家书",
+        "cht": "竺子的家書",
+        "es": "Carta de Atsuko",
+        "fr": "Lettre d'Atsuko",
+        "id": "Surat Atsuko",
+        "jp": "竺子の家書",
+        "kr": "아츠코의 가서",
+        "pt": "Diário de Atsuko",
+        "ru": "Письмо Ацуко",
+        "th": "จดหมายทางบ้านของ Atsuko",
+        "vi": "Thư Nhà Của Atsuko"
+    },
+    "id": 100882,
+    "materialDesc": {
+        "en": "A letter that Atsuko penned herself. It is filled with her yearning to see her parents again — with any luck, this long letter will bring her parents some peace of mind.",
+        "de": "Ein Brief, den Atsuko selbst verfasst hat. Er ist gefüllt mit ihrer Sehnsucht, ihre Eltern wiederzusehen. Mit etwas Glück wird dieser lange Brief ihren Eltern etwas Seelenfrieden bringen.",
+        "chs": "竺子亲笔写就的家书，字里行间充满了对父母的挂念。希望这封长信能让远方的父母安心。",
+        "cht": "竺子親筆寫就的家書，字裡行間充滿了對父母的掛念。希望這封長信能讓遠方的父母安心。",
+        "es": "Una carta escrita personalmente por Atsuko en la que expresa todo lo que extraña a sus padres. Ojalá se sientan más tranquilos al leerla...",
+        "fr": "Une lettre qu'Atsuko a écrite elle-même. Elle montre son désir de revoir ses parents. Avec un peu de chance, cette longue lettre apportera de la tranquillité d'esprit à ses parents.",
+        "id": "Sepucuk surat yang ditandatangani Atsuko sendiri. Isi suratnya berisi kerinduan Atsuko terhadap orang tuanya. Semoga surat yang isinya panjang ini dapat membuat orang tuanya tenang.",
+        "jp": "竺子が書いた実家に宛てた手紙。両親への思いが込められている。この手紙が、遠く離れた両親を安心させることを願う。",
+        "kr": "아츠코의 친필 가서. 행간 곳곳에는 부모에 대한 그리움이 담겨있다. 아츠코는 이 긴 편지가 먼 타향에 있는 부모님에게 조금이나마 위안이 되길 바라고 있다",
+        "pt": "Um diário escrito pessoalmente por Atsuko. Ele está repleto de suas preocupações a respeito de seus pais. Deseja-se que essas palavras possam confortar seus pais numa terra longínqua.",
+        "ru": "Письмо домой, написанное Ацуко. Оно переполнено тоской по родителям. Хотелось бы, чтобы это длинное письмо принесло её матери и отцу хоть немного душевного спокойствия.",
+        "th": "จดหมายที่ Atsuko เขียนขึ้นด้วยตัวเอง อัดแน่นไปด้วยอารมณ์คิดถึงที่มีต่อพ่อและแม่ ด้วยความหวังที่จะให้พ่อแม่ที่อยู่ห่างไกลรู้สึกสบายใจ",
+        "vi": "Thư gửi nhà chất chứa lòng thương nhớ của Atsuko, hy vọng bức thư này sẽ khiến cha mẹ an lòng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

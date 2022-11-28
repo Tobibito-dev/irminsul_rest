@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Sweet Dream\"",
+        "de": "Träumchen",
+        "chs": "「美梦」",
+        "cht": "「美夢」",
+        "es": "Dulces sueños",
+        "fr": "Beau songe",
+        "id": "Sweet Dream",
+        "jp": "「夢」",
+        "kr": "「아름다운 꿈」",
+        "pt": "Sonhos Doces",
+        "ru": "«Сладкий сон»",
+        "th": "Sweet Dream",
+        "vi": "Giấc Mộng Đẹp"
+    },
+    "id": 108137,
+    "materialDesc": {
+        "en": "Xiao's specialty. His dream is very simple, and it is merely a lovely dream.",
+        "de": "Xiaos Spezialzubereitung. Sein Traum ist ganz einfach. Er will weiterhin träumen.",
+        "chs": "魈的特色料理。他的「美梦」很简单，不过是做一个美梦而已。",
+        "cht": "魈的特色料理。他的「美夢」很簡單，不過是做一個美夢而已。",
+        "es": "La especialidad de Xiao. Sus sueños son sencillos y hermosos, como este plato.",
+        "fr": "Spécialité culinaire de Xiao. Les rêves de Xiao sont simples et beaux.",
+        "id": "Spesialisasi Xiao. Impiannya sangat sederhana, namun merupakan mimpi yang indah.",
+        "jp": "魈のオリジナル料理。彼の「夢」は、ただ良い夢を見たいだけ。",
+        "kr": "소의 특제 요리. 그의 「아름다운 꿈」은 아주 간단하다. 그저 아름다운 꿈을 꾸기만 하면 된다",
+        "pt": "Especialidade de Xiao. Seu sonho é muito simples e é apenas um sonho adorável.",
+        "ru": "Особое блюдо Сяо. Его сон очень прост, и он - блаженный.",
+        "th": "เมนูพิเศษของ Xiao \"ฝันดี\" ของเขานั้นแสนจะเรียบง่าย ก็แค่ฝันดีแค่นั้นเอง",
+        "vi": "Món ăn đặc biệt của Xiao. \"Giấc Mộng Đẹp\" do anh làm rất đơn giản, chỉ là một giấc mơ rất đẹp mà thôi."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

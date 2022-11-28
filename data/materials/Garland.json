@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Garland",
+        "de": "„Blütenkrone“",
+        "chs": "「花冠」",
+        "cht": "「花冠」",
+        "es": "Corona de flores",
+        "fr": "Couronne de fleurs",
+        "id": "Mahkota Bunga",
+        "jp": "「花冠」",
+        "kr": "「화관」",
+        "pt": "Coroa",
+        "ru": "Венок",
+        "th": "\"มงกุฎดอกไม้\"",
+        "vi": "Dây Hoa"
+    },
+    "id": 101812,
+    "materialDesc": {
+        "en": "A garland woven by Arama.\\nGarlands of this kind represent the blessings from all of Vanarana.",
+        "de": "Eine von Arama geflochtene Blütenkrone.\\nDiese Art von Blütenkrone symbolisiert den gesamten Segen des Vanarana.",
+        "chs": "兰罗摩编织成的花冠。\\n这种花冠象征着整个桓那兰那的祝福。",
+        "cht": "蘭羅摩編織成的花冠。\\n這種花冠象徵著整個桓那蘭那的祝福。",
+        "es": "Una corona de flores que hizo Arama.\\nEsta corona de flores simboliza los buenos deseos de todo Vanarana.",
+        "fr": "Une couronne de fleurs tressée par Arama.\\nCe type de couronne symbolise la bénédiction de tout Vanarana.",
+        "id": "Mahkota bunga yang dirangkai oleh Arama.\\nMahkota bunga seperti ini melambangkan berkah dari semua Vanarana.",
+        "jp": "アランマが作った花冠。\\nこのような花冠はヴァナラーナ全体の祝福を象徴している。",
+        "kr": "아란마가 엮어 만든 화관.\\n이런 화관은 바나라나 전체의 축복을 상징한다",
+        "pt": "Guirlanda feita por Arama.\\nDizem que este tipo de coroa representa a benção do Vanarana.",
+        "ru": "Венок, сплетённый Арамой.\\nВенки аранар - олицетворённое благословение Ванараны.",
+        "th": "มงกุฎดอกไม้ที่สานขึ้นโดย Arama\\nมงกุฎดอกไม้ชนิดนี้เป็นสัญลักษณ์แห่งการอวยพรจากทั่วทั้ง Vanarana",
+        "vi": "Vòng hoa của Arama.\\nVòng hoa này tượng trưng cho chúc phúc của cả Vanarana."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

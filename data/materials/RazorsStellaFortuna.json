@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Razor's Stella Fortuna",
+        "de": "Stella Fortuna von Razor",
+        "chs": "雷泽的命星",
+        "cht": "雷澤的命星",
+        "es": "Stella Fortuna de Razor",
+        "fr": "Stella Fortuna de Razor",
+        "id": "Razor's Stella Fortuna",
+        "jp": "レザーの星屑",
+        "kr": "레이저의 운명의 별",
+        "pt": "Stella Fortuna de Razor",
+        "ru": "Удача Рэйзора",
+        "th": "ดวงดาวแห่งชีวิตของ Razor",
+        "vi": "Chòm Sao Của Razor"
+    },
+    "id": 1120,
+    "materialDesc": {
+        "en": "Razor's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Razors Sternbild",
+        "chs": "雷泽的命之座激活素材",
+        "cht": "雷澤的命之座啟用素材。",
+        "es": "Material de activación de constelación de Razor",
+        "fr": "Matériau d'activation de la constellation de Razor.",
+        "id": "Material aktivasi untuk konstelasi Razor",
+        "jp": "レザーの命ノ星座アンロック用素材",
+        "kr": "레이저의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Razor",
+        "ru": "Материал для активации созвездия Рэйзора.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Razor",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Razor"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

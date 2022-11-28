@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Flaming Red Bolognese",
+        "de": "Besondere feurige Nudeln",
+        "chs": "特制的火火肉酱面",
+        "cht": "特製的火火肉醬麵",
+        "es": "Pasta a la boloñesa especial",
+        "fr": "Pâtes à la bolognaise enflammées spéciales",
+        "id": "Flaming Red Bolognese Spesial",
+        "jp": "特製完熟トマトのミートソース",
+        "kr": "특제 불꽃 미트 스파게티",
+        "pt": "Macarrão à Bolonhesa Picante Especial",
+        "ru": "Особая паста с томатным соусом",
+        "th": "Flaming Red Bolognese สูตรพิเศษ",
+        "vi": "Mỳ Sốt Thịt Đặc Biệt"
+    },
+    "id": 100652,
+    "materialDesc": {
+        "en": "A freshly-served plate of Flaming Red Bolognese. It is a thing of fragile beauty.",
+        "de": "Feurige Nudeln, frisch verpackt. Ein wahrhaft zerbrechliche Schönheit.",
+        "chs": "刚刚装盘的火火肉酱面。看起来脆弱又美味。",
+        "cht": "剛剛裝盤的火火肉醬麵。看起來脆弱又美味。",
+        "es": "Una pasta a la boloñesa recién puesta en el plato. ¡Qué buena pinta!",
+        "fr": "Une assiette fraîchement servie de pâtes à la bolognaise enflammées. C'est d'une telle beauté !",
+        "id": "Sepiring Flaming Red Bolognese yang baru disajikan. Kelihatannya empuk dan lezat.",
+        "jp": "盛り付けたばかりの完熟トマトのミートソース。誘惑的で美味しそう。",
+        "kr": "방금 접시에 담은 불꽃 미트 스파게티. 면이 야들야들하고 맛있어 보인다",
+        "pt": "Um Macarrão à Bolonhesa Picante. Parece delicado e delicioso.",
+        "ru": "Свежая паста с томатным соусом. Выглядит очень аппетитно.",
+        "th": "Flaming Red Bolognese ที่เพิ่งจัดลงจาน ดูแล้วทั้งกรอบและอร่อย",
+        "vi": "Mỳ Sốt Thịt vừa được đặt lên đĩa. Món ăn vừa giòn vừa ngon."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

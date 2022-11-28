@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Soba Noodles",
+        "de": "Leckere Soba",
+        "chs": "美味的荞麦面",
+        "cht": "美味的蕎麥麵",
+        "es": "Fideos soba deliciosos",
+        "fr": "Soba (délicieuses)",
+        "id": "Delicious Soba Noodles",
+        "jp": "美味しそうなそば",
+        "kr": "맛있는 메밀국수",
+        "pt": "Macarrão Soba Delicioso",
+        "ru": "Вкусная соба",
+        "th": "Soba Noodle แสนอร่อย",
+        "vi": "Mì Soba Ngon"
+    },
+    "id": 108353,
+    "materialDesc": {
+        "en": "A plain and simple noodle dish. The unique flavor of buckwheat has been maximized, and as the springy noodles slip past your throat, they leave behind a gentle aftertaste, like an old song floating through a tranquil courtyard.",
+        "de": "Ein reines und einfaches Nudelgericht. Der einzigartige Geschmack des Buchweizens wurde maximiert und während die federnden Nudeln an deiner Kehle vorbeigleiten, hinterlassen sie einen sanften Nachgeschmack, wie ein altes Lied, das durch einen ruhigen Innenhof hallt.",
+        "chs": "朴素简单的面食。荞麦独一无二的香味被发挥到了极致，柔韧的面条滑过喉间，留下淡淡的回味，仿佛素净的回廊中传来悠远的古谣。",
+        "cht": "樸素簡單的麵食。蕎麥獨一無二的香味被發揮到了極致，柔韌的麵條滑過喉間，留下淡淡的回味，彷彿素淨的迴廊中傳來悠遠的古謠。",
+        "es": "Un plato de fideos muy sencillo. El sabor único del trigo se ha aprovechado al máximo, por lo que, al deslizarse por tu garganta, estos suaves fideos dejan un sutil regusto que se siente como si una bella melodía inundara una sala silenciosa.",
+        "fr": "Un plat de nouilles simple. La saveur unique du sarrasin ressort parfaitement. Une fois qu'elles glissent dans votre bouche, les nouilles flexibles vous laissent un arrière-goût de douceur tel un air de musique ancienne que l'on entend depuis un couloir tranquille.",
+        "id": "Hidangan mie polos dan sederhana. Rasa unik dari soba telah dimaksimalkan, dan saat mie kenyal ini melewati tenggorokan, ada sebuah rasa lembut yang tertinggal, bagaikan lagu lama yang bersenandung di tengah-tengah halaman yang tenang.",
+        "jp": "素朴で簡単な麺類。ソバの独特な香りを絶妙に引き出した料理。しなやかな麺が喉を通り、口の中に残る淡い余韻は、まるで質素な回廊に響いてくる古謡のようだ。",
+        "kr": "소박하고 간단한 면 요리. 메밀이 유일무이한 맛을 최고로 끌어올렸다. 쫄깃한 면발이 목구멍을 스치면서 옅은 여운을 남기는데, 마치 깨끗한 복도에 울려 퍼지는 머나먼 고대의 노래 같다",
+        "pt": "Um prato de macarrão puro e simples. O sabor único do trigo foi maximizado, e à medida que o macarrão elástico escorrega pela garganta, eles deixam para trás um sabor suave, como uma velha canção flutuando por um pátio tranquilo.",
+        "ru": "Обычная лапша. В ней в полной мере раскрыт уникальный вкус гречки. Когда пружинистая лапша скользит по языку, она оставляет нежное послевкусие, как старая песня, плывущая по тихому двору.",
+        "th": "โซบะหน้าตาธรรมดา แสนเรียบง่าย มีกลิ่นหอมกรุ่นอันเป็นเอกลักษณ์ของบัควีท เส้นโซบะเหนียวนุ่มยืดหยุ่น เมื่อเส้นไหลผ่านลงคอไป กลับทิ้งรสชาติเอาไว้ ราวกับทางเดินโบราณอันเงียบสงบ",
+        "vi": "Món mì giản dị. Hương thơm độc nhất vô nhị của kiều mạch được phát huy tuyệt đối, giây phút sợi mì dai mịn lướt qua, để lại mùi thơm nhè nhẹ, tựa như hành lang yên tĩnh chợt ngân lên tiếng đàn xa xăm."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

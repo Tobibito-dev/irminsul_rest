@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Arrival Schedule",
+        "de": "Ankunftsplan",
+        "chs": "到港时刻表",
+        "cht": "到港時刻表",
+        "es": "Horario del puerto",
+        "fr": "Tableau des arrivées",
+        "id": "Jadwal Kedatangan",
+        "jp": "到着時刻表",
+        "kr": "입항 시간표",
+        "pt": "Cronograma de Chegada",
+        "ru": "Расписание прибытия",
+        "th": "ตารางเวลาเทียบท่า",
+        "vi": "Bảng Thời Gian Cập Bến"
+    },
+    "id": 101725,
+    "materialDesc": {
+        "en": "A list of guests and their time of arrival on ships bound for the Irodori Festival.\\nYour task is to welcome and lend your aid to guests according to the information presented in this schedule.",
+        "de": "Eine Liste der Gäste und ihrer Ankunftszeiten auf den Schiffen, die zum Irodori-Fest fahren.\\nDeine Aufgabe ist es, die Gäste gemäß den Informationen in diesem Plan zu begrüßen und ihnen zu helfen.",
+        "chs": "写有容彩祭嘉宾乘坐船只信息的时刻表。\\n你的任务就是根据这张表上的信息，到离岛的港口接引嘉宾，并为他们提供帮助。",
+        "cht": "#寫有容彩祭嘉賓乘坐船隻資訊的時刻表。\\n{F#妳}{M#你}的任務就是根據這張表上的資訊，到離島的港口接引嘉賓，並為他們提供幫助。",
+        "es": "Un horario donde se indican las diferentes horas a las que llegarán los barcos que traen a los invitados del Festival Irodori.\\nTu cometido es recibir a los invitados en el puerto de Ritou de acuerdo a la información que se incluye en este horario y asistirles cuando sea necesario.",
+        "fr": "Un tableau sur lequel sont indiquées les horaires d'arrivées des bateaux qui transportent les invités d'honneur du Festival Irodori.\\nVotre tâche est d'accueillir les invités au port de Ritou selon les informations de ce tableau et de les assister si nécessaire.",
+        "id": "Daftar tamu dan waktu kedatangan mereka di kapal yang mereka tumpangi untuk ke Festival Irodori.\\nTugasmu adalah menyambut dan memberikan bantuan kepada tamu sesuai dengan informasi yang disajikan dalam jadwal ini.",
+        "jp": "容彩祭の賓客たちが乗ってくる船の情報が書かれている時刻表。\\nこの情報をもとに、離島の波止場で賓客を出迎え、彼らを案内しよう。",
+        "kr": "이로도리 축제 손님이 탑승한 선박의 정보가 적힌 시간표.\\n여행자의 임무는 시간표 정보에 따라 이도의 항구에서 손님을 맞이하고 도움을 제공하는 것이다",
+        "pt": "Uma lista de convidados e o horário da chegada deles em navios destinados ao Festival Irodori.\\nSua missão é dar boas-vindas a eles e os ajudar de acordo com as informações deste cronograma.",
+        "ru": "Расписание прибытия кораблей со списком гостей праздника Иродори.\\nВам надлежит встречать гостей в порту острова Рито и помогать им согласно информации в этом расписании.",
+        "th": "ตารางเวลาพร้อมข้อมูลเรือของแขกในงานเทศกาล Irodori\\nภารกิจของคุณก็คือไปที่ Ritou เพื่อรองรับแขก และช่วยเหลือพวกเขาในการกรอกข้อมูลลงในตารางนี้",
+        "vi": "Thời gian biểu ghi chép thông tin cập bến của những vị khách quý trong dịp Lễ Hội Irodori.\\nNhiệm vụ của bạn là căn cứ theo thông tin trên bảng này để đến bến cảng tiếp đón và giúp đỡ quan khách."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

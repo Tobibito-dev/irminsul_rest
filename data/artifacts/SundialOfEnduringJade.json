@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Sundial of Enduring Jade",
+        "de": "Sonnenuhr der düsteren Jade",
+        "chs": "星罗圭璧之晷",
+        "cht": "星羅圭璧之晷",
+        "es": "Reloj de Sol de Jade Sempiterno",
+        "fr": "Cadran du jade immuable",
+        "id": "Sundial of Enduring Jade",
+        "jp": "星羅圭玉の日時計",
+        "kr": "성라규벽의 시계",
+        "pt": "Relógio de Sol de Jade Duradouro",
+        "ru": "Часы из прочного нефрита",
+        "th": "Sundial of Enduring Jade",
+        "vi": "Cát Tinh Đà"
+    },
+    "id": 24745,
+    "setId": 15014,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

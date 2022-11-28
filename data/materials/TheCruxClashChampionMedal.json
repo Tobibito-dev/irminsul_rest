@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Crux Clash Champion Medal",
+        "de": "Meistermedaille im Crux-Turnier",
+        "chs": "「南十字武斗会」冠军奖牌",
+        "cht": "「南十字武鬥會」冠軍獎牌",
+        "es": "Medalla del campeón del Torneo Crux",
+        "fr": "Médaille de champion du Clash du Crux",
+        "id": "Medali Juara Turnamen Crux Clash",
+        "jp": "「南十字武闘会」の優勝メダル",
+        "kr": "「남십자 무술대회」 우승 상패",
+        "pt": "Medalha de Campeão do Torneio da Frota Crux",
+        "ru": "Медаль чемпиона «Бойцовского турнира Южного Креста»",
+        "th": "เหรียญรางวัลชนะเลิศ \"การประลองแห่งกองเรือ Crux\"",
+        "vi": "Huy Chương Vô Địch \"Hội Đấu Võ Nam Thập Tự\""
+    },
+    "id": 100816,
+    "materialDesc": {
+        "en": "A medal awarded by the organizers of The Crux Clash. It is proof that you are the undisputed champion of this tournament. But it is not so much the duels you experienced that you will look back on — rather, it is the story of a Vision and the pursuit of ideals.",
+        "de": "Eine Medaille, die vom Veranstalter des Crux-Turniers verliehen wird. Sie ist Beweis dafür, dass du der unbestrittene Sieger dieses Wettkampfs bist. Doch verglichen mit den Kämpfen des Wettkampfs war die Geschichte über das Göttliche Auge und „Ideale“ noch erinnerungswürdiger für dich.",
+        "chs": "由「南十字武斗会」的主办者颁发的奖牌，证明你夺得了这场比武大会的冠军。但比起大会上的「激斗」，可能还是有关神之眼和「理想」的故事更值得纪念吧。",
+        "cht": "#由「南十字武鬥會」的主辦者頒發的獎牌，證明{F#妳}{M#你}奪得了這場比武大會的冠軍。但比起大會上的「激鬥」，可能還是有關神之眼和「理想」的故事更值得紀念吧。",
+        "es": "#La medalla expedida por los organizadores del Torneo Crux para demostrar que fuiste {F#la ganadora}{M#el ganador} de la competición. Más que los feroces combates del torneo, tal vez lo más memorable sean las historias sobre la Visión y los ideales que escuchaste en el proceso.",
+        "fr": "Une médaille remise par l'organisateur du Clash du Crux. C'est la preuve que vous êtes le champion incontesté de ce tournoi. Mais, comparé aux batailles que vous avez vécues pendant le tournoi, peut-être que l'histoire des yeux divins et des « idéaux » a été plus marquante pour vous.",
+        "id": "Medali yang diberikan oleh penyelenggara Turnamen Crux Clash sebagai bukti bahwa kamu juara di turnamen ini. Tapi mungkin dibandingkan dengan pertarungan sengit di turnamen ini, yang lebih berkesan di hatimu adalah kisah tentang Vision dan pengejaran sebuah harapan.",
+        "jp": "「南十字武闘会」の表彰メダル。この武闘会のチャンピオンであることを証明する。しかし、武闘会での「激闘」よりも、神の目と「理想」に関する物語の方が記念に値するかもしれない。",
+        "kr": "「남십자 무술대회」의 주최 측에서 주는 상패. 무술대회의 우승자임을 증명한다. 하지만 대회에서의 「격투」보다 신의 눈에 관련된 것과 「꿈」에 대한 이야기가 더욱 기념할 만하다",
+        "pt": "Uma medalha concedida pela organizadora do Torneio da Frota Crux, reconhecendo a sua vitória nesse concurso. Mas em comparação com as lutas ferozes, as histórias sobre a Visão e os ideais são mais comemoráveis.",
+        "ru": "Медаль, вручённая организатором «Бойцовского турнира Южного Креста» как доказательство вашего бесспорного лидерства на турнире. Вероятно, истории о Глазе Бога и «идеалах» запомнились вам больше, чем ожесточённые бои.",
+        "th": "เหรียญรางวัลที่ได้รับจากผู้จัด \"การประลองแห่งกองเรือ Crux\" ซึ่งพิสูจน์ให้เห็นว่าคุณชนะเลิศทัวร์นาเมนต์การต่อสู้นี้ แต่เมื่อเทียบกับ \"การต่อสู้ที่ดุเดือด\" แล้ว บางทีเรื่องราวเกี่ยวกับวิชั่นและ \"อุดมคติ\" ก็คุ้มค่าที่จะจดจำมากกว่า",
+        "vi": "Huy chương do ban tổ chức \"Hội Đấu Võ Nam Thập Tự\" trao tặng, chứng minh bạn đã giành vô địch trong giải đấu này. Nhưng so với việc \"chiến đấu\" trong cuộc thi, có lẽ những việc liên quan đến Vision và \"lý tưởng\" càng đáng ghi nhớ hơn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Instructions: Anemoculus Resonance Stone",
+        "de": "Erläuterung: Anemoculus-Resonanzstein",
+        "chs": "说明：风神瞳共鸣石",
+        "cht": "說明：風神瞳共鳴石",
+        "es": "Instrucciones: Roca de resonancia de anemóculus",
+        "fr": "Instructions : Pierre de résonance Anémoculus",
+        "id": "Panduan: Anemoculus Resonance Stone",
+        "jp": "説明：風神の瞳の共鳴石",
+        "kr": "설명서: 바람 신의 눈동자 공명석",
+        "pt": "Instruções: Pedra de Ressonância de Anemoculus",
+        "ru": "Инструкции: Камень эха анемокула",
+        "th": "คู่มือ: Anemoculus Resonance Stone",
+        "vi": "Giải Thích: Đá Cộng Hưởng Phong Thần Đồng"
+    },
+    "id": 221001,
+    "materialDesc": {
+        "en": "Detailed step-by-step instructions for making an Anemoculus Resonance Stone. Master them and you will be able to create a tool to guide you to towards Anemoculi.",
+        "de": "Anleitung mit detaillierten Schritten zur Herstellung von „Anemoculus-Resonanzstein“. Hiermit kannst du ein Objekt herstellen, mit dessen Hilfe du verlorene Anemoculi finden kannst.",
+        "chs": "步骤详实的说明，记载着「风神瞳共鸣石」的制作方法。掌握后，可以制作寻找「散失的风神瞳」的道具。",
+        "cht": "步驟詳實的說明，記載著「風神瞳共鳴石」的製作方法。掌握後，可以製作尋找「散失的風神瞳」的道具。",
+        "es": "Instrucciones detalladas para fabricar una Roca de resonancia de anemóculus. Tras obtenerlas, puedes fabricar un objeto para encontrar anemóculus.",
+        "fr": "Instructions détaillées pour la fabrication d'une Pierre de résonance Anémoculus. Une fois maîtrisées, celles-ci vous permettront de créer un outil capable de localiser les Anémoculus.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Anemoculus Resonance Stone\". Setelah menguasainya, kamu bisa membuatnya untuk mencari item \"Anemoculus\".",
+        "jp": "「風神の瞳の共鳴石」の詳しい作り方が載っている説明書。習得後は、「失われた風神の瞳」を探知できるアイテムを作れるようになる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설명서로 「바람 신의 눈동자 공명석」의 제작 방법이 적혀있다. 습득 후 「잃어버린 바람 신의 눈동자」를 찾을 수 있는 아이템을 제작할 수 있다",
+        "pt": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Anemoculus. Depois de domina-la bem, poderá fazer uma ferramenta que permitirá procurar Anemoculus.",
+        "ru": "Подробные инструкции по изготовлению предмета «Камень эха анемокула». Выучив их, вы сможете создать инструмент, который направит вас к анемокулам.",
+        "th": "คำอธิบายการสร้าง Anemoculus Resonance Stone โดยละเอียด ศึกษาให้เชี่ยวชาญ แล้วมันจะเป็นอุปกรณ์นำทางของคุณในการค้นหา Anemoculus",
+        "vi": "Nói rõ từng bước thực hiện, ghi lại cách làm \"Đá Cộng Hưởng Phong Thần Đồng\". Có thể dùng để chế tạo đạo cụ tìm \"Phong Thần Đồng\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

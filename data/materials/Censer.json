@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Censer",
+        "de": "Räucherschale",
+        "chs": "香炉",
+        "cht": "香爐",
+        "es": "Incensario",
+        "fr": "Encensoir",
+        "id": "Pembakar Dupa",
+        "jp": "香炉",
+        "kr": "향로",
+        "pt": "Incensário",
+        "ru": "Курильница",
+        "th": "กระถางธูป",
+        "vi": "Lư hương"
+    },
+    "id": 100450,
+    "materialDesc": {
+        "en": "A censer used for burning incense.",
+        "de": "Eine Räucherschale, in die man die duftende Materialien einlegt.",
+        "chs": "进香的香炉。",
+        "cht": "進香的香爐。",
+        "es": "Un incensario para quemar incienso.",
+        "fr": "Un objet fait pour brûler de l'encens.",
+        "id": "Sebuah tungku untuk membakar dupa",
+        "jp": "線香を供えるための香炉。",
+        "kr": "향을 올리는 향로",
+        "pt": "Um incensário usado para queimar incenso.",
+        "ru": "Курильница для сжигания благовоний.",
+        "th": "กระถางที่เอาไว้ปักธูป",
+        "vi": "Lư hương cắm nhang"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

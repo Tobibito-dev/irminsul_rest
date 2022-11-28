@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Atomic Energy Orb (Anemo)",
+        "de": "Kernenergiekugel (Anemo)",
+        "chs": "原子能量球(风)",
+        "cht": "原子能量球(風)",
+        "es": "Orbe de energía atómica (Anemo)",
+        "fr": "Orbe d'énergie atomique (Anémo)",
+        "id": "Atomic Energy Orb (Anemo)",
+        "jp": "原子エネルギーボール(風)",
+        "kr": "원자 에너지 오브(바람)",
+        "pt": "Orbe de Energia Atômico(Anemo)",
+        "ru": "Сфера атомной энергии (Анемо)",
+        "th": "Atomic Energy Orb (Anemo)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Phong)"
+    },
+    "id": 2021,
+    "materialDesc": {
+        "en": "Atomic Energy Orb (Anemo)",
+        "de": "Kernenergiekugel (Anemo)",
+        "chs": "原子能量球(风)",
+        "cht": "原子能量球(風)。",
+        "es": "Orbe de energía atómica (Anemo)",
+        "fr": "Orbe d'énergie atomique (Anémo)",
+        "id": "Atomic Energy Orb (Anemo)",
+        "jp": "元素エネルギーボール(風)",
+        "kr": "원자 에너지 오브(바람)",
+        "pt": "Orbe de Energia Atômico(Anemo)",
+        "ru": "Сфера атомной энергии (Анемо)",
+        "th": "Atomic Energy Orb (Anemo)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Phong)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mechanicus Mastery EXP",
+        "de": "Theatertaktik-EP",
+        "chs": "弈棋术经验",
+        "cht": "弈棋術經驗",
+        "es": "Experiencia mecánica",
+        "fr": "Maîtrise mécanique",
+        "id": "Mechanicus Mastery EXP",
+        "jp": "奕棋術経験",
+        "kr": "대국술 경험치",
+        "pt": "EXP de Maestria Mechanicus",
+        "ru": "Опыт Мастерства механикуса",
+        "th": "Mechanicus Mastery EXP",
+        "vi": "EXP Thuật Chơi Cờ"
+    },
+    "id": 129,
+    "materialDesc": {
+        "en": "Accumulate this to raise your Mastery Level. Raise your Mastery Level to obtain new Mechanici and Wondrous Sticks.",
+        "de": "Zu sammelndes Material zum Hochstufen der „Theatertaktik“. Durch das Hochstufen der Theatertaktik kannst du neue Vorrichtungen sowie mehr „erstaunliche Stäbchen“ freischalten.",
+        "chs": "积累后可提升「弈棋术」等级的资源。提升「弈棋术」等级后，可解锁新的机关与「灵妙签」。",
+        "cht": "累積後可提升「弈棋術」等級的資源。提升「弈棋術」等級後，可解鎖新的機關與「靈妙籤」。",
+        "es": "Material para aumentar el nivel de la Arena mecánica. Al hacerlo, desbloquearás nuevos mecanismos y Palitos de la fortuna y del destino.",
+        "fr": "Accumulez de la maîtrise mécanique pour augmenter votre Niv. de maîtrise mécanique. Augmenter votre Niv. de maîtrise mécanique permet de débloquer de nouveaux mécanismes et de nouveaux bâtonnets merveilleux.",
+        "id": "Kumpulkan benda ini untuk meningkatkan Level Mastery Mechanicus. Tingkatkan Level Mastery Mechanicus untuk membuka Mechanicus dan Wondrous Stick baru.",
+        "jp": "貯めると「奕棋術」レベルをアップできる。「奕棋術」レベルをアップすると、新しい機関と「霊妙くじ」を解放できる。",
+        "kr": "일정량 누적 후 「대국술」 레벨을 올릴 수 있다. 「대국술」 레벨을 올리면 새로운 기관과 「영묘첨」을 해금할 수 있다",
+        "pt": "Material que depois de acumulado, pode ser utilizado para aumentar a Maestria Mechanicus. Depois de aumentar a Maestria Mechanicus, será possível desbloquear novos Mechanici e Rolinhos Mágicos.",
+        "ru": "Собирайте, чтобы повысить уровень Мастерства механикуса. Это позволит открыть новых Механикусов и Чудесные палочки.",
+        "th": "ทรัพยากรที่หลังจากสะสมสามารถเพิ่มเลเวล \"Mechanicus Mastery\" ได้ หลังจากเพิ่มเลเวล \"Mechanicus Mastery\" จะสามารถปลดล็อกกลไกใหม่และ \"เซียมซีลิขิตฟ้า\" ได้",
+        "vi": "Sau khi tích lũy có thể tăng cấp \"Thuật Chơi Cờ\". Sau khi tăng cấp \"Thuật Chơi Cờ\", có thể mở khoá cơ quan mới và \"Thẻ Diệu Kỳ\"."
+    },
+    "materialType": false
+}

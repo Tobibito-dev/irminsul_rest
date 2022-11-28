@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amazing Gift (Furnishing)",
+        "de": "Wundersame Dekoration",
+        "chs": "奇妙的摆设赠品",
+        "cht": "奇妙的擺設贈品",
+        "es": "Decoración de regalo fantástica",
+        "fr": "Décoration fantastique reçue en cadeau",
+        "id": "Hadiah Perabotan yang Fantastis",
+        "jp": "不思議な調度品の贈り物。",
+        "kr": "기묘한 장식 선물",
+        "pt": "Decoração de Presente Fantástica",
+        "ru": "Невероятный подарок (декор)",
+        "th": "ของขวัญสุดอลังการ",
+        "vi": "Quà Trưng Bày Kỳ Diệu"
+    },
+    "id": 115039,
+    "materialDesc": {
+        "en": "A promotional item from a certain light novel. It appears to be an exquisitely-made furnishing.",
+        "de": "Ein Geschenk, das mit einer kurzen Erzählung geliefert wurde. Es scheint eine sehr anspruchsvolle Dekoration zu sein.",
+        "chs": "来自某本轻小说的赠品，似乎是一件精心制作的摆设。",
+        "cht": "來自某本輕小說的贈品，似乎是一件精心製作的擺設。",
+        "es": "Un regalo que viene con una novela ligera. Parece ser una decoración muy sofisticada.",
+        "fr": "Un objet visant à promouvoir un certain roman léger. Il semble que ce soit une décoration des plus raffinées.",
+        "id": "Hadiah dari sebuah novel ringan, sepertinya perabotan ini dibuat dengan sepenuh hati.",
+        "jp": "ある娯楽小説の付録。精巧に作られた調度品のようだ。",
+        "kr": "한 라이트 노벨의 증정품, 정성껏 만든 장식품 같다",
+        "pt": "Um presente promocional de uma Light Novel. Parece ser uma decoração muito sofisticada.",
+        "ru": "Рекламный подарок от одного лёгкого романа. Представляет собой предмет декора тонкой работы.",
+        "th": "ของแจกจากไลท์โนเวลเล่มหนึ่ง ดูเหมือนจะเป็นของตกแต่งที่ทำขึ้นอย่างวิจิตรบรรจง",
+        "vi": "Món quà đến từ một quyển tiểu thuyết nào đó, hình như là vật trưng bày được chế tác tỉ mỉ."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

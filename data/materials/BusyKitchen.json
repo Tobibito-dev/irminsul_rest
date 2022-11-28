@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Busy Kitchen",
+        "de": "Geschäftige Küche",
+        "chs": "忙碌的厨房",
+        "cht": "忙碌的廚房",
+        "es": "Cocina ajetreada",
+        "fr": "Cuisine débordante d'activité",
+        "id": "Dapur Sibuk",
+        "jp": "忙しい厨房",
+        "kr": "분주한 주방",
+        "pt": "Cozinha Barulhenta",
+        "ru": "Загруженная кухня",
+        "th": "ห้องครัวที่ยุ่งเหยิง",
+        "vi": "Phòng Bếp Bận Rộn"
+    },
+    "id": 350008,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up a Busy Kitchen.\\nThe towering shelves are stocked with ingredients and the large and small stoves are both in full flame. A skilled chef would be able to use such a kitchen to cook a feast fit for a hundred stomachs.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Geschäftige Küche“.\\nDie hoch aufragenden Regale sind mit Zutaten bestückt und der große und der kleine Herd sind beide auf voller Flamme. Ein geübter Koch wäre in der Lage, in einer solchen Küche ein Festmahl zu kochen, das für hundert Mägen reicht.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「忙碌的厨房」的放置方法。\\n高耸的货架满备食材，大小炉灶的火力全开。熟练的厨师利用这间厨房，足以制作出招待百人的大餐。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「忙碌的廚房」的放置方法。\\n高聳的貨架滿備食材，大小爐灶的火力全開。熟練的廚師利用這間廚房，足以製作出招待百人的大餐。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar una Cocina ajetreada.\\nLas elevadas estanterías están llenas de ingredientes y las hornillas grandes y pequeñas trabajan sin parar. Un chef con experiencia podría preparar un banquete para cien personas en una cocina como esta.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place de la cuisine débordante d'activité .\\nLes hautes étagères sont remplies d'ingrédients et les fourneaux sont allumés. Un chef qualifié pourrait confectionner un festin pour des centaines de personnes avec tout ce matériel.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Dapur Sibuk\".\\nRak-rak yang tinggi digunakan untuk menyimpan bahan-bahan makanan, sedangkan kompor yang besar maupun kecil selalu menyala. Seorang koki yang handal dapat menggunakan dapur ini untuk menyiapkan hidangan untuk seratus orang.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「忙しい厨房」の詳しい配置方法が載っている設計図。\\n高い棚には食材が並び、コンロの火力は全開。熟練の料理人がこれを使うと、100人をも満足させるご馳走をもてなすことができる。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「우당탕탕 주방」의 설치 방법이 기재되어 있다\\n높은 선반에는 재료가 가득하고 주방의 화력이 넘친다. 숙련된 요리사가 이 주방을 사용하여 수백 명에게 요리를 만들어 줄 수 있다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Cozinha Barulhenta\".\\nAs prateleiras imponentes estão estocadas com ingredientes e os fogões grandes e pequenos estão ambos em fogo aberto. Um chef habilidoso seria capaz de usar tal cozinha para cozinhar um banquete adequado a uma centena de estômagos.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Загруженная кухня».\\nВысокие полки заставлены кухонными ингредиентами, а большие и маленькие печи работают на полную мощность. На такой кухне опытный повар сможет приготовить пиршество на сотню гостей.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"ห้องครัวที่ยุ่งเหยิง\" \\nชั้นวางของที่สูงตระหง่าน เต็มไปด้วยส่วนผสมและเตาขนาดใหญ่และขนาดเล็กก็ทำงานเต็มที่ พ่อครัวที่มีฝีมือใช้เพียงห้องครัวนี้ก็เพียงพอที่จะเตรียมอาหารสำหรับหลายร้อยคนได้แล้ว\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Phòng Bếp Bận Rộn\".\\nNhững chiếc kệ cao chót vót chứa đầy nguyên liệu, những chiếc bếp lớn nhỏ đều đang mở lửa. Đầu bếp thành thục sử dụng gian bếp này, đủ để nấu một bữa thịnh soạn tiếp đãi cả trăm người.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

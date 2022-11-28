@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Black-Back Perch Stew",
+        "de": "Leckerer gekochter Schwarzrückenbarsch",
+        "chs": "美味的水煮黑背鲈",
+        "cht": "美味的水煮黑背鱸",
+        "es": "Estofado de perca de lomo negro delicioso",
+        "fr": "Marmite de perche à dos noir (délicieuse)",
+        "id": "Delicious Black-Back Perch Stew",
+        "jp": "美味しそうな黒背スズキの唐辛子煮込み",
+        "kr": "맛있는 삶은 검정 농어",
+        "pt": "Ensopado de Poleiro com Dorso Negro Delicioso",
+        "ru": "Вкусный чёрный окунь",
+        "th": "Black-Back Perch Stew แสนอร่อย",
+        "vi": "Cá Chép Đen Hấp Ngon"
+    },
+    "id": 108076,
+    "materialDesc": {
+        "en": "A poached fish dish. The fish fillets are so tender and juicy that they almost seem to come alive in your mouth. The sense of loss is so unbearable that when you swallow a piece down, you just have to treat yourself to another.",
+        "de": "Ein gekochtes Fischgericht. Die Stückchen sind so zart, dass man Angst bekommt, sie könnten auf der Zunge schmelzen. Bei der anschließenden Leere im Mund hilft nur ein weiterer Haps.",
+        "chs": "煮制而成的鱼料理。鱼片在唇舌间翻动，滑嫩得像是随时想要溜走一样。咽下又觉得嘴中空空，让人忍不住赶快补上下一片。",
+        "cht": "煮製而成的魚料理。魚片在唇舌間翻動，滑嫩得像是隨時想要溜走一樣。嚥下又覺得嘴中空空，讓人忍不住趕快補上下一片。",
+        "es": "Un plato de pescado hervido. Cuando los pedazos de pescado se deslizan entre los labios y la lengua, es como si fueran a saltar en cualquier momento. Al tragarlo, genera una sensación de vacío en el paladar que hace querer probar un bocado más.",
+        "fr": "Un plat à base de poisson cuit. Les morceaux de perche sont si tendres et savoureux qu'ils fondent dans la langue. On ne peut qu'en reprendre pour combler le vide dans notre bouche.",
+        "id": "Hidangan ikan rebus. Potongan ikannya sangat segar sampai terasa masih hidup di mulutmu. Rasa kehilangan saat kamu menelannya membuat kamu terus ingin mengambil potongan baru.",
+        "jp": "魚の煮込み料理。滑らかな魚肉は口からこぼれ落ちそうになる。一口食べたらまた次へと。",
+        "kr": "삶은 생선 요리. 생선살은 언제라도 달아날 듯이 매끄럽게 입안에서 춤을 춘다. 삼키자마자 다른 한 점을 떠올리게 만드는 맛이다",
+        "pt": "Um prato de peixe cozido. Os filetes de peixe são tão macios e suculentos que quase parecem ganhar vida na sua boca, que você só pensa em continuar comendo.",
+        "ru": "Отварная рыба. Рыбное филе настолько нежное и сочное, что кажется, словно оно оживает у вас во рту. Ваши вкусовые рецепторы не могут смириться с чувством утраты, когда вы проглатываете один кусочек, поэтому вам тут же приходится взять другой.",
+        "th": "อาหารจำพวกปลาต้ม เมื่อนำเนื้อปลาที่แสนนุ่มละมุนเข้าไป ในปากจะดูเหมือนว่าจะไหลลงไปในท้องได้ตลอดเวลา เมื่อกลืนลงไปกลับรู้สึกว่าในปากมันโล่ง ๆ จนอดใจไม่ไหวที่จะรีบหยิบชิ้นต่อไปขึ้นมากิน",
+        "vi": "Món cá hấp. Miếng cá khi ăn vào trơn mềm như muốn bơi đi mất. Khi nuốt xuống thì trong miệng lại có cảm giác trống trải, khiến người ta không nhịn được mà muốn ăn thêm miếng nữa."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

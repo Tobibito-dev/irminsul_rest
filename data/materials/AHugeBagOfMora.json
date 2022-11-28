@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Huge Bag of Mora",
+        "de": "Großer Beutel voll Mora",
+        "chs": "一大袋摩拉",
+        "cht": "一大袋摩拉",
+        "es": "Un gran saco de Moras",
+        "fr": "Bourse de moras",
+        "id": "Sekantong Besar Mora",
+        "jp": "1袋のモラ",
+        "kr": "모라 한 자루",
+        "pt": "Um Grande Saco de Mora",
+        "ru": "Большой кошелёк",
+        "th": "Mora ถุงใหญ่",
+        "vi": "1 túi Mora lớn"
+    },
+    "id": 100496,
+    "materialDesc": {
+        "en": "Funds provided by Childe. The sense of stability one gets from its weight also makes one unwilling to part with the money...\\nThe face value of each of these gold coins is very large, but they can be redeemed for smaller change at the Northland Bank.",
+        "de": "Geldmittel, die du vom Grafen erhalten hast. Das Gewicht des Geldes kommt dem Gefühl der Sicherheit gleich, das dich durchfährt, sodass du dich nur ungern davon trennen willst.\\nDie Zahlen auf jeder Münze sind sehr groß. In der Bank des Nordens können die Münzen jedoch gegen Kleingeld eingetauscht werden.",
+        "chs": "「公子」提供的经费，这种沉甸甸的安心感反而让人不想花掉…\\n每枚金币的面值都很庞大，但可以在「北国银行」兑换成零钱。",
+        "cht": "「公子」提供的經費，這種沉甸甸的安心感反而讓人不想花掉…\\n每枚金幣的面值都很龐大，但可以在「北國銀行」兌換成零錢。",
+        "es": "Fondos proporcionados por Nobile. La sensación de estabilidad que se obtiene de su peso también hace que uno no esté dispuesto a desprenderse del dinero...\\nEl valor nominal de cada una de estas monedas de oro es muy alto, pero se pueden canjear por monedas de menor denominación en el Banco del Reino del Norte.",
+        "fr": "De l'argent que Tartaglia vous a généreusement donné. Cette bourse semble contenir une somme importante que n'importe qui voudrait posséder.\\nLa Banque du Nord peut vous faire de la monnaie sur ces pièces de grande valeur.",
+        "id": "Dana yang disediakan oleh Childe, beratnya membuat seseorang enggan untuk berpisah dengan uang tersebut...\\nNilai pecahan masing-masing uang ini sangat besar, tapi bisa ditukarkan dengan pecahan yang lebih kecil di Northland Bank.",
+        "jp": "「公子」が提供した経費、この安心できる重さは逆に使いたくなくなる…\\nコインの額面はどれも大きいが、「北国銀行」で小銭に交換することができる。",
+        "kr": "「타르탈리아」가 제공한 경비. 묵직한 느낌이 빨리 다 써버리고 싶게 만든다….\\n금화 한 개당 액면가가 매우 높지만 「북국 은행」에서 잔돈으로 바꿀 수 있다",
+        "pt": "Fundos fornecidos por Childe. A sensação de estabilidade que se obtém do seu peso também faz com que alguém não queira gastar seu dinheiro...\\nO valor de face de cada uma dessas moedas de ouro é muito grande, mas elas podem ser trocadas valores menores no Banco do Norte.",
+        "ru": "Денежные средства, предоставленные вам Чайльдом. Вес этого кошелька приносит вам чувство стабильности, из-за которого с ним становится не так легко расстаться...\\nНоминальная стоимость каждой монеты очень велика, но их можно обменять на мелочь в Банке северного королевства.",
+        "th": "ค่าใช้จ่ายที่ \"Childe\" ได้ให้มา แต่เพราะความไว้วางใจนั้นยิ่งทำให้คนไม่อยากใช้มัน...\\nมูลค่าของเหรียญทองทุกเหรียญนั้นมากมายมหาศาล แต่สามารถแลกเงินย่อยได้ที่ \"Northland Bank\"",
+        "vi": "Khoản tiền hậu hĩnh từ Childe khiến con người ta tuy an tâm nhưng cũng không nỡ tiêu phí...\\nMỗi đồng tiền vàng đều có mệnh giá vô cùng lớn, có thể đổi sang tiền lẻ tại \"Ngân hàng Bắc Quốc\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

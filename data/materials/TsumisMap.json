@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tsumi's Map",
+        "de": "Tsumis Karte",
+        "chs": "阿祇的地图",
+        "cht": "阿祇的地圖",
+        "es": "Mapa de Tsumi",
+        "fr": "Carte de Tsumi",
+        "id": "Peta Tsumi",
+        "jp": "つみの地図",
+        "kr": "츠미의 지도",
+        "pt": "Mapa de Tsumi",
+        "ru": "Карта Цуми",
+        "th": "แผนที่ของ Tsumi",
+        "vi": "Bản Đồ Của Tsumi"
+    },
+    "id": 101706,
+    "materialDesc": {
+        "en": "A map drawn by Tsumi. There are some markings on it.",
+        "de": "Eine von Tsumi gezeichnete Karte. Sie ist mit einigen Markierungen versehen.",
+        "chs": "阿祇绘制的地图。上面有些标记。",
+        "cht": "阿祇繪製的地圖。上面有些標記。",
+        "es": "Un mapa con algunas marcas dibujado por Tsumi.",
+        "fr": "Une carte dessinée par Tsumi. Il y a quelques marques dessus.",
+        "id": "Sebuah peta yang digambar oleh Tsumi. Ada beberapa tanda yang tertera di atasnya.",
+        "jp": "つみが描いた地図。上の方にマークがある。",
+        "kr": "츠미가 그린 지도. 위에 츠미가 남긴 표식이 있다",
+        "pt": "Um mapa feito à mão por Tsumi. Há algumas marcas nele.",
+        "ru": "Карта Цуми с пометками.",
+        "th": "แผนที่ที่ Tsumi วาดขึ้นมา ข้างบนมีสัญลักษณ์บางอย่างอยู่ด้วย",
+        "vi": "Bản đồ do Tsumi vẽ. Có một số đánh dấu trên đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

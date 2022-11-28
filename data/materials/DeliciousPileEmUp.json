@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious \"Pile 'Em Up\"",
+        "de": "Leckeres Hochgestapeltes",
+        "chs": "美味的「堆高高」",
+        "cht": "美味的「堆高高」",
+        "es": "Torre de Ludi deliciosa",
+        "fr": "Empil'tout (délicieux)",
+        "id": "Delicious \"Pile 'Em Up\"",
+        "jp": "美味しそうな「お肉ツミツミ」",
+        "kr": "맛있는 「높이 쌓기」",
+        "pt": "\"Empilhar\" Delicioso",
+        "ru": "Вкусная «Расти гора»",
+        "th": "\"Pile 'Em Up\" แสนอร่อย",
+        "vi": "Pile 'Em Up Ngon"
+    },
+    "id": 108057,
+    "materialDesc": {
+        "en": "A rich, meaty dish. Piled in just the right way to be both aesthetically pleasing and delicious all the way through. I wonder if we can pile it a little higher...",
+        "de": "Ein sehr reichhaltiges Fleischgericht. Die einzelnen Schichten sind so kunstvoll drapiert, dass man sich nicht sattsehen kann – aber auch nicht sattessen.",
+        "chs": "用料丰厚的肉料理。食材堆成了赏心悦目的形状，得当的比例让每一层的搭配都好吃不腻。啊，真想它堆得再高一点呀。",
+        "cht": "用料豐厚的肉料理。食材堆成了賞心悅目的形狀，得當的比例讓每一層的搭配都好吃不膩。啊，真希望它堆得再高一點呀。",
+        "es": "Un plato con mucha carne. La carne está amontonada de tal forma que complace tanto a la vista como al paladar. Me pregunto si sería posible hacerlo un poco más alto...",
+        "fr": "Un plat très généreux, surtout en viande. Les ingrédients ont été empilés correctement et apportent une satisfaction visuelle et gustative. Encore un peu plus haut et ça aurait été parfait...",
+        "id": "Hidangan yang kaya dan penuh dengan tumpukan daging. Hidangan ini memiliki bentuk yang indah, dan rasa yang luar biasa, setiap lapisannya tersusun sempurna, andai bisa ditumpuk lebih tinggi lagi.",
+        "jp": "たくさんの材料を使った肉料理。食材を積み重ねて目でも楽しめる。適切な割合になっているので、どの層の組合せを食べても食べ飽きない。あぁ、もっと高く積み重ねてみたいなぁ。",
+        "kr": "고기 애호가에 의한 고기 애호가를 위한 요리. 고기 덕후라면 무조건 먹어야 할 요리. 고기의 육즙을 질리도록 느낄 수 있다. 아, 더 높게 쌓고 싶다",
+        "pt": "Um prato repleto de carnes. Empilhados da forma certa para agradar tanto o visual quando o paladar. Fico me perguntando se seria possível deixá-lo um pouco mais alto ainda...",
+        "ru": "Богатое мясное блюдо. Башня из продуктов сложена так ровно, что она приятна одновременно на глаз и на вкус. Интересно, можно ли сделать её ещё выше?",
+        "th": "อาหารที่เน้นเนื้อแบบสุด ๆ ซึ่งจัดวางได้อย่างมีศิลป์และรสที่ยอดเยี่ยมควบคู่กัน ส่วนผสมแต่ละชั้นนั้นเข้ากันได้อย่างดีและอร่อยจนหยุดไม่อยู่ อืม... อยากจะกองมันให้สูงขึ้นไปอีกจังเลยนะ",
+        "vi": "Món dùng nhiều thịt. Nguyên liệu được xếp thành chồng cao, tỷ lệ cân đối khiến mỗi tầng đều ngon, ăn không biết ngán. Chậc, muốn chồng nó cao hơn nữa quá!"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

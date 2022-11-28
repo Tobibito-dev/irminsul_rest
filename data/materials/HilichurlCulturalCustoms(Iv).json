@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hilichurl Cultural Customs (IV)",
+        "de": "Studien zu Hilichurl-Bräuchen – Band IV",
+        "chs": "丘丘人习俗考察·卷四",
+        "cht": "丘丘人習俗考察·卷四",
+        "es": "Las costumbres de los Hilichurls (IV)",
+        "fr": "Étude des coutumes Brutocollinus - Tome IV",
+        "id": "Adat Istiadat Hilichurl (IV)",
+        "jp": "ヒルチャール習慣考察·4",
+        "kr": "츄츄족 풍습 고찰·권4",
+        "pt": "Costumes Culturais dos Hilichurls - (IV)",
+        "ru": "Культурные традиции хиличурлов. Том IV",
+        "th": "การตรวจสอบประเพณีของพวก Hilichurl - บทที่ 4",
+        "vi": "Khảo sát tập quán Hilichurl (IV)"
+    },
+    "id": 100408,
+    "materialDesc": {
+        "en": "It contains the investigations and observations into the cultural customs of the hilichurls by the \"Poet Laureate of Hilichurlian,\" Jacob Musk, a Mondstadt ecologist. This volume explores the diverse cultural customs of the hilichurls in relation to Mondstadt's.",
+        "de": "Studien zu den gesellschaftlichen Sitten der Hilichurle von Jacob Musk, einem Ökologen aus Mondstadt und dem „Dichterfürsten des Hilichurlischen“. In diesem Band werden die vielfältigen Bräuche der Hilichurle anhand des Beispiels Mondstadt angeführt.",
+        "chs": "蒙德生态学者，「丘丘语桂冠诗人」雅各布·马斯克关于丘丘人社会习俗的考察，本卷以蒙德为例，探究了多元化的丘丘人习俗。",
+        "cht": "蒙德生態學者，「丘丘語桂冠詩人」雅各伯·馬斯克關於丘丘人社會習俗的考察，本卷以蒙德為例，探究了多元化的丘丘人習俗。",
+        "es": "La investigación del ecologista de Mondstadt, Jacob Musk, galardonado como “El poeta del hilichurlio”. En ella describe los usos y costumbres de la sociedad Hilichurl. En este tomo investiga la diversidad de las costumbres de los Hilichurls, tomando a Mondstadt como referencia.",
+        "fr": "Observations sur le peuple Brutocollinus par le célèbre écologiste mondstadtois Jacob Musk. Ce troisième tome aborde l'évolution des coutumes Brutocollinus sous l'influence mondstadtoise.",
+        "id": "Hasil investigasi dan observasi budaya Hilichurl yang dibuat oleh \"Sang Pujangga Bahasa Hilichurl\", Jacob Musk, seorang ahli ekologi Mondstadt. Volume ini berisi perbandingan antara berbagai budaya Hilichurl di Mondstadt.",
+        "jp": "「ヒルチャール語の桂冠詩人」と呼ばれたモンドの生態学者、ヤコブ·マスクによるヒルチャール社会習慣に対する考察。この1冊はモンドをサンプルに、ヒルチャールの多種多様な習慣を探究した内容が記載されている。",
+        "kr": "몬드의 생태 학자, 「츄츄어의 시인」 야곱·머스크의 츄츄족 사회 풍습에 관한 고찰. 본편에서는 몬드를 예로 들어 다원화된 츄츄족의 풍습을 탐구하고 있다",
+        "pt": "Contém investigações e observações sobre os costumes culturais dos Hilichurls pelo \"poeta laureado da língua Hilichurl\", Jacob Musk, um ecologista de Mondstadt. Este volume explora os diversos costumes culturais dos Hilichurls em relação com Mondstadt.",
+        "ru": "Данный труд содержит описания быта и культуры хиличурлов. Автор этого исследования - известный мондштадтский эколог Якоб Маск. В этом томе особое внимание уделено сложным взаимоотношениям хиличурлов и жителей Мондштадта.",
+        "th": "นักนิเวศวิทยา Jacob Musk แห่ง Mondstadt \"กวีผู้ได้รับรางวัลภาษา Hilichurl\" ว่าด้วยเรื่องการสำรวจเกี่ยวกับประเพณีทางสังคมของพวก Hilichurl โดยฉบับนี้ใช้ Mondstadt เป็นตัวอย่างอ้างอิงในการสำรวจประเพณีที่หลากหลายของ Hilichurl",
+        "vi": "Nhà sinh thái học Mondstadt, \"Nhà Thơ Đoạt Vòng Nguyệt Quế Tiếng Hilichurl\" Jacob Musk khảo sát tập tục xã hội Hilichurl, cuốn sách lấy Mondstadt làm ví dụ, nghiên cứu sự đa dạng hóa của Hilichurl."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Noctilucous Jade Sample",
+        "de": "Nachtjadeprobe",
+        "chs": "夜泊石样品",
+        "cht": "夜泊石樣品",
+        "es": "Muestra de jade noctilucoso",
+        "fr": "Échantillon de jade noctiluque",
+        "id": "Sampel Noctilucous Jade",
+        "jp": "夜泊石サンプル",
+        "kr": "야박석 샘플",
+        "pt": "Amostra de Jade Nocticulosa",
+        "ru": "Образец полуночного нефрита",
+        "th": "ตัวอย่าง Noctilucous Jade",
+        "vi": "Mẫu Dạ Phách Thạch"
+    },
+    "id": 100521,
+    "materialDesc": {
+        "en": "A small sample that has been sliced off in order to help you select the Noctilucous Jade you will be using to make implements for the Rite of Parting.\\nAn ancient Liyue proverb goes: \"Noctilucous Jade shines brightest in the flames,\" meaning that high-quality Noctilucous Jade will shine with a bright and pure azure light when exposed to high temperatures. It has also come to symbolize heroes showing their true mettle in times of crisis.",
+        "de": "Eine kleine aus Nachtjade herausgeschnittene Probe, die dazu dient, die passende Nachtjade für die für den Adeptenabschied benötigten Materialien zu finden.\\nIn Liyue sagt man, „Im Feuer zeigt Nachtjade ihren wahren Glanz“, was bedeutet, dass besonders hochwertige Nachtjade unter hohen Temperaturen einen bläulichen Schein hat. Das Sprichwort wird auch zur Beschreibung von Helden verwendet, die gerade in ausweglosen Situation ihre wahre Stärke zeigen.",
+        "chs": "切下来的小片样品，用以甄选制作「送仙典仪」所需器物的夜泊石。\\n璃月古谚有云，「夜泊烁光须火炼」，意思是优质的夜泊石在高温下会发出明亮清澈的蓝光，用来比喻英杰在逆境中会大放光彩。",
+        "cht": "切下來的小片樣品，用以甄選製作「送仙典儀」所需器物的夜泊石。\\n璃月古諺有雲，「夜泊爍光須火煉」，意思是優質的夜泊石在高溫下會發出明亮清澈的藍光，用來比喻英傑在逆境中會大放光彩。",
+        "es": "Una pequeña muestra que ha sido cortada para ayudarte a seleccionar el jade noctilucoso adecuado para las herramientas del Rito del Ascenso.\\nUn antiguo proverbio de Liyue dice: “El jade noctilucoso brilla más en las llamas”, lo que significa que un jade noctilucoso de alta calidad emitirá una luz azul brillante y pura al exponerse a altas temperaturas. También se refiere a los héroes que muestran su verdadero carácter en tiempos de crisis.",
+        "fr": "Un échantillon de jade noctiluque pour sélectionner le morceau à partir duquel les artéfacts du rituel de l'ascension seront fabriqués. D'après un proverbe liyuéen : « Seules les flammes ardentes ont le don de révéler la lueur du jade noctiluque. » Une pierre de qualité brillera donc d'une lumière azure au contact de hautes températures, comme un héros qui surgit dans une situation désespérée.",
+        "id": "Sebuah sampel kecil yang telah dipotong untuk membantumu memilih Noctilucous Jade yang akan dipakai untuk Rite of Parting.\\nSebuah pepatah kuno Liyue mengatakan: \"Noctilucous Jade bersinar paling terang dalam nyala api\", artinya bahwa Noctilucous Jade berkualitas tinggi akan bersinar dengan cahaya biru cerah yang murni saat terpapar pada suhu yang tinggi. Ini juga melambangkan bahwa seorang pahlawan akan menunjukkan keberaniannya saat situasi krisis.",
+        "jp": "「送仙儀式」の器具の製作に必要な夜泊石を選ぶために、店主からもらったサンプル。\\n品質のいい夜泊石は高温環境の中で、青い光を放つらしい。",
+        "kr": "잘라낸 샘플 조각. 「송신의례」에 필요한 야박석을 선별하는 데 쓰인다.\\n리월엔 「야박의 빛은 불에 달궈서 나오는 것」이라는 말이 있다. 즉, 우수한 품질의 야박석은 고온에서 밝고 맑은 푸른 빛을 띤다는 뜻이며, 역경 속에서 빛을 발하는 영웅을 비유하는 데 쓰인다",
+        "pt": "Uma pequena amostra que foi cortada para ajudá-lo a selecionar a Jade Noctilucosa que você usará para fazer implementos para o Rito da Partida.\\nUm antigo provérbio de Liyue diz: \"A Jade Noctilucosa brilha mais nas chamas\", o que significa que a Jade Noctilucosa de alta qualidade brilha com uma luz azul pura e brilhante quando exposto a altas temperaturas. Também chegou a simbolizar heróis mostrando sua verdadeira coragem em tempos de crise.",
+        "ru": "Небольшой образец полуночного нефрита, который поможет вам выбрать подходящий для Церемонии Вознесения сорт камня.\\nДревняя пословица Ли Юэ гласит: «Полуночный нефрит сияет ярче в пламени». Под воздействием высоких температур полуночный нефрит высшего качества сияет ярким чисто голубым светом. Он считается символом героев, которые в тяжёлые времена встают на защиту народа.",
+        "th": "ตัวอย่าง Noctilucous Jade ที่ถูกตัดเป็นแผ่นเล็ก ๆ ที่เลือกสรรเอาไว้ใช้ในการทำ \"พิธีส่งเซียน\" \\nสุภาษิตโบราณของ Liyue ได้กล่าวไว้ว่า \"Noctilucous ส่องประกายสุกสว่าง\" หมายถึง Noctilucous Jade เมื่ออยู่ในความร้อนสูงจะส่องประกายที่สุกสว่าง ซึ่งเอาไว้ใช้เปรียบเทียบกับวีรบุรุษที่ ก่อเกิดเกียรติศักดิ์ในสถานการณ์ที่ยากลำบาก",
+        "vi": "Dạ Phách Thạch được cắt thành mẫu nhỏ phục vụ cho \"Điển Lễ Tiễn Tiên\".\\nCâu ngạn ngữ cổ Liyue \"Dạ Phách ánh quang nhờ hỏa luyện\" có nghĩa là Dạ Phách thượng đẳng dưới tác động của nhiệt độ cao sẽ phát ra thứ ánh sáng xanh, đồng thời cũng là để tượng trưng người anh hùng tỏa sáng trong nghịch cảnh."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

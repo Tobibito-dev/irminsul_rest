@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Small Lamp Grass",
+        "de": "Frisches Lampenkraut",
+        "chs": "新鲜的小灯草",
+        "cht": "新鮮的小燈草",
+        "es": "Lucetta fresca",
+        "fr": "Herbe à lampe fraîche",
+        "id": "Small Lamp Grass Segar",
+        "jp": "新鮮なイグサ",
+        "kr": "신선한 등불꽃",
+        "pt": "Lâmpada de Grama Fresca",
+        "ru": "Свежая трава-светяшка",
+        "th": "ดอก Small Lamp Grass สด ๆ",
+        "vi": "Tiểu Đăng Thảo Tươi Ngon"
+    },
+    "id": 100552,
+    "materialDesc": {
+        "en": "A small lamp grass obtained from the Whispering Woods. It has been unearthed with the utmost care, and neither its stem nor leaf has been bruised.",
+        "de": "Im Flüsterwald gesammeltes Lampenkraut. Es wurde ganz behutsam mit der Wurzel ausgegraben, damit kein einziges Blättchen zu Schaden käme.",
+        "chs": "从低语森林摘到的小灯草。小心翼翼地连根掘起，没有伤到任何枝叶。",
+        "cht": "從低語森林摘到的小燈草。小心翼翼地連根掘起，沒有傷到任何枝葉。",
+        "es": "Una pequeña lucetta obtenida en el Bosque Susurrante. Ha sido desenterrada con mucho cuidado y ni su tallo ni su hoja se han magullado.",
+        "fr": "Une petite herbe à lampe trouvée dans le Bois des Murmures. Elle a été déterrée avec le plus grand soin. Ses feuilles et sa tige sont intactes.",
+        "id": "Tanaman Small Lamp Grass yang dipetik dari Whispering Woods. Digali dengan sangat hati-hati, baik batang maupun daunnya tidak ada yang rusak.",
+        "jp": "囁きの森から採れたイグサ。枝葉に傷をつけないように気をつけながら根こそぎを抜いた。",
+        "kr": "속삭임의 숲에서 채취한 등불꽃. 조심스럽게 뿌리째 파내서 잎과 가지가 상하지 않았다",
+        "pt": "Lâmpada de Grama coletado no Bosque Sussurrante. Foi desenterrada com o máximo cuidado, e nem o caule nem a folha foram machucados.",
+        "ru": "Трава-светяшка, которая выросла в Шепчущем лесу. Чтобы не повредить нежный стебелёк и листики, срывайте её с особой осторожностью.",
+        "th": "Small Lamp Grass ที่เก็บได้จากป่า Whispering Woods ถูกขุดขึ้นมาทั้งรากอย่างระมัดระวัง โดยไม่ได้รับความเสียหายใด ๆ",
+        "vi": "Tiểu Đăng Thảo nhổ trong Rừng Thì Thầm. Cẩn thận đào cả cây lên, đừng để tổn thương bất cứ cành lá nào."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Form Restoration Potion",
+        "de": "Rückwandlungstrank",
+        "chs": "恢复人形药剂",
+        "cht": "回復人形藥劑",
+        "es": "Poción de restauración de forma",
+        "fr": "Potion restauratrice de forme humaine",
+        "id": "Potion Pemulih Wujud",
+        "jp": "人間回復薬",
+        "kr": "인간 회복 포션",
+        "pt": "Poção de Restauração de Forma",
+        "ru": "Зелье восстановления формы",
+        "th": "Form Restoration Potion",
+        "vi": "Thuốc khôi phục hình người"
+    },
+    "id": 100114,
+    "materialDesc": {
+        "en": "Can restore those that have been transformed into hilichurls by Abyss Mages back to their human form.",
+        "de": "Hilft von Abgrundmagiern in Hilichurle verwandelten Menschen dabei, wieder ihre ursprüngliche Gestalt zurückzuerlangen.",
+        "chs": "可以使被深渊法师变成丘丘人的患者恢复人形",
+        "cht": "可以使被深淵法師變成丘丘人的患者回復人形。",
+        "es": "Puede restaurar a aquellos que han sido transformados en Hilichurls por los Magos del Abismo de vuelta a su forma humana.",
+        "fr": "Cette potion permet aux personnes transformées en Brutocollinus par un Mage de l'Abîme de retrouver leur forme humaine.",
+        "id": "Ramuan yang dapat membuat manusia yang diubah menjadi Hilichurl oleh Abyss Mage berubah kembali ke bentuk asalnya.",
+        "jp": "アビスの魔術師によってヒルチャールにされてしまった患者を人間に戻すことができる",
+        "kr": "심연 메이지에 의해 츄츄족으로 변이된 환자를 인간으로 되돌리는 포션이다",
+        "pt": "Pode restaurar de volta à forma humana aqueles que foram transformados em Hilichurls pelo Feiticeiro do Abismo",
+        "ru": "Может восстановить людей, превращённых магами бездны в хиличурлов, обратно в человеческую форму.",
+        "th": "สามารถใช้ฟื้นคืนผู้ที่ถูกพวก Abyss Mage เปลี่ยนร่างให้เป็น Hilichurl ให้กลับเป็นร่างมนุษย์ดังเดิม",
+        "vi": "Có thể giúp khôi phục hình người cho những ai bị Pháp Sư Vực Sâu biến thành Hilichurl."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

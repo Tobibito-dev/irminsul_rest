@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Warm Essence",
+        "de": "Wärmetinktur",
+        "chs": "温暖精粹",
+        "cht": "溫暖精粹",
+        "es": "Esencia cálida",
+        "fr": "Essence ardente",
+        "id": "Warm Essence",
+        "jp": "温暖エッセンス",
+        "kr": "따뜻한 정수",
+        "pt": "Tintura Quente",
+        "ru": "Тёплая сущность",
+        "th": "Warm Essence",
+        "vi": "Tinh Túy Ấm Áp"
+    },
+    "id": 112,
+    "materialDesc": {
+        "en": "A collection of vital energy that exudes a gentle warmth.\\nCan be exchanged for precious treasure during the event \"The Chalk Prince and the Dragon.\"",
+        "de": "Gesammelte Lebenskraft, die ein wenig Wärme ausströmt.\\nKann während der Aktion „Kreide und Drachen“ gegen wertvolle Schätze eingetauscht werden.",
+        "chs": "收集到的生命能量，微微地散发着暖意。\\n在「白垩与黑龙」期间，可以换取珍贵的宝物。",
+        "cht": "收集到的生命能量，微微地散發著暖意。\\n在「白堊與黑龍」期間，可以換取珍貴的寶物。",
+        "es": "Una energía vital recolectable que desprende algo de calidez.\\nPuede intercambiarse por valiosos objetos durante el evento de «El Príncipe de la Caliza y el dragón».",
+        "fr": "De l'énergie vitale solidifiée qui émet une douce chaleur.\\nÀ échanger contre des récompenses pendant l'événement « Craie et Dragon ».",
+        "id": "Kumpulan energi kehidupan yang memancarkan kehangatan lembut.\\nDapat ditukar dengan harta berharga selama acara \"Kapur Putih dan Naga Hitam\".",
+        "jp": "微かに暖かいオーラを放っている生命エネルギー。\\n「白亜と黒龍」のイベント期間中に貴重な宝物と交換することができる。",
+        "kr": "수집한 생명 에너지. 은은한 따스함을 발산한다.\\n「백악과 흑룡」 이벤트 기간 동안 진귀한 보물과 교환할 수 있다",
+        "pt": "Uma coleção de energia vital que emite um calor sutil.\\nPode ser trocada por tesouros durante o evento \"Giz e Dragão\".",
+        "ru": "Собранная жизненная энергия, излучающая нежное тепло.\\nМожно обменять на ценные сокровища во время события «Принц мела и дракон».",
+        "th": "พลังงานสวรรค์ที่รวบรวมมาได้ แผ่ความอบอุ่นออกมาเล็กน้อย\\nสามารถแลกเป็นสมบัติสุดล้ำค่าได้ในช่วงกิจกรรม \"ชอล์กขาวและมังกรดำ\"",
+        "vi": "Năng lượng HP thu thập được tỏa ra hơi ấm nhẹ.\\nTrong thời gian diễn ra [Vôi Trắng và Rồng Đen] có thể đổi lấy báu vật quý giá."
+    },
+    "materialType": false
+}

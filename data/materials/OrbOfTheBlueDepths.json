@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Orb of the Blue Depths",
+        "de": "Perle des blauen Abgrunds",
+        "chs": "渊青宝珠",
+        "cht": "淵青寶珠",
+        "es": "Orbe abisal",
+        "fr": "Orbe des profondeurs bleues",
+        "id": "Permata dari Kedalaman",
+        "jp": "青淵宝珠",
+        "kr": "푸른 심연의 보주",
+        "pt": "Orbe Abissal",
+        "ru": "Жемчужина Бездны",
+        "th": "ลูกแก้วแห่งห้วงลึก",
+        "vi": "Ngọc Xanh Vực Sâu"
+    },
+    "id": 101629,
+    "materialDesc": {
+        "en": "A strange gem left behind by a foe from the Abyss. If you look into it hard, it is almost as if you are looking into a long-borne dream shrouded by a deep fog.",
+        "de": "Eine seltsame Perle, die von den Feinden des Abgrunds zurückgelassen wurde. Wenn du genau in die Perle hinsiehst, ist es, als könntest du die Träume der alten Zeiten erblicken, die im Nebel verborgen sind.",
+        "chs": "来自深渊的敌人留下的奇异宝珠。注视其中，仿佛能望见隐藏雾中的悠久之梦。",
+        "cht": "來自深淵的敵人留下的奇異寶珠。注視其中，彷彿能望見隱藏霧中的悠久之夢。",
+        "es": "Un extraño orbe que dejaron los enemigos del Abismo. Si se mira con detenimiento, es como si se pudieran vislumbrar los sueños de tiempos remotos que quedaron escondidos en la niebla.",
+        "fr": "Un orbe étrange laissé par les ennemis de l'Abîme. En le regardant attentivement, c'est comme si l'on pouvait entrevoir les rêves des temps anciens cachés dans la brume.",
+        "id": "Permata aneh yang ditinggalkan oleh musuh dari Abyss. Jika kamu melihatnya dengan saksama, seolah kamu seperti sedang melihat ke dalam mimpi lama yang diselimuti kabut tebal.",
+        "jp": "アビスから来た敵が残した、奇妙な宝珠。覗き込むと、霧の中に隠された悠久の夢が、遠くのほうに見えるような気がする。",
+        "kr": "심연에서 온 적이 남긴 기이한 보주. 자세히 들여다보면 안갯속에 숨겨진 오래된 꿈이 보이는 것만 같다",
+        "pt": "Uma pérola preciosa deixada para trás por um inimigo do Abismo. Ao se olhar para ela é como se pudesse ver os sonhos do passado que se escondem na neblina.",
+        "ru": "Странная жемчужина, которую оставили враги из Бездны. Присмотритесь к ней, и вы увидите окутанные туманом грёзы древности.",
+        "th": "ลูกแก้วประหลาดที่ศัตรูจากห้วงลึกทิ้งไว้ เมื่อมองดูภายใน ราวกับสามารถมองเห็นความฝันอันเนิ่นนานที่พรางตัวอยู่ในสายหมอก",
+        "vi": "Viên ngọc kỳ lạ do kẻ địch nơi vực sâu để lại. Nhìn chăm chú vào nó, có thể nhìn thấy giấc mơ xa xôi ẩn giấu trong màn sương."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

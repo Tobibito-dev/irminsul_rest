@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Laurel Coronet",
+        "de": "Unschätzbarer Lorbeerkranz",
+        "chs": "月桂的宝冠",
+        "cht": "月桂的寶冠",
+        "es": "Corona Láurea",
+        "fr": "Couronne de lauriers",
+        "id": "Laurel Coronet",
+        "jp": "月桂の宝冠",
+        "kr": "월계수 왕관",
+        "pt": "Diadema Láurea",
+        "ru": "Лавровый венец",
+        "th": "Laurel Coronet",
+        "vi": "Vương Miện Của Nguyệt Quế"
+    },
+    "id": 23628,
+    "setId": 15025,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gorou",
+        "de": "Gorou",
+        "chs": "五郎",
+        "cht": "五郎",
+        "es": "Gorou",
+        "fr": "Gorou",
+        "id": "Gorou",
+        "jp": "ゴロー",
+        "kr": "고로",
+        "pt": "Gorou",
+        "ru": "Горо",
+        "th": "Gorou",
+        "vi": "Gorou"
+    },
+    "id": 1055,
+    "materialDesc": {
+        "en": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+        "de": "Der große General der Streitkräfte von Watatsumi, dessen Untergebene ihm voll und ganz vertrauen.",
+        "chs": "海祇岛军的大将，深受部下信赖。",
+        "cht": "海祇島軍的大將，深受部下信賴。",
+        "es": "El gran general de las tropas de Watatsumi. Sus subordinados confían plenamente en él.",
+        "fr": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+        "id": "Jenderal pasukan di Pulau Watatsumi. Dia sangat dipercaya anak buahnya.",
+        "jp": "海祇島軍隊の大将で、部下から厚く信頼されている。",
+        "kr": "와타츠미군의 대장, 부하들의 깊은 신뢰를 받고 있다",
+        "pt": "O grande general das tropas da Ilha Watatsumi. Seus subordinados acreditam profundamente nele.",
+        "ru": "Великий генерал армии Ватацуми. Пользуется безграничным доверием своих подчинённых.",
+        "th": "พลเอกของกองทหารแห่งเกาะ Watatsumi ผู้ได้รับความไว้วางใจจากผู้ใต้บังคับบัญชาเป็นอย่างสูง",
+        "vi": "Đại tướng đảo Watatsumi, rất được thuộc hạ tin tưởng."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

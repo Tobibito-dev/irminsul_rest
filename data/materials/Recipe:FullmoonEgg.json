@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Fullmoon Egg",
+        "de": "Rezept: Vollmondei",
+        "chs": "食谱：明月蛋",
+        "cht": "食譜：明月蛋",
+        "es": "Receta: Rollitos de luna llena",
+        "fr": "Recette : Œufs de pleine lune",
+        "id": "Resep: Fullmoon Egg",
+        "jp": "レシピ：明月の玉子",
+        "kr": "레시피: 명월 딤섬",
+        "pt": "Receita: Ovo de Lua Cheia",
+        "ru": "Рецепт: Полнолунная яичница",
+        "th": "สูตรอาหาร: Fullmoon Egg",
+        "vi": "Công Thức: Trứng Minh Nguyệt"
+    },
+    "id": 109433,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Fullmoon Egg.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Vollmondei“.",
+        "chs": "步骤详实的食谱，记载着「明月蛋」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「明月蛋」的製作方法。",
+        "es": "Receta paso a paso para hacer unos rollitos de luna llena.",
+        "fr": "Étapes de préparation des œufs de pleine lune.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Fullmoon Egg",
+        "jp": "「明月の玉子」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「명월 딤섬」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer o Ovo de Lua Cheia.",
+        "ru": "Подробный рецепт приготовления блюда «Полнолунная яичница».",
+        "th": "สูตรอธิบายวิธีทำ \"Fullmoon Egg\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Trứng Minh Nguyệt\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

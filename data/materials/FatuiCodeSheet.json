@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fatui Code Sheet",
+        "de": "„Schlüsseltabelle der Fatui“",
+        "chs": "「愚人众暗语表」",
+        "cht": "「愚人眾暗語表」",
+        "es": "Lista de códigos de los Fatui",
+        "fr": "Feuille de code des Fatui",
+        "id": "Lembar Kode Fatui",
+        "jp": "「ファデュイ暗号集」",
+        "kr": "「우인단 은어표」",
+        "pt": "Planilha de Códigos Fatui",
+        "ru": "Список кодовых фраз Фатуи",
+        "th": "\"หนังสือรหัสลับของ Fatui\"",
+        "vi": "\"Bảng Ám Ngữ Fatui\""
+    },
+    "id": 101674,
+    "materialDesc": {
+        "en": "A certain ever-somnolent member of the Shuumatsuban wrote this Fatui Code Sheet.\\nReading it does not merely let you know that \"these Fatui speak very oddly indeed\" — you can also feel the recorder's intense lethargy penetrating the paper in the form of saliva.",
+        "de": "Ein gewisses, stets schläfriges Mitglied des Shuumatsuban hat diese Schlüsseltabelle der Fatui geschrieben.\\nWenn du sie liest, erfährst du nicht nur, dass die „Fatui seltsam sprechen“, du kannst auch die intensive Schläfrigkeit des Schreibers spüren, die in Form von Speichel in das Papier eindringt.",
+        "chs": "由某位永远睡不醒的终末番成员记录的「愚人众暗语表」。\\n阅读它的时候，你除了能得知「愚人众说话真的很奇怪」之外，还能够感受到记录员浓浓的睡意，以口水的形式力透纸背。",
+        "cht": "#由某位永遠睡不醒的終末番成員記錄的「愚人眾暗語表」。\\n閱讀它的時候，{F#妳}{M#你}除了能得知「愚人眾說話真的很奇怪」之外，還能夠感受到記錄員濃濃的睡意，以口水的形式力透紙背。",
+        "es": "Una lista de códigos de los Fatui anotada por la miembro más dormilona de Los Ocelos.\\nAl leerla, no solo compruebas que “los Fatui hablan raro”, sino que también se nota que quien escribió la lista estaba muerta de sueño, ya que las babas la han empapado entera.",
+        "fr": "Un certain membre toujours somnolent du Shuumatsuban a écrit cette feuille de code Fatui.\\nÀ la lecture, vous n'apprenez pas seulement que le « Fatui parle bizarrement », vous remarquez également que la léthargie intense du rédacteur a pénétré le papier sous forme de salive.",
+        "id": "Seorang anggota Shuumatsuban yang selalu mengantuk menulis Lembar Kode Fatui ini\\nMembacanya tidak hanya memberitahumu bahwa \"Fatui berbicara dengan aneh\" — Tapi kamu juga dapat merasakan kelesuan yang begitu mendalam dari air liur kantuknya yang menembus kertas ini.",
+        "jp": "いつも眠たそうにしている終末番の一員が記録した「ファデュイ暗号集」。\\n読むことで、「ファデュイの奇妙な話し方」が分かるようになる。それ以外にも、よだれでしわくちゃになった紙から記録者の強烈な眠気が伝わってくる。",
+        "kr": "항상 졸린 종말번대 대원이 기록한 「우인단 은어표」.\\n읽어보면 「우인단들의 언어는 정말 이상하다」라는 것을 느끼는 것 외에도 침으로 구겨진 종이에서 기록한 사람의 강렬한 졸음이 전해져 온다",
+        "pt": "Uma planilha de códigos Fatui compilada pela membro mais sonolenta do Shiyuumatsu-Ban.\\nAo lê-la, você não só descobre que os \"Fatui falam de maneira estranha\", mas pode ver também que quem escreveu a lista estava morta de sono, pois encharcou tudo de baba.",
+        "ru": "Некий никогда неунывающий член Сюмацубан записал эту таблицу с кодом Фатуи.\\nПрочитав её, вы не просто узнаете, что «Фатуи очень странно изъясняются», но и поймёте, что тот, кто писал таблицу, был настолько погружён в сон, что слюна насквозь пропитала бумагу.",
+        "th": "\"หนังสือรหัสลับของ Fatui\" ที่บันทึกโดยสมาชิกของ Shuumatsuban ที่นอนหลับไม่เคยเพียงพอผู้หนึ่ง\\nขณะที่อ่านมัน นอกจะได้รับรู้ว่า \"ภาษาพูดของ Fatui นั้นช่างแปลกประหลาด\" แล้ว ก็ยังสัมผัสได้ถึงความง่วงงุนที่อัดแน่นอยู่ในบันทึก สามารถดูได้จากคราบน้ำลายที่ซึมทะลุหน้ากระดาษ",
+        "vi": "\"Bảng Ám Ngữ Fatui\" được thành viên mơ ngủ nào đó của Shuumatsuban ghi lại.\\nKhi đọc nó, ngoài việc bạn có thể nhận biết được \"Fatui nói chuyện thật kỳ lạ\", thì nhìn dấu tích nước dãi thấm xuyên qua trang giấy, bạn còn có thể cảm nhận được mức độ ngon giấc của người viết."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hunting Trap",
+        "de": "Jagdfalle",
+        "chs": "狩猎陷阱",
+        "cht": "狩獵陷阱",
+        "es": "Trampa de caza",
+        "fr": "Piège de chasse",
+        "id": "Perangkap Berburu",
+        "jp": "狩猟の罠",
+        "kr": "수렵 함정",
+        "pt": "Armadilha de Caça",
+        "ru": "Охотничий капкан",
+        "th": "Hunting Trap",
+        "vi": "Bẫy Săn Bắt"
+    },
+    "id": 100225,
+    "materialDesc": {
+        "en": "Used to trap beasts of a certain size. If you pay attention in the wilds to collect them, you can make one like this. Set one down, and then conceal it carefully.",
+        "de": "Wird zum Fangen wilder Tiere einer gewissen Größe verwendet. Suchst du vorsichtig in der Wildnis danach, kannst du auch eine solche Falle herstellen. Lege sie vorsichtig ab und verstecke sie.",
+        "chs": "用来捕捉一定体型的野兽。在野外留心搜集的话，还是能做出这样一个陷阱的。布置在地上，小心藏好。",
+        "cht": "用來捕捉一定體型的野獸。在野外用心搜集的話，還是能做出這樣一個陷阱的。佈置在地上，小心藏好。",
+        "es": "Se usa para atrapar bestias de cierto tamaño. Si estás atento mientras estés en algún entorno natural, podrás encontrar estas trampas y utilizarlas cuando quieras. Pon una en el suelo y luego ocúltala con cuidado.",
+        "fr": "Un piège permettant d'attraper les créatures d'une certaine taille. Utilisez-le dans la nature pour attraper des bêtes. Posez-le par terre à un endroit où les animaux ne le soupçonneront pas.",
+        "id": "Digunakan untuk memerangkap binatang dengan ukuran spesifik. Kalau kamu perhatikan dengan seksama di alam liar, kamu masih bisa membuat perangkap seperti itu. Letakkan di tanah dan sembunyikan dengan hati-hati.",
+        "jp": "一定の大きさの野獣を捕獲するための罠。野外でちゃんと素材を捜せば作れる物。バレないように地面に設置しよう。",
+        "kr": "일정한 체구의 야수를 포획하는 데 사용. 야외에서 아이템을 수집하는 데 유의하면, 이런 함정을 만들 수 있다. 바닥에 설치한 뒤 들키지 않게 잘 숨기자",
+        "pt": "Usado para prender animais de um certo tamanho. Se você prestar atenção na natureza para colecioná-los, poderá fazer um como este. Coloque um no chão e depois esconda-o com cuidado.",
+        "ru": "С помощью него можно поймать животное определённого размера. Можно не только найти глубоко в лесу, но и сделать собственный капкан. Установите его и хорошенько замаскируйте.",
+        "th": "ใช้ดักจับสัตว์อสูรขนาดประมาณนึงได้ หากคุณตั้งใจหาพวกมันในป่า มันก็ยังพอจะสามารถนำมาทำเป็นกับดักแบบนี้ได้ ตั้งไว้อันนึงและหลบซ่อนไว้ให้ดี",
+        "vi": "Dùng để bẫy một số dã thú. Nếu để ý thì bên ngoài vẫn còn bẫy giống như vậy. Bố trí che giấu kỹ càng trên mặt đất."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

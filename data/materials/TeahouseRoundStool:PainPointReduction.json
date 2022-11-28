@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teahouse Round Stool: Pain Point Reduction",
+        "de": "Teestuben-Hocker – „Schmerzlinderung“",
+        "chs": "茶室圆凳-「折痛辞」",
+        "cht": "茶室圓凳-「折痛辭」",
+        "es": "Taburete redondo para casa de té: Atenuante de dolor",
+        "fr": "Tabouret de salon de thé « Confort apaisant »",
+        "id": "Bangku Bulat Kedai Teh: Pengurangan Sakit",
+        "jp": "茶屋円椅子-「折痛辞」",
+        "kr": "찻집 둥근 의자-「아픔을 고하는 말」",
+        "pt": "Banco Redondo da Casa de Chá: Renúncia à Dor",
+        "ru": "Круглый табурет для чайного дома: Прощание с болью",
+        "th": "เก้าอี้ทรงกลมโรงน้ำชา - \"คำพูดที่เจ็บปวด\"",
+        "vi": "Ghế Tròn Phòng Trà - Vỗ Về Niềm Đau"
+    },
+    "id": 382108,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Teahouse Round Stool: Pain Point Reduction.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Teestuben-Hocker – Schmerzlinderung“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「茶室圆凳-『折痛辞』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「茶室圓凳-『折痛辭』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Taburete redondo para casa de té: Atenuante de dolor.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du tabouret de salon de thé « Confort apaisant ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Bangku Bulat Kedai Teh: Pengurangan Sakit.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「茶屋円椅子-『折痛辞』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면,「찻집 스툴-『아픔을 고하는 말』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Banco Redondo da Casa de Chá: Renúncia à Dor\".\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Круглый табурет для чайного дома: Прощание с болью».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างเก้าอี้ทรงกลมโรงน้ำชา - \"คำพูดที่เจ็บปวด\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Tròn Phòng Trà - Vỗ Về Niềm Đau\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

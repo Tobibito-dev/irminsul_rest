@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Usable Funds",
+        "de": "Verfügbare Finanzmittel",
+        "chs": "可用资金",
+        "cht": "可用資金",
+        "es": "Fondos disponibles",
+        "fr": "Budget disponible",
+        "id": "Dana",
+        "jp": "使用可能な資金",
+        "kr": "가용 자금",
+        "pt": "Fundos Disponíveis",
+        "ru": "Доступные ресурсы",
+        "th": "ทุนใช้จ่าย",
+        "vi": "Vốn Khả Dụng"
+    },
+    "id": 149,
+    "materialDesc": {
+        "en": "A sizable amount of Fairbrew Jelly, representing the base capital used in setting up your shop.\\nAttracting customers and increasing earnings — these two are the key goals of all shopkeepers. As such, you must plan out your spending and increase the attractiveness of your shop.",
+        "de": "Eine begrenzte Menge „Weingelee“. Sie ist das zu investierende Startkapital für den Betrieb eines Ladens beim Wohltätigkeitsverkauf.\\nKunden anzuziehen und die Einnahmen zu erhöhen, sind die zwei Hauptziele jedes Geschäfts. Der Kapitaleinsatz muss genau geplant werden, um die Anziehungskraft des Ladens zu stärken.",
+        "chs": "数额有限的「佳酿晶冻」，是义卖活动中投入店铺经营的基本资金。\\n吸引顾客和扩大营收，这两件事是每个店主的目标，为此，有必要精准地规划资金，增强店铺的吸引力",
+        "cht": "數額有限的「佳釀晶凍」，是義賣活動中投入店鋪經營的基本資金。\\n吸引顧客和擴大營收，這兩件事是每個店主的目標，為此，有必要精準地規劃資金，增強店鋪的吸引力",
+        "es": "Una cantidad limitada de néctares cristalizados que representa el capital invertido para establecer tu tienda en el mercadillo benéfico.\\nEl principal objetivo de todo tendero es atraer clientes y aumentar sus ingresos, por lo que es necesario planificar los gastos y hacer la tienda más atractiva.",
+        "fr": "Une quantité considérable de gelées de cru, représentant le capital de départ utilisé pour créer votre boutique.\\nAttirer les clients et augmenter le revenu : les deux principaux objectifs de tous les commerçants... Ainsi, vous devez planifier vos dépenses et augmenter l'attractivité de votre boutique.",
+        "id": "Fairbrew Jelly dengan jumlah yang lumayan, mewakili dana modal yang terpakai untuk membangun tokomu.\\nMenarik pelanggan dan meningkatkan pendapatan adalah dua target yang selalu dikejar oleh setiap pemilik toko. Oleh sebab itu, penting sekali untuk mengalokasikan pengunaan dana dengan tepat untuk meningkatkan daya tarik toko.",
+        "jp": "限りある「ブリューゼリー」は、チャリティーショップの基本資金。\\n客寄せをして、売り上げを伸ばす…この二つはすべての店主の目標だ。綿密な資金計画を立て、集客力をあげる必要がある。",
+        "kr": "수량이 제한적인 「와인 젤리」. 자선 판매 행사 기간에 가게 운영에 투자되는 기본 자금이다.\\n고객 유치와 매출 확대는 모든 점주의 목표이므로 이를 위해 꼼꼼한 자금 계획과 가게의 매력 강화가 필요하다",
+        "pt": "Uma quantidade considerável de Geleia de Vinho, ela é o investimento base de sua loja beneficente.\\nAtrair clientes e aumentar sua renda são objetivos centrais de todos os lojistas. Por isso, você deve planejar seus gatos e aumentar a atratividade de sua loja.",
+        "ru": "Некоторое количество винного студня, которое означает ваш основной капитал, использованный для открытия лавки.\\nПривлекать клиентов и повышать продажи - вот две задачи для владельца лавки, то есть для вас. Внимательно планируйте расходы и повышайте привлекательность!",
+        "th": "\"Fairbrew Jelly\" ที่มีจำนวนจำกัด ซึ่งเป็นเงินทุนหลักในการดำเนินกิจกรรมออกร้านการกุศล\\nการดึงดูดลูกค้าและการเพิ่มรายได้ คือเป้าหมายของเจ้าของร้านทุกคน เพื่อการนั้น จึงจำเป็นต้องจัดสรรเงินทุนอย่างเหมาะสม และเพิ่มความน่าดึงดูดใจให้แก่ร้านค้า",
+        "vi": "Số lượng \"Pha Lê Fairbrew\" có hạn là số vốn cơ bản đầu tư vào hoạt động của tiệm trong đợt bán hàng từ thiện.\\nThu hút khách hàng và mở rộng doanh thu là mục tiêu của tất cả các chủ tiệm, muốn vậy cần phải dự trù kinh phí chính xác để tăng sức hấp dẫn của tiệm."
+    },
+    "materialType": false
+}

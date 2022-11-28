@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Quest Use - Atomic Energy Orb Pouch",
+        "de": "Kernenergiekugel in Elementartasche für Aufträge",
+        "chs": "任务用-元素蜜囊原子能量球",
+        "cht": "任務用-元素蜜囊原子能量球",
+        "es": "Bolso de Orbe de energía atómica - Utilizable en Misiones",
+        "fr": "Usage en quête - Poche pour orbe d'énergie atomique",
+        "id": "Item Quest - Atomic Energy Orb Pouch",
+        "jp": "任務用-元素蜜嚢原子エネルギーボール",
+        "kr": "임무 전용-원소 주머니 원자 에너지 오브",
+        "pt": "Usado em Missões - Orbe de Energia Atómica",
+        "ru": "Для задания: Мешочек шаров атомной энергии",
+        "th": "ใช้ในเควสต์ - Overpowered Atomic Energy Orb",
+        "vi": "Nhiệm Vụ - Cầu Năng Lượng Nguyên Tử Mật Nguyên Tố"
+    },
+    "id": 2029,
+    "materialDesc": {
+        "en": "Energy Orb (Any)",
+        "de": "Elementarenergiekugel (Alle)",
+        "chs": "元素能量球(全)",
+        "cht": "元素能量球(全)。",
+        "es": "Orbe de energía (Todos)",
+        "fr": "Orbe d'énergie (tout)",
+        "id": "Small Energy Orb (All)",
+        "jp": "元素エネルギーボール(全)",
+        "kr": "원소 에너지 오브(전체)",
+        "pt": "Orbe de Energia (Todos)",
+        "ru": "Сфера энергии (Все)",
+        "th": "Energy Orb (Any)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Toàn)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

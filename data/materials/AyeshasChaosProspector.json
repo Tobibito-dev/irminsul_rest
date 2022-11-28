@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ayesha's Chaos Prospector",
+        "de": "Ayeshas Chaosdetektor",
+        "chs": "阿叶夏混沌勘探器",
+        "cht": "阿葉夏混沌勘探器",
+        "es": "Buscador del caos de Ayesha",
+        "fr": "Détecteur du chaos d'Ayesha",
+        "id": "Ayesha's Chaos Prospector",
+        "jp": "アイシャ混沌探知機",
+        "kr": "아에샤의 혼돈 탐지기",
+        "pt": "Prospector do Caos de Ayesha",
+        "ru": "Старатель хаоса Айеши",
+        "th": "Ayesha's Chaos Prospector",
+        "vi": "Máy Thăm Dò Hỗn Độn Ayesha"
+    },
+    "id": 220042,
+    "materialDesc": {
+        "en": "A handy tool that the researcher Ayesha created on the side while researching ancient relics. It can be used to detect such ancient relics buried underground. Due to its hasty production, however, its accuracy could stand to be improved. Users should beware that some unexpected things may occur while using this gadget...",
+        "de": "Ein praktisches Werkzeug, das die Forscherin Ayesha bei der Erforschung antiker Relikte nebenbei entwickelt hat. Es kann verwendet werden, um solche alten Relikte aufzuspüren, die unter der Erde vergraben sind. Aufgrund seiner übereilten Herstellung ließe sich seine Genauigkeit jedoch noch verbessern. Benutzer sollten sich bewusst sein, dass einige unerwartete Sachen passieren könnten, während sie dieses Hilfsmittel benutzen ...",
+        "chs": "学者阿叶夏研究古代造物时随手制作的简便道具，可用于勘测深埋于地下的古代造物。不过由于制作仓促，准确性依然有待提高。使用者需要特别留心，说不定会有意外情况出现…",
+        "cht": "學者阿葉夏研究古代造物時隨手製作的簡便道具，可用於勘測深埋於地下的古代造物。不過由於製作倉促，準確性依然有待提高。使用者需要特別留心，說不定會有意外情況出現…",
+        "es": "Una práctica herramienta para encontrar reliquias antiguas enterradas que el erudito Ayesha creó mientras investigaba. No obstante, como se fabricó de forma improvisada, su precisión aún necesita mejorarse. Si utilizas este aparato, ten en cuenta que pueden ocurrir cosas inesperadas...",
+        "fr": "Un outil pratique qu'Ayesha a créé lorsqu'elle faisait des recherches sur les reliques anciennes. Il peut détecter la présence d'anciennes reliques enterrées. Conçu dans la hâte, sa précision gagnerait à être améliorée. Ses utilisateurs devraient également être informés que des événements inattendus se produisent lorsque ce gadget est en marche...",
+        "id": "Alat praktis yang dibuat oleh Ayesha saat dia sedang meneliti benda-benda peninggalan zaman kuno. Alat ini bisa dipakai untuk mendeteksi peninggalan kuno yang terkubur di bawah tanah. Namun, karena produksinya yang tergesa-gesa, tingkat akurasinya masih kurang. Pengguna alat ini harus siap menghadapi hal-hal tak terduga yang mungkin terjadi ketika menggunakannya ....",
+        "jp": "学者アイシャが古代創造物の研究中に創った簡単な道具。地中に埋まっている古代創造物を観測できる。しかし急いで作ったため、精度には改善の余地がある。使う時は予期せぬことが起きる可能性があるため、注意すべきだ…",
+        "kr": "학자 아에샤가 고대 피조물을 연구할 때 만든 간단한 도구. 지하에 묻혀있는 피조물을 조사하 수 있다. 하지만 급하게 만들어서 아직 정확성이 좀 떨어진다. 사용할 때 어떤 일이 벌어질지 모르니 조심하도록 하자…",
+        "pt": "Uma ferramenta útil que a pesquisadora Ayesha criou enquanto pesquisava relíquias antigas. Pode ser utilizadas para detectar tais relíquias quando estão enterradas. Entretanto, devido a sua fabricação apressada, sua precisão poderia ser melhorada. Seus usuários devem tomar nota que coisas inesperadas podem ocorrer enquanto tal dispositivo for utilizado...",
+        "ru": "Удобный прибор, созданный учёным по имени Айеша как побочный продукт исследования древних реликвий. С его помощью можно обнаружить старинные предметы, погребённые под землёй. Однако поспешная сборка привела к искажению точности прибора. Пользователи должны помнить, что при использовании этого устройства могут произойти неожиданные вещи...",
+        "th": "เครื่องมือทุ่นแรงที่นักวิชาการ Ayesha ประดิษฐ์ขึ้นมาอย่างง่าย ๆ ในขณะที่กำลังวิจัยเรื่องโบราณวัตถุ สามารถใช้มันเพื่อสำรวจโบราณวัตถุที่ฝังอยู่ใต้พื้นดินได้ อย่างไรก็ตาม เนื่องจากผลิตขึ้นมาอย่างลวก ๆ ทำให้ความแม่นยำยังต้องปรับปรุงอีกมาก ผู้ใช้งานต้องระมัดระวังเป็นพิเศษ เพราะอาจเกิดเหตุการณ์ที่ไม่คาดคิดขึ้นได้...",
+        "vi": "Đạo cụ đơn giản do học giả Ayesha làm khi nghiên cứu các tác phẩm cổ đại, có thể dùng để khảo sát các hiện vật cổ được chôn sâu dưới lòng đất. Tuy nhiên do làm vội nên độ chính xác vẫn cần được nâng cao. Người dùng cần đặc biệt chú ý, vì có thể xảy ra những tình huống không mong muốn..."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

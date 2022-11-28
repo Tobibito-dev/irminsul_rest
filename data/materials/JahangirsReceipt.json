@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jahangir's Receipt",
+        "de": "Jahangirs Empfangsberechtigung",
+        "chs": "贾汉吉尔的收货单",
+        "cht": "賈漢吉爾的收貨單",
+        "es": "Recibo de Jahangir",
+        "fr": "Reçu de Jahangir",
+        "id": "Tanda Terima Jahangir",
+        "jp": "ジャハンギルからの領収書",
+        "kr": "자한기르의 화물 영수증",
+        "pt": "Recibo de Jahangir",
+        "ru": "Расписка Джахангира",
+        "th": "ใบเสร็จของ Jahangir",
+        "vi": "Biên Nhận Của Jahangir"
+    },
+    "id": 120122,
+    "materialDesc": {
+        "en": "A receipt you got from Jahangir. It can be used to collect goods purchased from Jahangir.",
+        "de": "Eine von Jahangir erhaltene Berechtigung zum Warenempfang. Mit dieser ist man berechtigt, Waren von Jahangir zu empfangen.",
+        "chs": "从贾汉吉尔那里拿到的收货单。可以凭此单据接收贾汉吉尔的货物。",
+        "cht": "從賈漢吉爾那裡拿到的收貨單。可以憑此單據接收賈漢吉爾的貨物。",
+        "es": "Un recibo que te entregó Jahangir. Puedes usarlo para recoger sus mercancías en su nombre.",
+        "fr": "Reçu que vous avez obtenu de Jahangir, utilisé pour récupérer ses marchandises.",
+        "id": "Tanda terima dari Jahangir. Kamu dapat menerima barang-barangnya dengan menggunakan tanda terima ini.",
+        "jp": "ジャハンギルにもらった領収書。この領収書があればジャハンギルからの貨物を受け取ることができる。",
+        "kr": "자한기르에게 받은 화물 영수증. 해당 영수증에 기재된 내용에 따라 자한기르의 화물을 수령할 수 있다",
+        "pt": "Um recibo de Jahangir. É possível utilizá-lo para receber as mercadorias de Jahangir.",
+        "ru": "С этим документом можно получить приготовленный Джахангиром товар.",
+        "th": "ใบเสร็จที่ได้รับจาก Jahangir สามารถใช้ใบเสร็จนี้ในการรับสินค้าจาก Jahangir ได้",
+        "vi": "Biên nhận lấy ở chỗ Jahangir. Có thể dùng biên nhận này để nhận hàng của Jahangir."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

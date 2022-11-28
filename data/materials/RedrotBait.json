@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redrot Bait",
+        "de": "Rotpastenköder",
+        "chs": "赤糜饵",
+        "cht": "赤糜餌",
+        "es": "Cebo de sangre",
+        "fr": "Appât fétide",
+        "id": "Redrot Bait",
+        "jp": "赤挽肉餌",
+        "kr": "적색 다진 미끼",
+        "pt": "Isca de Milhete Vermelho",
+        "ru": "Красная болтушка",
+        "th": "Redrot Bait",
+        "vi": "Mồi Thịt Đỏ"
+    },
+    "id": 111024,
+    "materialDesc": {
+        "en": "Fish bait made from mixing Dendrobium and mashed meat. The unique rank sweetness of this bait spreads very quickly in the water, attracting fierce aquatic predators. Use with caution, however! Put too much of this bait down and you might hook in nastier customers than you bargained for!\\n\\nSuitable for catching Sticklebacks, Bettas, Venomspine Fish, Akai Maou, and Snowstriders.",
+        "de": "Fischköder aus einer Mischung von Dendrobium und püriertem Fleisch. Die einzigartige süße Geruch dieses Köders breitet sich sehr schnell im Wasser aus und lockt wilde Wasserraubtiere an. Verwende ihn jedoch mit Vorsicht! Wenn du zu viel von diesem Köder auswirfst, kann es sein, dass du dir bösere Beute anlockst, als du erwartet hast!\\n\\nZum Fangen von Stichlingen geeignet.",
+        "chs": "由血斛和捣碎的肉类混合制成的鱼饵，独特的腥甜味在水中扩散极快，能够吸引个性凶悍的掠食鱼类。但用量需要谨慎，以免引来一些麻烦的坏家伙。\\n\\n适用鱼种：棘鱼类。",
+        "cht": "由血斛和搗碎的肉類混合製成的魚餌，獨特的腥甜味在水中擴散極快，能夠吸引個性兇悍的掠食魚類。但用量需要謹慎，以免引來一些麻煩的壞傢伙。\\n\\n適用魚種：棘魚類。",
+        "es": "Un cebo hecho con dendrobios y carne machacada. Su sabor repugnantemente dulce se esparce por el agua muy rápidamente para atraer a feroces depredadores acuáticos. Ten cuidado si usas demasiada cantidad de este cebo, o atraerás a “clientes” no deseados.\\n\\nPerfecto para pescar espinosos.",
+        "fr": "Un appât fabriqué grâce à un mélange de dendrobium et de viande hachée. Son odeur fétide, mais sucrée, se répand vite dans l'eau et attire les prédateurs aquatiques les plus féroces. Utilisez-le avec parcimonie, ou vous tomberez sur des créatures plus coriaces que vous ne le croyez.\\n\\nAdapté pour les poissons de la famille des épinoches.",
+        "id": "Umpan yang terbuat dari campuran Dendrobium dan daging giling. Sekali terlempar ke dalam air, aroma amis dan manis yang unik akan menyebar dengan cepat dan dapat menarik perhatian spesies ikan predator yang ganas. Gunakanlah umpan ini dengan hati-hati, karena kalau tidak, umpan ini akan mendatangkan makhluk-makhluk jahat yang merepotkan.\\n\\nCocok digunakan untuk ikan jenis Stickleback, Betta, Venomspine, Akai Maou, Snowstrider.",
+        "jp": "血石華と挽肉を混ぜてできた釣り餌。独特の甘くて青臭い匂いが水の中にすぐ広がっていき、凶暴な魚たちを引き付けることができる。ただ、厄介なやつらを惹きつけないように、量は慎重に定める必要がある。\\n\\n対象魚類：トゲウオ類。",
+        "kr": "혈곡과 으깬 짐승고기를 골고루 섞어 만든 미끼. 특유의 향긋한 비린내는 물속에서 급속도로 확산되어 침략성이 강한 어류를 유인해낸다. 하지만 성가신 녀석들이 몰려올 수도 있으니 반드시 사용에 조심해야 한다.\\n\\n적용 어종: 가시고기류",
+        "pt": "Isca para peixes feita da mistura de Dendrobium e carne amassada. A doçura única desta isca se espalha muito rapidamente na água, atraindo predadores aquáticos ferozes. Mas use com cuidado! Se colocar muito desta isca, poderá atrair clientes mais desagradáveis do que esperava!\\n\\nApropiada para as espécies de peixe: Peixes da família Esgana-Gato, Akai Maou e Rei da Neve.",
+        "ru": "Наживка из кровоцвета и измельчённого мяса. Её тошнотворно сладкий вкус очень быстро распространяется в воде, привлекая свирепых водных хищников. Будьте осторожны, если вы используете слишком много этой приманки, то привлечёте нежелательную добычу.\\n\\nПодходит для ловли колюшек.",
+        "th": "เหยื่อตกปลาที่มีส่วนผสมของ Dendrobium กับเนื้อบด กลิ่นหอมที่เป็นเอกลักษณ์จะกระจายตัวในน้ำอย่างรวดเร็ว และสามารถดึงดูดปลานักล่าที่ดุร้ายได้ แต่ต้องระมัดระวังอย่าใช้มากจนเกินไป มิฉะนั้นอาจดึงดูดวายร้ายเข้ามาหาได้\\n\\nเหมาะสำหรับปลาสายพันธุ์: Stickleback",
+        "vi": "Mồi câu được làm từ Hoa Lan Máu và hỗn hợp thịt giã nhuyễn, vị tanh độc đáo khuếch tán cực nhanh trong nước, thu hút được các loại cá hung hãn. Nhưng cần phải cẩn thận, tránh thu hút những kẻ xấu phiền phức khác.\\n\\nLoại cá thích hợp: Cá Thân Gai"
+    },
+    "materialType": "MATERIAL_FISH_BAIT"
+}

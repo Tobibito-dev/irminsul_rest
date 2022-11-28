@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Treasure Hoarder's Key",
+        "de": "Schlüssel der Schatzräuber",
+        "chs": "盗宝团的钥匙",
+        "cht": "盜寶團的鑰匙",
+        "es": "Llave de los Ladrones de Tesoros",
+        "fr": "Clé des Pilleurs de trésors",
+        "id": "Kunci Treasure Hoarder",
+        "jp": "宝盗団の鍵",
+        "kr": "보물 사냥단의 열쇠",
+        "pt": "Chave dos Ladrões de Tesouro",
+        "ru": "Ключ Похитителей сокровищ",
+        "th": "กุญแจของกองโจรล่าสมบัติ",
+        "vi": "Chìa Khóa Của Đạo Bảo Đoàn"
+    },
+    "id": 100528,
+    "materialDesc": {
+        "en": "A key carried by a Treasure Hoarder.",
+        "de": "Der Schlüssel eines Schatzräubers.",
+        "chs": "盗宝团所携带着的钥匙，可以用来开启某物。",
+        "cht": "盜寶團所攜帶著的鑰匙，可以用來開啟某物。",
+        "es": "Una llave perteneciente a los Ladrones de Tesoros. Quizás puede usarse para abrir algo...",
+        "fr": "Une clé qui appartient aux Pilleurs de trésors. Elle doit forcément pouvoir ouvrir quelque chose...",
+        "id": "Kunci yang dibawa oleh Treasure Hoarder.",
+        "jp": "宝盗団が持っていた鍵、ある物を開けられる。",
+        "kr": "보물 사냥단의 열쇠. 어떤 물건을 여는데 사용 가능하다",
+        "pt": "A chave carregada pelos Ladrões de Tesouro pode ser usada para abrir alguma coisa.",
+        "ru": "Ключ Похитителя сокровищ, им можно что-то открыть.",
+        "th": "กุญแจที่กองโจรล่าสมบัติพกติดตัวเพื่อใช้เปิดบางสิ่ง",
+        "vi": "Chìa khóa mà Đạo Bảo Đoàn mang theo, dùng để mở một vật gì đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

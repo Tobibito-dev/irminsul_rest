@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Instructions: Condensed Resin",
+        "de": "Erläuterung: Angereichertes Harz",
+        "chs": "说明：浓缩树脂",
+        "cht": "說明：濃縮樹脂",
+        "es": "Instrucciones: Resina concentrada",
+        "fr": "Instructions : Résine condensée",
+        "id": "Panduan: Condensed Resin",
+        "jp": "説明：濃縮樹脂",
+        "kr": "설명서: 농축 레진",
+        "pt": "Instruções: Resina Condensada",
+        "ru": "Инструкции: Густая смола",
+        "th": "คู่มือ: Condensed Resin",
+        "vi": "Giải Thích: Nhựa Cô Đặc"
+    },
+    "id": 221007,
+    "materialDesc": {
+        "en": "Detailed step-by-step instructions for making Condensed Resin. Using resin in this condensed form to activate certain Ley Line Blossoms and Petrified Trees will increase your efficiency. You can hold no more than 5 Condensed Resin at a time.",
+        "de": "Anleitung mit detaillierten Schritten zur Herstellung von „angereichertes Harz“. Bei der Aktivierung einiger Blüten des Flusses der Elemente und versteinerter Bäume kannst du dieses angereicherte Harz anwenden, um die Effizienz zu erhöhen. Du kannst zu einem Zeitpunkt bis zu 5 Stück bei dir haben.",
+        "chs": "步骤详实的说明，记载着「浓缩树脂」的制作方法。激活一些地脉之花与石化古树时，利用这种浓缩的树脂可以提高效率。浓缩树脂同时最多持有5个。",
+        "cht": "步驟詳實的說明，記載著「濃縮樹脂」的製作方法。活化一些地脈之花與石化古樹時，利用這種濃縮的樹脂可以提高效率。濃縮樹脂同時最多持有5個。",
+        "es": "Instrucciones detalladas para fabricar Resina concentrada. Utiliza esta resina al activar Flores ley y Árboles Petrificados para aumentar su eficiencia. Solo se puede tener un máximo de 5 al mismo tiempo.",
+        "fr": "Instructions détaillées pour fabriquer de la Résine condensée. Activer certaines Fleurs des lignes énergétiques et certains Arbres pétrifiés avec celle-ci peut augmenter le rendement de ces derniers. Vous pouvez détenir jusqu'à 5 Résines condensées simultanément.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Condensed Resin\". Menggunakan resin pekat ini untuk mengaktifkan Ley Line Blossom dan Petrified Tree dapat meningkatkan kualitas hadiah yang didapatkan. Kamu hanya bisa membawa 5 Condensed Resin dalam waktu bersamaan.",
+        "jp": "「濃縮樹脂」の詳しい作り方が載っている説明書。地脈の花や石化古樹を活性化させる時に、この濃縮した樹脂を使用すると効率がアップする。濃縮樹脂は同時に最大5つまで所持可能。",
+        "kr": "「농축 레진」의 제작 방법이 자세히 적혀있는 설명서. 특정 지맥의 꽃과 석화 고목을 활성화할 때 이런 농축 레진을 사용하면 효율을 향상시킬 수 있으며, 농축 레진은 동시에 최대 5개까지 보유할 수 있다",
+        "pt": "Instruções detalhadas de como preparar Resina Condensada. Ao usar a resina nesta forma condensada para ativar certas Flores de Linha Ley e Árvores Petrificadas aumentam a sua eficiência. Só pode ter no máximo 5 Resinas Concentradas ao mesmo tempo.",
+        "ru": "Подробная инструкция по изготовлению густой смолы. Используйте её для пробуждения цветов артерий земли и окаменевших деревьев, чтобы повысить свою эффективность. Одновременно можно иметь не более 5 единиц густой смолы.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง Condensed Resin โดยละเอียด ใช้เรซินแบบเข้มข้นนี้กระตุ้น Ley Line Blossom และ Petrified Tree เพื่อเพิ่มประสิทธิภาพของคุณ สามารถมี Condensed Resin ได้มากสุด 5 อัน ภายในช่วงเวลาเดียวกัน",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"Nhựa Cô Đặc\". Khi kích hoạt Hoa Địa Mạch và Cổ Thụ Hóa Thạch, có thể dùng hỗn hợp này để tăng hiệu suất. Cùng lúc có thể có 5 Nhựa Cô Đặc."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

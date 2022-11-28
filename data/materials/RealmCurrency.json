@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Realm Currency",
+        "de": "Kannentaler",
+        "chs": "洞天宝钱",
+        "cht": "洞天寶錢",
+        "es": "Intramora",
+        "fr": "Pièces du royaume",
+        "id": "Realm Currency",
+        "jp": "洞天宝銭",
+        "kr": "선계 화폐",
+        "pt": "Moeda do Paraíso",
+        "ru": "Сокровища обители",
+        "th": "Realm Currency",
+        "vi": "Tiền Động Tiên"
+    },
+    "id": 204,
+    "materialDesc": {
+        "en": "Currency of the realm. Used within the Serenitea Pot to exchange for various items.",
+        "de": "Kannentaler können in der Kanne der Vergänglichkeit gegen tolle Sachen eingetauscht werden.",
+        "chs": "洞天宝钱。可在壶灵处交换各类物品。",
+        "cht": "洞天寶錢。可在壺靈處交換各類物品。",
+        "es": "La moneda del mundo interior. Puede usarse para comprarle todo tipo de objetos al espíritu de la tetera.",
+        "fr": "Monnaie du royaume utilisée dans la Sérénithéière en échange de nombreux objets.",
+        "id": "Mata uang dari alam lain. Digunakan di Serenitea Pot untuk ditukar dengan berbagai item.",
+        "jp": "壺の精霊のところで色んな物と交換できる貨幣。",
+        "kr": "선계 화폐. 주전자 정령에게서 다양한 물품으로 교환 받을 수 있다",
+        "pt": "Moeda do Paraíso Mágico. Utilizado dentro do Bule de Relachá para trocar por vários itens.",
+        "ru": "Валюта обители. У духа чайника за неё можно купить различные предметы.",
+        "th": "Realm Currency เพื่อแลกไอเทมต่าง ๆ ได้ที่ Teapot Spirit",
+        "vi": "Tiền Động Tiên. Có thể dùng để đổi các loại vật phẩm ở chỗ Tiên Ấm."
+    },
+    "materialType": false
+}

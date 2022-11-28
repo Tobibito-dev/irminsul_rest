@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wings of the Forest",
+        "de": "Pflanzenschwingen des Überschwangs",
+        "chs": "森郁花繁之翼",
+        "cht": "森鬱花繁之翼",
+        "es": "Alas de la Exuberancia",
+        "fr": "Ailes de la forêt",
+        "id": "Wings of the Forest",
+        "jp": "樹花爛漫の翼",
+        "kr": "울창한 숲의 날개",
+        "pt": "Asas da Floresta",
+        "ru": "Крылья леса",
+        "th": "ปีกแห่งผืนป่าแมกไม้",
+        "vi": "Cánh Rừng Hoa"
+    },
+    "id": 140010,
+    "materialDesc": {
+        "en": "A stylized wind glider gifted to you as a mark of Sumeru's acknowledgment and recognition.",
+        "de": "Die Ausgabe eines Windgleiters. Ein großzügiges Geschenk für die Anerkennung, die du in Sumeru erhalten hast.",
+        "chs": "风之翼款式。因为得到须弥的认可与嘉许，而获赠的礼物。",
+        "cht": "風之翼款式。因為得到須彌的認可與嘉許，而獲贈的禮物。",
+        "es": "Un modelo de planeador. Un regalo obtenido por lograr el reconocimiento y las alabanzas de Sumeru.",
+        "fr": "Un modèle de planeur, reçu en signe de reconnaissance de Sumeru.",
+        "id": "Model Wind Glider. Hadiah yang diberikan sebagai tanda pengakuan dari Sumeru.",
+        "jp": "風の翼のデザイン。スメールの認可と褒賞を得てもらった贈り物。",
+        "kr": "바람의 날개 디자인. 수메르의 인정과 칭찬을 얻어 받게 된 선물",
+        "pt": "Um modelo de Planador. Foi um presente pelo reconhecimento e aprovação de Sumeru.",
+        "ru": "Декоративный планер. Подарок от благодарных жителей Сумеру.",
+        "th": "รูปแบบหนึ่งของเครื่องร่อนเวหา ของขวัญที่ได้มาจาก การเป็นที่ยอมรับและยกย่องใน Sumeru",
+        "vi": "Mẫu Phong Chi Dực, nhận được do có được sự thừa nhận từ Sumeru"
+    },
+    "materialType": "MATERIAL_FLYCLOAK"
+}

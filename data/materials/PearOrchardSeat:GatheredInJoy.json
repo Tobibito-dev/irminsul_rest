@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pear Orchard Seat: Gathered in Joy",
+        "de": "Sitz im Birnengarten – „Versammelt in Freude“",
+        "chs": "梨园宾位-「长乐同座」",
+        "cht": "梨園賓位-「長樂同座」",
+        "es": "Asiento del peral: Reunión alegre",
+        "fr": "Siège des poiriers « Dans l'allégresse »",
+        "id": "Kursi Kebun Pir: Bersukacita Bersama",
+        "jp": "梨園賓席-「長楽同座」",
+        "kr": "이원 객석-「즐거운 자리」",
+        "pt": "Assento do Pomar de Peras: Reunidos em Alegria",
+        "ru": "Скамейка грушевого сада: Единение в веселье",
+        "th": "ที่นั่ง Pear Orchard - \"ร่วมนั่งอย่างปีติ\"",
+        "vi": "Ghế Đoàn Kịch - Tập Hợp Niềm Vui"
+    },
+    "id": 394207,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Pear Orchard Seat: Gathered in Joy.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Sitz im Birnengarten – Versammelt in Freude“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「梨园宾位-『长乐同座』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「梨園賓位-『長樂同座』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Asiento del peral: Reunión alegre.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du siège des poiriers « Dans l'allégresse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Kursi Kebun Pir: Bersukacita Bersama.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「梨園賓席-『長楽同座』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「이원 객석-『즐거운 자리』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Assento do Pomar de Peras: Reunidos em Alegria.\\nDepois de usar, você pode entrar na interface de produção para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Скамейка грушевого сада: Единение в веселье».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง ที่นั่ง Pear Orchard - \"ร่วมนั่งอย่างปีติ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Đoàn Kịch - Tập Hợp Niềm Vui\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

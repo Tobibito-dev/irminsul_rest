@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Alrani's Note",
+        "de": "Alranis Notiz",
+        "chs": "爱拉尼的便签",
+        "cht": "愛拉尼的便箋",
+        "es": "Nota de Alrani",
+        "fr": "Note d'Alrani",
+        "id": "Catatan Alrani",
+        "jp": "アラニの便箋",
+        "kr": "엘라니의 쪽지",
+        "pt": "Nota de Alrani",
+        "ru": "Записка Алрани",
+        "th": "กระดาษโน้ตของ Alrani",
+        "vi": "Giấy nhớ của Alrani"
+    },
+    "id": 100529,
+    "materialDesc": {
+        "en": "The treasure is buried beneath the <color=#00E1FFFF>giant golden tree</color> in the middle of Lingju Pass.",
+        "de": "Der Schatz liegt unter dem <color=#00E1FFFF>großen goldenen Baum</color> mitten im Lingju-Pass vergraben.",
+        "chs": "宝藏就埋在灵矩关最中间的那棵<color=#00E1FFFF>金色大树</color>下。",
+        "cht": "寶藏就埋在靈矩關最中間的那棵<color=#00E1FFFF>金色大樹</color>下。",
+        "es": "Un tesoro enterrado debajo de aquel <color=#00E1FFFF>gran árbol dorado</color> justo en el centro del Paso Lingju.",
+        "fr": "Un trésor déterré sous le <color=#00E1FFFF>grand arbre aux feuilles d'or</color> de la Passe de Lingju.",
+        "id": "Harta karun itu terkubur di bawah <color=#00E1FFFF>pohon emas besar</color> di tengah Lingju Pass.",
+        "jp": "宝物は霊矩関のど真ん中にあるあの<color=#00E1FFFF>金色の木</color>の下にある。",
+        "kr": "보물은 성법 관문의 중앙에 있는 <color=#00E1FFFF>황금색 나무</color> 아래 묻혀있다",
+        "pt": "O tesouro está enterrado em baixo da <color=#00E1FFFF>Árvore Dourada</color> no meio do Passe de Lingju.",
+        "ru": "Сокровище зарыто под <color=#00E1FFFF>огромным золотым деревом</color> посреди прохода Линцзю.",
+        "th": "สมบัติน่าจะอยู่ใต้<color=#00E1FFFF>ต้นไม้ใหญ่สีทอง</color> ซึ่งอยู่ตรงกลางของ Lingju Pass",
+        "vi": "Kho báu được chôn dưới <color=#00E1FFFF>gốc cây vàng</color> ở giữa Thần Luật Quan."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

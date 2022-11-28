@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hellfire Butterfly",
+        "de": "Höllenfeuerfalter",
+        "chs": "狱火之蝶",
+        "cht": "獄火之蝶",
+        "es": "Mariposa del fuego infernal",
+        "fr": "Papillon infernal",
+        "id": "Hellfire Butterfly",
+        "jp": "獄炎の蝶",
+        "kr": "지옥불 나비",
+        "pt": "Borboleta das Chamas Infernais",
+        "ru": "Бабочка адского пламени",
+        "th": "Hellfire Butterfly",
+        "vi": "Bướm Hỏa Ngục"
+    },
+    "id": 113026,
+    "materialDesc": {
+        "en": "A warped shard that houses great might. You obtained this from defeating Signora, who unleashed her original power.\\nThe seal of ice was broken under duress, and as her former will surged forth from its pale white prison and she remembered her old name once more, the undying butterfly danced amidst burning flesh and blood. And she remembered her past, wandering the land, spreading the flame, burning away all evil — and she recalled the face of the person she could never meet again.",
+        "de": "Ein bestimmtes deformiertes Fragment, das große Macht enthält. Du hast es erhalten, weil du La Signora besiegt hast, die ihre ursprüngliche Macht entfesselt hat.\\nDas Siegel aus Eis wurde unter Zwang gebrochen und als ihr früherer Wille aus seinem blassen Gefängnis hervorbrach und sie sich wieder an ihren alten Namen erinnerte, tanzte der unsterbliche Schmetterling inmitten von brennendem Fleisch und Blut. Und sie erinnerte sich an ihre Vergangenheit, wie sie durch das Land wanderte, die Flamme verbreitete und alles Böse verbrannte ... und an das Gesicht der Person, die sie nicht wiedersehen konnte.",
+        "chs": "战胜解放了原本力量的「女士」后，得到的某种蕴含着温暖的力量的畸形碎片。\\n应激的冰之封印被打破，过往的意志冲破苍白的囚牢，她再度想起自己原本的名字时，不死蝶会随着血肉焚毁一同逸散飞舞。而她也想起了漫游大地，散布烈焰，烧尽一切罪恶的过去，以及自己未能再见的那个人的面貌。",
+        "cht": "戰勝解放了原本力量的「女士」後，得到的某種蘊含著溫暖的力量的畸形碎片。\\n應激的冰之封印被打破，過往的意志衝破蒼白的囚牢，她再度想起自己原本的名字時，不死蝶會隨著血肉焚毀一同逸散飛舞。而她也想起了漫遊大地，散佈烈焰，燒盡一切罪惡的過去，以及自己未能再見的那個人的面貌。",
+        "es": "Un fragmento de forma extraña que contiene un gran poder. Obtenido tras derrotar a Signora después de que esta liberara su poder original.\\nEl sello de hielo fue destruido bajo la coerción. Cuando su voluntad pasada surgió de la prisión albina en la que estaba encerrada y volvió a recordar su nombre original, la mariposa inmortal bailó entre la sangre ardiente. Entonces, se acordó de cuando deambulaba por el mundo prendiéndolo todo en llamas, reduciendo el mal a cenizas, y también del aspecto de aquella persona a la que no había podido volver a ver.",
+        "fr": "Un fragment déformé qui renferme un immense pouvoir. Vous l'avez obtenu après avoir vaincu Signora au summum de sa puissance.\\nLe sceau de glace a été brisé sous la contrainte et alors que son ancienne volonté se libérait de sa prison pâle et qu'elle se souvenait de son ancien nom, le papillon éternel exécutait une danse qui brûlait chair et sang. Elle se souvint de son passé, errant sur les terres, répandant ses flammes pour détruire le mal... ainsi que du visage de la personne qu'elle ne pourrait plus jamais revoir.",
+        "id": "Bagian fragmen dengan wujud tidak sempurna yang mengandung kekuatan besar yang hangat. Kamu memperolehnya setelah mengalahkan Signora — yang melepaskan kekuatan aslinya.\\nSegel es yang menekan telah pecah, seperti tekad di masa lalu yang menembus penjara pucat nan suram. Saat dia teringat nama aslinya sekali lagi, kupu-kupu abadi terbang menari-nari di antara darah dan daging yang terbakar. Dan dia teringat kembali masa lalunya yang kelam, di mana dia berkelana, menyebarkan kobaran api dan membakar segala kejahatan, serta wajah seseorang yang tidak akan bisa dia temui lagi.",
+        "jp": "本来の力を発揮した「淑女」を倒して獲得した、大きな力を秘めた異形の欠片。\\n氷の封印が解かれ、過去の意志が蒼白の牢獄を突き破った。彼女が再び元の名前を思い出した時、不死蝶は血肉の灰塵と共に飛び散っていく。そして彼女も、大地を徘徊し、烈炎を放ち、罪を燃やし尽くした過去と二度と会えなかった人物の顔を思い出した。",
+        "kr": "본연의 힘을 개방한 「시뇨라」를 쓰러뜨린 후 획득한 강대한 힘이 담긴 기형 파편.\\n혼란스러운 얼음의 봉인이 파괴되었고, 과거의 의지가 창백의 감옥을 뚫고 나왔다. 그녀는 원래의 이름을 다시 떠올렸을 때, 불사의 나비는 피와 살이 불타오르며 나풀나풀 춤을 추었다. 그녀는 대륙 곳곳을 돌아다니며 뜨거운 화염을 내뿜고 모든 걸 불사르던 죄악의 과거, 그리고 다시는 만나지 못할 그 사람의 얼굴이 떠올랐다",
+        "pt": "Um certo fragmento deformado que contém grande poder. Você obteve isso ao derrotar Signora, que lançou seu poder original em batalha.\\nO selo de gelo foi quebrado sob a pressão, e a medida que a sua determinação antiga saiu de sua prisão branca pálida e ela lembrou seu antigo nome mais uma vez, e a borboleta imortal dançou entre a carne e sangue flamejantes. E então ela lembrou seu passado, vagando pela terra, queimando todo o mal, assim como o rosto da pessoa que ela não poderia ver novamente.",
+        "ru": "Фрагмент странной формы, в котором заключена великая мощь. Вы получили его после победы над Синьорой, выпустившей на волю свою изначальную силу.\\nЛедяная печать была сломана под давлением. Когда её прежняя воля вырвалась из бледной тюрьмы, она вспомнила прежнее имя. Бессмертная бабочка начала свой танец среди горящей плоти и крови. Она вспомнила прошлое, когда странствовала по земле, распространяя пламя, сжигая всё зло. А ещё вспомнила лицо человека, с которым ей не суждено больше встретиться.",
+        "th": "ชิ้นส่วนบิดเบี้ยวที่อัดแน่นไปด้วยพลังมหาศาลที่ได้มาหลังจากเอาชนะ Signora ผู้ปลดปล่อยพลังดั้งเดิมของเธอได้\\nผนึกน้ำแข็งแตกออกเพราะแรงกดดัน เจตจำนงในอดีตของเธอพวยพุ่งออกมาจากคุกสีขาวซีด เธอจำชื่อเดิมของเธอได้อีกครั้ง ผีเสื้ออมตะเต้นรำท่ามกลางเนื้อและเลือดที่ไหม้เกรียม เธอนึกถึงอดีตของเธอที่ได้ท่องไปในแผ่นดิน, ปลดปล่อยเปลวเพลิง เผาผลาญความชั่วร้ายให้หมดสิ้นไป, และใบหน้าของคนที่เธอไม่สามารถพบได้อีก",
+        "vi": "Mảnh vỡ với hình thù kỳ dị chứa sức mạnh ấm áp, nhận được sau khi đánh thắng Signora đã giải phóng sức mạnh ban đầu.\\nPhong ấn băng bị phá vỡ, ý chí trong quá khứ phá tan lao tù yếu ớt, vào lúc cô ấy nhớ lại cái tên ban đầu, bươm bướm bất tử sẽ tung bay tiêu tan theo máu thịt bị thiêu rụi. Và cô cũng nhớ lại quá khứ lang thang trên đại địa, gieo rắc lửa cháy, thiêu đốt tất cả tội ác và cả dung mạo của người mà cô ấy vẫn chưa được gặp lại."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Smaragdus Nephrite Fragment",
+        "de": "Smaragdnephrit-Fragment",
+        "chs": "翠含岩碎片",
+        "cht": "翠含岩碎片",
+        "es": "Fragmento de nefrita smaragdus",
+        "fr": "Fragment de néphrite smaragdus",
+        "id": "Serpihan Smaragdus Nephrite",
+        "jp": "翠含石の欠片",
+        "kr": "취함암 조각",
+        "pt": "Fragmento de Nefrite Smaragdus",
+        "ru": "Осколок зелёного нефрита",
+        "th": "Smaragdus Nephrite Fragment",
+        "vi": "Mảnh Thúy Hàm Nham"
+    },
+    "id": 100836,
+    "materialDesc": {
+        "en": "A stone that Yanfei and Zhiqiao have adjudged to be Smaragdus Nephrite.",
+        "de": "Laut Yanfei und Zhiqiao ein Erz, das „Smaragdnephrit“ genannt wird.",
+        "chs": "据烟绯和芷巧判断，名为「翠含岩」的石片。",
+        "cht": "據煙緋和芷巧判斷，名為「翠含岩」的石片。",
+        "es": "Según Yanfei y Zhichiao, esta piedra es una nefrita smaragdus.",
+        "fr": "Une pierre que Yanfei et Zhiqiao ont jugée être de la néphrite smaragdus.",
+        "id": "Batu yang ditetapkan oleh Yanfei dan Zhiqiao sebagai Smaragdus Nephrite.",
+        "jp": "煙緋とシコウの判断によると、「翠含石」という石らしい。",
+        "kr": "연비와 지효의 판단에 따르면, 이건 「취함암」이라는 불리는 광석이다",
+        "pt": "Uma pedra que Yanfei e Zhiqiao julgaram ser Nefrite Smaragdus.",
+        "ru": "Камень, который согласно оценке Янь Фэй и Чжи Цяо является зелёным нефритом.",
+        "th": "จากการตัดสินใจของ Yanfei และ Zhiqiao หินนี้มีชื่อว่า \"Smaragdus Jadeite\"",
+        "vi": "Mẫu đá được Yanfei và Zhiqiao cho là Thúy Hàm Nham"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

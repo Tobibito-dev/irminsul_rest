@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Black Bronze Horn",
+        "de": "Kupferhorn",
+        "chs": "黑铜号角",
+        "cht": "黑銅號角",
+        "es": "Cuerno de bronce negro",
+        "fr": "Corne en bronze noir",
+        "id": "Black Bronze Horn",
+        "jp": "黒銅の角笛",
+        "kr": "흑동 나팔",
+        "pt": "Chifre de Bronze Negro",
+        "ru": "Чёрный бронзовый рог",
+        "th": "Black Bronze Horn",
+        "vi": "Sừng Đồng Đen"
+    },
+    "id": 112015,
+    "materialDesc": {
+        "en": "A metallic monster horn that can only be obtained from especially strong hilichurls, since blowing on the horn takes real strength.",
+        "de": "Ein aus Eisen gefertigtes Monsterhorn. Normalerweise findet man es nur bei starken Hilichurlen, weil das Blasen eines solchen Horns einiges an Kraft beansprucht.",
+        "chs": "金属制的魔物号角。通常只能从格外强壮的丘丘人身上获得，因为鸣响号角是需要气力的事情。",
+        "cht": "金屬製的魔物號角。通常只能從格外強壯的丘丘人身上獲得，因為鳴響號角是需要力氣的事情。",
+        "es": "Un cuerno metálico de monstruo que se puede obtener de los Hilichurls más fuertes, ya que, para tocar este cuerno, se necesita mucha fuerza.",
+        "fr": "Une corne de démon en métal. Elle peut souvent être obtenue des Brutocollinus musclés en raison de son poids.",
+        "id": "Terompet iblis yang terbuat dari logam, hanya bisa didapat dari Hilichurl yang kuat karena butuh tenaga yang besar untuk meniupnya.",
+        "jp": "金属製の角笛。この角笛を鳴らすには非常に力がいるため、通常は異常に逞しいヒルチャールからのみ獲得できる。",
+        "kr": "금속제의 마물 나팔. 나팔 부는 힘이 필요하기 때문에 우람한 츄츄족에게서만 얻을 수 있다",
+        "pt": "Um chifre de demônio metálico que pode ser obtido especialmente a partir de Hilichurls fortes, pois para soprar aquele chifre é necessário muita força.",
+        "ru": "Металлический рог демона. Его обычно носят более сильные хиличурлы, у которых хватает сил, чтобы дуть в него.",
+        "th": "เขาโลหะของอสูร สามารถได้จากเหล่า Hilichurl ที่แข็งแกร่งมากเป็นพิเศษเท่านั้น เพราะว่าการจะเป่าแตรเขานั้นต้องใช้แรงกายเป็นอย่างมาก",
+        "vi": "Sừng ma vật làm bằng kim loại. Do thổi sừng phải dùng nhiều sức lực nên thường chỉ thấy trên những Hilichurl to lớn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

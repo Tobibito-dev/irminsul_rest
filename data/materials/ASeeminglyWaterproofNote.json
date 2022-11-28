@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Seemingly Waterproof Note",
+        "de": "Eine anscheinend wasserdichte Notiz",
+        "chs": "一份似乎能防水的笔记",
+        "cht": "一份似乎能防水的筆記",
+        "es": "Notas aparentemente impermeables",
+        "fr": "Note apparemment étanche",
+        "id": "Catatan yang Tampak Tahan Air",
+        "jp": "防水仕様と思われるノート",
+        "kr": "방수력을 갖춘 듯한 쪽지",
+        "pt": "Uma Nota Aparentemente à Prova d'água",
+        "ru": "По-видимому, непромокаемая записка",
+        "th": "บันทึกที่ดูเหมือนว่าจะกันน้ำได้",
+        "vi": "Ghi Chép Có Vẻ Như Chống Nước"
+    },
+    "id": 101901,
+    "materialDesc": {
+        "en": "A Seemingly Waterproof Note",
+        "de": "Eine anscheinend wasserdichte Notiz",
+        "chs": "一份似乎能防水的笔记",
+        "cht": "一份似乎能防水的筆記",
+        "es": "Notas aparentemente impermeables.",
+        "fr": "Note apparemment étanche",
+        "id": "Catatan yang Tampak Tahan Air",
+        "jp": "防水仕様と思われるノート",
+        "kr": "방수력을 갖춘 듯한 쪽지",
+        "pt": "Uma Nota Aparentemente à Prova d'água",
+        "ru": "По-видимому, непромокаемая записка",
+        "th": "บันทึกที่ดูเหมือนว่าจะกันน้ำได้",
+        "vi": "Ghi Chép Có Vẻ Như Chống Nước"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

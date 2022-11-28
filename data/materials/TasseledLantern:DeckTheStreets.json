@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tasseled Lantern: Deck the Streets",
+        "de": "Mit Quasten geschmückte Laterne – „Schöne Straßendekoration“",
+        "chs": "垂缨花灯-「大道锦绣」",
+        "cht": "垂纓花燈-「大道錦繡」",
+        "es": "Farola con borlas: Calles hermosas",
+        "fr": "Lampadaire à pampille « Éclairage raffiné »",
+        "id": "Lampion Rumbai: Hiasan Sepanjang Jalan",
+        "jp": "垂纓花灯-「絢爛な大通り」",
+        "kr": "술 달린 화등-「아름다운 비단길」",
+        "pt": "Lanternas com Borlas: \"Enfeites das Ruas\"",
+        "ru": "Фонарь с кисточкой: Блеск пути",
+        "th": "โคมพู่ดอกไม้ - \"ความงดงามที่ทอดยาว\"",
+        "vi": "Đèn Hoa Anh Đào - Gấm Hoa"
+    },
+    "id": 380406,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Tasseled Lantern: Deck the Streets.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Mit Quasten geschmückte Laterne – Schöne Straßendekoration“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「垂缨花灯-『大道锦绣』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「垂纓花燈-『大道錦繡』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Farola con borlas: Calles hermosas.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du lampadaire à pampille « Éclairage raffiné ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Lampion Rumbai: Hiasan Sepanjang Jalan\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「垂纓花灯-『絢爛な大通り』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「술 달린 화등-『아름다운 비단길』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Lanternas com Borlas: \"Enfeites das Ruas\"\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Фонарь с кисточкой: Блеск пути».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างโคมพู่ดอกไม้ - \"ความงดงามที่ทอดยาว\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Hoa Anh Đào - Gấm Hoa\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

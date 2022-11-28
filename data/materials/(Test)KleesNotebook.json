@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "(TEST) Klee's Notebook",
+        "de": "None",
+        "chs": "(test)可莉的本子",
+        "cht": "（test)可莉的本子",
+        "es": "(TEST) Cuaderno de notas de Klee",
+        "fr": "（test)可莉的本子",
+        "id": "None",
+        "jp": "（test)クレーのノート",
+        "kr": "클레의 공책",
+        "pt": "(test) Caderno de Klee",
+        "ru": "（test)可莉的本子",
+        "th": "(TEST) สมุดโน๊ตของ Klee",
+        "vi": "None"
+    },
+    "id": 100350,
+    "materialDesc": {
+        "en": "(TEST) Klee's Notebook",
+        "de": "None",
+        "chs": "(test)可莉的本子",
+        "cht": "（test)可莉的本子",
+        "es": "(TEST) Cuaderno de notas de Klee",
+        "fr": "（test)可莉的本子",
+        "id": "None",
+        "jp": "（test)クレーのノート",
+        "kr": "클레의 공책",
+        "pt": "(test) Caderno de Klee",
+        "ru": "（test)可莉的本子",
+        "th": "(TEST) สมุดโน๊ตของ Klee",
+        "vi": "None"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

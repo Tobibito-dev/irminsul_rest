@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Veiled Gold Elixir",
+        "de": "Goldkugel des Nebelschleiers",
+        "chs": "雾海云间的金丹",
+        "cht": "霧海雲間的金丹",
+        "es": "Perdigones de oro",
+        "fr": "Argent karstique",
+        "id": "Mist Veiled Gold Elixir",
+        "jp": "霧海雲間の金丹",
+        "kr": "안개구름 속의 금단",
+        "pt": "Elixir de Ouro com Véu de Névoa",
+        "ru": "Золотая пилюля Заоблачного моря",
+        "th": "Mist Veiled Gold Elixir",
+        "vi": "Kim Đơn Biển Sương Mù"
+    },
+    "id": 114019,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nElixirs are in fact pills made from metal alloys. They were created by the adepti, and are able to grant weapons transcendent powers. However, they are rarely seen in the world due to the hubris of the practitioners of martial arts, who prized the ways of combat over the paths of the adepti.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nDiese sogenannte Goldkugel ist in Wirklichkeit nur eine Kugel aus einer von den Adepten hergestellten Metalllegierung, dafür jedoch mit magischen Kräften, die Waffen stärker machen. Kampfkünstler halten sich häufig für besser als die Adepten und benutzen solche Dinge eher selten.",
+        "chs": "赋予武器突破之力的材料。\\n其实所谓金丹，真的是字面意思的金属之丹。这些都是仙人们制造的合金，融合了神通之力，可以给与武器超越的力量。武人似乎都觉得武道优于仙道，不怎么访神问仙。所以金丹并没什么机会给出去。",
+        "cht": "賦予武器突破之力的材料。\\n其實所謂金丹，真的是字面意思的金屬之丹。這些都是仙人們製造的合金，融合了神通之力，可以給與武器超越的力量。武人似乎都覺得武道優於仙道，不怎麼訪神問仙。所以金丹並沒什麼機會給出去。",
+        "es": "Material de ascensión de arma.\\nUna cápsula de aleación de metal creada por los Adeptus e infundida con un poder celestial capaz de otorgar poderes transcendentales a las armas. Sin embargo, esta cápsula de metal ya no es tan común en el mundo debido a la arrogancia de los artistas marciales, que antepusieron las prácticas de combate sobre la busca del camino de los Adeptus.",
+        "fr": "Une bille de métal fabriquée par les Adeptes grâce à l'art des herbes.\\nCette matière confère des pouvoirs exceptionnels à une arme, mais vous ne verrez jamais un artiste martial utiliser ce genre d'objet.",
+        "id": "Material Ascension Senjata.\\nElixir sebenarnya adalah pil yang dibuat dari campuran logam. Mereka dibuat oleh para Adeptus, dan mampu memberikan kekuatan yang mampu melampaui senjata itu sendiri. Namun, mereka sangat jarang ditemukan karena para ahli bela diri yang lebih menghargai cara bertempur mereka dibandingkan dengan jalur Adeptus.",
+        "jp": "武器に突破の力を付与する材料。\\n金丹というのは、金属の丹薬である。それらは仙人たちが作った合金に神通力を融合させたもので、武器に力を与えることができる。武人たちは仙道より武道のほうが優れていると考えるため、仙人に訪れる者は少なく、金丹が誰かの手に渡ることも少ない。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n금단은 말 그대로 금속 단약이다. 이는 신선들이 만든 합금에 신통력을 융합한 것으로 무기에 초월하는 힘을 부여할 수 있다. 무인들은 대부분 무도를 선도보다 높게 여겨 신선을 거의 찾지 않았다. 때문에 금단이 세상에 알려질 기회가 거의 없었다",
+        "pt": "Material de Ascensão de Armas.\\nUma pílula de liga metálica criada pelos Adepti, infundida com o poder de Abhijna, capaz de conceder armas que transcendem poderes. No entanto, a pílula de metal raramente é vista no mundo devido à arrogância dos praticantes de artes marciais.",
+        "ru": "Материал возвышения оружия.\\nНа самом деле зелья - это пилюли, сделанные из металлических сплавов. Их производят Адепты для того, чтобы дать оружию трансцендентальные силы. Но в мире эти пилюли встретить очень тяжело из-за гордости людей, практикующих боевые искусства, которые ценят пути войны выше, чем пути Адептов.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nผงโลหะผสมที่สร้างขึ้นโดยเหล่าเซียนที่ผสมด้วยพลังของ Abhijna สามารถทำให้อาวุธมีอำนาจมากขึ้น อย่างไรก็ตามโลหะผงเหล่านี้แทบจะไม่เคยถูกเห็นในโลกภายนอกเนื่องจากความโอหังของผู้ฝึกศิลปะการต่อสู้",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nKim đơn, thật ra là viên kim loại. Đây là những hợp kim được tiên nhân chế tạo, có chứa sức mạnh thần thông, có thể ban cho vũ khí sức mạnh phi thường. Kẻ học võ thường cho rằng võ đạo tốt hơn tiên đạo, không tin thần tiên. Cho nên kim đơn không có cơ hội lưu truyền ra ngoài."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

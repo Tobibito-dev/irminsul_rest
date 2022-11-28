@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Unusual \"Margaret\"",
+        "de": "Unappetitlicher „Margaret“",
+        "chs": "味道微妙的「玛格丽特」",
+        "cht": "味道微妙的「瑪格麗特」",
+        "es": "Margarita inusual",
+        "fr": "« Margaret » (saveur étrange)",
+        "id": "\"Margaret\" yang Berbau Aneh",
+        "jp": "微妙な味の「マーガレット」",
+        "kr": "미묘한 맛의 「마르가리타」",
+        "pt": "\"Margaret\" inusitada",
+        "ru": "Необычная «Маргарита»",
+        "th": "Unusual \"Margaret\"",
+        "vi": "[Margaret] mùi vị kỳ quái"
+    },
+    "id": 100321,
+    "materialDesc": {
+        "en": "It looks alright, but a mistake in the making cost it its refreshing taste.",
+        "de": "Sieht zwar ganz in Ordnung aus, schmeckt aber aufgrund der falschen Mischung nicht so erfrischend, wie er sollte.",
+        "chs": "外观看起来尚可，但是错误的调制方式让清凉的口感几乎消失了。",
+        "cht": "外觀看起來尚可，但是錯誤的調製方式讓清涼的口感幾乎消失了。",
+        "es": "Aunque no está mal de aspecto, un error en su preparación hizo que perdiera su frescura.",
+        "fr": "Ce cocktail a l'air correct, mais sa mauvaise préparation lui a fait perdre son goût rafraîchissant.",
+        "id": "Kelihatannya cukup enak, tapi sedikit kesalahan dalam pembuatan membuatnya kehilangan rasa segarnya.",
+        "jp": "見た目はまあまあだが、作り方が間違ったせいで、その爽やかな味わいはほとんど消えた。",
+        "kr": "겉모습은 괜찮지만, 잘못된 제조 방법으로 청량함을 느낄 수 없다",
+        "pt": "Parece tudo bem, mas um erro na preparação custa seu sabor refrescante.",
+        "ru": "Выглядит неплохо, но вкусу явно не достаёт свежести.",
+        "th": "ดูๆไปก็ไม่เลว แต่ไม่ได้ลิ้มรสความเย็นสดชื่นเท่าที่ควรเนื่องจากการผสมที่ผิด",
+        "vi": "Bên ngoài nhìn rất đẹp, nhưng do điều chế sai nên vị thanh mát của nó đã bị mất đi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

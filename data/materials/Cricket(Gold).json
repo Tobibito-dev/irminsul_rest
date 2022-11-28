@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cricket (Gold)",
+        "de": "Grille (golden)",
+        "chs": "蛐蛐（金）",
+        "cht": "蟋蟀（金）",
+        "es": "Grillo dorado",
+        "fr": "Criquet (or)",
+        "id": "Jangkrik (Emas)",
+        "jp": "コオロギ（金）",
+        "kr": "귀뚜라미(금색)",
+        "pt": "Grilo (Ouro)",
+        "ru": "Сверчок (Золотой)",
+        "th": "Cricket (Gold)",
+        "vi": "Dế Mèn (Kim)"
+    },
+    "id": 100124,
+    "materialDesc": {
+        "en": "Oh, wow! The Legendary Golden Cricket!",
+        "de": "Oh! Die legendäre goldene Grille!",
+        "chs": "哇！金蛐传说！",
+        "cht": "哇！金蟀傳說！",
+        "es": "¡Guau! ¡El legendario grillo dorado!",
+        "fr": "Ouah ! C'est le légendaire criquet doré !",
+        "id": "Wow! Serangga emas dalam legenda!!",
+        "jp": "わっ！伝説の金コオロギ！",
+        "kr": "와우! 전설의 황금 귀뚜라미!",
+        "pt": "Uau! O Lendário Grilo Dourado!",
+        "ru": "Ух ты! Это же Легендарный Золотой Сверчок!",
+        "th": "ว้าว! นะ นี่มันจิ้งหรีดทองคำในตำนานนี่นา!",
+        "vi": "Wa! Truyền thuyết dế mèn vàng!"
+    },
+    "materialType": "MATERIAL_CRICKET"
+}

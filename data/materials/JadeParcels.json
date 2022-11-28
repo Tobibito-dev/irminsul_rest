@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jade Parcels",
+        "de": "Gefüllte Jadetaschen",
+        "chs": "翡玉什锦袋",
+        "cht": "翡玉什錦袋",
+        "es": "Rollitos de jade",
+        "fr": "Aumônières de jade",
+        "id": "Jade Parcel",
+        "jp": "翠玉福袋",
+        "kr": "비옥야채쌈",
+        "pt": "Porção de Jade",
+        "ru": "«Нефритовые мешочки»",
+        "th": "Jade Parcel",
+        "vi": "Túi Thập Cẩm Phỉ Ngọc"
+    },
+    "id": 108069,
+    "materialDesc": {
+        "en": "An exquisite-looking dish. The ham's sweetness is locked inside the fresh vegetables, drizzled with a spicy broth. Delicious is an understatement.",
+        "de": "Eine äußerst delikate Speise. Im Mund entfaltet der vom Gemüse umschlungene Schinken seinen Geschmack. Dazu kommt die deftige Fleischbrühe und ein leicht scharfer Nachgeschmack. Einfach unvergesslich.",
+        "chs": "造型精致的菜肴。入口滑爽的菜叶紧紧锁住了火腿的鲜味，淋上高汤，回味微辣鲜香，令人难忘。",
+        "cht": "造型精緻的菜餚。入口滑爽的菜葉緊緊鎖住了火腿的鮮味，淋上高湯，回味微辣鮮香，令人難忘。",
+        "es": "Un plato de aspecto exquisito. El umami del jamón está escondido bajo las suaves verduras, rociadas con un caldo picante. “Delicioso” es decir poco.",
+        "fr": "Un plat à l'allure raffinée et au goût inoubliable. Enveloppé par les légumes et arrosé par un bouillon légèrement épicé, le jambon libère toute sa saveur à la première bouchée.",
+        "id": "Hidangan yang terlihat mewah. Rasa manis daging hamnya melengkapi sayuran yang segar, ditambah dengan kaldu pedas di atasnya, membuat orang sulit melupakan kelezatannya.",
+        "jp": "見栄えがいい料理。歯応えのある野菜がハムの旨味を包む。スープと一緒に口にすると、そのピリ辛の旨さを忘れられない。",
+        "kr": "디테일이 살아있는 요리. 신선한 햄을 아삭한 채소 잎으로 잘 감싸 뜨끈한 육수를 곁들였다. 매콤한 뒷맛은 잊을 수 없다",
+        "pt": "Um prato de aparência requintada. A doçura do presunto está dentro dos legumes frescos, regados com um caldo de carne picante. Delicioso é pouco.",
+        "ru": "Одно из самых роскошных блюд Тейвата. Сладкая ветчина, завёрнутая в свежие листья салата и дополненная острым бульоном. Невероятно вкусно.",
+        "th": "อาหารที่ดูประณีต ผักเนื้อละเอียดที่หอมอบอวลไปด้วย กลิ่นสดใหม่ของแฮม ราดด้วยน้ำซุปชั้นดี มีรสเผ็ดติดปลายลิ้นเล็กน้อย ช่างเป็นอาหารที่น่าจดจำจริง ๆ",
+        "vi": "Món ăn có tạo hình tinh tế. Lá rau giòn ngọt bao bọc lấy mùi vị thơm ngon của giăm bông, thêm vào nước sốt, vị ngon cay thơm, khiến người khác khó quên."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

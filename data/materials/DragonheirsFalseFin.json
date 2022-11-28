@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dragonheir's False Fin",
+        "de": "Falsche Flosse der Drachennachfahren",
+        "chs": "龙嗣伪鳍",
+        "cht": "龍嗣偽鰭",
+        "es": "Pseudoaleta de dragón de las profundidades",
+        "fr": "Fausse nageoire de l'héritier du dragon",
+        "id": "Dragonheir's False Fin",
+        "jp": "ドラゴエアのニセヒレ",
+        "kr": "용 자손의 가짜 지느러미",
+        "pt": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "ru": "Ложный плавник Дракона глубин",
+        "th": "Dragonheir's False Fin",
+        "vi": "Vảy Giả Tộc Rồng"
+    },
+    "id": 113031,
+    "materialDesc": {
+        "en": "A piece of biological tissue that you found after defeating the Bathysmal Vishaps.\\nAlthough it looks like a fin of some kind, it does not actually have any function at all.\\nThe people of Byakuyakoku once investigated the Bathysmal Vishaps quite deeply. Their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. Because of their great hatred for man-made light sources, these vishaps will lose any visual acuity by the time they reach maturity. At the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes.",
+        "de": "Ein Stück biologisches Gewebe, das du gefunden hast, nachdem du die Tiefsee-Drachenechsen besiegt hattest. Obwohl es wie eine Art Flosse aussieht, hat es eigentlich gar keine Funktion.\\nDas Volk von Byakuyakoku hat die Tiefsee-Drachenechsen einst sehr gründlich untersucht. Ihr auffälligstes Merkmal war die Fähigkeit zu wählen, welche Eigenschaften sie an ihre Nachkommen weitergeben wollten. Wegen ihres großen Hasses auf die Menschheit verlieren diese Drachenechsen jede Sehkraft, wenn sie ausgewachsen sind. Gleichzeitig haben sie zu Kampfzwecken einen gewissen Polymorphismus der Elemente entwickelt.",
+        "chs": "击败深海龙蜥之后，可以拾取到的一截生物组织。\\n虽然看起来像是鲨鳍，但其实并不发挥什么作用。\\n曾经的白夜国之民对深海龙蜥有深入的研究。它们最为不同的一点就是可以靠意志决定自身特征的去留与遗传。因为厌恶人造光源，龙蜥成年就会失去视觉上的大部分细节；同时为了战斗，它们进化出了其他元素的行为多型性。",
+        "cht": "擊敗深海龍蜥之後，可以拾取到的一截生物組織。\\n雖然看起來像是鯊鰭，但其實並不能發揮什麼作用。\\n曾經的白夜國之民對深海龍蜥有深入的研究。牠們最為不同的一點就是可以靠意志決定自身特徵的去留與遺傳。因為厭惡人造光源，龍蜥成年就會失去視覺上的大部分細節；同時為了戰鬥，牠們進化出了其他元素的行為多態性。",
+        "es": "Una parte del cuerpo del Dragarto de las Profundidades recogida tras derrotarlo.\\nAunque parece una aleta, en realidad no sirve para nada.\\nLos antiguos habitantes del reino de Byakuya estudiaron en profundidad a los Dragartos de las Profundidades, cuya mayor particularidad es que pueden decidir qué características conservar y transmitir a sus crías según ellos mismos deseen. Como detestan la luz artificial, estos Dragartos pierden una gran parte de su sentido de la vista durante la adultez. Además, para poder luchar, han evolucionado hasta ser capaces de cambiar de elemento.",
+        "fr": "Un morceau de tissu biologique que vous avez trouvé après avoir vaincu un Élémentosaure abyssal.\\nBien qu'il ressemble à une sorte de nageoire, il n'a en fait aucune fonction.\\nLes habitants de Byakuyakoku ont déjà mené des études approfondies sur les Élémentosaures abyssaux. Leur caractéristique la plus distinctive est la possibilité de choisir les traits qu'ils souhaitent transmettre à leur progéniture. En raison de leur grande haine envers l'humanité, ces Élémentosaures perdent toute acuité visuelle quand ils atteignent l'âge adulte. En même temps, ils ont également développé un certain degré de polymorphisme élémentaire à des fins de combat.",
+        "id": "Sepotong jaringan biologis yang kamu temukan setelah mengalahkan Bathysmal Vishap.\\nMeskipun terlihat seperti semacam sirip, namun sebenarnya ia tidak punya fungsi apa pun.\\nOrang-orang Byakuyakoku pernah melakukan penelitian yang mendalam terhadap Bathysmal Vishap. Ciri paling khas yang mereka miliki adalah kemampuan untuk memilih sifat genetis apa yang ingin diturunkan oleh mereka kepada keturunannya. Karena kebencian mereka yang besar terhadap umat manusia, para vishap ini akan kehilangan ketajaman visualnya pada saat mereka mencapai usia dewasa. Pada saat yang sama, mereka juga telah mengembangkan tingkat keberagaman struktur atom dalam unsur tertentu untuk tujuan pertempuran.",
+        "jp": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+        "kr": "심해 용 도마뱀을 처치하면 얻을 수 있는 생체조직의 일부이다.\\n보기에는 상어 지느러미 같지만 아무런 실용성이 없다.\\n백야국의 주민들이 심해 용 도마뱀에 대해 깊이 연구했다. 그들의 가장 다른 점은 바로 자신의 의지로 특징과 유전을 결정할 수 있다는 것이다. 인조적인 빛을 싫어하여 용 도마뱀은 성체가 되면 시각을 대부분 잃고 전투를 위해 다양한 다른 원소로 진화했다",
+        "pt": "Um pedaço de tecido biológico que você encontrou após derrotar os Dragartos das Profundezas.\\nEmbora pareça uma barbatana de algum tipo, na verdade não tem nenhuma função.\\nO povo do Reino de Byakuya investigou profundamente os Dragartos das Profundezas. Sua habilidade mais distinta foi a capacidade de escolher quais características desejava transmitir à sua prole. Por causa do seu grande ódio pela humanidade, estes talvez percam qualquer acuidade visual no momento em que atingirem a maturidade. Ao mesmo tempo, eles também desenvolveram um certo grau de polimorfismo elemental para fins de combate.",
+        "ru": "Кусок биологической ткани, который вы нашли после победы над вишапом глубин.\\nХотя он выглядит как плавник, на самом деле он таковым не является.\\nЖители Бякуякоку хорошо изучили вишапов глубин. Их самой главной отличительной особенностью была способность выбирать, какие черты передавать своему потомству. Из-за своей огромной ненависти к человечеству эти вишапы теряют остроту зрения к моменту достижения зрелого возраста. В то же время они развили определённую степень элементального полиморфизма в боевых целях.",
+        "th": "ชิ้นส่วนของเนื้อเยื่อชีวภาพ ที่สามารถเก็บได้หลังจากเอาชนะ Bathysmal Vishap\\nถึงแม้ว่าจะดูเหมือนกับครีบปลา แต่ความจริงแล้วก็ไม่ได้มีประโยชน์ในการใช้งานอะไร\\nครั้งหนึ่งผู้คนของ Byakuyakoku นั้นเคยศึกษาเกี่ยวกับ Bathysmal Vishap อย่างละเอียด สิ่งที่ทำให้พวกมันมีความแตกต่างมากที่สุดอย่างหนึ่งก็คือ สามารถกำหนดการเก็บรักษาและการสืบทอดลักษณะของตนเองตามความต้องการได้ เนื่องจากเกลียดชังแหล่งกำเนิดแสงที่พวกมนุษย์สร้างขึ้น Vishap เหล่านี้จะสูญเสียรายละเอียดการมองเห็นส่วนใหญ่ไปเมื่อโตเต็มวัย ในขณะเดียวกัน พวกมันได้มีวิวัฒนาการของพฤติกรรมที่หลากหลายของธาตุอื่น ๆ เพื่อการต่อสู้",
+        "vi": "Loại mô sinh học nhận được khi tiêu diệt Rồng Biển Sâu.\\nTuy trông như vảy cá, nhưng thực ra lại không có công dụng gì.\\nCư dân Vương Quốc Đêm Trắng cũng từng có nghiên cứu chuyên sâu về Rồng Biển Sâu. Điểm đặc biệt nhất của chúng là khả năng lựa chọn đặc điểm mà nó muốn truyền lại cho con cái. Vì căm ghét ánh sáng của loài người nên Rồng Biển Sâu khi trưởng thành sẽ mất đi phần lớn thị lực, đồng thời chúng cũng sẽ tiến hóa thành các loại nguyên tố khác nhau để thích nghi với chiến đấu."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teachings of Gold",
+        "de": "Lehren des „Golds“",
+        "chs": "「黄金」的教导",
+        "cht": "「黃金」的教導",
+        "es": "Enseñanzas del oro",
+        "fr": "Enseignement de l'Or",
+        "id": "Teachings of \"Gold\"",
+        "jp": "「黄金」の教え",
+        "kr": "「황금」의 가르침",
+        "pt": "Ensinamentos de Ouro",
+        "ru": "Учения о «Золоте»",
+        "th": "Teachings of Gold",
+        "vi": "Bài Giảng Của \"Hoàng Kim\""
+    },
+    "id": 104316,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nGold is the symbol of the land of Geo.\\nGold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.",
+        "de": "Material zum Verbessern von Talenten.\\nGold ist das Symbol des Reiches des Gesteins.\\nDas Gold fließt in den Adern Liyues. Es nährt Liyues Herz und gibt seinen Muskeln die Kraft, stolz und erhaben aufrecht zu stehen.",
+        "chs": "天赋培养素材。\\n岩之国土的象征是黄金。\\n黄金是流淌在璃月土地深处的血液，是鼓动璃月的心脏有力搏动的肌肉，是让璃月傲然挺立的筋骨。",
+        "cht": "天賦培養素材。\\n岩之國土的象徵是黃金。\\n黃金是流淌在璃月土地深處的血液，是鼓動璃月的心臟有力搏動的肌肉，是讓璃月傲然挺立的筋骨。",
+        "es": "Material de mejora de talento.\\nEl oro es el símbolo del Reino de Piedra.\\nEs la sangre que fluye en las profundidades de la tierra de Liyue, los músculos que bombean su corazón y los huesos que hacen que pueda levantarse con orgullo.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'or est le symbole du Pays de la Roche.\\nAbondant sous ses terres, il est le nerf de la guerre de Liyue qui tient debout grâce à lui.",
+        "id": "Material Penguatan Talenta.\\nEmas adalah simbol tanah bumi.\\nEmas adalah darah yang mengalir jauh di dalam tanah Liyue, otot yang memompa jantung Liyue, dan tulang yang membantu Liyue berdiri dengan bangga.",
+        "jp": "天賦育成素材。\\n岩の国の象徴は黄金である。\\n黄金は璃月の深部に流れる血、璃月の心臓を動かす筋肉、璃月がまっすぐでいられるための骨である。",
+        "kr": "특성 육성 소재.\\n바위의 나라의 상징은 황금이다.\\n황금은 리월 대지 깊은 곳에 흐르는 피이자 리월의 심장을 뛰게하는 근원이며 리월을 지탱하는 뼈대이다",
+        "pt": "Material de elevação de Talento.\\nO ouro é o símbolo da Terra.\\nO ouro é o sangue que flui profundamente sob a terra de Liyue, são os músculos que bombeiam o coração de Liyue e os ossos que fazem Liyue se orgulhar.",
+        "ru": "Материал повышения таланта.\\nЗолото - это символ царства земли.\\nЗолото - это кровь, текущая глубоко под землёй Ли Юэ, это мышцы, которые сокращают сердце Ли Юэ, это кости, которые заставляют Ли Юэ гордо стоять на ногах.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nทองคำคือสัญลักษณ์ของประเทศ แห่งหิน\\nทองคำเปรียบดังเลือดที่ไหลเวียนอยู่ลึกใต้ผืนดินลงไปของ Liyue คือกล้ามเนื้อที่คอยกระตุ้นหัวใจของ Liyue เป็นกระดูกที่คอยทำให้ Liyue ยืนขึ้นได้อย่างภาคภูมิ",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nHoàng kim tượng trưng cho đất nước nham thạch.\\nHoàng kim là huyết mạch chảy sâu trong lòng đất Liyue, giúp cho trái tim Liyue điều khiển được cơ bắp, là xương cốt giúp Liyue đứng vững."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

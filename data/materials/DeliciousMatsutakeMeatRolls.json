@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Matsutake Meat Rolls",
+        "de": "Leckere mit Matsutake gefüllte Fleischröllchen",
+        "chs": "美味的松茸酿肉卷",
+        "cht": "美味的松茸釀肉捲",
+        "es": "Rollos de carne con matsutake deliciosos",
+        "fr": "Rouleaux de viande au matsutake (délicieux)",
+        "id": "Delicious Matsutake Meat Roll",
+        "jp": "美味しそうな松茸の肉巻き",
+        "kr": "맛있는 버섯고기말이",
+        "pt": "Enroladinho Delicioso de Carne com Matsutake",
+        "ru": "Вкусные голубцы с грибами",
+        "th": "Matsutake Meat Roll แสนอร่อย",
+        "vi": "Nhung Tùng Ủ Thịt Cuộn Ngon"
+    },
+    "id": 108091,
+    "materialDesc": {
+        "en": "A pan-fried meat dish. It combines the essences of the mountains and the nourishments of the celestial bodies. It is a very nutritious dish that will surely bring a smile to your face.",
+        "de": "Ein langsam gebratenes Fleischgericht. In diesem Gericht begegnen sich die Erfahrung alter Kochkunst und die wertvollen Nährstoffe exquisiter Zutaten. Hinzu kommt das wohlige Gefühl beim Kauen.",
+        "chs": "煎制而成的肉料理。山林的精华与日月的滋养在此汇聚融合，带给人的除了丰富营养，还有满溢而出的幸福感。",
+        "cht": "煎製而成的肉料理。山林的精華與日月的滋養在此匯聚融合，帶給人的除了豐富營養，還有滿溢而出的幸福感。",
+        "es": "Un plato de carne salteada. La esencia de los bosques y las montañas y los nutrientes que el sol y la luna proporcionan a la tierra convergen en este plato. Además de aportar una gran cantidad de nutrientes, también causa una felicidad desbordante.",
+        "fr": "Un plat de viande hachée et poêlée. Cette spécialité est composée de ce qu'il y a de mieux dans ce monde. Riche en nutriments, elle ne manquera pas de satisfaire votre appétit et de vous donner le sourire.",
+        "id": "Hidangan daging yang digoreng. Ia mencampur esensi gunung dan nutrisi yang berasal dari langit. Sangat bernutrisi dan akan membuatmu tersenyum.",
+        "jp": "肉を焼いた料理。自然の真髄と月日はここにある。栄養補給以外に、幸せも感じさせる一品。",
+        "kr": "구운 고기 요리. 숲의 정수와 일월의 양분이 한데 어우러져 풍부한 영양뿐만 아니라 넘치는 행복을 선사한다",
+        "pt": "Um prato de carne frito. Combina as essências das montanhas e os nutrientes dos corpos celestes. É um prato muito nutritivo que certamente trará um sorriso ao seu rosto.",
+        "ru": "Мясное блюдо, приготовленное на сковороде. Оно объединило в себе суть гор и лесов с романтикой космоса. Это питательное блюдо несомненно вызовет у вас улыбку.",
+        "th": "อาหารจำพวกเนื้อสัตว์ทอด แก่นแท้ของป่าเขาและการบำรุง ของหยินและหยางมาบรรจบกันที่นี่ ไม่เพียงแต่จะนำคุณค่าทางโภชนาการมารวมกันอย่างครบถ้วนเท่านั้น แต่ยังนำพาความสุขมาอย่างล้นเอ่อ อีกด้วย",
+        "vi": "Món thịt chiên. Tinh hoa của rừng núi và nhật nguyệt đều được hòa quyện ở đây, mang đến cho người ta nguồn dinh dưỡng dồi dào, còn có niềm hạnh phúc khó tả."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

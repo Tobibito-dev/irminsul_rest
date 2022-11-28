@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Minty Bean Soup",
+        "de": "Leckere Minzbohnensuppe",
+        "chs": "美味的薄荷豆汤",
+        "cht": "美味的薄荷豆湯",
+        "es": "Sopa de menta y frijoles deliciosa",
+        "fr": "Soupe de pois-menthe (délicieuse)",
+        "id": "Delicious Minty Bean Soup",
+        "jp": "美味しそうなミントビーンスープ",
+        "kr": "맛있는 완두콩 민트 수프",
+        "pt": "Sopa de Feijão com Menta Deliciosa",
+        "ru": "Вкусный мятно-фасолевый суп",
+        "th": "Minty Bean Soup แสนอร่อย",
+        "vi": "Canh Đậu Bạc Hà Ngon"
+    },
+    "id": 108414,
+    "materialDesc": {
+        "en": "A rich soup made with simple ingredients. The smooth texture caresses your taste buds, filling your mouth with the refreshing scent of beans and mints. The unadorned yet pleasant flavor reminds you of a leisurely walk in the shade. Who can refuse such simple delight?",
+        "de": "Eine dicke Suppe mit simplen Zutaten. Die weiche Textur umschmeichelt deine Geschmacksnerven und füllt deinen Mund mit dem erfrischenden Duft von Bohnen und Minze. Der schlichte, aber angenehme Geschmack erinnert dich an einen Spaziergang auf einem schattigen Pfad. Wer kann solch bescheidenen und einfachen Genüssen schon widerstehen?",
+        "chs": "用料简单的浓汤。浓厚的稠汤，带着淡淡的豆香迎面而来；丝滑的口感，夹杂有薄荷清爽的气息。味道朴实但不失可圈可点之处，让人仿佛在凉爽的树荫下漫步，享受着淳朴的快乐。",
+        "cht": "用料簡單的濃湯。濃厚的稠湯，帶著淡淡的豆香迎面而來；絲滑的口感，夾雜有薄荷清爽的氣息。味道樸實但不失可圈可點之處，讓人彷彿在涼爽的樹蔭下漫步，享受著淳樸的快樂。",
+        "es": "Una sopa espesa hecha con ingredientes sencillos. El toque de los frijoles le da espesor, mientras que la menta ofrece una textura suave y sedosa a la vez que refrescante. Los sabores son sencillos pero no por ello menos extraordinarios, lo que hace que uno se sienta como si estuviera paseando bajo la fresca sombra de un árbol mientras disfruta los placeres sencillos de la vida.",
+        "fr": "Une soupe préparée avec des ingrédients simples. Sa texture onctueuse caresse les papilles gustatives, emplissant la bouche d'un parfum rafraîchissant de haricots et de menthe. Les saveurs sont simples mais non moins extraordinaires, donnant l'impression de se promener sur un sentier ombragé et de profiter des plaisirs simples de la vie.",
+        "id": "Hidangan sup dengan bahan yang sederhana. Kuahnya yang kental membawa harumnya aroma kacang, dengan tekstur lembut dengan kesegaran daun mint. Rasanya simpel, tetapi terasa luar biasa ini memberikan kesan seperti sedang berjalan di sebuah jalan yang teduh nan sejuk. Siapa yang bisa menahan kebahagiaan sederhana seperti ini?",
+        "jp": "シンプルな材料で作った濃厚なスープ。とろりとした濃いスープからは、豆の香りが漂ってくる。口当たりは滑らかで、ミントの爽やかな香りがする。味は素朴だが素晴らしく、まるで涼しい木陰を散歩しているような気分にさせてくれる。シンプルな幸せを。",
+        "kr": "간단한 재료로 만든 수프. 진한 수프가 은은한 콩의 향을 풍기고 있으며, 부드러운 식감 사이에 허브의 상큼함이 담겨있다. 소박하지만 뛰어난 맛을 지니고 있어 마치 시원한 나무 그늘 아래에서 소소한 즐거움을 누리며 산책하는 듯한 기분을 느끼게 해준다",
+        "pt": "Uma sopa bem rica, com ingredientes simples. A textura suave acaricia seu paladar, enchendo sua boca com o cheiro refrescante de feijão e menta. O sabor sem artifícios, porém gostoso, lembra uma caminhada ao longo de uma trilha sombreada. Quem poderia recusar uma delícia tão simples?",
+        "ru": "Крем-суп из самых простых ингредиентов. Густой суп с шелковистой текстурой, едва уловимым ароматом фасоли и освежающими нотками мяты. Простой, но безукоризненный вкус напомнит вам о нехитрых радостях жизни, например, о прогулке по тенистой лесной тропе.",
+        "th": "ซุปข้นที่ใช้ส่วนผสมแบบเรียบง่าย ซุปเข้มข้นที่มีกลิ่นหอมอ่อน ๆ ของถั่ว รสนุ่มนวล ผสมผสานไปกับกลิ่นอายเย็นสดชื่นของ Mint รสชาติเรียบง่ายแต่ครบทุกรายละเอียด ทำให้ผู้ที่ได้ทานรู้สึกราวกับกำลังเดินทอดน่องอยู่บนเส้นทางที่แสนร่มรื่น และเพลิดเพลินไปกับความสุขที่แสนเรียบง่าย",
+        "vi": "Món canh đậm đà được nấu bằng nguyên liệu đơn giản. Nước canh đặc sệt quyện với mùi thơm của đậu, vị mềm mượt hòa quyện với mùi bạc hà sảng khoái. Hương vị tuy bình dị nhưng vẫn đặc sắc, khiến người ta có cảm giác như đang dạo chơi dưới bóng cây mát rượi, tận hưởng niềm hạnh phúc bình dị."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

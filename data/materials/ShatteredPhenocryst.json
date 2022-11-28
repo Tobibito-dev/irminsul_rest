@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shattered Phenocryst",
+        "de": "Phänokristall-Bruckstück",
+        "chs": "绮碎斑晶",
+        "cht": "綺碎斑晶",
+        "es": "Fenocristal fragmentado",
+        "fr": "Phénocristal brisé",
+        "id": "Shattered Phenocryst",
+        "jp": "綺羅砕晶",
+        "kr": "부서진 알록달록 결정",
+        "pt": "Fragmento de Fenocristal",
+        "ru": "Осколок фенокристалла",
+        "th": "ผลึกฟีโนคริสต์",
+        "vi": "Tinh Thể Vỡ Vụn"
+    },
+    "id": 153,
+    "materialDesc": {
+        "en": "A mysterious crystalline substance that you obtained after defeating the mighty Hypostases within a heretofore undiscovered Domain. Its lovely colors are like the remnant light of the elements as they are scattered.\\nCan be used to exchange for valuable resources in the event \"Hypostatic Symphony: Dissonant Verse\"",
+        "de": "Eine mysteriöse kristalline Substanz, die nach dem Sieg über die Hypostase in einer unbekannten Sphäre erhalten wird. Ihre strahlenden Farben sind wie das Nachleuchten aufgelöster Elementarkraft.\\nDu kannst diese Gegenstände in der Aktion „Sinfonie der Hypostasen – Dissonantes Segment“ gegen wertvolle Materialien eintauschen.",
+        "chs": "战胜未知秘境中强大的无相元素后，寻获的神秘晶体，绮丽的色彩如同元素之力散去后残留的斑纹。\\n在「无相交响诗·离调乐段」活动中，可以用来换取贵重的物资。",
+        "cht": "戰勝未知秘境中強大的無相元素後尋獲的神秘晶體，綺麗的色彩如同元素之力散去後殘留的斑紋。\\n在「無相交響詩·離調樂段」活動中，可以用來換取貴重的物資。",
+        "es": "Unos misteriosos cristales que obtuviste al derrotar a los poderosos Hipostasis en un dominio desconocido hasta ahora. Sus llamativos colores brillan como si se tratara de la sustancia residual que dejan tras de sí los elementos.\\nPuedes utilizarlos en el evento «Sinfonía Hipostásica: Periodo disonante» para canjearlos por distintos materiales.",
+        "fr": "Une mystérieuse substance cristalline que vous avez obtenue après avoir vaincu les puissantes Hypostases dans un donjon que nul n'a encore découvert. Ses jolies couleurs rappellent les vestiges lumière que laissent les éléments en se dispersant.\\nCet objet peut être échangé contre de précieuses ressources lors de l'événement « Symphonie Hypostase : Verset de dissonance ».",
+        "id": "Kristal misterius yang diperoleh setelah mengalahkan Hypostasis yang kuat di dalam Domain tak dikenal. Warna-warnanya yang indah seperti sisa cahaya dari elemen-elemen yang tersebar.\\nBisa digunakan untuk ditukarkan dengan berbagai barang berharga dalam event Simfoni Hypostasis: Bait Falsetto.",
+        "jp": "未知の秘境にいる強い無相元素に勝利したとき、獲得できる謎の結晶。その鮮やかで美しい色彩はまるで元素力が去った後に残された模様のようだ。\\nイベント「無相の交響詩·トニックピリオド」で、貴重な物資と交換できる。",
+        "kr": "미지의 비경에서 강력한 무상의 원소에게 승리한 후 획득한 신비한 결정체. 아름다운 색채는 원소의 힘이 사라지며 남긴 무늬 같다.\\n「무상의 교향시·으뜸음화의 악장」 이벤트에서 귀중한 물자로 교환할 수 있다",
+        "pt": "Derrote o poderoso Hypostasis em seu Domínio desconhecido e obtenha o misterioso cristal que se forma quando sua força elemental se dissipa.\\n Durante o evento \"Sinfonia Hipostática — Verso Dissonante\", você pode usá-lo para trocar itens valiosos.",
+        "ru": "Таинственная кристаллическая субстанция, которую вы получили после победы над могущественным гипостазисом в ранее неоткрытом подземелье. Его прекрасные цвета подобны остаточному свету рассеянных элементов.\\nМожно обменять на награды в событии «Гипостатическая симфония: Строфа диссонанса».",
+        "th": "คริสตัลลึกลับที่ได้รับหลังจากเอาชนะ Hypostases ทรงพลังในดันเจี้ยนที่ไม่มีใครรู้จัก สีสันสวยงามเป็นราวกับลายที่หลงเหลืออยู่หลังจากพลังของธาตุสลายหายไป\\nสามารถใช้แลกรับเป็นไอเทมสุดล้ำค่าในกิจกรรม \"บทแห่งซิมโฟนี - หลุดทำนอง\" ได้",
+        "vi": "Tinh thể tìm được sau khi đánh bại Nguyên Tố Nguyên Bản mạnh mẽ trong bí cảnh thần bí, màu sắc đẹp đẽ như dấu tích nguyên tố tan biến để lại.\\nTrong sự kiện \"Bài Thơ Giao Hưởng - Giai Điệu Lạc Nhịp\", có thể dùng để đổi vật tư quý giá."
+    },
+    "materialType": false
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Key to a Stony Hall",
+        "de": "„Schlüssel zum Felsensaal“",
+        "chs": "「岩厅之钥」",
+        "cht": "「岩廳之鑰」",
+        "es": "Llave de la sala de piedra",
+        "fr": "Clé de la salle pierreuse",
+        "id": "Kunci Menuju Aula Berbatu",
+        "jp": "「岩堂の鍵」",
+        "kr": "「암청의 열쇠」",
+        "pt": "Chave do Pavilhão de Pedra",
+        "ru": "Ключ от Каменного зала",
+        "th": "กุญแจสู่โถงศิลา",
+        "vi": "Chìa Khóa Căn Phòng Đá"
+    },
+    "id": 101626,
+    "materialDesc": {
+        "en": "According to Khedive's initial speculations, this construct may be a \"key\" that could open the door to some ruin somewhere.",
+        "de": "Nach Khedives ersten Beobachtungen könnte dies der Schlüssel sein, der die Tür zu einer gewissen Ruine aufschließt.",
+        "chs": "经海迪夫的初步鉴定，这枚构装物或许是能够开启某处遗迹大门的「钥匙」。",
+        "cht": "經海迪夫的初步鑑定，這枚構裝物或許是能夠開啟某處遺蹟大門的「鑰匙」。",
+        "es": "Según las primeras observaciones de Khedive, esta podría ser la llave que abra la puerta de unas ruinas.",
+        "fr": "Les observations préliminaires de Khedive indiquent que cet objet pourrait être la clé permettant de déverrouiller l'entrée de certaines ruines.",
+        "id": "Menurut spekulasi Khedive, benda ini kemungkinan sebuah \"kunci\" yang dapat membuka pintu masuk ke dalam suatu reruntuhan, entah di mana.",
+        "jp": "ヘディーヴが初めに鑑定したところによると、この構造物は遺跡の扉を開ける「鍵」かもしれない。",
+        "kr": "헤디브의 대략적인 감정에 따르면, 이 장치는 어떤 유적의 문을 열 수 있는 「열쇠」인 것 같다",
+        "pt": "Conforme as especulações iniciais de Khedive, essa construção pode ser a \"chave\" para abrir a porta de alguma ruína.",
+        "ru": "Согласно догадкам Хедива, этот ключ открывает врата в некие руины.",
+        "th": "จากการประเมินในเบื้องต้นของ Khedive สิ่งของชิ้นนี้บางทีอาจจะเป็น\"กุญแจ\" ที่สามารถเปิดประตูของโบราณสถานบางแห่งได้",
+        "vi": "Qua giám định bước đầu của Khedive, vật này có lẽ là \"chìa khóa\" để mở cổng chính của di tích nào đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lost Coin Pouch",
+        "de": "Verlorener Geldbeutel",
+        "chs": "丢失的钱包",
+        "cht": "丟失的錢包",
+        "es": "Monedero perdido",
+        "fr": "Bourse perdue",
+        "id": "Kantong Uang yang Hilang",
+        "jp": "落とされた財布",
+        "kr": "잃어버린 지갑",
+        "pt": "Carteira Perdida",
+        "ru": "Потерянный кошелёк",
+        "th": "Lost Coin Pouch",
+        "vi": "Túi Tiền Bị Mất"
+    },
+    "id": 100310,
+    "materialDesc": {
+        "en": "A small coin pouch of Mora that doesn't weigh much; you'd sometimes forget it's even there.",
+        "de": "Ein kleines Säckchen mit Mora. Es ist nicht sonderlich schwer, sodass man hin und wieder vergisst, dass es da ist.",
+        "chs": "装着摩拉的小小袋子。没有多少重量，偶尔会让人忘了它的存在。",
+        "cht": "裝著摩拉的小小袋子。沒有多少重量，偶爾會讓人忘了它的存在。",
+        "es": "Un pequeño monedero para llevar Moras que no pesa mucho; a veces uno se olvida de que lo lleva encima.",
+        "fr": "Une petite bourse qui ne pèse pas très lourd. Vérifiez de temps en temps qu'elle est toujours là.",
+        "id": "Kantong kecil berisi Mora yang tidak terlalu berat, terkadang kamu sampai lupa kamu sedang membawanya.",
+        "jp": "モラが入っている小さな小銭入れ。軽くて、たまにその存在すら忘れてしまいそうだ。",
+        "kr": "모라가 담긴 작은 주머니. 너무 가벼워서 차고 있는 걸 가끔 잊어버리기도 한다",
+        "pt": "Um pequeno saco de Mora que não pesa muito. Você, às vezes, até esquece da sua existência.",
+        "ru": "Маленький кошелёк, наполненный монетами мора. Почти ничего не весит, поэтому весьма легко забыть о его существовании.",
+        "th": "ถุงเล็ก ๆ สำหรับเก็บเหรียญ Mora ไม่ได้หนักเท่าไหร่ จนบางครั้งถึงกับลืมไปเลยว่ามันอยู่ตรงนั้น",
+        "vi": "Túi nhỏ để đựng Mora. Không có sức nặng, thỉnh thoảng còn khiến người khác quên sự tồn tại của nó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

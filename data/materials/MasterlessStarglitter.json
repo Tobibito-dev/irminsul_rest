@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Masterless Starglitter",
+        "de": "Herrenloser Sternenglanz",
+        "chs": "无主的星辉",
+        "cht": "無主的星輝",
+        "es": "Brillo estelar sin dueño",
+        "fr": "Astérie libre",
+        "id": "Masterless Starglitter",
+        "jp": "無主のスターライト",
+        "kr": "주인 없는 스타라이트",
+        "pt": "Brilho Estrelar Abandonado",
+        "ru": "Блуждающий звёздный блеск",
+        "th": "Masterless Starglitter",
+        "vi": "Tinh Huy Vô Chủ"
+    },
+    "id": 221,
+    "materialDesc": {
+        "en": "Currency used to purchase rare resources from the Shop.\\nSurplus Starglitter of destiny. Perhaps it can light up other corners of the universe.",
+        "de": "Eine Währung, die beim Händler gegen wertvolle Ressourcen eingetauscht werden kann.\\nZurückgeblieben vom Glanz des Schicksalssterns. Vielleicht vermag es, andere Ecken des Universums zu erhellen.",
+        "chs": "可以在商城兑换珍稀资源的货币。\\n过剩的命运星之光辉。或许可以点亮宇宙其他角落。",
+        "cht": "可以在商城兌換稀有資源的貨幣。\\n過剩的命運星之光輝。或許可以點亮宇宙其他角落。",
+        "es": "Intercambiable por artículos poco comunes en la Tienda.\\nExcedente de Brillo estelar. Tal vez pueda iluminar otras partes del universo.",
+        "fr": "Une monnaie qui peut être échangée contre des ressources précieuses dans la boutique.\\nL'étincelle d'étoile du destin excédentaire. Peut-être qu'elle peut illuminer d'autres coins de l'univers.",
+        "id": "Mata uang yang dapat digunakan untuk membeli item-item langka dari Toko.\\nStardust of Destiny yang berlebih, mungkin bisa digunakan untuk menyinari ujung alam semesta lain.",
+        "jp": "ショップでレアなものと交換できるコイン。\\n過剰な運命の星の光。その輝きは宇宙の至るところを照らせるかもしれない。",
+        "kr": "상점에서 희귀한 자원을 교환할 수 있는 화폐.\\n넘쳐나는 운명의 별빛. 어쩌면 우주의 다른 모퉁이를 밝힐 수 있을지도 모른다",
+        "pt": "Moeda usada para comprar recursos caros na Loja de Troca.\\nExcedente de Brilho Estrelar. Talvez possa iluminar outras partes do universo.",
+        "ru": "Валюта для покупки редких материалов в Магазине.\\nОстаток звёздного блеска судьбы. Возможно, ему удастся осветить другие уголки вселенной.",
+        "th": "คุณสามารถแลกเปลี่ยนเงินตรา สำหรับทรัพยากรที่หายากในร้านค้าได้\\nแสงแห่งโชคชะตาที่เหลืออยู่ของ Starglitter บางทีมันอาจจะสามารถ ส่องสว่างไปยังมุมอื่น ๆ ของจักรวาลได้",
+        "vi": "Tiền dùng để đổi tài nguyên hiếm trong cửa hàng.\\nÁnh sáng còn sót lại của ngôi sao may mắn, không chừng có thể thắp sáng một góc khác trong vũ trụ."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heart's Desire: Sapphire",
+        "de": "Zerstörte Träume – Saphir",
+        "chs": "碎梦奇珍·蓝宝石",
+        "cht": "碎夢奇珍·藍寶石",
+        "es": "Sueños rotos: Zafiro",
+        "fr": "Rêves brisés - Saphir",
+        "id": "Pecahan Impian: Batu Safir",
+        "jp": "砕夢奇珍·サファイア",
+        "kr": "쇄몽기진·사파이어",
+        "pt": "Sonhos Despedaçados - Safira",
+        "ru": "Разбитые мечты: Сапфир",
+        "th": "ความฝันที่แตกสลาย - ไพลิน",
+        "vi": "Giấc Mơ Tan Vỡ - Lam Bảo Thạch"
+    },
+    "id": 100439,
+    "materialDesc": {
+        "en": "A collection of fantasy stories centered around a mysterious antique shop. It's widely popular around Teyvat.",
+        "de": "Eine Sammlung fiktiver Geschichten, die überall in Teyvat gelesen wird. Die Geschichten drehen sich um ein höchst merkwürdiges Antiquität.",
+        "chs": "在提瓦特各国广为流行的幻想故事集，讲述了一座恍如乌有的古董店中发生的故事。",
+        "cht": "在提瓦特各國廣為流行的幻想故事集，講述了一座恍如烏有的古董店中發生的故事。",
+        "es": "Una colección de historias fantásticas centradas en una misteriosa tienda de antigüedades. Es muy popular en todo Teyvat.",
+        "fr": "Une anthologie d'histoires fantastiques qui se déroulent dans une boutique d'antiquités. Il s'agit d'un best-seller en Teyvat.",
+        "id": "Sebuah kumpulan cerita fantasi yang sangat populer di Teyvat. Bercerita tentang kisah sebuah toko barang antik yang misterius.",
+        "jp": "テイワット各国で流行っている幻想物語集。何もない骨董店で起きた物語が綴られている。",
+        "kr": "티바트 대륙 전역에서 유행하는 판타지 소설집. 존재하지 않는 듯한 골동품 가게에서 벌어지는 이야기가 적혀있다",
+        "pt": "Uma coleção de histórias de fantasias centradas em uma tenda misteriosa de antiguidades. É muito popular ao redor de Teyvat.",
+        "ru": "Сборник фантастических рассказов, действие которых разворачивается вокруг таинственной антикварной лавки. Эти рассказы пользуются большой популярностью на материке Тейват.",
+        "th": "คอลเล็กชั่นเรื่องราวแฟนตาซีซึ่งเป็นที่นิยมไปทั่วทุกประเทศใน Teyvat มันบอกเล่าถึงเรื่องราวของร้านขาย ของโบราณที่ลึกลับแห่งหนึ่ง",
+        "vi": "Tuyển tập các câu chuyện viễn tưởng lưu truyền giữa các quốc gia tại Teyvat, kể lại câu chuyện xảy ra trong một quán đồ cổ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

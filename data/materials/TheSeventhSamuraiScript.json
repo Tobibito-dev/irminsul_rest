@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"The Seventh Samurai\" Script",
+        "de": "Drehbuch für „Der siebte Samurai“",
+        "chs": "《第七个武士》台本",
+        "cht": "《第七個武士》劇本",
+        "es": "Guion de «El séptimo samurái»",
+        "fr": "Script « Le septième samouraï »",
+        "id": "Naskah \"Samurai Ketujuh\"",
+        "jp": "『七人目の武士』台本",
+        "kr": "《제7의 무사》 대본",
+        "pt": "Roteiro de \"O Sétimo Samurai\"",
+        "ru": "Сценарий «Седьмого самурая»",
+        "th": "บท \"ซามูไรคนที่เจ็ด\"",
+        "vi": "Kịch Bản \"Vị Samurai Thứ 7\""
+    },
+    "id": 100905,
+    "materialDesc": {
+        "en": "A \"film script\" you obtained from Xavier.",
+        "de": "Ein „Drehbuch“, das du von Xavier erhalten hast.",
+        "chs": "从泽维尔那里拿到的「映影台本」。",
+        "cht": "從澤維爾那裡拿到的「映影劇本」。",
+        "es": "Un guion kinográfico obtenido de Xavier.",
+        "fr": "Un « script de film » que vous avez obtenu de Xavier.",
+        "id": "Sebuah naskah film yang kamu dapat dari Xavier.",
+        "jp": "グザヴィエのところから入手した「映影の台本」。",
+        "kr": "자비에가 준 「활동 사진 대본」",
+        "pt": "Um roteiro de filme que você obteve de Xavier.",
+        "ru": "«Сценарий кинофильма», доставшийся от Ксавье.",
+        "th": "\"บทละคร\" ที่ได้รับจาก Xavier",
+        "vi": "Kịch bản lấy được từ chỗ Xavier."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

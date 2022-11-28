@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Concealed Talon",
+        "de": "Versteckte Monsterkrallen",
+        "chs": "隐兽鬼爪",
+        "cht": "隱獸鬼爪",
+        "es": "Garra fantasmal oculta",
+        "fr": "Serre dissimulée",
+        "id": "Concealed Talon",
+        "jp": "隠獣の鬼爪",
+        "kr": "맹수의 귀신 발톱",
+        "pt": "Garra Fantasmagórica Oculta",
+        "ru": "Скрытый дьявольский коготь",
+        "th": "Concealed Talon",
+        "vi": "Vuốt Quỷ Ma Thú"
+    },
+    "id": 112058,
+    "materialDesc": {
+        "en": "A sharp nail left behind by one of the Riftwolves.\\nAll the marvels in the world must pale before \"Cretaceus,\" the greatest work of them all.",
+        "de": "Eine scharfe Kralle, die von einem der Garmwölfe zurückgelassen wurde.\\nAlle Wunder der Welt müssen vor „Cretaceus“, dem größten Werk von allen, verblassen.",
+        "chs": "兽境群狼的利爪。\\n世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。",
+        "cht": "獸境群狼的利爪。\\n世之奇珍，但是和最高傑作「白堊層」相比，只是尋常之物罷了。",
+        "es": "Una afilada garra de un Acechador.\\nSin duda, un valioso tesoro, pero no es nada comparado con la roca caliza.",
+        "fr": "La griffe tranchante d'un canidé de faille.\\nToutes les merveilles du monde ne font pas le poids face au Cretaceus, la plus belle création de toutes.",
+        "id": "Cakar tajam yang ditinggalkan oleh salah satu dari Riftwolves.\\nSemua keajaiban yang ada di dunia harus tunduk kepada \"Cretaceus\", maha karya terbaik yang pernah ada.",
+        "jp": "獣域ウルブズが残した体の一部。\\n世にも奇妙な作品。しかし最高傑作「白亜層」の前では、どうしても平凡な物と見えてしまう。",
+        "kr": "수계 늑대 무리의 날카로운 발톱.\\n진귀한 보물이지만 「백악층」의 최고 걸작과 비교해보면 아무것도 아니다",
+        "pt": "Uma garrafa afiada deixada para trás por um dos Caninos da Fenda.\\nTodas as maravilhas do mundo não são nada quando comparadas com \"Cretaceus\".",
+        "ru": "Острый коготь, принадлежавший одному из волков Разрыва.\\nВсе чудеса этого мира меркнут перед величайшим шедевром - меловым слоем.",
+        "th": "กรงเล็บแหลมคมที่ทิ้งไว้โดย Riftwolf\\nถือเป็นสิ่งมหัศจรรย์บนโลก แต่เมื่อเทียบกับผลงานสุดล้ำค่าอย่าง \"Cretaceus\" แล้ว มันก็เป็นแค่ของธรรมดาเท่านั้น",
+        "vi": "Vuốt sắc của bầy sói ma vật.\\nBảo vật của thế gian, nhưng so với kiệt tác \"Vôi Trắng\" thì cũng chỉ là vật tầm thường mà thôi."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

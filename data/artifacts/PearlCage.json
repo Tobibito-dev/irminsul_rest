@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Pearl Cage",
+        "de": "Perlenkäfig",
+        "chs": "真珠之笼",
+        "cht": "真珠之籠",
+        "es": "Jaula de Perlas",
+        "fr": "Écrin de perle",
+        "id": "Pearl Cage",
+        "jp": "真珠の籠",
+        "kr": "진주의 요람",
+        "pt": "Jaula de Pérola",
+        "ru": "Жемчужная клетка",
+        "th": "Pearl Cage",
+        "vi": "Lồng Trân Châu"
+    },
+    "id": 23596,
+    "setId": 15022,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

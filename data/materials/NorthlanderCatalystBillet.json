@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Northlander Catalyst Billet",
+        "de": "Unbearbeiteter Katalysator des Nordens",
+        "chs": "北陆法器原胚",
+        "cht": "北陸法器原胚",
+        "es": "Prototipo de catalizador del Norte",
+        "fr": "Base de catalyseur du nord",
+        "id": "Northlander Catalyst Billet",
+        "jp": "北陸法器の原型",
+        "kr": "북대륙의 법구 원형",
+        "pt": "Protótipo de Catalisador do Território do Norte",
+        "ru": "Заготовка катализатора северянина",
+        "th": "Northlander Catalyst Billet",
+        "vi": "Phôi Pháp Khí Bắc Lục"
+    },
+    "id": 101104,
+    "materialDesc": {
+        "en": "Weapon forging material. Can be used to forge 4-star catalysts. \\nPhilosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater.",
+        "de": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Katalysator geschmiedet werden.\\nIn der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?",
+        "chs": "生产武器的原材料。通过锻造，可以生产出4星的法器。\\n哲学中认为大理石蕴藏着成为美丽雕塑的潜能。这些原胚也孕育了无限可能。真让人期待。",
+        "cht": "生產武器的原素材。透過鍛造，可以生產出4星的法器。\\n哲學中認為大理石蘊藏著成為美麗雕塑的潛能。這些原胚也孕育了無限可能。真讓人期待。",
+        "es": "Material de fabricación de armas. Puede usarse para forjar catalizadores de 4★.\\nLos filósofos creen que el mármol tiene el potencial de convertirse en una hermosa escultura. Estos prototipos también tienen un potencial ilimitado.",
+        "fr": "Un matériau qui peut être forgé en catalyseur 4★.\\nD'après les philosophes, le marbre a le potentiel de donner naissance à une belle sculpture. Ce matériau possède également des possibilités infinies qui n'attendent que vous pour être explorées.",
+        "id": "Material Crafting Senjata. Dapat digunakan untuk menempa Catalyst 4★.\\nAhli filsafat percaya marmer memiliki potensi untuk diukir menjadi patung yang indah. Begitu juga dengan material senjata ini; ia juga memiliki potensi yang tak terbatas.",
+        "jp": "武器鍛造に必要な材料。鍛造により、★4の法器が製造できる。\\n大理石は美しい彫刻になる可能性が秘められているように、この原型にも無限の可能性がある。",
+        "kr": "무기를 생산하는 원재료. 단조를 통해 ★4 법구를 만들 수 있다.\\n철학적으로 대리석에는 아름다운 조소가 될 수 있는 가능성이 있다고 여겨진다. 이 날것의 재료에 숨겨진 무한한 가능성도 사람들을 설레게 한다",
+        "pt": "Material de forjamento de armas. Pode ser usado para forjar catalisadores de 4 estrelas.\\nOs filósofos acreditam que os mármores têm o potencial de serem esculpidos em belas esculturas. Estes protótipos também têm potencial ilimitado.",
+        "ru": "Материал для ковки оружия. Может быть использован для создания катализатора 4★.\\nФилософы говорят, что любой кусок мрамора потенциально является прекрасной статуей. У этих заготовок тоже безграничный потенциал.",
+        "th": "วัสดุสำหรับสร้างอาวุธ สามารถใช้เพื่อสร้างสื่อเวทระดับ 4 ดาวได้\\nในทางปรัชญานั้นคิดว่าหินอ่อนแฝง ไปด้วยศักยภาพของประติมากรรม ที่สวยงาม ซึ่งต้นแบบเหล่านี้ ยังมีความเป็นไปได้อีกมากมาย ไม่สิ้นสุด ช่างน่าสนใจจริง ๆ",
+        "vi": "Nguyên liệu gốc tạo ra vũ khí. Thông qua chế tạo, có thể tạo ra pháp khí 4 sao.\\nTrong triết học cho rằng, Đại Lý Thạch có tiềm năng trở thành tượng điêu khắc tuyệt mỹ. Những phôi gốc này cũng có khả năng vô hạn. Thật khiến người khác mong chờ."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

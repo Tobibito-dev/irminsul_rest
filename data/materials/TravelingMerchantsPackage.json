@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Traveling Merchant's Package",
+        "de": "Paket eines Geschäftsreisenden",
+        "chs": "客商的包裹",
+        "cht": "客商的包裹",
+        "es": "Paquete del comerciante",
+        "fr": "Colis du commerçant",
+        "id": "Paket Perjalanan Pedagang",
+        "jp": "客商の荷物",
+        "kr": "행상의 보따리",
+        "pt": "Pacote do Comerciante Ambulante",
+        "ru": "Посылка от постояльца",
+        "th": "พัสดุของพ่อค้าต่างถิ่น",
+        "vi": "Chiếc túi của khách"
+    },
+    "id": 100476,
+    "materialDesc": {
+        "en": "A package given from a traveling merchant to Huai'an, boss of the Wangshu Inn. There seems to be some gifts inside. It's heavy enough to pique your interest, but not so heavy as to make you worry.",
+        "de": "Ein Paket von einem Geschäftsreisenden an Huai’an, den Inhaber des Gasthauses Wangshu. Darin scheinen sich einige Geschenke zu befinden. Das Paket ist gerade so schwer, dass es dein Interesse weckt, aber nicht so schwer, dass man sich Sorgen machen müsste.",
+        "chs": "客商送给望舒客栈老板淮安的包裹。里面似乎装着一些礼物，重量没有轻到让人不快，也没有重到让人不安。",
+        "cht": "客商送給望舒客棧老闆淮安的包裹。裡面似乎裝著一些禮物，重量沒有輕到讓人不快，也沒有重到讓人不安。",
+        "es": "Un paquete entregado por un comerciante ambulante a Huai'an, jefe de la Posada Wangshu. Parece que hay algunos regalos dentro. Es lo suficientemente pesado como para despertar tu interés, pero no tanto como para preocuparte.",
+        "fr": "Un colis qui vous a été remis par un commerçant ambulant et adressé à Huai'an, le gérant de l'Auberge Wangshu, qui a l'air de contenir par mal de cadeaux. Son poids suffit à piquer votre intérêt, mais pas au point de vous poser problème.",
+        "id": "Sebuah paket yang diberikan oleh seorang pedagang keliling kepada Huai'an, pemilik Wangshu Inn. Sepertinya ada hadiah di dalamnya. Cukup berat hingga membuatmu penasaran, tapi tidak terlalu berat juga.",
+        "jp": "客商が望舒旅館支配人の淮安に送った荷物。中はプレゼントのようだが、特に重くも軽くもない。",
+        "kr": "행상이 망서객잔의 주인장 회안에게 준 보따리. 안에 선물이 들어 있는 듯하다. 언짢을 정도로 가볍진 않지만 안심할 만큼 무겁지도 않다",
+        "pt": "Um pacote dado por um comerciante Viajante a Huai'an, dono do Albergue Wangshu. Parece haver alguns presentes lá dentro. É pesado o suficiente para despertar o seu interesse, mas não tão pesado a ponto de você precisar se preocupar.",
+        "ru": "Посылка, которую некий постоялец передал Хуай Аню, хозяину постоялого двора «Ваншу». Похоже, внутри лежат какие-то подарки. Она достаточно тяжёлая, чтобы возбудить ваш интерес, но не настолько тяжёлая, чтобы заставить вас волноваться.",
+        "th": "พัสดุที่พ่อค้าต่างถิ่นส่งให้ Huai'an เถ้าแก่ของ Wangshu Inn ด้านในดูเหมือนจะมีของขวัญ ซึ่งน้ำหนักไม่ได้เบาหวิวแต่ก็ไม่หนักซะจนคนยกไม่ไหว",
+        "vi": "Chiếc túi được khách dành tặng cho ông chủ Nhà Trọ Vọng Thư Huai'an. Bên trong đựng món quà không nặng cũng không nhẹ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Crude Sack",
+        "de": "Grober Sack",
+        "chs": "粗糙的布袋",
+        "cht": "粗糙的布袋",
+        "es": "Bolsa de tela burda",
+        "fr": "Sacoche grossière",
+        "id": "Karung Kasar",
+        "jp": "粗末な布袋",
+        "kr": "조잡한 포대",
+        "pt": "Saco Bruto",
+        "ru": "Отсыревший мешок",
+        "th": "Crude Sack",
+        "vi": "Túi Đựng Thô Ráp"
+    },
+    "id": 100628,
+    "materialDesc": {
+        "en": "A cloth bag made of commonly-found materials. It contains some slightly damp objects. It might have fallen from a merchant vessel.",
+        "de": "Ein Stoffbeutel aus ganz normalem Material. In ihm befinden sich ein paar feuchte Objekte. Wahrscheinlich ist er von einem Handelsschiff gefallen.",
+        "chs": "以常见材料制成的布袋，其中装有少量已经受潮的物品。可能是从商船上掉下来的。",
+        "cht": "以常見材料製成的布袋，其中裝有少量已經受潮的物品。可能是從商船上掉下來的。",
+        "es": "Una bolsa de tela hecha de un material corriente. En su interior hay unos cuantos objetos húmedos. Quizás se cayera de un barco mercante.",
+        "fr": "Une sacoche en tissu faite de matériaux ordinaires. Elle contient des objets légèrement humides. Elle pourrait être tombée d'un navire marchand.",
+        "id": "Tas kain yang terbuat dari bahan yang umum, berisi beberapa benda yang sedikit basah. Benda ini mungkin jatuh dari kapal pedagang.",
+        "jp": "普通の材料で作られた布袋。壊れたものがいくつか入っている。おそらく商船の落とし物だろう。",
+        "kr": "흔한 재료로 만든 포대, 습기가 찬 물건이 조금 들어있다. 상선에서 떨어진 것 같다",
+        "pt": "Um saco feito de materiais comuns. Contêm alguns objetos úmidos. Talvez tenha caído de um navio mercante.",
+        "ru": "Мешок, сшитый из абсолютно обычного материала. В нём лежит немного отсыревших вещей. Возможно, эта сумка выпала за борт торгового судна.",
+        "th": "ถุงผ้าที่ทำจากวัสดุที่หาได้ทั่วไป ซึ่งของที่ใส่ไว้ข้างในมีบางส่วนที่เปียกชื้น เป็นไปได้ว่ามันอาจจะตกมาจากเรือบรรทุกสินค้า",
+        "vi": "Túi được tạo từ vật liệu dễ kiếm, bên trong đựng một vài món đồ bị ướt. Có lẽ là bị rớt từ thuyền buôn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

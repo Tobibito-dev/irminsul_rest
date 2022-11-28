@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Golden Fried Chicken",
+        "de": "Leckere golden frittierte Hühnerhappen",
+        "chs": "美味的大黄金吮指鸡",
+        "cht": "美味的大黃金脆皮雞",
+        "es": "Pollo frito delicioso",
+        "fr": "Nuggets de poulet (délicieux)",
+        "id": "Delicious Golden Fried Chicken",
+        "jp": "美味しそうな黄金のジャンボチキン",
+        "kr": "맛있는 황금 크리스피 치킨",
+        "pt": "Galinha Dourada Frita Deliciosa",
+        "ru": "Вкусная курочка «Пальчики оближешь!»",
+        "th": "Golden Fried Chicken แสนอร่อย",
+        "vi": "Gà Vàng Khổng Lồ Ngon"
+    },
+    "id": 108237,
+    "materialDesc": {
+        "en": "Fowl that has been seasoned and then fried. The golden outer skin has all but sealed the abundant juices into the meat, leading to absolute enjoyment with each bite. The taste at your fingertips will linger in memory far longer than the instant it takes to reduce the meal to nothing but slim bones.",
+        "de": "Geflügel, das gewürzt und dann gebraten wurde. Die goldene Außenhaut hat die reichlich vorhandenen Säfte im Fleisch nahezu versiegelt, was zu absolutem Genuss bei jedem Bissen führt. Der Geschmack an deinen Fingerspitzen wird viel länger in Erinnerung bleiben als der kurze Moment, in dem die Mahlzeit bis auf dünne Knochen verputzt wird.",
+        "chs": "调味后炸制的禽肉。金黄色的外皮将饱满肉汁牢牢锁在禽肉之中，大口咬下倍感满足。即使晃神间只剩细骨，指尖残留的香气也会让人在脑海中回味。",
+        "cht": "調味後油炸的禽肉。金黃色的外皮將飽滿肉汁牢牢鎖在禽肉之中，大口咬下倍感滿足。即使晃神間只剩細骨，指尖殘留的香氣也會讓人在腦海中回味。",
+        "es": "Carne de ave salpimentada y frita. La piel dorada y crujiente ha sellado los abundantes jugos de la carne en su interior y cada bocado es un goce absoluto. Solo te llevará un instante devorarla, pero el recuerdo de este placer te acompañará durante mucho tiempo.",
+        "fr": "Viande de volaille hachée, agrémentée puis frite. La peau craquante et dorée a conservé le jus de la viande, pour un plaisir absolu à chaque fois que vous mordez dedans. L'odeur exquise persistera sur vos doigts bien après que vous ayiez englouti ce repas jusqu'à ne laisser qu'un tas de petits os.",
+        "id": "Fowl yang telah dibumbui dan digoreng. Kulitnya yang berwarna keemasan telah mengunci rasa di dalam dagingnya, setiap gigitan akan terasa memuaskan. Meski hanya butuh waktu sesaat untuk menghabiskan hidangan ini sampai ke tulang-tulangnya, tapi kenikmatannya akan terus terngiang-ngiang di ingatanmu.",
+        "jp": "味付けした鳥肉の揚げ物。金色の皮が肉汁をしっかりと包み、豪快に噛むと大きな満足感を得られる。つかの間に完食してしまうが、指先に残る香りでも後味を感じさせてくれる。",
+        "kr": "양념을 해 튀긴 새고기. 황금빛 껍질이 새고기의 육즙을 가둬 한입 베어 물면 더할 나위 없이 행복해진다. 순식간에 뼈만 남게 되지만 손끝에 남아있는 맛있는 냄새는 오래 남을 것이다",
+        "pt": "Carne de Ave que foi temperada e frita. A pele dourada selou os abundantes sucos na carne, levando a satisfação absoluta com cada mordida. O gosto em seus dedos ficará na sua memória muito mais do que o instante que toma para reduzir a carne até somente o osso.",
+        "ru": "Мясо птицы, щедро приправленное специями и обжаренное в масле. Хрустящая золотистая кожица запечатала в себе насыщенный сок мяса, и каждый укус доставляет абсолютное удовольствие. Вам понадобится всего мгновение, чтобы проглотить его, но память об этом удовольствии останется с вами надолго.",
+        "th": "เนื้อสัตว์ปีกที่ปรุงรสแล้วนำไปทอด หนังสีทองที่ห่อหุ้มน้ำที่ชุ่มฉ่ำของเนื้อด้านในเอาไว้ เมื่อกัดเข้าไปแล้วทำให้อิ่มเอมใจเป็นที่สุด ถึงแม้จะทานจนเหลือแค่กระดูกอย่างรวดเร็ว แต่กลิ่นหอมที่ติดอยู่บนปลายนิ้วจะทำให้คุณนึกถึงรสชาติอันแสนอร่อยนั้น",
+        "vi": "Thịt gia cầm chiên sau khi ướp gia vị. Lớp vỏ vàng ươm kèm với nước thịt đầy đặn, khi cắn vào sẽ có cảm giác thỏa mãn. Dù chỉ còn lại những mảnh xương vụn trong không gian lung linh huyền ảo nhưng mùi hương đọng lại trên đầu ngón tay sẽ khiến người ta cảm nhận được dư vị."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

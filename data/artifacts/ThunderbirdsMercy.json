@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Thunderbird's Mercy",
+        "de": "Erbarmen des Donnervogels",
+        "chs": "雷鸟的怜悯",
+        "cht": "雷鳥的憐憫",
+        "es": "Misericordia del Pájaro del Trueno",
+        "fr": "Compassion de l'Oiselle du tonnerre",
+        "id": "Thunderbird's Mercy",
+        "jp": "雷鳥の憐み",
+        "kr": "뇌조의 연민",
+        "pt": "Misericórdia da Pássaro do Trovão",
+        "ru": "Милосердие Громовой птицы",
+        "th": "Thunderbird's Mercy",
+        "vi": "Sự Thương Hại Của Lôi Điểu"
+    },
+    "id": 24754,
+    "setId": 15005,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

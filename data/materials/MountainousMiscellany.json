@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mountainous Miscellany",
+        "de": "Verschiedenes über Steine und Felsen",
+        "chs": "山石杂谈",
+        "cht": "山石雜談",
+        "es": "Discusiones sobre las montañas",
+        "fr": "Méli-mélo sur les montagnes",
+        "id": "Pembicaraan Seputar Gunung dan Batu",
+        "jp": "山石閑談",
+        "kr": "산석 여담",
+        "pt": "Miscelâneas Montanhosas",
+        "ru": "Горные беседы",
+        "th": "เสียงกระซิบจากหินผา",
+        "vi": "Chuyện Về Sơn Thạch"
+    },
+    "id": 101615,
+    "materialDesc": {
+        "en": "This text contains all manner of strange legends about Mt. Tianheng's stones, including tales about many rare ores. It is said that if you stand in the middle of the lake south of Mt. Tianheng at dusk, you will find the legendary Subrosium.",
+        "de": "Dieses Buch enthält alle möglichen Legenden der sonderbaren Steine und Felsen auf dem Tianheng-Berg, einschließlich Geschichten über viele seltene Erze. In einer dieser seltsamen Geschichten wird geschrieben, dass, wenn man in der Mitte des Sees steht, der im Süden des Tianheng-Bergs liegt, und bei Abenddämmerung in die Richtung des Sonnenuntergangs geht, man das mysteriöse Geheimessenzerz finden kann.",
+        "chs": "记录了天衡山各种奇石传说，其中包含许多稀有的矿石。据说站在天衡山南部的湖中心，在黄昏之时沿着日落方向去寻找，就能找到传说中的秘华石。",
+        "cht": "記錄了天衡山各種奇石傳說，其中包含許多稀有的礦石。據說站在天衡山南部的湖中心，在黃昏之時沿著日落方向去尋找，就能找到傳說中的秘華石。",
+        "es": "Un registro en el que se detallan todas las leyendas sobre las piedras preciosas de la Cordillera Tianheng y que incluye muchos minerales raros. Dicen que, si te sitúas en el centro del lago que hay al sur de dicha cordillera y buscas minerales mientras persigues al sol durante el crepúsculo, encontrarás el legendario subrosium.",
+        "fr": "Ce texte contient toutes sortes de légendes étranges sur les pierres des Monts Tianheng, y compris des histoires sur de nombreux minerais rares. Il est dit que si vous vous tenez au milieu du lac au sud des Monts Tianheng au crépuscule, vous trouverez du subrosium légendaire.",
+        "id": "Catatan ini berisi legenda-legenda aneh mengenai bebatuan di Mt. Tianheng, termasuk cerita-cerita tentang mineral langka. Konon kalau kamu berdiri di tengah danau di selatan Mt. Tianheng pada senja hari, kamu bisa menemukan Subrosium yang legendaris.",
+        "jp": "天衡山の各種奇石が記録されている。その中には、希少な鉱石に関する伝説も含まれている。天衡山の南にある湖の中央に立ち、夕暮れ時に日没の方角を探すと、伝説の秘華石が見つかるらしい。",
+        "kr": "천형산의 각종 기이한 돌의 전설이 기록되어 있다. 그중엔 희귀한 광석도 많다. 해 질 무렵, 천형산 남쪽 호수 중앙에서 해가 지는 방향으로 가면 비화석을 찾을 수 있다고 한다",
+        "pt": "Este texto contém todo tipo de lendas estranhas sobre as pedras do Monte Tianheng, incluindo contos sobre muitos minérios raros. Diz-se que se você estiver no meio do lago ao sul do Monte Tianheng ao anoitecer, você encontrará o lendário Subrosium.",
+        "ru": "Этот текст содержит всевозможные странные легенды о камнях горы Тяньхэн, включая рассказы о многих редких рудах. В нём говорится, что если в сумерки встать посреди озера к югу от горы Тяньхэн и посмотреть на заходящее солнце, то можно найти легендарный суброзий.",
+        "th": "บันทึกตำนานหินประหลาดใน Mt. Tianheng ซึ่งประกอบไปด้วยแร่หายากมากมาย ว่ากันว่าหากยืนอยู่กลางทะเลสาบทางตอนใต้ของ Mt. Tianheng ในตอนพลบค่ำ และตามหามันตามทิศทางที่พระอาทิตย์ตกดิน ก็จะเจอกับ Subrosium ในตำนานได้",
+        "vi": "Ghi chép truyền thuyết về các loại đá thần kỳ ở Thiên Hoành Sơn, trong đó bao gồm rất nhiều khoáng thạch quý. Nghe nói vào lúc hoàng hôn, đứng ở giữa hồ ở phía Nam của Thiên Hoành Sơn, đi theo hướng mặt trời lặn sẽ có thể tìm thấy Bí Hoa Thạch trong truyền thuyết."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 14",
+        "de": "Gutschein Nr.14",
+        "chs": "兑换券14号",
+        "cht": "兌換券14號",
+        "es": "Cupón de canje n.º 14",
+        "fr": "Coupon d'échange 14",
+        "id": "Kupon Penukaran 14",
+        "jp": "引換券14",
+        "kr": "교환 쿠폰 14호",
+        "pt": "Cupom de Troca 14",
+        "ru": "Купон обмена №14",
+        "th": "คูปองแลกรับหมายเลข 14",
+        "vi": "Phiếu Quà Tặng 14"
+    },
+    "id": 101880,
+    "materialDesc": {
+        "en": "Used to redeem Thundering Triped: Tipping",
+        "de": "Ein Gutschein, der gegen „Dreibeinige Maschine des Donners – Kippen“ eingetauscht werden kann.",
+        "chs": "用于兑换【霆雷三足机·颠】的兑换券",
+        "cht": "用於兌換【霆雷三足機·顛】的兌換券",
+        "es": "Cupón de canje para obtener un Trípode de la tempestad: Cúspide.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Kaki Tiga Perkilatan: Lempar Topi",
+        "jp": "「雷霆三足機·投」と引き換えることのできる券。",
+        "kr": "[뇌정의 삼족 로봇·묘기]를 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Trípode Trovejante: Salto",
+        "ru": "Используйте, чтобы получить «Громовую треногу: Крышечка»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Thundering Triped: Tipping",
+        "vi": "Phiếu quà tặng dùng để đổi \"Robot Ba Chân Lôi Đình - Đội\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

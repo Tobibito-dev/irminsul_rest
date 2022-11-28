@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mysterious Flyer",
+        "de": "Geheimnisvolles Flugblatt",
+        "chs": "谜之传单",
+        "cht": "謎之傳單",
+        "es": "Panfleto misterioso",
+        "fr": "Dépliant mystérieux",
+        "id": "Pamflet Misterius",
+        "jp": "謎のチラシ",
+        "kr": "수수께끼의 전단지",
+        "pt": "Panfleto Misterioso",
+        "ru": "Загадочная брошюра",
+        "th": "ใบปลิวลึกลับ",
+        "vi": "Truyền Đơn Huyền Bí"
+    },
+    "id": 101606,
+    "materialDesc": {
+        "en": "A pamphlet you obtained from the Ms. Hina Fan Club. You've got to say that the design looks kind of familiar...",
+        "de": "Ein Flugblatt vom Hina-Fanclub. Das Bild da oben kommt dir irgendwie bekannt vor ...",
+        "chs": "从希娜小姐后援会那里收到的传单，上面的形象好像有些眼熟…",
+        "cht": "從希娜小姐後援會那裡收到的傳單，上面的形象好像有些眼熟…",
+        "es": "Un panfleto que te dieron en el club de admiradores de la Srta. Hina. La imagen de la portada te resulta bastante familiar...",
+        "fr": "Un dépliant que vous avez obtenu au fan club de mademoiselle Hina. Cette tête vous dit quelque chose...",
+        "id": "Selembar pamflet yang kamu peroleh dari Fans Club Nona Hina. Kelihatannya, desain dari pamflet ini tampak cukup familier ....",
+        "jp": "ヒナ後援会からもらったチラシ、どこかで見たことがあるような…",
+        "kr": "히나 팬클럽에서 받은 전단지. 종이에 있는 캐릭터가 눈에 익다…",
+        "pt": "Um panfleto obtido do fã-clube de Hina. A imagem em cima parece um pouco familiar...",
+        "ru": "Брошюра, которую вы получили от фан-клуба госпожи Хины. Изображение на ней кажется вам знакомым...",
+        "th": "ใบปลิวที่ได้มาจากชมรมแฟนคลับของคุณ Hina ภาพบนนั้นดูคุ้นตามากเลย...",
+        "vi": "Truyền đơn nhận được từ câu lạc bộ người hâm mộ tiểu thư Hina, hình ảnh trên đó hình như hơi quen quen..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

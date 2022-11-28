@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tales From the Waves: Rising Tide",
+        "de": "Mit den Wellen – Aufkommende Flut",
+        "chs": "浮浪记·潮起",
+        "cht": "浮浪記·潮起",
+        "es": "La leyenda de los mares: Marea alta",
+        "fr": "Journal du vagabond - Vents de marée",
+        "id": "Cerita dari Ombak: Air Pasang",
+        "jp": "浮浪記·上り潮",
+        "kr": "방랑기·만조",
+        "pt": "Diário das Ondas: Maré Alta",
+        "ru": "Записи бродяги. Прилив",
+        "th": "บันทึกแห่งเกลียวคลื่น: น้ำขึ้น",
+        "vi": "Nhật Ký Sóng Vỗ - Thủy Triều Lên"
+    },
+    "id": 100565,
+    "materialDesc": {
+        "en": "The legendary tale of an anonymous seafarer set in a time when Liyue was plagued by sea monsters.",
+        "de": "Die sagenhafte Geschichte eines unbekannten Seefahrers aus der Zeit, als Liyue von Seeungeheuern heimgesucht wurde.",
+        "chs": "璃月被海兽侵扰的时代，无名船师的传奇故事。",
+        "cht": "璃月被海獸侵擾的時代，無名船師的傳奇故事。",
+        "es": "El legendario cuento de un marinero anónimo ambientado en una época en la que Liyue estaba plagado de monstruos marinos.",
+        "fr": "La légende d'un marin anonyme remontant à une ère où les mers de Liyue étaient infestées de monstres marins.",
+        "id": "Kisah legenda yang menceritakan tentang seorang pelaut di masa lalu saat daerah Liyue masih berada dalam ancaman monster laut.",
+        "jp": "海獣に困っていた時代に、璃月のある無名の船頭の伝説を書いた本。",
+        "kr": "리월이 바다 괴수의 침입을 받던 시대에 이름 모를 선장의 전설",
+        "pt": "A lendária história de um marinheiro anônimo, ambientada em uma época em que Liyue era assolada por monstros marinhos.",
+        "ru": "Удивительные истории о безымянном Капитане тех времён, когда у берегов Ли Юэ свирепствовали морские чудовища.",
+        "th": "ตำนานของกัปตันนิรนามในยุคที่อสูรทะเลรุกราน Liyue",
+        "vi": "Câu chuyện huyền thoại về một thuyền sư vô danh trong thời đại Liyue bị hải thú quấy nhiễu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

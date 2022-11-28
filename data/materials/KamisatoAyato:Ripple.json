@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kamisato Ayato: Ripple",
+        "de": "Kamisato Ayato – Wellen",
+        "chs": "神里绫人·涟漪",
+        "cht": "神里綾人·漣漪",
+        "es": "Kamisato Ayato - Ondulaciones",
+        "fr": "Kamisato Ayato - Ondulation",
+        "id": "Kamisato Ayato: Ripple",
+        "jp": "神里綾人·細波",
+        "kr": "카미사토 아야토·잔물결",
+        "pt": "Kamisato Ayato: Ondas",
+        "ru": "Лёгкая зыбь",
+        "th": "Kamisato Ayato - คลื่นเหนือน้ำ",
+        "vi": "Kamisato Ayato - Gợn Sóng"
+    },
+    "id": 210114,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe camellia alights upon the mirrored pond, sending ripples throughout the water.",
+        "de": "Ein Motiv für Namenskärtchen.\\nKamelien spiegeln sich in dem fließen Wasser, während die Wellen die Blütenblätter sanft in die Ferne tragen.",
+        "chs": "名片纹饰。\\n椿花浮镜，澄水泛波。",
+        "cht": "名片紋飾。\\n椿花浮鏡，澄水泛波。",
+        "es": "Diseño de tarjeta de presentación.\\nCuando la camelia flota en un estanque, crea ondulaciones en el agua cristalina.",
+        "fr": "Thème.\\nSur la surface de l'étang le camélia se pose, et mille ondulations à travers les eaux se composent",
+        "id": "Style kartu nama.\\nBunga kamelia hinggap di atas permukaan kolam cermin, membuat riak menyebar ke segala penjuru kolam.",
+        "jp": "名刺の飾り紋。\\n鏡面は椿の花を映し、清流が波を寄せては返す。",
+        "kr": "명함 스킨.\\n거울 같은 연못 위에 동백꽃이 비치고, 맑은 물이 물결친다",
+        "pt": "Estilo de Cartão de Visita.\\nA camélia flutua criando ondulações na água.",
+        "ru": "Именная карта.\\nЛёгкой зыбью откликнулся пруд, когда на зеркальную гладь опустилась камелия.",
+        "th": "ลายนามบัตร\\nสึบากิส่องสะท้อนในสระ ระลอกคลื่นกระเพื่อมน้ำใส",
+        "vi": "Hoa văn danh thiếp.\\nSơn trà phản chiếu trong dòng nước, sóng nhẹ dập dìu những cánh hoa."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

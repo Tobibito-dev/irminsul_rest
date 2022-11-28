@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventurer's Experience",
+        "de": "Eines Abenteurers Worte",
+        "chs": "冒险家的经验",
+        "cht": "冒險家的經驗",
+        "es": "Experiencia del aventurero",
+        "fr": "Conseils de l'aventurier",
+        "id": "Adventurer's Experience",
+        "jp": "冒険家の経験",
+        "kr": "모험가의 경험",
+        "pt": "EXP do Aventureiro",
+        "ru": "Опыт искателя приключений",
+        "th": "Adventurer's Experience",
+        "vi": "EXP Nhà Mạo Hiểm"
+    },
+    "id": 104002,
+    "materialDesc": {
+        "en": "Character EXP material. Gives 5000 EXP.\\nThese experiences are very beneficial for journeys into the unknown.",
+        "de": "Material für Figuren-EP, enthält 5.000 EP.\\nBetritt man Gegenden, die noch nie ein Mensch zuvor gesehen hat, kann man diese Erfahrung sehr gut gebrauchen.",
+        "chs": "角色经验素材，含有5000点经验值。\\n如果踏上了前人未至的秘境，这些经验还是很重要的。",
+        "cht": "角色經驗素材，含有5000點經驗值。\\n如果踏上了前人未至的秘境，這些經驗還是很重要的。",
+        "es": "Material de EXP de personaje. Otorga 5000 pts. de EXP.\\nMuy útil para aventurarse en lugares desconocidos.",
+        "fr": "Matériau d'EXP de personnage. Confère 5 000 pts d'EXP.\\nCes conseils sont indispensables si vous vous aventurez dans des contrées inconnues.",
+        "id": "Material EXP karakter. Memberikan 5.000 EXP.\\nPengalaman-pengalaman ini sangat berguna untuk menempuh perjalanan yang tanpa kepastian di masa depan.",
+        "jp": "キャラクターのLvUP用アイテム、使用すると経験値5000を獲得できる。\\n秘境に足を踏み入れるために大事なもの。",
+        "kr": "캐릭터 경험치 소재. 경험치를 5000pt 획득할 수 있다.\\n미지의 비경에 발을 들인다면 이 경험은 아주 중요하다",
+        "pt": "Material de EXP de Personagem. Concede 5000 de EXP.\\nEsta experiência é muito benéfica durante jornadas nas Profundezas Misteriosas.",
+        "ru": "5000 очков опыта персонажа.\\nЭтот опыт пригодится тем, кто собирается исследовать неизвестное.",
+        "th": "วัสดุประสบการณ์ตัวละคร ประกอบไปด้วยประสบการณ์ 5000 หน่วย\\nหากก้าวเดินเข้าไปในดันเจี้ยน ที่ไม่มีใครเคยได้เข้าไป ประสบการณ์เหล่านี้จะเป็นสิ่งจำเป็น เป็นอย่างมาก",
+        "vi": "Nguyên liệu EXP nhân vật, có 5000 điểm EXP.\\nNếu đi vào những nơi bí ẩn chưa từng biết đến, những EXP này sẽ rất quan trọng."
+    },
+    "materialType": "MATERIAL_EXP_FRUIT"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lantern Rite Gift",
+        "de": "Geschenk zum Laternenritual",
+        "chs": "海灯节礼品",
+        "cht": "海燈節禮品",
+        "es": "Obsequio del Rito de la Linterna",
+        "fr": "Cadeau du Festival des lanternes",
+        "id": "Hadiah Lantern Rite",
+        "jp": "海灯祭のお土産",
+        "kr": "해등절 선물",
+        "pt": "Presente do Ritual de Lanternas",
+        "ru": "Подарок на Праздник морских фонарей",
+        "th": "ของขวัญเทศกาล Lantern Rite",
+        "vi": "Lễ phẩm Tết Hải Đăng"
+    },
+    "id": 100747,
+    "materialDesc": {
+        "en": "Lantern Rite Gifts from Wang'ya. Best to pass them on to the Millelith as soon as possible...",
+        "de": "Geschenk zum Laternenritual von Wangya. Du solltest es schnell zu den Millelithen bringen.",
+        "chs": "从望雅那里拿到的海灯节礼品。还是赶紧送去给千岩军吧…",
+        "cht": "從望雅那裡拿到的海燈節禮品。還是趕緊送去給千岩軍吧…",
+        "es": "Un obsequio del Rito de la Linterna que te dio Wangya. Será mejor que te apresures a dárselo a la Geoarmada...",
+        "fr": "Cadeau du Festival des lanternes que Wangya vous a confié. Vous feriez mieux de le remettre au soldat des Millelithes auquel il revient aussi vite que possible.",
+        "id": "Hadiah Lantern Rite yang diberikan oleh Wang'ya. Sebaiknya segera kita berikan kepada prajurit Millelith...",
+        "jp": "望雅から貰った海灯祭のお土産。早く千岩軍へ届けよう…",
+        "kr": "망아한테 받은 해등절 선물. 빨리 천암군에게 갖다주는 게 좋을 듯하다…",
+        "pt": "Presentes do Ritual de Lanternas de Wang'ya. É melhor entregá-los aos Millelith o mais rápido possível...",
+        "ru": "Подарки на Праздник морских фонарей от Ван Я. Лучше поскорее передать их Миллелиту...",
+        "th": "ของขวัญเทศกาล Lantern Rite ที่ได้มาจาก Wang'ya รีบเอาไปส่งให้กองทหาร Millelith เถอะ...",
+        "vi": "Quà Tết Hải Đăng lấy từ chỗ của Wang'ya, nhanh chân mang đến chỗ Thiên Nham Quân thôi ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fine Enhancement Ore",
+        "de": "Hochwertiges Verstärkungserz",
+        "chs": "精锻用良矿",
+        "cht": "精鍛用良礦",
+        "es": "Mineral de refinamiento fino",
+        "fr": "Minerai de renforcement raffiné",
+        "id": "Fine Enhancement Ore",
+        "jp": "仕上げ用良鉱",
+        "kr": "정제용 광물",
+        "pt": "Minério de Refinamento Fino",
+        "ru": "Превосходная руда усиления",
+        "th": "Fine Enhancement Ore",
+        "vi": "Lương Khoáng Tinh Đúc"
+    },
+    "id": 104012,
+    "materialDesc": {
+        "en": "Weapon EXP material. Gives 2,000 EXP.\\nFor reasons unknown, this special and refined ore can be absorbed by weapons to greatly increase their strengths.",
+        "de": "Material für Waffen-EP, enthält 2.000 EP.\\nAufgrund der physischen Eigenheiten dieses Stoffes können Waffen damit besonders gut verstärkt werden.",
+        "chs": "武器经验素材，含有2000点经验值。\\n出于某种原理，武器可以吸收这种特殊的精矿，来变得更强大。",
+        "cht": "武器經驗素材，含有2000點經驗值。\\n出於某種原理，武器可以吸收這種特殊的精礦，來變得更強大。",
+        "es": "Material de EXP de arma. Otorga 2000 pts. de EXP.\\nDe alguna forma, las armas pueden absorber este mineral especial para ser más poderosas.",
+        "fr": "Matériau d'EXP d'arme. Confère 2 000 pts d'EXP.\\nPour une raison inconnue, les armes peuvent absorber ce minéral raffiné spécial pour devenir plus puissantes.",
+        "id": "Material EXP Senjata. Memberikan 2.000 EXP.\\nTanpa alasan yang dapat dipahami, bijih khusus dan halus ini dapat diserap oleh senjata, dan dalam sekejap meningkatkan kekuatan mereka.",
+        "jp": "武器のLvUP用アイテム、使用すると経験値2000を獲得できる。\\n特殊な精錬鉱石の塊。これを吸い込むことにより、武器がさらに強くなる。",
+        "kr": "무기 경험치 소재. 경험치를 2000pt 획득할 수 있다.\\n이 특수한 광물을 흡수한 무기는 어떠한 원리로 더욱 강력해진다",
+        "pt": "Material de EXP de Arma. Concede 2000 de EXP.\\nPor razões desconhecidas, este minério especial e refinido pode ser absorvido pelas armas para aumentar grandemente seus poderes.",
+        "ru": "2000 очков опыта оружия.\\nНеизвестно как, но эта руда способна сделать ваше оружие гораздо сильнее.",
+        "th": "วัสดุประสบการณ์อาวุธ ประกอบไปด้วยประสบการณ์ 2000 หน่วย\\nด้วยเหตุผลบางอย่าง ทำให้อาวุธ สามารถดูดซับแร่พิเศษนี้ได้ ซึ่งเป็นการเพิ่มความแข็งแกร่งยิ่งขึ้น",
+        "vi": "Nguyên liệu EXP vũ khí, có chứa 2000 điểm EXP.\\nXuất phát từ một nguyên lý nào đó, vũ khí có thể hấp thụ được loại tinh khoáng đặc thù này để nâng cao sức mạnh."
+    },
+    "materialType": "MATERIAL_WEAPON_EXP_STONE"
+}

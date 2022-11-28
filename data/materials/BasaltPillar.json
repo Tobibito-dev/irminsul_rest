@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Basalt Pillar",
+        "de": "Steinturm",
+        "chs": "玄岩之塔",
+        "cht": "玄岩之塔",
+        "es": "Pilar de basalto",
+        "fr": "Pilier de basalte",
+        "id": "Basalt Pillar",
+        "jp": "玄岩の塔",
+        "kr": "현암의 탑",
+        "pt": "Torre da Terra",
+        "ru": "Базальтовая колонна",
+        "th": "Basalt Pillar",
+        "vi": "Tháp Huyền Nham"
+    },
+    "id": 113009,
+    "materialDesc": {
+        "en": "A pillar formed by the shell of a Geo Hypostasis, composed of high-density Geo energy.\\nIt is a testament to Geo's status as the heaviest of the elements. Maybe the reason a Geo Hypostasis creates this pillar out of its shell and raises itself is just to get closer to the sky, not to combat enemies.",
+        "de": "Eine Steinsäule aus der Schale einer Geo-Hypostase. Sie besteht aus stark konzentrierter Geo-Kraft.\\nDie Geo-Kraft bildet die schwersten Objekte überhaupt. Geo-Hypostasen erschaffen diese Steinsäule, um weiter nach oben zu gelangen. Möglicherweise ist das nicht allein auf Gegner gerichtet, sondern dient auch dazu, dem unerreichbaren Himmel ein Stück näher zu sein.",
+        "chs": "无相之岩的外壳构成的石柱。由纯粹的岩元素高度浓缩而成。\\n岩元素是最为沉重的元素。无相之岩将外壳筑成高耸的岩柱，将自己抬升至高处，或许不仅是为了应敌。或许也是为了更加接近与它无缘的天空吧。",
+        "cht": "無相之岩的外殼構成的石柱。由純粹的岩元素高度濃縮而成。\\n岩元素是最為沉重的元素。無相之岩將外殼築成高聳的岩柱，將自己抬升至高處，或許不僅是為了應敵。或許也是為了更加接近與它無緣的天空吧。",
+        "es": "Pilares que forman la coraza del Hipostasis Geo, creadas a partir de altas concentraciones de elemento Geo.\\nEl elemento Geo es considerado el más pesado de todos. El Hipostasis Geo construye su coraza con estelas altísimas y se eleva encima de ellas, quizás no solo para enfrentarse al enemigo, sino también para estar más cerca del cielo.",
+        "fr": "Un pilier formé avec une carapace d'Hypostase Géo et que de l'énergie Géo intense parcourt.\\nCe monument est une preuve que l'élément Géo est le plus lourd d'entre tous. L'Hypostase Géo voulait peut-être se rapprocher du ciel plutôt que de combattre ses ennemis...",
+        "id": "Sebuah pilar batu yang dibentuk dari kubus pelindung Geo Hypostasis. Memiliki konsentrasi energi Geo yang padat.\\nElemen Geo adalah elemen dengan massa paling berat. Mungkin alasan Geo Hypostasis membuat pilar baru dari kubus yang melindunginya adalah untuk menjadi lebih dekat dengan langit, bukan untuk melawan musuh.",
+        "jp": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
+        "kr": "외관이 돌기둥으로 구성된 무상의 바위. 순수한 바위 원소가 고농도로 압축되어 있다.\\n바위 원소는 가장 무거운 원소이다. 무상의 바위는 껍데기로 우뚝 솟은 돌기둥을 쌓았다. 자신을 높은 곳으로 올린 이유는 적을 상대하기 위해서만이 아닌 자신과는 인연이 없는 하늘과 더 가까워지기 위해서 일지도 모른다",
+        "pt": "Um pilar formado pela casca de uma Hypostasis Geo. Composto de energia Geo de alta densidade.\\nÉ uma prova do status do Geo como o mais pesado dos elementos. Talvez a razão pela qual uma Hypostasis Geo cria esse pilar a partir de sua casca e se eleva é apenas para se aproximar do céu, não para combater os inimigos.",
+        "ru": "Колонна, образованная из оболочки Гео гипостазиса и содержащая в себе концентрированную энергию Гео.\\nЭто самый тяжёлый компонент элемента Гео. После смерти Гео гипостазис создаёт эту колонну из своей оболочки вовсе не для боя, а всего лишь для того, чтобы стать ближе к небесам.",
+        "th": "เสาหินที่มีโครงสร้างมาจากเปลือกนอกของ Geo Hypostasis ซึ่งเกิดจากการควบแน่นของธาตุหินที่มีความบริสุทธิ์สูงมาก\\nธาตุหินนั้นเป็นธาตุที่มีความหนักมากที่สุด โดย Geo Hypostasis จะทำให้เปลือกนอกกลายเป็นเสาหินสูงเพื่อยกตัวเองขึ้นไปยังที่สูง ๆ บางทีอาจจะไม่ได้ทำเพื่อต่อสู้กับศัตรูเท่านั้น แต่อาจจะทำเพื่อให้ตัวเองเข้าใกล้ท้องฟ้าที่มันไม่เคยเอื้อมถึงได้บ้างก็เป็นได้",
+        "vi": "Sau khi đánh bại Nham Nguyên Bản hình thành cột đá với thể tích cô đặc. Chứa sức mạnh thuần khiết nhất của Nguyên Tố Nham.\\nNguyên tố Nham là nguyên tố nặng nhất. Vỏ ngoài của Nham Nguyên Bản tạo thành cột đá Nham cao vút, đưa bản thân lên phía cao, có lẽ không chỉ là để ứng phó với kẻ địch, mà còn giúp nó đến gần hơn với trời cao, nơi vốn không dành cho Nham Nguyên Bản."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

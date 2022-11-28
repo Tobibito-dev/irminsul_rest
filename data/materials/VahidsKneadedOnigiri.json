@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vahid's Kneaded Onigiri",
+        "de": "Vahids geknetete Onigiri",
+        "chs": "瓦希德捏制的饭团",
+        "cht": "瓦希德捏製的飯糰",
+        "es": "Onigiri especial de Vahid",
+        "fr": "Onigiris de Vahid",
+        "id": "Onigiri Buatan Vahid",
+        "jp": "ワヒッドの手作りおにぎり",
+        "kr": "바히드가 만든 주먹밥",
+        "pt": "Onigiri Especial de Vahid",
+        "ru": "Онигири Вахида",
+        "th": "Onigiri ที่ปั้นโดย Vahid",
+        "vi": "Cơm Nắm Vahid"
+    },
+    "id": 100892,
+    "materialDesc": {
+        "en": "Onigiri made from rice cultivated personally by Vahid. It tastes as good as it looks.",
+        "de": "Reisbällchen, die aus persönlich von Vahid angebautem Reis hergestellt wurden. Sie schmecken so gut, wie sie aussehen.",
+        "chs": "以瓦希德亲手培育出的稻米为材料，捏制出的饭团。卖相上佳，味道也不错。",
+        "cht": "以瓦希德親手培育的稻米為材料捏製的飯糰。賣相亮眼，味道也不錯。",
+        "es": "Un onigiri hecho por Vahid a partir de los granos de arroz cultivados por él mismo. Delicioso y con un aspecto excelente.",
+        "fr": "Des onigiris fabriqués à partir du riz cultivé par Vahid. Leur saveur est à la hauteur de leur apparence.",
+        "id": "Onigiri yang dibuat dari beras hasil bertani Vahid. Rasanya tidak kalah enak dengan tampilannya.",
+        "jp": "ワヒッド自ら栽培した米を使った手作りおにぎり。見た目も味も悪くない。",
+        "kr": "바히드가 직접 재배한 쌀을 재료로 뭉친 주먹밥. 모양새도 그럴듯하고 맛도 꽤 괜찮다",
+        "pt": "Onigiri que foi feito com arroz cultivado pessoalmente por Vahid. Tem um gosto tão bom quanto sua aparência.",
+        "ru": "Онигири из риса, который культивировал лично Вахид. Их вкус нисколько не уступает их красоте.",
+        "th": "Onigiri ที่ทำจากเมล็ดข้าวที่ปลูกโดย Vahid เอง หน้าตาดูดีและมีรสชาติที่ไม่เลว",
+        "vi": "Cơm nắm làm từ nguyên liệu do chính tay Vahid làm ra, mùi vị khá ngon."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

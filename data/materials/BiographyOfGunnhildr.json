@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Biography of Gunnhildr",
+        "de": "Gunnhildrs Kurzbiografie",
+        "chs": "古恩希尔德小传",
+        "cht": "古恩希爾德小傳",
+        "es": "Genealogía de los Gunnhildr",
+        "fr": "Biographie de Gunnhildr",
+        "id": "Biografi Gunnhildr",
+        "jp": "グンヒルドの逸話",
+        "kr": "군힐드 전기",
+        "pt": "Biografia de Gunnhildr",
+        "ru": "Биография клана Гуннхильдр",
+        "th": "ชีวประวัติของ Gunnhildr",
+        "vi": "Mẩu Chuyện Nhỏ Về Gunnhildr"
+    },
+    "id": 100410,
+    "materialDesc": {
+        "en": "A history book on the life of the apical ancestor of the Gunnhildr Clan compiled by Eckhart Gunnhildr, a modern historian of Mondstadt. It consists of fragmented stories and legends from the aristocratic period.",
+        "de": "Ein historisches Werk, das aus den Fetzen von Legenden aus der Zeit der Aristokratie besteht, ausgewählt von Eckhart Gunnhildr, einem modernen Historiker Mondstadts. Darin wird die Geschichte der Stammmutter des Klans erläutert.",
+        "chs": "近代蒙德史家埃克哈特·古恩希尔德筛选贵族时代的破碎传说，编写而成的历史著作，讲述了家族先祖古恩希尔德的故事。",
+        "cht": "近代蒙德史家艾克哈特·古恩希爾德篩選貴族時代的破碎傳說，編寫而成的歷史著作，講述了家族先祖古恩希爾德的故事。",
+        "es": "El historiador moderno Eckhart Gunnhildr examina las leyendas fragmentadas de la nobleza y escribió un trabajo histórico que cuenta la historia de los antepasados de la familia Gunnhildr.",
+        "fr": "L'historien mondstadtois Eckhart Gunnhildr dresse la biographie complète de son ancêtre à travers les légendes de l'époque aristocratique de Mondstadt.",
+        "id": "Sebuah buku sejarah tentang leluhur Klan Gunnhildr yang dikompilasi oleh Eckhart Gunnhildr, ahli sejarah modern Mondstadt. Isinya terdiri dari kisah-kisah dan legenda periode aristokratis.",
+        "jp": "モンド近代歴史家エックハルト·グンヒルドが貴族時代の伝説を集め、編纂した歴史著作、一族の祖先であるグンヒルドの物語が記されている。",
+        "kr": "근대 몬드 역사가 에크하르트·군힐드가 귀족 시대의 자잘한 전설을 선별해 저술한 역사 저서로, 가문의 선조인 군힐드의 이야기가 담겨있다",
+        "pt": "Um livro de história sobre a vida do ancestral apical do Clã Gunnhildr compilado por Eckhart Gunnhildr, um historiador moderno de Mondstadt. Consiste em histórias e lendas fragmentadas do período aristocrático.",
+        "ru": "Историческая книга, посвящённая родоначальнику клана Гуннхильдр. Автор - современный мондштадтский историк Экхарт Гуннхильдра. Том состоит из разрозненных легенд и баек периода, когда правили аристократы.",
+        "th": "นักวิชาการประวัติศาสตร์ร่วมสมัย Eckhart Gunnhildr ได้ทำการคัดกรองตำนานที่แตกสลายของยุคขุนนางและเขียนผลงานทางประวัติศาสตร์ที่บอกเล่าเรื่องราวของบรรพบุรุษตระกูล Gunnhildr",
+        "vi": "Nhà sử học cận đại Eckhart Gunnhildr đã sàng lọc những truyền thuyết không liền mạch của thời đại quý tộc và viết thành một tác phẩm lịch sử kể về gia tộc tiên tổ Gunnhildr."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Affluence Talisman",
+        "de": "Wohlstandstalisman",
+        "chs": "逢福玉符",
+        "cht": "逢福玉符",
+        "es": "Talismán de la fortuna",
+        "fr": "Talisman d'aisance",
+        "id": "Affluence Talisman",
+        "jp": "逢福玉佩",
+        "kr": "봉복의 옥 장신구",
+        "pt": "Talismã da Afluência",
+        "ru": "Талисман удачи",
+        "th": "Affluence Talisman",
+        "vi": "Bùa Chúc Phúc"
+    },
+    "id": 137,
+    "materialDesc": {
+        "en": "A wondrous talisman said to be able to connect people to \"fortune.\" In Liyue Harbor, many children are asked by their parents to carry this sort of talisman with them all the time.",
+        "de": "Ein wundersamer Talisman, von dem gesagt wird, dass er Menschen mit „Glück“ verbinden kann. In Liyue werden viele Kinder von ihren Eltern gebeten, diesen Talisman immer bei sich zu tragen.",
+        "chs": "据说可以让人与「福气」相逢的神奇玉符。在璃月港里，许多人小时候都会被家长要求时刻佩戴着这种玉符。",
+        "cht": "據說可以讓人與「福氣」相逢的神奇玉符。在璃月港裡，許多人小時候都會被家長要求時刻佩戴著這種玉符。",
+        "es": "Un talismán que, se dice, puede traer buena suerte a quien lo porte. En Liyue, muchos padres les piden a sus hijos que lleven puestos estos talismanes.",
+        "fr": "Un merveilleux talisman qu'on dit capable de connecter les gens à la « fortune ». Dans le Port de Liyue, de nombreux enfants sont invités par leurs parents à porter ce genre de talisman avec eux en permanence.",
+        "id": "Jimat menakjubkan yang dikatakan mampu menghubungkan orang dengan \"keberuntungan\". Di Pelabuhan Liyue, banyak orang tua yang meminta anaknya untuk terus mengenakan jimat semacam ini.",
+        "jp": "「幸福」にめぐり合えると言われる不思議な玉佩。璃月港にいる人々は子供の頃、常に身につけているように両親から言われる。",
+        "kr": "사람들이 「복」을 만날 수 있게 해준다고 전해지는 신비한 옥빛 부적. 리월항의 많은 사람들은 어린 시절부터 부모님이 이 옥빛 부적을 항상 몸에 지니게 했다고 한다",
+        "pt": "Um talismã que dizem trazer boa sorte. Muitos pais pedem que seus filhos carreguem esses talismãs com eles o tempo inteiro no Porto de Liyue.",
+        "ru": "Говорят, этот магический талисман приносит удачу. В Ли Юэ родители заставляли многих носить такие талисманы в детстве.",
+        "th": "ว่ากันว่าเป็นเครื่องรางหยกมหัศจรรย์ที่ทำให้ผู้คนได้พบกับ \"ความโชคดี\" ที่ท่าเรือ Liyue ผู้ใหญ่มักจะให้เด็ก ๆ พกเครื่องรางหยกเหล่านี้ติดตัว",
+        "vi": "Tương truyền đây là bùa ngọc mang phúc khí đến cho con người. Nhiều đứa trẻ ở Cảng Liyue thường hay bị phụ huynh bắt mang theo loại bùa này."
+    },
+    "materialType": false
+}

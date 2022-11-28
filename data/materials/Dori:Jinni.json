@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dori: Jinni",
+        "de": "Dori – Flaschengeist",
+        "chs": "多莉·魔灯",
+        "cht": "多莉·魔燈",
+        "es": "Dori - Lámpara mágica",
+        "fr": "Dori - Lampe magique",
+        "id": "Dori: Jinni",
+        "jp": "ドリー·魔法のランプ",
+        "kr": "도리·요술 램프",
+        "pt": "Dori: Gênio",
+        "ru": "Джинн",
+        "th": "Dori - ตะเกียงวิเศษ",
+        "vi": "Dori - Đèn Thần"
+    },
+    "id": 210126,
+    "materialDesc": {
+        "en": "Namecard style.\\nIf you wipe the lamp she gave you and then scrub the Mora you gave her, no wish is unattainable... right?",
+        "de": "Ein Motiv für Namenskärtchen.\\nWenn du ein wenig an der Wunderlampe reibst, die sie dir gibt und dann noch ein wenig an den Mora, die du ihr gibst, dann sollte kein Traum unerreichbar sein ... oder etwa nicht?",
+        "chs": "名片纹饰。\\n擦一擦递给你的魔灯，再擦一擦递给她的摩拉，无论是什么样的愿望都能实现…大概吧？",
+        "cht": "#名片紋飾。\\n擦一擦遞給{F#妳}{M#你}的魔燈，再擦一擦遞給她的摩拉，無論是什麼樣的願望都能實現…大概吧？",
+        "es": "Diseño de tarjeta de presentación.\\nSi frotas la lámpara mágica que te dio y luego frotas el Mora que le das por comprarla, cualquier deseo que tengas se cumplirá (más o menos).",
+        "fr": "Thème.\\nSi vous frottez la lampe qu'elle vous a offerte et les moras que vous lui donnez, tous vos vœux se réaliseront... Pas vrai ?",
+        "id": "Style Kartu Nama.\\nUsap-usap lampu ajaib yang diberikan kepadamu, lalu usap-usap Mora yang diberikan kepadanya. Apa pun harapannya pasti bisa terwujud ... kan?",
+        "jp": "名刺の飾り紋。\\n渡された魔法のランプをこすって、渡す予定のモラをこすったら、どんな願いでも叶う…かな？",
+        "kr": "명함 스킨.\\n요술 램프와 내게 줄 모라를 닦아주면 모든 소원이 이루어질 거야… 아마도?",
+        "pt": "Estilo de Cartão de Visita.\\nSe você limpar a lâmpada que ela te deu e então esfregar a Mora que ela te deu, qualquer desejo será cumprido... certo?",
+        "ru": "Именная карта.\\nПросто потрите подаренную вам лампу... Потом потрите мору и отдайте ей. И любое ваше желание исполнится! Так ведь?",
+        "th": "ลายนามบัตร\\nแค่ถูไถตะเกียงที่เธอมอบให้คุณ ตามด้วยการถูไถ Mora ที่คุณมอบให้เธอ ไม่ว่าจะเป็นความปรารถนาแบบไหนก็คงสมหวังได้... ละมั้ง?",
+        "vi": "Hoa văn danh thiếp.\\nChà chà chiếc đèn đưa cho bạn, rồi lại chà chà Mora đưa cho cô ấy, bất luận là nguyện vọng gì cũng sẽ thực hiện được... đại loại thế?"
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

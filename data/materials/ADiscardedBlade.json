@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Discarded Blade",
+        "de": "Weggeworfene Klinge",
+        "chs": "一把被废弃的刀",
+        "cht": "一把廢棄的刀",
+        "es": "Espada abandonada",
+        "fr": "Lame abandonnée",
+        "id": "Pisau yang Dibuang",
+        "jp": "捨てられた一本の刀",
+        "kr": "버려진 검",
+        "pt": "Espada Abandonada",
+        "ru": "Выброшенный меч",
+        "th": "ดาบที่ถูกทิ้งไว้",
+        "vi": "Thanh Đao Bị Vứt Bỏ"
+    },
+    "id": 100855,
+    "materialDesc": {
+        "en": "An old blade that has lost its luster due to a long-term lack of maintenance.",
+        "de": "Eine alte Klinge, die aufgrund von langfristig mangelnder Pflege ihren Glanz verloren hat.",
+        "chs": "一把旧刀，因为长期无人保养，刀身的光泽已经暗淡了。",
+        "cht": "一把舊刀，因為長期無人保養，刀身的光澤已經暗淡了。",
+        "es": "Una vieja espada. Puesto que lleva mucho tiempo sin usarse, su lustre ya se encuentra desgastado.",
+        "fr": "Une vieille lame qui a perdu son éclat à cause d'un manque d'entretien prolongé.",
+        "id": "Pisau tua yang mata pisaunya sudah usang karena tidak terawat.",
+        "jp": "長い間手入れを怠ったため、輝きを失った古い刀。",
+        "kr": "낡고 오래된 검. 오랫동안 관리를 하지 않아 검신의 광택이 흐려진 상태다",
+        "pt": "Uma velha espada que por não ter sido cuidada por muito tempo, acabou perdendo seu brilho.",
+        "ru": "Старый меч, за годы без ухода утративший блеск.",
+        "th": "ดาบเก่าเล่มหนึ่ง เพราะไม่ได้รับการดูแลเป็นเวลานาน ความเงาวาวบนตัวดาบจึงหม่นหมองไป",
+        "vi": "Một thanh đao cũ, vì đã lâu không được ai bảo dưỡng nên ánh sáng của thân đao đã xỉn màu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

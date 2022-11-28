@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Seal Clue 201",
+        "de": "Siegelspur 201",
+        "chs": "封印线索201",
+        "cht": "封印線索201",
+        "es": "Pista del sello 201",
+        "fr": "Indice sur le sceau 201",
+        "id": "Petunjuk Segel 201",
+        "jp": "封印の手がかり201",
+        "kr": "봉인의 단서 201",
+        "pt": "Pista do Selo 201",
+        "ru": "Улика печати 201",
+        "th": "Seal Clue 201",
+        "vi": "Manh Mối Phong Ấn 201"
+    },
+    "id": 100139,
+    "materialDesc": {
+        "en": "Seal Clue",
+        "de": "Siegelspur",
+        "chs": "封印线索",
+        "cht": "封印線索。",
+        "es": "Pista del sello",
+        "fr": "Indice sur le sceau",
+        "id": "Petunjuk Segel",
+        "jp": "封印の手がかり",
+        "kr": "봉인의 단서",
+        "pt": "Pista do Selo",
+        "ru": "Улика Печати",
+        "th": "Seal Clue",
+        "vi": "Manh Mối Phong Ấn"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

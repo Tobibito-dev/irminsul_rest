@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Orders",
+        "de": "Befehlschrift",
+        "chs": "命令书",
+        "cht": "命令書",
+        "es": "Comunicado con órdenes",
+        "fr": "Ordre officiel",
+        "id": "Surat Perintah",
+        "jp": "命令書",
+        "kr": "명령서",
+        "pt": "Livro de Ordens",
+        "ru": "Письменный приказ",
+        "th": "หนังสือสั่งการ",
+        "vi": "Sách Mệnh Lệnh"
+    },
+    "id": 100667,
+    "materialDesc": {
+        "en": "Orders written by Huffman. It's sealed up very tight. Best not to open it yourself...",
+        "de": "Die von Huffman verfasste Befehlschrift. Sie ist fest verschlossen und sollte lieber nicht von Unbefugten geöffnet werden.",
+        "chs": "霍夫曼先生写的命令书，封得紧紧的。最好还是别自己打开看了…",
+        "cht": "霍夫曼先生寫的命令書，封得緊緊的。最好還是別自己打開看了…",
+        "es": "Las órdenes por escrito del señor Huffman. El sobre está muy bien cerrado, será mejor que no lo abras.",
+        "fr": "Un ordre rédigé par Hoffman. Il est fermement scellé. Mieux vaut ne pas l'ouvrir vous-même...",
+        "id": "Surat perintah yang ditulis oleh Huffman, disegel dengan sangat ketat. Sebaiknya jangan membukanya sendiri...",
+        "jp": "ホフマンの命令書。固く封されている。勝手に開けない方がいいだろう…",
+        "kr": "호프만 씨가 쓴 명령서, 단단히 밀봉되어 있다. 열어보지 않는 게 좋을 것 같다…",
+        "pt": "Ordens escritas por Huffman. Está selado bem apertado. É melhor não abri-la por você mesmo...",
+        "ru": "Приказ, написанный господином Хоффманом. Конверт запечатан очень плотно, и лучше его не вскрывать...",
+        "th": "หนังสือสั่งการที่เขียนโดยคุณ Huffman ถูกปิดผนึกเอาไว้แน่นสนิท อย่าเปิดดูเองจะดีกว่า...",
+        "vi": "Sắc lệnh do ngài Huffman viết được niêm phong rất chặt. Tốt nhất đừng mở ra xem..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

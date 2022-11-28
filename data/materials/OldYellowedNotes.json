@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Old Yellowed Notes",
+        "de": "Vergilbte Alte Aufzeichnungen",
+        "chs": "老旧发黄的笔记",
+        "cht": "老舊發黃的筆記",
+        "es": "Nota amarillenta",
+        "fr": "Note jaunie par le temps",
+        "id": "Catatan Lama yang Menguning",
+        "jp": "黄ばんだ古いノート",
+        "kr": "노랗게 변색된 메모",
+        "pt": "Notas Amareladas",
+        "ru": "Старые пожелтевшие записи",
+        "th": "บันทึกที่เก่าจนเป็นสีเหลือง",
+        "vi": "Ghi Chép Lâu Ngày"
+    },
+    "id": 101899,
+    "materialDesc": {
+        "en": "Old Yellowed Notes",
+        "de": "Vergilbte Alte Aufzeichnungen",
+        "chs": "老旧发黄的笔记",
+        "cht": "老舊發黃的筆記",
+        "es": "Una nota amarillenta.",
+        "fr": "Note jaunie par le temps",
+        "id": "Catatan Lama yang Menguning",
+        "jp": "黄ばんだ古いノート",
+        "kr": "노랗게 변색된 메모",
+        "pt": "Notas Amareladas",
+        "ru": "Старые пожелтевшие записи",
+        "th": "บันทึกที่เก่าจนเป็นสีเหลือง",
+        "vi": "Ghi Chép Lâu Ngày"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

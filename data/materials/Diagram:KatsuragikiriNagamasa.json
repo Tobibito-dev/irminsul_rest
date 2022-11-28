@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: Katsuragikiri Nagamasa",
+        "de": "Bauplan: Katsuragikiri Nagamasa",
+        "chs": "图谱：桂木斩长正",
+        "cht": "圖譜：桂木斬長正",
+        "es": "Plano: Asesinato de Katsuragi",
+        "fr": "Plan : Espadon de Nagamasa",
+        "id": "Diagram: Katsuragikiri Nagamasa",
+        "jp": "図譜：桂木斬長正",
+        "kr": "도감: 카츠라기를 벤 나가마사",
+        "pt": "Diagrama: Espada Grande de Katsuragi",
+        "ru": "Диаграмма: Кацурагикири Нагамаса",
+        "th": "แบบแปลน: Katsuragikiri Nagamasa",
+        "vi": "Bản vẽ: Trường Đao Katsuragi"
+    },
+    "id": 221014,
+    "materialDesc": {
+        "en": "Someone from Tatarasuna left this diagram of Katsuragikiri Nagamasa behind. You can use it to master the art of making this Claymore.",
+        "de": "Ein Schmiedeplan vom „Katsuragikiri Nagamasa“, gezeichnet von jemandem aus Tatarasuna. Mithilfe dieses Schmiedeplans kann die Herstellung dieses Zweihänders gemeistert werden.",
+        "chs": "过去踏鞴砂的某人描绘的「桂木斩长正」的图画。通过它可以掌握这把双手剑的制造方法。",
+        "cht": "過去踏鞴砂的某人描繪的「桂木斬長正」的圖畫。透過它可以掌握這把雙手劍的製造方法。",
+        "es": "Un dibujo del arma “Asesinato de Katsuragi” pintado por alguien de Tatarasuna. Puedes utilizarlo para fabricar este mandoble.",
+        "fr": "Quelqu'un de Tatarasuna a laissé ce plan de l'Espadon de Nagamasa. Vous pouvez l'utiliser pour maîtriser l'art de fabriquer cette épée à deux mains.",
+        "id": "Seseorang dari Tatarasuna meninggalkan diagram Katsuragikiri Nagamasa. Kamu bisa menggunakannya untuk menguasai seni membuat Claymore ini.",
+        "jp": "過去のたたら砂の誰かが描いた「桂木斬長正」の図。使用するとこの両手剣の鍛造方法を習得できる。",
+        "kr": "과거 타타라스나의 어떤 이가 얘기했던 「카츠라기를 벤 나가마사」의 도감. 도감을 통해 이 양손검의 제작 방법을 습득할 수 있다",
+        "pt": "Alguém de Tatarasuna deixou este diagrama da Espada Grande de Katsuragi. Você pode usá-lo para dominar a arte de fazer este Espadão.",
+        "ru": "Диаграмма оружия Кацурагикири Нагамаса, оставленная кем-то из Татарасуны. Используйте её, чтобы изготовить это двуручное оружие.",
+        "th": "ภาพวิธีการสร้างดาบใหญ่ \"Katsuragikiri Nagamasa\" โดยละเอียดที่วาดโดยใครบางคนในอดีต",
+        "vi": "Một bức tranh \"Trường Đao Katsuragi\" do một người Tatarasuna vẽ trong quá khứ. Thông qua đó, bạn có thể nắm vững phương pháp chế tạo của thanh đao này."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

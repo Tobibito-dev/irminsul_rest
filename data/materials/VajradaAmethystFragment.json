@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vajrada Amethyst Fragment",
+        "de": "Vajrada-Amethyst-Bruchstück",
+        "chs": "最胜紫晶断片",
+        "cht": "最勝紫晶斷片",
+        "es": "Fragmento de amatista vajrada",
+        "fr": "Fragment d'améthyste vajrada",
+        "id": "Vajrada Amethyst Fragment",
+        "jp": "最勝のアメシスト·欠片",
+        "kr": "승리의 자수정 조각",
+        "pt": "Fragmento de Ametista Vajrada",
+        "ru": "Фрагмент аметиста Ваджрада",
+        "th": "Vajrada Amethyst Fragment",
+        "vi": "Mảnh Tử Tinh Thắng Lợi"
+    },
+    "id": 104142,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"This body is the noblest and most eminent of all in this world.\"",
+        "de": "Material für den Figurenaufstieg.\\n„Dieser Körper ist einzigartig auf dieser Welt.“",
+        "chs": "角色突破素材。\\n「此身即是尘世最为殊胜尊贵之身。」",
+        "cht": "角色突破素材。\\n「此身即是塵世最為殊勝尊貴之身。」",
+        "es": "Material de ascensión de personaje.\\n“Este cuerpo es el más noble y eminente de todos en este mundo”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Ce corps est le plus noble et le plus éminent du monde. »",
+        "id": "Material Ascension Karakter.\\n\"Tubuh ini adalah yang paling mulia dan agung dari semua di dunia ini.\"",
+        "jp": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
+        "kr": "캐릭터 돌파 소재.\\n「이 몸은 세상에서 가장 뛰어나고 존귀하나니」",
+        "pt": "Material de Ascensão de Personagem.\\n\"Este corpo é o mais nobre e eminente de todos neste mundo.\"",
+        "ru": "Материал возвышения персонажа.\\n«Это тело самое благородное и выдающееся из всех в этом мире».",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\n\"ร่างกายนี้เป็นร่างกายที่โดดเด่นและมีเกียรติที่สุดในโลก\"",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Thân thể này là thân thể tôn quý đặc biệt nhất trần thế.\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

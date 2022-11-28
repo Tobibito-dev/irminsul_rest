@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Picture of Cape Oath",
+        "de": "Landschaftsbild vom „Gelöbniskap“",
+        "chs": "「誓言岬」的风景画",
+        "cht": "「誓言岬」的風景畫",
+        "es": "Imagen del paisaje del Cabo del Juramento",
+        "fr": "Photo du Cap de la Promesse",
+        "id": "Gambar Cape Oath",
+        "jp": "「誓いの岬」の風景画",
+        "kr": "「맹세의 갑각」 풍경 사진",
+        "pt": "Foto do Cabo do Juramento",
+        "ru": "Пейзаж мыса Веры",
+        "th": "ภาพวิว Cape Oath",
+        "vi": "Ảnh chụp phong cảnh Đỉnh Lời Thề"
+    },
+    "id": 100811,
+    "materialDesc": {
+        "en": "A picture taken for Bea. It shows a scenic view of the beach at Cape Oath.",
+        "de": "Ein Bild, das für Bea aufgenommen wurde. Es zeigt einen malerischen Blick auf den Strand des Gelöbniskaps.",
+        "chs": "为贝雅拍下的画片，印着从「誓言岬」眺望海滩的风景。",
+        "cht": "為貝雅拍下的畫片，印著從「誓言岬」眺望海灘的風景。",
+        "es": "Una imagen capturada para Beatrix. Muestra una vista panorámica de la playa desde el Cabo del Juramento.",
+        "fr": "Une photo prise pour dame Béatrice. Elle montre une vue panoramique de la plage du Cap de la Promesse.",
+        "id": "Foto yang dipotret oleh Bea. Foto ini memperlihatkan pemandangan pantai yang indah di Cape Oath.",
+        "jp": "ベアトリーチェのために撮った風景画。「誓いの岬」からの砂浜の風景が写されている。",
+        "kr": "베아트리체를 위해 찍은 사진. 「맹세의 갑각」에서 바라본 해변의 풍경이 담겨있다",
+        "pt": "Uma foto tirada para Bea. Nela mostra uma vista panorâmica da praia do Cabo do Juramento",
+        "ru": "Фотография, сделанная специально для Беатрис. На ней изображён живописный вид на побережье с мыса Веры.",
+        "th": "ภาพที่ถ่ายให้ Bea บนภาพพิมพ์วิวทิวทัศน์ของชายหาด Cape Oath เอาไว้",
+        "vi": "Bức ảnh chụp cho Beatrice, là cảnh tượng khi đứng từ Đỉnh Lời Thề nhìn ra bãi biển."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

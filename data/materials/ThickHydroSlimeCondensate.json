@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thick Hydro Slime Condensate",
+        "de": "Zähe Absonderung eines Hydro-Schleims",
+        "chs": "水史莱姆的浓厚凝液",
+        "cht": "水史萊姆的濃厚凝液",
+        "es": "Condensado de Slime Hydro",
+        "fr": "Bave d'Hydroblob condensée",
+        "id": "Hydro Slime Condensate Kental",
+        "jp": "水スライムの濃厚液体",
+        "kr": "물 슬라임의 진한 응축액",
+        "pt": "Condensado de Slime Hydro",
+        "ru": "Концентрированная слизь Гидро слайма",
+        "th": "Condensate หนาแน่นของ Hydro Slime",
+        "vi": "Dịch cô đặc của Slime Thủy"
+    },
+    "id": 100455,
+    "materialDesc": {
+        "en": "A thick blob of Hydro Slime Condensate. You can't help but get a strange sense of satisfaction while sloshing it in your hands. As for its taste...",
+        "de": "Die zähe Absonderung eines Hydro-Schleims. Knetest du sie in der Hand, beschert sie dir eine ungewöhnliche und unerwartete Freude. Wie sie wohl schmeckt?",
+        "chs": "水史莱姆的浓厚凝液。捧在手里时，会不由自主地产生一种奇异的满足感，不知道口感会是怎样…",
+        "cht": "水史萊姆的濃厚凝液。捧在手裡時，會不由自主地產生一種奇異的滿足感，不知道口感會是怎樣…",
+        "es": "Una masa viscosa de condensado de Slime Hydro. No puedes evitar tener una extraña sensación de satisfacción mientras la derramas en tus manos. En cuanto a su sabor...",
+        "fr": "Bave d'Hydroblob condensée. Elle procure une certaine sensation de satisfaction lorsque vous la tenez dans vos mains, mais elle doit posséder un goût très particulier...",
+        "id": "Gumpalan Hydro Slime Condensate. Tidak bisa dipungkiri bahwa kamu merasakan sensasi yang aneh tapi memuaskan saat kamu menyentuhnya, tapi rasanya...",
+        "jp": "水スライムの濃厚液体。手で掬うと、なぜか不思議に満足感を感じてしまう。どういう食感だろうか…",
+        "kr": "물 슬라임 농축액. 손에 들고 있으면 왠지 모를 이상한 만족감이 든다. 과연 식감은 어떨지…",
+        "pt": "Uma bolha espessa de Condensado de Slime Hydro. Você não pode deixar de ter uma estranha sensação de satisfação enquanto a joga nas mãos. Quanto ao seu sabor...",
+        "ru": "Густой конденсат Гидро слайма. Пожимая его в своих руках, вы не можете не почувствовать странное удовлетворение. Но что касается вкуса...",
+        "th": "Condensate หนาแน่นของ Hydro Slime เมื่อกอบขึ้นมาไว้ในมือจะเกิดความ รู้สึกสุดพิเศษ แต่ไม่รู้ว่ารสชาติเป็นยังไง...",
+        "vi": "Nếu cầm vào dịch cô đặc của Slime Thủy sẽ sinh ra cảm giác thỏa mãn kỳ lạ, không biết ăn vào thì sao nhỉ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

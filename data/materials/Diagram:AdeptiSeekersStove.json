@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: Adepti Seeker's Stove",
+        "de": "Bauplan: Adeptensucher-Gourmet",
+        "chs": "图谱：「寻仙的美食家」",
+        "cht": "圖譜：「尋仙的美食家」",
+        "es": "Plano: Olla del gourmet Adeptus",
+        "fr": "Plan : Chaudron d'Adepte",
+        "id": "Diagram: Adeptus-Seeking Gourmet",
+        "jp": "図譜：「仙人探しの美食家」",
+        "kr": "설계도: 선인 찾는 미식가",
+        "pt": "Diagrama: Fogão Procurador de Adepti",
+        "ru": "Диаграмма: Печь искателя Адептов",
+        "th": "แบบแปลน: Adepti Seeker's Stove",
+        "vi": "Bản Vẽ: Nhà Ẩm Thực Tìm Tiên"
+    },
+    "id": 221006,
+    "materialDesc": {
+        "en": "A detailed step-by-step diagram for making an Adepti Seeker's Stove. Learn it and you can create a portable stove to bring with you on your travels.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Adeptensucher-Gourmet“. Hiermit kannst du einen tragbaren Herd herstellen.",
+        "chs": "步骤详实的图谱，记载着「寻仙的美食家」的制作方法。掌握后，可以制作便携的烹饪锅炉。",
+        "cht": "步驟詳實的圖譜，記載著「尋仙的美食家」的製作方法。掌握後，便可以製作可隨身攜帶的烹飪鍋爐。",
+        "es": "Planos detallados para fabricar una Olla del gourmet Adeptus.",
+        "fr": "Plan détaillé pour la fabrication d'un Chaudron d'Adepte. Une fois maîtrisé, il vous permettra de créer un chaudron pratique et transportable.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Adeptus-Seeking Gourmet\". Setelah menguasainya, kamu bisa membuat kompor memasak portabel.",
+        "jp": "「仙人探しの美食家」の詳しい作り方が載っている図譜。習得後、携帯式の料理用鍋を作れるようになる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설계도로 선인 찾는 미식가의 제작 방법이 적혀있다. 습득 후 휴대용 요리 화덕을 제작할 수 있다",
+        "pt": "Plano detalhado passo a passo para fabricar um \"Fogão Procurador de Adepti\". Depois de entendê-lo bem, pode criar um conveniente fogão portátil.",
+        "ru": "Подробная диаграмма создания предмета «Печь искателя Адептов». Изучите её, чтобы создать переносную плиту и получить возможность готовить в любой точке мира.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง Adepti Seeker's Stove โดยละเอียด ศึกษาให้เชี่ยวชาญ แล้วคุณจะสามารถสร้างเตาแบบพกพาได้",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"Nhà Ẩm Thực Tìm Tiên\". Có thể chế tạo bếp tiện lợi."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

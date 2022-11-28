@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Komore Teahouse Invitation Letter",
+        "de": "Einladungsbrief zur Teestube Komore",
+        "chs": "「木漏茶室」邀请函",
+        "cht": "「木漏茶室」邀請函",
+        "es": "Carta de invitación de la Casa de Té Komore",
+        "fr": "Lettre d'invitation au Salon de thé Komore",
+        "id": "Surat Undangan Komore Teahouse",
+        "jp": "「木漏茶屋」の招待状",
+        "kr": "「코모레 찻집」 초대장",
+        "pt": "Carta de Convite da Casa de Chá Komore",
+        "ru": "Приглашение в чайный дом «Коморэ»",
+        "th": "จดหมายเชิญจาก \"โรงน้ำชา Komore\"",
+        "vi": "Thư Mời Của \"Phòng Trà Komore\""
+    },
+    "id": 100902,
+    "materialDesc": {
+        "en": "Whomsoever has this invitation letter may enter Komore Teahouse. It has the seal of the Yashiro Commission on it.",
+        "de": "Wer diesen Einladungsbrief vorzeigt, darf die Teestube Komore betreten. Er ist mit dem Siegel der Yashiro-Verwaltung versehen.",
+        "chs": "持有本邀请函便可获准进入「木漏茶室」，上面印有社奉行的印章。",
+        "cht": "持有本邀請函便可獲准進入「木漏茶室」，上面印有社奉行的印章。",
+        "es": "Con esta carta de invitación tienes permiso para entrar en la Casa de Té Komore. Cuenta con el sello de la Comisión Yashiro.",
+        "fr": "Quiconque détient cette lettre d'invitation peut entrer au Salon de thé Komore. Elle porte le sceau de la Commission culturelle.",
+        "id": "Siapa pun yang memiliki surat undangan ini dapat masuk ke Komore Teahouse. Ada stempel Yashiro Commission yang tercap di atasnya.",
+        "jp": "この招待状を持つ者のみが「木漏茶屋」に入ることができる。招待状には社奉行の印鑑が押されている。",
+        "kr": "이 초대장을 지니고 있으면 「코모레 찻집」에 진입할 수 있다. 위에는 야시로 봉행의 인장이 찍혀 있다",
+        "pt": "Quem tiver esta carta de convite poderá entrar na Casa de Chá Komore. Ela possui o selo da Comissão Yashiro.",
+        "ru": "Обладатель этого пригласительного письма может посетить чайный дом «Коморэ». Оно скреплено печатью комиссии Ясиро.",
+        "th": "ผู้ที่มีจดหมายเชิญฉบับนี้จะสามารถเข้า \"โรงน้ำชา Komore\" ได้ มีตราประทับของสำนัก Yashiro อยู่บนนั้น",
+        "vi": "Có được thư mời này sẽ có thể ra vào \"Phòng Trà Komore\", trên đó có ấn chương của Hiệp Hội Yashiro."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

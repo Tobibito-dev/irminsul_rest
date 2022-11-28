@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Northlander Polearm",
+        "de": "Stangenwaffe des Nordens",
+        "chs": "北陆长柄武器",
+        "cht": "北陸長柄武器",
+        "es": "Lanza del Norte",
+        "fr": "Lance du nord",
+        "id": "Northlander Polearm",
+        "jp": "北陸の長柄武器",
+        "kr": "북대륙의 장병기",
+        "pt": "Lança das Terras do Norte",
+        "ru": "Копьё Северянина",
+        "th": "Northlander Polearm",
+        "vi": "Vũ Khí Cán Dài Bắc Lục"
+    },
+    "id": 101110,
+    "materialDesc": {
+        "en": "Unknown Northlander Polearm",
+        "de": "Eine unbekannte Stangenwaffe aus den nördlichen Gefilden.",
+        "chs": "北陆地区未知的长柄武器",
+        "cht": "北陸地區未知的長柄武器。",
+        "es": "Lanza desconocida del Norte",
+        "fr": "Lance inconnue du nord",
+        "id": "Polearm misterius dari Daratan Utara.",
+        "jp": "北陸地域の未知の長柄武器",
+        "kr": "북대륙의 미지의 장병기",
+        "pt": "Lança Desconhecida das Terras do Norte",
+        "ru": "Неизвестное копьё с Севера",
+        "th": "หอกที่ไม่มีใครรู้จักจากแดนเหนือ",
+        "vi": "Vũ Khí Cán Dài Bắc Lục Chưa Rõ"
+    },
+    "materialType": false
+}

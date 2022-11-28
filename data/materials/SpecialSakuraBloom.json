@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Sakura Bloom",
+        "de": "Besondere Sakura-Blüte",
+        "chs": "特殊的绯樱绣球",
+        "cht": "特殊的緋櫻繡球",
+        "es": "Pétalos de cerezo especiales",
+        "fr": "Fleur de cerisier spéciale",
+        "id": "Sakura Bloom Spesial",
+        "jp": "特別な緋櫻毬",
+        "kr": "특별한 벚꽃 수구",
+        "pt": "Pétalas da Flor de Sakura Especial",
+        "ru": "Особый цвет сакуры",
+        "th": "Special Sakura Bloom",
+        "vi": "Tú Cầu Anh Đào Đặc Biệt"
+    },
+    "id": 101517,
+    "materialDesc": {
+        "en": "A seemingly special Sakura Bloom.",
+        "de": "Eine ganz besondere Sakura-Blüte.",
+        "chs": "似乎有某些特殊之处的绯樱绣球。",
+        "cht": "似乎有某些特殊之處的緋櫻繡球。",
+        "es": "Unos pétalos de cerezo especiales.",
+        "fr": "Une fleur de cerisier assez particulière.",
+        "id": "Sakura Bloom yang memiliki sisi spesial tertentu.",
+        "jp": "どこかが特別な緋櫻毬。",
+        "kr": "뭔가 특별한 점이 있는 벚꽃 수구",
+        "pt": "Uma Flor de Sakura aparentemente especial.",
+        "ru": "Очень необычный цвет сакуры.",
+        "th": "ดูเหมือน Special Sakura Bloom นี้จะมีความพิเศษบางอย่าง",
+        "vi": "Tú cầu anh đào đặc biệt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

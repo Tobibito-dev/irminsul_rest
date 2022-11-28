@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Banu's Wisdom",
+        "de": "Banus Weisheit",
+        "chs": "芭努的智慧",
+        "cht": "芭努的智慧",
+        "es": "Sabiduría de Banu",
+        "fr": "Sagesse de Banu",
+        "id": "Banu's Wisdom",
+        "jp": "バヌの智慧",
+        "kr": "바누의 지혜",
+        "pt": "Sabedoria de Banu",
+        "ru": "Мудрость Бану",
+        "th": "ปัญญาแห่ง Banu",
+        "vi": "Trí Tuệ Của Banu"
+    },
+    "id": 220064,
+    "materialDesc": {
+        "en": "In some cosmological settings, this is a staff filled with mystical power. It can resonate with the Future Stars and show the way to them.\\nOf course, in some other settings, it might be an object kept in storage by an organization known as the Akademiya, and perhaps its recorded name might even be Ayesha's Chaos Prospector. There is a thin layer of dust over this object due to a long period of disuse.",
+        "de": "Ein Gegenstand, der in einem bestimmten Szenario mit rätselhafter Macht durchströmt wird. Wenn er zusammen mit Sternen der Zukunft resoniert, kann er die Richtung zu diesen weisen.\\nNatürlich kann er in einem anderen Szenario ein Objekt, das in der Akademie gelagert wird, sein. Und sein Name im Register könnte „Ayeshas Chaosdetektor“ sein. Über ihm liegt schon eine kleine Staubschicht, denn ihn hat schon lange keiner mehr verwendet.",
+        "chs": "某个设定中被灌注了神奇力量的法杖。能与未来星的存在共鸣，从而指引出未来星的方位。\\n当然，在其他的设定中，它也可能是一个名叫教令院的组织的库藏物品，而它登记在册的名字是「阿叶夏混沌勘探器」。因为长期无人使用而落上了薄薄一层灰。",
+        "cht": "某個設定中被灌注了神奇力量的法杖。能與未來星的存在共鳴，從而指引出未來星的方位。\\n當然，在其他的設定中，它也可能是一個名叫教令院的組織的庫藏物品，而它登記在冊的名字是「阿葉夏混沌勘探器」。因為長期無人使用而落上了薄薄一層灰。",
+        "es": "En cierto contexto, es un báculo mágico al que han imbuido con un misterioso poder, capaz de resonar con las estrellas del porvenir para señalar su ubicación.\\nEn un contexto distinto, también podría tratarse de un valioso objeto en la colección de cierta organización llamada “Academia de Sumeru”, y denominarse “Buscador del caos de Ayesha” en sus registros. Como nadie lo ha usado en mucho tiempo, hay una pequeña capa de polvo sobre él.",
+        "fr": "#Dans un certain scénario, ce sceptre a été enchanté avec un pouvoir mystique. Il a le pouvoir d'entrer en résonance avec les étoiles du futur et d'indiquer l'emplacement de ces dernières.\\nDans un autre scénario, cet objet fait partie de la collection d'une organisation appelée l'« Académie{NON_BREAK_SPACE}», et est enregistré sous le nom de « détecteur du chaos d'Ayesha ». Il est recouvert d'une fine couche de poussière, étant donné que personne ne s'en est servi depuis bien longtemps.",
+        "id": "Dalam beberapa pengaturan kosmologis, ini adalah tongkat yang penuh dengan kekuatan mistis. Tongkat ini dapat beresonansi dengan Bintang Masa Depan dan menunjukkan jalan padanya.\\nTapi tentu saja dalam beberapa pengaturan lain, mungkin benda ini menjadi benda yang disimpan oleh organisasi yang dikenal dengan sebutan Akademiya. Dan bahkan nama yang tercatatnya mungkin Ayesha's Chaos Prospector. Benda ini agak berdebu karena sudah lama tidak digunakan.",
+        "jp": "不思議な力が注がれた魔法の杖。未来星と共鳴して、その位置を示すことができる、という設定。\\n言うまでもなく、別の設定では、教令院という名の組織のコレクションである場合もあり、「アイシャ混沌探知機」という名で登録されている可能性もある。長い間使われていなかったために、薄くほこりが積もっている。",
+        "kr": "어떤 설정에서 신비한 힘이 주입된 지팡이로 미래의 별과 공명하여 미래의 별의 방향을 안내할 수 있다.\\n물론 다른 설정에서는 아카데미아라는 조직의 창고에 보관된 물품으로 등록명은 「아에샤의 혼돈 탐지기」일 수도 있다. 오랫동안 사용하지 않아 먼지가 얇게 쌓여있다",
+        "pt": "Em alguns cenários, esse cetro está cheio de poder místico. Ele pode ressoar com as Estrelas do Futuro e mostrar o caminho para elas.\\nClaro, noutros cenários, pode ser um objeto armazenado por uma organização chamada Academia e o seu nome registrado pode ser Prospector do Caos de Ayesha. Há uma fina camada de poeira sobre esse objeto por não ter sido utilizado há muito tempo.",
+        "ru": "С космологической точки зрения это магический посох, наделённый таинственной силой, способный резонировать со звёздами будущего, чтобы определить их местоположение.\\nКонечно, это и ценный предмет в коллекции Академии, именуемый в их записях «Старатель хаоса Айеши». Поскольку им давно никто не пользовался, на нём есть небольшой слой пыли.",
+        "th": "คทาที่ถูกถ่ายโอนพลังอันน่าพิศวงเข้าไปในพล็อตเรื่องหนึ่ง สามารถสะท้อนตัวตนของดวงดาวแห่งอนาคต และชี้นำทิศทางของดวงดาวแห่งอนาคตได้\\nแน่นอนว่า ในพล็อตเรื่องอื่น ๆ มันอาจจะเป็นสมบัติในคลังขององค์กรหนึ่งที่มีชื่อว่าสถาบัน ส่วนชื่อที่มีการจดไว้ในบันทึกก็คือ Ayesha's Chaos Prospector แต่เนื่องจากไม่มีใครนำมันออกมาใช้งานนานแล้ว จึงทำให้เริ่มมีฝุ่นบาง ๆ ปกคลุมอยู่ด้านบน",
+        "vi": "Một cây trượng phép được truyền sức mạnh thần kỳ trong một thiết kế nào đó. Nó có thể cộng hưởng với sự tồn tại của Sao Tương Lai, từ đó chỉ ra vị trí của Sao Tương Lai.\\nTất nhiên, trong những thiết kế khác, nó cũng có thể là một vật thể được lưu trữ bởi một tổ chức có tên là Giáo Viện, và tên được đăng ký của nó là Máy Thăm Dò Hỗn Độn Ayesha. Bởi vì không ai sử dụng nên nó bị bám một lớp bụi mỏng."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

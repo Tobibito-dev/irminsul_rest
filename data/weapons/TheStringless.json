@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "The Stringless",
+        "de": "Der Sehnenlose",
+        "chs": "绝弦",
+        "cht": "絕弦",
+        "es": "Último Acorde",
+        "fr": "Dernière corde",
+        "id": "The Stringless",
+        "jp": "絶弦",
+        "kr": "절현",
+        "pt": "Último Acorde",
+        "ru": "Бесструнный",
+        "th": "The Stringless",
+        "vi": "Tuyệt Huyền"
+    },
+    "id": 15402,
+    "type": "WEAPON_BOW",
+    "rankLevel": 4,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 42.4010009765625
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 36.0
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0829999446868896,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1649999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2480000257492065,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3300000429153442,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4129999876022339,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4950000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5779999494552612,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6610000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7430000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8259999752044678,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9910000562667847,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.072999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1559998989105225,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.239000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.321000099182129,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4040000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4860000610351562,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.569000005722046,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6510000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7339999675750732,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.816999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9820001125335693,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.063999891281128,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1470000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2290000915527344,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.312000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3940000534057617,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4769999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.559999942779541,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6419999599456787,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7249999046325684,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.806999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9719998836517334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.054999828338623,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.138000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.21999979019165,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.302999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.385000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.4679999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.550000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.632999897003174,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.716000080108643,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.797999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.88100004196167,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.9629998207092285,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.046000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.127999782562256,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.210999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.294000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.375999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.459000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.540999889373779,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.624000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.705999851226807,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.789000034332275,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.872000217437744,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.953999996185303,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.0370001792907715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.11899995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.202000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.283999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.367000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.449999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.5320000648498535,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.614999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.697000026702881,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.78000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.861999988555908,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.945000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.0279998779296875,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.110000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.192999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.275000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.357999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.440000057220459,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.5229997634887695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.605999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.688000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.770999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.853000164031982,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.935999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.017999649047852,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10099983215332,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.182999610900879,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.265999794006348,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.348999977111816,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.430999755859375,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.513999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.595999717712402,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.678999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.76099967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.843999862670898,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.927000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.008999824523926,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.092000007629395,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.173999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 15402,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114001,
+                    "count": 3
+                },
+                {
+                    "id": 112014,
+                    "count": 3
+                },
+                {
+                    "id": 112011,
+                    "count": 2
+                }
+            ],
+            "coinCost": 5000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 25.899999618530273
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 3
+                },
+                {
+                    "id": 112014,
+                    "count": 12
+                },
+                {
+                    "id": 112011,
+                    "count": 8
+                }
+            ],
+            "coinCost": 15000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 51.900001525878906
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 6
+                },
+                {
+                    "id": 112015,
+                    "count": 6
+                },
+                {
+                    "id": 112012,
+                    "count": 6
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 77.80000305175781
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 3
+                },
+                {
+                    "id": 112015,
+                    "count": 12
+                },
+                {
+                    "id": 112012,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 103.69999694824219
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 6
+                },
+                {
+                    "id": 112016,
+                    "count": 9
+                },
+                {
+                    "id": 112013,
+                    "count": 6
+                }
+            ],
+            "coinCost": 35000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 129.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 15402,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114004,
+                    "count": 4
+                },
+                {
+                    "id": 112016,
+                    "count": 18
+                },
+                {
+                    "id": 112013,
+                    "count": 12
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+        "de": "Ein großer, prächtiger Bogen, der einst als Musikinstrument gedient hat. Mittlerweile bringt er niemanden mehr zum Tanzen.",
+        "chs": "曾经作为乐器大放异彩的弓。如今已经不再能令人起舞。",
+        "cht": "曾經作為樂器大放異彩的弓。如今已經不再能令人起舞。",
+        "es": "Un arco que alguna vez acompañó a un instrumento extraordinario. Ya no es capaz de hacer bailar a la gente.",
+        "fr": "Un arc qui était autrefois un extraordinaire instrument de musique. Il ne fait plus danser personne aujourd'hui.",
+        "id": "Sebuah busur yang dulunya merupakan instrumen luar biasa. Kini tak mampu lagi untuk membuat orang menari.",
+        "jp": "かつて楽器として有名だった弓。今はもう踊りに使われることはない。",
+        "kr": "한때 악기로써 빛을 발했던 활. 오늘날에는 사람들을 예전처럼 춤추게 만들지 못한다",
+        "pt": "Um arco que serviu como um instrumento extraordinário. Não é mais capaz de fazer pessoas dançarem.",
+        "ru": "Когда-то этот лук был восхитительным музыкальным инструментом, но больше под его музыку никто не запляшет.",
+        "th": "คันธนูที่ครั้งหนึ่งเคยเป็นเครื่องดนตรีที่แสนวิเศษ แต่ในตอนนี้มันไม่สามารถทำให้ผู้คนลุกขึ้นเพื่อเต้นรำได้อีกต่อไปแล้ว",
+        "vi": "Cung được sử dụng như nhạc cụ phát ra ánh sáng rực rỡ. Đến nay nó không còn có thể khiến người khác cất bước khiêu vũ được nữa."
+    },
+    "flavor": {
+        "en": "\nAn exquisite instrument with strings of different materials on every section.\nWhen struck, every string trembles, creating flowing music.\nBut it is also a bow, one capable of firing arrows that target the heart. Where the music from this instrument leads, death shall surely follow.\n\nAfter the Wanderer's Troupe disbanded, the harp's strings were cut with a dull blade, creating ear-piercing noises.\nOnly the bowstring now remains. The instrument's lofty melodies are lost, but it remains a deadly weapon.\n\nThe Wanderer's Troupe could make birds fall from the sky, sometimes with the tune of the harp, sometimes with the arrows that followed the tune through the air.\nJust like the wind that elopes with the harp's tune and the flowers that grow on Starsnatch Cliff, the harpist was both playful and determined.\nAfter the uprising failed, the Wanderer's Troupe disbanded and its members fled.\nThe harpist stayed till the end, deftly plucking the instrument's strings and raining down a torrent of arrows to protect his comrades. He played till he exhausted his repertoire, and his arrows.\n\nThe harpist was from the magnificent and enchanting land of Fontaine. He had left to travel the world in search of his true destiny.\nIt is said that all the ladies of the Court of Fontaine wailed with grief when they heard the tragic news that he had left without saying goodbye.\n\nThe story is that he fell in love with a humble Mondstadt woman, but she was then selected for the miserable fate of Ludi Harpastum princess.\nIt is claimed that he had no regrets about dying anonymously in a foreign land.\nThe only thing he regretted was finally discovering true love, only to never have the chance to sing another love song.\n",
+        "de": "\nEin exquisit geschnitztes Instrument mit den verschiedensten Materialien als Saiten.\nBeim Spielen vibrierte jede einzelne Saite und es entstand eine fließende Melodie.\nEs ist gleichzeitig ein Bogen, in der Lage, Pfeile zu verschießen, die direkt ins Herz treffen. Wohin auch immer die Musik dieses Instruments führt, der Tod folgt gewiss.\n\nNachdem sich das Ensemble aufgelöst hatte, wurden alle Saiten mit einer stumpfen Klinge zerteilt, was furchtbare Klänge hervorbrachte.\nNur die Bogenseite ist erhalten geblieben. Die Melodien sind auf ewig verloren, aber es bleibt eine tödliche Waffe.\n\nDas Ensemble konnte mit seiner Musik sogar Vögel vom Himmel schießen – manchmal mit dem Klang allein, manchmal mit Pfeilen, die dem Klang durch die Luft folgten.\nSo wie der Wind mit dem Klang der Harfe verschmilzt und die Blumen, die unbeirrt an der Sterngreifklippe wachsen, war der Harfenist verspielt und bestimmt zugleich.\nNachdem die Rebellion fehlgeschlagen war, löste sich das Ensemble auf und seine Mitglieder waren nie mehr gesehen.\nDer Harfenist blieb bis zum bitteren Ende. Er zupfte mit aller Kraft an den Seiten und ließ einen Pfeilhagel auf seine Gegner herab, um seine Freunde zu beschützen, bis seine Laute und Pfeile erschöpft waren.\n\nDer Harfenist kam aus dem bezaubernden Ort Fontaine. Er hatte seine Heimat nur verlassen, um die Welt zu erkunden und seine wahre Bestimmung zu finden.\nMan erzählt sich, dass alle Damen am Hof von Fontaine sich die Augen ausweinten, als sie Nachricht bekamen, dass er gegangen war, ohne sich von ihnen zu verabschieden.\n\nAngeblich verliebte er sich in ein gewöhnliches Mädchen aus Mondstadt, welches aber unglücklicherweise ausgewählt wurde, die Prinzessin der Ludi Harpastum zu werden.\nEs gibt Behauptungen, dass er es nicht bereute, als Unbekannter in einem fremden Land zu sterben.\nSeine einzige Reue war, wahre Liebe gefunden zu haben, nur um sie sofort wieder zu verlieren und nie wieder ein weiteres Liebeslied singen zu können.\n",
+        "chs": null,
+        "cht": "\n製作精美的樂器，每一節上都繫著不同材料製成的弦。\n彈動時，每根弦都在顫動中發聲，流水一般的樂聲就這麼編織起來。\n但同時也是可以射出追心之矢的弓。伴隨著樂曲聲，死亡接踵而至。\n\n樂團解散後，每一根琴弦都被鈍刀鋸斷，期間發出的聲音刺耳無比。\n如今它只剩下射箭的弓弦，失去了高傲的樂聲。但仍是致命的兵器。\n\n流浪樂團能讓飛鳥落地，仰賴的有時是琴聲，有時是隨琴聲來的箭。\n如同隨樂聲逃逸的緒風及摘星崖的花，琴師是輕浮、又無比堅定的。\n起事失敗後，樂團的眾人分散逃開。\n琴師留在最後，撥弦讓箭落如雨掩護同伴。樂聲與箭最終都耗竭了。\n\n琴師來自華美絢爛的異國楓丹，他行遍多國尋找自己的真心與命運。\n據說在他故國的宮廷中，少女們為了他不辭而別的消息而痛哭失聲。\n\n據說他愛上了蒙德的一位平民女子，她卻被選為羽球節的悲慘公主。\n據說他並不為自己無名屈死於他鄉異國的命運懊悔。\n他遺憾的只有自己終於發現了愛情，卻再也沒有機會唱出戀歌一事…\n",
+        "es": "\nUn arco exquisitamente tallado con cuerdas de diferentes materiales en cada anillo.\nAl disparar, sus cuerdas tiemblan, creando una música fluida.\nTambién es capaz de disparar flechas que persiguen el corazón de su objetivo, emitiendo una melodía que viene acompañada de la más fría de las muertes.\n\nCuando la Orquesta se disolvió, las cuerdas musicales del arco se cortaron con una cuchilla sin filo, creando un chirrido perforador.\nAhora son simplemente cuerdas para disparar flechas incapaces de emitir ningún sonido. Aun así, sigue siendo un arma letal.\n\nLa Orquesta del Errante podía hacer que las aves cayeran del cielo; a veces, con la melodía del arpa, y otras, con las flechas que seguían la melodía a través del aire.\nEl arpista era juguetón y decidido, igual que el viento que se escapa con la melodía de su arpa y las flores que crecen en el Acantilado Estrellado.\nTras el levantamiento fallido, la Orquesta del Errante se disolvió y sus miembros huyeron.\nEl arpista, en cambio, se quedó hasta el final, tocando hábilmente las cuerdas del instrumento y haciendo llover un torrente de flechas para proteger a sus camaradas. Valientemente, tocó hasta agotar su repertorio y sus flechas.\n\nEl arpista, natural de la magnífica y encantadora tierra de Fontaine, viajaba por el mundo en busca de su verdadero destino.\nSe dice que todas las damas de la corte de Fontaine lloraron de dolor al enterarse la trágica noticia de que se había ido sin decir adiós.\n\nSegún cuenta la leyenda, el arpista se enamoró de una humilde mujer de Mondstadt que, más tarde, fue elegida para el miserable destino de ser la princesa del Ludi Harpastum.\nSe dice que el músico no se arrepintió de morir en el anonimato en un país extranjero.\nLo único que lamentó fue descubrir su verdadero amor, y no tener la oportunidad de cantar otra canción.\n",
+        "fr": "\nUn instrument exquis, orné de cordes de matériaux différents.\nLorsqu'elles étaient pincées, ces cordes émettaient de concert un son aussi fluide que l'eau.\nMais il s'agit également d'un arc capable de tirer des flèches visant droit au cœur. La mort suit toujours sa mélodie.\n\nSuivant la dissolution de la Compagnie Vagabonde, les cordes de la harpe furent tranchées par une lame émoussée, rendant l'une après l'autre un son déchirant.\nSeule a survécu la corde de l'arc. Les mélodies autrefois chantées par l'instrument ont disparu ; seule reste la mort.\n\nLa Compagnie Vagabonde était capable de faire chuter les oiseaux du ciel, soit en les attirant au son de la harpe, soit grâce aux flèches qui suivaient sa musique.\nÀ la manière du vent soufflant sur les cordes de son instrument et des fleurs s'agrippant à la Falaise Arrachétoile, le joueur de harpe était d'un tempérament frivole mais décidé.\nAprès l'échec de la rébellion, la Compagnie fut dissolue, et ses membres partirent chacun dans leur direction.\nLe joueur de harpe demeura jusqu'à la fin, pinçant vaillamment ses cordes, et protégeant ses compagnons d'une pluie de flèches ; il joua jusqu'à ce qu'il eut épuisé son répertoire et ses flèches.\n\nIl était originaire du lointain et beau pays de Fontaine, qu'il avait quitté pour se lancer à la recherche de son destin.\nNombre de demoiselles de Fontaine furent, dit-on, navrées d'apprendre son départ.\n\nOn raconte qu'il tomba amoureux d'une fille du commun de Mondstadt, qui fut hélas choisie lors du Ludi Harpastum.\nOn raconte également qu'il n'eut aucun regret à mourir sur le sol étranger.\nSon seul regret fut d'avoir trouvé l'amour, et de ne plus avoir la chance de le chanter...\n",
+        "id": "\nInstrumen indah dengan senar dari bahan berbeda di setiap bagian.\nSaat dipetik, setiap senar bergetar, membuat musik mengalun.\nNamun ini juga adalah busur yang bisa menembakkan panah yang menusuk jantung. Saat musik dari instrumen ini terdengar, kematian pasti mengikutinya.\n\nSetelah rombongan petualang bubar, senar harpa dipotong dengan pisau tumpul, menghasilkan suara yang menusuk telinga.\nHanya tali busur sekarang yang tersisa. Melodi instrumen hilang, tetapi masih merupakan senjata yang mematikan.\n\nRombongan petualang dapat membuat burung jatuh dari langit, terkadang dengan melodi harpa, terkadang dengan anak panah yang mengikuti melodi melalui udara.\nSama seperti angin yang berpacu dengan irama harpa dan bunga-bunga yang tumbuh di Starsnatch Cliff, pemain harpa itu senang bermain-main dan penuh tekad.\nSetelah pemberontakan gagal, rombongan petualang bubar dan anggotanya tersebar.\nPemain harpa tinggal sampai akhir, mencabut senar-senar instrumennya dan menghujani anak panah untuk melindungi rekan-rekannya. Dia bermain sampai dia kehabisan suara, dan juga anak panahnya.\n\nPemain harpa itu berasal dari tanah Fontaine yang indah dan memesona. Dia telah pergi berkeliling dunia untuk mencari takdirnya yang sebenarnya.\nDikatakan bahwa semua wanita di Pengadilan Fontaine meratap dengan sedih ketika mereka mendengar berita tragis bahwa dia pergi tanpa mengucapkan selamat tinggal.\n\nCeritanya adalah dia jatuh cinta kepada seorang gadis Mondstadt yang sederhana, namun gadis itu terpilih menjadi putri di Ludi Harpastum.\nDikatakan bahwa dia tidak menyesali nasib kematiannya di negeri asing.\nSatu-satunya yang dia sesali adalah ketika akhirnya menemukan cinta sejati, namun tidak mempunyai kesempatan untuk menyanyikan lagu cinta...\n",
+        "jp": "\n精巧で彫りが美しい楽器。一本一本の弦が異なる素材でできている。\n弾いて鳴らすと、せせらぎのような安らかで美しい音楽が奏でる。\n琴であると同時に、心臓を射抜く矢をはなてるほどの弓でもある。音楽と共に、死も訪れる。\n\n楽団が解散した後、その弦は弓用の弦を除き、一本一本鈍い刀で切られた。その間、聞くに堪えない音が立った。\n今となっては美しい音色を失い、命を奪うただの弓となった。\n\n流浪楽団は鳥の空を飛ぶ力を奪うことができる。それは時には琴の音、時には鋭い矢によるものだ。\n音楽と共に散り行くそよ風や星拾いの崖の花のように、琴師は軽薄ながらも揺るぎない信念を持っている。\n反乱失敗後、楽団のメンバーは四方八方に逃げ始めた。\n琴師は仲間を援護するため、音を失い、矢を使い果たしても、最後の最後まで戦っていた。\n\n琴師の出身地は華やかで美しいフォンテーヌ。各国を旅して本当の自分と運命を探していた。\n彼が故郷の宮廷に別れも告げずに去っていったことに、周囲の少女たちは、声が出なくなるほど泣き続けた。\n\n噂によると、彼はモンドの平民の女性に恋したが、その子はバドルドー祭で悲惨にも「姫」に選ばれてしまった。\n無名のまま他国で亡くなった運命を、彼は悔やんだりしなかったらしい。\n唯一の遺恨は、やっと愛を見つけたのに、それを唄うことができなかったこと。\n",
+        "kr": "\n정교하게 만들어진 악기로, 마디마다 다른 소재의 줄이 걸려있다.\n튕길 때 줄이 진동하며 소리를 내는데 이것으로 흐르는 물소리를 표현할 수 있다.\n하지만 이뿐 아니라 심장을 겨냥한 활도 쏠 수 있다. 음악 소리에 죽음이 잇따른다.\n\n악단이 해산한 뒤 날이 무뎌진 칼로 모든 하프 현을 끊어버렸는데 이때 귀를 찢을듯한 소리가 났다.\n오늘날 하프에는 활을 쏘는 활시위만 남아 위풍당당한 음악 소리를 잃었다. 그렇지만 여전히 치명적인 병기다.\n\n떠돌이 악단은 새를 내려앉게 할 수 있다. 어떨 땐 하프 소리로, 또 어떨 땐 하프 소리를 따라온 화살로…\n마치 음악 소리를 따라 도망치는 서풍이나 별을 따는 절벽의 꽃들처럼 하프 연주자는 장난기 넘치고 또 단호했다.\n거사가 실패한 뒤 악단은 뿔뿔이 흩어졌다.\n하프 연주자는 마지막까지 남아 활을 쏘며 동료들을 엄호했다. 악기 소리와 활 소리는 모두 고갈되고 만다.\n\n하프 연주자는 아름답고 찬란한 폰타인에서 왔다. 그는 여러 나라들을 돌아다니며 자신의 진심과 운명을 찾고 있었다.\n듣기론 그의 고국 궁전에서 소녀들이 그의 이별 소식에 눈물 흘렸다고 한다.\n\n듣기론 그는 몬드의 평민 여자와 사랑에 빠졌지만, 그녀는 하르파스툼의 처참한 공주로 선택됐다고 한다.\n듣기론 그는 자신의 이름도 남기지 못한 채 타국에서 숨을 거둔 것을 후회하지 않았다고 한다.\n그가 안타까워했던 건 마침내 사랑을 찾았지만, 더 이상 사랑의 노래를 부를 수 없다는 것이었다…\n",
+        "pt": "\nUm instrumento requintado com cordas de diferentes materiais em cada seção.\nQuando tocadas, cada corda estremece, criando uma música fluida.\nMas também é um arco, capaz de disparar flechas que atingem o coração. Onde a música deste instrumento conduz, a morte certamente seguirá.\n\nDepois que a Trupe se dissolveu, as cordas da harpa foram cortadas com uma lâmina cega, criando ruídos que perfuravam as orelhas.\nApenas a corda do arco permanece. As melodias elevadas do instrumento se perdem, mas ele continua sendo uma arma mortal.\n\nA Trupe Itinerante podia fazer os pássaros caírem do céu, às vezes com a melodia da harpa, às vezes com as flechas que seguiam a melodia pelo ar.\nAssim como o vento que foge com a melodia da harpa e as flores que crescem em Penhasco das Estrelas, o lirista era brincalhão e determinado.\nApós o fracasso, todos os membros da trupe fugiram.\nO lirista ficou até o fim, dedilhando habilmente as cordas do instrumento e jogando uma torrente de flechas para proteger seus companheiros. Ele tocou até esgotar seu repertório e suas flechas.\n\nO lirista era da magnífica e encantadora terra, Fontaine. Ele partiu para viajar pelo mundo em busca de seu verdadeiro destino.\nDiz-se que todas as damas da Corte de Fontaine choraram de tristeza ao ouvir a trágica notícia de que ele tinha partido sem se despedir.\n\nA história é que ele se apaixonou por uma humilde mulher de Mondstadt, mas ela foi então selecionada como a princesa miserável de Ludi Harpastum.\nAlega-se que ele não se arrependia de morrer anonimamente em uma terra estrangeira.\nA única coisa que ele lamentou foi finalmente descobrir o amor verdadeiro, mas nunca mais ter a chance de cantar outra canção de amor.\n",
+        "ru": "\nИзысканный инструмент со струнами из разных материалов в каждой секции.\nБой по струнам издаёт текущую словно ручей мелодию.\nНо это также и лук, способный выпускать стрелу прямо в сердце. За музыкой этого инструмента обязательно последует смерть.\n\nПосле того как Бродячий ансамбль распался, струны арфы с пронзающим уши звуком обрезали тупым лезвием.\nОсталась только тетива. Гордая мелодия инструмента потеряна, но он стал смертоносным оружием.\n\nБродячий ансамбль мог сбить птицу с неба с помощью мелодии арфы, либо с помощью следующей за мелодией стрелы.\nАрфист был игрив и решителен, как ветер, сопровождающий мелодию арфы, и как цветы, растущие на утёсе Звездолова.\nПосле неудавшегося бунта Бродячий ансамбль распался, и его члены бежали.\nПоследним остался арфист, который рвал струны своего инструмента и обрушивал град стрел для защиты своих товарищей. Он играл, пока не закончились его песни и его стрелы.\n\nАрфист был родом из богатой и очаровательной страны Фонтейн. Он отправился путешествовать по миру в поисках своей истинной судьбы.\nГоворят, что все леди при дворе Фонтейна плакали от горя, услыхав трагические новости о его отъезде.\n\nИстория гласит, что он влюбился в скромную мондштадтскую девушку, но она была выбрана для несчастной доли принцессы фестиваля Луди Гарпастум.\nГоворят, что он не сожалел о бесславной смерти на чужбине.\nЕдинственное, о чём он мог сожалеть, - это обрести свою настоящую любовь, только чтобы никогда не спеть его песен о любви.\n",
+        "th": "\nเครื่องดนตรีนี้แกะสลักอย่างสวยงาม สายแต่ละสายทำจากวัสดุที่แตกต่างกัน\nเมื่อเกิดการสั่นสะเทือน สายแต่ละเส้นจะสร้างท่วงทำนองที่ไหลลื่น\nแต่มันก็ยังคงเป็นธนูที่สามารถพุ่งสู่หัวใจของเป้าหมาย เมื่อใดก็ตามที่เครื่องดนตรีนี้ถูกบรรเลง ความตายก็จะตามมาในไม่ช้า\n\nหลังจากที่วงดนตรีถูกยุบ สายของพิณถูกตัดด้วยใบมีดทื่อ ทำให้เกิดเสียงที่เสียดแทงแก้วหู\nทุกวันนี้เครื่องดนตรีที่ไพเราะได้สูญหายไปแล้ว เหลือไว้เพียงแต่คันธนู ที่ยังคงเป็นอาวุธที่ร้ายแรง\n\nคณะดนตรีพเนจรนั้นสามารถทำให้นกลงมาบนพื้นได้ ซึ่งบางครั้งก็ต้องอาศัยเสียงของพิณและบางครั้งก็เป็นลูกธนูที่มาพร้อมกับเสียงพิณ\nเช่นเดียวกับสายลมที่พัดผ่านไปตามเสียงเพลงของพิณและดอกไม้ที่ขึ้นตามหน้าผา Starsnatch Cliff นักเล่นพิณนั้นทั้งขี้เล่นและมีความมุ่งมั่น\nหลังจากการปฏิวัติล้มเหลว คณะดนตรีพเนจรก็แตกแยกห่างหายกันไป\nนักเล่นพิณอยู่จนถึงเวลาสุดท้าย เขาดึงสายเครื่องดนตรีและปลดปล่อยฝนธนูเพื่อปกป้องเหล่าเพื่อนร่วมอุดมการณ์ และสุดท้ายเสียงเพลงและลูกธนูก็หมดลง\n\nนักเล่นพิณมาจากดินแดนอันงดงามและน่าหลงใหลของ Fontaine เขาออกเดินทางไปทั่วโลกเพื่อค้นหาชะตากรรมที่แท้จริงของเขา\nว่ากันว่าเหล่าสตรีทุกคนในราชวงศ์ Fontaine ร่ำไห้ด้วยความโศกเศร้าเมื่อพวกเธอได้ยินข่าวเศร้าว่าเขาจากไปโดยไม่กล่าวคำอำลา\n\nตำนานเล่าว่าเขาได้ตกหลุมรักหญิงสามัญคนหนึ่งใน Mondstadt แต่ทว่าเธอกลับได้รับเลือกให้เป็นเจ้าหญิงที่น่าเศร้าของเทศกาล Ludi Harpastum\nว่ากันว่าเขาไม่ได้รู้สึกเศร้าเสียใจกับชะตากรรมของตนเองที่จะต้องตายโดยที่ไม่มีใครรู้จักในต่างแดน\nสิ่งที่เขาเสียใจนั้นมีเพียงความรักในที่สุดก็หาจนเจอ แต่กลับไม่มีโอกาสที่จะเล่นเพลงรักออกมา\n",
+        "vi": "\nNhạc cụ được chế tác tinh xảo, mỗi một nốt được làm bằng các loại dây với chất liệu khác nhau.\nKhi sử dụng, mỗi dây cung rung lên như tiếng nhạc của nước chảy.\nCùng lúc cũng có thể bắn ra những mũi tên xuyên tâm. Cái chết nối gót mà đến kèm theo âm thanh của bản nhạc.\n\nSau khi đoàn nhạc giải nghệ, dây cung bị dao cắt đứt, trong phút chốc vang lên thứ âm thanh chói tai.\nHiện nay nó chỉ còn lại dây cung, đã mất đi âm thanh cao ngạo. Nhưng nó vẫn là vũ khí giết người.\n\nGánh hát rong có thể khiến những con chim rơi xuống đất, đôi khi chỉ nhờ vào âm thanh của đàn, đôi lúc lại là mũi tên đi kèm với nó.\nGiống như gió theo tiếng đàn và hoa trên Vực Hái Sao, nhạc sĩ phiêu diêu mà vô cùng kiên định.\nKhởi nghĩa thất bại, phần lớn đoàn nhạc đều phân tán.\nNhạc sĩ ở lại cuối cùng, gảy dây đàn để bảo vệ bạn bè với mưa tên. Tiếng nhạc và tên cuối cùng cũng dùng hết.\n\nNhạc sĩ đến từ Fontaine dị quốc tuyệt đẹp. Anh đi qua nhiều nước để tìm thấy trái tim và định mệnh thực sự của mình.\nNgười ta nói rằng trong cung đình nơi quê hương anh, các cô gái đã khóc vì tin rằng anh đã ra đi không lời từ biệt.\n\nNgười ta nói rằng anh ta đã yêu một cô gái dân thường ở Mondstadt, nhưng cô được chọn là công chúa bi thảm của lễ đánh cầu.\nNgười ta nói rằng anh đã không hối tiếc về số phận của cái chết của mình ở nơi tha hương.\nAnh chỉ hối hận vì cuối cùng anh cũng tìm được tình yêu, nhưng không bao giờ có cơ hội hát một bản tình ca...\n"
+    }
+}

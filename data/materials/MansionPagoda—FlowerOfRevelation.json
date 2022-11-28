@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mansion Pagoda — Flower of Revelation",
+        "de": "Gutshaus-Pagode – „Blume der Erkenntnis“",
+        "chs": "穹居标塔-「憬悟之花」",
+        "cht": "穹居標塔-「憬悟之花」",
+        "es": "Decoración de residencia: Árbol de la contemplación",
+        "fr": "Pagode de manoir « Fleur de révélation »",
+        "id": "Pagoda Kediaman: Bunga Kesadaran",
+        "jp": "住居の標識塔‐「醒悟の花」",
+        "kr": "거주지 표시탑-「깨달음의 꽃」",
+        "pt": "Decoração da Residência: Flor da Contemplação",
+        "ru": "Пагода особняка: Цветок откровения",
+        "th": "หอคอยคฤหาสน์ - \"ดอกไม้แห่งการตื่นรู้\"",
+        "vi": "Tháp \"Hoa Giác Ngộ\""
+    },
+    "id": 390711,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Mansion Pagoda — Flower of Revelation.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Gutshaus-Pagode – ‚Blume der Erkenntnis‘“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「穹居标塔-『憬悟之花』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「穹居標塔-『憬悟之花』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Decoración de residencia: Árbol de la contemplación.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la pagode de manoir « Fleur de révélation ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Pagoda Kediaman: Bunga Kesadaran.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「住居の標識塔‐『醒悟の花』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면. 「별이 머무는 탑-『깨달음의 꽃』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Decoração da Residência: Flor da Contemplação.\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Пагода особняка: Цветок откровения».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"หอคอยคฤหาสน์ - ดอกไม้แห่งการตื่นรู้\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Tháp \"Hoa Giác Ngộ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Standard Jikaka",
+        "de": "Normale Jikaka",
+        "chs": "原初奇卡卡",
+        "cht": "原初奇卡卡",
+        "es": "Jikaka Común",
+        "fr": "Fruit Jikaka",
+        "id": "Standard Jikaka",
+        "jp": "オリジンチーカカ",
+        "kr": "태초 치카카 열매",
+        "pt": "Jikaka Padrão",
+        "ru": "Обычная Дзикака",
+        "th": "Standard Jikaka",
+        "vi": "Jikaka Nguyên Bản"
+    },
+    "id": 103008,
+    "materialDesc": {
+        "en": "A fruit taken from a Standard Jikaka tree. Gives 30 Elemental Energy when eaten.",
+        "de": "Die von einem Jikaka-Baum ohne elementare Zugehörigkeit gepflückte Frucht. Der Verzehr bringt 30 Punkte allgemeine Energie.",
+        "chs": "从无属性的奇卡卡树上采摘的果实，食用后可获得30点无属性能量",
+        "cht": "從無屬性的奇卡卡樹上採摘的果實，食用後可獲得30點無屬性能量。",
+        "es": "Una fruta recogida del Árbol Jikaka Común. Al comerla, obtendrás 30 puntos de Energía Elemental.",
+        "fr": "Un fruit cueilli sur un arbre Jikaka. Confère 30 pts d'énergie élémentaire après ingestion.",
+        "id": "Buah yang dipetik dari Standard Jikaka Tree, memberikan 30 Elemental Energy saat dimakan.",
+        "jp": "無属性のチーカカの木から摘んだ果実。食べると無属性エネルギー30を獲得するできる",
+        "kr": "무속성 치카카 나무에서 딴 열매. 먹으면 무속성 에너지를 30pt 회복한다",
+        "pt": "Uma fruta tirada de uma árvore Jikaka Padrão. Após comer, obterá 30 pontos de Energia Elemental.",
+        "ru": "Фрукт с дерева Обычная Дзикака. Можно съесть, чтобы получить 30 Элементальной Энергии.",
+        "th": "ผลไม้ที่เก็บจากต้น Standard Jikaka เมื่อทานจะได้รับพลังงานธาตุ 30 หน่วย",
+        "vi": "Quả hái từ cây Jikaka không thuộc tính, khi dùng nhận được 30 điểm năng lượng không thuộc tính."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

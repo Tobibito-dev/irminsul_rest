@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Thundersoother's Heart",
+        "de": "Herz des Donnerbändigers",
+        "chs": "平雷之心",
+        "cht": "平雷之心",
+        "es": "Corazón del Domador de Truenos",
+        "fr": "Cœur du Dompteur de foudre",
+        "id": "Thundersoother's Heart",
+        "jp": "雷討ちの心",
+        "kr": "뇌전 정복자의 마음",
+        "pt": "Coração do Domador de Raios",
+        "ru": "Сердце усмиряющего гром",
+        "th": "Thundersoother's Heart",
+        "vi": "Trái Tim Bình Lôi"
+    },
+    "id": 23449,
+    "setId": 14002,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

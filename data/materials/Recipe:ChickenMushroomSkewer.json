@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Chicken-Mushroom Skewer",
+        "de": "Rezept: Spieß mit Pilzen und Hühnchen",
+        "chs": "食谱：野菇鸡肉串",
+        "cht": "食譜：野菇雞肉串",
+        "es": "Receta: Brocheta de champiñones y pollo",
+        "fr": "Recette : Brochette de poulet et de champignons",
+        "id": "Resep: Chicken-Mushroom Skewer",
+        "jp": "レシピ：鳥肉と野生キノコの串焼き",
+        "kr": "레시피: 버섯 닭꼬치",
+        "pt": "Receita: Espeto de Frango com Cogumelos",
+        "ru": "Рецепт: Куриный шашлычок с грибами",
+        "th": "สูตรอาหาร: Chicken-Mushroom Skewer",
+        "vi": "Công Thức: Xiên Thịt Gà Nấm"
+    },
+    "id": 109101,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Chicken-Mushroom Skewer.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Spieß mit Pilzen und Hühnchen“.",
+        "chs": "步骤详实的食谱，记载着「野菇鸡肉串」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「野菇雞肉串」的製作方法。",
+        "es": "Receta paso a paso para hacer una brocheta de champiñones y pollo",
+        "fr": "Étapes de préparation de la brochette de poulet et de champignons.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Chicken-Mushroom Skewer.",
+        "jp": "「鳥肉と野生キノコの串焼き」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「버섯 닭꼬치」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo do \"Espeto de Frango com Cogumelos\".",
+        "ru": "Подробный рецепт приготовления блюда «Куриный шашлычок с грибами».",
+        "th": "สูตรอธิบายวิธีทำ \"Chicken-Mushroom Skewer\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Xiên Thịt Gà Nấm\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

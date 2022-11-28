@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Serene Flames",
+        "de": "Gelassene Flammen",
+        "chs": "优悠之火",
+        "cht": "優悠之火",
+        "es": "Llamas serenas",
+        "fr": "Flammes sereines",
+        "id": "Api yang Tenang",
+        "jp": "悠々たる炎",
+        "kr": "유유한 불길",
+        "pt": "Chamas Serenas",
+        "ru": "Безмятежное пламя",
+        "th": "เปลวไฟอันเงียบสงบ",
+        "vi": "Ngọn Lửa Yên Bình"
+    },
+    "id": 393138,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making Serene Flames.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Gelassene Flammen“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「优悠之火」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「優悠之火」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar unas Llamas serenas.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication des flammes sereines.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Api yang Tenang\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「悠々たる炎」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「유유한 불길」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Chamas Serenas\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Безмятежное пламя».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างเปลวไฟอันเงียบสงบ\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ngọn Lửa Yên Bình\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

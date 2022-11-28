@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Woodlands",
+        "de": "Erlebnispass – Waldland",
+        "chs": "纪行·深林",
+        "cht": "紀行·深林",
+        "es": "PB - Profundidades de la selva",
+        "fr": "PB - Fond des bois",
+        "id": "Catatan Perjalanan: Hutan Lebat",
+        "jp": "紀行·深林",
+        "kr": "기행·깊은 숲",
+        "pt": "Passe de Batalha Profundezas da Floresta",
+        "ru": "Чаща леса",
+        "th": "บันทึก - ป่าลึก",
+        "vi": "Nhật Ký Hành Trình - Rừng Sâu"
+    },
+    "id": 210127,
+    "materialDesc": {
+        "en": "Namecard style.\\nBeneath the tranquil moon and inside the deep valley grows blooming roses. 'Tis a paradise with your presence.",
+        "de": "Ein Motiv für Namenskärtchen.\\nIm tiefen Tal des Waldes, begleitet vom stillen Mond, wachsen blühende Rosen. Wenn du auch hier wärst, wäre es hier ein Paradies.",
+        "chs": "名片纹饰。\\n深林幽谷之间，蔷薇伴月安绽。若得与你相伴，此处便是乐园。",
+        "cht": "#名片紋飾。\\n深林幽谷之間，薔薇伴月安綻。若得與{F#妳}{M#你}相伴，此處便是樂園。",
+        "es": "Diseño de tarjeta de presentación.\\nEntre bosques y profundos valles, las rosas florecen bajo la luna. Disfruta de este lugar en compañía de otros y te parecerá todo un paraíso.",
+        "fr": "Thème.\\nDes roses s'épanouissent dans la vallée sous la lune tranquille. C'est un paradis en votre présence.",
+        "id": "Style Kartu Nama.\\nDi antara kedalaman hutan dan lembah, mawar mekar ditemani bulan. Jika harus menemani dirimu, tempat ini adalah tanah kebahagiaan.",
+        "jp": "名刺の飾り紋。\\n深林幽谷の間で、月と共に薔薇が咲く。あなたと一緒なら、ここが楽園。",
+        "kr": "명함 스킨.\\n깊은 숲속 으슥한 골짜기 사이로 달과 함께 장미가 피어난다. 너와 함께라면 이곳은 낙원이다",
+        "pt": "Estilo de Cartão de Visita.\\nAs rosas desabrocham em vales profundos sob o luar. Esse lugar é como um paraíso.",
+        "ru": "Именная карта.\\nВ укрытой лесами долине под светом луны разрастаются розы. Ваше присутствие превращает это место в настоящий рай.",
+        "th": "ลายนามบัตร\\nท่ามกลางป่าลึกและหุบเขา กุหลาบเบ่งบานเคียงข้างจันทรา หากได้อยู่ข้างกายคุณ ที่แห่งนี้ก็คงเป็นแดนสวรรค์",
+        "vi": "Hoa văn danh thiếp.\\nGiữa thung lũng rừng sâu, tường vi yên tĩnh bầu bạn bên ánh trăng. Nếu có bạn kề bên, nơi này sẽ là một thiên đường."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

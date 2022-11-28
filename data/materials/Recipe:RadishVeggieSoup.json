@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Radish Veggie Soup",
+        "de": "Rezept: Rettichsuppe",
+        "chs": "食谱：萝卜时蔬汤",
+        "cht": "食譜：蘿蔔時蔬湯",
+        "es": "Receta: Sopa vegetariana de rábano",
+        "fr": "Recette : Soupe de radis",
+        "id": "Resep: Radish Veggie Soup",
+        "jp": "レシピ：大根入りの野菜スープ",
+        "kr": "레시피: 무 수프",
+        "pt": "Receita: Sopa de Rabanete e Vegetais",
+        "ru": "Рецепт: Овощной суп",
+        "th": "สูตรอาหาร: Radish Veggie Soup",
+        "vi": "Công Thức: Canh Rau Củ"
+    },
+    "id": 109302,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Radish Veggie Soup.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Rettichsuppe“.",
+        "chs": "步骤详实的食谱，记载着「萝卜时蔬汤」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「蘿蔔時蔬湯」的製作方法。",
+        "es": "Receta paso a paso para hacer una sopa vegetariana de rábano.",
+        "fr": "Étapes de préparation de la soupe de radis.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Radish Veggie Soup.",
+        "jp": "「大根入りの野菜スープ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「무 수프」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo da \"Sopa de Rabanete e Vegetais\".",
+        "ru": "Подробный рецепт приготовления блюда «Овощной суп».",
+        "th": "สูตรอธิบายวิธีทำ \"Radish Veggie Soup\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Canh Rau Củ\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

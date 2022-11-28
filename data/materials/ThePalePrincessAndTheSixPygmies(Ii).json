@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Pale Princess and the Six Pygmies (II)",
+        "de": "Schneemädchen und die sechs Winzlinge – Band II",
+        "chs": "白之公主与六侏儒·卷二",
+        "cht": "白之公主與六侏儒·卷二",
+        "es": "La Princesa de las Nieves y los seis enanos (II)",
+        "fr": "Princesse Neige et les Six Nains - Tome II",
+        "id": "Putri Putih dan Enam Kurcaci (II)",
+        "jp": "白姫と六人の小人·2",
+        "kr": "하얀 공주와 여섯 난쟁이·권2",
+        "pt": "A Branca de Neve e os 6 Anões (II)",
+        "ru": "Снежная принцесса и шесть карликов. Том II",
+        "th": "เจ้าหญิงหิมะกับคนแคระทั้งหก (II)",
+        "vi": "Công Chúa Bạch Chi và 6 Chú Lùn (II)"
+    },
+    "id": 100216,
+    "materialDesc": {
+        "en": "A fairytale story that has been told throughout Teyvat for ages. This installment tells of the meeting of the Pale Princess and the Light Prince.",
+        "de": "Ein Märchen, das man sich schon lange überall in Teyvat erzählt. In diesem Band geht es um die Begegnung von Schneemädchen und dem Prinzen des Lichts.",
+        "chs": "在提瓦特大陆各地流传已久的童话，本册讲述了白之公主与光之王子的相遇。",
+        "cht": "在提瓦特大陸各地流傳已久的童話，本冊講述了白之公主與光之王子的相遇。",
+        "es": "Un cuento muy conocido en Teyvat. Este volumen cuenta la historia de la Princesa de las Nieves y el Príncipe de la Luz.",
+        "fr": "Un conte traditionnel populaire en Teyvat. Ce deuxième tome se focalise sur la rencontre de la Princesse Neige et du prince.",
+        "id": "Dongeng yang terkenal di seluruh Teyvat sejak zaman dahulu. Jilid ini mengisahkan pertempuan Putri Putih dan Pangeran Cahaya.",
+        "jp": "テイワット各地に古くから伝わってきた童話。白の姫と光の王子の出会いを語る一冊。",
+        "kr": "티바트 대륙 전역에서 오랫동안 전해져 온 동화. 하얀 공주와 빛의 왕자의 만남에 대한 이야기가 적혀있다",
+        "pt": "Um conto muito conhecido em Teyvat. Este volume conta a história da Branca de Neve e do Príncipe da Luz.",
+        "ru": "Сказка, которую рассказывали взрослые своим детям по всему Тейвату. Эта часть повествует о встрече Снежной принцессы и принца Света.",
+        "th": "เทพนิยายที่เล่าขานกันมานานใน Teyvat ในเล่มนี้จะกล่าวถึงการพบกันขององค์หญิงหิมะและองค์ชายแห่งแสง",
+        "vi": "Là câu chuyện cổ tích được lưu truyền từ rất lâu ở Teyvat, quyển này kể về cuộc gặp gỡ của công chúa Bạch Chi và hoàng tử Ánh Sáng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

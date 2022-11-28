@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pharmacist's Notebook (I)",
+        "de": "Notizbuch des Apothekers I",
+        "chs": "药师的笔记本·一",
+        "cht": "藥師的筆記本·一",
+        "es": "Nota del boticario (I)",
+        "fr": "Carnet de pharmacien I",
+        "id": "Buku Catatan Apoteker (I)",
+        "jp": "薬師の手帳·一",
+        "kr": "약사의 수첩·첫 번째",
+        "pt": "Caderno do Farmacêutico (I)",
+        "ru": "Дневник травника (I)",
+        "th": "สมุดบันทึกของเภสัชกร I",
+        "vi": "Nhật Ký Dược Sư I"
+    },
+    "id": 100971,
+    "materialDesc": {
+        "en": "Notes left by Yasumoto. They still smell strongly of Naku Weed.",
+        "de": "Von Yasumoto zurückgelassene Aufzeichnungen, die einen starken Geruch von Naku-Kraut verströmen.",
+        "chs": "保本留下的笔记，散发着浓烈的鸣草气息。",
+        "cht": "保本留下的筆記，散發著濃烈的鳴草氣息。",
+        "es": "Unas notas escritas por Yasumoto. Desprenden un fuerte olor a percibetormentas.",
+        "fr": "Des notes laissées par Yasumoto. Elles sentent encore fortement l'herbe à sanglots.",
+        "id": "Catatan yang ditinggalkan Yasumoto, dari dalam tercium aroma Naku Weed yang kuat.",
+        "jp": "保本が残したノート。強烈な鳴草のにおいが漂う。",
+        "kr": "야스모토가 남긴 노트, 진한 울림풀 향이 난다",
+        "pt": "Notas deixadas por Yasumoto. Elas emitem um cheio forte de Erva Naku.",
+        "ru": "Заметки, оставленные Ясумото. От них исходит запах травы наку.",
+        "th": "บันทึกที่ Yasumoto ทิ้งไว้ ส่งกลิ่นหอมของ Naku Weed ออกมา",
+        "vi": "Nhật ký của Yasumoto để lại, tỏa ra mùi Cỏ Naku."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

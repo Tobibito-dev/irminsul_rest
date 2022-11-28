@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "String of Pearls (II)",
+        "de": "Perlen der Liebe – Band II",
+        "chs": "连心珠·卷二",
+        "cht": "連心珠·卷二",
+        "es": "La pulsera de perlas (II)",
+        "fr": "Perle du cœur - Tome II",
+        "id": "Mutiara dalam Hati (II)",
+        "jp": "連心珠·2",
+        "kr": "연심주·권2",
+        "pt": "Pérola de Coração (II)",
+        "ru": "Жемчужная нить. Том II",
+        "th": "ไข่มุกแห่งดวงใจ (II)",
+        "vi": "Liên Tâm Châu (II)"
+    },
+    "id": 100643,
+    "materialDesc": {
+        "en": "The young man who had returned Zixin's string of pearls left without revealing his name. Grandma Zhang comes up with a plan that will allow Zixin to find him...",
+        "de": "Bevor Zixin den Namen des jungen Mannes erfahren konnte, der ihr das Armband zurückgab, war er auch bereits wieder gegangen. Um ihn wiederzufinden, brachte Oma Zhang sie auf eine Idee ...",
+        "chs": "梓心尚未得知归还珠串的青年的姓名，他便已经走远，为了找到他，张婆给梓心出了个主意…",
+        "cht": "梓心尚未得知歸還珠串的青年的姓名，他便已經走遠，為了找到他，張婆為梓心出了個主意…",
+        "es": "Antes de que Zi Xin pudiera conocer el nombre del joven que le devolvió su pulsera, este ya se había marchado. Para encontrarlo, la Sra. Zhang le dio una idea...",
+        "fr": "Le jeune homme qui a rapporté le collier de perles de Zixin est parti sans révéler son nom. Mamie Zhang propose un plan qui permettra à Zixin de le retrouver...",
+        "id": "Pria muda yang telah mengembalikan untaian mutiara Zixin pergi tanpa memberi tahukan namanya. Nenek Zhang membuat rencana bagaimana agar Zixin dapat menemukannya.",
+        "jp": "梓心は数珠を返してくれた青年の名前を知る前に、彼はその場から立ち去ってしまった。彼を探し出すために、張ばあは梓心のためにある方法を教えた…",
+        "kr": "심청은 진주 목걸이를 찾아준 청년의 이름을 알아내지 못했다. 이미 떠나버린 그를 찾기 위해 장 할머니가 주신에게 방법을 알려준다…",
+        "pt": "O homem que encontrou a pulseira de pérolas de Zixin partiu seu revelar seu nome. A Vovó Zhang pensou em um plano para Zixin encontrá-lo...",
+        "ru": "Молодой человек, вернувший Цзысинь её жемчужную нить, ушёл, не назвав своего имени. Матушка Чжан придумывает план, который позволит Цзысинь найти его...",
+        "th": "Zixin ยังไม่ทันจะรู้ชื่อของชายหนุ่มที่เอากำไลมุกมาคืน เขาก็หายตัวไปเสียแล้ว คุณยาย Zhang จึงคิดวิธีเพื่อช่วยให้ Zixin ตามหาเขา...",
+        "vi": "Zixin chưa biết tên của người trả lại chuỗi hạt thì người đó đã đi rồi, để tìm được anh ta, Bà Zhang đã bày cho Zixin một cách..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

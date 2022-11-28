@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fish With Cream Sauce",
+        "de": "Fisch in Milchsoße",
+        "chs": "奶酱鲜鱼",
+        "cht": "奶醬鮮魚",
+        "es": "Pescado a la crema",
+        "fr": "Poisson à la crème",
+        "id": "Fish with Cream Sauce",
+        "jp": "魚のクリームソース",
+        "kr": "크림소스 생선",
+        "pt": "Peixe ao Creme",
+        "ru": "Рыба в сливочном соусе",
+        "th": "Fish with Cream Sauce",
+        "vi": "Cá Tươi Sốt Kem"
+    },
+    "id": 108434,
+    "materialDesc": {
+        "en": "A fish served in sauce. Fresh fish filets were dried before pan-fried until crispy, then drizzled with a creamy white dressing and sprinkled with fresh mint. A unique dish that can be made through the simplest methods.",
+        "de": "Fischgericht mit Soße. Frische Fischstücke trocknen und braten. Den knusprigen und schmackhaften Fisch dann mit schneeweißer Milchsoße und grüner Minze servieren. Dieses Gericht ist einfach zuzubereiten, hat aber einen einzigartigen Geschmack.",
+        "chs": "佐以酱汁的鱼料理。将新鲜的鱼块擦干水分后进行煎烤，皮脆肉香的鱼肉再缀以雪白奶酱和翠绿薄荷。简单的做法，带来别具一格的美味。",
+        "cht": "佐以醬汁的魚料理。將新鮮的魚塊擦乾水分後進行煎烤，皮脆肉香的魚肉再綴以雪白奶醬和翠綠薄荷。簡單的做法，帶來別具一格的美味。",
+        "es": "Un plato de pescado servido en salsa. El pescado fresco se seca y se cocina al horno. La piel crujiente se cubre con una salsa de crema blanca y menta verde. Una receta sencilla para un sabor único.",
+        "fr": "Un plat de poisson servi en sauce. Un filet de poisson frais a été séché avant d'être frit à la poêle. Sa chair juteuse a été cuite jusqu'à ce que l'extérieur devienne croustillant. On l'a ensuite plongé dans une sauce blanche crémeuse, puis de la menthe de couleur vert jade a été répandue dessus pour le décorer. C'est un plat facile à réaliser, mais au goût unique.",
+        "id": "Hidangan ikan yang dilumuri dengan saus. Potongan ikan segar dikeringkan dan dipanggang. Ikan dengan kulit yang renyah dan daging yang harum dihias dengan saus susu berwarna putih salju dan mint berwarna hijau. Sungguh, sebuah resep sederhana untuk rasa yang unik.",
+        "jp": "魚にソースをかけた料理。新鮮な魚を干して焼き上げ、パリッとした皮と香ばしい魚肉に雪のようなクリームソースと緑のミントを飾る。調理法はシンプルだが、独特な風味がある。",
+        "kr": "소스를 곁들인 생선요리. 신선한 생선의 물기를 깨끗이 닦은 후 껍질이 바삭해지도록 구워 크림소스와 허브를 곁들인 요리이다. 만드는 방법은 간단하지만 독특하고 뛰어난 맛을 자랑한다",
+        "pt": "Um prato de peixe servido com molho. O peixe fresco é seco e assado. A pele crocante é coberta com um molho de creme branco e menta verde. Uma receita simples com um sabor único.",
+        "ru": "Рыба, сервированная сливочным соусом. Свежую рыбу нарезают на кусочки, промакивают полотенцем, после чего поджаривают до золотистой корочки. Готовое блюдо украшают белоснежным сливочным соусом и листочком мяты. Просто и очень вкусно!",
+        "th": "เมนูปลาในน้ำซอส แล่เนื้อปลาสดให้เป็นชิ้น แล้วมาซับน้ำให้แห้งก่อนนำไปย่าง รอจนหนังเริ่มกรอบและส่งกลิ่นหอม จากนั้นราดด้วยซอสครีมสีขาวและ Mint เป็นวิธีการทำที่เรียบง่าย แต่กลับให้รสชาติที่มีเอกลักษณ์",
+        "vi": "Món cá được kết hợp với nước sốt. Lau sạch phần nước trên miếng cá rồi đem chiên, thịt cá thơm ngon giòn giòn được tô điểm thêm sốt sữa tươi và bạc hà màu xanh. Cách làm đơn giản nhưng đem lại hương vị thơm ngon độc đáo."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

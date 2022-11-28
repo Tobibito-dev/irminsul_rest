@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Neat Stack of Fir Kegs",
+        "de": "Ordentlich gestapelte Tannenweinfässer",
+        "chs": "有序叠放的杉木酒桶",
+        "cht": "有序疊放的杉木酒桶",
+        "es": "Barriles de abeto ordenados",
+        "fr": "Empilement ordonné de tonneaux en épicéa",
+        "id": "Gentong Kayu Fir yang Rapi",
+        "jp": "ちゃんと積み上げられた杉の酒樽",
+        "kr": "가지런히 놓인 삼나무 술통",
+        "pt": "Pilha Organizada de Barris de Abeto",
+        "ru": "Аккуратно сложенные бочки из пихты",
+        "th": "ถังไวน์วางซ้อนกัน",
+        "vi": "Thùng Rượu Gỗ Sam Xếp Ngay Ngắn"
+    },
+    "id": 393102,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Neat Stack of Fir Kegs.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Ordentlich gestapelte Tannenweinfässer“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「有序叠放的杉木酒桶」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「有序疊放的杉木酒桶」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Barriles de abeto ordenados.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'empilement ordonné de tonneaux en épicéa.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Gentong Kayu Fir yang Rapi\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「ちゃんと積み上げられた杉の酒樽」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「가지런히 놓인 삼나무 술통」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Pilha Organizada de Barris de Abeto\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Аккуратно сложенные бочки из пихты».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ถังไวน์วางซ้อนกัน\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thùng Rượu Gỗ Sam Xếp Ngay Ngắn\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

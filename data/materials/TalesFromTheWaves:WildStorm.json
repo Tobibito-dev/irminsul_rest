@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tales From the Waves: Wild Storm",
+        "de": "Mit den Wellen – Stürmische Brandung",
+        "chs": "浮浪记·狂涛",
+        "cht": "浮浪記·狂濤",
+        "es": "La leyenda de los mares: Olas salvajes",
+        "fr": "Journal du vagabond - Vagues sauvages",
+        "id": "Cerita dari Ombak: Badai Liar",
+        "jp": "浮浪記·怒涛",
+        "kr": "방랑기·거센 파도",
+        "pt": "Diário das Ondas: Ondas Selvagens",
+        "ru": "Записи бродяги. Волны",
+        "th": "บันทึกแห่งเกลียวคลื่น: คลื่นยักษ์",
+        "vi": "Nhật Ký Sóng Vỗ - Sóng Cuốn"
+    },
+    "id": 100566,
+    "materialDesc": {
+        "en": "To the never-ending tune of the ocean, the seafarer fought against the phenomenal foe of fate, fighting to the bitter end...",
+        "de": "Zum Widerhallen des Rauschens der Wellen im Sturm kämpfte der Seefahrer gegen die Fesseln des Schicksals.",
+        "chs": "在不息回荡的海歌中，船师与命运的强敌搏斗至最后。",
+        "cht": "在不息迴盪的海歌中，船師與命運的強敵搏鬥至最後。",
+        "es": "Al son de la interminable melodía del océano, el marinero luchó contra el enemigo con quien estaba predestinado a luchar hasta encontrarse con su amargo final.",
+        "fr": "Dans le bruit abasourdissant des vagues en pleine tempête, le marin s'est battu contre les chaînes du destin jusqu'à la fin...",
+        "id": "Di tengah suara nyanyian ombak yang tidak pernah berhenti, sang pelaut bertarung melawan musuh terbesarnya, yaitu takdir.",
+        "jp": "響き止まない海の歌を背景に、船頭は運命の強敵と最期まで戦っていた。",
+        "kr": "선장은 뱃노래가 쉬지 않고 울려 퍼지는 가운데, 운명의 적과 마지막까지 싸웠다",
+        "pt": "Ao som sem fim do oceano, o marinheiro lutou contra o fenomenal inimigo do destino, lutando até o fim...",
+        "ru": "Под бесконечную песнь волн Капитан, сойдясь в схватке с самой судьбой, сражался до горького конца.",
+        "th": "ในบทเพลงที่ไม่มีที่สิ้นสุดนั้น กัปตันต่อสู้กับศัตรูแห่งโชคชะตาจนวินาทีสุดท้าย",
+        "vi": "Trong bài ca biển cả không ngừng vang vọng, thuyền sư chiến đấu kịch liệt với kẻ địch của số mệnh, cho đến giờ phút cuối cùng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

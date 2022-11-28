@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guide to Resistance",
+        "de": "Anleitung zum „Widerstand“",
+        "chs": "「抗争」的指引",
+        "cht": "「抗爭」的指引",
+        "es": "Guía de la resistencia",
+        "fr": "Guide de la Résistance",
+        "id": "Guide to \"Resistance\"",
+        "jp": "「抗争」の導き",
+        "kr": "「투쟁」의 인도",
+        "pt": "Guia de Resistência",
+        "ru": "Указания о «Борьбе»",
+        "th": "Guide to Resistance",
+        "vi": "Hướng Dẫn Của \"Kháng Chiến\""
+    },
+    "id": 104305,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nResistance is the backbone of the city of Wind.\\nThe history of Mondstadt is one of resistances. People rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow, or like Vennessa rising up to fight.",
+        "de": "Material zum Verbessern von Talenten.\\nWiderstand ist Stütze des Reiches des Windes.\\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts lässt die Menschen in Freiheit leben. Er ist wie der Schnee, den der Gott des Windes durch das Land treibt, wie Vennessa im Kampf gegen die Unterdrücker.",
+        "chs": "天赋培养素材。\\n风之国土的脊梁是抗争。\\n蒙德的历史即是抗争的历史。抗争是为了蒙德现在的人们能够拥有自由，正如风之神吹散冰雪，正如温妮莎奋起抗争。",
+        "cht": "天賦培養素材。\\n風之國土的脊樑是抗爭。\\n蒙德的歷史即是抗爭的歷史。抗爭是為了蒙德現在的人們能夠擁有自由，正如風之神吹散冰雪，正如溫妮莎奮起抗爭。",
+        "es": "Material de mejora de talento.\\nLa resistencia es la columna vertebral del Reino del Viento.\\nLa historia de Mondstadt es una historia de resistencia. Para conceder a los ciudadanos de Mondstadt la libertad de la que ahora disfrutan, el Arconte Anemo allanó la tierra, y Vennessa luchó con valentía.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nLa résistance constitue l'échine du Royaume du Vent.\\nElle a marqué son histoire à travers les âges. Certains ont agi pour que le peuple jouisse de sa liberté actuelle, comme Barbatos qui a dispersé la neige et Vennessa qui s'est rebellée.",
+        "id": "Material Penguatan Talenta.\\nPerlawanan adalah tulang punggung Kerajaan Angin.\\nSejarah Mondstadt adalah sejarah perlawanan. Rakyat bangkit untuk memberikan Mondstadt kebebasan yang mereka sekarang nikmati, seperti Archon Anemo yang meniup pergi salju, atau seperti Vennessa yang bangkit untuk melawan.",
+        "jp": "天賦育成素材。\\n風の国の支柱は抗争である。\\nモンドの歴史はすなわち抗争の歴史。モンドの人々が自由であるために抗争する、それは風神が氷雪を散らし、ヴァネッサが立ち上がって戦うと同じである。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 중추는 투쟁이다.\\n몬드의 역사는 투쟁의 역사다. 투쟁은 현재 몬드 사람들의 자유를 위함이다. 마치 바람 신이 눈을 녹이고 바네사가 궐기했 듯이…",
+        "pt": "Material para aprimorar o nível de Talento.\\nA resistência é a Espinha dorsal da cidade do Vento.\\nA história de Mondstadt é uma das resistências. As pessoas se levantaram para conceder aos cidadãos de Mondstadt a liberdade que agora desfrutam, como o Arconte Anemo soprando a neve, ou como a Vennessa se levantando para lutar.",
+        "ru": "Материал повышения таланта.\\nСопротивление - это основа царства ветров.\\nИстория Мондштадта - это история сопротивления. Люди восстали, чтобы отвоевать свою свободу. Они словно Анемо Архонт, раздувающий снега, словно Веннесса, которая поднимается с колен, чтобы сражаться.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nการป้องกันคือกระดูกสันหลังของประเทศแห่งสายลม\\nประวัติศาสตร์ของ Mondstadt นั้นคือประวัติศาสตร์แห่งการป้องกัน ป้องกันเพื่อให้ผู้คนของ Mondstadt ในทุกวันนี้นั้นมีอิสรภาพ เฉกเช่นเทพแห่งลมที่ปัดเป่าหิมะให้ กระจาย เฉกเช่น Vennessa ที่ลุกขึ้นต่อสู้",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nNền tảng đất nước của gió là kháng chiến.\\nLịch sử của Mondstadt là lịch sử của kháng chiến. Kháng chiến là để người dân Mondstadt có thể tự do, như việc Phong Thần thổi tan những đám băng, như Vennessa đứng lên kháng chiến."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

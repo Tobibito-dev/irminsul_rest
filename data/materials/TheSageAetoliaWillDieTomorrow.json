@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Sage Aetolia Will Die Tomorrow",
+        "de": "Die Weise Aetolia, die morgen dahinscheiden wird",
+        "chs": "将于明日逝去的贤者埃托莉亚",
+        "cht": "將於明日逝去的賢者埃托莉亞",
+        "es": "El sabio Aetolia morirá mañana",
+        "fr": "Le sage Aetolia mourra demain",
+        "id": "Aetolia Bijak yang Akan Mati Besok",
+        "jp": "明日に死す賢者エトリア",
+        "kr": "내일이면 죽을 현자 아이톨리아",
+        "pt": "O Sábio Aetolia Morrerá Amanhã",
+        "ru": "Мудрец Аэтолия погибнет завтра",
+        "th": "Sage Aetolia ผู้จากไปในวันรุ่งขึ้น",
+        "vi": "Hiền Giả Aetolia Sẽ Mất Vào Ngày Mai"
+    },
+    "id": 100861,
+    "materialDesc": {
+        "en": "A fantasy novel. From the packaging, it seems that this book has used various setting intricacies to attract many readers...",
+        "de": "Ein Fantasieroman. Dem Umschlag zufolge scheint es, dass dieses Buch vielschichtige Verwicklungen darlegt, um eine große Leserzahl anzusprechen ...",
+        "chs": "一本幻想背景的小说。据腰封看，这本小说似乎以各类精巧的设定吸引了众多读者…",
+        "cht": "一本幻想背景的小說。根據書腰的介紹，這本小說似乎以各類精巧的設定吸引了眾多讀者…",
+        "es": "Una novela de fantasía. Según se lee en la portada, parece que esta novela incorporó complejidades ingeniosas para atraer a numerosos lectores...",
+        "fr": "Un roman fantastique. D'après la couverture, il semble que ce livre utilise diverses subtilités de mise en scène pour attirer un public varié...",
+        "id": "Sebuah novel fantasi. Dari kemasannya saja terlihat kalau novel ini menggunakan banyak latar cerita untuk menarik pembaca.",
+        "jp": "ファンタジー小説。帯の紹介によると、この小説は緻密に仕組まれた様々な設定により、多くの読者を魅了したらしい…",
+        "kr": "판타지 소설. 책의 띠지로 보면, 재치 있는 설정으로 많은 독자의 관심을 끌고 있는 작품인 듯하다…",
+        "pt": "Uma história de fantasia. Pela embalagem, parece que este livro tem vários detalhes complexos para atrair muitos leitores...",
+        "ru": "Фэнтезийный роман. Судя по манжете книги, своими хитроумными ходами она привлекла немало читателей...",
+        "th": "นิยายที่มีเบื้องหลังมาจากจินตนาการ ดูจากสายคาดหนังสือแล้ว นิยายเรื่องนี้ดูเหมือนจะดึงดูดผู้อ่านจำนวนมาก ด้วยการเดินเรื่องที่แสนประณีตในรูปแบบต่าง ๆ...",
+        "vi": "Một cuốn tiểu thuyết với bối cảnh giả tưởng. Cuốn tiểu thuyết này dường như đã thu hút được nhiều độc giả với nhiều cách sắp đặt tài tình khác nhau."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

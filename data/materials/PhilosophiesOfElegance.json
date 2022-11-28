@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of Elegance",
+        "de": "Philosophie der „Eleganz“",
+        "chs": "「风雅」的哲学",
+        "cht": "「風雅」的哲學",
+        "es": "Filosofía de la elegancia",
+        "fr": "Philosophie de l'Élégance",
+        "id": "Philosophies of Elegance",
+        "jp": "「風雅」の哲学",
+        "kr": "「풍아」의 철학",
+        "pt": "Filosofia da Cultura",
+        "ru": "Философия об «Изяществе»",
+        "th": "Philosophies of Elegance",
+        "vi": "Triết Học Của \"Nhã Nhặn\""
+    },
+    "id": 104325,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nElegance is the form of the nation of thunder.\\nElegance abhors vulgarity, and the elegant ever walk alone. Resisting base evils, unmoved by base loves, never taking refuge in base ignorance — that is how one perceives the chasm between the elegant and the contemptuous.",
+        "de": "Material zur Verbesserung von Talenten.\\nEleganz ist die Form des Reichs des Blitzes.\\nEleganz verabscheut Vulgarität und die Eleganten gehen immer allein. Unedlen Übeln widerstehend, unbewegt von unedler Liebe, niemals Zuflucht nehmend in unedler Unwissenheit – so sieht man die Kluft zwischen den Eleganten und den Verachteten.",
+        "chs": "天赋培养素材。\\n雷之国土的姿容是风雅。\\n风雅是不庸俗。风雅之人永远是独行的。不屈于平庸之恶，不感动于平庸之爱，不逃避于平庸的无知，才可能明辨何为雅致与鄙陋。",
+        "cht": "天賦培養素材。\\n雷之國土的姿容是風雅。\\n風雅是不庸俗。風雅之人永遠是獨行的。不屈於平庸之惡，不感動於平庸之愛，不逃避於平庸的無知，才可能明辨何為雅致與鄙陋。",
+        "es": "Material de mejora de talento.\\nLa elegancia es el aspecto natural del Reino del Trueno.\\nLa elegancia aborrece lo vulgar y nunca camina sola. Solo se podrá distinguir lo elegante de lo ordinario si se es implacable ante los males más vulgares, se es frío ante el amor vulgar y se huye de la vulgaridad de la ignorancia.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'élégance est la forme sous laquelle se présente la Nation du Tonnerre.\\nL'élégance abhorre la vulgarité, et l'élégant marche toujours seul. Résister aux vils maux, ne pas se laisser émouvoir par l'amour de la médiocrité, ne jamais se réfugier dans la basse ignorance, voilà comment on perçoit l'abîme entre l'élégant et le méprisant.",
+        "id": "Material Penguatan Talenta.\\n\"Elegance\" adalah wujud bangsa petir.\\nKeanggunan membenci hal-hal yang vulgar. Seseorang yang anggun akan selalu berjalan di jalan kebenarannya sendiri. Ia melawan kejahatan sekecil apa pun, tidak mudah diperdaya oleh cinta yang murahan, dan tidak pernah berlindung di balik pembenaran diri — itulah cara-cara yang digunakannya untuk membuat dirinya yang anggun terpisah dari mereka yang tidak terhormat.",
+        "jp": "天賦育成素材。\\n雷の国が表す姿は風雅である。\\n風雅とは、俗に染まらぬこと。風雅たる者は群れない。俗世の悪に屈せず、俗世の愛に心動かず、俗世の無知から逃れぬことで、優雅さと醜さを見極めることができる。",
+        "kr": "특성 육성 소재.\\n번개의 나라의 자태는 곧 고상함이다\\n고상함이라 함은 곧 속되지 아니함을 뜻한다. 고상한 자는 영원토록 독행한다. 중용한 악에 굴하지 아니하고, 평범한 사랑에 감명받지 아니하며, 용속한 무지에서 도망치지 않는 것. 이것이야말로 운치와 천박함을 분별하는 가장 훌륭한 방법이다",
+        "pt": "Material de Elevação de Talento.\\nA elegância define a nação do trovão.\\nA elegância abomina a vulgaridade e os elegantes andam sempre sozinhos. Resistir aos males comuns, ser indiferente aos amores comuns, nunca se refugiar na ignorância comum — é assim que se observa o abismo entre o elegante e o desdenhoso.",
+        "ru": "Материал повышения таланта.\\nИзящество - это облик царства гроз.\\nИзящество презирает вульгарность, а изящные люди всегда идут своим путём. Противление заурядному злу, безразличие к заурядной любви, отказ прятаться за заурядным невежеством - вот та пропасть, что отделяет изящное от ничтожного.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nรูปลักษณ์ของดินแดนแห่งสายฟ้านั้นช่างสง่างาม\\nผู้ที่สง่างามนั้นไม่ธรรมดาและมักจะเดินทางเพียงลำพัง ไม่ยอมจำนนต่อความชั่วร้าย ไม่หวั่นไหวเพราะความรัก ไม่หลบหลีกความโง่เขลา ถึงจะสามารถแยกแยะระหว่างความสง่างามและความธรรมดาได้",
+        "vi": "Nguyên liệu bồi dưỡng thiên phú.\\nDung mạo của Lôi quốc là sự nhã nhặn.\\nNhã nhặn không tầm thường. Một người nhã nhặn sẽ luôn bước đi một mình. Chỉ bằng cách không khuất phục trước cái ác của cái tầm thường, không bị lay động bởi tình yêu của cái tầm thường, hoặc thoát khỏi sự ngu dốt của cái tầm thường, thì mới có thể phân biệt được giữa tao nhã và tầm thường."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

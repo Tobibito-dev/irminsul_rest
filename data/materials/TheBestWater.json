@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"The Best Water\"",
+        "de": "„Köstlichstes Wasser“",
+        "chs": "「最好喝的水」",
+        "cht": "「最好喝的水」",
+        "es": "El agua más rica",
+        "fr": "#« La meilleure de toutes les eaux{NON_BREAK_SPACE}»",
+        "id": "\"Air Minum Terbaik\"",
+        "jp": "「最高に美味しい水」",
+        "kr": "「가장 맛있는 물」",
+        "pt": "A Melhor Água",
+        "ru": "«Вкуснейшая водица»",
+        "th": "\"น้ำที่อร่อยที่สุด\"",
+        "vi": "\"Nước Ngon Nhất\""
+    },
+    "id": 101944,
+    "materialDesc": {
+        "en": "Water collected in Vanarana, clear, cold, and refreshing — a leaf falling on top of it would look as if floating in the air. This is transparent water of extraordinary quality.",
+        "de": "In Vanarana gesammeltes Wasser. Es ist relativ klar, kalt und erfrischend. Wenn Blätter hineinfallen, ist es, als schweben sie in der Luft. Man kann klar erkennen, dass es Wasser höchster Qualität ist.",
+        "chs": "桓那兰那的水，相当清冽和冰凉，叶子落入这样的水里，就如同浮在空中一般。可以看得出来是品质非常高的水。",
+        "cht": "桓那蘭那的水，相當清冽和冰涼，葉子落入這樣的水裡，就如同浮在空中一般。可以看得出來是品質非常高的水。",
+        "es": "Agua fresca, pura y refrescante que recogiste en Vanarana. Las hojas que caen sobre el agua parecen flotar como nubes en el cielo. Se nota a simple vista que es agua de la mejor calidad.",
+        "fr": "De l'eau recueillie à Vanarana. Elle est limpide, froide et rafraîchissante. Lorsqu'une feuille se pose dessus, on a l'impression que cette dernière flotte dans les airs. C'est une eau transparente d'une qualité extraordinaire.",
+        "id": "Air yang diambil di Vanarana, jernih, dingin, dan menyegarkan — sehelai daun yang jatuh di atasnya akan terlihat seperti mengambang di udara. Ini adalah air transparan dengan kualitas luar biasa.",
+        "jp": "ヴァナラーナの水。かなり透き通っていて冷たい。この水に落ちた葉っぱはまるで空に浮かんでいるように見え、水質が最高だと分かる。",
+        "kr": "맑고 차가운 바나라나의 물. 잎이 물에 떨어지면 공중에 떠 있는 듯한 착각을 불러일으킨다. 한눈에 봐도 수질이 매우 좋다는 것을 알 수 있다",
+        "pt": "A água em Vanarana é bastante transparante e fria. Quando as folhas caem nesta água, é como se estivessem flutuando no ar. Pode-se ver que a água é de altíssima qualidade.",
+        "ru": "Чистая и прохладная вода из Ванараны. Листок, упавший на её гладь, кажется парящим в воздухе. Высочайшее качество этой воды видно невооружённым глазом.",
+        "th": "น้ำของ Vanarana ที่ค่อนข้างกระจ่างใสและเย็นเจี๊ยบ ทำให้ใบไม้ร่วงหล่นลงไปดูเหมือนกำลังลอยอยู่กลางอากาศ เห็นได้ชัดเลยว่าเป็นน้ำที่คุณภาพสูงมาก",
+        "vi": "Nước của Vanarana, khá trong và mát lạnh, những chiếc lá rơi xuống nước như thể đang lơ lửng trên không. Có thể thấy nước này có chất lượng rất cao."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

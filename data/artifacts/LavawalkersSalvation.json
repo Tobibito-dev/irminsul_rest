@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lavawalker's Salvation",
+        "de": "Entsagung des Lavaläufers",
+        "chs": "渡火者的解脱",
+        "cht": "渡火者的解脫",
+        "es": "Liberación del Corredor de Lava",
+        "fr": "Insouciance du Marcheur du feu",
+        "id": "Lavawalker's Salvation",
+        "jp": "火渡りの解放",
+        "kr": "불 위를 걷는 자의 해탈",
+        "pt": "Libertação do Corredor de Lava",
+        "ru": "Спасение ступающего по лаве",
+        "th": "Salvation of Lavawalker",
+        "vi": "Sự Giải Thoát Của Người Vượt Lửa"
+    },
+    "id": 23437,
+    "setId": 14003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

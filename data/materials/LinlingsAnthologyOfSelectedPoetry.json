@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Linling's Anthology of Selected Poetry",
+        "de": "Linlings gesammelte Werke",
+        "chs": "霖铃精选诗集",
+        "cht": "霖鈴精選詩集",
+        "es": "Selección poética de Linling",
+        "fr": "Compilation de poèmes de Linling",
+        "id": "Antologi Puisi Pilihan Linling",
+        "jp": "霖鈴精選詩集",
+        "kr": "임령 정선 시집",
+        "pt": "Seleção de Poemas de Linling",
+        "ru": "Сборник избранных стихов Линь Лин",
+        "th": "ชุดบทกวีที่ Linling คัดสรร",
+        "vi": "Tuyển Tập Thơ Linling"
+    },
+    "id": 100484,
+    "materialDesc": {
+        "en": "A collection of poetry that Linling published at her own expense. It is her first publication, and she is very proud of it.",
+        "de": "Eine Gedichtsammlung, die Linling auf eigene Kosten veröffentlichen ließ. Sie ist ihre erste Veröffentlichung, weshalb Linling sehr stolz darauf ist.",
+        "chs": "霖铃自费出版的精装诗集，是她的处女作，也是引以为豪的代表作。",
+        "cht": "霖鈴自費出版的精裝詩集，是她的處女作，也是引以為豪的代表作。",
+        "es": "Una colección de poesía que Linling publicó con dinero de su propio bolsillo. Es su primera publicación, y es considerada la más notable de sus obras.",
+        "fr": "Une anthologie de poèmes que Linling a auto-publié. Ce premier ouvrage rassemble le meilleur de son œuvre.",
+        "id": "Kumpulan puisi yang dirilis oleh Linling sendiri. Ini adalah karya pertamanya yang dirilis, dan dia sangat bangga akan itu.",
+        "jp": "霖鈴が自費で出版した詩集、彼女のデビュー作であり、自信作でもある。",
+        "kr": "임령이 사비로 출판한 정선 시집. 그녀의 데뷔작이자 자랑스러운 대표작이다",
+        "pt": "Uma coleção de poesia que Linling publicou às suas próprias custas. É a sua primeira publicação e ela tem muito orgulho disso.",
+        "ru": "Сборник стихов, который Линь Лин опубликовала за свой счёт. Это её первая публикация и она считается самой заметной из её работ.",
+        "th": "ชุดบทกวีปกแข็งที่ Linling ออกเงินตีพิมพ์เอง เป็นบทประพันธ์ชิ้นแรกของเธอและเป็นผลงานชิ้นสำคัญอันน่าภาคภูมิใจ",
+        "vi": "Tuyển tập thơ do Linling tự xuất bản là tác phẩm được viết khi cô ở độ tuổi thiếu nữ, cũng là tác phẩm đáng tự hào nhất của cô."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jean's Document Package",
+        "de": "Jeans Unterlagen",
+        "chs": "琴的文件包裹",
+        "cht": "琴的文件包裹",
+        "es": "Paquete de documentos de Jean",
+        "fr": "Paquet de documents de Jean",
+        "id": "Parsel Dokumen Jean",
+        "jp": "ジンの書類カバン",
+        "kr": "진의 서류가방",
+        "pt": "Pacote de Documentos da Jean",
+        "ru": "Посылка с документами Джинн",
+        "th": "แพ็กเอกสารของ Jean",
+        "vi": "Tài liệu của Jean"
+    },
+    "id": 100101,
+    "materialDesc": {
+        "en": "A few normal documents and a copy of Vera's Troubles.",
+        "de": "Außer einigen stinknormalen Dokumenten befindet sich in den Unterlagen eine Ausgabe von „Veras Verdruss“.",
+        "chs": "(test)此道具废弃",
+        "cht": "裡面除了日常文件，還有一本《少女薇拉的煩惱》。",
+        "es": "Unos cuantos documentos normales y una copia de \"Los Problemas de Vera\".",
+        "fr": "Quelques documents et un exemplaire du livre « Les soucis de Véra ».",
+        "id": "Beberapa dokumen formal dan sebuah salinan \"Vera's Troubles\".",
+        "jp": "中から日常的な書類と、『少女ヴィーラの悩み』という本が出てきた",
+        "kr": "평범한 문서 외에 《소녀 베라의 우울》 한 권이 들어 있다",
+        "pt": "Alguns documentos comuns e uma cópia de \"Os Problemas da Vera\".",
+        "ru": "Некоторые документы и копия Проблем Веры.",
+        "th": "เอกสารทั่วไป และสำเนาของ \"Vera's Troubles\"",
+        "vi": "Văn kiện thường ngày, trong đó có quyển \"Phiền não của Vera\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

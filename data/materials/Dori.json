@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dori",
+        "de": "Dori",
+        "chs": "多莉",
+        "cht": "多莉",
+        "es": "Dori",
+        "fr": "Dori",
+        "id": "Dori",
+        "jp": "ドリー",
+        "kr": "도리",
+        "pt": "Dori",
+        "ru": "Дори",
+        "th": "Dori",
+        "vi": "Dori"
+    },
+    "id": 1068,
+    "materialDesc": {
+        "en": "An elusive merchant who has a fondness for glittering Mora.",
+        "de": "Eine geheimnisvolle Händlerin in Sumeru, die eine Vorliebe für glitzernde Mora hat.",
+        "chs": "神出鬼没的旅行百货商人，最喜欢亮闪闪的摩拉。",
+        "cht": "神出鬼沒的旅行百貨商人，最喜歡閃亮亮的摩拉。",
+        "es": "Una impredecible comerciante itinerante cuya mayor pasión es el Mora contante y sonante.",
+        "fr": "Une marchande ambulante avec un penchant pour les moras scintillants.",
+        "id": "Pedagang keliling yang sulit dipahami dan paling suka dengan Mora yang berkilauan.",
+        "jp": "神出鬼没の旅商人。一番好きなものは、キラキラと輝くモラ。",
+        "kr": "신출귀몰한 여행 잡화 상인. 빛나는 모라를 가장 좋아한다",
+        "pt": "Uma comerciante viajante imprevisível, cuja maior paixão é a Mora brilhante.",
+        "ru": "Неуловимая негоциантка из Сумеру, которая больше всего любит блеск монет.",
+        "th": "แม่ค้าเร่สารพัดผู้ลึกลับ สิ่งที่ชอบที่สุดก็คือประกายแวววับของ Mora",
+        "vi": "Thương nhân bách hóa xuất quỷ nhập thần, say mê những đồng Mora sáng loáng."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

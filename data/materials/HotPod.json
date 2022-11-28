@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hot Pod",
+        "de": "Brandbombe",
+        "chs": "烫烫爆弹",
+        "cht": "燙燙爆彈",
+        "es": "Bomba calcinadora",
+        "fr": "Bombe brûlante",
+        "id": "Hot Pod",
+        "jp": "アツアツ爆弾",
+        "kr": "화끈화끈 폭탄",
+        "pt": "Bomba Queimante",
+        "ru": "Горячая бомба",
+        "th": "Hot Pod",
+        "vi": "Đạn Nổ Nóng Rực"
+    },
+    "id": 220031,
+    "materialDesc": {
+        "en": "A Harpastum Bomb brimming with Pyro energy. When unleashed, it will burst into violent flame, dealing a small amount of Pyro DMG over a small AoE. It is extraordinarily effective against Cryo shields.",
+        "de": "Eine Harpastum-Bombe, die vor Pyro-Energie nur so brummt. Wird sie entfesselt, explodiert sie gewaltig und verursacht zwar nur geringen Pyro-Schaden in einem kleinen Wirkungsbereich, doch sie ist außerordentlich effektiv gegen Kryo-Schilde.",
+        "chs": "充满了火元素力量的羽球爆弹。「绽放」时会猛烈燃烧，并在小范围内造成少量火元素伤害，对抗冰元素的防护时更为有效。",
+        "cht": "充滿了火元素力量的羽球爆彈。「綻放」時會猛烈燃燒，並在小範圍內造成少量火元素傷害，對抗冰元素的防護時更為有效。",
+        "es": "Un Harpastbum con un rebosante poder Pyro. Al explotar, produce un incendio que inflige algo de Daño Pyro en una pequeña área, muy eficaz para destruir escudos Cryo.",
+        "fr": "Une bombe harpastum débordant d'énergie Pyro. Lorsqu'on la libère, elle explose violemment, infligeant une petite quantité de DGT Pyro sur une petite zone, mais étant extrêmement efficace contre les boucliers Cryo.",
+        "id": "Bom Harpastum yang dipenuhi dengan energi Pyro. Saat dilancarkan, bom ini akan meledak hebat dan mengakibatkan sejumlah kecil Pyro DMG dalam area yang kecil, tapi sangat efektif terhadap perisai Cryo.",
+        "jp": "炎元素の力を込めたバドルドー爆弾。「開花」すると激しく燃え、小範囲に炎元素ダメージを与える。氷元素のシールドに対して効果抜群。",
+        "kr": "불 원소 에너지로 충만한 하르파스툼 폭탄. 「피어날」 때 맹렬히 연소되고 작은 범위 내에서 불 원소 피해를 준다. 물 원소 보호막을 깰 때 유용하게",
+        "pt": "Um Explosivo Harpastum cheio do poder elemental Pyro. Em sua explosão, causa queimaduras ferozes, e inflige Dano Pyro razoável numa AdE pequena. É extremamente eficiente para destruir Escudos Cryo.",
+        "ru": "Гарпастум-бомба, наполненная энергией Пиро. При высвобождении она взрывается и вызывает Горение, нанося небольшое количество Пиро урона по небольшой области. Чрезвычайно эффективна против Крио щитов.",
+        "th": "Harpastum Bomb ที่เต็มไปด้วยพลังธาตุไฟ เมื่อระเบิดจะก่อให้เกิดการเผาไหม้อย่างรุนแรง และสร้างความเสียหายไฟในพื้นที่วงแคบเล็กน้อย อีกทั้งยังมีประสิทธิภาพอย่างมากต่อโล่น้ำแข็งอีกด้วย",
+        "vi": "Đạn nổ hình cầu tràn trề sức mạnh nguyên tố Hỏa. Khi \"bùng nổ\" sẽ đốt cháy mãnh liệt, gây lượng nhỏ sát thương nguyên tố Hỏa trong phạm vi nhỏ, hiệu quả cao hơn đối với phòng thủ nguyên tố kháng Băng."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Adventurer's Flower",
+        "de": "Blume eines Abenteurers",
+        "chs": "冒险家之花",
+        "cht": "冒險家之花",
+        "es": "Flor del Aventurero",
+        "fr": "Fleur de l'Aventurier",
+        "id": "Adventurer's Flower",
+        "jp": "冒険者の花",
+        "kr": "모험가의 꽃",
+        "pt": "Rosa do Aventureiro",
+        "ru": "Цветок искателя приключений",
+        "th": "Adventurer's Flower",
+        "vi": "Hoa Nhà Mạo Hiểm"
+    },
+    "id": 60444,
+    "setId": 10010,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

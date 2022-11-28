@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Trust",
+        "de": "Vertrauen",
+        "chs": "信任值",
+        "cht": "信任值",
+        "es": "Confianza",
+        "fr": "Confiance",
+        "id": "Trust",
+        "jp": "信頼値",
+        "kr": "신뢰치",
+        "pt": "Confiança",
+        "ru": "Доверие",
+        "th": "Trust",
+        "vi": "Độ Tín Nhiệm"
+    },
+    "id": 121,
+    "materialDesc": {
+        "en": "Accumulate this to increase your Trust Rank.",
+        "de": "Kann gesammelt werden, um die Vertrauensstufe zu erhöhen.",
+        "chs": "累积后可提升信任等阶。",
+        "cht": "累積後可提升信任等階。",
+        "es": "Sirve para aumentar el rango de confianza.",
+        "fr": "Accumuler de la confiance augmente votre Niv. de confiance.",
+        "id": "Dikumpulkan untuk meningkatkan Tingkat Kepercayaan.",
+        "jp": "貯めると信頼ランクを上げることができる。",
+        "kr": "쌓이면 신뢰 등급이 오른다",
+        "pt": "Acumule isto para aumentar seu Nível de Confiança",
+        "ru": "Копите его, чтобы повышать уровень доверия.",
+        "th": "เมื่อสะสมแล้วจะสามารถเพิ่มระดับความน่าเชื่อถือได้",
+        "vi": "Sau khi tích lũy sẽ tăng cấp tín nhiệm"
+    },
+    "materialType": false
+}

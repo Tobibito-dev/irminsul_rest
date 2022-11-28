@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Veneficus Sigil",
+        "de": "Vorrichtungsmodul",
+        "chs": "奇术符",
+        "cht": "奇術符",
+        "es": "Ficha mágica",
+        "fr": "Jeton Veneficus",
+        "id": "Veneficus Sigil",
+        "jp": "奇術符",
+        "kr": "기술 부적",
+        "pt": "Amuleto Veneficus",
+        "ru": "Печать Венефикус",
+        "th": "Veneficus Sigil",
+        "vi": "Bùa Kỳ Thuật"
+    },
+    "id": 117,
+    "materialDesc": {
+        "en": "A resource used to build all manner of mechanisms in the Theater Mechanicus. Still, the word \"veneficus\" itself seems to come from some old book...",
+        "de": "Ein Material, mit dem alle möglichen Vorrichtungen im Theater der Vorrichtungen gebaut werden. Diese Vorrichtungen werden wohl auch in einem alten Buch erwähnt ...",
+        "chs": "在「机关棋谭」中用于建设各类机关的资源。据说，「奇术」这个名字是来自于一本古籍…",
+        "cht": "在「機關棋譚」中用於建設各類機關的資源。據說，「奇術」這個名字是來自於一本古籍…",
+        "es": "Recurso que sirve para construir todo tipo de mecanismos en la Arena mecánica. Tiene sus orígenes en un libro muy antiguo.",
+        "fr": "Une ressource utilisée pour obtenir toutes sortes de mécanismes lors de l'événement « Théâtre mécanique ». Son nom semble provenir de quelque livre ancien...",
+        "id": "Bahan yang digunakan untuk membuat berbagai jenis mekanisme di Theater Mechanicus. Konon katanya kata \"magisterium\" berasal dari sebuah buku kuno...",
+        "jp": "「機関棋譚」中に各機関を建造するための材料。噂によると、「奇術」という名前はある古籍に由来する…",
+        "kr": "「기관 디펜스」에서 각종 기관 건설에 사용되는 자원. 「기술(奇術)」이란 이름은 옛 서적에서 유래되었다고 한다…",
+        "pt": "Um recurso utilizado para construir todo tipo de Mechanici no Teatro Mechanicus. Ainda assim, o próprio nome \"Veneficus\" parece vir de algum livro antigo...",
+        "ru": "Ресурс, используемый для строительства всевозможных механизмов в Театре Механикус. И всё же само слово «Венефикус», кажется, взято из какой-то старинной книги...",
+        "th": "ทรัพยากรที่ใช้สร้างกลไกชนิดต่าง ๆ ใน Theater Mechanicus ว่ากันว่าชื่อ \"magisterium\" นี้มาจากหนังสือโบราณเล่มนึง...",
+        "vi": "Tài nguyên dùng để xây dựng cơ quan trong \"cờ cơ quan\". Nghe nói cái tên \"kỳ thuật\" bắt nguồn từ một cuốn sách cổ..."
+    },
+    "materialType": false
+}

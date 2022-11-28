@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yanbo's Note",
+        "de": "Yanbos Zettel",
+        "chs": "彦博的字条",
+        "cht": "彥博的字條",
+        "es": "Nota de Yanbo",
+        "fr": "Note de Yanbo",
+        "id": "Catatan Yanbo",
+        "jp": "彦博のメモ",
+        "kr": "언박의 쪽지",
+        "pt": "Nota de Yanbo",
+        "ru": "Записка Янь Бо",
+        "th": "ข้อความของ Yanbo",
+        "vi": "Ghi Chú Của Yanbo"
+    },
+    "id": 101711,
+    "materialDesc": {
+        "en": "A somewhat complete note, written in a neat hand. It seems to have been a letter left for an old friend.",
+        "de": "Ein Stück Papier. Der Inhalt darauf wurden in ordentlicher, sauberer Handschrift geschrieben. Es sieht wie ein Brief an einen alten Freund aus.",
+        "chs": "还算完整的字条，其上字迹工整，似乎是为老朋友留下的信笺。",
+        "cht": "還算完整的字條，其上字跡工整，似乎是為老朋友留下的信箋。",
+        "es": "Un papel al que no parece faltarle ningún fragmento. Los caracteres que contiene se escribieron con una letra limpia y cuidada. Tiene el aspecto de ser una carta para un viejo amigo.",
+        "fr": "Une note rédigée soigneusement plus ou moins complète. Il semble s'agir d'une missive destinée à un vieil ami.",
+        "id": "Catatan yang cukup lengkap dan ditulis dengan tulisan tangan yang rapi. Kelihatannya ini adalah surat yang ditinggalkan untuk seorang teman lama.",
+        "jp": "そこそこ完全なメモ。旧友のために残した手紙のようで、字がきちんと書かれている。",
+        "kr": "그나마 완전한 쪽지. 글씨체가 무척 깔끔하다. 옛 친구에게 남긴 편지로 보인다",
+        "pt": "Uma nota completa, escrita com uma bela caligrafia. Parece ser uma carta deixada para um velho amigo.",
+        "ru": "Лист бумаги, исписанный аккуратным почерком. Выглядит как письмо старому другу.",
+        "th": "ข้อความที่ค่อนข้างสมบูรณ์ เขียนด้วยลายมือที่เรียบร้อยเป็นระเบียบ ดูเหมือนจะเป็นจดหมายที่เขียนไว้ให้เพื่อนเก่า",
+        "vi": "Mảnh ghi chú tương đối hoàn chỉnh, nét chữ ngay ngắn, hình như là thư gửi cho bạn cũ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

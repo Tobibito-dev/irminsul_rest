@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Cream Stew",
+        "de": "Leckerer Sahneeintopf",
+        "chs": "美味的白汁时蔬烩肉",
+        "cht": "美味的白醬時蔬燴肉",
+        "es": "Guisado de temporada delicioso",
+        "fr": "Ragoût à la crème (délicieux)",
+        "id": "Delicious Cream Stew",
+        "jp": "美味しそうなホワイトソースポトフ",
+        "kr": "맛있는 크림 스튜",
+        "pt": "Ensopado de Creme Delicioso",
+        "ru": "Вкусное сливочное рагу",
+        "th": "Cream Stew แสนอร่อย",
+        "vi": "Rau Củ Hầm Kem Ngon"
+    },
+    "id": 108039,
+    "materialDesc": {
+        "en": "A meat and vegetable stew. These warm, buttery ingredients are so good that you almost want to dive into the cream stew and cuddle up with them.",
+        "de": "Ein milder Eintopf mit frischer Sahne. Die Zutaten zergehen förmlich auf der Zunge. Man möchte in die cremige Wonne eintauchen und im Eintopf baden.",
+        "chs": "奶油炖煮的烩菜。伴随着食材融化在唇齿，全身宛如享受牛奶浴般松弛。",
+        "cht": "鮮奶油燉煮的燴菜。伴隨著食材融化在唇齒，全身宛如享受牛奶浴般鬆弛。",
+        "es": "Guiso de carne y verduras. Sus cálidos ingredientes tienen tan buena pinta que dan ganas de sumergirse en la salsa y acurrucarse junto a ellos.",
+        "fr": "Ragoût de viande et de légumes. Les ingrédients baignent tranquillement dans la sauce riche et crémeuse. Vous avez presque envie de les imiter...",
+        "id": "Sup yang berisi daging dan sayuran. Seluruh isi sup meleleh dengan sempurna saat dimasukkan ke mulut, membuatmu serasa tenggelam berendam di dalamnya.",
+        "jp": "クリームで煮込んだポトフ。食材が口の中で融け、ミルク風呂に入っているかのように全身がリラックスする。",
+        "kr": "고기와 채소를 크림에 넣고 조린 요리. 간이 아주 잘 밴 데다가 식감까지 살아있는 환상적인 조림. 난 언제 이렇게 만들 수 있을까…",
+        "pt": "Um ensopado de carne e vegetais. Esta combinação de ingredientes amanteigados é tão boa que faz com que você queira mergulhar nessa sopa.",
+        "ru": "Рагу из мяса и овощей. У вас появляется непреодолимое желание нырнуть в это рагу и обнимать его тёплые и маслянистые ингредиенты.",
+        "th": "สตูเนื้อกับผัก ความอบอุ่นหอมกลิ่นเนยของวัตถุดิบ ทำให้คุณแทบจะอยากดำลงไปในซุป ครีมแล้วลงไปอาบซะเดี๋ยวนั้น",
+        "vi": "Món thập cẩm hầm kem. Rau củ kết hợp với kem tan trong miệng, giống như đang ngâm mình trong hồ sữa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

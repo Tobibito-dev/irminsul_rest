@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shikanoin Heizou: Temari",
+        "de": "Shikanoin Heizou – Temari",
+        "chs": "鹿野院平藏·鞠毬",
+        "cht": "鹿野院平藏·鞠毬",
+        "es": "Shikanoin Heizou - Temari",
+        "fr": "Shikanoin Heizou - Temari",
+        "id": "Shikanoin Heizou: Temari",
+        "jp": "鹿野院平蔵·鞠",
+        "kr": "시카노인 헤이조·테마리",
+        "pt": "Shikanoin Heizou — Temari",
+        "ru": "Тэмари",
+        "th": "Shikanoin Heizou - Temari",
+        "vi": "Shikanoin Heizou - Temari"
+    },
+    "id": 210122,
+    "materialDesc": {
+        "en": "Namecard style.\\nA Temari of entwining strings in various colors. It must have taken someone's great effort to make such an item, yet Heizou only sees it as a simple game to untangle each string.",
+        "de": "Ein Motiv für Namenskärtchen\\nEin Temari aus verflochtenen Fäden in verschiedenen Farben. Es muss jemanden viel Mühe gekostet haben, einen solchen Gegenstand herzustellen, aber für Heizou ist es nur ein einfaches Spiel, die Fäden zu entwirren.",
+        "chs": "名片纹饰。\\n本是殚精竭虑用彩线周匝而成，却未料在其手中不过是简单抽出丝缕的游戏。",
+        "cht": "名片紋飾。\\n本是殫精竭慮用彩線周紮而成，卻未料在其手中不過是簡單抽出絲縷的遊戲。",
+        "es": "Diseño de tarjeta de presentación.\\nUna temari urdida muy hábilmente con hilos de varios colores. Debió de ser muy complicada de hacer, pero para Heizou, no fue más que un simple juego de unir hilos.",
+        "fr": "Thème.\\nUn temari constitué de nombreux fils de couleur entremêlés. La confection de cet objet a sans doute été compliquée... pour que Heizou s'amuse à les démêler.",
+        "id": "Style Kartu Nama.\\nTemari hasil rajutan senar berwarna-warni. Pasti membutuhkan usaha keras bagi orang lain untuk membuat item seperti itu, namun bagi Heizou hal itu tak ubahnya hanyalah permainan sederhana melepaskan setiap senar.",
+        "jp": "名刺の飾り紋。\\n色とりどりの糸が編み込まれた手毬。誰かが苦労して作ったのだろうか。平蔵は糸をほどくだけの簡単な遊びとしか思っていない。",
+        "kr": "명함 스킨.\\n형형색색의 실을 꿰매 정성 들여 만든 테마리. 하지만 헤이조 앞에서는 그저 실을 풀기 좋은 장난감일 뿐이다",
+        "pt": "Estilo de Cartão de Visita.\\nUm Temari de cordas de várias cores. Deve ter dado muito trabalho para ser feito, mas Heizou apenas vê como um jogo de desamarrar cada uma.",
+        "ru": "Именная карта.\\nТэмари, искусно сотканный из нитей разных цветов. Должно быть, кому-то стоило огромных усилий сделать его, но Хэйдзо видит в этом лишь незамысловатую игру - распутать каждую ниточку.",
+        "th": "ลายนามบัตร\\nเดิมที Temari เป็นสิ่งที่สร้างขึ้นมาด้วยความพยายามในการพันด้ายหลากหลายสีสันของใครบางคน แต่พอมาอยู่ในมือของ Heizou มันกลับกลายเป็นเกมดึงด้ายอันแสนง่ายดายไปซะงั้น",
+        "vi": "Hoa văn danh thiếp.\\nVốn được bện một cách thật tỉ mỉ bằng những sợi dây màu sắc, nhưng không ngờ rằng vào tay anh ấy thì chỉ là một trò chơi rút dây đơn giản mà thôi."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

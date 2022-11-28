@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kaeya",
+        "de": "Kaeya",
+        "chs": "凯亚",
+        "cht": "凱亞",
+        "es": "Kaeya",
+        "fr": "Kaeya",
+        "id": "Kaeya",
+        "jp": "ガイア",
+        "kr": "케이아",
+        "pt": "Kaeya",
+        "ru": "Кэйа",
+        "th": "Kaeya",
+        "vi": "Kaeya"
+    },
+    "id": 3021,
+    "materialDesc": {
+        "en": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+        "de": "Ein exzellenter Schwertkämpfer und Denker des Ordo Favonius.",
+        "chs": "异国面容的剑斗士，西风骑士团的头脑派人物。",
+        "cht": "異國面容的劍鬥士，西風騎士團的頭腦派人物。",
+        "es": "El gran estratega de los Caballeros de Favonius. Se rumorea que procede de un lugar de fuera de Mondstadt.",
+        "fr": "Un épéiste accompli et un stratège de génie de l'Ordre de Favonius ; il est originaire, selon les rumeurs, d'une terre bien au-delà des frontières de Mondstadt.",
+        "id": "Seorang kesatria pedang yang ulung dan ahli strategi di dalam Knights of Favonius, dikabarkan berasal dari luar Mondstadt.",
+        "jp": "異国の顔を持つ剣士。西風騎士団の頭脳派である。",
+        "kr": "이국적인 얼굴의 검투사. 페보니우스 기사단의 두뇌파 인물이다",
+        "pt": "Um espadachim dos Cavaleiros de Favonius com uma aparência única.",
+        "ru": "Капитан Ордо Фавониус выглядит довольно экзотично. Несмотря на дружелюбие и приветливость, от него веет странным холодком.",
+        "th": "นักดาบผู้มีกลิ่นอายของคนจากต่างแดน มันสมองของกองอัศวินแห่ง Favonius",
+        "vi": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Damaged Note",
+        "de": "Beschädigte Notiz",
+        "chs": "破损的纸条",
+        "cht": "破損的紙條",
+        "es": "Nota dañada",
+        "fr": "Note abimée",
+        "id": "Catatan Rusak",
+        "jp": "破損した紙切れ",
+        "kr": "훼손된 쪽지",
+        "pt": "Pedaço de Papel Amassado",
+        "ru": "Помятая записка",
+        "th": "กระดาษโน้ตโทรม ๆ",
+        "vi": "Mẫu Giấy Vụn"
+    },
+    "id": 100884,
+    "materialDesc": {
+        "en": "A paper note that has been crumpled into a ball. A wish has been scribbled on it, but the only legible word now is \"peace.\"",
+        "de": "Ein Zettel, der zu einem Ball zerknüllt wurde. Ein Wunsch wurde darauf gekritzelt, aber das einzige lesbare Wort ist jetzt nur noch „Frieden“.",
+        "chs": "似乎曾被揉成一团的纸条。纸条上潦草地写着心愿，但现在只看得清「平安」两个字了。",
+        "cht": "似乎曾被揉成一團的紙條。紙條上潦草地寫著心願，但現在只看得清「平安」兩個字了。",
+        "es": "Una nota de papel que alguien hizo una bola. Alguien escribió con muy mala caligrafía sus deseos en ella. La única palabra distinguible es “tranquilidad”.",
+        "fr": "Une note de papier qui a été froissée en boule. Un vœu y a été griffonné, mais le seul mot lisible maintenant est « paix ».",
+        "id": "Kertas catatan yang diremas menjadi bola. Bila dilihat sekilas, sepertinya ada sebuah permohonan yang tertulis di dalamnya, tapi satu-satunya kata yang terbaca hanyalah kata \"damai\".",
+        "jp": "くしゃくしゃにされた紙切れ。願い事が乱雑に書かれていたようだが、今は「平安」の二文字しか読み取れない。",
+        "kr": "구겨진 듯한 쪽지. 쪽지 위에는 염원이 대충 휘갈겨져 있었으나 지금은 「평안」 두 글자만 간신히 알아볼 수 있다",
+        "pt": "Um pedaço de papel que parece ter sido amassado em uma bola. Nele foram escritos desejos que agora estão ilegíveis, e só pode se identificar a palavra \"paz\".",
+        "ru": "Записка, которую, кажется, смяли в шарик. Из всего написанного в ней пожелания можно различить только слово «мир».",
+        "th": "กระดาษโน้ตที่ดูเหมือนจะถูกขยำเป็นลูกบอล ถูกเขียนความปรารถนาไว้อย่างลวก ๆ แต่ตอนนี้มีเพียงคำว่า \"สันติ\" เท่านั้นที่สามารถอ่านได้อย่างชัดเจน",
+        "vi": "Một mẫu giấy bị vò nát, tâm nguyện ghi trên đó vẫn còn thấy rõ hai chữ \"Bình an\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Traveling Doctor's Pocket Watch",
+        "de": "Wanderarzt-Taschenuhr",
+        "chs": "游医的怀钟",
+        "cht": "遊醫的懷鐘",
+        "es": "Reloj de Bolsillo de la Médica Itinerante",
+        "fr": "Montre de poche du Médecin itinérant",
+        "id": "Traveling Doctor's Pocket Watch",
+        "jp": "医者の懐中時計",
+        "kr": "떠돌이 의사의 회중시계",
+        "pt": "Relógio de Bolso do Doutor Viajante",
+        "ru": "Карманные часы целителя",
+        "th": "Traveling Doctor's Pocket Watch",
+        "vi": "Đồng Hồ Thầy Thuốc"
+    },
+    "id": 63454,
+    "setId": 10013,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

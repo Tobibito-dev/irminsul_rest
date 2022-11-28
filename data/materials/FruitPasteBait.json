@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fruit Paste Bait",
+        "de": "Fruchtpastenköder",
+        "chs": "果酿饵",
+        "cht": "果釀餌",
+        "es": "Cebo afrutado",
+        "fr": "Appât de pâte de fruit",
+        "id": "Fruit Paste Bait",
+        "jp": "果物餌",
+        "kr": "과즙 미끼",
+        "pt": "Isca de Frutas",
+        "ru": "Фруктовая бражка",
+        "th": "Fruit Paste Bait",
+        "vi": "Mồi Lên Men"
+    },
+    "id": 111023,
+    "materialDesc": {
+        "en": "A very commonly-seen bait made from mashing, fermenting, and kneading Sunsettias and Wheat together. It atomizes very quickly upon hitting the water and exerts an incredible attraction on small fish. Due to the ease of its making, cheap price, and its excellent efficacy, it has also been jokingly called the \"Fisher's Trusty Treasure.\"\\n\\nSuitable for catching Medakas, Dawncatchers, and Crystalfish.",
+        "de": "Ein sehr häufig anzutreffender Köder, der aus dem Einmaischen, Fermentieren und Zusammenkneten von Dämmerfrüchten und Weizen hergestellt wird. Er zerstäubt sehr schnell beim Auftreffen auf das Wasser und übt eine unglaubliche Anziehungskraft auf kleine Fische aus. Aufgrund der einfachen Herstellung, des günstigen Preises und der ausgezeichneten Wirksamkeit wird er auch scherzhaft als „Anglerschatz“ bezeichnet.\\n\\nZum Fangen von Medaka geeignet.",
+        "chs": "十分常见的鱼饵，由日落果与小麦捣碎发酵揉制而成，入水后能够快速雾化，对小型鱼类有着强烈的吸引力。由于其制作简单、价格低廉、效用优秀，因此又被戏称为「钓鱼佬宝珠」。\\n\\n适用鱼种：鳉鱼类。",
+        "cht": "十分常見的魚餌，由日落果與小麥搗碎發酵揉製而成，入水後能夠快速霧化，對小型魚類有著強烈的吸引力。由於其製作簡單、價格低廉、效用優秀，因此又被戲稱為「釣魚佬寶珠」。\\n\\n適用魚種：鱂魚類。",
+        "es": "Un tipo de cebo muy común hecho con solsettias y maíz molidos, fermentados y moldeados. Al estar en el agua, se desintegra muy rápidamente y atrae muy fuertemente a los peces. Como es fácil de hacer, barato y muy eficaz, también hay quien lo llama “el tesoro del pescador”.\\n\\nPerfecto para pescar medakas.",
+        "fr": "Un appât très commun que l'on obtient après avoir écrasé, fermenté et malaxé des pommes crépusculaires et du blé. Il se dissout rapidement dans l'eau et attire les petits poissons. En raison de sa fabrication facile, son prix bon marché et son excellente efficacité, cet appât est surnommé « la valeur sûre du pêcheur ».\\n\\nAdapté pour les poissons de la famille des médakas.",
+        "id": "Umpan yang sangat umum. Terbuat dari tumbukan Sunsettia dan Wheat yang difermentasi lalu dibentuk bulat. Umpan ini dapat langsung membentuk kabut saat masuk ke air, dan sangat menarik perhatian ikan-ikan kecil. Karena cara pembuatannya mudah, harganya yang murah, dan hasilnya yang efektif, umpan ini punya julukan lucu \"harta berharga para pemancing\".\\n\\nCocok digunakan untuk ikan jenis Medaka, Dawncatcher, dan Crystalfish.",
+        "jp": "よく見られる釣り餌。夕暮れの実と小麦を潰し、発酵させてから練ることで作られたもの。水に入れるとすぐ微粒化でき、小型の魚にとっては魅力的だ。作り方は簡単で、安くて効果的なため、「釣り人の宝珠」と呼ばれている。\\n\\n対象魚類：グッピー類。",
+        "kr": "흔히 볼 수 있는 미끼. 일몰 열매와 밀을 으깨어 발효시킨 것이다. 물에 들어간 후 안개처럼 급속도로 퍼져, 소형 어류가 크게 선호한다. 간단한 제작 방법과 저렴한 가격 대비 탁월한 효과로 일명 「낚시꾼의 보주」라고 불린다.\\n\\n적용 어종: 구피류",
+        "pt": "Uma isca comumente vista feita ao amassar, fermentar e modelar Fruto do Pôr do Sol e Trigo juntos. Ao atingir a água se desintegra rapidamente e passa a atrair fortemente os peixes pequenos. Devido a facilidade de ser feita, seu preço barato e eficácia excelente, é também jocosamente referida como \"Tesouro do Pescador\".\\n\\nApropriada para a espécie de peixe: Medaka.",
+        "ru": "Очень распространённая наживка, сделанная из сбродившего закатника и пшеницы. Она очень быстро размокает при попадании в воду и оказывает невероятно притягательное действие на мелкую рыбу. Из-за простоты изготовления, дешевизны и отличной эффективности её в шутку называют «сокровищем рыбака».\\n\\nПодходит для ловли оризий.",
+        "th": "เหยื่อตกปลาทั่วไปที่ทำจากผล Sunsettia และWheat บด, หมัก, และนวดเข้าด้วยกัน มันจะกลายเป็นละอองอย่างรวดเร็วหลังจากลงไปในน้ำ ซึ่งดึงดูดปลาตัวเล็กได้อย่างดี เนื่องจากการผลิตที่เรียบง่าย ราคาต่ำ และประโยชน์ใช้สอยที่ยอดเยี่ยม จึงได้รับการขนานนามว่าเป็น \"อัญมณีของชาวประมง\"\\n\\nเหมาะสำหรับปลาสายพันธุ์: Medaka",
+        "vi": "Mồi câu rất thường gặp, được làm từ Quả Nhật Lạc và tiểu mạch lên men, thả vào nước sẽ nhanh chóng phát tán, có sức hút mãnh liệt đối với những loài cá nhỏ. Do cách làm đơn giản, giá thành thấp, hiệu quả cao, nên thường được gọi đùa là \"Châu Báu Của Thợ Câu\".\\n\\nLoại cá thích hợp: Cá Khổng Tước"
+    },
+    "materialType": "MATERIAL_FISH_BAIT"
+}

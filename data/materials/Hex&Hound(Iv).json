@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hex & Hound (IV)",
+        "de": "Mehr als nur ein Hund IV",
+        "chs": "犬又二分之一·四",
+        "cht": "犬又二分之一·四",
+        "es": "Más que un simple perro (IV)",
+        "fr": "Plus qu'un chien - IV",
+        "id": "Separuh Serigala (IV)",
+        "jp": "犬と二分の一·4",
+        "kr": "개와 2분의 1·Ⅳ",
+        "pt": "Hex & Hound (IV)",
+        "ru": "Ведьма и гончая. Том IV",
+        "th": "เฮ็กซ์ & ฮาวด์-IV",
+        "vi": "Mật Ngữ Của Khuyển IV"
+    },
+    "id": 100571,
+    "materialDesc": {
+        "en": "Even a dog can learn basic things like upper-class etiquette — or so insists a certain non-nonsense teacher from afar.",
+        "de": "Auch ein Hund ist in der Lage, das Einmaleins der Etikette der Aristokraten zu erlernen. Zumindest behauptet das die Lehrerin mit der Peitsche in der Hand!",
+        "chs": "就算是犬科动物也能学会的贵族礼仪等二三事——自外而来的淑女教师执鞭教导！",
+        "cht": "就算是犬科動物也能學會的貴族禮儀等二三事——自外而來的淑女教師執鞭教導！",
+        "es": "“Hasta un perro podría aprender algo tan básico como la etiqueta de la clase alta”, dijo la erudita con altanería. Ella no se andaba con tonterías.",
+        "fr": "Même un chien peut apprendre l'étiquette de la haute société, d'après un certain professeur de bonnes manières.",
+        "id": "Bahkan anjing pun bisa menguasai dua atau tiga etika sopan santun —— kata seorang pelatih galak yang sedang memegang cambuk dari kejauhan.",
+        "jp": "イヌ科の動物だって貴族の礼儀などを習得できる——よそからの淑女先生の教えだ！",
+        "kr": "개과 동물이라도 귀족의 예절을 배울 수 있다——외지에서 온 숙녀 조련사가 가르친다!",
+        "pt": "Um cão também é capaz de aprender o básico da cortesia aristocrática. Pelo menos é o que a professora diz!",
+        "ru": "Правилам приличия высшего общества можно обучить даже собаку. По крайней мере, так утверждает строгая учительница из далёкого королевства.",
+        "th": "ต่อให้เป็นสัตว์อย่างสุนัข ก็สามารถเรียนรู้มารยาทต่าง ๆ ของชนชั้นสูงได้... ซึ่งสอนโดยคุณครูสุภาพสตรีจากต่างถิ่น!",
+        "vi": "Động vật họ chó cũng có thể học được mấy thứ lễ nghi quý tộc - cô giáo thùy mị từ nơi khác đến cầm roi dạy bảo!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

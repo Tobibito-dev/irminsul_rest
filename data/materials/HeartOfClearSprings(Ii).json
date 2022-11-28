@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heart of Clear Springs (II)",
+        "de": "Herz der Quelle II",
+        "chs": "清泉之心·二",
+        "cht": "清泉之心·二",
+        "es": "El corazón de Aguaclara (II)",
+        "fr": "Le cœur de la source - II",
+        "id": "Hati Sejernih Mata Air (II)",
+        "jp": "清泉の心·2",
+        "kr": "샘물의 마음·Ⅱ",
+        "pt": "Coração do Vale termal - Vol. II",
+        "ru": "Сердце родника. Том II",
+        "th": "หัวใจแห่งน้ำพุใสสะอาด II",
+        "vi": "Trái Tim Thanh Truyền (II)"
+    },
+    "id": 100481,
+    "materialDesc": {
+        "en": "A legendary tale passed down by Springvale hunters that recounts the acquaintance of a spring fairy and a young boy.",
+        "de": "Eine sehr bekannte Geschichte unter den Jägern von Quellingen, die von der Bekanntschaft eines jungen Mannes mit der Fee der Quelle erzählt.",
+        "chs": "清泉镇猎人们口口相传的传说故事，讲述了泉水精灵与少年的相识。",
+        "cht": "清泉鎮獵人們口口相傳的傳說故事，講述了泉水精靈與少年的相識。",
+        "es": "Una leyenda transmitida por los cazadores de Aguaclara que relata cómo fueron conociéndose el hada de un manantial y un joven.",
+        "fr": "Une légende transmise de génération en génération chez les chasseurs de Deauclaire, qui relate l'amitié entre un garçon et une fée de source.",
+        "id": "Sebuah kisah legendaris yang diwariskan oleh para pemburu Springvale. Menceritakan tentang perkenalan antara seorang anak muda dengan peri mata air.",
+        "jp": "清泉町の狩人たちの誰もが知る伝説の物語、泉の精霊と名も知らない少年との出会いが綴られている。",
+        "kr": "샘물 마을 사냥꾼들에 의해 전해져 온 이야기. 샘물 요정과 소년이 만나게 된다",
+        "pt": "Um conto lendário transmitido por caçadores do Vale Termal que narra o conhecimento de uma Fada da Fonte e um menino.",
+        "ru": "Древняя легенда, передающаяся из уст в уста между охотниками Спрингвейла и рассказывающая о знакомстве маленького мальчика с феей.",
+        "th": "ตำนานเรื่องเล่าของเหล่านายพรานแห่ง Springvale ที่บอกเล่าถึงการรู้จักกันของภูตแห่งสระน้ำและชายหนุ่ม",
+        "vi": "Câu chuyện huyền thoại kể về cuộc gặp gỡ giữa tinh linh nước suối và thiếu niên được đám thợ săn Thanh Tuyền Trấn truyền tai nhau."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

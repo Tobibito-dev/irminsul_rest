@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shocking Essential Oil",
+        "de": "Donneröl",
+        "chs": "惊雷精油",
+        "cht": "驚雷精油",
+        "es": "Aceite esencial de impacto",
+        "fr": "Huile essentielle Électro",
+        "id": "Shocking Essential Oil",
+        "jp": "驚雷のオイル",
+        "kr": "천둥의 오일",
+        "pt": "Óleo Essencial Chocante",
+        "ru": "Громовое масло",
+        "th": "Thunderclap Essential Oil",
+        "vi": "Tinh Dầu Sấm Sét"
+    },
+    "id": 111017,
+    "materialDesc": {
+        "en": "Grants greater affinity for Electro, boosting Electro DMG.\\nIt induces a tingling sensation on the skin and renders the user better able to better channel Electro energy — but comes with a risk of causing an electrical fire that would definitely ruin your perfect hair.",
+        "de": "Ein Öl, das einen empfänglicher für die Elektro-Kraft macht und den Elektro-Schaden erhöht.\\nDas kitzelnde Gefühl während des Verreibens ist nur ein Vorgeschmack für die verbesserten Fähigkeiten zur Bündelung der Elektro-Kraft. Einige Nebenwirkungen sind Funken und die Beeinträchtigung der Frisur.",
+        "chs": "让人更亲和雷元素的油膏，能提升造成的雷元素伤害。\\n触碰时感觉酥酥麻麻，涂抹以后会让人更容易导出雷元素。但据说有可能会引起电火花，可能会影响发型。",
+        "cht": "讓人更親和雷元素的油膏，能提升造成的雷元素傷害。\\n觸碰時感覺酥酥麻麻，塗抹以後會讓人更容易導出雷元素。但據說有可能會引起電火花，可能會影響髮型。",
+        "es": "Un bálsamo que aumenta la afinidad con la electricidad y potencia el Daño Electro.\\nCrea una sensación de hormigueo en la piel y permite canalizar de forma más efectiva el elemento Electro. Pero ten cuidado, ¡una dosis excesiva podría incendiar tu cabello!",
+        "fr": "Un onguent qui a une forte affinité avec l'élément Électro et peut augmenter les DGT infligés par l'élément Électro.\\nVous vous sentez engourdi lorsque vous la touchez. Après l'application, vous maîtrisez mieux l'élément Électro. Cependant, on dit que cela peut provoquer des étincelles électriques et brûler vos cheveux.",
+        "id": "Meningkatkan intensitas terhadap elemen Electro, meningkatkan Electro DMG.\\nMemberikan sensasi geli di kulit. Membuat pengguna lebih mudah menyalurkan elemen Electro dengan risiko merusak rambut cantikmu.",
+        "jp": "雷元素ダメージを上げることができるオイル。\\n触れるとビリビリする。塗るとより効率よく雷元素を獲得するが、電気による火花も発生しやすくなるらしい。",
+        "kr": "번개 원소와 가까워지게 해주는 연고. 번개 원소 피해를 올릴 수 있다.\\n만지면 찌릿찌릿한 느낌이 든다. 바르고 나면 번개 원소를 더 쉽게 사용할 수 있다. 하지만 정전기가 자주 발생하여 머리 스타일이 망가질 수 있다",
+        "pt": "Concede maior afinidade Electro, impulsionando o Dano Electro.\\nInduz uma sensação de formigamento na pele, capaz de canalizar melhor elementos Electro, com risco de fogo elétrico que podem, definitivamente, danificar seus cabelos.",
+        "ru": "Эфирное масло, которое сближает с Электро стихией и увеличивает Электро урон.\\nПосле нанесения пускает по коже мурашки и позволяет увереннее направлять природные Электро элементы. От этого масла волосы встают дыбом.",
+        "th": "น้ำมันเสริมธาตุไฟฟ้า สามารถเพิ่มความเสียหายไฟฟ้าได้\\nให้ความรู้สึกซ่า เมื่อใช้แล้วจะช่วยให้สามารถดึงดูด ไฟฟ้าได้ดีขึ้น ว่ากันว่าอาจทำให้เกิดประกายไฟฟ้าได้ นั่นอาจจะทำให้ผมคุณเสียทรงได้นะ",
+        "vi": "Loại cao dầu giúp tăng sát thương Nguyên Tố Lôi tạo thành.\\nKhi chạm vào có cảm giác tê liệt, khi bôi lên khiến người khác dễ dàng gọi ra Nguyên Tố Lôi. Nhưng nghe đồn có thể gây ra tia điện, ảnh hưởng đến kiểu tóc."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

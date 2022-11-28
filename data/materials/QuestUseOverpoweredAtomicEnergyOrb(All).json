@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Quest Use - Overpowered Atomic Energy Orb (All)",
+        "de": "Enorme Kernenergiekugel (Alle) für Aufträge",
+        "chs": "任务用-超量原子能量球(全)",
+        "cht": "任務用-超量原子能量球(全)",
+        "es": "Superorbe de Energía atómica (Todos)- Utilizable en Misiones",
+        "fr": "Orbe d'énergie atomique géante (tout) à utiliser lors d'une quête",
+        "id": "Item Quest - Overpowered Atomic Energy Orb(All)",
+        "jp": "任務用-超量原子エネルギーボール(全)",
+        "kr": "임무 전용-오버파워 원자 에너지 오브(전체)",
+        "pt": "Usado em Missões - Super Orbe de Energia Atômica (Todos)",
+        "ru": "Для задания - Переполненная сфера атомной энергии (Все)",
+        "th": "Quest Use - Overpowered Atomic Energy Orb (All)",
+        "vi": "Nhiệm Vụ-Cầu Năng Lượng Nguyên Tử Siêu Cấp (Toàn)"
+    },
+    "id": 2025,
+    "materialDesc": {
+        "en": "Energy Orb (Any)",
+        "de": "Elementarenergiekugel (Alle)",
+        "chs": "元素能量球(全)",
+        "cht": "元素能量球(全)。",
+        "es": "Orbe de energía (Todos)",
+        "fr": "Orbe d'énergie (tout)",
+        "id": "Small Energy Orb (All)",
+        "jp": "元素エネルギーボール(全)",
+        "kr": "원소 에너지 오브(전체)",
+        "pt": "Orbe de Energia (Todos)",
+        "ru": "Сфера энергии (Все)",
+        "th": "Energy Orb (Any)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Toàn)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

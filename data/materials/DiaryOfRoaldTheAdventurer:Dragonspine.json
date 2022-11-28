@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diary of Roald the Adventurer: Dragonspine",
+        "de": "Tagebuch des Abenteurers Roald – Drachengrat",
+        "chs": "冒险家罗尔德的日志·龙脊雪山",
+        "cht": "冒險家羅爾德的日誌·龍脊雪山",
+        "es": "Diario del aventurero Roald: Espinadragón",
+        "fr": "Journal de l'aventurier Roald - Monts Dosdragon",
+        "id": "Jurnal Roald sang Petualang: Dragonspine",
+        "jp": "冒険者ロアルドの日誌·ドラゴンスパイン",
+        "kr": "모험가 로알드의 일지·드래곤 스파인",
+        "pt": "Diário do Aventureiro Roald - Espinha do Dragão",
+        "ru": "Дневники Роальда, искателя приключений: Драконий хребет",
+        "th": "บันทึกของนักผจญภัย Roald - Dragonspine",
+        "vi": "Nhật Ký Nhà Mạo Hiểm Roald - Long Tích Tuyết Sơn"
+    },
+    "id": 100706,
+    "materialDesc": {
+        "en": "A journal left behind by a renowned adventurer Roald. Some of its pages are damaged and crumpled, and a few shimmering ice crystals are attached to them.",
+        "de": "Das Tagebuch des berühmten Abenteurers Roald. Auf einigen Seiten befinden sich kleine Eiskristalle und ein paar Seiten sind bereits herausgerissen.",
+        "chs": "著名冒险家罗尔德遗落的日志，有一些书页已经残破发皱了，些许发亮的冰晶附着其上。",
+        "cht": "著名冒險家羅爾德遺落的日誌，有一些書頁已經殘破發皺了，些許發亮的冰晶附著其上。",
+        "es": "El diario del famoso aventurero Roald. Algunas páginas ya están rotas y arrugadas, y en otras hay carámbanos que emiten cierto brillo.",
+        "fr": "Un journal laissé par le célèbre aventurier Roald. Certaines des pages sont froissées et recouvertes de cristaux de glace.",
+        "id": "Sebuah buku harian yang ditinggalkan oleh petualang terkenal bernama Roald. Beberapa halaman di dalam sudah sobek dan lecek, dengan beberapa kristal es menempel di permukaan halaman.",
+        "jp": "有名な冒険者ロアルドが残した日誌。ページの所々が破れており、輝く氷晶が付着している。",
+        "kr": "유명한 모험가 로알드가 잃어버린 일지. 몇몇 페이지는 훼손된 데다가 빛나는 얼음 결정이 맺혀있다",
+        "pt": "Um diário deixado para trás pelo famoso aventureiro Roald. Algumas de suas páginas estão danificadas e amassadas, e alguns cristais de gelo estão presos nelas.",
+        "ru": "Дневник, оставленный знаменитым искателем приключений Роальдом. Большинство страниц повреждены и смяты, а на некоторых даже поселились кристаллики льда.",
+        "th": "บันทึกของนักผจญภัยชื่อดัง Roald ซึ่งมีบางหน้าขาดเสียหาย และบางหน้าก็มีเกล็ดน้ำแข็งเกาะอยู่",
+        "vi": "Nhật ký của Nhà Mạo Hiểm nổi tiếng Roald, một số trang bị hỏng và nhàu nát, và một vài tinh thể băng lấp lánh bám trên nó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

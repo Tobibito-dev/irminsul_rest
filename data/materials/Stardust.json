@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stardust",
+        "de": "Sternenstaub",
+        "chs": "星尘",
+        "cht": "星塵",
+        "es": "Polvo estelar",
+        "fr": "Astrion",
+        "id": "Stardust",
+        "jp": "スターダスト",
+        "kr": "스타더스트",
+        "pt": "Poeira Estrelar",
+        "ru": "Звёздная пыль",
+        "th": "Stardust",
+        "vi": "Tinh Trần"
+    },
+    "id": 103,
+    "materialDesc": {
+        "en": "Small talent points (Including the main character)",
+        "de": "Kleine Talentpunkte für Figuren (einschließlich Hauptfigur)",
+        "chs": "角色小天赋点(包括主角)",
+        "cht": "角色小天賦點(包括主角)。",
+        "es": "Puntos de talento del personaje (S)",
+        "fr": "Points d'aptitude personnage (L) (Personnage principal inclus)",
+        "id": "Material Talenta Kecil (termasuk karakter utama)",
+        "jp": "キャラクター小天賦ポイント(主人公を含む)",
+        "kr": "캐릭터 특성 포인트-소 (주인공 포함)",
+        "pt": "Pontos de Talento do Personagem (Inclui o personagem principal)",
+        "ru": "Малые очки таланта (включая главного героя)",
+        "th": "แต้มพรสวรรค์ตัวละครขนาดใหญ่ (รวมตัวละครหลักด้วย)",
+        "vi": "Điểm Thiên Phú Nhân Vật (Nhỏ)"
+    },
+    "materialType": false
+}

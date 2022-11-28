@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Crown of Parting",
+        "de": "Kranz des Abschieds",
+        "chs": "感别之冠",
+        "cht": "感別之冠",
+        "es": "Corona del Adiós",
+        "fr": "Couronne du Voyageur",
+        "id": "Crown of Parting",
+        "jp": "別離の冠",
+        "kr": "이별의 모자",
+        "pt": "Coroa da Despedida",
+        "ru": "Венок расставания",
+        "th": "Crown of Parting",
+        "vi": "Chiếc Nón Từ Biệt"
+    },
+    "id": 51534,
+    "setId": 10001,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

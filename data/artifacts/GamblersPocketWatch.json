@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Gambler's Pocket Watch",
+        "de": "Glücksspiel-Taschenuhr",
+        "chs": "赌徒的怀表",
+        "cht": "賭徒的懷錶",
+        "es": "Reloj de Bolsillo de la Jugadora",
+        "fr": "Montre de poche du Parieur",
+        "id": "Gambler's Pocket Watch",
+        "jp": "博徒の懐中時計",
+        "kr": "노름꾼의 회중시계",
+        "pt": "Relógio de Bolso de Apostador",
+        "ru": "Карманные часы азартного игрока",
+        "th": "Gambler's Pocket Watch",
+        "vi": "Đồng Hồ Con Bạc"
+    },
+    "id": 58554,
+    "setId": 10008,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

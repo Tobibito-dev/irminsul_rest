@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Someone's Diary V: Jinren Island",
+        "de": "Tagebuch eines Unbekannten V – Jinren",
+        "chs": "谁人的日志·其五·刃连岛",
+        "cht": "誰人的日誌·其五·刃連島",
+        "es": "Diario de alguien (V): Isla Jinren",
+        "fr": "Journal d'un inconnu V - Île de Jinren",
+        "id": "Buku Harian Seseorang V: Pulau Jinren",
+        "jp": "誰かの日誌·その5·刃連島",
+        "kr": "누군가의 일지·다섯 번째·진렌섬",
+        "pt": "Diário de Alguém V: Ilha Jinren",
+        "ru": "Чей-то дневник. Часть V. Остров Дзинрэн",
+        "th": "ไดอารี่ของใครบางคน V - Jinren Island",
+        "vi": "Nhật ký của ai 5 - Đảo Jinren"
+    },
+    "id": 101540,
+    "materialDesc": {
+        "en": "A diary left behind by someone in the wilderness that tells of the owner's unfortunate encounters at Jinren Island.",
+        "de": "Ein Tagebuch, das von jemandem in der Wildnis zurückgelassen wurde und von den unglücklichen Begegnungen seines Besitzers auf der Insel Jinren erzählt.",
+        "chs": "某人遗落在野外的日志，描述了其人在刃连岛的不幸遭遇。",
+        "cht": "某人遺落在野外的日誌，描述了其人在刃連島的不幸遭遇。",
+        "es": "Un diario dejado por alguien en la naturaleza. Describe un encuentro desafortunado en la Isla Jinren.",
+        "fr": "Un journal abandonné dans la nature qui raconte les rencontres malheureuses de son propriétaire sur l'Île de Jinren.",
+        "id": "Buku harian seseorang yang tertinggal di alam belantara. Isinya menceritakan tentang kesialan yang dihadapi pemilik buku ini di Pulau Jinren.",
+        "jp": "誰かが荒野に落とした日誌。その人が、刃連島で遭遇した不幸な出来事が記録されている。",
+        "kr": "누군가가 야외에 흘리고 간 일지. 자신이 진렌섬에서 겪은 불행한 일이 적혀 있다",
+        "pt": "Um diário deixado para trás por alguém na natureza e que narra os infelizes encontros de seu proprietário na Ilha Jinren.",
+        "ru": "Брошенный в глуши дневник, который повествует о злоключениях его автора на острове Дзинрэн.",
+        "th": "บันทึกของใครบางคนที่ถูกทิ้งไว้ในป่า ซึ่งอธิบายถึงความโชคร้ายของเขาบนเกาะ Jinren",
+        "vi": "Nhật ký của một người nào đó lưu lạc nơi hoang dã, thuật lại những chuyện không may gặp phải trên Đảo Jinren."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

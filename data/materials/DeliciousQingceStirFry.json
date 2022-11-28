@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Qingce Stir Fry",
+        "de": "Leckeres Bauerngemüse nach Qingce-Art",
+        "chs": "美味的轻策农家菜",
+        "cht": "美味的輕策農家菜",
+        "es": "Salteado de Chingtsé delicioso",
+        "fr": "Délices rustiques de Qingce (délicieux)",
+        "id": "Delicious Qingce Stir Fry",
+        "jp": "美味しそうな軽策農家料理",
+        "kr": "맛있는 경책 가정식",
+        "pt": "Prato Rústico de Qingce Delicioso",
+        "ru": "Вкусная «Сельская услада»",
+        "th": "Qingce Stir Fry แสนอร่อย",
+        "vi": "Món Nhà Nông Khinh Sách Ngon"
+    },
+    "id": 108130,
+    "materialDesc": {
+        "en": "A dish cooked over a roaring fire. Just catching a whiff is enough to work up one's appetite. The tingle of chili titillates the tongue, leaving you ready to devour ten bowls in a single sitting.",
+        "de": "Ein auf hoher Flamme gebratenes Gemüsegericht. Allein beim Vernehmen des Dufts bekommt man Appetit. Die Schärfe dieser Speise bietet besonderen Reiz und das Gefühl, man könne zehn Schüsseln Reis dazu essen.",
+        "chs": "旺火炒制的菜肴。光是闻到香气，便能让人食欲大开。过瘾的辣意调动出渴望刺激的官感，有一种自己能一口气吃下十碗米饭的错觉。",
+        "cht": "大火快炒的菜餚。光是聞到香氣，便能讓人食欲大開。過癮的辣意挑逗出渴望刺激的官感，有一種自己能一口氣吃下十碗米飯的錯覺。",
+        "es": "Un plato cocinado a fuego rápido. Solo con olerlo es suficiente para abrirle el apetito a cualquiera. El cosquilleo del chile activa las papilas gustativas, de modo que, de repente, querrás comer diez tazones de arroz de golpe.",
+        "fr": "Un plat cuisiné à feu vif. Son doux parfum suffit à ouvrir votre appétit et son goût épicé stimule vos papilles. Tout à coup, vous voilà capable à dévorer dix bols de riz.",
+        "id": "Hidangan yang dimasak di atas api membara. Mencium baunya saja sudah cukup membuat orang merasa lapar. Pedasnya cabai menggoyang lidah, membuatmu siap untuk menghabiskan sepuluh mangkuk sekalipun.",
+        "jp": "強火で炒めた料理。匂いだけで食欲をそそられる。病みつきになる辛さが刺激的で、ご飯10杯でも行ける気がする。",
+        "kr": "센 불에 볶은 요리. 냄새만 맡아도 식욕이 넘친다. 자극적인 매운맛은 밥을 열 공기도 먹을 수 있을 것 같은 착각을 불러일으킨다",
+        "pt": "Um prato cozido sobre um fogo crepitante. Apenas sentir o cheiro é suficiente para aumentar o apetite. O formigamento do pimentão excita a língua, deixando você pronto para devorar dez tigelas em uma única sessão.",
+        "ru": "Это блюдо готовят на большом огне. Достаточно только уловить аромат этого блюда, как разгорается неуёмный аппетит. Острый перчик пробуждает вкусовые рецепторы на языке, и теперь вы готовы поглотить десять тарелок этого блюда за один присест.",
+        "th": "เมนูผัดไฟแรง เพียงแค่ได้กลิ่นก็น้ำลายไหล รสเผ็ดจัดนั้นช่างทำให้ซาบซ่าน ซึ่งทำให้รู้สึกว่าสามารถเขมือบข้าวสิบจานจนหมดเกลี้ยงได้ในชั่ววูบเดียว",
+        "vi": "Món xào với lửa lớn. Chỉ riêng việc ngửi hương thơm đã khiến người ta thèm ăn. Vị cay gây nghiện kích thích vị giác, cảm giác có thể ăn liên tục mười chén cơm cũng không ngán."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

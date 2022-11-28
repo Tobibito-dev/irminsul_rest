@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rice Buns",
+        "de": "Klebreisbällchen",
+        "chs": "米窝窝",
+        "cht": "米窩窩",
+        "es": "Bolitas de harina de arroz",
+        "fr": "Boules de riz gluant",
+        "id": "Rice Bun",
+        "jp": "米まんじゅう",
+        "kr": "쌀 찐빵",
+        "pt": "Bolinha de Arroz",
+        "ru": "Рисовые пампушки",
+        "th": "Rice Bun",
+        "vi": "Bánh Gạo"
+    },
+    "id": 108198,
+    "materialDesc": {
+        "en": "Soft and fluffy buns. The rice and horsetail have been ground into flour and kneaded into dough before being placed into a steaming basket. They can be eaten as-is or with a vegetable filling. Portable and satiating, it is a very popular dish in the Liyue region.",
+        "de": "Weiches und luftiges Hauptnahrungsmittel. Der Reis und der Pferdeschwanz werden in das Mehl gegeben und im Teig verknetet, bevor alles in einen Dampfgarer gegeben wird. Es kann einfach so gegessen werden oder mit einer vegetarischen Füllung. Praktisch mitzunehmen und sattmachend – ein sehr beliebtes Essen in der Region Liyue.",
+        "chs": "松软弹牙的主食。稻米和马尾磨粉后揉成面团，做出造型后上笼屉蒸熟。除了直接食用以外还有夹菜馅的吃法。方便携带的同时又很能填饱肚子，是璃月地区一道备受欢迎的主食。",
+        "cht": "鬆軟彈牙的主食。稻米和馬尾磨粉後揉成麵糰，做出造型後上籠屜蒸熟。除了直接食用以外還有夾菜餡的吃法。方便攜帶的同時又很能填飽肚子，是璃月地區一道備受歡迎的主食。",
+        "es": "Una esponjosa comida con una agradable textura. El arroz y las colas de caballo se muelen para hacer una masa a la que se da forma de bola y se cocina en una vaporera de bambú. Aparte de comerla directamente, también se puede rellenar con ingredientes vegetales. Esta comida le gusta tanto a la gente de Liyue porque no solo es fácil de llevar a cualquier parte, sino que es muy saciante.",
+        "fr": "Un mets de base, tendre et élastique. Le riz gluant est écrasé avec de la prêle, et la pâte obtenue est ensuite séparée en morceaux qui sont travaillés jusqu'à la forme voulue avant d'être cuits à la vapeur. On les mange aussi bien directement que fourrés. Pratiques à emporter et consistants, il s'agit là de l'un des mets de ce type les plus appréciés des gens de Liyue.",
+        "id": "Makanan pokok yang lembut dan empuk. Nasi dan horsetail telah digiling menjadi tepung dan diremas menjadi adonan, lalu dimasukkan ke dalam keranjang kukus. Makanan ini bisa dimakan begitu saja atau ditambah dengan isi sayuran. Praktis dan mengenyangkan, ini adalah hidangan yang sangat populer di wilayah Liyue.",
+        "jp": "ふんわりとした歯ごたえのある主食。米と馬尾で生地を練り、形を作って蒸し焼きにしたもの。そのまま食べるだけでなく、他の料理を包む食べ方もある。持ち運びが便利でお腹もいっぱいになるため、璃月で高い人気を誇っている。",
+        "kr": "폭신하고 쫄깃한 식감의 주식. 쌀과 말총을 가루로 빻아 반죽을 만들어 모양을 낸 후 찜통에 찐다. 그냥 먹기도 하지만 소를 넣어 함께 먹기도 한다. 휴대가 간편하고 배도 든든히 채울 수 있어서 리월에서 인기가 많은 주식이다",
+        "pt": "Uma comida flexível na boca. O arroz e o rabo de cavalo foram moídos em pó e depois transformados numa bola de massa para então serem cozinhados a vapor no bambu. Além de poder ser comida diretamente, também pode ser usada como um recheio em outras comidas. É conveniente de se carregar e também enche o estômago facilmente, é um prato principal da região de Liyue.",
+        "ru": "Мягкие и в меру упругие пампушки. Кусочкам теста из перемолотого с конским хвостом риса придаётся особенная форма, а затем они готовятся на пару в бамбуковой корзине. В них можно положить овощи, а можно съесть и так. Это сытное блюдо, которое удобно брать с собой, очень популярно в Ли Юэ.",
+        "th": "อาหารหลักนุ่มฟูเคี้ยวง่าย บดข้าวและ Horsetail ให้เป็นผงแล้วนำไปนวดให้เป็นก้อน จากนั้นเมื่อขึ้นเป็นรูปทรงแล้ว ให้นำไปวางในตะกร้าแล้วนึ่ง นอกจากทานได้โดยตรงแล้ว ยังสามารถนำไปใส่ไส้ได้อีกด้วย เป็นอาหารที่ทั้งสะดวกในการพกพา และสามารถช่วยให้อิ่มท้องได้เป็นอย่างดี เป็นอาหารหลักประเภทหนึ่งที่ได้รับความนิยมใน Liyue",
+        "vi": "Món ăn chính xốp mềm. Lúa mạch và cỏ đuôi ngựa sau khi nghiền nát nhồi thành bột, nặn thành hình rồi đem đi hấp. Ngoài cách ăn trực tiếp còn có thể kẹp thức ăn vào giữa để ăn. Vừa tiện đem đi lại có thể giúp no bụng, là món ăn được yêu thích ở Liyue."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

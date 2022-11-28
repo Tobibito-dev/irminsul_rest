@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dropped Package",
+        "de": "Verlorenes Paket",
+        "chs": "遗落的包裹",
+        "cht": "遺落的包裹",
+        "es": "Paquete extraviado",
+        "fr": "Colis perdu",
+        "id": "Paket yang hilang",
+        "jp": "落とされた荷物",
+        "kr": "분실된 가방",
+        "pt": "Pacote Extraviado",
+        "ru": "Утерянная посылка",
+        "th": "พัสดุที่ตกหล่น",
+        "vi": "Gói hàng bỏ quên"
+    },
+    "id": 100429,
+    "materialDesc": {
+        "en": "A package that has been left on the ground. It's not very heavy; the sound of something clattering inside can be heard when picking it up. It must contain many small objects.",
+        "de": "Ein Paket, das jemand zurückgelassen hat. Es ist nicht sehr schwer, wenn man es in die Hand nimmt, und macht klappernde Geräusche, die so klingen, als wären viele kleine Dinge in dem Paket.",
+        "chs": "遗落在地上的包裹，入手没多少重量。拿起来的时候能听见哗啦的响声，里面似乎装着很多零碎的小东西。",
+        "cht": "遺落在地上的包裹，入手沒多少重量。拿起來的時候能聽見嘩啦的響聲，裡面似乎裝著很多零碎的小東西。",
+        "es": "Un paquete que han dejado en el suelo. No es muy pesado y, al levantarlo, se escucha el ruido de algo en su interior. Debe ser algo muy frágil.",
+        "fr": "Un colis trouvé par terre au poids assez léger. Des cliquetis peuvent être entendus lorsqu'on le soulève. Il doit certainement contenir un objet fragile.",
+        "id": "Sebuah paket yang ditinggalkan di atas tanah. Tidak begitu berat, namun kamu dapat mendengar suara gemerincing di dalam saat kamu mengambilnya. Sepertinya berisi banyak benda-benda kecil.",
+        "jp": "誰かが落とした荷物、重さはそれほどなく、手に持つと中から物音がするため、細かいものがたくさん入っているようだ。",
+        "kr": "바닥에 남겨진 가방. 별로 무겁지 않다. 들어올리면 달그락 소리가 난다. 안에 작은 잡동사니들이 담긴 모양이다",
+        "pt": "Um pacote que foi deixado no chão. Não é muito pesado, ao levantá-lo é possível ouvir um ruído em seu interior. Deve conter alguns objetivos pequenos.",
+        "ru": "Забытая на земле коробка. Она не очень тяжёлая. Когда вы подняли её, вещи внутри издали клацающий звук. Наверняка в ней лежит что-то хрупкое.",
+        "th": "พัสดุที่ตกหล่นบนพื้น ไม่หนักมากเท่าไหร่ เมื่อหยิบขึ้นมาได้ยินเสียงดังโครม ๆ ข้างในคงใส่ของชิ้นเล็กชิ้นน้อยเต็ม ไปหมด",
+        "vi": "Gói hàng nhẹ bị bỏ quên trên mặt đất. Khi nhấc lên sẽ nghe thấy tiếng leng keng, dường như bên trong đựng rất nhiều thứ lặt vặt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

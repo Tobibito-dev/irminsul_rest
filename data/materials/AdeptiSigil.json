@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adepti Sigil",
+        "de": "Adeptentalisman",
+        "chs": "仙家符箓",
+        "cht": "仙家符籙",
+        "es": "Talismán de los Adeptus",
+        "fr": "Blason des Adeptes",
+        "id": "Adepti Sigil",
+        "jp": "仙家呪符",
+        "kr": "선가 부적",
+        "pt": "Selo Adepti",
+        "ru": "Талисман Адептов",
+        "th": "Adepti Sigil",
+        "vi": "Bùa Chú Tiên Gia"
+    },
+    "id": 101612,
+    "materialDesc": {
+        "en": "Adepti Sigils made by Shenhe. They contain dense adeptal energy.",
+        "de": "Adeptentalisman, der von Shenhe angefertigt wurde. In ihm stecken sehr starke Adeptenkräfte.",
+        "chs": "申鹤所制仙家符箓，蕴藏着浓厚的仙家力量。",
+        "cht": "申鶴所製仙家符籙，蘊藏著濃厚的仙家力量。",
+        "es": "Un talismán de los Adeptus que Shenhe fabricó. En su interior contiene el poder de los Adeptus.",
+        "fr": "Un blason des Adeptes fabriqué par Shenhe. Il contient de l'énergie mystique.",
+        "id": "Adepti Sigil buatan Shenhe. Mengandung energi Adeptus yang sangat pekat.",
+        "jp": "申鶴が作った仙家呪符。強い仙人の力が込められている。",
+        "kr": "신학이 제작한 선가 부적. 강력한 선가의 힘이 담겨 있다",
+        "pt": "Um talismã Adepti feito por Shenhe. Contém poder adeptal concentrado.",
+        "ru": "Талисман Адептов, сделанный Шэнь Хэ. Внутри него заключена сконцентрированная сила Адептов.",
+        "th": "Adepti Sigil ที่ Shenhe เป็นคนทำขึ้นมา ซึ่งอัดแน่นไปด้วยพลังเซียนที่เข้มข้น",
+        "vi": "Bùa Chú Tiên Gia do Shenhe chế tạo, chứa đựng trong đó rất nhiều sức mạnh tiên gia."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

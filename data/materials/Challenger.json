@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Challenger",
+        "de": "Herausforderer",
+        "chs": "挑战者",
+        "cht": "挑戰者",
+        "es": "Contendiente",
+        "fr": "Duelliste acharné",
+        "id": "Challenger",
+        "jp": "挑戦者",
+        "kr": "도전자",
+        "pt": "Desafiante",
+        "ru": "Претендент",
+        "th": "Challenger",
+        "vi": "Người Khiêu Chiến"
+    },
+    "id": 200250,
+    "materialDesc": {
+        "en": "When there are no more than 2 opponents near a character, ATK is increased by 20% and DEF is increased by 20%.",
+        "de": "Erhöht den ANG um 20 % und die VTD um 20 %, wenn sich nicht mehr als 2 Gegner in der Nähe der Figur befinden.",
+        "chs": "角色附近的敌人数量不多于2个时，攻击力提高20%，防御力提高20%。",
+        "cht": "角色附近的敵人數量不多於2個時，攻擊力提高20%，防禦力提高20%。",
+        "es": "Cuando hay 2 enemigos como máximo cerca del personaje, el ATQ aumenta en un 20% y la DEF aumenta en un 20%.",
+        "fr": "Lorsqu'il n'y a pas plus de 2 ennemis à proximité d'un personnage, son ATQ augmente de 20 % et sa DÉF de 20 %.",
+        "id": "Saat musuh di sekitar Karakter tidak lebih dari 2, meningkatkan 20% ATK dan DEF.",
+        "jp": "キャラクターの近くの敵が2体以下の時、攻撃力+20%、防御力+20%。",
+        "kr": "캐릭터 주변의 적이 2명 미만일 경우 공격력과 방어력이 각각 20% 증가한다",
+        "pt": "Quando não há mais do que 2 oponentes próximos ao Personagem, o ATQ é aumentado em 20% e a DEF é aumentada em 20%.",
+        "ru": "Когда количество врагов рядом с персонажем не превышает 2, сила атаки увеличена на 20%, а защита увеличена на 20%.",
+        "th": "เมื่อบริเวณใกล้เคียงตัวละคร มีจำนวนศัตรูไม่เกิน 2 ตัว พลังโจมตีจะเพิ่มขึ้น 20% และพลังป้องกันจะเพิ่มขึ้น 20%",
+        "vi": "Số lượng kẻ địch xung quanh nhân vật không vượt quá 2 sẽ khiến tấn công tăng 20%, phòng thủ tăng 20%."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

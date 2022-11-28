@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Records of Jueyun: Hidden Jade",
+        "de": "Jueyun-Schriften – Verborgene Jade",
+        "chs": "绝云记闻·玉遁",
+        "cht": "絕雲記聞·玉遁",
+        "es": "Registros de Jueyun: El jade exiliado",
+        "fr": "Archives de Jueyun - Jade caché",
+        "id": "Catatan Jueyun: Giok Tersembunyi",
+        "jp": "絶雲紀聞·玉遁",
+        "kr": "절운 기문·옥둔",
+        "pt": "Registros de Jueyun - Jade Oculta",
+        "ru": "Хроника Заоблачного предела: Укрытый нефрит",
+        "th": "บันทึกอันน่าทึ่งของ Jueyun - หยกที่ถูกซ่อน",
+        "vi": "Ký Sự Tuyệt Vân - Ngọc"
+    },
+    "id": 100731,
+    "materialDesc": {
+        "en": "A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the Dunyu Ruins.",
+        "de": "Eine Sammlung von interessanten kurzen Erzählungen, die durch das Volk von Liyue gehen. Sie sind recht knapp und dennoch sehr beliebt unter den Menschen. In diesem Band geht es um um die alten Ruinen des „Dunyu-Mausoleums“.",
+        "chs": "璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇介绍了被称为「遁玉陵」的古老遗迹。",
+        "cht": "璃月流傳的諸多志怪傳奇故事合集，收錄了許多短小精悍，膾炙人口的軼事，大多為民俗題材。本篇介紹了被稱為「遁玉陵」的古老遺蹟。",
+        "es": "Una colección de las muchas historias legendarias de Liyue. Incluye cuentos cortos y anécdotas universalmente populares, la mayoría sobre temas folclóricos. Esta edición es sobre las Ruinas de Dunyu.",
+        "fr": "Une compilation d'histoires passionantes en rapport avec le folklore liyuéen. Ce tome traite des ruines connues sous le nom de « Ruines de Dunyu ».",
+        "id": "Kompilasi dari berbagai cerita legenda di Liyue. Berisi banyak cerita pendek yang digemari oleh semua orang. Edisi ini menceritakan tentang Dunyu Ruins.",
+        "jp": "璃月の奇怪伝説物語全集、誰もが知っている物語が多く収録され、その多くは民俗をテーマにしたもの。本編は「遁玉の丘」と呼ばれている古代遺跡の紹介が記載されている。",
+        "kr": "리월에서 전해 내려오는 여러 기괴한 전설 전집. 짧지만 사람들 입에 많이 오르내리는 알찬 일화들이 수록되어 있으며, 대부분 토속적인 내용을 소재로 한다. 본편은 「둔옥릉」이라 불리는 고대 유적에 대해 소개하고 있다",
+        "pt": "Uma coleção de histórias folclóricas, mitos e lendas de Liyue. Essa edição conta as histórias das ruínas antigas conhecidas como Ruínas de Dunyu.",
+        "ru": "Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги знакомит читателя с древними руинами гробницы Дуньюй.",
+        "th": "คอลเลกชันที่รวบรวมตำนานและเรื่องเล่ามากมายที่ถูกบอกต่อกันของ Liyue บันทึกช่วงเวลาสั้น ๆ และทรงพลังรวมไปถึงนิยายที่ผู้คนต่างพากันพูดถึงไว้อย่างมากมาย ซึ่งโดยส่วนใหญ่แล้วจะมีหัวข้อเกี่ยวกับประเพณีต่าง ๆ ส่วนบทความนี้จะแนะนำเกี่ยวกับโบราณสถานที่ถูกเรียกว่า Dunyu Ruins",
+        "vi": "Bộ sưu tập nhiều câu chuyện ly kì ở Liyue, bao gồm nhiều giai thoại ngắn và thú vị, chủ yếu lấy chủ đề dân gian. Bài viết này giới thiệu di tích cổ xưa mang tên Tuần Ngọc Lăng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

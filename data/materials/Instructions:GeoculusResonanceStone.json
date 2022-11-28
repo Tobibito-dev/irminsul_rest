@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Instructions: Geoculus Resonance Stone",
+        "de": "Erläuterung: Geoculus-Resonanzstein",
+        "chs": "说明：岩神瞳共鸣石",
+        "cht": "說明：岩神瞳共鳴石",
+        "es": "Instrucciones: Roca de resonancia de geóculus",
+        "fr": "Instructions : Pierre de résonance Géoculus",
+        "id": "Panduan: Geoculus Resonance Stone",
+        "jp": "説明：岩神の瞳の共鳴石",
+        "kr": "설명서: 바위 신의 눈동자 공명석",
+        "pt": "Instruções: Pedra de Ressonância de Geoculus",
+        "ru": "Инструкции: Камень эха геокула",
+        "th": "คู่มือ: Geoculus Resonance Stone",
+        "vi": "Giải Thích: Đá Cộng Hưởng Nham Thần Đồng"
+    },
+    "id": 221002,
+    "materialDesc": {
+        "en": "Detailed step-by-step instructions for making a Geoculus Resonance Stone. Master them and you will be able to create a tool to guide you to towards Geoculi.",
+        "de": "Anleitung mit detaillierten Schritten zur Herstellung von „Geoculus-Resonanzstein“. Hiermit kannst du ein Objekt herstellen, mit dessen Hilfe du verlorene Geoculi finden kannst.",
+        "chs": "步骤详实的说明，记载着「岩神瞳共鸣石」的制作方法。掌握后，可以制作寻找「散失的岩神瞳」的道具。",
+        "cht": "步驟詳實的說明，記載著「岩神瞳共鳴石」的製作方法。掌握後，可以製作尋找「散失的岩神瞳」的道具。",
+        "es": "Instrucciones detalladas para fabricar una Roca de resonancia de geóculus. Tras obtenerlas, puedes fabricar un objeto para encontrar geóculus.",
+        "fr": "Instructions détaillées pour la fabrication d'une Pierre de résonance Géoculus. Une fois maîtrisées, celles-ci vous permettront de créer un outil capable de localiser les Géoculus.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Geoculus Resonance Stone\". Setelah menguasainya, kamu bisa membuatnya untuk mencari item \"Geoculus\".",
+        "jp": "「岩神の瞳の共鳴石」の詳しい作り方が載っている説明書。習得後は、「失われた岩神の瞳」を探知できるアイテムを作れるようになる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설명서로 「바위 신의 눈동자 공명석」의 제작 방법이 적혀있다. 습득 후 「잃어버린 바위 신의 눈동자」를 찾을 수 있는 아이템을 제작할 수 있다",
+        "pt": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Geoculus. Depois de domina-la bem, poderá fazer uma ferramenta que permitirá procurar Geoculus.",
+        "ru": "Подробные инструкции по изготовлению предмета «Камень эха геокула». Выучив их, вы сможете создать инструмент, который направит вас к геокулам.",
+        "th": "คำอธิบายการสร้าง Geoculus Resonance Stone โดยละเอียด ศึกษาให้เชี่ยวชาญ แล้วมันจะเป็นอุปกรณ์นำทางของคุณในการค้นหา Geoculus",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"Đá Cộng Hưởng Nham Thần Đồng\". Có thể dùng để chế tạo đạo cụ tìm \"Nham Thần Đồng\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

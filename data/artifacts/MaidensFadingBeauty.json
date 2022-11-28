@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Maiden's Fading Beauty",
+        "de": "Vergänglichkeit der Maid",
+        "chs": "少女易逝的芳颜",
+        "cht": "少女易逝的芳顏",
+        "es": "Belleza Desvanecida de la Doncella",
+        "fr": "Beauté fugace de la Demoiselle",
+        "id": "Maiden's Fading Beauty",
+        "jp": "少女の儚き顔",
+        "kr": "소녀의 꺾여가는 미모",
+        "pt": "Beleza Desvanecida da Donzela",
+        "ru": "Увядающая красота юной девы",
+        "th": "Maiden's Fading Beauty",
+        "vi": "Nhan Sắc Của Thiếu Nữ"
+    },
+    "id": 24793,
+    "setId": 14004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

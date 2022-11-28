@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Note Someone Stuffed You",
+        "de": "Notiz, die jemand dir zugesteckt hat",
+        "chs": "被人塞在身上的纸片",
+        "cht": "被人塞在身上的紙片",
+        "es": "Pedazo de papel desconocido",
+        "fr": "Note transmise discrètement",
+        "id": "Catatan yang Diselipkan Seseorang Padamu",
+        "jp": "無理やり渡された紙切れ",
+        "kr": "누군가가 집어넣은 쪽지",
+        "pt": "Nota Desconhecida",
+        "ru": "Подсунутая записка",
+        "th": "กระดาษที่ถูกใครบางคนแอบยัดไว้",
+        "vi": "Mẩu Giấy Bị Nhét Vào Người"
+    },
+    "id": 101660,
+    "materialDesc": {
+        "en": "As you were walking down the streets of Inazuma, someone stuffed this note onto your person. Two strange symbols are drawn on it.",
+        "de": "Als du durch die Straßen von Inazuma gelaufen bist, hat dir jemand diesen Zettel zugesteckt. Darauf sind zwei seltsame Symbole gezeichnet.",
+        "chs": "在稻妻城里行走时，不知道被谁塞在身上的纸片，上面画着两个奇怪的记号。",
+        "cht": "在稻妻城裡行走時，不知道被誰塞在身上的紙片，上面畫著兩個奇怪的記號。",
+        "es": "Un pedazo de papel que alguien te colocó sigilosamente mientras caminabas por la Ciudad de Inazuma. En él hay dibujados dos extraños símbolos.",
+        "fr": "Une note qui vous a été transmise discrètement pendant que vous marchiez dans les rues d'Inazuma. Elle comporte deux symboles étranges.",
+        "id": "Saat kamu berjalan menelusuri jalan di Inazuma, seseorang menyelipkan catatan ini padamu. Terdapat dua simbol aneh di atasnya.",
+        "jp": "稲妻城を歩いていた時、何者かに無理やり渡された紙切れ。奇妙な記号が二つ描いてある。",
+        "kr": "이나즈마성의 길을 걸을 때 누군가 품속으로 집어넣은 쪽지, 이상한 문양이 그려져 있다",
+        "pt": "Uma nota que alguém passou discretamente para você enquanto caminhava na cidade de Inazuma. Dois símbolos estranhos estão desenhados nela.",
+        "ru": "Кто-то подсунул вам эту записку, когда вы шли по улицам Инадзумы. На ней нарисованы два странных символа.",
+        "th": "ขณะที่เดินอยู่ใน Inazuma ก็ไม่รู้ว่าถูกใครบางคนแอบยัดเศษกระดาษให้ ในนั้นได้วาดสัญลักษณ์ประหลาดสองอันเอาไว้",
+        "vi": "Mẩu giấy bị người lạ nhét vào người trong lúc đi dạo trong Thành Inazuma, trên đó vẽ hai ký hiệu kỳ lạ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

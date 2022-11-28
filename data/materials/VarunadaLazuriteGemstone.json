@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Varunada Lazurite Gemstone",
+        "de": "Varunada-Lasurit",
+        "chs": "涤净青金",
+        "cht": "滌淨青金",
+        "es": "Lazurita varunada",
+        "fr": "Pierre de lazurite varunada",
+        "id": "Varunada Lazurite Gemstone",
+        "jp": "澄明なラピスラズリ",
+        "kr": "순수한 청금석",
+        "pt": "Gema de Lazurita Varunada",
+        "ru": "Драгоценный лазурит Варунада",
+        "th": "Varunada Lazurite Gemstone",
+        "vi": "Thanh Kim Sạch"
+    },
+    "id": 104124,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"My ideals have no stains.\\nI must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.\\nThey can judge even me. So praise my magnificence and purity.\"",
+        "de": "Material für den Figurenaufstieg.\\n„Meine Ideale sind vollkommen klar.“\\n„Ich muss dich berichtigen. Die Menschen hier werden für ihre Sünden nicht von den Göttern gerichtet, sondern vom Gesetz und vom Richter.“\\n„Selbst über mich können sie richten, womöglich um meine Erhabenheit und Reinheit zu lobpreisen.“",
+        "chs": "角色突破素材。\\n「我的理想之内并没有一丝污浊。\\n「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。\\n「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」",
+        "cht": "角色突破素材。\\n「我的理想之內並沒有一絲污濁。」\\n「我要糾正你，在這裡，人並不對神背負罪孽，能下達判決的只有法律與裁判庭。」\\n「他們甚至連我也可以裁判。讚美我的崇高與純潔吧。」",
+        "es": "Material de ascensión de personaje.\\n“Mis ideales son inmaculados”.\\n“Permíteme que te corrija. Aquí, la gente no carga con pecados a ojos de los dioses, pues solo las leyes y el Tribunal pueden juzgar a las personas”.\\n“Pueden juzgarme incluso a mí. Así pues, alabadas sean mi magnificencia y mi pureza”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Mes idéaux sont purs. »\\n« Je me dois de te corriger : personne ici n'est impur aux yeux des dieux, et seuls les lois et le tribunal peuvent déclarer un jugement. »\\n« Ils peuvent même me juger. Louez donc ma grandeur et ma pureté. »",
+        "id": "Material Ascension Karakter.\\n\"Ideologiku tidak bernoda.\"\\n\"Aku harus membenarkanmu. Orang-orang di sini tidak berdosa di mata para Dewa... hanya hukum dan Tribunal yang bisa menghakimi seseorang.\"\\n\"Mereka bahkan dapat menghakimiku. Jadi pujalah keindahan dan kemurnianku.\"",
+        "jp": "キャラクターの突破用アイテム。\\n「吾の理想には一片の穢れも無い。」\\n「正そうか、ここでは、人間は神に罪を背負わん。裁きを下すのは、法律と裁判所だけ。」\\n「この吾にも裁きを受ける。さあ、吾の崇高と純潔を讃えよう。」",
+        "kr": "캐릭터 돌파 소재.\\n「나의 이상에는 한 치의 혼탁함도 존재하지 않는다」\\n「난 너를 바로잡을 것이다. 이곳에서 인간은 심판 받지 않는다. 판결을 내릴 수 있는 건 오직 법률과 재판정뿐이다」\\n「심지어 판결의 대상은 나일 수도 있다. 나의 숭고함과 순결함을 찬양하라」",
+        "pt": "Material de Ascensão de Personagem.\\n\"Meus ideais são intocados.\"\\n\"Eu preciso corrigir você. As pessoas aqui não cometem erros diante dos olhos dos deuses... Apenas a lei e o Tribunal podem julgara alguém\".\\n\"Eles podem até mesmo me julgar. Portanto, louve minha magnificência e pureza.\"",
+        "ru": "Материал возвышения персонажа.\\n«Мои идеалы кристально чисты!»\\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить.\\nОни могут судить даже меня. Так вознеси моё великолепие и непорочность».",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\n\"ไม่มีความสกปรกแม้แต่น้อยในอุดมคติของฉัน\"\\n\"ฉันต้องการที่จะแก้ไขสิ่งที่เธอคิด ที่นี่มนุษย์ไม่ได้ทำบาปต่อพระเจ้า สิ่งที่สามารถตัดสินผิดถูกได้นั้น มีเพียงกฎข้อบังคับและศาลเท่านั้น\"\\n\"พวกเขาถึงกระทั่งตัดสินฉันได้ ยกย่องความสง่างามและความบริสุทธิ์ของฉัน\"",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Trong lý tưởng của ta không có chút vấy bẩn nào.\"\\n\"Tôi phải đính chính với bạn, ở nơi này, người không phải gánh vác tội lỗi nào với Thần, chỉ có pháp luật và tòa án mới có thể luận tội.\"\\n\"Họ thậm chí có thể luận tội cả tôi. Hãy tán dương sự tôn quý và thuần khiết của tôi đi.\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}
