@@ -1,6 +1,6 @@
 # irminsul_rest
 
-localhost version of https://api.irminsul.info  
+localhost version of https://api.irminsul.info (coming soon)  
 will host at http://127.0.0.1:5000
 
 !!!No pre-release data included!!!
