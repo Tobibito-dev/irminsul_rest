@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tonkotsu Ramen",
+        "de": "Tonkotsu-Ramen",
+        "chs": "兽骨拉面",
+        "cht": "獸骨拉麵",
+        "es": "Ramen de carne",
+        "fr": "Tonkotsu ramen",
+        "id": "Tonkotsu Ramen",
+        "jp": "獣骨ラーメン",
+        "kr": "사골 라멘",
+        "pt": "Ramen Tonkotsu",
+        "ru": "Тонкоцу рамэн",
+        "th": "Tonkotsu Ramen",
+        "vi": "Ramen Xương Hầm"
+    },
+    "id": 108262,
+    "materialDesc": {
+        "en": "A steaming-hot noodle dish. The meat, prepared at low temperature, is laid over the noodles. Salty, fragrant, delicious soup seeps into each strand. A single bowl of these is guaranteed to restore any tired soul.",
+        "de": "Ein dampfend heißes Nudelgericht. Das bei niedriger Temperatur zubereitete Fleisch wird über die Nudeln gelegt. Salzige, duftende, köstliche Suppe sickert in jeden Strang ein. Eine einzige Schüssel davon erholt garantiert jede müde Seele.",
+        "chs": "热气腾腾的面食。低温烹熟的兽肉铺于面上，咸香可口的汤汁，丝丝渗入面条之中。疲惫的时候吃上这么一碗，精神也能为之一振。",
+        "cht": "熱氣騰騰的麵食。低溫烹熟的獸肉鋪於麵上，鹹香可口的湯汁，絲絲滲入麵條之中。疲憊的時候吃上這麼一碗，精神也能為之一振。",
+        "es": "#Un plato de fideos bien caliente. La carne, cocinada a fuego lento, se ha colocado sobre los fideos, en cada uno de los cuales ha penetrado el sabroso y aromático caldo. Si comes este plato cuando estés cansad{F#a}{M#o}, recuperarás tus fuerzas al instante.",
+        "fr": "Un plat de nouilles bien chaud. La viande, mijotée à basse température, est déposée sur les nouilles qui ont été imprégnées d'un bouillon salé, parfumé et délicieux. Un seul bol suffit à redonner des forces à toute âme fatiguée.",
+        "id": "Masakan mi yang panas mengepul. Dagingnya dimasak dengan suhu rendah dan diletakkan di atas mi. Rasa kuah yang asin dan wangi meresap ke setiap helai mi. Satu mangkuk mi ini dijamin akan memulihkan jiwa yang lelah.",
+        "jp": "アツアツのラーメン。低温調理された獣肉が麺の上に乗せられ、塩味とうま味のあるスープが麺に染み込んでいる。疲労しているときに、このような一品を食べると気持ちも高まる。",
+        "kr": "뜨거운 김이 모락모락 피어나는 면 요리. 저온에서 조리한 짐승고기를 면에 골고루 펴고, 맛 좋고 향기로운 육수는 면 사이사이까지 침투했다. 피곤할 때 한 그릇 먹으면 정신이 번쩍 든다",
+        "pt": "Um prato de macarrão fumegante. A carne, preparada a baixa temperatura, é disposta sobre o macarrão. Uma sopa salgada, perfumada e deliciosa penetra em cada pedaço da massa. Uma única tigela deste prato consegue revigorar qualquer alma cansada.",
+        "ru": "Горячее блюдо из лапши с супом. На лапше, объятой ароматным солёным бульоном, лежит сваренное на медленном огне мясо. Миска такой лапши придаст сил любой измотанной душе.",
+        "th": "เมนูเส้นร้อน ๆ เนื้อที่ปรุงด้วยอุณหภูมิต่ำวางไว้ด้านบน น้ำซุปรสเค็มและอร่อยแทรกซึมเข้าไปในเส้นบะหมี่ การกินบะหมี่แบบนี้ เมื่อคุณเหนื่อยสามารถทำให้จิตใจของคุณสดชื่นขึ้นมาได้",
+        "vi": "Món mì nóng hổi. Các miếng thịt đã được nấu chín với nhiệt độ thấp sẽ rải lên trên, nước súp mặn mà thơm ngon len lỏi ngấm trên từng sợi mì. Nếu ăn một bát mì thế này trong lúc mệt nhọc, tinh thần sẽ tươi tỉnh lên nhiều đấy."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

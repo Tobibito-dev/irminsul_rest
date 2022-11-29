@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bamboo Slip",
+        "de": "Bambusstäbchen",
+        "chs": "竹签",
+        "cht": "竹籤",
+        "es": "Palillo de la fortuna",
+        "fr": "Bâtonnet en bambou",
+        "id": "Stik Bambu",
+        "jp": "みくじ竹",
+        "kr": "죽첨",
+        "pt": "Rolinho de Bambu",
+        "ru": "Гадальная палочка",
+        "th": "Bamboo Slip",
+        "vi": "Thẻ Trúc"
+    },
+    "id": 100914,
+    "materialDesc": {
+        "en": "A bamboo slip that was used as a marking in some unremarkable spot. Can be exchanged with Gendou Ringo of the Grand Narukami Shrine for fortune-telling Fortune Slips.",
+        "de": "Ein Bambusstäbchen, das an einer unauffälligen Stelle markiert ist. Du kannst es bei Gendou Ringo von dem Großen Narukami-Schrein gegen „Orakelzettel“ eintauschen, die dir ein Horoskop stellen können.",
+        "chs": "在不起眼的地方做了标记的竹签。通过鸣神大社的玄冬林檎小姐，可以兑换成阐明运势的「御神签」。",
+        "cht": "在不起眼的地方做了標記的竹籤。可以向鳴神大社的玄冬林檎小姐兌換闡明運勢的「御神籤」。",
+        "es": "Varilla de bambú usada como marca en un lugar poco llamativo. Acude al Gran Santuario Narukami para canjeársela a Gendou Ringo por un papel de la fortuna.",
+        "fr": "Un bâtonnet en bambou qui servait d'indication pour les choses les moins remarquables. Peut être échangé auprès de Gendou Ringo au Sanctuaire de Narukami contre des omikuji.",
+        "id": "Bilah bambu yang digunakan sebagai penanda di beberapa tempat yang tidak terlalu mencolok. Dapat ditukar dengan ramalan Slip Keberuntungan melalui Gendou Ringo dari Kuil Agung Narukami.",
+        "jp": "目立たないところに印をつけた、みくじ竹。鳴神大社の玄冬林檎さんのところで、運勢を占う「おみくじ」と交換できる。",
+        "kr": "눈에 띄지 않는 곳에 표기가 되어 있는 죽첨. 나루카미 다이샤의 겐토 링고 아가씨한테서 운세를 점칠 수 있는 「점괘」를 교환할 수 있다",
+        "pt": "Um rolinho de bambu que era usado como um marcador em um local banal. Pode ser trocado com Gendou Ringo do Grande Santuário Narukami por um Rolinho da Sorte que conta o futuro.",
+        "ru": "Гадальная палочка, которая служила пометкой в непримечательном месте. Её можно обменять на гадальные листки в Великом храме Наруками у Гэндо Ринго.",
+        "th": "ไม้ไผ่ที่ถูกทำเครื่องหมายทิ้งไว้ในที่ที่ไม่สะดุดตา สามารถใช้แลกเปลี่ยนกับ Gendou Ringo แห่งศาลเจ้า Grand Narukami เพื่อรับ \"ใบเซียมซี\" ทำนายดวงชะตาได้",
+        "vi": "Thẻ trúc ký hiệu ở nơi nào đó. Có thể đến tìm Gendou Ringo ở Đền Narukami để đổi Thẻ Ngự Thần."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

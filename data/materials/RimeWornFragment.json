@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rime-Worn Fragment",
+        "de": "Frostbiss-Splitter",
+        "chs": "霜噬碎屑",
+        "cht": "霜噬碎屑",
+        "es": "Fragmento de escarcha",
+        "fr": "Fragment du frimas",
+        "id": "Rime-Worn Fragment",
+        "jp": "霜噬砕屑",
+        "kr": "서리에 삼켜진 파편",
+        "pt": "Fragmento de Gelo",
+        "ru": "Инеевый осколок",
+        "th": "Rime-Worn Fragment",
+        "vi": "Băng Vụn Vỡ"
+    },
+    "id": 200101,
+    "materialDesc": {
+        "en": "Small crystals obtained from monster habitats on Dragonspine.\\nThey are only generated at special times.",
+        "de": "Ein von einem Monster des Drachengrats extrahierter kleiner Kristall.\\nEntsteht nur zu ganz bestimmten Zeiten.",
+        "chs": "从龙脊雪山的魔物处提取出来的小块结晶。\\n仅仅会在特殊的时期产生。",
+        "cht": "從龍脊雪山的魔物處提取出來的小塊結晶。\\n僅僅會在特殊的時期產生。",
+        "es": "Un pequeño cristal obtenido en el hábitat de los monstruos en Espinadragón.\\nSolo se produce en momentos especiales.",
+        "fr": "Petit cristal extrait des repaires des monstres des Monts Dosdragon.\\nUn matériau qui se forme dans des circonstances spéciales.",
+        "id": "Ekstrak kristal kecil yang didapatkan dari monster-monster di Dragonspine.\\nHanya bisa didapatkan pada waktu tertentu.",
+        "jp": "ドラゴンスパインの魔物から取り出した小さな結晶。\\n特殊な時期にのみ生成される。",
+        "kr": "드래곤 스파인의 마물에게서 얻어낸 작은 결정.\\n특수한 시기에만 생성된다",
+        "pt": "Pedaços pequenos de Cristais obtidos do habitat de monstros da Espinha do Dragão.\\nPara uma espada que tem sede de vida, melhor alimento é este cristal.",
+        "ru": "Осколки кристаллов, полученные из мест обитания монстров на Драконьем хребте. Они могут появиться только в определённое время.",
+        "th": "คริสตัลชิ้นเล็ก ๆ ที่มาจากมอนสเตอร์ใน Dragonspine\\nมักจะเกิดในช่วงเวลาที่พิเศษเสมอ",
+        "vi": "Mảnh kết tinh nhỏ được lấy trên người ma vật ở Long Tích Tuyết Sơn.\\nNó được sinh ra trong một khoảnh khắc đặc biệt."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

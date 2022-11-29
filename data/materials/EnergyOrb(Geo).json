@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Energy Orb (Geo)",
+        "de": "Elementarenergiekugel (Geo)",
+        "chs": "元素能量球(岩)",
+        "cht": "元素能量球(岩)",
+        "es": "Orbe de energía (Geo)",
+        "fr": "Orbe d'énergie (Géo)",
+        "id": "Small Energy Orb (Geo)",
+        "jp": "元素エネルギーボール(岩)",
+        "kr": "원소 에너지 오브(바위)",
+        "pt": "Orbe de Energia (Geo)",
+        "ru": "Сфера энергии (Гео)",
+        "th": "Energy Orb (Geo)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Nham)"
+    },
+    "id": 2007,
+    "materialDesc": {
+        "en": "Energy Orb (Geo)",
+        "de": "Elementarenergiekugel (Geo)",
+        "chs": "元素能量球(岩)",
+        "cht": "元素能量球(岩)。",
+        "es": "Orbe de energía (Geo)",
+        "fr": "Orbe d'énergie (Géo)",
+        "id": "Small Energy Orb (Geo)",
+        "jp": "元素エネルギーボール(岩)",
+        "kr": "원소 에너지 오브(바위)",
+        "pt": "Orbe de Energia (Geo)",
+        "ru": "Сфера энергии (Гео)",
+        "th": "Energy Orb (Geo)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Nham)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

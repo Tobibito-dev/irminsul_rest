@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Offerings of The Narrows",
+        "de": "Opfergabe in der Schlucht",
+        "chs": "狭间的供奉",
+        "cht": "狹間的供奉",
+        "es": "Ofrenda del Desfiladero",
+        "fr": "Offrande des Gorges",
+        "id": "Pemberian The Narrows",
+        "jp": "狭間の供物",
+        "kr": "협곡의 공양",
+        "pt": "Oferenda do Estreito",
+        "ru": "Подношение Теснины",
+        "th": "ของสักการะ The Narrows",
+        "vi": "Cống Phẩm Trong Lối Mòn Khe Núi"
+    },
+    "id": 100926,
+    "materialDesc": {
+        "en": "Offerings from The Narrows that contain a fraction of Aberaku's remnant thoughts.",
+        "de": "Ein Opfer in der Schmalen Schlucht, das einen Bruchteil von Aberakus Gedankenresten enthält.",
+        "chs": "供奉于狭间之街的供奉物，承载残魂「阿倍良久」一部分意念。",
+        "cht": "供奉於狹間之街的供奉物，承載殘魂「阿倍良久」一部分意念。",
+        "es": "Una ofrenda del Desfiladero que contiene una parte de los pensamientos del alma de Aberaku.",
+        "fr": "Une offrande des Gorges qui contient une fraction des pensées restantes d'Aberaku.",
+        "id": "Seserahan dari The Narrows yang mengandung sebagian dari sisa-sisa kehendak Aberaku.",
+        "jp": "狭間の街に奉納された供物。「阿倍良久」という残魂の一部の意志が込められている。",
+        "kr": "협곡의 거리에 바치는 공양품. 「아베라쿠」 잔혼의 일부 의지가 깃들어 있다",
+        "pt": "Uma oferenda do Estreito que contém uma fração dos pensamentos de Aberaku.",
+        "ru": "Подношение Теснины, которое содержит остатки мыслей Абэраку.",
+        "th": "ของสักการะ The Narrows ที่มีส่วนหนึ่งของวิญญาณ \"Aberaku\" หลงเหลืออยู่",
+        "vi": "Cống phẩm hiến tế tại Lối Mòn Khe Núi, chứa đựng một phần ý niệm của Aberaku."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

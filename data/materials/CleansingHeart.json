@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cleansing Heart",
+        "de": "Reinigendes Herz",
+        "chs": "净水之心",
+        "cht": "淨水之心",
+        "es": "Corazón purificador",
+        "fr": "Cœur d'eau pure",
+        "id": "Cleansing Heart",
+        "jp": "浄水の心",
+        "kr": "물처럼 맑은 마음",
+        "pt": "Coração Purificador",
+        "ru": "Очищающее сердце",
+        "th": "Cleansing Heart",
+        "vi": "Trái Tim Thuần Khiết"
+    },
+    "id": 113012,
+    "materialDesc": {
+        "en": "A palmful of eternal water left by an oceanid.\\nThough it has already diffused among the depths of the lake, its purity remains all the same. But why would a creature so pure and clean as an oceanid covet the appearance of a being that roams the land, and assume such a form with pure water? They need not breathe nor do they require sustenance...",
+        "de": "Eine Handvoll reines, durchsichtiges Wasser, das von einer Okeanide zurückgelassen wurde.\\nObwohl es sich mit dem Wasser des Sees vermischt hat, wird es seine Reinheit nie verlieren. Warum aber sollten so reine Wesen wie Okeaniden die Form eines Wesens auf dem Lande mit Wasser nachahmen wollen, wo sie doch weder atmen noch essen müssen?",
+        "chs": "纯水精灵留下的永远透彻的一掬水。\\n即使溶在了湖泊中，它的纯净也不会被稀释吧。但高洁如此的纯水精灵，又是为何渴望着地上生灵的模样，以净水模拟成生物的姿态呢，即使不需要呼吸、也不需要进食…",
+        "cht": "純水精靈留下的永遠透徹的一掬水。\\n即使溶在了湖泊中，它的純淨也不會被稀釋吧。但高潔如此的純水精靈，又是為何渴望著地上生靈的模樣，以淨水模擬成生物的姿態呢，即使不需要呼吸、也不需要進食…",
+        "es": "Agua eterna de una Oceánida.\\nAunque se vierta en las profundidades de un lago, su pureza seguirá siendo la misma. ¿Por qué una criatura tan pura y limpia como una Oceánida desearía tener el aspecto de las plantas terrestres? Las Oceánidas no necesitan ni respirar, ni la tierra para sobrevivir...",
+        "fr": "Un noyau d'eau pure, récupéré auprès d'une Océanide.\\nMême tombé au milieu d'un lac, il ne perd rien de sa pureté. Les Océanides sont des créatures d'une extrême pureté, dont le désir de ressembler aux êtres vivant sur la terre ferme est très puissant. Elles prennent alors forme terrestre – après tout, elles n'ont ni besoin de respirer, ni besoin de se sustenter...",
+        "id": "Satu sendok air abadi yang ditinggalkan oleh Oceanid.\\nWalaupun sudah menyatu jauh di dalam danau, namun kemurniannya masih tetap sama. Tapi mengapa makhluk yang begitu suci dan bersih seperti Oceanid menginginkan wujud tanaman yang lahir dari tanah? Oceanid tidak perlu bernapas dan juga tidak perlu makan...",
+        "jp": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
+        "kr": "맑은 물의 정령이 남긴 영원의 물 한 움큼.\\n호수에 흘러 들어가도 그 깨끗함은 희석되지 않을 것이다. 하지만 이토록 고결한 요정은 어째서 육지에 있는 생령의 모습이 되기 위해 맑은 물의 형태로 변한 걸까? 호흡을 하거나 음식을 먹을 필요도 없는데 말이다…",
+        "pt": "Uma concha de água eterna deixada por um Oceanid.\\nApesar de já ter se espalhado pelas profundezas do lago, sua pureza permanece a mesma. Mas por que uma criatura tão pura e limpa como um Oceanid deseja a aparência de plantas nascidas no solo e assume essa forma com água pura? Eles não precisam respirar nem precisam de sustento...",
+        "ru": "Вечные воды, оставленные духом океана.\\nЭти воды уже давно растеклись по глубинам озёр, но они всё ещё сохраняют свою чистоту. Почему же существо столь чистое, как океан, принимает форму растения, рождённого на земле? Ведь им не нужно ни дыхание, ни питание...",
+        "th": "น้ำที่ใสตลอดกาลซึ่งถูกทิ้งไว้โดย Oceanid\\nแม้ว่ามันจะถูกห้อมล้อมด้วยน้ำของทะเลสาบ ความบริสุทธิ์ของมันก็จะไม่เจือจาง แต่ Oceanid ที่แสนบริสุทธิ์ขนาดนี้ เหตุใดจึงมีความกระตือรือร้นที่จะดูเหมือนสิ่งมีชีวิตบนพื้นดิน และอาศัยน้ำอันบริสุทธิ์เพื่อเลียนแบบรูปร่างของสิ่งมีชีวิตกันนะ ในเมื่อไม่ต้องการหายใจ และไม่ต้องการอาหาร...",
+        "vi": "Vốc nước trong vắt do tinh linh trong dòng nước để lại.\\nNgay cả khi hòa vào nước hồ, sự thuần khiết của nó cũng không bị dung hòa. Nhưng tinh linh thuần khiết cao quý như vậy vì sao lại khao khát hình dáng của sinh linh trên mặt đất, dùng nước để bắt chước dáng dấp của sinh vật tầm thường, ngay cả khi không cần hít thở, cũng không cần ăn uống..."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

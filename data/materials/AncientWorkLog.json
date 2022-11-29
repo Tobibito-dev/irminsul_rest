@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Work Log",
+        "de": "Antikes Arbeitsprotokoll",
+        "chs": "古老的工作日志",
+        "cht": "古老的工作日誌",
+        "es": "Diario de trabajo antiguo",
+        "fr": "Journal de travail ancien",
+        "id": "Catatan Pekerjaan Kuno",
+        "jp": "古い仕事日誌",
+        "kr": "오래된 업무 일지",
+        "pt": "Registros de Trabalho Antigo",
+        "ru": "Древний рабочий журнал",
+        "th": "บันทึกงานเก่าแก่",
+        "vi": "Nhật Ký Công Việc Cũ"
+    },
+    "id": 120036,
+    "materialDesc": {
+        "en": "Ancient Work Log",
+        "de": "Antikes Arbeitsprotokoll",
+        "chs": "古老的工作日志",
+        "cht": "古老的工作日誌",
+        "es": "Un antiguo diario de trabajo.",
+        "fr": "Journal de travail ancien",
+        "id": "Catatan Pekerjaan Kuno",
+        "jp": "古い仕事日誌",
+        "kr": "오래된 업무 일지",
+        "pt": "Registros de Trabalho Antigo",
+        "ru": "Древний рабочий журнал",
+        "th": "บันทึกงานเก่าแก่",
+        "vi": "Nhật Ký Công Việc Cũ"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

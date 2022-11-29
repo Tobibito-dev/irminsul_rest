@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: Electro Treasure Compass",
+        "de": "Bauplan: Elektro-Schatzkompass",
+        "chs": "图谱：雷之寻宝罗盘",
+        "cht": "圖譜：雷之尋寶羅盤",
+        "es": "Plano: Brújula buscatesoros Electro",
+        "fr": "Plan : Détecteur de trésors Électro",
+        "id": "Diagram: Electro Treasure Compass",
+        "jp": "図譜：雷のトレジャーコンパス",
+        "kr": "설계도: 번개의 보물찾기 나침반",
+        "pt": "Diagrama: Bússola de Tesouros Electro",
+        "ru": "Диаграмма: Электро компас сокровищ",
+        "th": "แบบแปลน: Electro Treasure Compass",
+        "vi": "Bản Vẽ: La Bàn Tìm Báu Vật - Lôi"
+    },
+    "id": 221034,
+    "materialDesc": {
+        "en": "A detailed step-by-step diagram for making an Electro Treasure Compass. Use it to easily locate treasure all over Inazuma.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Elektro-Schatzkompass“. Mithilfe dieses Kompasses kannst du Schätze in Inazuma ganz bequem aufspüren.",
+        "chs": "步骤详实的图谱，记载着「雷之寻宝罗盘」的制作方法。利用这种罗盘，可以在稻妻的土地上方便地寻找宝藏。",
+        "cht": "步驟詳實的圖譜，記載著「雷之尋寶羅盤」的製作方法。利用這種羅盤，可以在稻妻的土地上方便地尋找寶藏。",
+        "es": "Planos detallados para fabricar una Brújula buscatesoros Electro. Puede utilizarse para encontrar fácilmente tesoros en Inazuma.",
+        "fr": "Plan détaillé pour la construction d'un Détecteur de trésors Électro. Cet outil permet de localiser plus facilement les coffres dispersés à travers Inazuma.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Electro Treasure Compass\". Kamu bisa menemukan harta karun dengan mudah di tanah Inazuma menggunakan kompas semacam ini.",
+        "jp": "「雷のトレジャーコンパス」の詳しい作り方が載っている図譜。このコンパスを利用すれば、稲妻の土地での宝探しがより簡単になる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설계도로 「번개의 보물찾기 나침반」의 제작 방법이 적혀있다. 해당 나침반을 이용하면 이나즈마에서 보물을 손쉽게 찾을 수 있다",
+        "pt": "Um diagrama passo a passo de como fazer uma Bússola de Tesouro Electro. Use ela para localizar tesouros pelo território de Inazuma.",
+        "ru": "Подробная диаграмма создания предмета «Электро компас сокровищ». Используйте этот компас, чтобы облегчить поиск сокровищ в регионе Инадзумы.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง Electro Treasure Compass โดยละเอียด ด้วยเข็มทิศนี้คุณสามารถค้นหาสมบัติใน Inazuma ได้อย่างง่ายดาย",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Lôi\". Có thể dùng để tìm báu vật ở Inazuma."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

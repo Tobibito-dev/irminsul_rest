@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Letter from the Abyss Order",
+        "de": "Brief vom Orden des Abgrunds",
+        "chs": "来自深渊教团的信",
+        "cht": "來自深淵教團的信",
+        "es": "Carta de la Orden del Abismo",
+        "fr": "Lettre de l'Ordre de l'Abîme",
+        "id": "Surat dari Abyss Order",
+        "jp": "アビス教団からの手紙",
+        "kr": "심연 교단에서 온 편지",
+        "pt": "Carta da Ordem do Abismo",
+        "ru": "Письмо ордена Бездны",
+        "th": "จดหมายจาก Abyss Order",
+        "vi": "Thư Đến Từ Giáo Đoàn Vực Sâu"
+    },
+    "id": 100214,
+    "materialDesc": {
+        "en": "Seems to be a declaration of war from the Abyss Order to the \"Darknight Hero.\" Many key phrases have been redacted.",
+        "de": "Dies scheint eine Herausforderung des Ordens des Abgrunds an den „Helden der Nacht“ zu sein. Wichtige Passagen und geheime Informationen wurden unkenntlich gemacht.",
+        "chs": "似乎是深渊教团对「暗夜英雄」下的战书，内容中有很多地方用「暗文」写成，隐藏了关键的情报。",
+        "cht": "似乎是深淵教團對「暗夜英雄」下的戰書，內容中有很多地方用「暗文」寫成，隱藏了關鍵的情報。",
+        "es": "Parece una carta de desafío de la Orden del Abismo al Héroe Oscuro. El contenido fue escrito con códigos y cubierto con tinta negra.",
+        "fr": "Une déclaration de guerre de la part de l'Ordre de l'Abîme adressée à un certain « Héros de la Nuit ». Beaucoup de mots-clés sont couverts d'encre noire.",
+        "id": "Sepertinya surat ini berisi pernyataan perang dari Abyss Order kepada Darknight Hero. Sebagian dari isi surat ini telah dienkripsi untuk merahasiakan hal-hal yang penting.",
+        "jp": "どうやらアビス教団から「闇夜の英雄」への宣戦布告の文書らしい。中身の重要情報は暗号化されている。",
+        "kr": "심연 교단이 「다크 히어로」에게 내민 도전장인 것 같다. 「암어」로 문장의 주요 정보를 감췄다",
+        "pt": "Parece ser uma carta de desafio da Ordem do Abismo ao Herói das Trevas. O conteúdo foi escrito com códigos e cobertas por uma tinta preta.",
+        "ru": "Похоже на вызов Полуночному герою от ордена Бездны. Многие ключевые фразы были зачёркнуты.",
+        "th": "ดูเหมือนเป็นการท้าทายจาก \"Abyss Order\" แก่ \"Darknight Hero\" เนื้อความของจดหมายบางส่วนพบว่าได้ถูกแก้ไขไปด้วย",
+        "vi": "Hình như là thư khiêu chiến của Giáo Đoàn Vực Sâu gửi cho Anh Hùng Bóng Đêm, trong thư có rất nhiều chỗ viết bằng \"Ám Văn\", cất giấu nhiều thông tin mật."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

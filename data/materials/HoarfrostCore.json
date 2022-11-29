@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hoarfrost Core",
+        "de": "Fluxeiskern",
+        "chs": "极寒之核",
+        "cht": "極寒之核",
+        "es": "Núcleo de escarcha",
+        "fr": "Duramen de glace",
+        "id": "Hoarfrost Core",
+        "jp": "極寒のコア",
+        "kr": "서리의 핵",
+        "pt": "Núcleo de Geada",
+        "ru": "Инеевое ядро",
+        "th": "Hoarfrost Core",
+        "vi": "Hạt Nhân Cực Hàn"
+    },
+    "id": 113010,
+    "materialDesc": {
+        "en": "The exposed core of a defeated Cryo Regisvine. Pure Cryo energy is contained within it.\\nEnergy and thoughts that swell deep within the earth will eventually erupt on the surface. Even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge, vicious predators.",
+        "de": "Der entblößte Kern eines besiegten Fluxeisbaums. Darin befindet sich reine Kryo-Kraft.\\nDie tief in der Erde brodelnde Energie und die darin verborgenen Gedanken sprudeln letztendlich hervor. Selbst der Frost in trauriger Einsamkeit nimmt an der Oberfläche Form an. So werden gar Ranken, die eigentlich keine Lebewesen fangen sollten, zu großen und furchteinflößenden Kreaturen.",
+        "chs": "急冻树被击败后，裸露出的原核。其中蕴含着纯净的冰元素。\\n在大地深处中奔涌的能量与思念终归会喷发。就连哀思般沉寂的寒霜，也会附着在地面上的生命形态当中；即使原本不该狩猎生灵的藤蔓植物，也会变得庞大而凶悍吧。",
+        "cht": "急凍樹被擊敗後，裸露出的原核。其中蘊含著純淨的冰元素。\\n在大地深處中奔湧的能量與思念終歸會噴發。就連哀思般沉寂的寒霜，也會附著在地面上的生命形態當中；即使原本不該狩獵生靈的藤蔓植物，也會變得龐大而兇悍吧。",
+        "es": "El núcleo expuesto de una Regisvid Cryo derrotada. Contiene elementos puros Cryo en su interior.\\nLa energía y los pensamientos que se acumulan en las profundidades de la tierra acabarán saliendo a la superficie. La fría y triste escarcha se apega a cualquier criatura que encuentra, lo que hace que incluso las plantas y los árboles se vuelven gigantes y violentos.",
+        "fr": "Duramen d'un Arbre congelé. Une forte énergie Cryo s'en dégage.\\nL'énergie et les pensées qui pullulent au fond de la terre finissent tôt ou tard par émerger à la surface. Le givre froid et endeuillé finit alors par s'attacher aux créatures qu'il rencontre ; et même les plantes et arbres deviennent alors gigantesques et menaçants.",
+        "id": "Inti yang terbuka dan didapatkan dari Cryo Regisvine yang dikalahkan. Terdapat elemen Cryo murni di dalamnya.\\nEnergi dan pemikiran yang berada jauh di dalam bumi pada akhirnya akan meletus di permukaan. Bahkan embun beku yang mematikan akan menempel pada makhluk-makhluk di tanah, menyebabkan tanaman merambat dan cabang-cabang tumbuhan menjadi besar dan ganas, menarik perhatian pemburu.",
+        "jp": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
+        "kr": "얼음 나무를 처치하면 나타나는 원핵. 그 안엔 순수한 얼음 원소가 함유돼 있다.\\n대지의 깊숙한 곳에서 솟구치는 에너지와 그리움은 결국 분출되고 말 것이다. 고인에 대한 그리움처럼 적막한 서리마저 지면에 살아있는 것들에 부착하고, 원래는 생령을 해치지 않는 줄기식물도 흉악해진다",
+        "pt": "O núcleo de uma Câmara de Cryo destruída. Elemento cryo puro pode ser encontrado dentro dela.\\nEnergia e pensamentos que se acumulam nas profundezas da terra irão eventualmente eclodir na superfície. Até mesmo a silênciosa e mortal geada irá se fixar nas criaturas ao chão, fazendo com que até mesmo as videiras e ramos de vegetação fiquem enormes e ameaçadores, atraindo o olhar do caçador.",
+        "ru": "Ядро Крио папоротника, внутри которого содержатся чистые Крио элементы.\\nЭнергия и мысли, которые копятся глубоко в земле, в конечном итоге вспыхнут на поверхности. Даже смертельно тихий мороз заставит лозы и ветви пойти против своего естества и стать огромными и жестокими охотниками.",
+        "th": "แกนกลางที่จะโผล่ออกมาเมื่อ Cryo Regisvine พ่ายแพ้ ภายในนั้นเต็มไปด้วยธาตุน้ำแข็งบริสุทธิ์\\nพลังงานและความคิดที่ไหลเวียนอยู่ในส่วนลึกของโลกนั้น ท้ายที่สุดแล้วก็จะปะทุออกมา แม้แต่น้ำค้างแข็งที่เงียบงันก็ยังเกาะติดไปกับสิ่งมีชีวิตบนโลก แม้แต่พืชเถาวัลย์ที่เดิมทีไม่ควรจะล่าเหยื่อ ก็ยังมีขนาดใหญ่และดุร้าย",
+        "vi": "Hạt nhân lộ ra sau khi Cây Cấp Đông bị đánh bại, chứa đầy nguyên tố Băng thuần khiết.\\nNăng lượng và nỗi nhớ tuôn trào nơi sâu thẳm của đại địa cuối cùng cũng phun trào. Ngay cả cái giá lạnh âm thầm như nỗi nhớ cũng hòa vào dòng sinh mệnh trên mặt đất, khiến những thực vật dây leo vốn không nên có tập tính săn bắt, cũng trở nên to lớn và hung hãn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Primordial Elemental Shard",
+        "de": "Standard-Elementsplitter",
+        "chs": "原初元素晶片",
+        "cht": "原初元素晶片",
+        "es": "Fragmento Elemental común",
+        "fr": "Fragment élémentaire",
+        "id": "Primordial Elemental Shard",
+        "jp": "原初元素結晶の欠片",
+        "kr": "고대의 원소 결정 조각",
+        "pt": "Fragmento Elemental Padrão",
+        "ru": "Первобытный элементальный осколок",
+        "th": "Standard Elemental Shard",
+        "vi": "Mảnh Nguyên Tố Nguyên Thủy"
+    },
+    "id": 102008,
+    "materialDesc": {
+        "en": "A shard that broke off a larger Elemental Crystal. Gives 50 Elemental Energy when absorbed.",
+        "de": "Der Splitter eines Kristalls ohne elementare Zuordnung. Bringt 50 Punkte allgemeine Energie.",
+        "chs": "从无属性结晶上剥落下来的晶片，吸收后可获得50点无属性能量",
+        "cht": "從無屬性結晶上剝落下來的晶片，吸收後可獲得50點無屬性能量。",
+        "es": "Un fragmento que se desprendió de un Cristal Elemental más grande. Puede ser absorbido por 50 puntos de Energía Elemental.",
+        "fr": "Un fragment de cristal élémentaire. Confère 50 pts d'énergie élémentaire après absorption.",
+        "id": "Pecahan dari Elemental Crystal yang besar. Memberikan 50 Elemental Energy saat diserap.",
+        "jp": "無属性の結晶から剥がれ落ちた結晶の欠片。吸収すると、無属性エネルギー50を獲得できる",
+        "kr": "무 속성 결정에서 떨어져나온 조각. 흡수 후 무 속성 에너지를 50pt 획득한다",
+        "pt": "Um fragmento de um Cristal Elemental maior. Pode ser absorvido por 50 pontos de Energia Elemental.",
+        "ru": "Осколок большого Элементального Кристалла. Даёт 50 Элементальной Энергии.",
+        "th": "เศษเสี้ยวที่แตกออกมาจาก Elemental Crystal ขนาดใหญ่ มันได้ดูดซับพลังงานธาตุไว้ 50 หน่วย",
+        "vi": "Mảnh lấy từ kết tinh không thuộc tính, sau khi hấp thụ nhận được 50 điểm năng lượng không thuộc tính."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fisherman's Toast",
+        "de": "Fischerschnitte",
+        "chs": "渔人吐司",
+        "cht": "漁人吐司",
+        "es": "Tostada del pescador",
+        "fr": "Toast du pêcheur",
+        "id": "Fisherman's Toast",
+        "jp": "漁師トースト",
+        "kr": "어부 토스트",
+        "pt": "Torrada do Pescador",
+        "ru": "Рыбацкий бутерброд",
+        "th": "Fisherman's Toast",
+        "vi": "Bánh Người Cá"
+    },
+    "id": 108002,
+    "materialDesc": {
+        "en": "Onion-covered toast. A favorite amongst fishermen, they will stuff a bag with it and sit by the river all day.",
+        "de": "Eine mit Zwiebeln übersäte Scheibe Brot, der Liebling aller Fischersleut. Mit einem Sack voll dieser Leckerbissen steht einem ganzen Tag am Fluss nichts entgegen.",
+        "chs": "铺满洋葱的吐司。是渔夫间流行的主食。他们会在包里塞满这种吐司，并在河边蹲上一整天。",
+        "cht": "鋪滿洋蔥的吐司。是漁夫間流行的主食。他們會在包裡塞滿這種吐司，並在河邊蹲上一整天。",
+        "es": "Tostada cubierta de cebolla. Uno de los platos favoritos de los pescadores, los cuales llenan sus mochilas de tostadas y pasan el día sentados junto al río.",
+        "fr": "Une tranche de pain de mie grillée recouverte d'oignon. Les pêcheurs emportent souvent ce casse-croûte avec eux.",
+        "id": "Roti yang dilumuri bawang bombai. Sangat disukai para nelayan, biasa dimakan sambil memancing seharian di tepi sungai.",
+        "jp": "玉ねぎを敷き詰めたトースト。漁師の間に流行っている主食。袋にいっぱい詰めて、一日川辺で過ごせる。",
+        "kr": "양파가 가득 올려진 토스트. 어부들 사이에서 유행하는 주식이다. 그들은 가방에 토스트를 가득 채워놓고 온종일 낚시를 한다",
+        "pt": "Torrada coberta de cebola. Comida favorita entre os pescadores, eles levam uma mochila cheia disso e se sentam na beira do rio o dia inteiro.",
+        "ru": "Ломтик хлеба, посыпанный луком. Такие бутерброды очень любят рыбаки, которые набивают ими свои сумки и идут на реку рыбачить весь день.",
+        "th": "โทสต์หัวหอม อาหารที่เป็นที่นิยมในหมู่นักตกปลา พวกเขาจะเอามันใส่กระเป๋า แล้วนั่งกินที่ริมแม่น้ำกันตลอดทั้งวัน",
+        "vi": "Bánh kẹp đầy hành tây. Là món rất thịnh hành của ngư dân, họ sẽ nhét đầy bánh trong túi, rồi ngồi ở bờ sông cả ngày."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nilotpala Lotus",
+        "de": "Nilotpala-Lotos",
+        "chs": "月莲",
+        "cht": "月蓮",
+        "es": "Loto nilotpala",
+        "fr": "Nilotpalotus",
+        "id": "Nilotpala Lotus",
+        "jp": "サウマラタ蓮",
+        "kr": "달 연꽃",
+        "pt": "Lótus Nilotpala",
+        "ru": "Лотос нилотпала",
+        "th": "Nilotpala Lotus",
+        "vi": "Sen Nilotpala"
+    },
+    "id": 101215,
+    "materialDesc": {
+        "en": "Growing in the forest wetlands, these plants only bloom at night with flowers as bright as the moon.",
+        "de": "Diese Pflanzen wachsen in feuchten Waldabschnitten. Sie geben ein schimmerndes Licht wie das Mondlicht ab und blühen nur in der Nacht.",
+        "chs": "生长于林中湿地，散发着同月亮一般皎洁光芒的花卉。只有在夜晚才会绽放。",
+        "cht": "生長於林中濕地，散發著同月亮一般皎潔光芒的花卉。只有在夜晚才會綻放。",
+        "es": "Esta flor que crece en los humedales de los bosques emite un brillo tan deslumbrante como el de la luna. Solo se abre durante la noche.",
+        "fr": "Poussant dans les zones humides des forêts, ces plantes ne fleurissent que la nuit, et leurs fleurs projettent la même lueur que la lune.",
+        "id": "Tumbuh di tanah hutan hujan, tanaman ini hanya mekar di malam hari dengan bunga yang seterang bulan.",
+        "jp": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
+        "kr": "숲속 습지에서 자라며 달처럼 휘영청 밝은 빛을 내뿜는 꽃. 밤에만 꽃을 피운다",
+        "pt": "Crescendo nos pântanos da floresta e de florescimento noturno, com flores que emitem um brilho tão forte quanto a da lua.",
+        "ru": "Растёт в болотистых лесах, цветы его светятся, подобно луне, и распускаются только поздней ночью.",
+        "th": "ดอกไม้ที่เปล่งประกายราวกับจันทรา เติบโตในพื้นที่ชื้นแฉะในผืนป่า และจะผลิบานเฉพาะในเวลากลางคืนเท่านั้น",
+        "vi": "Mọc trong rừng và đầm lầy, hoa phát sáng như mặt trăng. Chỉ nở vào ban đêm."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

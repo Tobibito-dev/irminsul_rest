@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "General Purpose Directional Conduction Component",
+        "de": "Allzweck-Richtungskomponente",
+        "chs": "通用型定向传导元件",
+        "cht": "通用型定向傳導元件",
+        "es": "Componente direccional genérico",
+        "fr": "Composant de conduction",
+        "id": "Komponen Konduksi Arah untuk Umum",
+        "jp": "汎用型指向伝導部品",
+        "kr": "범용형 정향 전도 부품",
+        "pt": "Componente de Condução de Uso Geral Direcionais",
+        "ru": "Компонент направленной проводимости общего назначения",
+        "th": "ชิ้นส่วนนำทิศทางอเนกประสงค์",
+        "vi": "Linh Kiện Dẫn Hướng Thông Dụng"
+    },
+    "id": 101595,
+    "materialDesc": {
+        "en": "A basic, common component often found in various creations of an ancient civilization, the function of which seems to be ensuring that these creations continue operating. Due to their close similarity in makeup to the components used in Pursina's Spikes, they can be used to replace its damaged parts. To think that Pursina's Spikes need such priceless objects to repair them... What a terrifyingly high-maintenance device.",
+        "de": "Ein grundlegendes Bauteil, das oft in verschiedenen Werken einer alten Zivilisation zu finden ist und dessen Aufgabe es zu sein scheint, die Funktionstüchtigkeit dieser Werke zu gewährleisten. Da sie den Komponenten der Pursina-Lichtnägel sehr ähnlich sind, können sie als Ersatz für beschädigte Teile verwendet werden. Wenn man bedenkt, dass man für Pursina-Lichtnägel solch unbezahlbare Objekte braucht, um sie zu reparieren ... Was für erschreckend wartungsintensive Geräte sind Pursina-Lichtnägel überhaupt!",
+        "chs": "常见于古代文明所留下的种种造物之中，似乎是保障它们运行的基础元件之一。由于「普尔希娜光钉」所使用的零部件材质与之类似，因此可以用它替换损坏的零部件。竟然要用如此珍贵的物品来维修，「普尔希娜光钉」的使用与维护代价实在高昂。",
+        "cht": "常見於古代文明所留下的種種造物之中，似乎是保障它們運行的基礎元件之一。由於「普爾希娜光釘」所使用的零部件材質與之類似，因此可以用它替換損壞的零部件。竟然要用如此珍貴的物品來維修，「普爾希娜光釘」的使用與維護代價實在高昂。",
+        "es": "Uno de los componentes básicos que se encuentran a menudo en las creaciones de una antigua civilización y que parecía utilizarse para garantizar el funcionamiento de esas creaciones. Debido a su gran similitud con los componentes de los Clavos de Pursina, se puede usar para sustituir sus piezas estropeadas. Y pensar que los Clavos de Pursina requieren un objeto tan valioso para su reparación... ¡El coste de utilización y mantenimiento de estos aparatos es muy elevado!",
+        "fr": "Un composant rudimentaire et commun que l'on trouve dans de nombreuses créations d'une civilisation ancienne. Il assurerait leur bon fonctionnement. En raison de sa similitude avec les composants des Pointes de Pursina, celui-ci peut les remplacer s'ils sont abîmés. Les Pointes de Pursina semblent être des dispositifs difficiles à entretenir pour avoir besoin de matériaux aussi onéreux pour leur réparation...",
+        "id": "Komponen dasar yang umum ditemukan dalam berbagai alat ciptaan suatu peradaban kuno, yang sepertinya berfungsi untuk menjamin bahwa ciptaan tersebut akan dapat terus beroperasi. Karena materialnya mirip, komponen ini dapat digunakan untuk mengganti bagian Pursina's Spikes yang rusak. Memikirkan bahwa untuk memperbaikinya saja perlu sebuah benda yang sedemikian berharga ... benar-benar menunjukkan bahwa Pursina's Spikes adalah alat yang punya ongkos pemeliharaan sangat tinggi.",
+        "jp": "古代文明が残した数々の創造物に多く見られるもの。動作を保証する基本部品の一つのようだ。「プルシナスパイク」の部品の材質に似ているため、これを破損した部品の代わりに使用することができる。このような高価な部品を修理に使うだなんて、「プルシナスパイク」の使用とメンテナンスコストは実に高いものだ。",
+        "kr": "고대 문명이 남긴 창조물 중 비교적 흔히 볼 수 있는 것으로, 창조물들의 운행을 위한 기초 부품 중 하나인 것 같다. 「푸르시나 볼트」에 사용되는 부품 재질과 비슷해 손상된 부품을 대체할 수 있다. 이렇게 귀한 물품으로 수리를 해야 한다니, 「푸르시나 볼트」의 사용과 유지 보수 비용은 너무 높은 것 같다",
+        "pt": "Um componente básico e comum comumente encontrado em várias criações de uma civilização antiga, com sua função sendo garantir que essas criações continuem operando. Devido a sua similaridade estrutural com os componentes usados nas Pontas de Pursina, podem ser utilizados para substituir suas partes danificadas. E pensar que as Pontas de Pursina precisam de tais objetos de valor inestimável para serem reparadas... Realmente é um dispositivo de considerável manutenção.",
+        "ru": "Основной компонент, часто встречающийся в различных творениях древней цивилизации, функция которого, по-видимому, заключается в том, чтобы эти творения продолжали работать. Благодаря сходству состава с компонентами, используемыми в шипах Пурсины, он может быть использован для замены повреждённых частей. Подумать только, для ремонта шипов Пурсины нужны такие бесценные предметы. Какое ужасающе сложное в обслуживании устройство.",
+        "th": "ในบรรดาสิ่งประดิษฐ์ต่าง ๆ ที่หลงเหลือจากอารยธรรมโบราณ ดูเหมือนว่านี่จะเป็นหนึ่งในชิ้นส่วนพื้นฐานที่รับประกันการทำงานของพวกมัน เนื่องจากวัสดุของชิ้นส่วนที่ใช้ใน Pursina's Spike มีความคล้ายคลึงกัน จึงสามารถใช้ทดแทนชิ้นส่วนที่เสียหายได้ ต้องใช้ของล้ำค่าแบบนี้มาซ่อมแซม การใช้และบำรุงรักษา Pursina's Spike มีราคาสูงจริง ๆ",
+        "vi": "Thường được tìm thấy trong các sáng tạo khác nhau của các nền văn minh cổ đại. Vì linh kiện của \"Gai Pursina\" cũng tương tự như vậy, nên có thể dùng nó để thay cho các linh kiện bị hỏng. Phải dùng đồ quý như vậy để sửa, nên chi phí sử dụng và bảo trì \"Gai Pursina\" thật sự rất cao."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

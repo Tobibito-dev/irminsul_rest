@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Unagi Chazuke",
+        "de": "Rezept: Unagi-Chazuke",
+        "chs": "食谱：鳗肉茶泡饭",
+        "cht": "食譜：鰻肉茶泡飯",
+        "es": "Receta: Arroz con anguila bañado en té",
+        "fr": "Recette : Chazuke à l'anguille",
+        "id": "Resep: Unagi Chazuke",
+        "jp": "レシピ：うな茶漬け",
+        "kr": "레시피: 뱀장어 살코기 오차즈케",
+        "pt": "Receita: Carne Fresca Chazuke",
+        "ru": "Рецепт: Унаги тядзукэ",
+        "th": "สูตรอาหาร: Unagi Chazuke",
+        "vi": "Công Thức: Cơm Trà Xanh Thịt Lươn"
+    },
+    "id": 109484,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Unagi Chazuke.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Unagi-Chazuke“.",
+        "chs": "步骤详实的食谱，记载着「鳗肉茶泡饭」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「鰻肉茶泡飯」的製作方法。",
+        "es": "Receta paso a paso para hacer arroz con anguila bañado en té.",
+        "fr": "Étapes de préparation du chazuke à l'anguille.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Grilled Unagi Chazuke.",
+        "jp": "「うな茶漬け」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「뱀장어 살코기 오차즈케」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Carne Fresca Chazuke.",
+        "ru": "Подробный рецепт приготовления блюда «Унаги тядзукэ».",
+        "th": "สูตรอธิบายวิธีทำ \"Unagi Chazuke\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Cơm Trà Xanh Thịt Lươn\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

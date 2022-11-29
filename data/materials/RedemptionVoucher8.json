@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 8",
+        "de": "Gutschein Nr.8",
+        "chs": "兑换券8号",
+        "cht": "兌換券8號",
+        "es": "Cupón de canje n.º 8",
+        "fr": "Coupon d'échange 8",
+        "id": "Kupon Penukaran 8",
+        "jp": "引換券8",
+        "kr": "교환 쿠폰 8호",
+        "pt": "Cupom de Troca 8",
+        "ru": "Купон обмена №8",
+        "th": "คูปองแลกรับหมายเลข 8",
+        "vi": "Phiếu Quà Tặng 8"
+    },
+    "id": 101874,
+    "materialDesc": {
+        "en": "Used to redeem Flowfire Horned Owl: Dancing",
+        "de": "Ein Gutschein, der gegen „Eule der fließenden Flammen – Tanz“ eingetauscht werden kann.",
+        "chs": "用于兑换【流焰角鸮号·舞】的兑换券",
+        "cht": "用於兌換【流焰角鴞號·舞】的兌換券",
+        "es": "Cupón de canje para obtener un Búho llameante: Danza.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Burung Hantu Berkobar: Joget",
+        "jp": "「流焔コノハズク·舞」と引き換えることのできる券。",
+        "kr": "[화염의 소쩍새호·춤]을 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Coruja Flamejante: Baile",
+        "ru": "Используйте, чтобы получить «Огненную сову: Танец»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Flowfire Horned Owl: Dancing",
+        "vi": "Phiếu quà tặng dùng để đổi \"Cú Hỏa Diệm - Múa\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

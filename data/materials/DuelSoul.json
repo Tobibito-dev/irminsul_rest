@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Duel Soul",
+        "de": "Kämpferseele",
+        "chs": "决斗之魂",
+        "cht": "決鬥之魂",
+        "es": "Alma del duelo",
+        "fr": "Âme duelliste",
+        "id": "Duel Soul",
+        "jp": "決闘の魂",
+        "kr": "결투의 혼",
+        "pt": "Alma Duelista",
+        "ru": "Душа поединка",
+        "th": "Duel Soul",
+        "vi": "Linh Hồn Quyết Đấu"
+    },
+    "id": 108467,
+    "materialDesc": {
+        "en": "Cyno's specialty. The golden grains of rice have been piled up like a most remarkable hill. As you scoop out a chunk and place the fragrant meat into your mouth, an impulse you cannot name rises within your chest — a desire to whip out your Genius Invokation deck and duel!",
+        "de": "Cynos Spezialzubereitung. Glänzende Reiskörner türmen sich zu einem unvorstellbaren Hügel auf. Gräbt man sich mit einem Löffel in ihn hinein, findet man geschmackvoll saftiges Fleisch, welches im Herzen sofort ein nicht in Worte zu fassendes Verlangen auslösen. Man verspürt sofort den Wunsch, sich in eine sorgenfreie Partie „Geniale Beschwörung“ zu stürzen!",
+        "chs": "赛诺的特色料理。金灿灿的米粒被堆叠成了不可思议的丘状，挖开一勺，里面香喷喷的肉块入口后，顿时在心中激起了一种不可言状的冲动——好想现在就拿出「七圣召唤」，进行一场畅快淋漓的决斗！",
+        "cht": "賽諾的特色料理。金燦燦的米粒被堆疊成了不可思議的丘狀，挖開一勺，裡面香噴噴的肉塊入口後，頓時在心中激起了一種不可言狀的衝動——好想現在就拿出「七聖召喚」，進行一場暢快淋漓的決鬥！",
+        "es": "La especialidad de Cyno. Los granos dorados de arroz están apilados como si fueran un monte increíble. Al tomar una cucharada, te encuentras con una carne sabrosa que despierta en ti un impulso indescriptible: ¡el deseo de sacar tus cartas para enfrentarte en un duelo de Invocación de los Sabios!",
+        "fr": "Spécialité culinaire de Cyno. Les grains de riz dorés sont empilés pour former une incroyable montagne. Alors que vous en prenez un morceau et que vous mettez la viande parfumée dans votre bouche, une impulsion indescriptible s'empare de vous : vous avez soudainement envie de sortir votre jeu d'Invocation des Sept pour vous lancer dans un duel palpitant !",
+        "id": "Masakan andalan Cyno. Butir-butir nasi berwarna keemasan sudah menumpuk seperti bukit dengan bentuk yang paling luar biasa. Saat kamu mencicipi satu suap dan memasukkan daging yang harum itu ke dalam mulutmu, ada sebuah dorongan yang tidak bisa diceritakan yang muncul di dalam dada, sebuah keinginan untuk mengeluarkan susunan kartu Genius Invokation TCG milikmu dan melakukan duel!",
+        "jp": "セノのオリジナル料理。黄金色に輝く米粒が、不可思議な丘のように積み重なっている。スプーンですくい上げ、香ばしい肉を口に入れると、言いようのない衝動があふれ出す——今すぐ「七聖召喚」カードを出して、思う存分決闘をやりたい！",
+        "kr": "사이노의 특제 요리. 황금빛 쌀알이 불가사의한 언덕 모양으로 쌓여 있다. 한 숟가락을 입에 넣으면 고소한 고깃덩어리가 씹히는데, 이것은 말로 형용할 수가 없는 충격적 조합이다. 어쩐지 지금 당장 「일곱 성인의 소환」을 꺼내 통쾌한 결투를 벌이고 싶다!",
+        "pt": "Especialidade do Cyno. Os grãos de arroz dourados se acumularam como uma colina marcante. Ao dar uma colherada e colocar a deliciosa carne em sua boca, um impulso inominável surge em seu peito, um desejo de retirar seu baralho de Chamado Sagrado dos Sete para duelar!",
+        "ru": "Фирменное блюдо Сайно. Золотистые зёрна риса сложены в виде удивительного холма. Когда вы зачерпываете немного и кладёте ароматное мясо в рот, у вас возникает непреодолимое желание достать свою колоду «Священного призыва семерых» и скорее сразиться!",
+        "th": "เมนูพิเศษของ Cyno เมล็ดข้าวสีทองที่กองพูนจนเป็นเนินอย่างน่าเหลือเชื่อ เพียงตักชิ้นเนื้อหอมกรุ่นเข้าปากสักคำแล้ว ความตื่นเต้นที่ไม่อาจบรรยายเป็นคำพูดได้ก็พวยพุ่งปะทะจิตในทันที... จนอยากจะดึง \"เกมกลเจ็ดอัจฉริยะ\" ออกมา เพื่อเปิดศึกดูเอลอันแสนดุเดือดเสียเดี๋ยวนี้เลย!",
+        "vi": "Món ăn đặc biệt của Cyno. Những hạt cơm vàng óng xếp thành hình gò đất đặc sắc, múc một thìa, đưa miếng thịt thơm phức bên trong vào miệng, một sự thôi thúc không thể gọi tên trỗi dậy trong lồng ngực - thật sự muốn lấy \"Thất Thánh Triệu Hồi\" ra để quyết đấu một trận sảng khoái!"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dust of Azoth",
+        "de": "Staub von Azoth",
+        "chs": "嬗变之尘",
+        "cht": "嬗變之塵",
+        "es": "Polvo de azoth",
+        "fr": "Poudre d'Azoth",
+        "id": "Dust of Azoth",
+        "jp": "変転の塵",
+        "kr": "변환의 먼지",
+        "pt": "Pó de Azoth",
+        "ru": "Пыль Азота",
+        "th": "Dust of Azoth",
+        "vi": "Bụi Biến Đổi"
+    },
+    "id": 104201,
+    "materialDesc": {
+        "en": "A device that can transmute elemental Ascension Materials and change their Elemental Type.\\nIts practical uses notwithstanding, alchemy is the study of the nature of matter and the rules that underpin its transformations, and ultimately it seeks to comprehend the working principles of the world and the flow of the ley lines.\\nIt is not known who would share alchemical achievements of this magnitude with the civilizations of the world and why. But although the power to fundamentally transmute elemental energy in its crystallized and inert form is a highly useful one, this device also conceals the grave danger of disrupting the elemental balance...",
+        "de": "Eine Substanz, die Elementaufstiegsmaterial umwandeln und ihre Elementattribute verändern kann.\\nAbgesehen von ihrem praktischen Nutzen ist die Alchimie die Lehre der Natur der Materie und der Regeln, die ihren Veränderungen zugrunde liegen, und sie zeigt die Gesetze auf, welche die Zyklen der Welt und die Bewegung des Flusses der Elemente bestimmen.\\nIrgendjemand hat diese große alchimistische Errungenschaft aus unbekannten Gründen im ganzen Land verteilt. Doch auch wenn sie sehr praktisch und nützlich ist, darf nicht vergessen werden, dass sie auch die Macht birgt, das Gleichgewicht der Dinge zu zerstören ...",
+        "chs": "能够使元素突破材料发生变质，转变其元素属性的道具。\\n刨除实用目的的话，炼金术实际上是研讨物质本质与其变化规律的学科，最终通向的是世界运转、地脉流通的规律。\\n不知何者出于何种目的，在地上的文明当中散布的这种炼金术的极高成就产物，具有扭转完全惰性化结晶后的元素物质的能力。虽然相当便利实用，但也隐藏着打破平衡的巨大危险性…",
+        "cht": "能夠使元素突破材料發生變質，轉變其元素屬性的道具。\\n刨除實用目的的話，煉金術實際上是研討物質本質與其變化規律的學科，最終通向的是世界運轉、地脈流通的規律。\\n不知何者出於何種目的，在地上的文明當中散佈的這種煉金術的極高成就產物，具有扭轉完全惰性化結晶後的元素物質的能力。雖然相當便利實用，但也隱藏著打破平衡的巨大危險性…",
+        "es": "Un recurso capaz de transmutar materiales de ascensión elementales y cambiar su atributo elemental.\\nAparte de los usos prácticos de la alquimia, esta ciencia también tiene como objetivo el estudio de la naturaleza de la materia y las reglas de sus cambios, y apunta hacia las leyes que rigen los ciclos del mundo y el movimiento de las líneas ley.\\nPor razones desconocidas, el producto de este logro de la alquimia, que tiene la capacidad de revertir la sustancia elemental cristalizada e inerte, se esparció por las civilizaciones de la tierra. Es algo muy práctico y útil, pero también contiene el peligroso potencial de alterar el equilibrio de los elementos...",
+        "fr": "Un dispositif permettant de transmuter les matériaux d'élévation et de modifier leur attribut élémentaire.\\nEn dépit de ses utilisations pratiques, l'alchimie est l'étude de la matière et des règles qui sous-tendent ses modifications. Elle pointe vers des lois qui gouvernent les cycles de ce monde et les mouvements des lignes énergétiques.\\nQuelqu'un a distribué ces merveilles alchimiques un peu partout sur le continent. Bien qu'elles soient pratiques et utiles, elles recèlent néanmoins le pouvoir de déstabiliser l'équilibre des éléments...",
+        "id": "Sebuah alat yang bisa mengubah elemen dari Material Ascension elemental.\\nSelain membuat hal menjadi semakin praktis, Alkimia sebenarnya adalah ilmu yang mempelajari sifat materi dan hukum perubahan materi. Pada akhirnya, Alkimia mengarah pada hukum yang mengatur siklus dunia dan pergerakan ley line.\\nSeseorang telah meninggalkan penemuan Alkimia yang mengagumkan ini di seluruh tempat, dengan tujuan yang tidak diketahui. Meskipun benda ini sangat praktis, mereka juga bisa menjadi sangat berbahaya karena mengganggu keseimbangan...",
+        "jp": "突破素材の元素属性を変化させることが出来るアイテム。\\n実用目的を除くと、錬金術は物質の性質とその変化の法則を研究する学科であり、最終的には世界と地脈の流れの法則につながる。\\n誰がどのような目的で行ったのかは分からないが、地上文明に広がるこの錬金術の極みのような産物は、結晶化後の不活性元素物質を変換させる力を持つ。かなり使いやすく実用的だが、バランスを壊してしまう大きなリスクも抱えている…",
+        "kr": "원소 돌파 소재를 변질 시켜 원소 속성을 변환하는 아이템.\\n실용 목적을 제한다면, 사실 연금술은 물질의 본질을 연구하고 변화의 법칙을 탐구하는 학문이며, 궁극적으로 세상과 지맥 흐름의 규칙으로 이어진다.\\n어떤 목적을 위해 누가 만든 건지는 알 수 없지만, 지상 문명에 흩어져있는 연금술의 최고의 업적과도 같은 이 산물은 결정을 완전히 타성화 시킨 후, 원소 물질을 변환하는 능력을 갖추고 있다. 매우 편리하고 실용적이지만 균형을 깨뜨릴 수 있다는 위험성 또한 숨어있다…",
+        "pt": "Um dispositivo que pode transmutar Materiais Elementais de Ascensão e mudar seu atributo elemental.\\nNão obstante seus usos práticos, a alquimia é o estudo da natureza da matéria e das regras que sustentam tais mudanças, e aponta para as leis que regem os ciclos do mundo e o movimento das Linhas Ley.\\nAlguém, por razões desconhecidas, distribuiu grandes conquistas alquímicas por toda a terra. E embora sejam convenientes e úteis, também escondem o poder de perturbar o equilíbrio dentro delas...",
+        "ru": "Инструмент, который может изменить элементальный атрибут элементальных материалов возвышения.\\nНе говоря о практическом применении, алхимия - это наука, которая через изучение природы вещей и принципов их изменений стремится познать законы мира и течения артерий земли.\\nНеизвестно, кто и зачем решил поделиться с цивилизациями мира таким выдающимся достижением алхимического искусства. Способность преобразовывать элементальную материю в её инертном кристаллизованном виде, конечно, крайне полезна, но в ней таится великая опасность нарушения элементального баланса.",
+        "th": "ไอเทมที่สามารถเปลี่ยนธาตุของวัสดุเลื่อนขั้น และเปลี่ยนคุณสมบัติของธาตุได้\\nนอกจากจะสามารถนำไปใช้ประโยชน์ได้จริงแล้ว การเล่นแร่แปรธาตุยังเป็นการศึกษาแก่นแท้ของวัตถุและกฎของการของเปลี่ยนแปลงด้วย ซึ่งการเล่นแร่แปรธาตุนั้นได้นำไปสู่กฎแห่งวัฏจักรของโลกและการเคลื่อนไหวของกระแสพลัง\\nมีคนได้ทิ้งผลิตภัณฑ์สุดยิ่งใหญ่จากการเล่นแร่แปรธาตุชนิดนี้กระจัดกระจายไปทั่วทุกหนทุกแห่ง โดยไม่ทราบจุดประสงค์ที่แท้จริง แม้ว่าสิ่งเหล่านี้จะสามารถนำไปใช้งานได้จริง แต่หากทำให้เสียความสมดุลก็อาจก่อให้เกิดอันตรายได้เช่นกัน...",
+        "vi": "Đạo cụ có thể khiến nguyên liệu đột phá nguyên tố bị biến chất, biến đổi thuộc tính nguyên tố của nó.\\nNgoài ứng dụng thực tiễn ra, giả kim thuật thực sự là một bộ môn nghiên cứu bản chất của vật chất và quy luật thay đổi của nó, tìm hiểu các quy luật của thế giới và địa mạch.\\nKhông biết là ai và vì mục đích gì, khắp nơi trên vùng đất có rất nhiều sản vật luyện kim công nghệ cao này, chúng có năng lực đảo ngược vật chất nguyên tố. Mặc dù khá tiện lợi và thiết thực nhưng nó cũng ẩn chứa nguy cơ phá vỡ trạng thái cân bằng rất lớn."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

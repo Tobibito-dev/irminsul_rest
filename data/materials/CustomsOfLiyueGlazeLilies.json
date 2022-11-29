@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Customs of Liyue: Glaze Lilies",
+        "de": "Bräuche von Liyue – Glaslilien",
+        "chs": "璃月风土志·琉璃百合",
+        "cht": "璃月風土志·琉璃百合",
+        "es": "Costumbres de Liyue: Lirios de cristal",
+        "fr": "Coutumes de Liyue - Lys vernis",
+        "id": "Budaya Liyue: Glaze Lily",
+        "jp": "璃月風土誌·琉璃百合",
+        "kr": "리월 풍토지·유리백합",
+        "pt": "Costumes de Liyue - Lírio de Vidro",
+        "ru": "Традиции Ли Юэ: Глазурные лилии",
+        "th": "ประเพณีของ Liyue - ดอก Glaze Lily",
+        "vi": "Liyue Phong Thổ Chí - Bách Hợp Lưu Ly"
+    },
+    "id": 100641,
+    "materialDesc": {
+        "en": "A book on the cultures and customs of Liyue originally compiled by Fadhlan, a scholar from Sumeru residing in Liyue. It was then edited by many local scholars and published. It is one of the bestsellers in Liyue.",
+        "de": "Ein Fachbuch über die örtlichen Gepflogenheiten von Liyue, das ursprünglich von Fadhlan, einem reisenden Gelehrten aus Sumeru, der sich in Liyue aufhielt, verfasst worden ist. Später wurde es von vielen Gelehrten aus Liyue selbst editiert und geriet in dieser Form in Liyue in Umlauf.",
+        "chs": "记录璃月港本土风俗的专著，最初由旅居璃月的须弥旅行学者法德兰编写，而后经过了诸多璃月本地学者的编校，在璃月广为出版流传。",
+        "cht": "記錄璃月港本土風俗的專著，最初由旅居璃月的須彌旅行學者法德蘭編寫，而後經過了諸多璃月本地學者的編校，在璃月廣為出版流傳。",
+        "es": "Un libro sobre las culturas y costumbres de Liyue originalmente compilado por Fadhlan, un erudito de Sumeru que reside en Liyue. Luego fue editado por muchos estudiosos locales y, posteriormente, publicado. Es uno de los más vendidos en Liyue.",
+        "fr": "Actuellement un des livres les plus vendus de Liyue, cet ouvrage à propos des coutumes liyuéennes a été rédigé par Fadlhan, un chercheur sumérien résidant dans la cité portuaire. Il a connu de nombreuses révisions.",
+        "id": "Sebuah buku tentang budaya dan adat istiadat Liyue yang awalnya dikumpulkan oleh Fadhlan, seorang sarjana dari Sumeru yang tinggal di Liyue. Buku ini telah disunting oleh banyak sarjana lokal dan dipublikasikan. Salah satu buku paling laku di Liyue.",
+        "jp": "璃月港の風土を記した著書。璃月に滞在するスメールの旅行学者ファドランが書いたものを、璃月当地の学者の編集校閲を経て、璃月で出版されたものである。",
+        "kr": "리월항 본토 풍속의 전문 서적. 최초에는 리월에 머물던 수메르 여행 학자 페드랜드가 집필하였고, 그 후에 리월의 수많은 현지 학자의 개정을 거쳐 리월에 널리 출판되었다",
+        "pt": "Um livro sobre as culturas e os costumes de Liyue originalmente compilado por Fadhlan, um estudioso da Sumeru residente em Liyue. Foi então editado por muitos estudiosos locais e publicado. É um dos best-sellers em Liyue.",
+        "ru": "Книга, посвящённая культуре и обычаям Ли Юэ. Её написал Фадлан, знаменитый учёный из Сумеру. После выхода книга подверглась многочисленным правкам учёных из Ли Юэ. Сейчас книга продаётся огромными тиражами.",
+        "th": "ตำราที่บันทึกประเพณีท้องถิ่นของท่าเรือ Liyue เอาไว้ แต่เดิมนั้นถูกเขียนขึ้นโดย Fadhlan นักวิชาการด้านการเดินทางท่องเที่ยวของ Sumeru ผู้มาพักอาศัยอยู่ใน Liyue ต่อมาถูกแก้ไขโดยนักวิชาการท้องถิ่นมากมายหลายคนของ Liyue ซึ่งมันได้ถูกตีพิมพ์ใน Liyue อย่างแพร่หลาย",
+        "vi": "Chuyên khảo, ghi lại phong tục địa phương của Liyue, ban đầu được viết bởi học giả Fadhlan của Sumeru sống ở Liyue, sau đó được chỉnh sửa và hiệu đính bởi các học giả địa phương Liyue, xuất bản lưu hành rộng rãi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

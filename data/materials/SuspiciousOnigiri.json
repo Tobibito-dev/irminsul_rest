@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Onigiri",
+        "de": "Misslungene Onigiri",
+        "chs": "奇怪的饭团",
+        "cht": "奇怪的飯糰",
+        "es": "Onigiri extraño",
+        "fr": "Onigiris (suspects)",
+        "id": "Suspicious Onigiri",
+        "jp": "微妙なおにぎり",
+        "kr": "이상한 주먹밥",
+        "pt": "Onigiri Estranho",
+        "ru": "Странные онигири",
+        "th": "Onigiri รสประหลาด",
+        "vi": "Cơm Nắm Kỳ Lạ"
+    },
+    "id": 108255,
+    "materialDesc": {
+        "en": "A portable dish made with rice. It just about has a triangular shape, but is so loose that it threatens to disintegrate should you pick it up. Yes, disintegrate — like the expectations of your prospective guests.",
+        "de": "Ein Gericht für unterwegs, das mit Reis hergestellt wird. Es hat fast eine dreieckige Form, ist aber so locker, dass es zu zerfallen droht, wenn du es aufhebst, ganz wie die Erwartungen deiner potenziellen Gäste.",
+        "chs": "由米饭捏成的便携食物。勉强维持着三角的形状，松垮得仿佛只要拿起就会散架一般，让食客期待的心情也散落一地。",
+        "cht": "由米飯捏成的便攜食物。勉強維持著三角的形狀，鬆垮得仿佛只要拿起就會散開一般，讓食客期待的心情也散落一地。",
+        "es": "Una comida hecha con arroz y muy fácil de llevar. Su forma triangular apenas se sostiene. Además, parece tan endeble que, en cuanto lo agarres en tus manos, podría desmenuzarse por completo, igual que el apetito de quien tenga la mala suerte de probar este onigiri.",
+        "fr": "Un plat à emporter fait à base de riz. Il a une forme à peu près triangulaire, mais il est si lâche qu'il menace de se désintégrer quand vous le prenez en main. Oui, se désintégrer, tout comme l'appétit de celui qui aurait le malheur de vouloir le manger.",
+        "id": "Makanan praktis yang terbuat dari nasi. Bentuknya segitiga, tetapi tidak cukup padat dan mudah hancur bila diambil. Ya, hancur — bersama dengan ekspektasi orang yang akan memakannya.",
+        "jp": "お米を握って作られた携行食。三角形を維持しているのがやっとで、手に取るとすぐ崩れてしまい、客を失望させる。",
+        "kr": "쌀로 뭉친 간편식. 삼각 모양을 간신히 유지하고 있으나 다소 헐거워서 살짝 들기만 해도 산산이 바스러질 것 같다. 그로 인해 미식을 기대하던 식객의 기분까지 바스러진다",
+        "pt": "Um prato leve feito com arroz. Tem uma forma quase triangular, mas é tão frágil que pode se desintegrar ao pegá-lo. Sim, desintegrar — como as expectativas de seus possíveis convidados.",
+        "ru": "Блюдо из риса, которое удобно брать с собой. Оно едва держит треугольную форму и грозится развалиться в руках, испортив едоку настроение.",
+        "th": "อาหารจานด่วนที่ทำจากข้าว มันแทบจะรักษารูปทรงสามเหลี่ยมไว้ไม้ได้ และเกาะกันหลวมมากจนสามารถแตกเป็นชิ้น ๆ ได้เมื่อหยิบขึ้นมา ทำให้อารมณ์ของความคาดหวังของผู้มารับประทานอาหารนั้นสลายหายไป",
+        "vi": "Thức ăn được làm từ cơm và rất tiện lợi khi mang theo. Có thể nói là nắn đủ ba góc, nhưng trông như thể sẽ rơi vãi hết nếu cầm lên, khiến người ăn cũng hồi hộp."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

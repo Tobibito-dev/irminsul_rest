@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Grass Wick",
+        "de": "Nebelgrasdocht",
+        "chs": "雾虚灯芯",
+        "cht": "霧虛燈芯",
+        "es": "Lámpara de hierba neblinosa",
+        "fr": "Mèches d'herbe brumeuse",
+        "id": "Mist Grass Wick",
+        "jp": "霧虚ろの灯芯",
+        "kr": "안개 등심",
+        "pt": "Pavio do Nevoeiro",
+        "ru": "Пучок туманной травы",
+        "th": "Mist Grass Wick",
+        "vi": "Đuốc Hư Vô"
+    },
+    "id": 112028,
+    "materialDesc": {
+        "en": "A rare bundle of Mist Grass that gives off a faint glow. Those who carry it invite both the Cicins and misfortune.",
+        "de": "Ein Bündel dieser allein schon so seltenen Pflanze, das ein unscheinbares Licht abgibt, das sowohl Cicine als auch Unglück anzieht.",
+        "chs": "将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。",
+        "cht": "將本就罕見的霧虛草集結成的束，會散發出幽晦的冥光；提著這種燈的人，則會召來飛螢與不幸。",
+        "es": "Un conjunto de hierba neblinosa muy poco común y que emite un tenue resplandor. Quien lleve este objeto atraerá tanto a los Cicines voladores como a la mala suerte.",
+        "fr": "Un bouquet d'herbe brumeuse rare qui dégage une lueur blême, il risque d'attirer les lucioles.",
+        "id": "Segumpal Mist Grass yang menyatu dan menyala redup. Dapat digunakan sebagai lentera, tetapi mudah mengundang Cicin dan mara bahaya.",
+        "jp": "珍しい霧虚ろの草を束にしたもの、暗い光を放つ。こういう提灯を持つ人は飛蛍と不幸を招くことになる。",
+        "kr": "희귀한 안개풀을 모은 다발. 어두운 빛을 내뿜는다. 이 등잔을 들고 있는 사람은 치친과 불행을 불러들인다",
+        "pt": "Um pacote raro de Grama do Nevoeiro que emite um brilho fraco. Aqueles que o carregam convidam os Cicins e o infortúnio.",
+        "ru": "Небольшой пучок туманной травы, испускающий мягкое свечение. Те, кто носит её, привлекают к себе цицинов и неудачу.",
+        "th": "ทำได้โดยการรวม Mist Grass เข้าเป็นช่อ ผู้ใดที่ถือมันเพื่อใช้ส่องแสงจะเป็นการเชื้อเชิญทั้ง Cicin และความโชคร้ายให้เข้ามา",
+        "vi": "Bó Cỏ Hư Vô quý hiếm, sẽ tạo ra ánh sáng mờ ảo, người cầm bó đuốc này sẽ gọi Cicin và xui xẻo đến."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

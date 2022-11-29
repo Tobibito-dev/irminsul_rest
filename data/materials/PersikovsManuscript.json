@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Persikov's Manuscript",
+        "de": "Persikovs Notiz",
+        "chs": "佩尔西科夫的手稿",
+        "cht": "佩爾西科夫的手稿",
+        "es": "Manuscrito de Persikov",
+        "fr": "Manuscrit de Persikov",
+        "id": "Catatan Persikov",
+        "jp": "ペルシーコフのレポート",
+        "kr": "페르시코프의 원고",
+        "pt": "Manuscrito de Persikov",
+        "ru": "Записи Персикова",
+        "th": "ต้นฉบับของ Persikov",
+        "vi": "Bản Thảo Của Persikov"
+    },
+    "id": 101964,
+    "materialDesc": {
+        "en": "Notes penned by the Fatui researcher Persikov. These notes contain a map, and if you follow its instructions, you should be able to find the crystalline cores that the Cognitive Mimicry device is missing...",
+        "de": "Die Notiz des Fatui-Forschers Persikov, das eine Karte enthält. Die Angaben auf der Karte könnten anscheinend zu den fehlenden Kristallkernen des Apparats „Wahrnehmungsimitator“ führen ...",
+        "chs": "愚人众研究员佩尔西科夫的手稿，手稿中包含着一份地图，根据地图上的指示，似乎能找到「知感拟态」装置所缺失的晶核…",
+        "cht": "愚人眾研究員佩爾西科夫的手稿，手稿中包含著一份地圖，根據地圖上的指示，似乎能找到「知感擬態」裝置所缺失的晶核…",
+        "es": "El manuscrito de Persikov, el investigador Fatui. En él hay un mapa. Si sigues las pistas que contiene, tal vez encuentres los núcleos de cristal que le faltan al simulador cognitivo.",
+        "fr": "#Un manuscrit rédigé par Persikov, le chercheur des Fatui. Il contient une carte qui vous amènera aux noyaux cristallins qui manquent au « Mimétisme cognitif{NON_BREAK_SPACE}» si vous suivez les instructions...",
+        "id": "Catatan yang ditulis oleh peneliti Fatui Persikov. Catatan ini berisi peta, dan jika kamu mengikuti instruksinya, kamu akan dapat menemukan Inti Kristal yang hilang dari mesin Cognitive Mimicry ....",
+        "jp": "ファデュイの研究者ペルシーコフのレポート。このレポートには地図が書いてある。地図が指し示すところを調べることで、「感知擬態」に欠けている晶核を見つけられるはずだ…",
+        "kr": "우인단 연구원 페르시코프의 원고. 지도가 그려져 있으며, 지도가 가리키는 바에 따르면 「지감 의태」 장치의 부족한 수정 코어를 찾을 수 있을 것 같다…",
+        "pt": "O manuscrito de Persikov. Essas notas contêm um mapa, e se você seguir suas instruções, deve conseguir encontrar os núcleos de cristal que faltam no Simulador Cognitivo...",
+        "ru": "Записи, написанные Персиковым, исследователем Фатуи. В них находится карта. Если следовать подсказкам на карте, то можно найти недостающие кристальные ядра для Устройства маскировки восприятия...",
+        "th": "ต้นฉบับของ Persikov นักวิจัยจาก Fatui ในต้นฉบับมีแผนที่อยู่แผ่นหนึ่ง จากคำแนะนำบนแผนที่ ดูเหมือนจะสามารถตามหาแกนคริสตัลที่ขาดหายไปของอุปกรณ์ \"จำลองการรับรู้\" ได้...",
+        "vi": "Bản thảo của nhà nghiên cứu Persikov, trong đó có kèm bản đồ, có thể dựa vào gợi ý của bản đồ để tìm tinh hạt nhân còn thiếu của thiết bị \"Mô Phỏng Nhận Thức\"..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

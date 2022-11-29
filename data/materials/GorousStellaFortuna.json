@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gorou's Stella Fortuna",
+        "de": "Gorous Stella Fortuna",
+        "chs": "五郎的命星",
+        "cht": "五郎的命星",
+        "es": "Stella Fortuna de Gorou",
+        "fr": "Stella Fortuna de Gorou",
+        "id": "Gorou's Stella Fortuna",
+        "jp": "ゴローの星屑",
+        "kr": "고로의 운명의 별",
+        "pt": "Stella Fortuna de Gorou",
+        "ru": "Удача Горо",
+        "th": "ดวงดาวแห่งชีวิตของ Gorou",
+        "vi": "Chòm Sao Của Gorou"
+    },
+    "id": 1155,
+    "materialDesc": {
+        "en": "Gorou's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Gorous Sternbild",
+        "chs": "五郎的命之座激活素材",
+        "cht": "五郎的命之座啟用素材",
+        "es": "Material de activación de constelación de Gorou",
+        "fr": "Matériau d'activation de la constellation de Gorou.",
+        "id": "Material aktivasi untuk konstelasi Gorou",
+        "jp": "ゴローの命ノ星座アンロック用素材",
+        "kr": "고로의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Gorou",
+        "ru": "Материал для активации созвездия Горо.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Gorou",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Gorou"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

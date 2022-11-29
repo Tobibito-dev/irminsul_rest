@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cell Key",
+        "de": "Zellenschlüssel",
+        "chs": "牢房的钥匙",
+        "cht": "牢房的鑰匙",
+        "es": "Llave de celda",
+        "fr": "Clé de cellule",
+        "id": "Kunci Sel",
+        "jp": "牢屋の鍵",
+        "kr": "감옥 열쇠",
+        "pt": "Chave da Cela",
+        "ru": "Ключ от камеры",
+        "th": "กุญแจห้องขัง",
+        "vi": "Chìa Khóa Phòng Giam"
+    },
+    "id": 101649,
+    "materialDesc": {
+        "en": "A metal key that you obtained from the Fatui. It should be able to open some kind of door.",
+        "de": "Ein Metallschlüssel, den du von den Fatui erhalten hast. Mit ihm sollte sich irgendeine Tür öffnen lassen.",
+        "chs": "从愚人众身上获得的金属钥匙，应该可以打开某扇大门。",
+        "cht": "從愚人眾身上獲得的金屬鑰匙，應該可以打開某扇大門。",
+        "es": "Una llave obtenida de los Fatui. Con ella se debería poder abrir una puerta.",
+        "fr": "Une clé en métal que vous avez obtenue des Fatui. Elle devrait pouvoir ouvrir une porte.",
+        "id": "Kunci besi yang didapat dari Fatui. Seharusnya bisa digunakan untuk membuka sebuah pintu.",
+        "jp": "ファデュイから手に入れた金属製の鍵。どこかの扉を開けられるかもしれない。",
+        "kr": "우인단에게서 얻은 금속 열쇠. 어떤 문을 열 수 있는 열쇠인 것 같다",
+        "pt": "Uma chave de metal obtida de um Fatuus. Ela deve abrir alguma porta.",
+        "ru": "Металлический ключ, который вы получили от Фатуи. Он должен открывать какую-то дверь.",
+        "th": "กุญแจโลหะที่ได้รับมาจากพวก Fatui น่าจะใช้เปิดประตูใหญ่ได้สักบาน",
+        "vi": "Chìa khóa kim loại tìm được trên người Fatui, có lẽ sẽ mở được cửa phòng nào đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Grass",
+        "de": "Nebelgrassäckchen",
+        "chs": "雾虚草囊",
+        "cht": "霧虛草囊",
+        "es": "Hierba neblinosa",
+        "fr": "Herbe brumeuse",
+        "id": "Mist Grass",
+        "jp": "霧虚ろの草嚢",
+        "kr": "안개풀 주머니",
+        "pt": "Grama do Nevoeiro",
+        "ru": "Мешочек с туманной травой",
+        "th": "Mist Grass",
+        "vi": "Túi Cỏ Hư Vô"
+    },
+    "id": 112027,
+    "materialDesc": {
+        "en": "Well-preserved Mist Grass. Some would take advantage of the Cicins' love for the Mist Grass to control them.",
+        "de": "Gut aufbewahrtes Nebelgras. Es gibt Leute, die die Vorliebe der Cicine nutzen, um sie hiermit zu kontrollieren.",
+        "chs": "保存完好的雾虚草。有的人会利用飞萤对雾虚草的喜好，来控制它们。",
+        "cht": "保存完好的霧虛草。有的人會利用飛螢對霧虛草的喜好，來控制它們。",
+        "es": "Hierba neblinosa bien conservada. Algunos se aprovechan del amor incondicional de los Cicines voladores por este tipo de hierba para controlarlos.",
+        "fr": "Entièrement bien conservée. Les Lucioles Électro ont un goût prononcé pour ces herbes, ce qui permet de les contrôler.",
+        "id": "Mist Grass yang terpelihara dengan baik. Beberapa orang akan menggunakan makanan favorit Cicin ini untuk mengontrolnya.",
+        "jp": "綺麗に保存された霧虚ろの草。一部の人はこれを使って飛蛍をコントロールする。",
+        "kr": "잘 보관된 안개풀. 안개풀을 좋아하는 치친을 컨트롤할 때 이용한다",
+        "pt": "Uma Flor da Névoa bem preservada. Alguns se aproveitam do amor dos Cincins para que a Flor da Névoa possa controlá-los.",
+        "ru": "Хорошо сохранившаяся туманная трава. Некоторые люди могут управлять цицинами, пользуясь их любовью к этой траве.",
+        "th": "กระเป๋านี้จะรักษา Mist Grass ไว้เป็นอย่างดี เพราะอาจจะมีคนใช้ประโยชน์จากการที่ Cicin ชอบหญ้านี้ มาควบคุมพวกเขา",
+        "vi": "Cỏ Hư Vô được bảo quản hoàn hảo. Có người lợi dụng sự yêu thích Cỏ Hư Vô của Cicin để khống chế chúng."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

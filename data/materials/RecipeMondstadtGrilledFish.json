@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Mondstadt Grilled Fish",
+        "de": "Rezept: Gegrillter Fischspieß",
+        "chs": "食谱：蒙德烤鱼",
+        "cht": "食譜：蒙德烤魚",
+        "es": "Receta: Pescado a la parrilla de Mondstadt",
+        "fr": "Recette : Poisson grillé mondstadtois",
+        "id": "Resep: Mondstadt Grilled Fish",
+        "jp": "レシピ：モンド風焼き魚",
+        "kr": "레시피: 몬드 생선구이",
+        "pt": "Receita: Peixe Grelhado de Mondstadt",
+        "ru": "Рецепт: Рыбный шашлычок",
+        "th": "สูตรอาหาร: Mondstadt Grilled Fish",
+        "vi": "Công thức: Cá Nướng Mondstadt"
+    },
+    "id": 109405,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Mondstadt Grilled Fish.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Gegrillter Fischspieß“.",
+        "chs": "步骤详实的食谱，记载着「蒙德烤鱼」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「蒙德烤魚」的製作方法。",
+        "es": "Receta paso a paso para hacer un pescado a la parrilla de Mondstadt.",
+        "fr": "Étapes de préparation du poisson grillé mondstadtois.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Mondsadt Grilled Fish.",
+        "jp": "「モンド風焼き魚」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「몬드 생선구이」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo do \"Peixe Grelhado de Mondstadt\".",
+        "ru": "Подробный рецепт приготовления блюда «Рыбный шашлычок».",
+        "th": "สูตรอธิบายวิธีทำ \"Mondstadt Grilled Fish\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Cá Nướng Mondstadt\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

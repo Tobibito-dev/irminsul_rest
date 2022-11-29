@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Someone's Diary IV: Liyue Harbor",
+        "de": "Tagebuch eines Unbekannten IV – Liyue",
+        "chs": "谁人的日志·其四·璃月港",
+        "cht": "誰人的日誌·其四·璃月港",
+        "es": "Diario de alguien (IV): Liyue",
+        "fr": "Journal d'un inconnu IV - Port de Liyue",
+        "id": "Buku Harian Seseorang IV: Liyue Harbor",
+        "jp": "誰かの日誌·その4·璃月港",
+        "kr": "누군가의 일지·네 번째·리월항",
+        "pt": "Diário de Alguém IV - Porto de Liyue",
+        "ru": "Чей-то дневник. Часть IV. Гавань Ли Юэ",
+        "th": "ไดอารี่ของใครบางคน IV - ท่าเรือ Liyue",
+        "vi": "Nhật ký của ai 4 - Cảng Liyue"
+    },
+    "id": 100241,
+    "materialDesc": {
+        "en": "A diary left behind by someone in Liyue that tells of the owner's adventures there.",
+        "de": "Das Tagebuch eines Unbekannten, zurückgelassen in Liyue. Es beschreibt die Vorkommnisse im Hafen.",
+        "chs": "某人遗落在璃月港的日志，描述了其人在璃月港的经历。",
+        "cht": "某人遺落在璃月港的日誌，描述了其人在璃月港的經歷。",
+        "es": "Un diario dejado por alguien en la naturaleza. Describe sus experiencias en Liyue.",
+        "fr": "Un journal laissé par quelque inconnu à Liyue, décrivant l'expérience de son propriétaire dans la cité.",
+        "id": "Sebuah buku harian milik seseorang yang ditinggal di pelabuhan Liyue, menceritakan tentang petualangan sang pemilik di sana.",
+        "jp": "誰かが荒野に落とした日誌、その人が璃月港での冒険史が記録されている",
+        "kr": "누군가가 야외에 흘리고 간 일지. 리월항에서 겪은 일이 적혀있다",
+        "pt": "Um diário deixado por alguém em Liyue que conta sobre as aventuras do dono.",
+        "ru": "Дневник невезучего путешественника, рассказывающий о событиях, произошедших с этим путешественником в гавани Ли Юэ.",
+        "th": "บันทึกที่ถูกลืมไว้อยู่กลางป่าของใครบางคน อธิบายถึงความโชคร้ายของเขาที่ท่าเรือ Liyue",
+        "vi": "Cuốn nhật ký của ai đó thất lạc ở cảng Liyue, kể lại những câu chuyện mà người này trải qua ở cảng Liyue."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

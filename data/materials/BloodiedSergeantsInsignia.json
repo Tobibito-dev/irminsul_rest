@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bloodied Sergeant's Insignia",
+        "de": "Blutiges Abzeichen für Unteroffiziere",
+        "chs": "染血的士官徽记",
+        "cht": "染血的士官徽記",
+        "es": "Insignia de Oficial con restos de sangre",
+        "fr": "Insigne ensanglanté de sergent",
+        "id": "Lambang Sersan Berdarah",
+        "jp": "血染めの士官記章",
+        "kr": "피에 물든 사관의 휘장",
+        "pt": "Insígnia do Sargento Ensanguentada",
+        "ru": "Окровавленный шеврон сержанта",
+        "th": "ตราสัญลักษณ์ทหารเปื้อนเลือด",
+        "vi": "Huy Hiệu Sĩ Quan Nhuốm Máu"
+    },
+    "id": 101694,
+    "materialDesc": {
+        "en": "The bloodied and muddied insignia of a Fatui sergeant. You have no idea how it ended up in the depths of The Chasm.",
+        "de": "Das blutige und verschmutzte Abzeichen eines Fatui-Offiziers. Du hast keine Ahnung, wie es in den Tiefen der Großen Kluft gelandet ist.",
+        "chs": "沾染血迹与污泥的愚人众士官徽记，不知为何遗落在层岩巨渊深处。",
+        "cht": "沾染血跡與污泥的愚人眾士官徽記，不知為何遺落在層岩巨淵深處。",
+        "es": "La insignia de un Oficial Fatui impregnada de restos de sangre y barro. No se sabe cómo ha llegado a las profundidades de la Sima.",
+        "fr": "L'insigne sanglant et boueux d'un sergent des Fatui. On ignore comment il a fini dans les profondeurs du Gouffre.",
+        "id": "Lencana dari seorang sersan Fatui yang berlumuran darah dan berlumpur. Entah bagaimana benda ini bisa berakhir di kedalaman Chasm.",
+        "jp": "血と泥で汚れたファデュイの士官記章。なぜか層岩巨淵の奥深くに残されていた。",
+        "kr": "혈흔과 흙이 묻은 우인단 사관의 휘장. 무슨 이유에서인지 층암거연 깊은 곳에 떨어져 있다",
+        "pt": "A insígnia de um Sargento Fatui manchada de sangue e lama. Você não tem ideia de como ela foi parar nas profundezas do Despenhadeiro.",
+        "ru": "Шеврон сержанта Фатуи, испачканный кровью и грязью. Как он попал в глубины Разлома, неизвестно.",
+        "th": "ตราสัญลักษณ์ทหารของ Fatui ที่เปื้อนเลือดและโคลน ไม่รู้ว่าเพราะเหตุใดมันถึงถูกทิ้งไว้ที่ส่วนลึกของ Chasm",
+        "vi": "Huy hiệu sĩ quan Fatui dính máu và bùn lầy, không biết tại sao lại rơi ở nơi sâu thẳm của Vực Đá Sâu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

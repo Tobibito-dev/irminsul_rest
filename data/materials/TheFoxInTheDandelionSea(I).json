@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Fox in the Dandelion Sea (I)",
+        "de": "Der Fuchs im Löwenzahnmeer – Band I",
+        "chs": "蒲公英海的狐狸·卷一",
+        "cht": "蒲公英海的狐狸·卷一",
+        "es": "El zorro en el mar de dientes de león (I)",
+        "fr": "La Renarde qui nageait dans la mer de pissenlits - Tome I",
+        "id": "Rubah di Lautan Dandelion (I)",
+        "jp": "蒲公英の海の狐·1",
+        "kr": "민들레밭의 여우·권1",
+        "pt": "A Raposa no Mar de Dandelion (I)",
+        "ru": "Лиса в море одуванчиков. Том I",
+        "th": "สุนัขจิ้งจอกในท้องทะเลแห่งแดนดิไลออน (I)",
+        "vi": "Hồ Ly Biển Bồ Công Anh (I)"
+    },
+    "id": 100188,
+    "materialDesc": {
+        "en": "\"Dandelion, Dandelion, ride the wind to a faraway land,\" the Fox chants.\\nAn unforgettable Mondstadt fairytale about a hunter and a fox. The Fox in the Dandelion Sea, an 11-part story, begins here.",
+        "de": "„Löwenzahn, o Löwenzahn, tanze mit dem Wind. Zu weit entfernten Orten trägt er dich geschwind“, sang der kleine Fuchs.\\nDas unvergessliche Märchen in elf Bänden aus Mondstadt handelt von einem Jäger und einem Fuchs. „Der Fuchs im Löwenzahnmeer“ beginnt mit diesem Band.",
+        "chs": "蒲公英，蒲公英，跟风一起，到远方去吧——小狐狸念念有词地说。\\n令人难忘的蒙德童话，猎人与狐狸的故事，《蒲公英海的狐狸》，总十一卷，就此开始。",
+        "cht": "蒲公英，蒲公英，跟風一起，到遠方去吧——小狐狸念念有詞地說。\\n令人難忘的蒙德童話，獵人與狐狸的故事，《蒲公英海的狐狸》，共十一卷，就此開始。",
+        "es": "“Dientecito, dientecito, vuela lejos con el viento un poquito”, recitó el zorro.\\nSe trata de un inolvidable cuento de hadas de Mondstadt sobre un cazador y un zorro. Así empieza «El zorro en el mar de dientes de león», un cuento de 11 tomos.",
+        "fr": "« Pissenlit, dent-de-lion, vole vers une autre destination ! »\\nUn conte classique de Mondstadt sur un renard et un chasseur en douze tomes.",
+        "id": "\"Dandelion, Dandelion, terbanglah ke mana angin membawamu, ke negeri yang tak pernah kamu lihat.\"\\nDongeng Mondstadt yang tak terlupakan tentang sang pemburu dan rubah. Rubah di Lautan Dandelion, kisah yang terbagi menjadi 11 bagian ini, dimulai dari sini.",
+        "jp": "「蒲公英、蒲公英、風と一緒に遠くへ行こう。」子ギツネが念じるように言った。\\n忘れられないモンドの童話、狩人とキツネの物語、『蒲公英の海の狐』、計11巻、ここから始まる。",
+        "kr": "민들레야, 민들레야, 바람과 함께 멀리 날아가려무나——꼬마 여우는 이렇게 중얼거렸다.\\n잊지 못할 몬드의 동화, 사냥꾼과 여우의 이야기 《민들레밭의 여우》, 총 11권의 이야기, 지금 시작된다",
+        "pt": "\"Dandelion, Dandelion, use o vento a seu favor e voe para longe\", canta a Raposa.\\nUm conto de fadas inesquecível de Mondstadt sobre um caçador e uma raposa. A Raposa no Mar de Dandelion, uma história de 11 partes começou.",
+        "ru": "- Лети, лети, одуванчик, в дальние миры, - шепчет лисёнок.\\nНезабываемая Мондштадтская сказка об охотнике и лисёнке. Лиса в море одуванчиков. История в 12-ти томах. Начало.",
+        "th": "\"แดนดิไลออนเอ๋ย จงลอยละล่องไปตามลมสู่ดินแดนไกลโพ้น\" เจ้าจิ้งจอกสวดภาวนา\\nเทพนิยายที่บอกเล่าถึงเรื่องราวของนายพรานกับสุนัขจิ้งจอก เรื่องราว 11 ตอน - สุนัขจิ้งจอกในท้องทะเลแห่งแดนดิไลออน ได้เริ่มขึ้นแล้ว",
+        "vi": "Bồ Công Anh, Bồ Công Anh, bay cùng với gió đến nơi xa-Hồ Ly nhỏ nói thì thầm.\\nCổ tích Mondstadt khiến người khác khó quên, câu chuyện hồ ly và người thợ săn, \"Hồ Ly biển Bồ Công Anh\", tổng 11 quyển, bắt đầu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

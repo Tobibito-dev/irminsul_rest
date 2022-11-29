@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Crab Roe Tofu",
+        "de": "Misslungener Krebsrogentofu",
+        "chs": "奇怪的蟹黄豆腐",
+        "cht": "奇怪的蟹黃豆腐",
+        "es": "Tofu con huevas de cangrejo extraño",
+        "fr": "Crabe au tofu (suspect)",
+        "id": "Suspicious Crab Roe Tofu",
+        "jp": "微妙なかにみそ豆腐",
+        "kr": "이상한 꽃게알 두부",
+        "pt": "Tofu com Ovas de Caranguejo Estranho",
+        "ru": "Странный крабовый тофу",
+        "th": "Crab Roe Tofu รสประหลาด",
+        "vi": "Đậu Hũ Gạch Cua Kỳ Lạ"
+    },
+    "id": 108176,
+    "materialDesc": {
+        "en": "A dish with a tender mouthfeel. Even the freshest crab roe cannot mask the taste of over-aged tofu. Crushing it up with your chopsticks and mixing it into white rice is all you can do to force it down your gullet.",
+        "de": "Ein delikates Gericht. Selbst der frischeste Krebsrogen kann den Geschmack des zu alten Tofus nicht überdecken. Man muss den Tofu richtig fest mit dem Reis vermengen, damit er genießbar wird.",
+        "chs": "口感细嫩的菜肴。即使是极鲜的蟹黄，也难以缓和豆腐过老的口感。只好用筷子捣碎之后，拌进白米饭里一起吃。",
+        "cht": "口感細嫩的菜餚。即使是極鮮的蟹黃，也難以緩和豆腐過老的口感。只好用筷子搗碎之後，拌進白米飯裡一起吃。",
+        "es": "Un plato con una textura suave. Aunque las huevas de cangrejo son muy frescas, no logran enmascarar el mal sabor del tofu, que está demasiado pasado. Desmígalo con los palillos y mézclalo con arroz o no serás capaz de comerlo...",
+        "fr": "Un plat à la texture tendre. Même les œufs de crabe les plus frais n'arrivent pas à masquer le goût du tofu vieilli. L'écraser avec vos baguettes pour le mélanger à du riz blanc est la seule chose que vous pouvez faire pour arriver à l'avaler.",
+        "id": "Hidangan dengan rasa yang lembut di mulut. Bahkan telur kepiting yang paling segar pun tidak bisa menutupi rasa tahu yang terlalu tua ini. Menghancurkannya dengan sumpit dan mencampurnya dengan nasi putih adalah satu-satunya hal yang dapat kamu lakukan untuk menelannya.",
+        "jp": "繊細な食感の料理。新鮮なかにみそでも、豆腐の硬すぎる食感を緩和できない。箸で潰してから白米に混ぜて食べるしかない。",
+        "kr": "부드러운 식감의 요리. 아무리 신선한 꽃게알이라고 해도 오래된 두부 앞에선 맛이 죽는 법. 젓가락으로 으깨 흰 쌀밥에 비벼 먹는 수밖에 없다",
+        "pt": "Um prato com um toque de maciez na boca. Mesmo as ovas de caranguejo mais frescas não conseguem mascarar o sabor do tofu envelhecido. Amassá-lo com seus pauzinhos e misturá-lo em arroz branco é tudo o que você pode fazer para forçá-lo a descer pelo seu esôfago.",
+        "ru": "Блюдо с нежной текстурой. Даже свежайшая крабовая икра не в силах замаскировать вкус старого тофу. Чтобы оно было сколь-нибудь съедобным, его придётся измельчить палочками и перемешать с рисом.",
+        "th": "อาหารรสชาติที่เนียนนุ่ม แม้แต่ Crab Roe ที่สด ๆ ยังยากที่จะกลบรสชาติตั้งเดิมของเต้าหู้ได้ จึงต้องบดมันด้วยตะเกียบก่อนจะคลุกกินกับข้าวสวย",
+        "vi": "Món ăn tinh tế. Nhưng ngay cả phần cua cực tươi cũng khó làm giảm bớt vị chát của đậu phụ già. Đành phải dùng đũa dầm nhuyễn và trộn với cơm trắng để ăn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

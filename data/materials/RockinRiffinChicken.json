@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rockin' Riffin' Chicken!",
+        "de": "Höllenhühnchen!",
+        "chs": "摇·滚·鸡！",
+        "cht": "搖·滾·雞！",
+        "es": "Pollo rockero",
+        "fr": "Poulet rock 'n' roll",
+        "id": "Rockin' Riffin' Chicken!",
+        "jp": "ロック·チキン！",
+        "kr": "로·큰·닭!",
+        "pt": "Galinha Roqueira!",
+        "ru": "Рокерская курятина!",
+        "th": "Rockin' Riffin' Chicken!",
+        "vi": "Gà Rock and Roll!"
+    },
+    "id": 108174,
+    "materialDesc": {
+        "en": "Xinyan's specialty. Its demonic appearance hides an absolutely demonic spiciness. Eat it, tear up, eat some more, and don't stop till you drop! Surely only a demon could have invented such a dish!",
+        "de": "Xinyans Spezialzubereitung. Die teuflische Aufmachung verdeckt die teuflische Schärfe. Wer es wagt, dieses Gericht zu probieren, wird Tränen vergießen und dennoch nicht genug bekommen. Dieses Gericht scheint direkt aus der Hölle zu kommen!",
+        "chs": "辛焱的特色料理。魔鬼般的造型隐藏着魔鬼般的辣度，一边吃一边流泪却还越吃越上瘾。只有魔鬼才做得出这样的菜吧！",
+        "cht": "辛焱的特色料理。魔鬼般的造型隱藏著魔鬼般的辣度，一邊吃一邊流淚卻還越吃越上癮。只有魔鬼才做得出這樣的菜吧！",
+        "es": "La especialidad de Xinyan. Tras su aspecto infernal, se esconde un nivel de picante igual de infernal. Se te caerán las lágrimas mientras lo comes, pero no podrás parar. ¡Solo alguien como Xinyan podría cocinar algo así!",
+        "fr": "Spécialité culinaire de Xinyan. Ce plat cache un piquant redoutable. Le manger vous fait pleurer mais vous ne pouvez pas vous arrêter ! Seul le diable aurait pu inventer un plat pareil !",
+        "id": "Hidangan spesial Xinyan. Penampilannya yang seperti iblis menyembunyikan rasa yang begitu pedas. Sambil makan sambil menangis, semakin banyak yang dimakan akan semakin ketagihan! Hanya iblis yang bisa memasak hidangan seperti itu!",
+        "jp": "辛炎のオリジナル料理。化け物のような見た目の中に化け物のような辛さが隠されている。食べると涙が溢れるが癖になる味。化け物にしか作れないだろう！",
+        "kr": "신염의 특제 요리. 악마 같은 모양에 악마 같은 매운맛이 숨겨져 있다. 눈물을 흘리면서 먹지만, 먹을수록 중독되는 맛이다. 이런 요리를 만들어낼 수 있는 건 악마뿐이다!",
+        "pt": "O prato especial de Xinyan. Sua aparência demônica esconde um sabor picante igualmente demônico, enquanto você come, também vai chorar, mas não vai conseguir parar. Só alguém como um demônio conseguiria fazer um prato como esse!",
+        "ru": "Особое блюдо Синь Янь. Его дьявольский внешний вид скрывает не менее дьявольскую остроту. Ешьте и рыдайте, ешьте и помните, что чем больше вы едите, тем сложнее оторваться! Только сам дьявол мог создать такое блюдо!",
+        "th": "อาหารจานพิเศษของ Xinyan ด้วยหน้าตาแบบอสูรที่ได้ซ่อน ความเผ็ดร้อนของอสูรเอาไว้ กินไปน้ำตาไหลไป และยิ่งกินก็ยิ่งติดใจ ต้องเป็นอสูรเท่านั้น ถึงสามารถทำอาหารแบบนี้ออกมาได้",
+        "vi": "Món đặc biệt của Xinyan. Tạo hình kì dị cũng giống như vị cay của nó vậy, vừa ăn vừa khóc, nhưng lại gây nghiện khó kiềm chế. Chỉ có ma quỷ mới làm ra được món ăn như vậy chăng!"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

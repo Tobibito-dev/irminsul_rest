@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kuki Shinobu: Net",
+        "de": "Kuki Shinobu – Netz",
+        "chs": "久岐忍·络",
+        "cht": "久岐忍·絡",
+        "es": "Kuki Shinobu - Red",
+        "fr": "Kuki Shinobu - Tissage",
+        "id": "Kuki Shinobu: Net",
+        "jp": "久岐忍·絡",
+        "kr": "쿠키 시노부·그물",
+        "pt": "Kuki Shinobu: Rede",
+        "ru": "Сеть",
+        "th": "Kuki Shinobu - เครือข่าย",
+        "vi": "Kuki Shinobu - Lưới"
+    },
+    "id": 210120,
+    "materialDesc": {
+        "en": "Namecard style.\\n\"You know those Naku Weed rings they have in Inazuma? You know, the kind that can drive out evil? Shinobu got the idea that since wicked things won't cross their boundaries willingly, we could make them into items that could be actively used. Ah, her talent for being a shrine maiden truly is frightening...\"",
+        "de": "Ein Motiv für Namenskärtchen.\\n„Kennst du diese Naku-Kraut-Ringe, die es in Inazuma gibt? Du weißt schon, die Art, die das Böse austreiben kann. Shinobu hatte die Idee, dass wir sie zu Gegenständen machen könnten, die selbst böse Dinge angreifen können. Ah, ihr Talent als Schreinjungfer ist wirklich erschreckend ...“",
+        "chs": "名片纹饰。\\n「稻妻不是有那种鸣草轮吗？穿过去可以驱邪落秽那种。小忍就想到既然邪物不愿意主动钻圈，把草轮做成主动卷人的样子就好了。妹妹她做巫女的才能，真是可怕啊。」",
+        "cht": "名片紋飾。\\n「稻妻不是有那種鳴草輪嗎？穿過去可以驅邪落穢那種。小忍就想到既然邪物不願意主動鑽圈，把草輪做成主動捲人的樣子就好了。妹妹她做巫女的才能，真是可怕啊。」",
+        "es": "Diseño de tarjeta de presentación.\\n“¿Has visto esos aros de percibetormentas que hacen en Inazuma? Con ellos puedes ahuyentar el mal. A Shinobu se le ocurrió que, ya que los seres malignos no cruzan las barreras por voluntad propia, podríamos usarlos deliberadamente para ese propósito. Su talento como miko es realmente aterrador...”.",
+        "fr": "Thème.\\n« Vous voyez ces anneaux d'herbe à sanglots qu'ils ont à Inazuma ? Vous savez, ceux qui permettent de chasser les mauvais esprits... Shinobu a pensé que puisque les créatures maléfiques ne franchissent pas ces cercles de leur propre chef, on pourrait les utiliser pour faire des objets. Ah, son talent de prêtresse, c'est effrayant... »",
+        "id": "Style Kartu Nama.\\n\"Tahu cincin Naku Weed Inazuma? Ya, yang itu, yang bisa mengusir roh jahat. Shinobu merasa kalau roh jahat tidak akan berani seenaknya pindah alam, dan dia pikir cincin itu bisa dijadikan benda yang lebih umum digunakan orang. Ah, bakatnya sebagai miko memang menakutkan sekali ya.\"",
+        "jp": "名刺の飾り紋。\\n「稲妻には、くぐれば邪悪を祓えるという鳴草の輪があるでしょう？そこで忍は、邪悪なものが自ら輪をくぐらないのであれば、草輪を人を取り囲むようなものとして作ればいいと考えました。妹の巫女としての才能は、恐ろしいくらいです。」",
+        "kr": "명함 스킨.\\n「이나즈마엔 들어가면 부정한 것을 퇴치하는 울림풀 고리가 있어. 시노부는 부정한 것들이 고리를 피하니까 그럼 고리를 두르고 다니면 된다고 생각했지. 정말 무시무시한 무녀의 재능이라니깐」",
+        "pt": "Estilo de cartão de visita.\\n\"Você sabe aqueles anéis de Erva Naku de Inazuma? Os que podem repelir o mal. Shinobu teve a ideia de que, uma vez que as criaturas malignas não cruzam esses anéis por vontade própria, os anéis poderiam ser usados deliberadamente para este propósito. Ah, seu talento como sacerdotisa é realmente assustador...\"",
+        "ru": "Именная карта.\\nЗнаете, что в Инадзуме есть кольца из травы наку? Ну знаете, они отгоняют зло. У Синобу возникла идея, что если чудовищные создания не могут пересекать травяные барьеры по собственной воле, то мы сможем использовать кольца из травы Наку. Меня пугает, насколько хорошо у неё получается быть жрицей в святилище.",
+        "th": "ลายนามบัตร\\n\"ที่ Inazuma มีวงแหวน Naku Weed อยู่ไม่ใช่เหรอ? แบบที่เมื่อทะลุผ่านมันก็จะสามารถขับไล่สิ่งชั่วร้ายได้น่ะ Shinobu คิดว่า ในเมื่อสิ่งชั่วร้ายไม่ยอมที่จะเข้าไปในวงกลม ก็ทำให้วงแหวนเป็นที่ล้อมรอบตัวได้แทนสิ ความสามารถของเด็กสาวอย่างเธอในฐานะมิโกะ ช่างน่ากลัวจริง ๆ เลยนะ\"",
+        "vi": "Hoa văn danh thiếp.\\n\"Inazuma không phải có Vòng Cỏ Naku sao? Cái loại mà có thể đuổi tà ma ấy. Shinobu đã nghĩ rằng, nếu như tà ma không chủ động đi vào vòng, vậy thì cứ làm thành loại có thể chủ động quấn lấy là được. Tài năng pháp sư của em gái, quả thật là đáng sợ.\""
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

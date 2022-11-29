@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Zaytun Peach",
+        "de": "Zaytun-Pfirsich",
+        "chs": "墩墩桃",
+        "cht": "墩墩桃",
+        "es": "Duraznoliva",
+        "fr": "Pêche zaytun",
+        "id": "Zaytun Peach",
+        "jp": "ザイトゥン桃",
+        "kr": "뚠뚠 복숭아",
+        "pt": "Pêssego Zaytun",
+        "ru": "Персик зайтун",
+        "th": "Zaytun Peach",
+        "vi": "Đào Zaytun"
+    },
+    "id": 101218,
+    "materialDesc": {
+        "en": "The fruit of a forest shrub. Its flesh is firm and sweet. It is said to have a calming effect on the mind.",
+        "de": "Die Frucht eines Waldstrauchs. Das Fruchtfleisch ist fest, der Geschmack süß. Ihr wird nachgesagt nach dem Verzehr den Geist zu besänftigen.",
+        "chs": "林中灌木结出的果实。肉质敦实，味道香甜可口。据说食用后还有宁心安神的功效。",
+        "cht": "林中灌木結出的果實。肉質敦實，味道香甜可口。據說食用後還有寧心安神的功效。",
+        "es": "Un fruto que crece en los arbustos del bosque, muy dulce y carnoso. Dicen que comerlo calma el cuerpo y la mente.",
+        "fr": "Le fruit d'un arbuste forestier. Sa chair est ferme et sucrée. On dit qu'il a un effet calmant sur l'esprit.",
+        "id": "Buah dari semak hutan. Dagingnya keras dan manis. Dikatakan memiliki efek penenang pada pikiran.",
+        "jp": "雨林の低木に実った果実。果肉はしっかりしており、甘くて美味しい。また、食べると心を落ち着かせる効果もあると言われている。",
+        "kr": "숲속 관목에 열리는 열매. 과육이 단단하며 달고 맛있다. 먹으면 마음을 진정시키는 효과가 있다고 한다",
+        "pt": "Fruto de um arbusto na floresta. A sua carne é firme e o sabor é doce. Dizem que serve para tranquilizar a mente.",
+        "ru": "Плод с твёрдой и сладкой мякотью, растёт в лесных кустарниках. Считается, что персик зайтун обладает успокоительным действием.",
+        "th": "ผลไม้ที่เติบโตจากไม้พุ่มที่อยู่ในป่า เนื้อแน่นและมีรสชาติหอมหวาน ว่ากันว่าเมื่อรับประทานแล้วจะมีฤทธิ์ทำให้จิตใจสงบและผ่อนคลาย",
+        "vi": "Quả của một bụi cây trong rừng. Thịt quả săn chắc, vị ngọt thanh, thơm ngon. Nghe nói có tác dụng tĩnh tâm và an thần."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

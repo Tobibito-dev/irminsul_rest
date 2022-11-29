@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Prescription Medication from Bimarstan for Gurgen",
+        "de": "Vom „Bimarstan“ verschriebene Medizin für Gurgen",
+        "chs": "「健康之家」给古尔根的处方药",
+        "cht": "「健康之家」給古爾根的處方藥",
+        "es": "Medicina del bimaristán para Gurgen",
+        "fr": "Ordonnance du Bimarestan pour Gurgen",
+        "id": "Resep Obat dari Bimarstan untuk Gurgen",
+        "jp": "ビマリスタンがガルゲンに出した処方薬",
+        "kr": "「비마르스탄」에서 구르겐에게 처방한 약",
+        "pt": "Receita do Bimarstan para Gurgen",
+        "ru": "Лекарство, прописанное Гургену в Бимарстане",
+        "th": "ยาตามใบสั่งที่ \"Bimarstan\" จ่ายให้กับ Gurgen",
+        "vi": "Đơn Thuốc Bimarstan Kê Cho Gurgen"
+    },
+    "id": 101938,
+    "materialDesc": {
+        "en": "Medication prescribed for Gurgen. It should be taken along with abundant rest.",
+        "de": "An Gurgen verschriebene Medizin. Neben ihrer Einnahme sollte Gurgen viel Ruhen.",
+        "chs": "送给古尔根的药剂，需要搭配静养使用。",
+        "cht": "送給古爾根的藥劑，需要搭配靜養使用。",
+        "es": "Una medicina recetada para Gurgen. Además de tomarla, se requiere un buen reposo.",
+        "fr": "Une potion prescrite pour Gurgen. Elle doit être accompagnée d'une cure de convalescence.",
+        "id": "Resep obat untuk Gurgen. Harus diminum secara teratur dan juga banyak istirahat.",
+        "jp": "ガルゲンに処方された薬剤。十分な休養とともに摂取すること。",
+        "kr": "구르겐에게 준 약. 충분한 휴식과 함께 복용해야 한다",
+        "pt": "Uma poção para Gurgen. Ele precisa descansar bem para que a poção tenha uma melhor eficácia.",
+        "ru": "Лекарство, которое прописали Гургену. Чтобы оно подействовало, больному необходимо обеспечить полный покой.",
+        "th": "ยาที่จ่ายให้กับ Gurgen จำเป็นต้องใช้ควบคู่ไปกับการพักผ่อน",
+        "vi": "Thuốc đưa cho Gurgen, cần phải kết hợp với tịnh dưỡng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

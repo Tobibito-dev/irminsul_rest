@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Rice Cake Soup",
+        "de": "Misslungene Klebreissuppe",
+        "chs": "奇怪的市井杂煮",
+        "cht": "奇怪的市井雜煮",
+        "es": "Sopa de pastel de arroz extraña",
+        "fr": "Soupe de galettes de riz (suspecte)",
+        "id": "Suspicious Rice Cake Soup",
+        "jp": "微妙な市井おでん",
+        "kr": "이상한 모둠 어묵탕",
+        "pt": "Cozido Misto do Mercado Estranho",
+        "ru": "Странный суп одзони",
+        "th": "Rice Cake Soup รสประหลาด",
+        "vi": "Zoni Đường Phố Kỳ Lạ"
+    },
+    "id": 108288,
+    "materialDesc": {
+        "en": "Commonly-seen city cuisine. These ingredients have cooked for so long that they have gone crisp. The only way to tell the components apart is by trawling the mix, having a small spoonful, and initiating further analysis.",
+        "de": "Übliche Stadtküche. Diese Zutaten wurden so lange gegart, dass sie knusprig geworden sind. Die einzige Möglichkeit, die Komponenten zu unterscheiden, besteht darin, die Mischung zu durchwühlen, einen kleinen Löffel zu nehmen und eine weitere Analyse einzuleiten.",
+        "chs": "常见的市井料理。过长时间的烹煮使得食材过于酥烂，只能用汤勺盛起混合物，靠小口分辨，进一步确定食材的种类。",
+        "cht": "常見的市井料理。過長時間的烹煮使得食材過於酥爛，只能用湯勺盛起混合物，靠小口分辨，進一步確定食材的種類。",
+        "es": "Una comida típica de los mercados callejeros. Al haber hervido durante demasiado tiempo, los ingredientes se han quedado tan blandos que necesitas una cuchara para comer este mejunje... Toma una cucharada e inspecciónala de cerca, porque si no, no habrá manera de diferenciar los ingredientes.",
+        "fr": "Plat vendu sur les marchés. Les ingrédients ont cuit si longtemps qu'ils sont devenus croustillants. La seule façon de les distinguer est d'en prendre une cuillerée pour se lancer dans une analyse plus approfondie.",
+        "id": "Masakan kota yang umum dilihat. Bahan di dalamnya dimasak terlalu lama hingga lembek. Satu-satunya cara untuk membedakan jenis bahannya adalah, mengaduknya dan mengambil sesendok kecil lalu memulai analisa lebih lanjut.",
+        "jp": "よく見かける巷の料理。長時間の過熱により、具材がほとんど溶けてしまい、スプーンで掬うしか食べる方法がない。何もかもが混ざってしまっているため、何を食べているのか判別が難しい。",
+        "kr": "흔히 볼 수 있는 축제 요리. 지나친 조리 시간으로 흐물흐물해진 식자재 혼합물은, 숟가락으로 건져내 조금씩 맛을 보아야 간신히 식자재의 종류를 분별해낼 수 있다",
+        "pt": "Uma comida comum das cidades. Esses ingredientes cozinharam por muito tempo e ficaram crocantes. O único jeito de os distinguir é mexendo na mistura, mordendo um pouco e então os analisar.",
+        "ru": "Распространённая городская еда. Суп разварился настолько, что придётся ещё долго пробовать ложку за ложкой, чтобы разобрать, где какой ингредиент.",
+        "th": "อาหารในเมืองที่พบได้ทั่วไป ด้วยการปรุงที่ใช้เวลานานเกินไปจนทำให้ส่วนผสมกรอบร่วน จึงทำได้แค่ใช้ช้อนเล็ก ๆ ตักส่วนผสมที่รวมเข้าด้วยกันขึ้นมาทาน เพื่อแยกแยะส่วนผสมชนิดต่าง ๆ",
+        "vi": "Món ăn đường phố thường gặp. Nấu trong thời gian dài khiến nguyên liệu đều bị mục nát, nên chỉ có thể dùng thìa để lấy hỗn hợp ra, và cắn một miếng nhỏ để phân biệt các loại nguyên liệu trong đó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

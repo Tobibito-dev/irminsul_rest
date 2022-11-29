@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Sweet Shrimp Sushi",
+        "de": "Leckeres Süßgarnelen-Sushi",
+        "chs": "美味的甜虾寿司",
+        "cht": "美味的甜蝦壽司",
+        "es": "Sushi de camarón delicioso",
+        "fr": "Sushi aux crevettes (délicieux)",
+        "id": "Delicious Sweet Shrimp Sushi",
+        "jp": "美味しそうな甘エビの握り寿司",
+        "kr": "맛있는 단새우 초밥",
+        "pt": "Sushi de Camarão Doce Delicioso",
+        "ru": "Вкусные суши с креветками",
+        "th": "Sweet Shrimp Sushi แสนอร่อย",
+        "vi": "Sushi Tôm Ngon"
+    },
+    "id": 108323,
+    "materialDesc": {
+        "en": "A fresh and sweet traditional dish. Crystal-clear shrimp reclines on the snow-white piles of rice. The sourness of the vinegared grains and sweetness of the meat intertwine upon your tongue like the gentle dance of lapping waves on white shores.",
+        "de": "Ein frisches und süßes Traditionsgericht. Eine kristallklare Garnele liegt auf dem schneeweißen Reisfladen. Die Säure der in Essig eingelegten Körner und die Süße des Fleisches verflechten sich auf der Zunge wie der sanfte Tanz von plätschernden Wellen an weißen Ufern.",
+        "chs": "口味鲜甜的传统食物。晶莹剔透的虾身横卧在雪白的米团上。醋饭的酸味与虾肉的甜味在舌尖交融缠绕，轻柔得仿佛是海浪与白沙的嬉戏。",
+        "cht": "口味鮮甜的傳統食物。晶瑩剔透的蝦身橫臥在雪白的米糰上。醋飯的酸味與蝦肉的甜味在舌尖交融纏繞，輕柔得仿佛是海浪與白沙的嬉戲。",
+        "es": "Una comida fresca y tradicional. Un brillante camarón descansa sobre el níveo arroz, mientras este, ligeramente avinagrado, forma una combinación perfecta con el frescor del marisco. Ambos acarician tu paladar igual que las olas del mar acarician la arena de una playa.",
+        "fr": "Un plat frais et traditionnel. Le corps translucide de la crevette repose sur le riz blanc comme neige. L'aigreur du riz vinaigré et la douceur des crevettes se mêlent et s'entremêlent sur la langue, doucement telles les vagues qui entrent en contact avec le sable blanc.",
+        "id": "Sebuah hidangan tradisional yang manis dan segar. Seekor udang sebening kristal terbaring di atas tumpukan nasi seputih salju. Rasa asam dari butiran cuka dan manisnya daging terjalin di lidahmu bagaikan tarian lembut ombak di pantai putih.",
+        "jp": "甘くて美味しい伝統料理。透き通ったエビが雪のように白い銀シャリにのっている。酢飯の酸味とエビの甘さが舌の上で溶け合い、波と白砂の戯れのように軽やかで柔らかい。",
+        "kr": "신선하고 달콤한 식감의 전통 음식. 투명하고 맑은 새우가 새하얀 쌀 위에 가로로 누워 있다. 초밥의 신맛과 새우 살의 단맛이 혀끝에서 어우러져 마치 파도와 백사장의 유희를 방불케 한다",
+        "pt": "Um prato tradicional fresco e doce. Um camarão cristalino reclina-se sobre a pilha de arroz branco como a neve. A acidez dos grãos com vinagre e a doçura da carne se entrelaçam em sua língua como a dança suave das ondas ondulantes nas margens brancas.",
+        "ru": "Свежее и сладкое традиционное блюдо. Кристально чистая креветка лежит на белоснежном рисе. Рисовая кислинка и сладость мяса переплетаются на языке, словно танцуя нежный танец волн на белом берегу.",
+        "th": "อาหารดั้งเดิมที่มีรสชาติหวานสดชื่น กุ้งตัวใสที่วางอยู่บนข้าวปั้นที่ขาวราวหิมะ ความเปรี้ยวของข้าวซูชิและความหวานของเนื้อกุ้งผสมผสานกันอยู่บนปลายลิ้น ราวกับเกลียวคลื่นที่ร่ายรำบนหาดทรายขาว",
+        "vi": "Món ăn truyền thống có vị tươi ngọt. Con tôm trong vắt nằm trên nắm cơm trắng như tuyết. Vị chua của cơm dấm và vị ngọt của tôm quyện vào đầu lưỡi, mềm mại như thể sóng biển và cát trắng đang đùa giỡn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

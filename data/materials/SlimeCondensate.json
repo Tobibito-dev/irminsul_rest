@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Slime Condensate",
+        "de": "Schleimabsonderung",
+        "chs": "史莱姆凝液",
+        "cht": "史萊姆凝液",
+        "es": "Condensado de Slime",
+        "fr": "Bave de Blob",
+        "id": "Slime Condensate",
+        "jp": "スライムの液体",
+        "kr": "슬라임 응축액",
+        "pt": "Condensado de Slime",
+        "ru": "Слизь слайма",
+        "th": "Slime Condensate",
+        "vi": "Dịch Slime"
+    },
+    "id": 112002,
+    "materialDesc": {
+        "en": "A thick coating found on slimes. Most commonly seen material in elemental workshops.",
+        "de": "Die dickflüssige Ummantelung von Schleimen. Häufig in Elementwerkstädten zu finden.",
+        "chs": "覆于史莱姆体表的浓稠流体，各地元素工坊中最常见的原料。",
+        "cht": "覆於史萊姆體表的濃稠流體，各地元素工坊中最常見的原料。",
+        "es": "Denso fluido que cubre la superficie de un Slime. Es un material comúnmente visto en talleres elementales.",
+        "fr": "Liquide épais que l'on trouve sur les Blobs. Il s'agit d'un matériau commun utilisé chez les forgerons élémentaires.",
+        "id": "Lapisan tebal yang ditemukan pada Slime. Bahan yang paling sering dijumpai di bengkel elemental.",
+        "jp": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
+        "kr": "슬라임을 덮고 있는 걸쭉한 액체. 각지의 원소 공방에서 가장 흔히 보이는 원료이다",
+        "pt": "Fluido denso que cobre a superfície de um Slime. Material comumente visto em oficinas elementais de diversos lugares.",
+        "ru": "Толстый слой слизи, покрывающий слайма. Обычно используется в элементальных мастерских.",
+        "th": "ของเหลวที่มีลักษณะเป็นเมือกลอย เป็นสิ่งที่พบได้บ่อยในโรงงานธาตุ",
+        "vi": "Chất kết dính trên bề mặt Slime, nguyên liệu thường thấy trong xưởng Nguyên Tố."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

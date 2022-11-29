@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Entangling Bloom",
+        "de": "Umschlingende Blume",
+        "chs": "羁缠之花",
+        "cht": "羈纏之花",
+        "es": "Flor del Entrelazamiento",
+        "fr": "Fleur d'enchevêtrement",
+        "id": "Entangling Bloom",
+        "jp": "羈絆の花",
+        "kr": "속박의 꽃",
+        "pt": "Flor Envolvente",
+        "ru": "Опутывающий цветок",
+        "th": "Entangling Bloom",
+        "vi": "Hoa Vương Vấn"
+    },
+    "id": 24194,
+    "setId": 15019,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

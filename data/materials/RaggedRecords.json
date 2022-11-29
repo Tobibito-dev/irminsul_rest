@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ragged Records",
+        "de": "Zerrissene Aufzeichnung",
+        "chs": "残破的记录",
+        "cht": "殘破的紀錄",
+        "es": "Registro estropeado",
+        "fr": "Registre en lambeaux",
+        "id": "Catatan yang Rusak",
+        "jp": "ボロボロな記録",
+        "kr": "파손된 기록",
+        "pt": "Registros Amassados",
+        "ru": "Потрёпанные записи",
+        "th": "บันทึกโทรม ๆ",
+        "vi": "Ghi Chép Mục Nát"
+    },
+    "id": 120141,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

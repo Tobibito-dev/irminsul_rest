@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Satisfaction of Sated Thirst",
+        "de": "„Heiterkeit müßigen Umtrunkes“",
+        "chs": "「闲时豪饮的畅快」",
+        "cht": "「閒時豪飲的暢快」",
+        "es": "El placer de una copa en silencio",
+        "fr": "« Satisfaction de la soif rassasiée »",
+        "id": "Kepuasan dari Dahaga yang Terpuaskan",
+        "jp": "「余暇に豪飲する爽快さ」",
+        "kr": "「한가할 때 들이키는 시원함」",
+        "pt": "Alegria do Lazer ao Beber",
+        "ru": "Удовлетворение жажды",
+        "th": "\"ความสุขของการดื่มในเวลาว่าง\"",
+        "vi": "Niềm Vui Lúc Nhàn Rỗi"
+    },
+    "id": 382111,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making Satisfaction of Sated Thirst.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Heiterkeit müßigen Umtrunkes“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『闲时豪饮的畅快』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『閒時豪飲的暢快』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar “El placer de una copa en silencio”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "#Étapes de fabrication de la «{NON_BREAK_SPACE}Satisfaction de la soif rassasiée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Kepuasan dari Dahaga yang Terpuaskan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『余暇に豪飲する爽快さ』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면. 「『한가할 때 들이키는 시원함』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar a Alegria do Lazer ao Beber.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Удовлетворение жажды».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ความสุขของการดื่มในเวลาว่าง\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Niềm Vui Lúc Nhàn Rỗi\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

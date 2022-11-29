@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventurer's Supply Bundle",
+        "de": "Beistandshilfsgüterpaket",
+        "chs": "冒险助力补给包",
+        "cht": "冒險助力補給包",
+        "es": "Paquete de apoyo al aventurero",
+        "fr": "Pack de ravitaillement de l'aventurier",
+        "id": "Adventurer's Supply Bundle",
+        "jp": "冒険助力補給パック",
+        "kr": "모험 조력 보급 패키지",
+        "pt": "Pacote de Suprimentos do Aventureiro",
+        "ru": "Набор припасов приключенца",
+        "th": "แพ็กช่วยเหลือการผจญภัย",
+        "vi": "Túi Tiếp Tế Hỗ Trợ Mạo Hiểm"
+    },
+    "id": 115019,
+    "materialDesc": {
+        "en": "Some supplies that are only handed out during a boom period. Is this the Guild getting rid of contraband stores, you ask? No, no. Of course not.",
+        "de": "Einige Hilfsgüter, die genau richtig zur Hochsaison kommen. Frag bitte nicht, ob die Gilde ihr Lager einfach nur ausgemistet hat. Dem ist nämlich nicht so.",
+        "chs": "恰逢旺季才提供的一些补给。不要追问是不是协会跑路前的清仓了，不是的。",
+        "cht": "恰逢旺季才提供的一些補給。不要追問是不是協會跑路前的清倉了，不是的。",
+        "es": "Suministros que solo se entregan en temporada alta. ¿Que si es esta la forma en que el Gremio se deshace de los bienes de contrabando? No, claro que no.",
+        "fr": "Ravitaillement de saison. S'agit-il là d'une façon pour la Guilde de se débarrasser de stocks de contrebande, demandez-vous ? Mais non, voyons.",
+        "id": "Beberapa barang persediaan yang hanya dibagikan saat musim ramai. Apakah ini cara Guild untuk membersihkan gudang mereka? Bukan, tentu saja bukan.",
+        "jp": "ピークシーズンにしか提供されない補給品。決して協会の在庫処分ではない。",
+        "kr": "성수기에만 지급되는 보급 패키지. 길드가 재고 처분하려는 게 절대 아니다",
+        "pt": "Alguns suprimentos que só são distribuídos durante um período de boom. É a Guilda que se livra das lojas de contrabando, pergunta você? Não, não. Claro que não.",
+        "ru": "Припасы на экстренный случай, которые обычно выдаются в пиковый сезон. Что? Избавляется ли таким образом Гильдия от контрабандных товаров? Нет, что вы, конечно же нет.",
+        "th": "ไอเทมบางอย่างที่มีให้เฉพาะช่วงไฮซีซั่นเท่านั้น ไม่ต้องถามหรอกว่ากิลด์ระบายของในสต๊อกก่อนจะปิดตัวลงรึเปล่า ไม่ใช่อย่างงั้นแน่นอน",
+        "vi": "Một số đồ tiếp tế chỉ cung cấp trong mùa cao điểm. Đừng thắc mắc có phải hiệp hội đang xả kho trước khi bỏ chạy không, không phải đâu."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

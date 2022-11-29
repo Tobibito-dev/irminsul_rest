@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Candied Ajilenakh Nut",
+        "de": "Misslungene Honigdatteln",
+        "chs": "奇怪的枣椰蜜糖",
+        "cht": "奇怪的棗椰蜜糖",
+        "es": "Dátiles caramelizados extraños",
+        "fr": "Nougat d'ajilenakh (suspect)",
+        "id": "Suspicious Candied Ajilenakh Nut",
+        "jp": "微妙なナツメヤシキャンディ",
+        "kr": "이상한 대추야자 사탕",
+        "pt": "Doce de Mel com Tâmaras Estranho",
+        "ru": "Странные засахаренные орехи аджиленах",
+        "th": "Candied Ajilenakh Nut รสประหลาด",
+        "vi": "Ajilenakh Ngào Đường Kỳ Lạ"
+    },
+    "id": 108454,
+    "materialDesc": {
+        "en": "A rich dessert. The hard nut is almost like a stone lying hidden in the sand, waiting to strike. Sweetness brings happiness, yes, but the feeling of the hard bits stuck between your teeth rather ruins it by half.",
+        "de": "Ein reichhaltig gefülltes Dessert. Die enthaltenen Nüsse sind wie kleine, im Boden der Wüste verborgene Steine. Wenn man nicht gut achtgibt, verschwören sie sich gegen den Genießer. Süßer Geschmack bringt Freude, aber harte Stücke zwischen den Zähnen machen diese Freude zunichte.",
+        "chs": "馅料丰富的甜点。坚硬的坚果粒宛若藏匿于沙地中的小石子一般，一不小心就会中其暗算。甜味会带给人快乐，但牙齿间的磕磕绊绊让这份快乐减少了大半。",
+        "cht": "餡料豐富的甜點。堅硬的堅果粒宛若藏匿於沙地中的小石子一般，一不小心就會中其暗算。甜味會帶給人快樂，但牙齒間的磕磕絆絆讓這份快樂減少了大半。",
+        "es": "Un postre con un abundante relleno. Las almendras duras son como pequeñas piedras escondidas en la arena: si no tienes cuidado, podrían darte una sorpresa. Comer algo dulce es motivo de felicidad, pero la sensación de los trozos duros entre los dientes arruina totalmente la experiencia.",
+        "fr": "Un dessert riche. Les noix dures sont presque comme des pierres cachées dans les sables, attendant de frapper l'inattentionné. Le sucre apporte du bonheur, c'est un fait, mais la sensation de morceaux durs coincés entre les dents le gâche plutôt de moitié...",
+        "id": "Makanan pencuci mulut dengan isian yang kaya dan padat. Kacangnya yang keras hampir terasa seperti batu yang tersembunyi di antara pasir, berdiam seperti sedang menunggu pukulan. Memang benar, rasa manis membawa kebahagiaan, tapi perasaan adanya potongan keras yang tersangkut di antara gigi malah jadi merusak setengah kebahagiaan itu.",
+        "jp": "中身の詰まった砂糖菓子。硬いナッツは砂の中に隠れた小石のように、油断すると攻撃してくる。甘さは幸せをくれるものだが、歯の間に挟まったそれは、その幸せを半分以下にしてしまう。",
+        "kr": "소가 풍부한 디저트. 단단한 견과류 알갱이는 모래 속에 숨은 자갈 같다. 자칫 방심하면… 이가 부러질 수도 있다. 단맛은 즐거움을 주지만 치아 사이의 감촉이 그 즐거움을 절반으로 감소시킨다",
+        "pt": "Uma sobremesa rica. As nozes duras são como uma pedra escondida na areia, aguardando uma chance de atacarem. A doçura traz felicidade, mas a sensação dos pedaços duros nos dentes arruína ela.",
+        "ru": "Десерт с необычной начинкой. Твёрдый орех - словно камень, затаившийся в песке и готовый нанести удар. Сладость приносит счастье, но ощущение твёрдых кусочков, застрявших между зубами, отнимает его половину.",
+        "th": "ขนมหวานไส้แน่น ความแข็งของเมล็ดถั่วเปรียบเสมือนเม็ดกรวดที่ซ่อนอยู่ในกองทราย ที่มักจะลอบทำร้ายในทีเผลออยู่เสมอ รสหวานสามารถนำพาความสุขมาให้ผู้คนได้ แต่ความตะกุกตะกักที่ฟันสัมผัสได้ กลับลดทอนความสุขนั้นไปกว่าครึ่งเลยทีเดียว",
+        "vi": "Món tráng miệng nhiều nhân. Những hạt cứng giống như những phiến đá nhỏ ẩn trong cát, nếu không cẩn thận sẽ bị mắc bẫy. Vị ngọt đem lại niềm vui, nhưng sự va chạm giữa kẽ răng đã làm giảm bớt đi hơn một nửa niềm vui đó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

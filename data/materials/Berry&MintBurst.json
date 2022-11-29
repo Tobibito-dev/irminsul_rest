@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Berry & Mint Burst",
+        "de": "Beeren-Minz-Spritz",
+        "chs": "树莓薄荷饮",
+        "cht": "樹莓薄荷飲",
+        "es": "Bebida de bayas y menta",
+        "fr": "Boisson aux baies et à la menthe",
+        "id": "Berry & Mint Burst",
+        "jp": "ミントベリージュース",
+        "kr": "라즈베리 허브 주스",
+        "pt": "Bebida de Bagas e Menta",
+        "ru": "Ягодный напиток с мятой",
+        "th": "Berry & Mint Burst",
+        "vi": "Nước Dâu Bạc Hà"
+    },
+    "id": 108150,
+    "materialDesc": {
+        "en": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. A refreshing burst of Mint with Berries to sweeten the deal, it has an exquisite aroma.",
+        "de": "Ein frisches alkoholfreies Getränk, das sehr in Mode ist. Die Minze ist erquickend und wird von der fruchtig-süßen Note der Beeren ergänzt.",
+        "chs": "清新时尚的无酒精饮品。十分提神的薄荷饮料，用树莓加以装饰，散发着雅致的清香。",
+        "cht": "清新時尚的無酒精飲品。十分提神的薄荷飲料，用樹莓加以裝飾，散發著雅致的清香。",
+        "es": "Una popular bebida sin alcohol, afrutada y recién exprimida. Tomarla es como sentir una refrescante y dulce explosión de menta y bayas. Su aroma es prácticamente de otro mundo.",
+        "fr": "Une boisson fraîche non alcoolisée très en vogue dernièrement. On sent la menthe rafraîchissante, adoucie par le sucre des baies.",
+        "id": "Minuman buah non-alkohol yang baru diperas dan menyegarkan. Minuman berbahan dasar Mint yang melepaskan dahaga dengan hiasan Berry sebagai pemanis, mengeluarkan aroma khas yang berkelas.",
+        "jp": "最近流行っているノンアルコールドリンク。爽やかなミントドリンクにラズベリーが入り、優雅な香りが仄かにする。",
+        "kr": "청량하고 예쁜 무알코올 음료. 아주 상쾌한 허브 음료. 라즈베리로 플레이팅했고 상큼한 향을 풍긴다",
+        "pt": "Uma bebida de Menta, sem álcool, adornada com Baga, estilosa e refrescante. Exala um aroma gentil que pode matar o sono rápido.",
+        "ru": "Модный свежевыжатый безалкогольный напиток. Исключительно освежающая мята, немного ягод для сладости и неповторимый тонкий аромат.",
+        "th": "เครื่องดื่มไม่มีแอลกอฮอล์ที่สดชื่นและเป็นที่นิยมมาก เครื่องดื่มมิ้นต์ที่ทำให้กระปรี้กระเปร่า และตกแต่งด้วยเบอร์รี่ที่ให้กลิ่นหอมสดชื่น",
+        "vi": "Đồ uống không cồn tươi ngon sành điệu. Nước bạc hà giúp tỉnh táo, trang trí bằng quả mâm xôi, tỏa hương thơm thanh mát."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

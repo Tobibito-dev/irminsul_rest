@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Electroculus Resonance Stone",
+        "de": "Elektroculus-Resonanzstein",
+        "chs": "雷神瞳共鸣石",
+        "cht": "雷神瞳共鳴石",
+        "es": "Roca de resonancia de electróculus",
+        "fr": "Pierre de résonance Électroculus",
+        "id": "Electroculus Resonance Stone",
+        "jp": "雷神の瞳の共鳴石",
+        "kr": "번개 신의 눈동자 공명석",
+        "pt": "Pedra de Ressonância de Electroculus",
+        "ru": "Камень эха электрокула",
+        "th": "Electroculus Resonance Stone",
+        "vi": "Đá Cộng Hưởng Lôi Thần Đồng"
+    },
+    "id": 220032,
+    "materialDesc": {
+        "en": "A stone that can be used in Inazuma to search for nearby Electroculi.\\nThis strange device can resonate with Electro Statues of The Seven. Due to this trait, it can detect the presence of Electroculi.\\nAcross the span of endless years, even the most majestic cities and sculptures would be worn down by wind and rain, and even the power of Statues of The Seven would gradually dissipate. But this faded strength would coalesce once more into the Oculi, which call out wordlessly to their Statues.",
+        "de": "Im Gebiet von Inazuma angewendet kannst du hiermit verlorene Elektroculi in der Nähe aufspüren.\\nDieses seltsame Gerät kann mit den Elektro-Statuen der Sieben in Resonanz gehen. Durch diese Eigenschaft kann es die Anwesenheit von Elektroculi aufspüren.\\nÜber endlose Jahre hinweg wurden selbst die majestätischsten Städte und Skulpturen von Wind und Regen zermürbt und selbst die Kraft der Statuen der Sieben löste sich allmählich auf. Aber diese verblasste Kraft würde sich noch einmal in den Oculi vereinen, die wortlos zu ihren Statuen rufen.",
+        "chs": "在稻妻使用时，能寻找附近的「散失的雷神瞳」。\\n能够与雷之七天神像共鸣的奇特石盘。因为这种性质，也能感知神瞳的存在。\\n在无边无际的漫长的岁月中，宏伟的城池与造像也会被风雨侵蚀，七天神像的力量也会慢慢逸散。但逸散的力量会结成「神瞳」的形象，无声呼唤着只属于它的神像。",
+        "cht": "在稻妻使用時，能尋找附近的「散失的雷神瞳」。\\n能夠與雷之七天神像共鳴的奇特石盤。因為這種性質，也能感知神瞳的存在。\\n在無邊無際的漫長的歲月中，宏偉的城池與造像也會被風雨侵蝕，七天神像的力量也會慢慢逸散。但逸散的力量會結成「神瞳」的形象，無聲呼喚著只屬於它的神像。",
+        "es": "Puede utilizarse en Inazuma para encontrar electróculus en las cercanías.\\nUn misterioso disco que, al resonar con las Estatuas de Los Siete Electro, detecta la presencia de óculus.\\nCon el infinito paso del tiempo, incluso las ciudades y las estatuas más grandiosas sufren a causa de la erosión del viento y la lluvia, lo que hace que las Estatuas de Los Siete pierdan lentamente su poder. Sin embargo, este poder perdido acaba tomando la forma de óculus para llamar silenciosamente a la estatua a la que pertenece.",
+        "fr": "Outil permettant de détecter les Électroculus proches à Inazuma.\\nCet étrange appareil a un pouvoir qui résonne avec les Statues des Sept Électro. C'est grâce à cela qu'il peut détecter la présence d'Électroculus.\\nAu cours des années interminables, même les villes et les sculptures les plus majestueuses sont érodées par le vent et la pluie, et même le pouvoir des Statues des Sept se dissipe progressivement. Mais la puissance qui s'en échappe se fond une fois de plus dans les Oculus, qui appellent en silence leurs Statues.",
+        "id": "Batu yang dapat digunakan di Inazuma untuk mencari Electroculus terdekat.\\nPerangkat aneh ini dapat beresonansi dengan Patung The Seven Electro. Karakteristik inilah yang membuat perangkat ini dapat mendeteksi keberadaan Electroculus.\\nSeiring dengan waktu, bahkan kota dan patung termegah pun akan terkikis oleh angin dan hujan. Dan bahkan kekuatan Patung The Seven juga akan berkurang secara bertahap. Tapi kekuatan yang memudar ini akan berubah wujud menjadi Oculus — yang terus memanggil patung mereka tanpa suara.",
+        "jp": "稲妻で使用することで、近くにある「失われた雷神の瞳」を探知できる。\\n雷の七天神像と共鳴する力を持つ特異な石盤。その性質により、神の瞳の存在を探知することができる。\\n限りなく長い年月を経て、壮大な城も彫像も風雨に浸食され、七天神像の力も徐々に散逸していった。散逸した力は「神の瞳」を形成し、それに属する神像に静かに呼びかけている。",
+        "kr": "이나즈마에서 사용하면 근처의 「잃어버린 번개 신의 눈동자」를 찾을 수 있다\\n번개의 일곱신상과 공명할 수 있는 기이한 석판. 이러한 특성 탓에 신의 눈동자를 감지할 수 있다\\n헤아릴 수 없는 오랜 세월을 겪으면서, 위대한 도시와 조각상도 비바람의 풍파에 점차 잠식되어갔다. 일곱신상의 힘 또한 차차 소실되었지만 소실된 그 힘은 「신의 눈동자」의 형태로 소리 없이 자신만의 신상을 애타게 부르고 있다",
+        "pt": "Uma pedra que pode ser usada em Inazuma para procurar por Electroculus.\\nEste estranho dispositivo pode ressoar com a Estátua dos Sete Electro. Devido a esta característica, ele pode detectar a presença de Electroculus.\\nAo longo de anos intermináveis, até mesmo as cidades e esculturas mais majestosas seriam desgastadas pelo vento e pela chuva, e até mesmo o poder das Estátuas dos Sete se dissiparia gradualmente. Mas esta força desvanecida se consolidaria mais uma vez em um Oculus, que clama sem palavras pelas suas Estátuas.",
+        "ru": "Камень, который можно использовать в Инадзуме для поиска электрокулов.\\nНеобычный каменный диск, способный резонировать с Электро статуями семи Архонтов, поэтому он может указать путь к электрокулам.\\nЗа бесчисленные годы даже грандиознейшие из городов и статуй разрушает дождь и ветер, и даже сила статуй семи Архонтов понемногу рассеивается. Но потерянные силы сольются воедино вновь благодаря окулусам, которые безмолвно взывают к своим статуям.",
+        "th": "เมื่อใช้ใน Inazuma จะสามารถค้นหา Electroculus ในบริเวณใกล้เคียงได้\\nแผ่นหินประหลาดที่สามารถสะท้อนกับ Electro Statues of The Seven ได้ และเป็นเพราะคุณสมบัตินี้ จึงทำให้สามารถตรวจจับการปรากฏตัวของ Electroculus ได้\\nในช่วงเวลาอันยาวนานที่ไม่มีที่สิ้นสุดนี้ แม้แต่กำแพงเมืองและรูปปั้นอันยิ่งใหญ่ก็ยังถูกลมฝนพัดผ่านจนทรุดโทรม และแม้แต่พลังของ Statues of The Seven ก็จะค่อยๆ สลายไป แต่พลังที่สลายไปนี้ จะรวมตัวกันอีกครั้งในรูปแบบ Oculus ซึ่งจะเรียกร้องต่อรูปปั้นที่เป็นของพวกมันอย่างเงียบ ๆ",
+        "vi": "Trong Inazuma có thể tìm Lôi Thần Đồng gần đó.\\nCó sức mạnh cộng hưởng với Thất Thiên Thần Tượng Lôi. Vì đặc tính này, nên có khả năng cảm ứng được Thần Đồng.\\nThời gian trôi đi, thành trì và tượng thần hùng vĩ cũng hao mòn trong mưa gió, sức mạnh của Thất Thiên Thần Tượng cũng dần dần tan biến. Nhưng phần sức mạnh bị tan biến này sẽ kết tinh thành hình tượng \"Thần Đồng\", âm thầm thuộc về Thần Tượng của nó."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

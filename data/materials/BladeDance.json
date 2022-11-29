@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Blade Dance",
+        "de": "Klingentanz",
+        "chs": "剑刃之舞",
+        "cht": "劍刃之舞",
+        "es": "Danza de espadas",
+        "fr": "Danse de lames",
+        "id": "Blade Dance",
+        "jp": "刀剣の舞",
+        "kr": "칼날의 춤",
+        "pt": "Dança da Espada",
+        "ru": "Танец мечей",
+        "th": "Blade Dance",
+        "vi": "Vũ Điệu Sắc Bén"
+    },
+    "id": 200242,
+    "materialDesc": {
+        "en": "Characters possess 5 stacks of the Blade Dance effect, and each stack increases the Normal Attack DMG dealt by the character by 15%. Possessing 5 stacks will increase Normal ATK SPD by 15%. When a character takes DMG, they will lose 1 stack of Blade Dance. A maximum of 1 stack can be lost every second in this way. A character will gain one stack of Blade Dance for every 10s they are on the field, up to a maximum of 5 stacks. Each character's CDs, stack counts, and their effects are counted independently.",
+        "de": "Figuren besitzen 5 Stapelungen des Effekts „Klingentanz“, wobei jede Stapelung des Effekts den mit Standardangriffen dieser Figuren verursachten Schaden um 15 % erhöht. Erhöht die Standardangriffs-GSW bei 5 Stapelungen um 15 %. Verringert den Effekt beim Erleiden von Angriffen um 1 Stapelung. Auf diese Weise kann pro s bis zu 1 Stapelung verloren werden. Gibt Figuren alle 10 s auf dem Feld eine Stapelung des Effekts „Klingentanz“, bis die Höchstmenge von 5 Stapelungen erreicht ist. Stapelungen und Zeit zum Erhalten neuer Stapelungen werden für jede Figur einzeln gezählt.",
+        "chs": "角色拥有5层「剑舞」效果，每层剑舞效果会使角色的普通攻击造成的伤害提高15%。拥有5层效果时，普通攻击速度提高15%。角色受到伤害时，会失去1层剑舞，每秒最多因此失去1层剑舞。角色在场上时，每10秒会获得一层剑舞，直到拥有5层剑舞为止。每个角色单独计算剑舞效果的层数与获得间隔时间。",
+        "cht": "角色擁有5層「劍舞」效果，每層劍舞效果會使角色的普通攻擊造成的傷害提高15%。擁有5層效果時，普通攻擊速度提高15%。角色受到傷害時，會失去1層劍舞，每秒最多因此失去1層劍舞。角色在場上時，每10秒會獲得1層劍舞，直到擁有層劍5舞為止。每個角色單獨計算劍舞效果的層數與獲得間隔時間。",
+        "es": "El personaje tiene 5 acumulaciones de Danza de espadas y cada una aumenta el daño de su Ataque Normal en un 15%. Con 5 acumulaciones, la Vel. de Ataque de los Ataques Normales aumenta en un 15%. Al recibir daño, el personaje perderá 1 acumulación (máximo 1 por segundo). Cuando el personaje está en uso, obtiene una acumulación de Danza de espadas cada 10 s, hasta un máximo total de 5. Las acumulaciones y el tiempo se calculan por separado para cada personaje.",
+        "fr": "Les personnages disposent de 5 cumuls de l'effet Danse de lames, chaque cumul augmentant les DGT des attaques normales de 15 %. Avec 5 cumuls, la VIT d'attaque normale augmente de 15 %. Lorsqu'un personnage subit des DGT, il perd 1 cumul de Danse de lames. Un maximum de 1 cumul peut être perdu toutes les secondes de cette manière. Un personnage obtient 1 cumul de Danse de lames toutes les 10 s qu'il passe sur le champ de bataille, jusqu'à un maximum de 5 cumuls. Le TdR, le nombre de cumuls et les effets sont calculés indépendamment pour tous les personnages.",
+        "id": "Karakter memiliki 5 lapis efek Blade Dance yang setiap lapisnya akan meningkatkan 15% DMG Normal Attack. Memiliki 5 lapis efek juga akan meningkatkan 15% Normal Attack SPD. Saat terkena DMG, Karakter akan kehilangan 1 lapis Blade Dance, maksimum 1 lapis setiap detik. Saat berada di medan pertempuran, Karakter akan mendapatkan 1 lapis Blade Dance setiap 10 detik, maksimum hingga 5 lapis. Durasi CD dan jumlah lapisan efek dihitung terpisah untuk setiap Karakter.",
+        "jp": "キャラクターは「剣舞」効果を5層獲得する。1層ごとに通常攻撃ダメージ+15%。5層の効果を持つ時、通常攻撃速度+15%。ダメージを受けると剣舞を1層失う。1秒ごとに失う剣舞は1層まで。キャラクターがフィールド上にいる時、剣舞が5層になるまで10秒ごとに剣舞を1層獲得する。剣舞効果の層数とクールタイムは各キャラクターごとに計算される。",
+        "kr": "캐릭터는 「검무」 효과를 5스택 보유하고, 1스택 당 캐릭터가 일반 공격으로 가하는 피해가 15% 증가한다. 5스택 보유 시 일반 공격 속도가 15% 증가하며, 캐릭터가 피해를 입을 시 검무를 1스택 잃는다. 1초당 최대 1스택까지 잃는다. 캐릭터가 필드 위에 있으면 10초마다 검무를 1스택 획득하며, 최대 5스택까지 획득할 수 있다. 검무 효과의 스택과 획득 간격은 캐릭터마다 각각 따로 계산된다",
+        "pt": "O Personagem que tiver 5 cargas do efeito de Dança da Espada terá um aumento de 15% no Dano do Ataque Normal. Quando possuir 5 cargas, a Vel. de ATQ do Ataque Normal terá um aumento de 15%. Quando o Personagem receber Dano, perderá 1 carga de Dança da Espada. É possível perder até 1 carga por segundo. Quando o Personagem está no campo de batalha, a cada 10s obterá uma carga de Dança da Espada até alcançar 5 cargas. Cada Personagem tem Tempo de Recarga, cargas e seus efeitos contados de forma independente.",
+        "ru": "У персонажа есть 5 ед. эффекта Танца мечей. Каждая единица повышает урон обычной атаки персонажа на 15%. Когда есть 5 ед., скорость обычной атаки увеличивается на 15%. Когда персонаж получает урон, он теряет 1 ед. эффекта Танца мечей, каждую секунду может потеряться максимум 1 ед. Персонаж на поле боя получает единицу Танца мечей каждые 10 сек., максимум 5 ед. Единицы и откаты каждого персонажа считаются отдельно.",
+        "th": "ตัวละครที่ได้รับเอฟเฟกต์ \"Blade Dance\" 5 ชั้น เอฟเฟกต์ของ Blade Dance แต่ละชั้นจะเพิ่มความเสียหาย ของการโจมตีปกติของตัวละครขึ้น 15% เมื่อมีเอฟเฟกต์ 5 ชั้น ความเร็วในการโจมตีปกติจะเพิ่มขึ้น 15% หากตัวละครได้รับความเสียหาย จะสูญเสีย Blade Dance 1 ชั้น โดยแต่ละวินาที จะสูญเสียด้วยวิธีได้สูงสุด 1 ชั้น และเมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับ Blade Dance หนึ่งชั้นในทุก 10 วินาที ไปจนกระทั่งมี Blade Dance 5 ชั้น โดยเอฟเฟกต์ Blade Dance แต่ละชั้นและระยะเวลาที่ได้รับของแต่ละตัวละครจะคำนวณแยกกัน",
+        "vi": "Nhân vật có 5 tầng hiệu quả \"Kiếm Vũ\", mỗi tầng Kiếm Vũ sẽ khiến sát thương đánh thường của nhân vật tăng 15%. Khi có 5 tầng hiệu quả, tốc độ đánh thường tăng 15%. Nhân vật khi chịu sát thương sẽ mất đi 1 tầng Kiếm Vũ, mỗi giây chỉ mất tối đa 1 tầng. Khi nhân vật trong trận, mỗi 10s sẽ nhận 1 tầng Kiếm Vũ cho đến khi có 5 tầng. Số tầng hiệu quả Kiếm Vũ và thời gian nhận sẽ được tính riêng cho mỗi nhân vật."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

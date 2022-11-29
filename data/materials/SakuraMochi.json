@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sakura Mochi",
+        "de": "Sakuramochi",
+        "chs": "绯樱饼",
+        "cht": "緋櫻餅",
+        "es": "Mochis de cerezo",
+        "fr": "Mochis de fleur de cerisier",
+        "id": "Sakura Mochi",
+        "jp": "緋櫻餅",
+        "kr": "벚꽃 모찌",
+        "pt": "Sakura Mochi",
+        "ru": "Моти с сакурой",
+        "th": "Sakura Mochi",
+        "vi": "Bánh Anh Đào"
+    },
+    "id": 108283,
+    "materialDesc": {
+        "en": "A delicate and elegant snack. The dark green leaf adds complexity to the overall warm color palette. Just looking at it gives you a sense of its quiet beauty. 'Tis a shame that its lovely flavor is like a blooming flower in its transience — yet do not let that dissuade you from taking a bite.",
+        "de": "Ein zarter und eleganter Snack. Das dunkelgrüne Blatt fügt der gesamten warmen Farbpalette Komplexität hinzu. Schon der Anblick gibt dir ein Gefühl für seine stille Schönheit. Es ist eine Schande, dass sein lieblicher Geschmack in seiner Vergänglichkeit einer blühenden Blume gleicht. Doch lass dich davon nicht abhalten, einen Bissen zu nehmen.",
+        "chs": "细腻雅致的点心。暗绿的叶片为整体的暖色调添上层次感。单单是观赏，也别具安静之美。可惜品尝它美味的佳期却如花开一般短暂，不要不舍得下口哦。",
+        "cht": "細膩雅致的點心。暗綠的葉片為整體的暖色調添上層次感。單單是觀賞，也別具安靜之美。可惜品嚐它美味的佳期卻如花開一般短暫，不要不捨得下口哦。",
+        "es": "Un dulce exquisito y elegante. La hoja de cerezo verde oscuro añade una mayor complejidad a la paleta de colores de los mochis. Solo con mirarlos, ya puedes apreciar su silenciosa belleza. Qué lástima que su maravilloso sabor sea tan efímero como el florecimiento de una planta... ¡Pero que eso no te detenga para probar uno!",
+        "fr": "Un encas délicat et élégant. La feuille vert foncé ajoute du contraste à la palette globale de couleurs. Rien qu'en la regardant, cette pâtisserie évoque une beauté tranquille. Il est dommage que sa saveur merveilleuse soit aussi éphémère que l'épanouissement d'une fleur... Mais que cela ne vous empêche pas d'en prendre une bouchée.",
+        "id": "Camilan yang indah dan elegan. Daun hijau tua menambahkan lapisan warna yang hangat secara keseluruhan. Melihatnya saja dapat membuatmu merasakan sebuah keindahan yang menenangkan. Sayang sekali, kesempatan untuk menikmatinya sama singkatnya seperti bunga yang bermekaran. Tapi jangan biarkan hal ini membuatmu tidak tega untuk memakannya loh.",
+        "jp": "繊細で上品な菓子。濃い緑の葉が、全体の暖かい色合いに高級感を与えた。観賞するだけでも、安らぎの美しさを感じることができる。残念ながら、その美味しさを味わえる期間は花のように短いため、躊躇わず早めに食べた方がいい。",
+        "kr": "섬세하고 운치 있는 디저트. 진녹색의 잎사귀가 전반적인 웜톤에 볼륨감을 선사해 단지 감상하는 것만으로도 정적인 미를 느낄 수 있다. 하지만 아쉽게도 디저트를 맛보기에 가장 최적의 시기는 만개하는 꽃처럼 짧다. 그러니까 먹기 아까워도 얼른 먹도록 하자",
+        "pt": "Um lanche delicado e elegante. A folha verde escura adiciona complexidade à paleta de cores quentes. Ao olhar para ele, percebe-se uma beleza sutil. É uma pena que seu adorável sabor seja tão transitório quanto o desabrochar de uma flor — mas não deixe que isso o impeça de dar uma mordida.",
+        "ru": "Изящный и нежный десерт. Тёмный листок дополняет тёплую цветовую палитру. Один только его вид наполняет вас тихим чувством красоты. К сожалению, вкус моти, как и цветение, скоротечен, но пусть вам это не препятствует съесть его.",
+        "th": "ของว่างที่ละเอียดอ่อนและสง่างาม ใบไม้สีเขียวเข้มช่วยเพิ่มชั้นเชิงให้กับโทนสีอันแสนอบอุ่นได้อย่างลงตัว ลำพังเพียงแค่มอง ก็ทำให้รู้สึกถึงความงามอันเงียบสงบ แต่น่าเสียดายที่ช่วงเวลาที่ดีที่สุดในการลิ้มรสความอร่อยของมันนั้น สั้นพอ ๆ กับช่วงที่ดอกไม้ที่ผลิบาน เพราะฉะนั้นอย่ามัวแต่เสียดายจนไม่กล้ากินเสียล่ะ",
+        "vi": "Món điểm tâm tinh tế và tao nhã. Phiến lá xanh đậm nhấn nhá thêm cho cả tông màu ấm. Mỗi việc chiêm ngưỡng cũng đã thấy đẹp và thanh thản. Nhưng tiếc là thời gian để cảm nhận cái ngon của nó lại ngắn ngủi như chu kỳ hoa nở vậy, có điều, đừng thấy tiếc mà không nỡ bỏ vào miệng nhé."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

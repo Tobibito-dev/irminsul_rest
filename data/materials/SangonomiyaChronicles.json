@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sangonomiya Chronicles",
+        "de": "Chroniken von Sangonomiya",
+        "chs": "珊瑚宫记",
+        "cht": "珊瑚宮記",
+        "es": "Crónicas de Sangonomiya",
+        "fr": "Chroniques de Sangonomiya",
+        "id": "Kisah Sangonomiya",
+        "jp": "珊瑚宮記",
+        "kr": "산호궁기",
+        "pt": "Notas de Sangonomiya",
+        "ru": "Хроники Сангономии",
+        "th": "บันทึก Sangonomiya",
+        "vi": "Ký Sự Sangonomiya"
+    },
+    "id": 101528,
+    "materialDesc": {
+        "en": "Historical annals written by the famous Shogunate historian Kujou Michizane, who was known as one of the \"The Three Kujou Dignitaries,\" or \"The Great Calligrapher.\" It chronicles the history of Watatsumi Island in broad strokes.",
+        "de": "Annalen, geschrieben von dem berühmten Bakufu-Historiker Kujou Michizane, der als einer der „drei Kujou-Würdenträger“ oder „Der große Gelehrte“ bekannt war. Sie beschreiben die Geschichte der Insel Watatsumi in groben Zügen.",
+        "chs": "由幕府著名历史学者，名列「九条三笔头」的名臣九条道真所著的历史书籍，简要介绍了海祇岛的历史。",
+        "cht": "由幕府著名歷史學者，名列「九條三筆頭」的名臣九條道真所著的歷史書籍，簡要介紹了海祇島的歷史。",
+        "es": "Los registros históricos escritos por el famoso historiador del shogunato, Kujou Michizane, conocido como uno de “Los Tres Dignatarios Kujou”. Sus narraciones abordan la historia de la Isla Watatsumi a grandes rasgos.",
+        "fr": "Annales historiques écrites par le célèbre historien du Shogunat Kujou Michizane, connu comme l'un des « Trois dignitaires Kujou » ou le « Grand calligraphe ». Il y relate brièvement l'histoire de l'Île de Watatsumi.",
+        "id": "Catatan sejarah yang ditulis oleh sejarawan Shogunate terkenal Kujou Michizane, yang dikenal sebagai \"Tiga Petinggi Kujou\", atau \"Sang Ahli Besar kaligrafi\". isinya mencatat tentang sejarah Pulau Watatsumi secara garis besar.",
+        "jp": "幕府の有名な歴史学者、「九条三筆頭」の大臣である九条道真が書いた、海祇島の歴史を紹介した歴史書。",
+        "kr": "막부의 저명한 역사학자이자, 「쿠죠 3대 필촉」이라 불리는 명신 쿠죠 미치자네가 써낸 역사 서적. 와타츠미섬의 역사에 대해 간략하게 설명했다",
+        "pt": "Registros históricos escritos pelo famoso historiador do Shogunato, Kujou Michizane, também conhecido como um dos \"Três Dignatários Kujou\" ou \"O Grande Calígrafo\". Descreve a história da Ilha de Watatsumi de forma resumida.",
+        "ru": "Труд знаменитого историка сёгуната Кудзё Митидзанэ, одного из «Трёх сановников Кудзё», Содержит краткую историю острова Ватацуми.",
+        "th": "หนังสือประวัติศาสตร์ที่เขียนโดยนักประวัติศาสตร์ผู้แสนโด่งดังของ Shogunate ผู้มีนามว่า Kujou Michizane ซึ่งถูกระบุว่าเป็น \"เกียรติทั้งสามแห่ง Kujou\" โดยได้เขียนแนะนำเกี่ยวกับประวัติศาสตร์ของเกาะ Watatsumi โดยสังเขป",
+        "vi": "Sách sử được viết bởi nhà sử học nổi tiếng của Shogunate - Kujou Michizane, người được xem là một trong \"ba cây bút hàng đầu của Kujou\", giới thiệu sơ lược về lịch sử của Đảo Watatsumi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

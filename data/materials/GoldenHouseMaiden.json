@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Golden House Maiden",
+        "de": "Geheime Geliebte",
+        "chs": "「金屋藏娇」",
+        "cht": "「金屋藏嬌」",
+        "es": "Doncella de la casa dorada",
+        "fr": "Maîtresse de la Chambre d'Or",
+        "id": "Gadis Rumah Emas",
+        "jp": "「金屋蔵嬌」",
+        "kr": "「금옥장교」",
+        "pt": "Donzela da Casa Dourada",
+        "ru": "«Золотая мадам»",
+        "th": "\"Golden House Mistress\"",
+        "vi": "\"Kim Ốc Tàng Kiều\""
+    },
+    "id": 100487,
+    "materialDesc": {
+        "en": "Silk Flowers from which perfume used in the Rite of Parting is made.\\nThis species originally grew under complex hydrological conditions. Its foliage is abundant, its leaves are evergreen, and its stamen is as fair as a Golden House Maiden.",
+        "de": "Seidenblumen, die zur Herstellung der Duftessenz für den Adeptenabschied benötigt werden.\\nDiese Sorte wächst ursprünglich nur in Gegenden mit komplexen hydrologischen Bedingungen. Das Blattwerk ist üppig und immergrün, die Staubblätter sind reizend wie eine geheime Geliebte.",
+        "chs": "用于制作「送仙典仪」所需香膏的霓裳花。\\n这个品种原本生长在水文复杂之地，枝繁叶茂，花蕊如金屋藏娇，绿叶长存。",
+        "cht": "用於製作「送仙典儀」所需香膏的霓裳花。\\n這個品種原本生長在水文複雜之地，枝繁葉茂，花蕊如金屋藏嬌，綠葉長存。",
+        "es": "Flores de seda con las que se elabora el perfume utilizado en el Rito del Ascenso.\\nEsta especie originalmente crece en condiciones hidrológicas complejas. Su follaje es abundante, sus hojas son perennes y su pistilo es tan hermoso como una doncella en una casa dorada.",
+        "fr": "Des fleurs de soie utilisées lors du rituel de l'ascension.\\nMalgré une culture dans un environnement aux conditions hydrologiques compliquées, ces fleurs possèdent un feuillage vert et luxuriant, et renferment de délicates étamines, aussi belles qu'une résidente de la Chambre d'Or.",
+        "id": "Silk Flower yang digunakan untuk membuat parfum yang diperlukan dalam Rite of Parting.\\Tumbuhan ini tumbuh di daerah hidrologi yang kompleks. Daunnya banyak, berwarna hijau, dan benang sarinya seindah seorang Gadis Rumah Emas.",
+        "jp": "「送仙儀式」に必要な香膏の材料となる霓裳花。\\n水の条件が複雑な場所で成長する品種で、枝が生い茂り、花蕊が金の屋敷に隠された美人を思わせる。",
+        "kr": "「송신의례」에 필요한 향고를 만드는 데 쓰이는 예상꽃.\\n이 품종은 원래 수문지질학적 조건이 복잡한 곳에서 자란다. 가지가 많고 잎이 무성한데 그 안에 꽃술이 있는 모습이 마치 훌륭한 집에 미인을 감추어 둔 것 같아 금옥장교라고 한다. 푸른 잎이 오래 보존된다",
+        "pt": "Flores de Seda das quais é feito o perfume usado no Rito da Despedida.\\nEsta espécie cresceu originalmente em condições hidrológicas complexas. Sua folhagem é abundante, suas folhas são sempre verdes e seu estame é tão justo quanto uma Donzela da Casa Dourada.",
+        "ru": "Шелковица, из которой изготавливают ароматические масла для Церемонии Вознесения.\\nЭтот вид растёт преимущественно в местах со сложными гидрологическими процессами. Он имеет обильную листву, вечнозелёные листья, а его тычинка прекрасна словно сама «Золотая мадам».",
+        "th": "น้ำหอมของดอก Silk Flower ที่สำหรับใช้ในการทำ \"พิธีส่งเซียน\"\\nดอกชนิดนี้เติบโตในพื้นที่ลุ่มน้ำ, มีใบที่อุดมสมบูรณ์, เกสรมีเสน่ห์เฉกเช่น Golden House Mistress และเขียวชอุ่มตลอดปี",
+        "vi": "Hoa nghê thường được dùng để chế tạo sáp thơm trong \"Điển Lễ Tiễn Tiên\".\\nLoài này có lá xanh trường tồn, đa số phát triển ở nơi có điều kiện thủy văn phức tạp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

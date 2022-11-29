@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vermeer's Paintbrushes",
+        "de": "Vermeers Pinsel",
+        "chs": "梵米尔的画笔",
+        "cht": "梵米爾的畫筆",
+        "es": "Pintura de Vermeer",
+        "fr": "Pinceaux de Vermeer",
+        "id": "Kuas Vermeer",
+        "jp": "フェルメールの画筆",
+        "kr": "베르메르의 그림붓",
+        "pt": "Pincel de Vermeer",
+        "ru": "Кисть Вермеера",
+        "th": "พู่กันของ Vermeer",
+        "vi": "Tranh của Vermeer"
+    },
+    "id": 100535,
+    "materialDesc": {
+        "en": "Around five paintbrushes of different lengths and widths, wrapped in a cloth and stored in a box. The artist clearly takes excellent care of them.",
+        "de": "Um die fünf Pinsel von verschiedener Länge und Größe, die in ein Stück Stoff gewickelt in dieser Schachtel liegen. Man erkennt deutlich, wie gewissenhaft der Maler, der sie verwendet, eingepackt hat.",
+        "chs": "大约五支长短各异，大小不同的画笔，用布包好了放在盒子里，能看得出画家在护理它们时的细心。",
+        "cht": "大約五支長短各異，大小不同的畫筆，用布包好了放在盒子裡，能看得出畫家在護理它們時的細心。",
+        "es": "Unos cinco pinceles de diferente ancho y largo envueltos en un paño y guardados en una caja. Su dueño claramente los cuidó muy bien.",
+        "fr": "Cinq pinceaux de tailles différentes. Enveloppés dans du tissu et placés dans une boîte, Vermeer en prend grand soin.",
+        "id": "Ada sekitar lima batang kuas dengan panjang dan ukuran berbeda. Dibungkus dengan kain dan ditempatkan di dalam kotak. Seniman yang memilikinya benar-benar merawatnya dengan baik.",
+        "jp": "長さと大きさが異なる5本の画筆。布に包まれ、箱にしまっている。持ち主の細心や日頃の手入れが伺える。",
+        "kr": "길이와 크기가 모두 다른 5자루의 그림붓. 천에 쌓여진 채로 상자에 놓여 있다. 화가가 정성스레 관리했다는 걸 알 수 있다",
+        "pt": "Os pinceis com formas e comprimentos diferentes são bem embrulhados em pano e bem colocados na caixa. Dá para ver a delideza emprestada pelo pintor.",
+        "ru": "Завёрнутые в ткань и уложенные в шкатулку пять кистей для рисования разной длины и толщины. Очевидно, что художник очень ими дорожит.",
+        "th": "พู่กันห้าด้ามที่ความยาวและขนาดต่างกันไป ใช้ผ้าห่อและเก็บไว้ในกล่องอย่างดี ซึ่งดูออกได้ว่าจิตรกรดูแลรักษาพวกมันเป็นอย่างดี",
+        "vi": "Khoảng năm chiếc cọ vẽ dài ngắn khác nhau, dùng vải bao bọc lại đặt trong hộp, có thể thấy người họa sĩ giữ gìn chúng rất kỹ càng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

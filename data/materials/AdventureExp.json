@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventure EXP",
+        "de": "Abenteuer-EP",
+        "chs": "冒险阅历",
+        "cht": "冒險閱歷",
+        "es": "EXP de Aventura",
+        "fr": "EXP d'aventure",
+        "id": "Adventure EXP",
+        "jp": "冒険経験",
+        "kr": "모험 경력",
+        "pt": "EXP de Aventura",
+        "ru": "Опыт приключений",
+        "th": "Adventure EXP",
+        "vi": "EXP Mạo Hiểm"
+    },
+    "id": 102,
+    "materialDesc": {
+        "en": "Adventure EXP. Used to improve Adventure Rank.",
+        "de": "Abenteuer-EP, wird zum Erhöhen der Abenteuerstufe verwendet.",
+        "chs": "冒险阅历，用于提升冒险等阶",
+        "cht": "冒險閱歷，用於提升冒險等階。",
+        "es": "EXP de Aventura, utilizada para mejorar el Rango de Aventura.",
+        "fr": "L'EXP d'aventure permet d'augmenter le Niv. d'aventure.",
+        "id": "Adventure EXP, digunakan untuk meningkatkan Rank Adventure.",
+        "jp": "冒険の経験値。冒険ランクのアップに使用できる。",
+        "kr": "모험 경력. 모험 등급을 올릴 때 필요하다",
+        "pt": "EXP de Aventura, usado para aprimorar o Rank de Aventura.",
+        "ru": "Опыт приключений используется для повышения Ранга приключений.",
+        "th": "EXP ผจญภัย ใช้สำหรับพัฒนาแรงก์ผจญภัย",
+        "vi": "Dùng để tăng hạng Mạo Hiểm"
+    },
+    "materialType": false
+}

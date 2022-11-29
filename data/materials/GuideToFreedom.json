@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guide to Freedom",
+        "de": "Anleitung zur „Freiheit“",
+        "chs": "「自由」的指引",
+        "cht": "「自由」的指引",
+        "es": "Guía de la libertad",
+        "fr": "Guide de la Liberté",
+        "id": "Guide to \"Freedom\"",
+        "jp": "「自由」の導き",
+        "kr": "「자유」의 인도",
+        "pt": "Guia da Liberdade",
+        "ru": "Указания о «Свободе»",
+        "th": "Guide to Freedom",
+        "vi": "Hướng Dẫn Của \"Tự Do\""
+    },
+    "id": 104302,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nFreedom is the spirit of the land of the wind.\\nThe freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed.",
+        "de": "Material zum Verbessern von Talenten.\\nFreiheit ist der Geist des Reiches des Windes.\\nFreiheit ist zweitens, sich beliebig bewegen und überall unter dem blauen Himmel wandern zu können, ohne an einen Ort gebunden zu sein.",
+        "chs": "天赋培养素材。\\n风之国土的精神是自由。\\n自由其二，是漫游的自由，即是能在苍翠的土地上自由地通行，而不受阻挠的自由。",
+        "cht": "天賦培養素材。\\n風之國土的精神是自由。\\n自由其二，是漫遊的自由，即是能在蒼翠的土地上自由地通行，而不受阻饒的自由。",
+        "es": "Material de mejora de talento.\\nLa libertad es la esencia del Reino del Viento. La segunda de las libertades es la de viajar por el mundo libremente sin que nadie te lo impida.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'esprit du Royaume du Vent est défini par plusieurs libertés.\\nLa liberté de voyager est une d'entre elles, c'est-à-dire, être libre de circuler à travers les terres sans aucune obstruction.",
+        "id": "Material Penguatan Talenta.\\nKebebasan adalah gairah Kerajaan Angin.\\nKebebasan berkelana adalah salah satunya, kebebasan untuk bepergian tanpa dilarang.",
+        "jp": "天賦育成素材。\\n風の国の精神は自由である。\\n自由その2、旅する自由、すなわち蒼翠なる土地で自由気ままに通行し、邪魔されない自由。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 정신은 자유다.\\n자유 둘, 유람의 자유. 즉 푸른 대지를 자유롭게 통행하며 남에게 방해받지 않을 자유",
+        "pt": "Material de elevação de Talento.\\nA liberdade é o espírito do Reino do Vento.\\nA liberdade de viajar é uma dessas. É a liberdade de percorrer a terra livremente sem ser obstruída.",
+        "ru": "Материал повышения таланта.\\nСвобода - это дух царства ветров.\\nСвобода вольных путешествий, не вызывающих страх.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nอิสรภาพนั้นคือพลังของประเทศแห่งสายลม\\nอิสรภาพที่สองนั้นคืออิสระ ในการไปในที่ต่าง ๆ มันคืออิสระที่จะสามารถไปในทุกที่ได้ โดยไม่ถูกขัดขวาง",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nTinh thần đất nước của gió là tự do.\\nThứ 2 là tự do du lịch, có thể tự do di chuyển trên các vùng lãnh thổ, không bị cản trở gì."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

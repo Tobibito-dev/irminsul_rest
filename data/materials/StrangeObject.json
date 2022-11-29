@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Object",
+        "de": "Seltsames Objekt",
+        "chs": "奇怪的物件",
+        "cht": "奇怪的物件",
+        "es": "Objeto extraño",
+        "fr": "Objet bizarre",
+        "id": "Objek Aneh",
+        "jp": "奇妙な物",
+        "kr": "이상한 물건",
+        "pt": "Objeto Estranho",
+        "ru": "Странный предмет",
+        "th": "วัตถุแปลกปลอม",
+        "vi": "Vật Kỳ Lạ"
+    },
+    "id": 101665,
+    "materialDesc": {
+        "en": "A strange item that you fished up from the underground waterways in The Chasm. It's wet, and you cannot tell if this is a living or dead thing.",
+        "de": "Ein seltsamer Gegenstand, den du aus den unterirdischen Wasserläufen in der Großen Kluft gefischt hast. Er ist nass und du kannst nicht sagen, ob es ein lebendes oder totes Ding ist.",
+        "chs": "从层岩巨渊的地下水域钓上来的奇怪物件，湿漉漉的，看不出是活物还是死物。",
+        "cht": "從層岩巨淵的地下水域釣上來的奇怪物件，濕漉漉的，看不出是活物還是死物。",
+        "es": "Un objeto extraño rescatado de las aguas subterráneas de la Sima. Está tan empapado que no se distingue si es un ser vivo o inerte.",
+        "fr": "Un objet étrange que vous avez repêché dans les cours d'eau souterrains du Gouffre. C'est humide, et il est impossible de dire si c'est une chose vivante ou morte.",
+        "id": "Sesuatu yang kamu pancing dari saluran air bawah tanah Chasm. Tidak dapat dipastikan apakah ini makhluk hidup atau benda mati, yang jelas hanyalah fakta bahwa benda ini ... basah.",
+        "jp": "層岩巨淵の地下水域で釣り上げられた奇妙な物。べたべたしていて、生き物なのか、そうでないのか分からない。",
+        "kr": "층암거연의 지하 수역에서 낚은 이상한 물건. 다소 축축하며 생물인지, 아닌지 판단하기 어렵다",
+        "pt": "Um objeto estranho recuperado das águas subterrâneas do Despenhadeiro. Está encharcado, e não é possível perceber se é um ser vivo ou não.",
+        "ru": "Странный предмет, выловленный из подземных вод Разлома. Он промок настолько, что по нему и не скажешь, это нечто живое, или же мёртвое.",
+        "th": "วัตถุแปลกปลอมที่ได้มาจากน่านน้ำใต้ดินของ Chasm เปียกชุ่มไปด้วยน้ำ ดูไม่ออกว่ามันยังมีชีวิตอยู่หรือตายไปแล้ว",
+        "vi": "Vật kỳ lạ câu được từ vùng nước ở bên dưới Vực Đá Sâu, ướt nhẹp, nhìn không rõ là sống hay chết."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

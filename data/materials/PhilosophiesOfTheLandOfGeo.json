@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of the Land of Geo",
+        "de": "Philosophie des Reiches des Gesteins",
+        "chs": "岩间的哲学",
+        "cht": "岩間的哲學",
+        "es": "Filosofía de la Tierra de la Roca",
+        "fr": "Philosophie de la Terre rocheuse",
+        "id": "Philosophies of the Land of the Earth",
+        "jp": "岩間の哲学",
+        "kr": "바위 땅의 철학",
+        "pt": "Filosofia do Reino das Rochas",
+        "ru": "Философия каменных земель",
+        "th": "Philosophies of the Land of the Earth",
+        "vi": "Triết Lý Của Đá"
+    },
+    "id": 116007,
+    "materialDesc": {
+        "en": "You reached an epiphany during your travels in Liyue, the land of Geo. The collection of items within can be used to upgrade your Talents.\\n\\nAfter using this item, you may select one of the following rewards:\\n·Philosophies of Prosperity\\n·Philosophies of Diligence\\n·Philosophies of Gold",
+        "de": "Auf deinen Reisen im Reich des Gesteins Liyue hast du eine Erkenntnis erlangt. Sammelst du die darin enthaltenen Objekte, kannst du deine Fertigkeiten verbessern.\\n\\nNach dem Anwenden kannst du eine der folgenden Belohnungen wählen:\\n- Philosophie des „Wohlstands“\\n- Philosophie des „Fleißes“\\n- Philosophie des „Golds“",
+        "chs": "在岩之国土「璃月」的旅行中有所领悟，内部装有可以提升技艺的典藏。\\n\\n使用后可从以下选项中选择一项作为奖励:\\n·「繁荣」的哲学\\n·「勤劳」的哲学\\n·「黄金」的哲学",
+        "cht": "在岩之國土「璃月」的旅行中有所領悟，內部裝有可以提升技藝的典藏。\\n\\n使用後可從以下選項中選擇一項作為獎勵:\\n·「繁榮」的哲學\\n·「勤勞」的哲學\\n·「黃金」的哲學",
+        "es": "Tuviste una epifanía durante tus viajes en Liyue, el Reino de Piedra. La colección de objetos en su interior puede usarse para mejorar tus talentos.\\n\\nAl usar este objeto, podrás elegir una de las siguientes recompensas:\\n·Filosofía de la prosperidad\\n·Filosofía del esfuerzo\\n·Filosofía del oro",
+        "fr": "Vous avez eu une illumination à Liyue, le pays de l'élément Géo. Cette collection d'objets pourra vous servir à améliorer vos aptitudes.\\n\\nAprès usage, vous recevrez une récompense à choisir entre :\\n· Philosophie de la Prospérité\\n· Philosophie de la Diligence\\n· Philosophie de l'Or",
+        "id": "Kamu mendapat pencerahan selama perjalanmu di Mondstadt, Land of Wind. Koleksi yang ada di dalamnya dapat digunakan untuk upgrade Talenta.\\n\\nSetelah digunakan, kamu dapat memilih salah satu untuk dijadikan sebagai hadiah.\\n·Philosophies of \"Prosperity\"\\n·Philosophies of \"Diligence\"\\n·Philosophies of \"Gold\"",
+        "jp": "岩の国「璃月」の旅の途中で理解したもの、内部には技を鍛える典籍が入っている。\\n\\n使用すると以下から1つ獲得できる:\\n·「繁栄」の哲学\\n·「勤労」の哲学\\n·「黄金」の哲学",
+        "kr": "바위의 나라 「리월」를 여행하다 깨달은 것으로 기예를 향상시킬 수 있는 소장품이 들어있다.\\n\\n사용 후 아래 보상 중 한 가지를 선택할 수 있다:\\n·「번영」의 철학\\n·「근면」의 철학\\n·「황금」의 철학",
+        "pt": "Você alcançou uma epifania durante suas viagens em Liyue, o Reino das Rochas.\\n\\nDepois de usar este item, você pode selecionar uma das seguintes recompensas:\\n· Filosofia de \"Prosperidade\"\\n· Filosofia de \"Diligência\"\\n· Filosofia de \"Ouro\"",
+        "ru": "Во время своих странствий по Ли Юэ вас постигло озарение. Предметы из этого набора могут быть использованы для улучшения ваших талантов.\\n\\nПосле использования этого предмета вы сможете выбрать одну из следующих наград:\\n· Философия о «Процветании»\\n· Философия об «Усердии»\\n· Философия о «Золоте»",
+        "th": "ความเข้าใจทั้งหมดที่เกิดขึ้นระหว่างการเดินทางในดินแดนแห่งหินอย่าง \"Liyue\" ซึ่งภายในมีคอลเลกชันที่ช่วยพัฒนาทักษะได้\\n\\nหลังจากใช้แล้วสามารถเลือกของรางวัลหนึ่งอย่างจากตัวเลือกต่อไปนี้ได้:\\n·Philosophies of Prosperity\\n·Philosophies of Diligence\\n·Philosophies of Gold",
+        "vi": "Phát hiện ra trong chuyến hành trình đến Liyue - vùng đất của nham, trong đó có chứa bí quyết để nâng cao kỹ nghệ.\\n\\nDùng xong có thể chọn 1 phần thưởng sau đây:\\n·Triết Học Của \"Phồn Vinh\"\\n·Triết Học Của \"Chăm Chỉ\"\\n·Triết Học Của \"Hoàng Kim\""
+    },
+    "materialType": "MATERIAL_SELECTABLE_CHEST"
+}

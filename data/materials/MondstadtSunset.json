@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Mondstadt Sunset\"",
+        "de": "„Sonnenuntergang in Mondstadt“",
+        "chs": "「蒙德落日」",
+        "cht": "「蒙德落日」",
+        "es": "“Atardecer en Mondstadt”",
+        "fr": "« Crépuscule mondstadtois »",
+        "id": "\"Matahari Terbenam di Mondstadt\"",
+        "jp": "「モンドの落日」",
+        "kr": "「몬드의 석양」",
+        "pt": "\"Pôr do sol de Mondstadt\"",
+        "ru": "«Мондштадтский закат»",
+        "th": "\"Mondstadt Sunset\"",
+        "vi": "[Nhật Lạc Mondstadt]"
+    },
+    "id": 100316,
+    "materialDesc": {
+        "en": "A pretty and sweet cocktail. The juice slowly sinks in the clear liquor like the sunset. A favorite among couples.",
+        "de": "Ein eher süßes und hübsch anzusehendes alkoholisches Getränk. Der Saft in dem klaren Gebräu sinkt langsam nach unten wie die Sonne am Abend. Es ist sehr beliebt bei Paaren.",
+        "chs": "口感偏甜，颇有观赏性的酒品。在透明的酒液中，果汁如同夕阳余晖般缓缓垂落，深得情侣们的喜爱。",
+        "cht": "口感偏甜，頗有觀賞性的酒品。在透明的酒液中，果汁如同夕陽餘暉般緩緩垂落，深得情侶們的喜愛。",
+        "es": "Un bonito y dulce cóctel. El jugo se hunde lentamente en el transparente licor, como en una puesta del sol. El favorito de muchas parejas.",
+        "fr": "Un joli cocktail un peu sucré. Le jus coule lentement dans la liqueur transparente comme le coucher du soleil. Cette boisson fait fureur parmi les couples.",
+        "id": "Koktail yang cantik dan manis. Jus itu perlahan-lahan tenggelam dalam cairan bening seperti matahari terbenam. Favorit di antara pasangan.",
+        "jp": "やや甘くて綺麗なお酒。透き通っているアルコールに果汁が夕日のように沈んでいく。カップルに人気な一品。",
+        "kr": "맑은 술에 과즙을 떨어뜨리면 석양빛처럼 천천히 퍼져나간다. 달달하고 술 주제에 예쁘기까지 해 커플들이 많이 찾는다",
+        "pt": "Um coquetel bonito e doce. O suco afunda lentamente no licor claro como o pôr do sol. O favorito entre os casais.",
+        "ru": "Приятный сладкий коктейль. Сок медленно утопает в алкоголе, совсем как мондштадтское солнце. Коктейль особенно популярен среди парочек.",
+        "th": "มีรสชาติค่อนข้างหวาน เป็นเหล้าที่น่าดึงดูดใจ ตัวบอดี้ที่ดูใสๆ น้ำผลไม้ที่ตกลงมาช้าๆเหมือนเส้นแสงของพระอาทิตย์ที่กำลังตกดิน ได้รับความนิยมจากคู่รัก",
+        "vi": "Có vị ngọt, loại rượu có thể dùng để trưng bày. Trong nước rượu trong suốt, nước ép quả giống như ánh tà dương chầm chậm chiếu qua, rất được những cặp tình nhân yêu thích."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

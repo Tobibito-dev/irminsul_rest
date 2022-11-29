@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Udon Noodles",
+        "de": "Leckere Udon-Nudeln",
+        "chs": "美味的乌冬面",
+        "cht": "美味的烏龍麵",
+        "es": "Udon delicioso",
+        "fr": "Udon (délicieux)",
+        "id": "Delicious Udon Noodles",
+        "jp": "美味しそうなうどん",
+        "kr": "맛있는 우동",
+        "pt": "Macarrão Udon Delicioso",
+        "ru": "Вкусная лапша удон",
+        "th": "Udon Noodle แสนอร่อย",
+        "vi": "Mì Udon Ngon"
+    },
+    "id": 108379,
+    "materialDesc": {
+        "en": "Highly springy noodles. The snow-white, soft yet elastic udon, and the elegantly flavored soup combine to make a simple but comforting dish. The faintest scent of wheat may eventually travel down into your belly together with the sweet noodles, but the aftertaste of warmth will remain.",
+        "de": "Elastische Nudeln. Die weißen, zähen Udon-Nudeln und ihre sorgfältig zubereitete Brühe sorgen mit ihrem exquisiten Geschmack für gute Laune. Wenn der leichte Weizengeschmack und das milde Aroma der Nudeln in den Magen gelangen, verspürt man ein warmes und berauschendes Gefühl.",
+        "chs": "韧劲十足的面食。雪白柔韧的乌冬，加上清雅的汤汁，简单的美味却足以慰藉人心。淡淡的麦香随着柔软甘甜的面条一起滑入胃中，温暖的回味却漾上心头。",
+        "cht": "韌勁十足的麵食。雪白柔韌的烏龍麵，加上清雅的湯汁，簡單的美味卻足以慰藉人心。淡淡的麥香隨著柔軟甘甜的麵條一起滑入胃中，溫暖的回味卻漾上心頭。",
+        "es": "Unos fideos muy tenaces. Los fideos udon, blancos y tiernos, junto con su caldo de tan cuidada preparación, logran reconfortar el ánimo de las personas con su exquisito sabor. Cuando el ligero regusto a trigo y el suave sabor de los fideos entren en el estómago, sentirás una cálida y embriagadora sensación.",
+        "fr": "Des nouilles très élastiques. Les nouilles udon blanc neige, douces et élastiques à la fois, et la soupe élégamment parfumée se combinent pour donner un plat simple mais réconfortant. De légers effluves de blé peuvent éventuellement traverser votre estomac avec les nouilles sucrées, mais c'est un arrière-goût chaleureux qui reste en bouche.",
+        "id": "Jenis mi yang kenyal sekali. Udon yang putih, lembut dan kenyal bergabung dengan sup yang dibumbui secara elegan untuk menjadi hidangan sederhana namun menenangkan hati. Aroma gandum yang samar mungkin akan turun ke perutmu bersama dengan mi yang manis, tapi akan diikuti oleh sebuah rasa kehangatan.",
+        "jp": "歯ごたえのある麺類。雪のように白くてしなやかなうどんに、上品な淡い味わいのつゆを加えた。その素朴な美味しさは人々の心をいたわってくれる。ほのかな小麦の風味が甘くしなやかな麺と共に胃袋に滑り込み、温かい後味が心に沁みる。",
+        "kr": "쫄깃쫄깃한 면 요리. 하얗고 부드러운 우동면에 맑은 국물이 더해지면 평범하지만 위로가 되는 맛을 느낄 수 있다. 은은한 밀 향을 품은 부드럽고 감칠맛 나는 면이 목으로 넘어가고 나면 따뜻한 여운이 남는다",
+        "pt": "Macarrão com muita elasticidade. O udon branco como a neve, macio mas elástico, e o caldo de sabor requintado fazem uma combinação simples, mas reconfortante. O leve sabor do trigo desliza por sua garganta junto com o macarrão, deixando um palato quente duradouro.",
+        "ru": "Упругая лапша. Белая, нежная лапша удон, вместе с тщательно приготовленным бульоном, своим изысканным вкусом способна поднять настроение. Лёгкий аромат пшеницы и мягкая, сладкая лапша проникает в желудок, а тёплое послевкусие проникает в сердце.",
+        "th": "เมนูเส้นสุดเหนียวนุ่ม เส้นอูด้งที่เหนียวนุ่มขาวราวหิมะ ผสานเข้ากับน้ำซุปที่สุดประณีต เป็นรสชาติที่เรียบง่ายแต่ก็อร่อยพอที่จะปลอบโยนหัวใจของผู้คนได้ กลิ่นข้าวสาลีอ่อน ๆ ไหลเข้าไปกระเพาะพร้อมกับเส้นที่นุ่มและหวาน แต่รสชาติที่ตราตรึงอยู่ในใจนั้นอบอวลไปด้วยความอบอุ่น",
+        "vi": "Món mì sợi dai. Sợi mì udon trắng, dẻo dai hòa quyện với nước dùng được chế biến cẩn thận, giản dị mà ngon đến nao lòng. Hương thơm thoang thoảng của lúa mì len vào trong dạ dày cùng với sợi mì mềm ngọt, nhưng dư vị ấm áp vẫn tràn ngập trong lòng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

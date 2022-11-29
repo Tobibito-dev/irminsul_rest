@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cui'er's Letter to Chaoxi",
+        "de": "Cui’ers Brief an Chaoxi",
+        "chs": "翠儿写给潮汐的信",
+        "cht": "翠兒寫給潮汐的信",
+        "es": "Carta de Tsui'er a Chaoxi",
+        "fr": "Lettre de Cui'er à Chaoxi",
+        "id": "Surat Cui'er untuk Chaoxi",
+        "jp": "翠児から潮汐への手紙",
+        "kr": "취아가 조석에게 쓴 편지",
+        "pt": "Carta de Cui'er para Chaoxi",
+        "ru": "Письмо Цуй Эр для Чао Си",
+        "th": "จดหมายที่ Cui'er เขียนถึง Chaoxi",
+        "vi": "Thư Cui'er viết cho Chaoxi"
+    },
+    "id": 100600,
+    "materialDesc": {
+        "en": "A letter from Cui'er to her lover, Chaoxi. It's a rather long letter — presumably packed with page upon page of poignant prose about how much she longs to see him again.",
+        "de": "Ein Brief von Cui’er an ihren Geliebten Chaoxi. Der Umschlag ist ziemlich dick und scheint voller Liebeleien von Cui’er für ihren Schatz zu sein.",
+        "chs": "翠儿写给自己的恋人潮先生的信。信件很厚，应该是饱含着翠儿对这位潮先生的思念之情吧…",
+        "cht": "翠兒寫給自己的戀人潮先生的信。信件很厚，應該是飽含著翠兒對這位潮先生的思念之情吧…",
+        "es": "Una carta de Tsui'er para su amante, Chaoxi. Es una carta bastante larga, probablemente escrita en una conmovedora prosa con la que expresa su deseo de volver a verlo.",
+        "fr": "Lettre écrite par Cui'er à son amant Chaoxi. La missive est épaisse ; elle doit sûrement contenir l'expression des sentiments qui animent Cui'er...",
+        "id": "Surat dari Cui'er untuk kekasihnya, Chaoxi. Isinya sangat tebal - sepertinya setiap halaman surat ini penuh dengan perasaan rindu Cui'er yang ingin segera bertemu dengan kekasihnya.",
+        "jp": "翠児が書いた自分の恋人である潮への手紙。内容が多そうで、翠児の思い出がいっぱい含まれているだろう…",
+        "kr": "취아가 자신의 연인인 조석에게 쓴 편지. 편지가 두껍다. 조석을 향한 취아의 그리움이 가득 담긴듯하다…",
+        "pt": "Uma carta da Cui'er para o seu namorado, Chaoxi. É uma carta grande, cheia das saudades desse Chaoxi.",
+        "ru": "Любовное письмо Чао Си от Цуй Эр. Целая пачка листов, должно быть, пропитана душераздирающей прозой о тоске по возлюбленному.",
+        "th": "จดหมายที่ Cui'er เขียนถึงคุณ Chaoxi คนรักของเธอ จดหมายนั้นหนามากน่าจะเต็มไปด้วยความคิดถึงที่ Cui'er มีต่อคุณ Chaoxi ล่ะมั้ง...",
+        "vi": "Bức thư Cui'er viết cho người yêu Chao của mình. Bức thư rất dày, thể hiện được tình cảm sâu sắc mà cô dành cho ngài Chao..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Scholar's Clock",
+        "de": "Gelehrtentischuhr",
+        "chs": "学士的时钟",
+        "cht": "學士的時鐘",
+        "es": "Reloj de la Erudita",
+        "fr": "Horloge de l'Érudit",
+        "id": "Scholar's Clock",
+        "jp": "学者の時計",
+        "kr": "학사의 탁상시계",
+        "pt": "Relógio do Estudioso",
+        "ru": "Часы учёного",
+        "th": "Scholar's Clock",
+        "vi": "Đồng Hồ Học Sĩ"
+    },
+    "id": 62554,
+    "setId": 10012,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

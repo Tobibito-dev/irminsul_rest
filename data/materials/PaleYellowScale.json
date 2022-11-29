@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pale Yellow Scale",
+        "de": "Gelbliche Fischschuppe",
+        "chs": "浅黄色的鱼鳞",
+        "cht": "淺黃色的魚鱗",
+        "es": "Escama de pez amarilla clara",
+        "fr": "Écaille jaune clair",
+        "id": "Sisik Ikan Kuning Muda",
+        "jp": "鬱金のうろこ",
+        "kr": "연노란빛 비늘",
+        "pt": "Escama de Peixe Amarela Clara",
+        "ru": "Светло-жёлтая чешуя",
+        "th": "เกล็ดปลาสีเหลืองอ่อน",
+        "vi": "Vảy Cá Màu Vàng Nhạt"
+    },
+    "id": 100823,
+    "materialDesc": {
+        "en": "A pale yellow scale obtained from a fish in the sea. Gazing upon it for a long time, you are reminded of autumn.",
+        "de": "Eine gelbliche Schuppe von einem Meeresfisch. Wenn du sie lange genug ansiehst, erinnert sie dich an den Herbst.",
+        "chs": "从海中游鱼身上取得的浅黄色鳞片。长时间看着它的话，似乎会联想到与秋天有关的事物。",
+        "cht": "從海中游魚身上取得的淺黃色鱗片。長時間看著它的話，似乎會聯想到與秋天有關的事物。",
+        "es": "Una escama de color amarillo claro procedente de un pez. Si la miras durante mucho tiempo, a la cabeza se te vendrán imágenes del otoño.",
+        "fr": "Une écaille jaune clair obtenue sur un poisson de l'océan. La contempler vous rappelle l'automne.",
+        "id": "Sisik kuning muda yang diambil dari ikan di laut. Kalau melihat sisik ini selama beberapa waktu, kamu serasa bisa memikirkan hal-hal yang berhubungan dengan musim gugur.",
+        "jp": "海を泳ぐ魚から得られる鬱金のうろこ。長く見つめると秋の風物を感じることができる。",
+        "kr": "바닷속 물고기에서 얻은 연노란빛 비늘. 오랫동안 보고 있으면 가을과 관련된 물건이 생각난다",
+        "pt": "Escama amarela clara obtida nos peixes nadando no mar. Se fixar seus olhos nela por um bom tempo, coisas relacionadas ao outono vêm a sua mente.",
+        "ru": "Светло-жёлтая чешуя морской рыбы. Если долго смотреть на неё, то на ум приходят образы осени.",
+        "th": "เกล็ดสีเหลืองอ่อนที่นำมาจากปลากลางทะเล หากจ้องมองดูเป็นเวลานานล่ะก็ ดูเหมือนว่าจะทำให้นึกถึงสิ่งที่เกี่ยวข้องกับฤดูใบไม้ร่วง",
+        "vi": "Vảy màu vàng nhạt của cá biển. Nhìn nó hồi lâu sẽ liên tưởng đến mùa thu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

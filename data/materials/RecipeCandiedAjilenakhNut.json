@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Candied Ajilenakh Nut",
+        "de": "Rezept: Honigdatteln",
+        "chs": "食谱：枣椰蜜糖",
+        "cht": "食譜：棗椰蜜糖",
+        "es": "Receta: Dátiles caramelizados",
+        "fr": "Recette : Nougat d'ajilenakh",
+        "id": "Resep: Candied Ajilenakh Nut",
+        "jp": "レシピ：ナツメヤシキャンディ",
+        "kr": "레시피: 대추야자 사탕",
+        "pt": "Receita: Doce de Mel com Tâmaras",
+        "ru": "Рецепт: Засахаренные орехи аджиленах",
+        "th": "สูตรอาหาร: Candied Ajilenakh Nut",
+        "vi": "Công Thức: Ajilenakh Ngào Đường"
+    },
+    "id": 109513,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Candied Ajilenakh Nut.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Honigdatteln“.",
+        "chs": "步骤详实的食谱，记载着「枣椰蜜糖」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「棗椰蜜糖」的製作方法。",
+        "es": "Receta paso a paso para hacer dátiles caramelizados.",
+        "fr": "Étapes de préparation du nougat d'ajilenakh.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Candied Ajilenakh Nut.",
+        "jp": "「ナツメヤシキャンディ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「대추야자 사탕」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Doce de Mel com Tâmaras.",
+        "ru": "Подробный рецепт приготовления блюда «Засахаренные орехи аджиленах».",
+        "th": "สูตรอธิบายวิธีทำ \"Candied Ajilenakh Nut\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Ajilenakh Ngào Đường\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

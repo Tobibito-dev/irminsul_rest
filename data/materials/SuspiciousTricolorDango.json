@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Tricolor Dango",
+        "de": "Misslungene dreifarbige Klößchen",
+        "chs": "奇怪的三彩团子",
+        "cht": "奇怪的三彩糰子",
+        "es": "Dango tricolor extraño",
+        "fr": "Dango trois couleurs (suspect)",
+        "id": "Suspicious Tricolor Dango",
+        "jp": "微妙な三色団子",
+        "kr": "이상한 삼색 경단",
+        "pt": "Dango de Três Cores Estranho",
+        "ru": "Странное трёхцветное данго",
+        "th": "Tricolor Dango รสประหลาด",
+        "vi": "Dango Ba Màu Kỳ Lạ"
+    },
+    "id": 108252,
+    "materialDesc": {
+        "en": "A soft, glutinous snack. One suspects a lack of water used in the cooking process as the culprit in the cracks all over this dish. Don't force it down your throat, or you might just choke...",
+        "de": "Ein weicher, klebriger Snack. Man vermutet, dass der Mangel an Wasser während des Kochens der Grund für die Risse in diesem Gericht ist. Zwinge es nicht in deine Kehle, sonst könntest du ersticken ...",
+        "chs": "软糯弹牙的点心。或许是制作过程中水分不足，表面居然隐约有些裂纹。勉强吃下去的话，可能会被噎着…",
+        "cht": "軟糯彈牙的點心。或許是製作過程中水分不足，表面居然隱約有些裂紋。勉強吃下去的話，可能會被噎到…",
+        "es": "Un suave y glutinoso aperitivo dulce. Su superficie está algo resquebrajada, tal vez debido a la falta de agua en el proceso de cocinado. Ten cuidado si te lo comes, podrías atragantarte...",
+        "fr": "Une collation sucrée et gluante. On soupçonne un manque d'eau lors du processus de cuisson qui a causé des fissures un peu partout. Si vous l'enfournez un peu trop rapidement, vous risquez de vous étouffer...",
+        "id": "Camilan dari ketan yang kenyal. Mungkin kandungan air saat pembuatan tidak cukup sehingga terdapat beberapa retakan di permukaannya. Jangan memaksakan diri untuk memakannya kalau tidak ingin tersedak...",
+        "jp": "柔らかで歯ごたえのある菓子。作る時に水分が不足してしまい、表面にひび割れが生じたようだ。無理に口に入れたら、窒息する恐れがある…",
+        "kr": "말캉하고 쫀득쫀득한 디저트. 제작 과정에서 수분이 부족했던 탓일까, 표면이 희미하게 갈라졌다. 억지로 먹는다면 목이 멜 수도…",
+        "pt": "Um lanche macio e glutinoso. Suspeita-se que a falta de água no cozimento seja responsável pelas rachaduras em todo este prato. Não o force garganta abaixo, ou você pode sufocar...",
+        "ru": "Мягкая и вязкая закуска. Кажется, во время приготовления добавили слишком мало воды, и поэтому шарики потрескались. Не сильтесь их проглотить, иначе подавитесь...",
+        "th": "ขนมเหนียวนุ่ม อาจเป็นเพราะความชื้นไม่เพียงพอในระหว่างกระบวนการผลิตจึงทำให้มีรอยแตกจาง ๆ บนพื้นผิว ถ้าเคี้ยวไม่ดีอาจจะติดคอได้ ...",
+        "vi": "Món điểm tâm mềm và dẻo. Có lẽ trong lúc làm đã cho không đủ nước nên viên bột có phần nứt nẻ. Nếu nhắm mắt ăn bừa thì coi chừng bị nghẹn..."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

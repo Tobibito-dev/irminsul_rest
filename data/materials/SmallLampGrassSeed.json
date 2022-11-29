@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Small Lamp Grass Seed",
+        "de": "Lampenkrautsamen",
+        "chs": "「小灯草」的种子",
+        "cht": "「小燈草」的種子",
+        "es": "Semilla de lucetta",
+        "fr": "Graine d'herbe à lampe",
+        "id": "Small Lamp Grass Seed",
+        "jp": "「イグサ」の種",
+        "kr": "「등불꽃」 씨앗",
+        "pt": "Semente de Lâmpada de Grama",
+        "ru": "Семена травы-светяшки",
+        "th": "Small Lamp Grass Seed",
+        "vi": "Hạt Giống Tiểu Đăng Thảo"
+    },
+    "id": 130009,
+    "materialDesc": {
+        "en": "A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Small Lamp Grass.",
+        "de": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus Lampenkraut.",
+        "chs": "通过「化种匣」获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「小灯草」。",
+        "cht": "透過「化種匣」獲得的種子，富有活力，品質上佳，種植於壺中洞天的田畝後，可在一段時間後生長為「小燈草」。",
+        "es": "Una semilla de buena calidad y llena de vitalidad obtenida del Semillero. Si la plantas en los campos del mundo interior de tu Relajatetera, tras cierto tiempo brotará una lucetta.",
+        "fr": "Une graine obtenue dans la boîte à graines. Une graine de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra une herbe à lampe.",
+        "id": "Benih yang didapatkan dari Seed Dispensary. Benih yang berkualitas dan penuh vitalitas sedang menantikan dirinya untuk ditanam di ladang di dalam Alam Poci. Setelah beberapa waktu, benih ini akan tumbuh menjadi \"Small Lamp Grass\".",
+        "jp": "「種の匣」で入手した種。生命力が強く品質も高い。「壺洞天」の田んぼに植え、時間が経つと「イグサ」に成長する。",
+        "kr": "「씨앗 함」을 통해 획득한 씨앗. 생명력이 넘치며 품질이 우수하다. 주전자 속 선계의 논밭에 재배하면 일정 시간 후 「등불꽃」으로 성장한다",
+        "pt": "Uma semente obtida pela Caixa de Sementificação. Está cheia de vida e é de excelente qualidade. Depois de ser plantada no Bule de Relachá e esperar um certo tempo, crescerá em uma Lâmpada de Grama.",
+        "ru": "Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время выросла трава-светяшка.",
+        "th": "เมล็ดพันธุ์ที่ได้จาก \"Seed Dispensary\" ที่เต็มไปด้วยความมีชีวิตชีวาและมีคุณภาพดี หลังจากที่ปลูกบนทุ่งกว้างของอาณาจักรในกาน้ำชาแล้ว ก็สามารถเติบโตเป็น Small Lamp Grass ได้ หลังจากเวลาผ่านไประยะหนึ่ง",
+        "vi": "Hạt giống nhận từ Hộp Hạt Giống, đầy sức sống, chất lượng tốt, sau khi trồng ở Thế Giới Trong Ấm, sẽ mọc thành \"Tiểu Đăng Thảo\"."
+    },
+    "materialType": "MATERIAL_HOME_SEED"
+}

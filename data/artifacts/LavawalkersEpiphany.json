@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lavawalker's Epiphany",
+        "de": "Erleuchtung des Lavaläufers",
+        "chs": "渡火者的醒悟",
+        "cht": "渡火者的醒悟",
+        "es": "Despertar del Corredor de Lava",
+        "fr": "Éveil du Marcheur du feu",
+        "id": "Lavawalker's Epiphany",
+        "jp": "火渡りの悟り",
+        "kr": "불 위를 걷는 자의 깨달음",
+        "pt": "Despertamento do Corredor de Lava",
+        "ru": "Просветление ступающего по лаве",
+        "th": "Epiphany of Lavawalker",
+        "vi": "Sự Tỉnh Ngộ Của Người Vượt Lửa"
+    },
+    "id": 23436,
+    "setId": 14003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

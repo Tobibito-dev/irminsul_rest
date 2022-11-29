@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Business Earnings",
+        "de": "Betriebseinnahmen",
+        "chs": "营业收入",
+        "cht": "營業收入",
+        "es": "Ingresos",
+        "fr": "Revenu commercial",
+        "id": "Pendapatan Usaha",
+        "jp": "営業収入",
+        "kr": "영업 매출",
+        "pt": "Fundos",
+        "ru": "Выручка",
+        "th": "รายได้จากการประกอบกิจการ",
+        "vi": "Doanh Thu"
+    },
+    "id": 148,
+    "materialDesc": {
+        "en": "A sizable amount of Fairbrew Jelly, representing the sum total of your earnings in this charity event. As the Weinlesefest draws to a close, Bernhard will exchange these for Mora to give to old folks and children who need it.",
+        "de": "Eine beachtliche Menge „Weingelee“. Es ist das Gesamtergebnis des Wohltätigkeitsverkaufs. Zum Schlussakkord des „Weinlesefests“ wird Bernhard diese gegen Mora eintauschen und den bedürftigen Alten und Kindern spenden.",
+        "chs": "数量可观的「佳酿晶冻」，是义卖活动的收入总额。「归风佳酿节」临近尾声时，伯恩哈德会将这些「佳酿晶冻」兑换成摩拉，捐献给有需要的老人和孩子。",
+        "cht": "數量可觀的「佳釀晶凍」，是義賣活動的收入總額。「歸風佳釀節」臨近尾聲時，伯恩哈德會將這些「佳釀晶凍」兌換成摩拉，捐獻給有需要的老人和孩子。",
+        "es": "Una cantidad considerable de néctares cristalizados que representa la suma total de tus ganancias durante la venta benéfica. Cuando el Festival de la Vendimia llegue a su fin, Bernhard lo intercambiará por Moras para donarlo a los ancianos y niños más necesitados.",
+        "fr": "Une quantité considérable de gelées de cru, représentant la somme totale de vos gains lors de cette vente caritative. Lorsque le Weinlesefest touchera à sa fin, Bernhard les échangera contre des moras pour les donner aux personnes âgées et aux enfants dans le besoin.",
+        "id": "Fairbrew Jelly dengan jumlah yang lumayan, mewakili jumlah pendapatan dalam acara penjualan amal. Saat event Weinlesefest hampir berakhir, Bernhard akan menukarkan Fairbrew Jelly ini dengan Mora untuk diberikan kepada orang tua dan anak-anak yang membutuhkan.",
+        "jp": "大量の「ブリューゼリー」は、チャリティーショップの収入総額。「ブリーズブリュー祭」が終わりに近づいてくると、ベルンハルトはこれらの「ブリューゼリー」をモラに交換し、これを必要とする老人や子供に寄付する。",
+        "kr": "상당한 수량의 「와인 젤리」, 자선 판매 행사의 총수입이다. 「돌아온 바람의 와인 축제」가 끝날 무렵에 베른하르트는 이 「와인 젤리」들을 모라로 교환해 도움이 필요한 노인과 아이들에게 기부할 예정이다",
+        "pt": "Uma quantidade considerável de \"Geleias de Vinho\", representando o total de sua arrecadação nesta venda beneficente. Com o encerramento do Festvinho, Bernhard irá trocar as Geleias de Vinho por Mora e entregar para os idosos e crianças mais necessitados.",
+        "ru": "Значительное количество винного студня, то есть вашего дохода в этом благотворительном мероприятии. Ближе к окончанию Праздника вина Бернхард обменяет студень на мору, которую отдаст нуждающимся детям и старикам.",
+        "th": "\"Fairbrew Jelly\" จำนวนหนึ่ง ซึ่งเป็นรายได้รวมของกิจกรรมออกร้านการกุศล ในช่วงท้ายของ \"เทศกาลหมักไวน์ Weinlesefest\" Bernhard จะใช้ \"Fairbrew Jelly\" เหล่านี้ แลกเปลี่ยนเป็น Mora เพื่อนำไปบริจาคให้แก่คนชราและเด็ก ๆ ที่ต้องการความช่วยเหลือ",
+        "vi": "Số lượng \"Pha Lê Fairbrew\" là tổng thu nhập của hoạt động bán hàng từ thiện. Vào cuối \"Mùa Gió Rượu Giao Hòa\", Bernhard sẽ đem số \"Pha Lê Fairbrew\" này đổi lấy Mora, và tặng cho người già trẻ em có hoàn cảnh khó khăn."
+    },
+    "materialType": false
+}

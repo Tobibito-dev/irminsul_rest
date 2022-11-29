@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fischl",
+        "de": "Fischl",
+        "chs": "菲谢尔",
+        "cht": "菲謝爾",
+        "es": "Fischl",
+        "fr": "Fischl",
+        "id": "Fischl",
+        "jp": "フィッシュル",
+        "kr": "피슬",
+        "pt": "Fischl",
+        "ru": "Фишль",
+        "th": "Fischl",
+        "vi": "Fischl"
+    },
+    "id": 1031,
+    "materialDesc": {
+        "en": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+        "de": "Ein merkwürdiges Mädchen, das sich selbst als die „Prinzessin der Verurteilung“ bezeichnet und vom Nachtraben Oz begleitet wird.",
+        "chs": "自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。",
+        "cht": "自稱「斷罪之皇女」，與名為奧茲的漆黑夜鴉同行的神祕少女。",
+        "es": "Una chica misteriosa que se hace llamar “Princesa del Juicio”. Siempre camina junto con un cuervo oscuro llamado Oz.",
+        "fr": "Une fille mystérieuse qui se fait appeler « la Princesse du châtiment ». Elle est toujours accompagnée de son fidèle corbeau nocturne, Oz.",
+        "id": "Seorang gadis misterius yang menyebut dirinya sendiri \"Prinzessin der Verurteilung\", dia selalu terlihat bersama dengan seekor gagak hitam yang bernama Oz.",
+        "jp": "自称「断罪の皇女」。オズという漆黒の鴉とともに行動する謎の少女。",
+        "kr": "자신을 「단죄의 황녀」라고 부르며, 오즈라는 이름의 검은 까마귀를 데리고 다니는 신비한 소녀이다",
+        "pt": "Uma mulher misteriosa que se autointitula \"Princesa dos Pecados\" e viaja com um corvo chamado Oz.",
+        "ru": "Таинственная девушка, называющая себя «Принцессой осуждения» и путешествующая в сопровождении ворона по имени Оз.",
+        "th": "หญิงสาวลึกลับผู้เรียกตนเองว่า \"เจ้าหญิงแห่งการลงทัณฑ์\" ร่วมเดินทางไปพร้อมกับเรเวนนามว่า Oz",
+        "vi": "Tự xưng là [Công Chúa Định Tội], thiếu nữ thần bí đồng hành cùng chú quạ đen tên Oz."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

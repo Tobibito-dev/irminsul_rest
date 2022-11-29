@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sun-Dried Sweet Flower",
+        "de": "Sonnengetrocknete Zuckerblume",
+        "chs": "晒干的甜甜花",
+        "cht": "曬乾的甜甜花",
+        "es": "Flor dulce seca",
+        "fr": "Fleur sucrante séchée au soleil",
+        "id": "Sweet Flower Kering",
+        "jp": "天日干しされたスイートフラワー",
+        "kr": "말린 달콤달콤꽃",
+        "pt": "Flor Doce Seca",
+        "ru": "Высушенный на солнце цветок-сахарок",
+        "th": "Sun-Dried Sweet Flower",
+        "vi": "Hoa Ngọt Phơi Khô"
+    },
+    "id": 100949,
+    "materialDesc": {
+        "en": "A dried flower from Hanayama Kaoru. It was the first flower to grow in that brand-new floral sea.",
+        "de": "Eine getrocknete Blume von Hanayama Kaoru. Sie war die erste Blume, die in diesem brandneuen Blumenmeer gewachsen ist.",
+        "chs": "从叶名山薰处获得的干花。这朵甜甜花，也是那片全新的花海中长出的第一朵花。",
+        "cht": "從葉名山薰處獲得的乾花。這朵甜甜花，也是那片全新的花海中長出的第一朵花。",
+        "es": "Una flor dulce seca obtenida de Hanayama Kaoru. Fue la primera flor que creció en este nuevo mar de flores.",
+        "fr": "Une fleur séchée de Hanayama Kaoru. C'était la première fleur à pousser dans cette toute nouvelle mer florale.",
+        "id": "Bunga kering dari Hanayama Karou. Bunga ini adalah bunga pertama yang tumbuh di lautan bunga baru itu.",
+        "jp": "葉名山薫からもらったドライフラワー。このスイートフラワーは、その花の海に咲いた最初の花である。",
+        "kr": "하나야마 카오루에서 획득한 말린꽃. 이 달콤달콤꽃은 새로운 꽃바다에서 자라난 첫 번째 꽃이기도 하다",
+        "pt": "Uma flor seca de Hanayama Kaoru. Foi a primeira flor a crescer naquele novo mar de flores.",
+        "ru": "Сухой цветок от Ханаямы Каору. Это первый цветок, выросший в новом море цветов.",
+        "th": "ดอกไม้ตากแห้งจาก Hanayama Kaoru นอกจากนี้ Sweet Flower ดอกนี้ยังเป็นดอกไม้ดอกแรกที่ขึ้นในทุ่งดอกไม้แห่งใหม่แห่งนั้นอีกด้วย",
+        "vi": "Hoa khô nhận được từ chỗ Hanayama Kaoru. Đóa Hoa Ngọt này cũng là đóa hoa đầu tiên mọc lên trong biển hoa mới đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

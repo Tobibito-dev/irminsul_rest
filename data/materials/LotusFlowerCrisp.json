@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lotus Flower Crisp",
+        "de": "Knusperlotos",
+        "chs": "莲花酥",
+        "cht": "蓮花酥",
+        "es": "Estrellitas de loto",
+        "fr": "Beignets lotus",
+        "id": "Lotus Flower Crisp",
+        "jp": "ハスの花パイ",
+        "kr": "연꽃 파이",
+        "pt": "Bolinho de Flor Lótus",
+        "ru": "Печенье лотоса",
+        "th": "Lotus Flower Crisp",
+        "vi": "Bánh Hoa Sen"
+    },
+    "id": 108162,
+    "materialDesc": {
+        "en": "One of Liyue's traditional snacks. Sweet stuffed lotus wrapped in a crispy, deep-fried crust. Its layers of flower petals unravel perfectly in the palm of your hand.",
+        "de": "Eines der traditionellen Gebäcke von Liyue. In der knusprigen Hülle aus frittiertem dünnem Teig befindet sich eine leckere süße Füllung. Es sieht aus, als würde eine hübsche Blüte in deiner Hand erblühen.",
+        "chs": "璃月的传统点心之一。以面粉制的水油皮包裹油酥，嵌入香甜内馅炸制而成。花瓣层层绽开，捧于掌心，美轮美奂。",
+        "cht": "璃月的傳統點心之一。以麵粉製的水油皮包裹油酥，嵌入香甜內餡穌炸而成。花瓣層層綻開，捧於掌心，美輪美奐。",
+        "es": "Uno de los dulces típicos de Liyue. Su relleno dulce está recubierto de una masa de harina, agua y aceite que se fríe hasta que queda crujiente. Los pétalos se abren de uno en uno cuando se sostiene en la palma de la mano.",
+        "fr": "L'une des spécialités de Liyue. Sa garniture sucrée est recouverte d'une pâte de farine, d'eau et d'huile qui est frite jusqu'à ce qu'elle soit croustillante. Les pétales s'ouvrent un à un lorsqu'ils sont tenus dans la paume de la main.",
+        "id": "Salah satu hidangan penutup tradisional Liyue. Lotus manis yang dibungkus dengan kerak tepung goreng yang renyah. Lapisan kelopak bunganya terurai sempurna di telapak tanganmu.",
+        "jp": "璃月の伝統点心の1つ。油と粉を混ぜて甘い餡を入れたら、小麦粉の皮で包んで揚げると完成。花のように咲いていて、手のひらにのせると実に美しい。",
+        "kr": "리월의 전통 디저트. 밀가루로 얇고 바삭바삭한 피를 만들어 안에 달콤한 소를 넣고 튀겨서 만든다. 꽃입이 펼쳐진 듯한 모양도 아름답다",
+        "pt": "Um dos lanches de Liyue. O recheio doce é envolvido por uma massa de farinha, água e azeite que é fritada até ficar crocante. Suas pétalas se abrem perfeitamente na palma da mão.",
+        "ru": "Традиционная закуска из Ли Юэ. Ароматная и сладкая начинка завёрнута в тонкое слоёное тесто. Лепестки выложены слой за слоем и идеально лежат в вашей руке.",
+        "th": "หนึ่งในขนมที่สืบทอดกันมาของ Liyue ไส้หวานที่ห่อด้วยแป้ง และนำไปทอดในน้ำมันจนกรอบ ซึ่งกลีบดอกไม้แต่ละชั้น จะเปิดออกอย่างงดงาม เมื่อถือไว้ในมือ",
+        "vi": "Một trong những món điểm tâm truyền thống ở Liyue. Món bánh chiên làm từ bột, bên trong là nhân ngọt. Từng cánh hoa nở rộ, nếu đặt vào lòng bàn tay sẽ thấy được sự hấp dẫn của nó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

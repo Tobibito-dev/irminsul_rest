@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cargo Transfer Station",
+        "de": "Frachtumschlagplatz",
+        "chs": "货运中转地",
+        "cht": "貨運中轉地",
+        "es": "Estación de logística",
+        "fr": "Station de transfert de marchandises",
+        "id": "Area Pemindahan Barang",
+        "jp": "輸送の中継地",
+        "kr": "운송 중계지",
+        "pt": "Estação de Transferência de Carga",
+        "ru": "Перевалочный пункт",
+        "th": "สถานที่ขนส่งสินค้า",
+        "vi": "Khu Trung Chuyển Hàng Hóa"
+    },
+    "id": 350023,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up a Cargo Transfer Station.\\nA transit point for moving goods from place to place. Beside the piled-high cargo crates and wooden barrels are drinks prepared for the workers.\\nThough common bottles and jugs are quite sturdy nowadays, they will still break easily if squashed under a very heavy object. Thus, the workers have always hoped that their foreman might get a cupboard of some sort, rather than leave the bottles on the ground.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Frachtumschlagplatz“.\\nEin Transitpunkt für den Warentransport von Ort zu Ort. Neben den hoch aufgetürmten Frachtkisten und Holzfässern stehen Getränke für die Arbeiter bereit.\\nAuch wenn gewöhnliche Flaschen und Krüge heutzutage recht stabil sind, zerbrechen sie immer noch leicht, wenn sie unter einem sehr schweren Gegenstand zerquetscht werden. Daher haben die Arbeiter immer gehofft, dass ihr Vorarbeiter eine Art Schrank besorgen würde, anstatt die Flaschen auf dem Boden zu lassen.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「货运中转地」的放置方法。\\n运输货物的中转地，堆叠的货箱和木桶旁，摆放着为工人准备的饮品。\\n虽说如今流通的陶制瓶罐都很结实，但被重物碾压磕碰，还是很容易破碎，因此工人们一直希望管理者准备一个橱柜，而不是将瓶罐放在地上。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「貨運中轉地」的放置方法。\\n運輸貨物的中轉地，堆疊的貨箱和木桶旁，擺放著為工人準備的飲品。\\n雖說如今流通的陶製瓶罐都很結實，但被重物碾壓磕碰，還是很容易破碎，因此工人們一直希望管理者準備一個櫥櫃，而不是將瓶罐放在地上。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar una Estación de logística.\\nUn punto de tránsito para transportar mercancías de un lugar a otro. Además de los montones de cajas y los barriles de madera, también tiene bebidas a disposición de los trabajadores.\\nAunque las botellas y vasijas de porcelana tan populares hoy en día son muy resistentes, se rompen fácilmente si las aplasta un objeto más pesado. Por ello, algunos trabajadores siempre han tenido la esperanza de que su gerente les diera un armario para no tener que poner las botellas en el suelo.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place de la station de transfert de marchandises.\\nUn point de transit pour les marchandises qui sont en déplacement d'un endroit à un autre. Les caisses de chargement empilées et les tonneaux en bois sont entreposés près des boissons des travailleurs.\\nLes bouteilles et les cruches ont beau être solides à l'heure actuelle, elles cassent toujours sous le poids d'un objet très lourd. C'est pourquoi les travailleurs ont toujours eu l'espoir d'obtenir une étagère de la part de leur contremaître pour éviter de laisser les bouteilles à même le sol.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Area Pemindahan Barang\".\\nSebuah area transit untuk memindahkan barang dari satu tempat ke tempat lain. Di samping kotak-kotak barang dan gentong kayu yang menjulang tinggi, ada minuman untuk para pekerja.\\nMeskipun botol dan gelas keramik cukup kokoh, mereka tetap mudah hancur jika tertekan benda berat. Maka para pekerja selalu berharap mereka bisa mendapatkan sebuah rak cangkir atau sejenisnya daripada meletakkan botol-botolnya di lantai.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「輸送の中継地」の詳しい配置方法が載っている設計図。\\n貨物輸送の中継地。積み上げられた木箱や木樽が並び、作業員の飲み物が用意されている。\\n現在流通している陶製の入れ物は頑丈だとはいえ、重いものを乗っけたりぶつけたりすると、やはり簡単に割れてしまう。作業員は床に置いた陶製の入れ物ではなく、ちゃんとした棚を用意してほしいと願っている。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「운송 중계지」의 설치 방법이 기재되어 있다.\\n화물 운송을 위한 환승 지점, 쌓인 화물 상자와 나무통 옆에 작업자를 위한 음료를 배치하고 있다.\\n오늘 유통되는 도자기병은 매우 튼튼하지만 무거운 물건에 깨지기 쉽다. 따라서 작업자들이 병과 캔을 바닥에 두지 않도록 관리자에게 캐비닛을 구비해 주길 부탁했다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Estação de Transferência de Carga\".\\nUm ponto de transporte para a movimentação de mercadorias de um lugar para outro. Além das caixas de carga empilhadas e dos barris de madeira, bebidas são preparadas para os trabalhadores.\\nEmbora as garrafas e jarras comuns sejam bastante robustas hoje em dia, elas ainda se quebram facilmente se forem esmagadas sob um objeto muito pesado. Assim, os trabalhadores sempre sonharam que seu capataz pudesse conseguir um armário de algum tipo, em vez de deixar as garrafas no chão.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Перевалочный пункт».\\nТранспортный пункт для перевозки грузов из одного места в другое. Рядом с ящиками и бочками приготовлены напитки для рабочих.\\nНесмотря на то, что сосуды и кувшины в наши дни достаточно прочные, они всё равно легко ломаются под тяжестью грузов. Поэтому рабочие всегда мечтали о том, что их начальник получит какой-нибудь шкафчик вместо того, чтобы оставлять кувшины на земле.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"สถานที่ขนส่งสินค้า\" \\nจุดเชื่อมต่อสำหรับการขนส่งสินค้า ข้างกล่องสินค้าที่ซ้อนกันและถังไม้มีเครื่องดื่มที่เตรียมไว้สำหรับคนงาน \\nถึงแม้ว่าขวดและโถกระเบื้องในปัจจุบันจะมีความแข็งแรงมาก แต่หาถูกบดด้วยวัตถุที่มีน้ำหนักมากก็อาจจะแตกได้ ดังนั้นคนงานจึงหวังว่าผู้ดูแลจะเตรียมตู้ไว้ให้ แทนที่จะวางขวดและกระป๋องลงบนพื้น\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Khu Trung Chuyển Hàng Hóa\".\\nĐiểm trung chuyển để vận chuyển hàng hóa, bên cạnh rương hàng và thùng gỗ chất đống là thức uống cho công nhân.\\nMặc dù những chiếc bình gốm sứ đang thịnh hành rất bền, nhưng bị vật nặng đè lên vẫn rất dễ vỡ, vì vậy các công nhân luôn mong quản lý chuẩn bị một chiếc tủ thay vì vứt lung tung dưới đất.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

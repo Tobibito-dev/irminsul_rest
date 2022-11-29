@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guy's Letter",
+        "de": "Guys Brief",
+        "chs": "盖伊的信",
+        "cht": "蓋伊的信",
+        "es": "Carta de Guy",
+        "fr": "Lettre de Guy",
+        "id": "Surat Guy",
+        "jp": "ゲイルの手紙",
+        "kr": "가이의 편지",
+        "pt": "Carta de Guy",
+        "ru": "Письмо Гая",
+        "th": "จดหมายของ Guy",
+        "vi": "Thư Của Guy"
+    },
+    "id": 100356,
+    "materialDesc": {
+        "en": "A letter from Guy to his father sealed as per regulation of the Knights of Favonius. It is tightly sealed to deter influence of rain and perplexity.",
+        "de": "Ein Brief von Guy an seinen Vater mit dem Siegel des Ordo Favonius. Er ist fest verschlossen und beschützt seinen Inhalt. Selbst vor Wind und Wetter ist er gut geschützt.",
+        "chs": "盖伊写给父亲的信，以西风骑士团的方式牢牢封住。封得严严实实，努力保护着内面的信件，不受风雨和迷惘的侵扰。",
+        "cht": "蓋伊寫給父親的信，以西風騎士團的方式牢牢封住。封得嚴嚴實實，努力保護著內面的信件，不受風雨和迷惘的侵擾。",
+        "es": "Una carta de Guy a su padre con el sello característico de los Caballeros de Favonius. Está herméticamente cerrado para prevenir la lluvia y las miradas indiscretas.",
+        "fr": "Une lettre de Guy à son père, portant le sceau de l'Ordre de Favonius. Elle est bien scellée pour en protéger le contenu des avaries.",
+        "id": "Sebuah surat dari Guy untuk ayahnya. Surat ini disegel rapat-rapat atas regulasi Knights of Favonius, agar tidak basah terkena hujan, dan tidak menimbulkan kebingungan.",
+        "jp": "ゲイルが父親に書いた手紙、西風騎士団独特な封じ方を使ったため、中の手紙は雨に濡れる心配はない。",
+        "kr": "가이가 아버지에게 쓴 편지. 페보니우스 기사단의 도장으로 밀봉되어 있다. 봉투 속의 편지를 비바람과 예상치 못한 상황으로부터 보호하도록 단단히 밀봉되어 있다",
+        "pt": "Uma carta de Guy a seu pai, selada de acordo com o regulamento dos Cavaleiros de Favonius. Está hermeticamente fechado para impedir a influência da chuva e espiadas indevidas.",
+        "ru": "Письмо от Гая к своему отцу. Крепко запечатано согласно уставу Ордо Фавониус. Письму теперь не страшны ни грязь, ни дождь.",
+        "th": "จดหมายที่ Guy เขียนถึงคุณพ่อ ตัวจดหมายถูกผนึกไว้อย่างแน่นหนาตามสไตล์ของกองอัศวินแห่ง Favonius ซองจดหมายที่ปิดผนึกไว้อย่างดีนั้นทำหน้าที่ปกป้องจดหมายที่อยู่ข้างในอย่างขยันขันแข็งโดยไม่ให้ถูกคุกคามจากทั้งลมและฝน",
+        "vi": "Bức thư Guy viết cho bố, dùng cách của Đội Kỵ Sĩ Tây Phong gói kỹ, cố gắng bảo vệ nội dung bên trong thư khỏi gió mưa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

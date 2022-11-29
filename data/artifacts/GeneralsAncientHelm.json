@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "General's Ancient Helm",
+        "de": "Generalshelm",
+        "chs": "将帅兜鍪",
+        "cht": "將帥兜鍪",
+        "es": "Yelmo Vetusto del General",
+        "fr": "Ancien heaume de Général",
+        "id": "General's Ancient Helm",
+        "jp": "将帥の兜",
+        "kr": "장수의 투구",
+        "pt": "Capacete do Comandante",
+        "ru": "Древний шлем генерала",
+        "th": "General's Ancient Helm",
+        "vi": "Nón Nguyên Soái"
+    },
+    "id": 24703,
+    "setId": 15017,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Mondstadt Grilled Fish",
+        "de": "Besonderer gegrillter Fischspieß",
+        "chs": "特制的蒙德烤鱼",
+        "cht": "特製的蒙德烤魚",
+        "es": "Pescado a la parrilla de Mondstadt especial",
+        "fr": "Poisson grillé mondstadtois spécial",
+        "id": "Mondstadt Grilled Fish Spesial",
+        "jp": "特製モンド風焼き魚",
+        "kr": "특제 몬드 생선구이",
+        "pt": "Peixe Grelhado de Mondstadt Especial",
+        "ru": "Особый рыбный шашлычок",
+        "th": "Mondstadt Grilled Fish สูตรพิเศษ",
+        "vi": "Cá Nướng Mondstadt Đặc Biệt"
+    },
+    "id": 100661,
+    "materialDesc": {
+        "en": "Mondstadt Grilled Fish with crispy skin and tender meat. It'll taste terrible if left out for too long.",
+        "de": "Ein gegrillter Fischspieß mit knuspriger Haut, die allerdings aufweicht, wenn man den Fisch nicht bald isst.",
+        "chs": "看起来皮脆肉鲜的蒙德烤鱼。放久了就不好吃了。",
+        "cht": "看起來皮脆肉鮮的蒙德烤魚。放久了就不好吃了。",
+        "es": "Un pescado a la parrilla de Mondstadt con la piel crujiente y la carne jugosa. Hay que comérselo enseguida.",
+        "fr": "Un poisson grillé mondstadtois à la peau croustillante et la viande tendre. Il aura mauvais goût si vous le laissez trop longtemps.",
+        "id": "Mondstadt Grilled Fish dengan kulit yang renyah dan daging yang empuk. Rasanya akan menjadi tidak lezat jika dibiarkan terlalu lama.",
+        "jp": "新鮮そうなモンド風焼き魚。早く食べないと美味しくなくなってしまう。",
+        "kr": "껍질은 바삭하고 살은 신선한 몬드 생선구이, 오래 두면 맛없어진다",
+        "pt": "Um Peixe Grelhado de Mondstadt com a pele crocante e a carne suave. Terá um sabor terrível se for deixado pra fora por muito tempo.",
+        "ru": "Рыбный шашлычок с хрустящей корочкой и нежным мясом. Если не съесть быстро, то будет невкусно.",
+        "th": "Mondstadt Grilled Fish ที่หนังกรอบและเนื้อชุ่มฉ่ำ หากทิ้งไว้นานเกินไปจะไม่อร่อยแล้ว",
+        "vi": "Cá Nướng Mondstadt với lớp da giòn. Để lâu sẽ không còn ngon nữa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

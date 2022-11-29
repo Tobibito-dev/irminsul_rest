@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teyvat Wilderness Survivalist's Recipes",
+        "de": "Rezept für Notverpflegung in Teyvat",
+        "chs": "提瓦特野外救急食谱",
+        "cht": "提瓦特野外緊急食譜",
+        "es": "Recetas del superviviente en la naturaleza de Teyvat",
+        "fr": "Recettes de survie dans la nature de Teyvat",
+        "id": "Kumpulan Resep Alam Liar Teyvat",
+        "jp": "テイワットサバイバルレシピ",
+        "kr": "티바트 야외 응급 레시피",
+        "pt": "Receitas de Sobrevivência na Natureza de Teyvat",
+        "ru": "Рецепты эксперта по выживанию",
+        "th": "สูตรอาหารเร่งด่วนแห่งป่าของ Teyvat",
+        "vi": "Công Thức Nấu Ăn Vùng Dã Ngoại Teyvat"
+    },
+    "id": 100413,
+    "materialDesc": {
+        "en": "Field-cooking skills are paramount to surviving in the wilderness. Lynn, a 10-year Adventurers' Guild veteran, teaches you how to cook delicious and fulfilling food in times of emergency in the wilderness!",
+        "de": "Das Herstellen von Lebensmitteln ist unerlässlich für das Überleben in der Wildnis! Mit der zehnjährigen Erfahrung von Lynn bei der Abenteurergilde werden hier nützliche Tipps und Tricks beim Zubereiten von Speisen im Freien aufgeführt.",
+        "chs": "饮食烹饪是野外生存的重中之重！拥有十年资历的冒险家协会老会员琳，为您深入讲解如何野外紧急情况下吃饱又吃好的烹饪秘诀！",
+        "cht": "飲食烹飪是野外生存的重中之重！擁有十年資歷的冒險家協會老會員琳，為您深入講解如何在野外緊急情況下吃飽又吃好的烹飪秘訣！",
+        "es": "¡La comida es la máxima prioridad si quieres sobrevivir en la naturaleza! ¡Lynn, un veterano de diez años del Gremio de Aventureros, te dará una explicación detallada de los secretos para comer bien y a reventar estando allá afuera!",
+        "fr": "Savoir cuisiner est essentiel pour survivre dans la nature ! Lynn, une aventurière vétérante de la Guilde, partage avec vous recettes et astuces pour vous débrouiller en cas d'urgence !",
+        "id": "Keterampilan memasak di alam liar sangat penting untuk bertahan hidup di hutan belantara. Lynn, veteran 10 tahun Adventurers' Guild, mengajarimu cara memasak makanan lezat pada saat darurat!",
+        "jp": "サバイバルの一番大事なことは料理である！10年間のサバイバル経験を持つ冒険者協会ベテラン·リンによるサバイバルに最適なレシピをまとめた一冊！",
+        "kr": "야외 생존에 가장 필요한 건 뭐니뭐니 해도 요리! 10년 경력을 지닌 모험가 길드의 고인물 회원 린이 야외 응급 상황에서 맛있게, 또 배부르게 먹을 수 있는 요리 비법을 알려준다!",
+        "pt": "As habilidades de cozinhar em campo são fundamentais para sobreviver no deserto. Lynn, um veterano de dez anos na Guilda de Aventureiros, ensina como cozinhar uma comida deliciosa e gratificante em tempos de emergência no deserto!",
+        "ru": "Для выживания в дикой природе нет ничего важнее, чем навыки полевой кулинарии. Линн, инструктор по выживанию с десятилетним стажем, подготовила для вас рецепты вкусных и питательных блюд, которые можно приготовить где угодно!",
+        "th": "การทำอาหารเป็นสิ่งสำคัญที่สุดสำหรับความอยู่รอดในป่า! Lynn สมาชิกเก่าแก่นับสิบปีของกิลด์นักผจญภัยจะมาบอกต่อเคล็ดลับเชิงลึกเกี่ยวกับวิธีการทำอาหารให้ทั้งอิ่มและอร่อยภายใต้สถานการณ์ฉุกเฉินในป่ากับคุณ!",
+        "vi": "Nấu nướng là ưu tiên hàng đầu để tồn tại trong tự nhiên! Lynn, một cựu thành viên với mười năm kinh nghiệm thuộc Hiệp Hội Nhà Mạo Hiểm, sẽ cho bạn một lời giải thích cặn kẽ về cách ăn no, ăn ngon trong các trường hợp khẩn cấp trong tự nhiên!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

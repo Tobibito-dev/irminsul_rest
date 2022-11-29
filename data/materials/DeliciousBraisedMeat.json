@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Braised Meat",
+        "de": "Leckerer Fleischeintopf",
+        "chs": "美味的红烩兽肉",
+        "cht": "美味的紅燴獸肉",
+        "es": "Carne estofada deliciosa",
+        "fr": "Viande braisée (délicieuse)",
+        "id": "Delicious Braised Meat",
+        "jp": "美味しそうな獣肉シチュー",
+        "kr": "맛있는 걸쭉 짐승고기탕",
+        "pt": "Carne Bestial Refogada Deliciosa",
+        "ru": "Вкусный мясной гуляш",
+        "th": "Meat Stew แสนอร่อย",
+        "vi": "Thịt Rừng Kho Tàu Ngon"
+    },
+    "id": 108311,
+    "materialDesc": {
+        "en": "A stewed dish. The rich soup sauce and fragrant meat combine to give off an irresistible aroma, while the scattered vegetables are crisp instead of soft, enriching the flavor of the dish... so much so that people will tuck in despite the intense heat until there is nothing left but the sauce... Wait, why don't we just dip our bread in that?",
+        "de": "Ein geschmortes Gericht. Die reichhaltige Suppe und das duftende Fleisch verströmen ein unwiderstehliches Aroma, während das verstreute Gemüse knackig statt weich ist und den Geschmack des Gerichts bereichert ... so sehr, dass die Leute trotz der intensiven Hitze zugreifen werden, bis nur noch etwas Soße übrig ist ... Warte, warum tunken wir nicht einfach unser Brot darin ein?",
+        "chs": "炖煮而成的菜肴。浓郁的汤汁和醇香的兽肉彼此交融，散发着让人无法拒绝的热烈香气，错落分布的蔬菜酥而不烂，也让菜肴的味道更加丰富…如此美味，就算是热气扑面，也让人不由大快朵颐，直到锅内只剩下汤汁…等等，这汤汁似乎蘸面包也不错？",
+        "cht": "燉煮而成的菜餚。濃郁的湯汁和醇香的獸肉彼此交融，散發著讓人無法拒絕的熱烈香氣，錯落分佈的蔬菜酥而不爛，也讓菜餚的味道更加豐富…如此美味，就算是熱氣撲面，也讓人不由大快朵頤，直到鍋內只剩下湯汁…等等，這湯汁似乎蘸麵包也不錯？",
+        "es": "Un plato de carne guisada. El espeso caldo y la deliciosa carne combinan a la perfección y emiten un intenso aroma al que es imposible no sucumbir. La verdura, distribuida por todo el plato, es crujiente por fuera y tierna por dentro, lo que aporta un toque exquisito. Su sabor es tan perfecto que, aunque esté ardiendo, no puedes evitar hincar el diente hasta que solo queda el caldo. Espera, espera... ¡se puede mojar pan en el caldo!",
+        "fr": "Un plat mijoté. La riche sauce de la soupe et la viande parfumée se combinent pour dégager un goût irrésistible, tandis que les légumes éparpillés sont croquants et enrichissent la saveur du plat à tel point que les gens le dévorent malgré la chaleur jusqu'à ce qu'il n'en reste plus une goutte... Et pourquoi pas tremper son pain dedans ?",
+        "id": "Hidangan rebus, saus dari sup yang kaya rasa dan daging yang harum berpadu untuk mengeluarkan aroma yang tak tertahankan, sementara sayur yang tersebar begitu renyah, memperkaya rasa dari masakan tersebut... begitu enaknya sehingga orang-orang akan memakannya meskipun masih panas sampai tak tersisa apa pun juga kecuali sausnya... Tunggu, kenapa kita tidak celupkan saja roti ke dalam saus itu?",
+        "jp": "煮込んだ料理。濃厚なスープと旨味たっぷりの獣肉が香ばしい香りを漂わせる。野菜は十分に煮込まれ、豊かな味をもたらした…このような美味い一品は、湯気が立ってもついつい食べたくなってしまい、あっという間に飲み干してしまう…そうだ、スープにパンをつけて食べるのも悪くないかも？",
+        "kr": "끓여서 제작된 스튜 요리. 진한 육수와 고소한 짐승고기가 어우러져 거부할 수 없는 열렬한 향기를 뿜어낸다. 흩어져있는 채소는 바삭바삭하면서도 과하게 익히지 않아 요리의 맛을 더욱 풍성하게 해준다… 이 환상적인 맛에, 뜨거운 김에도 불구하고 국물만 남을 때까지 단숨에 해치우게 된다… 잠깐, 육수에 빵을 찍어 먹는 것도 나쁘지 않을 것 같은데?",
+        "pt": "Um prato cozido. O rico molho de sopa e a carne perfumada se combinam para dar um aroma irresistível, enquanto os vegetais espalhados são crocantes em vez de macios, enriquecendo o sabor do prato... De tal forma que as pessoas se aconchegarão apesar do calor intenso até não restar nada além do molho... Espere, por que não mergulhamos nosso pão nisso?",
+        "ru": "Тушёное блюдо. Незабываемое сочетание насыщенного бульона и ароматного мяса. Хрустящие овощи настолько обогащают вкус блюда, что его съедают до последнего кусочка, несмотря на сильную жару. Подождите, а почему бы нам не макать хлеб в оставшийся бульон?",
+        "th": "สตูที่ได้จากการตุ๋น น้ำซุปเข้มข้นและเนื้อสัตว์ที่กลมกล่อมผสมผสานกัน ให้กลิ่นหอมอันอบอุ่นที่ไม่อาจต้านทานได้ ผักกรอบที่กระจายทั่วทั้งหม้อทำให้รสชาติของสตูเข้มข้นขึ้น... ต่อให้มันร้อนจนควันขึ้น แต่ก็ทำให้คนอดไม่ได้ที่จะกินจนเหลือแต่ซุปในหม้อ... เดี๋ยวก่อนถ้าเอาขนมปังมาจุ่มในซุปนี้ก็น่าจะดีไม่น้อย?",
+        "vi": "Món hầm thơm ngon. Nước dùng đậm đà và thịt thơm hòa quyện toát lên một mùi thơm khó cưỡng, các loại rau ăn kèm thì giòn, không bị dập nát, làm cho hương vị món ăn thêm đậm đà...Món ngon như vậy thì ngay cả khi còn nóng cũng khiến người ta phải ăn ngay một miếng to, cho đến khi trong nồi chỉ còn lại nước canh...À mà nước canh này chấm bánh mì cũng rất ngon nhỉ?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "The Sunken Years",
+        "de": "Goldene Jahre",
+        "chs": "沉金的岁月",
+        "cht": "沉金的歲月",
+        "es": "Tiempos Dorados",
+        "fr": "Les années dorées",
+        "id": "The Sunken Years",
+        "jp": "深金の歳月",
+        "kr": "가라앉은 세월",
+        "pt": "Anos Dourados",
+        "ru": "Золотые годы",
+        "th": "The Sunken Years",
+        "vi": "Năm Tháng Vàng Son"
+    },
+    "id": 23640,
+    "setId": 15026,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

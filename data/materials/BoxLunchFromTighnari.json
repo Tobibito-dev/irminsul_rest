@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Box Lunch from Tighnari",
+        "de": "Tighnaris Essensbüchse",
+        "chs": "提纳里的便当盒",
+        "cht": "提納里的便當盒",
+        "es": "Almuerzo de Tignari",
+        "fr": "Panier-repas de Tighnari",
+        "id": "Kotak Makan Siang dari Tighnari",
+        "jp": "ティナリの弁当箱",
+        "kr": "타이나리의 도시락통",
+        "pt": "Lancheira de Tighnari",
+        "ru": "Бэнто Тигнари",
+        "th": "ข้าวกล่องของ Tighnari",
+        "vi": "Hộp Cơm Của Tighnari"
+    },
+    "id": 101925,
+    "materialDesc": {
+        "en": "Emergency food that Tighnari prepared for Haypasia. Paimon took a peek into the lunchbox, finding some traditional Sumeru delicacies that looked very tasty inside.",
+        "de": "Eine von Tighnari für Haypasia vorbereitete Notfallration. Nachdem Paimon einen Spalt weit hereingeschaut hatte, stellte sie fest, dass sich darin einige traditionelle Gerichte von Sumeru befinden, die sehr lecker wirken.",
+        "chs": "提纳里为海芭夏准备的应急便当，派蒙悄悄打开看了一眼，里面装着一些传统的须弥饭菜，似乎很美味的样子。",
+        "cht": "提納里為海芭夏準備的應急便當，派蒙悄悄打開看了一眼，裡面裝著一些傳統的須彌飯菜，似乎很美味的樣子。",
+        "es": "Comida de emergencia que Tignari preparó para Haypasia. Paimon le echó un ojo a escondidas y vio que dentro había algunos manjares tradicionales de Sumeru. Tienen una pinta deliciosa.",
+        "fr": "Une boîte-repas d'urgence préparée par Tighnari pour Haypasia. Paimon l'a ouverte en douce pour y jeter un œil et y a découvert des mets traditionnels sumériens qui ont l'air délicieux.",
+        "id": "Makanan darurat yang disiapkan Tighnari untuk Haypasia. Paimon pernah mengintip ke dalam kotak makan siang itu dan melihat beberapa makanan tradisional Sumeru yang terlihat sangat lezat di dalamnya.",
+        "jp": "ティナリがハイパシアのために用意した応急弁当。パイモンがこっそり開けて中を覗いてみると、すごく美味しそうなスメールの伝統料理が入っていた。",
+        "kr": "타이나리가 하이파시아를 위해 준비한 비상용 도시락. 페이몬이 슬쩍 열어봤는데 맛있어 보이는 전통 수메르 요리가 가득 들어 있었다고 한다",
+        "pt": "Lancheira de comida de emergência que Tighnari preparou para Haypasia. Paimon a abriu para só encontrar alguma comida tradicional de Sumeru. A comida parece realmente muito saborosa.",
+        "ru": "Бэнто на случай непредвиденных обстоятельств, которое Тигнари приготовил для Хайпасии. Паймон заглянула внутрь и увидела там несколько традиционных блюд Сумеру. Выглядит очень аппетитно.",
+        "th": "ข้าวกล่องฉุกเฉินที่ Tighnari เตรียมให้ Haypasia ถูก Paimon แอบเปิดดูเล็กน้อย ด้านในมีอาหารดั้งเดิมของ Sumeru ที่ดูท่าทางน่าอร่อยมากเลยทีเดียว",
+        "vi": "Paimon lặng lẽ mở hộp cơm mà Tighnari chuẩn bị cho Haypasia ra nhìn, bên trong là một số món ăn Sumeru truyền thống, trông có vẻ rất ngon."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

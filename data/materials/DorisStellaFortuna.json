@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dori's Stella Fortuna",
+        "de": "Stella Fortuna von Dori",
+        "chs": "多莉的命星",
+        "cht": "多莉的命星",
+        "es": "Stella Fortuna de Dori",
+        "fr": "Stella Fortuna de Dori",
+        "id": "Dori's Stella Fortuna",
+        "jp": "ドリーの星屑",
+        "kr": "도리의 운명의 별",
+        "pt": "Stella Fortuna de Dori",
+        "ru": "Удача Дори",
+        "th": "ดวงดาวแห่งชีวิตของ Dori",
+        "vi": "Chòm Sao Của Dori"
+    },
+    "id": 1168,
+    "materialDesc": {
+        "en": "Dori's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Doris Sternbild",
+        "chs": "多莉的命之座激活素材",
+        "cht": "多莉的命之座啟用素材",
+        "es": "Material de activación de constelación de Dori",
+        "fr": "Matériau d'activation de la constellation de Dori.",
+        "id": "Material aktivasi untuk konstelasi Dori",
+        "jp": "ドリーの命ノ星座アンロック用素材",
+        "kr": "도리의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Dori",
+        "ru": "Материал для активации созвездия Дори",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Dori",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Dori"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

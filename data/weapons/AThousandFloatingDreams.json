@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "A Thousand Floating Dreams",
+        "de": "Fließende Träume von tausend Nächten",
+        "chs": "千夜浮梦",
+        "cht": "千夜浮夢",
+        "es": "Sueños de las Mil Noches",
+        "fr": "Mille rêves flottants",
+        "id": "A Thousand Floating Dreams",
+        "jp": "千夜に浮かぶ夢",
+        "kr": "떠오르는 천일 밤의 꿈",
+        "pt": "Sonhos Flutuantes das Mil Noites",
+        "ru": "Сновидения тысячи ночей",
+        "th": "A Thousand Floating Dreams",
+        "vi": "Cõi Mộng Ngàn Đêm"
+    },
+    "id": 14511,
+    "type": "WEAPON_CATALYST",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 44.33580017089844
+        },
+        {
+            "type": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 57.599998474121094
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0789999961853027,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.159000039100647,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2380000352859497,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3170000314712524,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3949999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4739999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5520000457763672,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.63100004196167,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7089999914169312,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7869999408721924,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8650000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9420000314712524,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0199999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0980000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.174999952316284,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.253000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.3299999237060547,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.484999895095825,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6389999389648438,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7939999103546143,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.871000051498413,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.947999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0260000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1029999256134033,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.180000066757202,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.256999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3340001106262207,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4119999408721924,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.489000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.565999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6440000534057617,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7209999561309814,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7980000972747803,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.875999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.953000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.031000137329102,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.109000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.185999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.263999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.3420000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.419000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.497000217437744,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.6529998779296875,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.730999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.809999942779541,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.888000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.966000080108643,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.044000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.123000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.201000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.28000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.359000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.436999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.515999794006348,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.59499979019165,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.673999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.752999782562256,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.833000183105469,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.9120001792907715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.991000175476074,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.071000099182129,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.150000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.230000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.309999942779541,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.389999866485596,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.46999979019165,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.550000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.630000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.790999889373779,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.870999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.952000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.0329999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.11299991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.193999767303467,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.275000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.35699987411499,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.438000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.519000053405762,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.60099983215332,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.682000160217285,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.763999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.8460001945495605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.927999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.010000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.092000007629395,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.173999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.256999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.33899974822998,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.42199993133545,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.505000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.588000297546387,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.670999526977539,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.753999710083008,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.836999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ELEMENT_MASTERY",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 14511,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114041,
+                    "count": 5
+                },
+                {
+                    "id": 112071,
+                    "count": 5
+                },
+                {
+                    "id": 112059,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114042,
+                    "count": 5
+                },
+                {
+                    "id": 112071,
+                    "count": 18
+                },
+                {
+                    "id": 112059,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114042,
+                    "count": 9
+                },
+                {
+                    "id": 112072,
+                    "count": 9
+                },
+                {
+                    "id": 112060,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114043,
+                    "count": 5
+                },
+                {
+                    "id": 112072,
+                    "count": 18
+                },
+                {
+                    "id": 112060,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114043,
+                    "count": 9
+                },
+                {
+                    "id": 112073,
+                    "count": 14
+                },
+                {
+                    "id": 112061,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 14511,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114044,
+                    "count": 6
+                },
+                {
+                    "id": 112073,
+                    "count": 27
+                },
+                {
+                    "id": 112061,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+        "de": "Eine die fließenden Träume von tausend Nächten erhellende Lampe, in deren smaragdgrünen Licht das Lied der einstigen Welt treibt.",
+        "chs": "浮映千夜之梦的灯盏，苍翠的光中流溢着遥世的歌。",
+        "cht": "浮映千夜之夢的燈盞，蒼翠的光中流溢著遙世的歌。",
+        "es": "Una lámpara que ilumina los sueños de mil noches. De su resplandor esmeralda emana una canción de antaño.",
+        "fr": "Cette lampe illumine les rêves qui flottent sur mille nuits, et dans sa lumière vert émeraude s'écoule un chant des jours anciens.",
+        "id": "Lampu ini telah menerangi mimpi-mimpi yang melayang lebih dari seribu malam, dan dalam cahaya hijau zamrudnya mengalir lagu yang berasal dari zaman kuno.",
+        "jp": "千夜の夢を映して浮かぶランプ。蒼翠の光から遥かなる世の歌が溢れ出す。",
+        "kr": "천일 밤의 꿈을 비추는 등잔. 푸른빛 속에 먼 곳의 노래가 흐르고 있다",
+        "pt": "Essa lanterna ilumina os sonhos que flutuam sobre as mil noites, e a sua luz esmeralda flui de dias antigos.",
+        "ru": "Эта лампа освещает сновидения тысячи ночей, а в её изумрудном сиянии льётся песнь древности.",
+        "th": "ตะเกียงที่สะท้อนความฝันของค่ำคืนนับพัน แสงสีเขียวเอ่อล้นไปด้วยบทเพลงแห่งโลกอันไกลโพ้น",
+        "vi": "Ngọn đèn ánh lên cõi mộng ngàn đêm, trong ánh sáng xanh lục ấy ẩn chứa khúc ca của ngày trước."
+    },
+    "flavor": {
+        "en": "\n\"There is an appointed time for all things to live and die, just like the ceaseless cycles of night and dawn.\"\n\"May the stories within this lamp grant you dreams worth looking forward to.\"\n\nAt the moment the palace crumbled, the girl who had never known \"light\" heard her whisper inside a dream.\nThrough a mist of tears, the child who had long decided to depart in dreams caught sight of her gentle benevolence.\n\nIn the reflection of the serene moonlight, the verdant lamp told of the silhouette of the stars and an everlasting melody—\nA dancer with emerald eyes planting light kisses onto silk dripping with nectar, brightly colored fish pirouetting in pearly clear waters,\nA moonlight musician guiding the Jinn's torches, singing songs of the gilded fortress in a sea of sand and pomegranate-colored strings,\nAn astute sailor setting off on a grand voyage, seeking nothing else but the singing voice from a dream and the blooming gardens on the far shore.\n\nThe fallen palace illuminated by silent light, encircled by breathtaking dreamscapes from a thousand worlds,\nThe soft forest breeze clearing away the dust gathered on the homeward path, guiding lost children away from the palace, no longer tranquil as it had been.\nAs the dawning light filtered through fragmented spaces between leaves, that verdant lamp which had told stories of a thousand nights' dreams began to fade:\nIt was only when she looked back, standing between dreams and reality, that the blind girl realized that there was no return, for dawn had broken.\n\nThereafter, the lamp inside the dream never flickered again, and the flow of time swallowed up the dreams of bygone nights,\nBut the birds still sang as they embraced the break of dawn. They sang of the stories that blossomed brilliantly like a field of flowers,\nBringing courage, hope, and happiness to the children who had never had the chance to witness a dream,\nWeaving a never-ending song of a thousand nights, lighting up the moments before the long-awaited daybreak.\n\nAfter traversing a thousand dreams, until the nightingale no longer sang, until the fading sun fell beneath the horizon once again,\nThe traveler saw at journey's end that verdant lamp, that faraway homeland of old,\nWhere the dew-covered rose still swayed softly in the moonlit breeze, waiting for her to tell a new story:\n\"Though the memories of past nights have all but faded, we shall continue to sing songs of praise for the sweet dreams that have yet to unfold.\"",
+        "de": "\n„Alle Dinge entstehen und vergehen in regelmäßigen Abständen, wie der nicht endende Wechsel zwischen Dämmerung und Tagesanbruch.“\n„Lass die Geschichte in dieser Lampe dir Träume geben, die es wert sind, auf sie zu hoffen.“\n\nIn dem Moment als der kaiserliche Garten fiel, vernahm das Mädchen, das nie das „Licht“ kennengelernt hatte, in ihrem Traum ihr Flüstern.\nDas Kind, das sich ursprünglich entschlossen hatte, dem „Traum“ zu folgen, sah ihr Mitgefühl in den Tränen.\n\nDie smaragdgrüne Laterne reflektierte das Licht des stillen Mondes und erzählte vom Funkeln der Sterne und dem ewigen Gesang ...\nDie Tänzerin mit den türkisfarbenen Augen küsste sanft die honigfarbene Seide. Weiße, rote, blaue und gelbe Fische schwammen im perlend klaren Wasser Pirouetten.\nEin Musikant auf dem Nachtspaziergang, mit den Fackeln der Dschinn in der Hand, sang von der goldenen Festung und dem granatfarbenen Brokat im Sandmeer.\nEin wortgewandter Matrose begab sich auf eine glorreiche Reise, um die Lieder und prächtigen Gärten seiner Träume an fernen Ufern zu finden.\n\nDie friedlichen Lichter erhellten den gefallenen kaiserlichen Garten, begleitet von den herrlichen Träumen aus tausend Welten.\nDie sanfte Brise des Waldes fegte über den staubigen Weg und führte das verlorene Kind aus dem Palast, in dem kein Frieden mehr herrschte.\nAls das abnehmende Tageslicht durch die feinen Blätter sickerte, wurde die smaragdgrüne Laterne, die den Traum von tausend Nächten erzählte, immer blasser:\nErst als das verirrte blinde Mädchen den Kopf wandte, bemerkte es, dass der Wald verschwunden und der Morgen angebrochen war.\n\nVon da an hörte die Traumlampe auf zu schimmern und die Träume der vergangenen Nächte wurden vom Lauf der Zeit verschluckt,\naber die Vögel, die die Morgendämmerung begrüßen, sangen wieder zu den Legenden, die wie prächtige Blumen erblühten,\num Kindern, die keine Träume mehr haben, den verheißenen Mut, die Hoffnung und die Freude zu geben.\nSie singen das nicht enden wollende Lied von tausend Nächten, das die Lichter der Nacht erhellt, während sie auf den Sonnenaufgang warten.\n\nNach Träumen von tausend Nächten, bis die Nachtigallen ihren Gesang verstummen, bis die Sonne wieder versinkt,\nfand die Reisende am Ende ihres Wegs endlich wieder jene smaragdgrüne Laterne, jene ferne Heimat.\nDie mit Tau benetzte Rose schaukelt noch immer sanft in der Brise im Mondlicht und wartet darauf, ihre neuen Geschichten zu hören:\n„Auch wenn die Erinnerungen an den gestrigen Abend für immer vergangen sind, werden wir für die Schönheit des Traums von heute Nacht singen.“",
+        "chs": null,
+        "cht": "\n「萬物生滅皆有定期，如同黑夜與黎明往復不息。」\n「就讓這盞燈中的故事，給你值得期許的美夢吧。」\n\n御苑堙墜之刻，從未知曉過「光明」的少女，在夢中聆見了她的輕語。\n原本下定決心，伴著「夢」一同離去的孩子，在淚中睹見了她的慈惻。\n\n蒼翠的燈盞浮映靜邃的月光，將繁星的掠影與那永世的歌謠一併述撰——\n碧瞳的舞姬輕吻垂蜜的綢緞，白紅藍黃的魚兒在珍珠般的淨水中翩轉，\n夜行的樂師挈引鎮靈的燭炬，詠嘆沙海中鍍金的城塞與石榴色的錦弦，\n敏辯的水手踏上榮耀的遠航，只為探尋夢裡的歌聲與彼岸蔥蔚的花園。\n\n寧靜的燈火照亮傾隕的御苑，伴著一千個世界的瑰幻之夢在燈中縈旋，\n輕柔的林風吹開覆塵的歸徑，引領迷失的孩子走出那不再安謐的宮殿。\n漸明的天光漏落細碎的葉間，那述說千夜之夢的蒼翠燈盞卻越發黯淡：\n直至她似夢似醒時驀然回首，目盲的少女才發覺群森不復、破曉已至。\n\n那夢中的燈盞自此不再閃爍，舊夜的夢也被荏苒的時光吞沒，\n迎來曙光的鳥兒卻依然歌唱，歌唱如繁花般粲然綻放的綺談，\n為那些不曾將夢目睹的孩子，贈予期許的勇氣、希望與歡樂，\n紡織那永無終結的千夜之歌，點亮靜候破曉之時的一夜燈火。\n\n渡越千夜的迷夢，直至夜鶯不再鳴唱，直至暮日再度沉落，\n行至終焉的旅人再度見到了那蒼翠的燈盞，那遙遠的故國，\n沾露的薔薇依然在沐月的風中輕曳，待她將新的故事述說：\n「縱然昨夜的回憶永不再，我們仍要為今夜的美夢歡歌。」",
+        "es": "\n“Todas las cosas tienen marcado su principio y su fin, igual que los incansables ciclos del día y la noche”.\n“Que las historias que alberga esta lámpara te concedan sueños de los que se aguardan con ilusión”.\n\nJusto cuando el palacio colapsó, la joven que nunca conoció la luz escuchó en un sueño los susurros de ella.\nA través de un velo de lágrimas, el niño que había decidido partir en sueños vio su compasión y benevolencia.\n\nBañada en el reflejo de la luna serena, la lámpara esmeralda habló de las siluetas de las estrellas y de esa melodía eterna.\nUna bailarina de ojos verdes besando suavemente un trozo de seda que goteaba néctar, peces de todos los colores haciendo piruetas en limpias aguas perladas.\nUn músico nocturnal guiando las antorchas del genio, cantando sobre las fortalezas doradas en el mar de arena y los arcos de color granate.\nUn sagaz marinero partiendo en un gran viaje, buscando solamente la voz cantante en un sueño y los exuberantes jardines de la otra orilla.\n\nEl palacio derruido e iluminado por la luz serena, rodeado por sueños arrebatadores de mil mundos distintos.\nLa suave brisa del bosque que barre el polvo en el camino de regreso, alejando a los niños perdidos de ese palacio, ya no más tranquilo.\nA medida que la luz del amanecer se fue abriendo paso entre los huecos dejados entre las hojas, la lámpara esmeralda que relató los sueños de mil noches se oscureció cada vez más.\nSolo cuando se despertó del sueño y se volvió de repente, se dio cuenta la joven ciega de que no había bosque, pues el alba había despuntado.\n\nDesde entonces, la lámpara de ese sueño nunca volvió a brillar, y el tiempo implacable engulló los sueños de las noches pasadas.\nPero los pájaros seguían trinando para celebrar la mañana. Cantaban sobre historias que se abrían radiantes como un lecho de flores.\nEse sonido daba valor, esperanza y felicidad a los niños que nunca habían tenido ocasión de contemplar un sueño.\nTejía una canción interminable de mil noches, y encendía las lámparas nocturnas que esperaban tranquilas el alba.\n\nDespués de atravesar mil sueños imposibles, cuando dejó de escucharse el canto del ruiseñor, cuando el sol poniente se escondió de nuevo tras el horizonte,\nla persona que viajaba vio esa lámpara esmeralda al final de su viaje, en aquel lejano y antiguo reino.\nAllí, donde las rosas cubiertas de rocío aún se mecían suavemente bajo la brisa bañada por la luna, esperó a que ella le contara una nueva historia:\n“Aunque los recuerdos de noches pasadas se hayan desvanecido, seguiremos cantando a los bellos sueños que nos aguardan esta noche”.",
+        "fr": "\n« Toute chose vit et meurt selon un cycle défini, tout comme la nuit succède à l'aurore sans discontinuer. »\n« Que l'histoire contenue dans cette lampe vous apporte des rêves pleins d'espoir. »\n\nAu moment où le palais s'effondra, la jeune fille qui n'avait jamais connu la lumière entendit son murmure dans un rêve.\nCette enfant qui se décida de s'en aller avec son « rêve ». À travers les larmes qui remplissaient ses yeux, elle fut témoin de sa compassion.\n\nLa lampe émeraude reflétait le clair de la lune silencieuse, et racontait le récit des fragments d'étoiles et du chant éternel...\nLa danseuse aux pupilles vertes déposa un léger baiser sur la soie recouverte de miel. Les poissons blancs, rouges, bleus et jaunes nageaient dans l'eau pure et nacrée.\nDes musiciens marchaient dans la nuit et guidaient les djinns avec leurs torches, chantant les chansons qui parlaient de cités dorées dans la mer de sable et de cordes d'instruments de musique aux couleurs des grenades.\nUn marin avisé s'embarqua dans un glorieux voyage à la recherche des chansons dans les rêves et de jardins luxuriants au-delà des rives lointaines.\n\nAccompagnées des rêves magnifiques de mille mondes, les lumières sereines illuminèrent le jardin impérial déchu.\nLa douce brise de la forêt balayait le chemin poussiéreux du retour, conduisant l'enfant perdue hors du palais où la paix ne régnait plus.\nLa lampe émeraude qui racontait le rêve des mille nuits devenait de plus en plus pâle à mesure que le soleil du matin s'infiltrait à travers les feuilles.\nCe ne fut qu'au moment où la jeune fille aveugle égarée regarda en arrière qu'elle réalisa que la forêt avait disparu et que l'aube était arrivée.\n\nCe jour-là, la lampe de ses rêves cessa de scintiller, et les rêves des nuits passées furent engloutis par le temps qui s'écoulait.\nMais les oiseaux chantaient toujours en accueillant l'aube. Leurs chants fantastiques étaient telles des fleurs resplendissantes en plein épanouissement.\nPour apporter le courage, l'espoir et le bonheur aux enfants qui n'avaient jamais eu la chance d'être témoins d'un rêve.\nPour tisser la chanson sans fin des mille nuits et allumer les lampes nocturnes qui attendaient l'arrivée de l'aube.\n\nAprès avoir traversé mille nuits de rêves enchantés, jusqu'à ce que le rossignol cesse de chanter, jusqu'à ce que le soleil crépusculaire se couche à nouveau...\nCette voyageuse qui est était arrivée à la fin de son périple retrouva enfin la lampe émeraude et sa patrie lointaine.\nLes roses couvertes de rosée se balançaient encore doucement dans la brise au clair de lune, attendant qu'elle raconte de nouvelles histoires :\n« Même si les souvenirs des nuits passées sont perdus à jamais, nous devons quand même chanter en l'honneur des magnifiques rêves des soirées à venir. »",
+        "id": "\n\"Ada masa kehidupan dan kematian bagi seluruh makhluk hidup, bagaikan roda yang berputar menyerupai siang dan malam.\"\n\"Semoga cerita-cerita dari dalam lampu ini memberikan mimpi yang telah kamu harapkan.\"\n\nDi saat istana mengalami keruntuhan, seorang gadis yang tidak pernah mengenal \"cahaya\" mendengar bisikannya di dalam mimpi.\nDengan tekad yang penuh, anak yang pergi dengan mimpinya melihat belas kasihannya dalam air mata.\n\nDari pantulan cahaya bulan yang tenang, lentera zamrud mengisahkan bayangan bintang-bintang dan melodi abadi —\nSeorang penari dengan mata berwarna zamrud mencium kain sutra yang meneteskan nektar dengan ringan, ikan-ikan berwarna-warni berputar-putar di air jernih seperti mutiara,\nSeorang musisi cahaya bulan memandu obor Jinni, menyanyikan lagu-lagu benteng berlapis emas di lautan pasir dan senar berwarna delima,\nSeorang pelaut yang hebat memulai perjalanan besar, tidak mencari apa pun selain suara nyanyian dari mimpinya dan taman yang bermekaran di pantai seberang.\n\nIstana yang runtuh diterangi oleh cahaya yang sunyi, dikelilingi oleh pemandangan mimpi yang menakjubkan dari seribu dunia,\nAngin hutan yang lembut membersihkan debu yang berkumpul di jalan pulang, membimbing anak-anak yang hilang menjauhi istana yang tidak lagi tenang seperti dulu.\nSaat cahaya fajar menyusup melalui celah-celah di antara dedaunan, lampu zamrud yang menceritakan kisah mimpi seribu malam mulai memudar:\nHanya ketika dia melihat ke belakang, berdiri di antara mimpi dan kenyataan, gadis buta itu menyadari bahwa tidak ada jalan untuk pulang, karena fajar telah menyingsing.\n\nSetelah itu, lampu di dalam mimpinya tidak pernah bersinar kembali, dan aliran waktu menelan mimpi malam yang lalu,\nTapi burung-burung masih bernyanyi saat mereka memeluk fajar yang menyingsing. Mereka menyanyikan kisah-kisah yang mekar dengan cemerlang seperti ladang bunga,\nMembawa keberanian, harapan, dan kebahagiaan bagi anak-anak yang tidak pernah memiliki kesempatan untuk menyaksikan mimpi,\nMenenun lagu seribu malam yang tak berakhir, menerangi momen-momen menjelang fajar yang ditunggu-tunggu.\n\nSetelah melintasi seribu mimpi, sampai burung bulbul tidak lagi bernyanyi, sampai matahari yang memudar terbenam ke bawah cakrawala sekali lagi,\nPengembara itu melihat di ujung perjalanan lampu zamrud itu, tanah tua nan jauh di sana,\nDi mana mawar yang diselimuti embun masih bergoyang lembut diterpa angin yang berembus, menunggunya untuk menceritakan kisah baru:\n\"Meskipun kenangan malam yang lalu telah memudar, kita akan terus menyanyikan lagu pujian untuk mimpi indah yang belum terungkap.\"",
+        "jp": "\n「万物は生まれ、そして死ぬ―—闇夜と黎明の繰り返しが延々と続いていくように。」\n「このランプにある物語が、あなたの期待に応える夢をもたらそう。」\n\n御苑が消え去る時、「光」を知ることのなかった少女は、夢の中で彼女のささやきを聞いた。\nもともと「夢」と共に去ることを決めていた幼子は、涙の中で彼女の慈悲を目にした。\n\n蒼翠のランプは静かな月光を照り返し、星々の影とその永世の歌を共に語っている——\n碧の瞳を持つ踊り子は、垂れる絹に軽く口づけし、色鮮やかな魚が真珠のような浄水の中を踊る。\n夜をゆく楽士はジンニーの炬を導き、砂海の中にある金色の城塞とザクロ色の琴を詠嘆する。\n饒舌な船乗りは栄誉の航海に出た——ただ夢にある歌声と彼岸にある緑の花園を探索するために。\n\n静かな明かりは崩れ落ちた御苑を照らす。千の世界の美しく幻想的な夢がランプの中で回り、\n柔らかな林風が埃を被った帰路へと流れ、迷子になった幼子をもはや静かではなくなった宮殿の外へと導く。\n次第に明るくなる天光は細やかな葉の間に落ち、千夜の夢を語る翠のランプはますます暗くなっていった——\n夢の境を彷徨うかのようにふと振り返ると、盲目の少女はようやく森が消え、夜が明けたことに気づく。\n\nあの夢の中にあるランプが光ることはもうない。旧夜の夢は流れる時に飲み込まれ、\n曙光を迎えた鳥は依然として歌い、花が咲き誇るかのような言葉を口ずさむ。\nあの夢を見ていない子供たちのために、勇気と希望、喜びを贈り、\n永遠に終わりを見せない千夜の歌を紡ぐ。そして夜明けを待ち、一晩の明かりを灯す。\n\n千の夜を渡った迷夢で、夜鶯が鳴き止み、夕日がもう一度沈むまで、\n終焉に辿り着いた旅人は、再びあの蒼翠のランプを見る。あの遥か遠い母国では、\n露のついたバラが今も月を浴び、風の中で揺らいで、新しい物語を語っている——\n「たとえ昨夜の思い出がなくとも、今夜の甘い夢のために歌おう。」",
+        "kr": "\n「만물의 생사는 시기가 정해져 있다. 마치 밤과 여명이 계속해서 반복되듯이.」\n「이 등불 속의 이야기가 그대에게 기대할 만한 아름다운 꿈을 건네주리라.」\n\n정원이 무너져내리는 순간, 「빛」을 알지 못했던 소녀는 꿈속에서 그녀의 속삭임을 들었다.\n「꿈」을 품은 채 떠나기로 마음먹었던 아이는 고여오는 눈물 너머로 그녀의 연민을 보았다.\n\n청록빛 등불은 고요한 달빛을 비춘다. 스치우는 별의 그림자는 영원한 노래와 함께 계승될지니——\n푸른 눈의 무희는 꿀로 짜여진 비단에 입을 맞추었고, 알록달록한 물고기들은 진주처럼 맑은 물속을 맴돌았다.\n밤의 악사들은 지니의 촛불을 든 채 앞으로 나아가 모래바다 속 도금된 성채와 석류빛 비단을 노래했다.\n기민한 선원들은 꿈속의 노래와 저편의 화원을 찾기 위해 영광스러운 항해를 떠났다.\n\n등불이 어두운 정원을 고요히 비추었고, 천 개의 세상의 아름답고 환상적인 꿈이 램프 속에서 맴돌았다.\n부드러운 숲의 바람이 흙먼지로 덮인 길을 열어, 길 잃은 아이가 평온을 잃은 궁전에서 걸어나올 수 있도록 인도하였다.\n잎사귀 사이로 서서히 하늘이 밝아오자 천일 밤의 꿈을 읊조리던 청록빛 등불은 조금씩 빛을 잃어갔다.\n꿈에서 깨어난 눈이 먼 소녀는 그제야 문득 숲이 사라지고 여명이 밝아오는 것을 느꼈다.\n\n꿈속의 그 등불은 더 이상 깜빡거리지 않았다. 지난밤의 꿈은 덧없이 흘러간 시간에 삼켜졌다.\n서광을 맞이한 새들은 노래했다. 꽃처럼 아름답게 피어난 이야기를…\n꿈꾸지 못하는 아이에게 바라 마지않던 용기와 희망, 그리고 기쁨을 주기 위해서.\n끝없이 이어지는 천일 밤의 노래가 새벽을 기다리는 등불을 밝혔다.\n\n천일 밤의 꿈을 넘어 밤꾀꼬리가 더 울지 않을 때까지, 황혼이 다시 한번 가라앉을 때까지,\n여정의 끝에 다다른 나그네는 다시 한번 보았다. 청록빛 등불을, 저 먼 곳의 고국을…\n이슬을 머금은 장미는 달빛을 품은 바람에 흔들리며 기다렸다. 그녀가 새로운 이야기를 들려줄 때까지:\n「비록 지난밤의 기억은 다시 돌아오지 않을 테지만, 우리는 오늘 밤의 꿈을 위해 노래할 거야.」",
+        "pt": "\n\"Existe um tempo predefinido para todas as coisas viverem e morrerem, assim como o ciclo infinito da noite e dia.\"\n\"Que a história contida nesta lâmpada lhe traga sonhos esperançosos.\"\n\nQuando o Jardim Imperial caiu, a Donzela que nunca conheceu a \"luz\" ouviu seu sussurro em seu sonho.\nA criança que decidiu partir com o \"sonho\" viu sua compaixão em lágrimas.\n\nA lâmpada de esmeralda refletia o luar silencioso, e falava das estrelas e da canção eterna—\nA dançarina de olhos azuis beijou suavemente a seda manchada de mel, peixes brilhantes e coloridos rodopiavam na água perolada,\nUm músico noturno, guiando as tochas dos Jinni, cantando canções sobre a fortaleza dourada em um mar de areia e fios com cor de romã,\nO marinheiro astuto embarca em uma viagem gloriosa, apenas para encontrar a voz da música de seus sonhos e o exuberante jardim do outro lado.\n\nAcompanhados pelos magníficos sonhos de mil mundos, as luzes serenas iluminavam o palácio caído,\ne a brisa suave da floresta varreu o caminho poeirento para casa, levando a criança perdida para fora do palácio onde a paz não reinava mais.\nA lâmpada de esmeralda que contava o sonho de mil noites ficava cada vez mais fraca à medida que o sol da manhã penetrava nas folhas.\nFoi apenas quando ela olhou para trás, estando entre os sonhos e a realidade, que a garota cega percebeu que não havia mais volta, pois o amanhecer tinha chegado.\n\nDesde aquele dia, a lâmpada dos sonhos parou de piscar, e os sonhos do dia anterior foram engolidos pela passagem do tempo.\nMas, os pássaros ainda cantavam, conforme aceitavam o amanhecer. Cantaram sobre lendas que desabrocharam como um campo de flores resplandecentes,\nTrazendo coragem, a esperança e a alegria prometidas às crianças que nunca tiveram a chance de ver um sonho,\ntecer o canto sem fim de mil noites e acendendo as lamparinas momentos antes do longo esperado amanhecer.\n\nDepois de atravessar milhares de sonhos, até que o rouxinol não cante mais, até que o sol elusivo caísse no horizonte novamente,\na viajante que chegou ao fim de sua jornada encontrou finalmente a lâmpada de esmeralda e sua pátria distante,\nA rosa coberta de orvalho ainda balançava suavemente na brisa enluarada, esperando que ela contasse novas histórias:\n\"Mesmo que as memórias da noite anterior se percam para sempre, ainda temos que cantar para o belo sonho que teremos esta noite.\"",
+        "ru": "\n«У всего сущего есть время рождения и время смерти, подобно тому, как есть утро и ночь.\nПослушай историю этой лампы и погрузись в прекрасный сон».\n\nКогда пал дворец, девушка, никогда не видевшая свет, услышала во сне шёпот лампы.\nСквозь пелену слёз ребёнок, давно решивший погрузиться в сны, увидел её нежность и доброту.\n\nВ безмятежном лунном свете зелёная лампа рассказывала о силуэтах звёзд и о вечной мелодии.\nТанцовщица, чьи глаза бирюзового цвета, оставила лёгкий поцелуй на шёлке, будто покрытом мёдом. Белые, красные, синие и жёлтые рыбы плавали в чистой как жемчуг воде.\nВ ночи музыканты с факелами для усмирения духов шли и пели о золотых городах среди песков и струнах цвета граната.\nОпытный моряк отправился в славное плавание в поисках песни из сна и пышных садов на дальнем берегу.\n\nРазрушенный дворец, озарённый безмолвным светом, окружили захватывающие дух пейзажи мечты из тысячи миров.\nЛёгкий лесной ветерок пронёсся по пыльной дороге, уводя заблудившегося ребёнка из дворца, утратившего прежнее спокойствие.\nКогда первые лучи рассвета пробились сквозь листья, зелёная лампа, рассказывавшая истории сновидений тысячи ночей, начала угасать.\nТолько оглянувшись назад, застывшая между сновидениями и реальностью слепая девушка поняла, что пути назад нет и что наступил рассвет.\n\nС тех пор лампа из сна больше никогда не загоралась, а неумолимое время поглотило сновидения прошлых ночей.\nПтицы по-прежнему пели, приветствуя рассвет. Их удивительные песни были подобны прекрасным распустившимся цветам.\nТрели птиц дарили смелость, надежду и счастье детям, которые не видели сновидений.\nЭти звуки сплетались в нескончаемую песню тысячи ночей, освещая мгновения перед долгожданным рассветом.\n\nПосле тысячи сновидений, когда соловей перестал петь и угасающее солнце снова скрылось за горизонтом,\nв конце своего пути путешественник наконец вновь увидел зелёную лампу, свою далёкую родину.\nТам, где покрытые росой розы всё ещё мягко покачивались на ветру в лунном свете, путешественник ждал, когда лампа расскажет новую историю:\n«Даже если воспоминания о прошедших ночах навсегда утрачены, мы продолжим воспевать прекрасные сны ночей грядущих».",
+        "th": "\n\"สรรพสิ่งล้วนเกิดและดับไปตามกาลเวลา เฉกเช่นราตรีและรุ่งอรุณที่หมุนเวียนกันไป\"\n\"ให้เรื่องราวในตะเกียงนี้ มอบความฝันอันงดงามที่คุ้มค่าแก่การรอคอยให้แก่คุณ\"\n\nยามที่สวนหลวงล่มสลาย เด็กสาวผู้ไม่เคยได้รู้จัก \"แสงสว่าง\" ได้ยินเสียงกระซิบของเธอในห้วงฝัน\nเด็กน้อยที่เดิมทีตัดสินใจจะจากไปพร้อมกับ \"ความฝัน\" ได้มองเห็นความเมตตากรุณาภายใต้หยดน้ำตา\n\nตะเกียงสีเขียวเข้มสะท้อนแสงจันทราอันเงียบสงบ เงาแห่งดวงดาราถูกถ่ายทอดด้วยบทเพลงอันเป็นนิรันดร์\nนักระบำตาสีฟ้าจุมพิตผ้าไหมที่ทอด้วยน้ำผึ้ง มัจฉาสีขาว, แดง, น้ำเงิน และเหลืองที่โบยบินอยู่ในสายธาราใสราวกับไข่มุก\nนักดนตรียามราตรีนำทางด้วยเทียนแห่งญิน ขับขานป้อมปราการปิดทองและเส้นทอผ้าไหมสีทับทิมบนผืนทะเลทราย\nกะลาสีเรือผู้ฉลาดเฉลียวเริ่มการเดินทางอันรุ่งโรจน์ เพียงเพื่อค้นหาบทเพลงแห่งความฝันและสวนดอกไม้อันเขียวชอุ่มที่อยู่ ณ อีกฟากฝั่ง\n\nแสงไฟอันเงียบงันส่องแสงสว่างให้กับสวนหลวงอันทรุดโทรม พร้อมกับความฝันอันลวงตาแห่งโลกนับพันที่อ้อยอิ่งอยู่ในตะเกียง\nสายลมแห่งป่าไม้อันโชยอ่อนพัดพาเส้นทางที่ปกคลุมไปด้วยฝุ่นธุลี นำทางเด็กน้อยที่หลงทางออกมาจากวังที่ไม่สงบอีกต่อไปแห่งนั้น\nแสงสว่างพร่างพรายจากท้องฟ้าส่องผ่านใบไม้ที่แตกสลาย ตะเกียงสีเขียวเข้มที่บอกเล่าเรื่องราวความฝันพันราตรีกลับกำลังเลือนรางลง:\nกระทั่งในยามที่เธอเหมือนกึ่งหลับกึ่งตื่นและมองหันย้อนมองในทันใด เด็กหญิงตาบอดก็ตระหนักได้ว่าป่าไม้ได้หายไป และถึงช่วงเวลารุ่งสางแล้ว\n\nตะเกียงในความฝันนั้นไม่ได้ส่องสว่างอีกต่อไป ความฝันในค่ำคืนในอดีตก็ได้ถูกกลืนหายไปตามกาลเวลา\nปักษาต้อนรับยามรุ่งอรุณกลับยังคงขับขานบทเพลงอยู่เช่นเคย บทเพลงนั้นเหมือนคำหวานที่เบ่งบานราวบุปผา\nเพื่อมอบความกล้าหาญ ความหวังและความสุขที่คาดหวังให้กับเด็กน้อยผู้ไม่เคยได้เผชิญหน้ากับความฝันเหล่านั้น\nถักทอขับขานบทเพลงพันราตรีที่ไม่มีวันสิ้นสุด ประดับไฟยามค่ำคืนเพื่อรอคอยยามรุ่งอรุณ\n\nก้าวผ่านพันราตรี จวบจนนกไนติงเกลไม่ขับขานบทเพลง กระทั่งพลบค่ำวนมาบรรจบอีกครั้ง\nนักเดินทางที่ไปถึงที่หมายเห็นตะเกียงสีเขียวเข้มอีกครั้ง ณ บ้านเกิดอันไกลโพ้น\nกุหลาบอาบน้ำค้างพลิ้วไหวตามสายลมที่โอบรับแสงจันทร์ รอคอยจนกว่าเธอจะเล่าเรื่องใหม่อีกหน:\n\"แม้ว่าความทรงจำของเมื่อคืนจะไม่หวนกลับมา แต่พวกเราจะร้องเพลงเพื่อความฝันอันแสนหวานของค่ำคืนนี้\"",
+        "vi": "\n\"Vạn vật sinh diệt đều theo định kỳ, cũng giống như đêm đen và bình minh luôn luân chuyển không ngừng.\"\n\"Hãy để câu chuyện trong chiếc đèn này, cho bạn một giấc mộng đẹp đáng để mong chờ đi.\"\n\nVào thời khắc vườn ngự uyển sụp đổ, thiếu nữ chưa từng biết đến \"ánh sáng\" đã nghe thấy tiếng thì thầm của cô ấy trong mơ.\nĐứa trẻ vốn dĩ đã hạ quyết tâm, sẽ cùng rời đi cùng với \"giấc mơ\", trong nước mắt đã nhìn thấy được lòng từ bi trắc ẩn của cô ấy.\n\nNgọn đèn màu xanh lục chiếu rọi lên ánh trăng yên tĩnh, cùng thuật lại hình ảnh của bầu trời đầy sao và bài ca dao vĩnh hằng đó...\nVũ công với đôi mắt xanh ngọc khẽ hôn lên dãy lụa đang rũ xuống, những con cá màu trắng đỏ xanh vàng đang lượn lờ trong dòng nước thuần khiết tựa trân châu.\nNhạc sĩ dạ hành đang dẫn dắt ngọn đuốc trấn linh, ca ngợi về thành trì dát vàng trong biển cát và cây đàn màu thạch lựu,\nThủy thủ nhạy bén bước chân lên hành trình vinh quang, chỉ để tìm kiếm tiếng hát trong giấc mơ và hoa viên xanh ngát ở phía bờ bên kia.\n\nNgọn đèn yên tĩnh chiếu sáng vườn ngự uyển đổ nát, và thứ xoay chuyển trong chiếc đèn là giấc mơ ảo diệu của một ngàn thế giới.\nNgọn gió rừng dịu dàng thổi qua con đường trở về đã phủ đầy bụi, dẫn dắt đứa trẻ lạc lối bước ra khỏi cung điện không còn yên bình đó.\nGiữa những kẽ lá có những tia sáng mỏng manh lọt qua, chiếc đèn màu xanh đang kể về giấc mơ ngàn đêm càng trở nên ảm đạm:\nMãi cho đến khi cô như nửa mơ nửa tỉnh và đột ngột quay đầu, thiếu nữ mù lòa mới phát giác ra khu rừng đã không còn nữa, ánh bình minh đã đến.\n\nChiếc đèn trong mơ đó từ đây không còn nhấp nháy nữa, giấc mơ của đêm cũ cũng đã bị thời gian dần nuốt chửng,\nNhững con chim đón chào ánh mặt trời vẫn líu lo ca hát, hát về giai thoại rực rỡ tựa những đóa hoa nở rộ,\nNhững đứa trẻ chưa từng nhìn thấy giấc mơ, sẽ được ban cho dũng khí, hy vọng và niềm vui,\nDệt nên khúc ca ngàn đêm mãi không hồi kết, thắp sáng ngọn lửa cho chiếc đèn đêm đang lặng lẽ chờ rạng đông.\n\nVượt qua mộng mị của ngàn đêm, mãi cho đến khi dạ oanh không còn hót, mãi cho đến khi mặt trời một lần nữa lặng xuống,\nNgười lữ khách đi đến tận cùng một lần nữa nhìn thấy chiếc đèn màu xanh, cố hương xa xôi đó,\nTường vi đọng sương mai vẫn đung đưa trong làn gió tắm ánh trăng, chờ cô ấy kể về câu chuyện mới:\n\"Dù cho hồi ức của đêm qua mãi không còn nữa, chúng ta vẫn phải hát vang vì giấc mộng đẹp của đêm nay.\""
+    }
+}

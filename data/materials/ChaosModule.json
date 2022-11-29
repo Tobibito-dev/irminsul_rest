@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chaos Module",
+        "de": "Chaos-Modul",
+        "chs": "混沌模块",
+        "cht": "混沌模組",
+        "es": "Módulo del caos",
+        "fr": "Module du chaos",
+        "id": "Chaos Module",
+        "jp": "混沌モジュール",
+        "kr": "혼돈 모듈",
+        "pt": "Módulo do Caos",
+        "ru": "Модуль хаоса",
+        "th": "Chaos Module",
+        "vi": "Mô Đun Hỗn Độn"
+    },
+    "id": 112069,
+    "materialDesc": {
+        "en": "Comes from a now-inactive ancient Ruin Drake.\\nThe dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated, conquered, or assimilated.",
+        "de": "Stammt von einem nicht länger aktiven uralten Ruinendrachen.\\nDie „Drachen“ waren die urtümlichsten und ältesten körperlichen Manifestationen der höchsten Stufe der Elemente, bis sie besiegt, bezwungen oder assimiliert wurden.",
+        "chs": "来自不再活动的古代遗迹龙兽。\\n「龙」是最为原始、古老的顶级元素受肉之形态，直到它们被击溃、被征服，抑或是被同化。",
+        "cht": "來自不再活動的古代遺蹟龍獸。\\n「龍」是最為原始、古老的頂級元素受肉之形態，直到牠們被擊潰、被征服，抑或是被同化。",
+        "es": "Proviene de un Dragón de las Ruinas inactivo.\\nLos dragones alguna vez fueron la manifestación más antigua y primitiva de los elementos supremos, hasta que fueron derrotados, conquistados o asimilados de alguna manera.",
+        "fr": "Provient d'un ancien Dragon des ruines désormais inactif.\\nLes dragons étaient autrefois l'incarnation charnelle la plus primitive et la plus ancienne des éléments suprêmes jusqu'à ce qu'ils soient vaincus, conquis ou assimilés.",
+        "id": "Berasal dari Ruin Drake kuno yang sekarang tidak aktif lagi.\\n\"Naga\" pernah menjadi bentuk tubuh paling primitif dan kuno dari unsur-unsur tertinggi sampai mereka dikalahkan, ditaklukkan, atau diasimilasi.",
+        "jp": "もう動かない古代遺跡ドレイクからとったもの。\\n「龍」はかつて、敗北し、征服されるまで…あるいは同化されるまで、最も原始的な、古代の至高なる元素の受肉形態であった。",
+        "kr": "더 이상 활동하지 않는 고대 유적 드레이크에게 얻은 것.\\n「드레이크」는 패배와 정복으로 억제 혹은 동화되기 전까지 가장 원시적이고 오래된 최상급 원소들이 육신을 가진 형태였다",
+        "pt": "Vem de um antigo dragão das ruínas que não está mais ativo.\\n\"Dragão\" é a encarnação do mais primitivo e antigo elemento superior. Eles só desaparecem quando são derrotados, conquistados ou assimilados.",
+        "ru": "Найден в древнем драконе руин.\\n«Драконы» - самая древняя и примитивная форма воплощения высших элементов. Впоследствии все они были разбиты, завоёваны или ассимилированы.",
+        "th": "สิ่งที่ได้มาจาก Ruin Drake โบราณที่ไม่ขยับเขยื้อนแล้ว\\n\"มังกร\" เป็นร่างเนื้อพลังงานธาตุระดับสูงดั้งเดิมที่เก่าแก่ที่สุด จนกระทั่งพวกมันถูกกำจัด พิชิต หรือหลอมรวมเข้าด้วยกัน",
+        "vi": "Đến từ Rồng Di Tích Cổ Đại không còn hoạt động.\\n\"Rồng\" là hình dạng nguyên thủy và cổ xưa nhất của các nguyên tố tối cao cho đến khi chúng bị đánh bại, chinh phục hoặc đồng hóa."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

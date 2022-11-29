@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Traveler's Notes",
+        "de": "Reisenotizen",
+        "chs": "旅行者的笔记",
+        "cht": "旅行者的筆記",
+        "es": "Notas del viajero",
+        "fr": "Notes du voyageur",
+        "id": "Catatan Pengembara",
+        "jp": "旅人のメモ",
+        "kr": "여행자의 노트",
+        "pt": "Anotações do Viajante",
+        "ru": "Записки путешественника",
+        "th": "บันทึกของนักเดินทาง",
+        "vi": "Bút Ký Của Nhà Lữ Hành"
+    },
+    "id": 100445,
+    "materialDesc": {
+        "en": "A clue found in the western Guili Plains ruins: \"Virtue grows tall like a tree, though there be shade it will flourish forever.\"",
+        "de": "Ein Hinweis aus den westlichen Ruinen der Guili-Ebene: „Moral ist wie ein Baum. Sie spendet Schatten und belebt ihre Umwelt.“",
+        "chs": "在归离原「西面」遗迹中发现的线索：「其德如树，荫蔽一间，生生不息。」",
+        "cht": "在歸離原「西面」遺蹟中發現的線索：「其德如樹，蔭蔽一間，生生不息。」",
+        "es": "Pista encontrada en las ruinas del oeste de la Llanura Guili: “La virtud crece como un árbol. Aunque arroje su sombra, prosperará por siempre”.",
+        "fr": "Indice récupéré à l'ouest des Plaines Guili : « La vertu grandit tel l'arbre ; malgré l'ombre, elle fleurit à jamais. »",
+        "id": "Sebuah petunjuk yang ditemukan di bagian barat reruntuhan Guili Plains: \"Kebajikan itu bagaikan pohon yang tinggi, bayang-bayangnya bisa menjadi tempat berteduh, dan akan bertumbuh selamanya.\"",
+        "jp": "帰離原「西側」の遺跡で発見した手がかり：「徳は木の如し、覆い隠し、生生流転。」",
+        "kr": "귀리 평원 「서쪽」 유적에서 발견된 단서: 「그 덕은 나무 같아서 그늘을 만들어주고 끊임없이 번성한다」",
+        "pt": "Uma pista encontrada nas ruínas das Planícies Guilli: \"A virtude cresce como uma árvore. Embora haja sombras, florescerá para sempre\".",
+        "ru": "Подсказка, найденная в руинах на западе долины Гуйли: «Стойкость подобна дереву, бесконечно разрастающемуся и плодоносящему в своей тени».",
+        "th": "เบาะแสที่ได้จากโบราณสถานทาง \"ทิศตะวันตก\" ของ Guili Plains: \"คุณธรรมเปรียบดังต้นไม้ คอยให้ร่มเงา ไม่มีที่สิ้นสุด\"",
+        "vi": "Manh mối được tìm thấy trong di tích \"phía tây\" Quy Li Nguyên: \"Đức hạnh như cây ngay, bao phủ che chở, không ngừng sinh sôi.\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sea Ganoderma Cutting",
+        "de": "Meereslackporling",
+        "chs": "「海灵芝」的样本",
+        "cht": "「海靈芝」的樣本",
+        "es": "Brote de hongo marino",
+        "fr": "Bouture de ganoderma marin",
+        "id": "Sea Ganoderma Cutting",
+        "jp": "「ウミレイシ」の標本",
+        "kr": "「바다 불로초」 표본",
+        "pt": "Espécime de Fungo Marítimo",
+        "ru": "Образец морского гриба",
+        "th": "Sea Ganoderma Cutting",
+        "vi": "Mẫu Chiết Hải Linh Chi"
+    },
+    "id": 130021,
+    "materialDesc": {
+        "en": "A cutting obtained from the Seed Dispensary. A quality cutting full of life, just waiting to be planted in the Realm Within's fields. After some time it will grow into a Sea Ganoderma.",
+        "de": "Eine Probe, die du der Saatschachtel entnommen hast. Eine Qualitätsprobe voller Leben, die nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus ein Meereslackporling.",
+        "chs": "通过「化种匣」获取的样本，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「海灵芝」。",
+        "cht": "透過「化種匣」獲得的樣本，富有活力，品質上佳，種植於壺中洞天的田畝後，可在一段時間後生長為「海靈芝」。",
+        "es": "Una muestra de buena calidad y llena de vitalidad obtenida del Semillero. Si la plantas en los campos del mundo interior de tu Relajatetera, tras cierto tiempo crecerá un hongo marino.",
+        "fr": "Une bouture obtenue dans la boîte à graines. Une bouture de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra un ganoderma marin.",
+        "id": "Sebuah setek yang didapatkan dari Seed Dispensary. Setek yang berkualitas dan penuh vitalitas sedang menantikan dirinya untuk ditanam di ladang di dalam Alam Poci. Setelah beberapa waktu, setek ini akan tumbuh menjadi \"Sea Ganoderma\".",
+        "jp": "「種の匣」で入手した標本。生命力が強く品質も高い。「壺洞天」の田んぼに植え、時間が経つと「ウミレイシ」に成長する。",
+        "kr": "「씨앗 함」을 통해 획득한 표본. 생명력이 넘치며 품질이 우수하다. 주전자 속 선계의 논밭에 재배하면 일정 시간 후 「바다 불로초」로 성장한다",
+        "pt": "Uma semente obtida pela Caixa de Sementificação. Está cheia de vida e é de excelente qualidade. Depois de ser plantada no Bule de Relachá e esperar um certo tempo, crescerá em um Fungo Marítimo.",
+        "ru": "Образец из сундука семян. Этот превосходный образец полон жизни. Посадите его на поле Чайника безмятежности, чтобы через некоторое время вырос морской гриб.",
+        "th": "เมล็ดพันธุ์ที่ได้จาก \"Seed Dispensary\" ที่เต็มไปด้วยความมีชีวิตชีวาและมีคุณภาพดี หลังจากที่ปลูกบนทุ่งกว้างของอาณาจักรในกาน้ำชาแล้ว ก็สามารถเติบโตเป็น Sea Ganoderma ได้ หลังจากเวลาผ่านไประยะหนึ่ง",
+        "vi": "Mẫu chiết nhận từ Hộp Hạt Giống, đầy sức sống, chất lượng tốt, sau khi trồng ở Thế Giới Trong Ấm, sẽ mọc thành \"Hải Linh Chi\"."
+    },
+    "materialType": "MATERIAL_HOME_SEED"
+}

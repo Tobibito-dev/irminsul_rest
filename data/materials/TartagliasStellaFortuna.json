@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tartaglia's Stella Fortuna",
+        "de": "Stella Fortuna von Tartaglia",
+        "chs": "达达利亚的命星",
+        "cht": "達達利亞的命星",
+        "es": "Stella Fortuna de Tartaglia",
+        "fr": "Stella Fortuna de Tartaglia",
+        "id": "Tartaglia's Stella Fortuna",
+        "jp": "タルタリヤの星屑",
+        "kr": "타르탈리아의 운명의 별",
+        "pt": "Stella Fortuna de Tartaglia",
+        "ru": "Удача Тартальи",
+        "th": "ดวงดาวแห่งชีวิตของ Tartaglia",
+        "vi": "Chòm Sao Của Tartaglia"
+    },
+    "id": 1133,
+    "materialDesc": {
+        "en": "Tartaglia's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Tartaglias Sternbild",
+        "chs": "达达利亚的命之座激活素材",
+        "cht": "達達利亞的命之座啟用素材。",
+        "es": "Material de activación de constelación de Tartaglia",
+        "fr": "Matériau d'activation de la constellation de Tartaglia.",
+        "id": "Material aktivasi untuk konstelasi Tartaglia",
+        "jp": "タルタリヤの命ノ星座アンロック用素材",
+        "kr": "타르탈리아의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Tartaglia",
+        "ru": "Материал для активации созвездия Тартальи.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Tartaglia",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Tartaglia"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

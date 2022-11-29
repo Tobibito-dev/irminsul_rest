@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wind-Blessed Harpastum",
+        "de": "Windsegen-Harpastum",
+        "chs": "风佑之羽球",
+        "cht": "風佑之羽球",
+        "es": "Harpastum de viento",
+        "fr": "Harpastum de vent",
+        "id": "Wind-Blessed Harpastum",
+        "jp": "風護のバドルドー",
+        "kr": "바람의 가호 하르파스툼",
+        "pt": "Harpastum da Proteção do Vento",
+        "ru": "Гарпастум ветра",
+        "th": "Wind-Blessed Harpastum",
+        "vi": "Quả Cầu Của Gió"
+    },
+    "id": 220027,
+    "materialDesc": {
+        "en": "A harpastum made from pure bird feathers and strong fabric. Perhaps it contains some strange power...",
+        "de": "Ein Harpastum, das aus reinen Vogelfedern und einem kräftigen Stoff gefertigt wurde. Vielleicht hat es ja eine besondere Kraft ...",
+        "chs": "以纯净的鸟羽和坚韧的布料所制作的羽球，或许拥有某种奇妙的力量…",
+        "cht": "以純淨的鳥羽和堅韌的布料所製作的羽球，或許擁有某種奇妙的力量…",
+        "es": "Un Harpastum hecho con unas sencillas plumas y un resistente material. ¿Qué misterioso poder ocultará?",
+        "fr": "Un harpastum fabriqué à partir de plumes d'oiseaux pures et d'étoffe solide. Il contient peut-être un pouvoir mystérieux...",
+        "id": "Harpastum yang dibuat murni dari bulu burung dan kain yang kuat. Mungkin mengandung kekuatan tertentu...",
+        "jp": "鳥の羽と丈夫な布で作られたバドルドー。不思議な力があるのかもしれない…",
+        "kr": "순결한 새의 깃털과 튼튼한 천으로 만든 하르파스툼. 신비한 힘이 깃들어 있는 것 같다",
+        "pt": "Um Harpastum feito com penas puras de pássaro e tecido firme. Talvez ele possua algum tipo de poder interessante...",
+        "ru": "Гарпастум, сделанный из натуральных птичьих перьев и прочной ткани. Возможно, в нём заключена удивительная сила...",
+        "th": "Harpastum ที่ทำขึ้นจากขนนกบริสุทธิ์และเนื้อผ้าที่ทนทาน บางทีอาจจะมีพลังวิเศษบางอย่างก็เป็นได้...",
+        "vi": "Quả cầu được làm từ lông vũ trắng muốt và vải bố bền bỉ, có lẽ ẩn chứa sức mạnh kỳ diệu nào đó..."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

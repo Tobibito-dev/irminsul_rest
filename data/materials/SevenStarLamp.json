@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Seven-Star Lamp",
+        "de": "Sieben-Sterne-Lampe",
+        "chs": "七星灯",
+        "cht": "七星燈",
+        "es": "Lámpara ceremonial",
+        "fr": "Lampe des étoiles",
+        "id": "Lampu Tujuh Bintang",
+        "jp": "七星灯",
+        "kr": "칠성등",
+        "pt": "Lanterna de Qixing",
+        "ru": "Лампа семизвездия",
+        "th": "โคมเจ็ดดาว",
+        "vi": "Đèn Thất Tinh"
+    },
+    "id": 100451,
+    "materialDesc": {
+        "en": "Seven-Star Lamp",
+        "de": "Sieben-Sterne-Lampe",
+        "chs": "七星灯",
+        "cht": "七星燈。",
+        "es": "Lámpara ceremonial",
+        "fr": "Lampe des étoiles",
+        "id": "Lampu Tujuh Bintang",
+        "jp": "七星灯",
+        "kr": "칠성등",
+        "pt": "Lanterna de Qixing",
+        "ru": "Лампа семизвездия",
+        "th": "โคมเจ็ดดาว",
+        "vi": "Đèn Thất Tinh"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

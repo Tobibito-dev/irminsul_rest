@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Rice Buns",
+        "de": "Leckere Klebreisbällchen",
+        "chs": "美味的米窝窝",
+        "cht": "美味的米窩窩",
+        "es": "Bolitas de harina de arroz deliciosas",
+        "fr": "Boules de riz gluant (délicieuse)",
+        "id": "Delicious Rice Bun",
+        "jp": "美味しそうな米まんじゅう",
+        "kr": "맛있는 쌀 찐빵",
+        "pt": "Bolinhas de Arroz Deliciosas",
+        "ru": "Вкусные рисовые пампушки",
+        "th": "Rice Bun แสนอร่อย",
+        "vi": "Bánh Gạo Thơm Ngon"
+    },
+    "id": 108199,
+    "materialDesc": {
+        "en": "Soft and fluffy buns. The unique sweetness of the whole grains passes between your teeth and lips as you chew. The relatively nondescript ingredients have been transformed into a true delicacy by your labors. This is one of the simple pleasures of the common folk and tastes best after some good, honest work.",
+        "de": "Weiches und luftiges Hauptnahrungsmittel. Die einzigartige Süße des Vollkorns breitet sich beim Kauen zwischen deinen Zähnen und Lippen aus. Die unscheinbaren Zutaten wurden durch deine Arbeit in etwas wahrlich Herzerwärmendes verwandelt. Dies ist die Freude des einfachen Bürgers und schmeckt am besten nach getaner, ehrlicher Arbeit.",
+        "chs": "松软弹牙的主食。粗粮特有的香甜，伴随着咀嚼渗入唇齿之间。再不起眼的食材，在劳动的作用下，也能成为温暖身心的力量。这份属于老百姓的幸福，流汗后品尝才最为美味。",
+        "cht": "鬆軟彈牙的主食。粗糧特有的香甜，伴隨著咀嚼滲入唇齒之間。再不起眼的食材，在勞動的作用下，也能成為溫暖身心的力量。這份屬於尋常百姓的幸福，流汗後品嚐才最為美味。",
+        "es": "Una esponjosa comida con una agradable textura. El delicioso sabor de este sencillo cereal es acompañado por la fantástica consistencia de la masa. ¿Quién iba a decir que unos ingredientes tan simples podrían procesarse hasta convertirse en algo tan agradable y reconfortante? Comúnmente hecho por la gente de a pie, este plato sabe aún mejor tras un duro día de trabajo.",
+        "fr": "Un mets de base, tendre et élastique. La douceur unique des grains de riz glisse entre vos dents et vos lèvres lorsque vous les mâchez. Qui aurait cru que des ingrédients aussi simples puissent donner un plat aussi agréable et réconfortant ? Généralement préparé par des gens ordinaires, ce plat s'apprécie encore plus après une dure journée de travail.",
+        "id": "Makanan pokok yang lembut dan empuk. Keunikan manisnya biji-bijian melewati gigi dan bibirmu saat dikunyah. Bahan-bahan yang tidak mencolok diubah menjadi sesuatu yang benar-benar menghangatkan hati oleh kerja kerasmu. Ini adalah kebahagiaan rakyat biasa dan rasanya akan terasa sangat enak saat dimakan setelah orang bekerja keras seharian.",
+        "jp": "ふんわりとした歯ごたえのある主食。噛むと口の中に雑穀特有の甘味が広がる。どんなに素朴な食材でもちゃんと手を加えると心身ともに温まる力となる。汗をかいた後にこれを味わうのが一番おいしく、庶民にとって幸せのひと時でもある。",
+        "kr": "폭신하고 쫄깃한 식감의 주식. 곡식 특유의 고소하고 달짝지근함이 씹을수록 입안 가득 퍼진다. 보잘것없는 식자재지만 노동을 통해서 몸과 마음을 따뜻하게 하는 힘을 갖게 된다. 이러한 서민의 행복은 땀을 흘린 후에 맛봐야 제맛이다",
+        "pt": "Uma comida leve na boca. Os grãos são particularmente doces, e ao serem mordidos, penetram entre os dentes. Não é uma comida excepcional, quando é utilizada no trabalho, torna-se uma força que revigora o corpo. Essa comida é uma felicidade das pessoas comuns, provar um pedaço depois de suarem possui um sabor belo.",
+        "ru": "Мягкие и в меру упругие пампушки. Восхитительная сладость цельных зёрен сочетается с фантастической консистенцией теста. Простые ингредиенты превратились в нечто по-настоящему вкусное. Обычно это блюдо готовят простые люди, а после тяжёлого рабочего дня его вкус становится ещё лучше.",
+        "th": "อาหารหลักนุ่มฟูเคี้ยวง่าย ความหวานอันเป็นเอกลักษณ์ของเมล็ดธัญพืชแทรกซึมอยู่ระหว่างริมฝีปากและฟันเมื่อเคี้ยว แม้ว่าจะไม่ใช่อาหารที่น่าตื่นตาตื่นใจ แต่ในด้านของการใช้แรงกายแล้ว ก็สามารถเป็นพลังที่ทำให้ร่างกายและจิตใจอบอุ่นขึ้นได้ ความสุขที่เป็นของคนธรรมดาทั่วไปนี้ จะอร่อยที่สุดก็ต่อเมื่อได้ทานหลังจากที่เสียเหงื่อ",
+        "vi": "Món ăn chính xốp mềm. Vị thơm ngọt vốn có của ngũ cốc lan tỏa khi được nhai trong miệng. Bất kể nguyên liệu tầm thường nào, dưới sự lao động nhiệt tình cũng trở thành sức mạnh ấm lòng. Đây chính là niềm hạnh phúc của lao động."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nikolay's Letter",
+        "de": "Nikolays Brief",
+        "chs": "尼古拉的信",
+        "cht": "尼古拉的信",
+        "es": "Carta de Nikolay",
+        "fr": "Lettre de Nikolay",
+        "id": "Surat Nikolay",
+        "jp": "ニコライの手紙",
+        "kr": "니콜라이의 편지",
+        "pt": "Carta de Nikolay",
+        "ru": "Письмо Николая",
+        "th": "จดหมายของ Nikolay",
+        "vi": "Thư Của Nikolay"
+    },
+    "id": 101712,
+    "materialDesc": {
+        "en": "A letter you found off one of the Black Serpent Knights. The name of the letter's recipient is neatly written: \"Katarina Snezhevna, My Dear Elder Sister,\" while the sender's name is written somewhat haphazardly, though you can make out the words \"Your Brother, Nikolay Snezhevich.\"",
+        "de": "Ein Brief, den du bei einem der Schwarzen Schlangenreiter gefunden hast. Der Name der Empfängerin des Briefes ist fein säuberlich geschrieben: „Katarina Snezhevna, meine liebe ältere Schwester“, während der Name des Absenders etwas unleserlich geschrieben ist, obwohl du die Worte „Dein Bruder, Nikolay Snezhevich“ erkennen kannst.",
+        "chs": "黑蛇骑士遗留下的信，收件人一栏工整地写着「亲爱的姐姐，卡塔琳娜·雪奈茨夫娜」，寄件人署名很潦草，勉强可以辨认出写的是「你的弟弟，尼古拉，雪奈茨维奇」。",
+        "cht": "黑蛇騎士遺留下的信，收件人一欄工整地寫著「親愛的姐姐，卡塔琳娜·雪奈茨夫娜」，寄件人署名很潦草，勉強可以辨認出寫的是「妳的弟弟，尼古拉，雪奈茨維奇」。",
+        "es": "Una carta que dejó uno de los Caballeros Serpiente Negra. En ella escribió el destinatario con cuidada letra: “A mi querida hermana, Katarina Snezhevna”. Sin embargo, el nombre del remitente aparece escrito con caracteres prácticamente ininteligibles: “De tu hermano, Nikolay Snezhevich”. Ha costado mucho entender lo que pone.",
+        "fr": "Une lettre que vous avez trouvée sur un des Chevaliers des Serpents noirs. Le nom du destinataire de la lettre a été rédigé soigneusement dessus : « Katarina Snezhevna, ma chère sœur aînée ». Celui de l'expéditeur a été écrit de manière quelque peu hâtive, bien qu'il soit tout de même lisible : « Ton frère, Nikolay Snezhevich. »",
+        "id": "Surat yang kamu temukan dari salah satu Black Serpent Knight. Nama penerima surat ditulis dengan rapi: \"Katarina Snezhevna, Kakakku yang Terhormat\", sedangkan nama pengirimnya ditulis dengan agak asal-asalan sampai hampir kalimat \"Saudaramu, Nikolay Snezhevich\"-nya tidak terbaca.",
+        "jp": "黒蛇騎士が残した手紙。受取人のところには、「親愛なる姉上、カタリナ·シェナイツェフナへ」ときっちり書かれている。しかし差出人の署名は走り書きで、かろうじて「あなたの弟、ニコライ·シュナイツェビッチ」と読める。",
+        "kr": "흑 뱀 기사가 남긴 편지. 받는 이는 「사랑하는 누나, 카타리나·슈나이제브나」로 반듯하게 적혀있지만, 보내는 이 서명에는 「동생, 니콜라이·슈나이제비치」라는 이름을 간신히 알아볼 수 있을 정도로 휘갈겨 적혀있다",
+        "pt": "Uma carta que você conseguiu com um dos Cavaleiros da Serpente Negra. O nome de quem deveria receber a carta está escrito cuidadosamente: \"Katarina Snezhevna, minha querida irmã mais velha\". O nome do remetente está escrito de qualquer jeito, mas você consegue ler: \"Seu irmão, Nikolay Snezhevich\".",
+        "ru": "Оставленное Рыцарем Чёрного Змея письмо. На нём опрятным почерком написан адресат, «Дорогой сестре, Катарине Снежневне», но подпись отправителя, «Твой брат, Николай Снежевич», едва разобрать.",
+        "th": "จดหมายที่ Black Serpent Knight ทิ้งไว้ ในส่วนผู้รับเขียนว่า \"ถึง Katarina Snezhevna พี่สาวที่รัก\" อย่างเป็นระเบียบ ลายเซ็นของผู้ส่งถูกเขียนอย่างลวก ๆ จนแทบจะมองไม่ออกว่าเขียนไว้ว่า \"Nikolay Snezhevich น้องชายของพี่\"",
+        "vi": "Thư của Kỵ Sĩ Hắc Xà để lại, chỗ người nhận được ghi một cách nắn nót \"Chị yêu dấu, Katarina Snezhevna\", chỗ người gửi thì ký tên khá nguệch ngoạc, miễn cưỡng có thể đọc ra là \"Em của chị, Nikolay Snezhevich\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

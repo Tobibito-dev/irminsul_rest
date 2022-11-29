@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Minty Bean Soup",
+        "de": "Misslungene Minzbohnensuppe",
+        "chs": "奇怪的薄荷豆汤",
+        "cht": "奇怪的薄荷豆湯",
+        "es": "Sopa de menta y frijoles extraña",
+        "fr": "Soupe de pois-menthe (suspecte)",
+        "id": "Suspicious Minty Bean Soup",
+        "jp": "微妙なミントビーンスープ",
+        "kr": "이상한 완두콩 민트 수프",
+        "pt": "Sopa de Feijão com Menta Estranha",
+        "ru": "Странный мятно-фасолевый суп",
+        "th": "Minty Bean Soup รสประหลาด",
+        "vi": "Canh Đậu Bạc Hà Kỳ Lạ"
+    },
+    "id": 108412,
+    "materialDesc": {
+        "en": "A rich soup made with simple ingredients. Due to an excess of water, the soup tastes more like a beverage than a proper dish. Why not add some ice and turn it into a bowl of Minty Bean Water, then?",
+        "de": "Eine dicke Suppe mit simplen Zutaten. Die übermäßige Zugabe von Wasser hat bewirkt, dass sie sehr dünn geworden ist und eher einem Getränk als einer Speise entspricht. Warum nicht einfach ein paar Eiswürfel hinzufügen und es zu einer „Minz-Bohnen-Limonade“ machen ...",
+        "chs": "用料简单的浓汤。加入了过量的水导致汤汁变得很稀薄，比起菜肴更像是饮料。要不再加点冰块，改造成「薄荷豆水」吧…",
+        "cht": "用料簡單的濃湯。加入了過量的水導致湯汁變得很稀薄，比起菜餚更像是飲料。要不再加點冰塊，改造成「薄荷豆水」吧…",
+        "es": "Una sopa espesa hecha con ingredientes sencillos. La adición de demasiada agua hace que la sopa sea muy clara y se parezca más a una bebida que a un plato. Tal vez sea una buena idea añadir un poco de hielo y hacer un tazón de agua de frijoles con menta.",
+        "fr": "Une soupe préparée avec des ingrédients simples. Elle contient trop d'eau, si bien qu'elle ressemble davantage à une boisson qu'à un véritable plat. Il est toujours possible de rattraper le tout en y ajoutant un peu de glace pour en faire de la soupe de haricots à la menthe...",
+        "id": "Hidangan sup dengan bahan yang sederhana. Karena terlalu banyak air, sup ini lebih mirip sebuah minuman daripada sebuah hidangan. Mungkin kalau ditambah es batu, hidangan ini bisa jadi Minty Bean Water yang laku ....",
+        "jp": "シンプルな材料で作った濃厚なスープ。水の入れすぎでスープがとても薄まっており、料理というよりはもはや飲み物に近い。いっそのこと、氷を入れて「ミントビーン水」にする…？",
+        "kr": "간단한 재료로 만든 수프. 물을 지나치게 많이 넣은 탓에 수프가 묽어져서 요리보다는 음료에 가까운 듯하다. 차라리 얼음을 좀 넣어서 「완두콩 민트 음료」로 개량하는 게 나을 듯하다…",
+        "pt": "Uma sopa bem rica, com ingredientes simples. Por conta do excesso de água, a sopa tem um gosto mais parecido com uma bebida, do que um prato próprio. Por que não adicionar logo um gelo e transformar em uma tigela de Água de Feijão com Menta?",
+        "ru": "Крем-суп из самых простых ингредиентов. Повар добавил слишком много воды, и суп получился таким жидким, что больше напоминает не еду, а напиток. Бросить туда пару кубиков льда - и получится мятно-фасолевый коктейль...",
+        "th": "ซุปข้นที่ใช้ส่วนผสมแบบเรียบง่าย เพราะเติมน้ำมากเกินไปจึงทำให้ดูจืดชืด และดูเหมือนเครื่องดื่มมากกว่าจะเป็นซุป หรือจะเติมน้ำแข็งลงไปดี จะได้กลายเป็น \"Minty Bean Water\" ซะเลย...",
+        "vi": "Món canh đậm đà được nấu bằng nguyên liệu đơn giản. Thêm quá nhiều nước làm canh bị loãng, giống như đồ uống hơn là một món ăn. Hay là thêm một vài viên đá và biến nó thành \"nước đậu bạc hà\" nhỉ..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

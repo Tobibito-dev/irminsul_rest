@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Bead",
+        "de": "Seltsame Perle",
+        "chs": "奇怪的珠子",
+        "cht": "奇怪的珠子",
+        "es": "Perla extraña",
+        "fr": "Perle étrange",
+        "id": "Manik Aneh",
+        "jp": "変わったビーズ",
+        "kr": "이상한 구슬",
+        "pt": "Pérola Estranha",
+        "ru": "Странные бусины",
+        "th": "ลูกแก้วประหลาด",
+        "vi": "Hạt Châu Kỳ Lạ"
+    },
+    "id": 120013,
+    "materialDesc": {
+        "en": "Strange bead found in the camp. It is unclear what it is used for...",
+        "de": "Im Lager gefundene seltsame Perle. Wozu die wohl gut ist ...",
+        "chs": "从营地里找到的奇怪珠子。不知道是用来做什么的…",
+        "cht": "從營地裡找到的奇怪珠子。不知道是用來做什麼的…",
+        "es": "Una perla extraña que encontraste en un campamento. No está clara cuál es su finalidad...",
+        "fr": "Une perle étrange trouvée dans le camp. On ne sait pas à quoi elle sert...",
+        "id": "Manik yang ditemukan di kemah. Entah apa fungsinya ....",
+        "jp": "拠点で見つけた変わったビーズ。何に使うのだろう…",
+        "kr": "야영지에서 찾은 이상한 구슬. 무슨 용도일까…",
+        "pt": "Uma pérola estranha encontrada em um acampamento. Não se sabe qual seu uso...",
+        "ru": "Странные бусины, обнаруженные в лагере. Интересно, зачем они нужны...",
+        "th": "ลูกแก้วประหลาดที่เก็บได้จากในค่าย ไม่รู้ว่ามีไว้ใช้ทำอะไร...",
+        "vi": "Hạt châu kỳ lạ được tìm thấy trong doanh trại. Không biết dùng để làm gì..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

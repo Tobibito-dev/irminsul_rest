@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Tandoori Roast Chicken",
+        "de": "Rezept: Tandoori-Brathähnchen",
+        "chs": "食谱：唐杜尔烤鸡",
+        "cht": "食譜：唐杜爾烤雞",
+        "es": "Receta: Pollo tandoori",
+        "fr": "Recette : Poulet tandoori",
+        "id": "Resep: Tandoori Roast Chicken",
+        "jp": "レシピ：タンドリーチキン",
+        "kr": "레시피: 탄두리 치킨",
+        "pt": "Receita: Frango Assado Tandoori",
+        "ru": "Рецепт: Цыплёнок в тандыре",
+        "th": "สูตรอาหาร: Tandoori Roast Chicken",
+        "vi": "Công Thức: Gà Nướng Tandoori"
+    },
+    "id": 109505,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Tandoori Roast Chicken.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Tandoori-Brathähnchen“.",
+        "chs": "步骤详实的食谱，记载着「唐杜尔烤鸡」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「唐杜爾烤雞」的製作方法。",
+        "es": "Receta paso a paso para hacer pollo tandoori.",
+        "fr": "Étapes de préparation du poulet tandoori.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Tandoori Roast Chicken.",
+        "jp": "「タンドリーチキン」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「탄두리 치킨」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Frango Assado Tandoori.",
+        "ru": "Подробный рецепт приготовления блюда «Цыплёнок в тандыре».",
+        "th": "สูตรอธิบายวิธีทำ \"Tandoori Roast Chicken\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Gà Nướng Tandoori\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

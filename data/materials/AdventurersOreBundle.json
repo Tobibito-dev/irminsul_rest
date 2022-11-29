@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventurer's Ore Bundle",
+        "de": "Beistandserzpaket",
+        "chs": "冒险助力矿材包",
+        "cht": "冒險助力礦材包",
+        "es": "Paquete de minerales del aventurero",
+        "fr": "Pack de minerai d'aide à l'aventure",
+        "id": "Adventurer's Ore Bundle",
+        "jp": "冒険助力鉱材パック",
+        "kr": "모험 조력 광석 패키지",
+        "pt": "Pacote de Suporte de Minérios do Aventureiro",
+        "ru": "Набор руды приключенца",
+        "th": "แพ็กวัสดุแร่ช่วยเหลือการผจญภัย",
+        "vi": "Túi Khoáng Sản Hỗ Trợ Mạo Hiểm"
+    },
+    "id": 115020,
+    "materialDesc": {
+        "en": "Special supplies that are only handed out during a boom period. Cyrus and Wagner had an all-night drinking contest, resulting in this excess of ore at the Guild.",
+        "de": "Einige besondere Hilfsgüter, die genau richtig zur Hochsaison kommen. Die beiden muskulösen Herren Cyrus und Wagner haben eine ganze Nacht in einer Taverne verbracht, um herauszufinden, wer stärker ist. Die Gilde konnte in der Zeit nur so viel Erz auftreiben.",
+        "chs": "恰逢旺季才提供的特殊补给。塞留斯先生和瓦格纳先生两个彪形大汉去酒吧花了一晚上去分胜负，协会才弄到这么多矿。",
+        "cht": "恰逢旺季才提供的特殊補給。賽琉斯先生和瓦格納先生兩個彪形大漢去酒吧花了一晚上去分勝負，協會才弄到這麼多礦。",
+        "es": "Suministros especiales que solo se entregan en temporada alta. Cyrus y Wagner compitieron durante toda la noche para ver quién podía beber más, de ahí la razón de que el Gremio tenga esta gran cantidad de minerales.",
+        "fr": "Ravitaillement en minerai de saison. Maîtres Cyrus et Wagner ont passé la nuit à se mesurer pour déterminer qui était le meilleur buveur des deux. D'où cet excès de minerai présent à la Guilde.",
+        "id": "Barang spesial yang hanya dibagikan saat musim ramai. Cyrus dan Wagner menghabiskan semalaman berlomba minum, hasilnya adalah Ore yang berlimpah di Guild.",
+        "jp": "ピークシーズンにしか提供されない特別な補給品。サイリュスさんとワーグナーさんが一晩かけて飲み比べして手に入れたものだ。",
+        "kr": "성수기에만 지급되는 특수 패키지. 사이러스와 바그너가 밤새 음주 대결을 하고 길드가 겨우 손에 넣은 광물이다",
+        "pt": "Itens especiais apenas entregues durante o período de crescimento. Cyrus e Wagner fizeram uma competição de bebida durante toda a noite e isso resultou no excesso de minério na Guilda",
+        "ru": "Особые припасы, которые обычно выдаются в пиковый сезон. В Гильдии накопился такой большой запас руды из-за пьяных споров между Сайрусом и Вагнером.",
+        "th": "ไอเทมพิเศษที่มีให้เฉพาะช่วงไฮซีซั่นเท่านั้น Cyrus กับ Wagner สองหนุ่มผู้กำยำได้แข่งกันดื่มโต้รุ่งที่ร้านเหล้า ทำให้กิลด์ได้รับแร่ที่เหลือจำนวนมาก",
+        "vi": "Một số đồ tiếp tế đặc biệt chỉ cung cấp trong mùa cao điểm. Hai người Cyrus và Wagner hùng hổ đến quán rượu quyết phân thắng thua cả một tối, hiệp hội mới có được nhiều khoáng như vậy."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

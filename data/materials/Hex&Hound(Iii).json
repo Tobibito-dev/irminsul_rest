@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hex & Hound (III)",
+        "de": "Mehr als nur ein Hund III",
+        "chs": "犬又二分之一·三",
+        "cht": "犬又二分之一·三",
+        "es": "Más que un simple perro (III)",
+        "fr": "Plus qu'un chien - III",
+        "id": "Separuh Serigala (III)",
+        "jp": "犬と二分の一·3",
+        "kr": "개와 2분의 1·Ⅲ",
+        "pt": "Hex & Hound (III)",
+        "ru": "Ведьма и гончая. Том III",
+        "th": "เฮ็กซ์ & ฮาวด์-III",
+        "vi": "Mật Ngữ Của Khuyển III"
+    },
+    "id": 100570,
+    "materialDesc": {
+        "en": "Even when you live in a safe city, you should watch out for the wolves that lurk in the night... Something more impossible to master than mass hypnosis is revealed within these pages.",
+        "de": "Selbst in einer vermeintlich sicheren Stadt sollte man sich vor den Wölfen in Acht nehmen, die des Nachts in der Dunkelheit lauern. Dieses Mal geht es um eine Kunst, die schwerer zu beherrschen ist als Massenhypnose.",
+        "chs": "即使居于安全的城市，也要小心夜间逼近的狼爪…比大型催眠术更难以掌控的东西，在此揭晓。",
+        "cht": "即使居於安全的城市，也要小心夜間逼近的狼爪…比大型催眠術更難以掌控的東西，在此揭曉。",
+        "es": "Aunque vivas en una ciudad totalmente segura, siempre tienes que tener cuidado: los lobos acechan en la oscuridad. Entre estas páginas podrás encontrar técnicas tan insólitas como la hipnosis en masa.",
+        "fr": "Il ne faut pas baisser votre garde, même quand vous vivez dans une cité sûre... Un art plus difficile à maîtriser que l'hypnose de masse se dévoilera dans ce volume.",
+        "id": "Meskipun kamu tinggal di kota yang aman dan tenteram, kamu tetap harus waspada akan serigala yang mengintai di malam hari... Sesuatu yang lebih sulit dikuasai dari hipnotis masal, akan terungkap di sini.",
+        "jp": "安全な都市で暮らすも、夜に近づいてくる狼爪に気をつけるべきである…大型の催眠術よりも操りにくいものがここにある。",
+        "kr": "안전한 도시에 거주하더라도 밤중에 다가오는 늑대의 발톱을 조심해야 한다… 최면술보다 더 통제하기 어려운 게 여기서 밝혀진다",
+        "pt": "Mesmo em uma cidade supostamente segura, cuidado com os lobos à espreita no escuro durante a noite. Desta vez, se trata de uma arte que é mais difícil de dominar do que a hipnose em massa.",
+        "ru": "Во мраке ночи безопасного, казалось бы, города могут таиться хищники... Нечто куда более трудное для освоения, чем массовый гипноз, раскрывается на этих страницах.",
+        "th": "แม้ว่าจะอาศัยอยู่ในเมืองที่ปลอดภัย ก็ต้องระวังกรงเล็บหมาป่าที่เข้าใกล้ในยามค่ำคืน... สิ่งที่ควบคุมได้ยากกว่าการสะกดจิตนั้น จะเปิดเผยให้ได้รู้กันที่นี่",
+        "vi": "Cho dù sống ở thành thị an toàn thì cũng phải cẩn thận vuốt sói lúc giữa đêm... Thứ còn khó nắm bắt hơn cả thuật thôi miên tầm cỡ, sẽ được hé mở ngay bây giờ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

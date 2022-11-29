@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Mora Meat",
+        "de": "Leckeres Mora-Medaillon",
+        "chs": "美味的摩拉肉",
+        "cht": "美味的摩拉肉",
+        "es": "Carne de Mora deliciosa",
+        "fr": "Viande-mora (délicieuse)",
+        "id": "Delicious Mora Meat",
+        "jp": "美味しそうなモラミート",
+        "kr": "맛있는 모라육",
+        "pt": "Carne de Mora Deliciosa",
+        "ru": "Вкусная лепёшка «Мора»",
+        "th": "Mora Meat แสนอร่อย",
+        "vi": "Thịt Mora Ngon"
+    },
+    "id": 108094,
+    "materialDesc": {
+        "en": "A large hunk of minced meat packaged inside a pastry. With a crispy crust and tender meat, this legendary delicacy is so succulent that not even Mora laid in front of you could distract you from enjoying it.",
+        "de": "Ein Fladen mit großzügiger Hackfleischfüllung. Während der Fladen leicht knusprig ist, bleibt das Fleisch im Innern zart und saftig. Selbst angesichts eines Haufens Mora möchte man sich nicht von diesem Gericht trennen.",
+        "chs": "包裹大块肉馅的饼食。饼酥肉嫩，饱满多汁。只一口便能陶醉，有着即使摩拉在眼前也让人不愿意分心拾取的传奇美味。",
+        "cht": "包裹大塊肉餡的餅食。餅酥肉嫩，飽滿多汁。只一口便能陶醉，有著即使摩拉在眼前也讓人不願意分心拾取的傳奇美味。",
+        "es": "Una gran ración de carne picada usada como relleno dentro de un pan. Un solo bocado es suficiente para llegar al éxtasis. Debido a su glorioso sabor, el comensal no se distraerá ni aunque tenga un montón de Moras enfrente de sí mismo.",
+        "fr": "#Un plat de viande en croûte. Tendre à souhait à l'intérieur et légèrement croustillante à l'extérieur, elle ne vous laissera pas {M#indifférent}{F#indifférente}. Même une pile de moras placée sous vos yeux ne vous empêchera pas de savourer ce plat.",
+        "id": "Sepotong besar daging cincang dikemas di dalam kue. Dengan kerak renyah dan daging empuk, kelezatan yang legendaris ini begitu sempurna bahkan jika Mora terpampang di depan matamu, kamu masih tidak bisa berhenti menikmati hidangan ini.",
+        "jp": "肉たっぷりの焼餅。パリパリの皮とジューシーな肉。一口でハマる美味しさ、たとえ目の前にモラがたくさん積まれても、気を取られることはないだろう。",
+        "kr": "고기로 속이 꽉 찬 전병. 겉은 바삭하고 속은 촉촉하며 육즙이 가득하다. 한 입 베어 물면 눈앞에 있는 모라도 무시할 수 있을 정도로 풍미가 넘친다",
+        "pt": "Um grande pedaço de carne picada embalado dentro de uma massa. Com uma crosta crocante e carne macia, essa iguaria lendária é tão suculenta que nem mesmo o Mora colocado na sua frente poderia distraí-lo de apreciá-la.",
+        "ru": "Надрезанная пополам хлебная лепёшка с мясной начинкой. Это легендарное лакомство из нежного мяса, покрытого хрустящей корочкой, настолько сочное, что даже монеты мора, лежащие перед вами, не могли бы вас от него отвлечь.",
+        "th": "ของว่างที่สอดไส้เนื้อชิ้นใหญ่ ตัวแป้งกรอบและเนื้อนุ่ม ชุ่มฉ่ำแบบสุด ๆ เพียงแค่กัดเข้าไปหนึ่งคำก็ทำให้ดื่ม ด่ำถึงขนาดที่ว่าจะเอา Mora มาแลกก็ไม่ยอม",
+        "vi": "Bánh bọc viên nhân thịt lớn. Da giòn thịt mềm mại, mọng nước. Cắn một miếng ngất ngây vô cùng, mùi vị thần thánh đến mức ngay cả Mora ở trước mắt cũng không thể làm người ta phân tâm."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

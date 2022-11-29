@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gorou: Leisurely Hound",
+        "de": "Gorou – Gemächlicher Jagdhund",
+        "chs": "五郎·悠犬",
+        "cht": "五郎·悠犬",
+        "es": "Gorou - Sabueso tranquilo",
+        "fr": "Gorou - Chien serein",
+        "id": "Gorou: Leisurely Hound",
+        "jp": "ゴロー·悠犬",
+        "kr": "고로·한가한 강아지",
+        "pt": "Gorou: Pegureiro de Lazer",
+        "ru": "Безмятежный пёс",
+        "th": "Gorou - Leisurely Hound",
+        "vi": "Gorou - Chó Nhàn Nhã"
+    },
+    "id": 210104,
+    "materialDesc": {
+        "en": "Namecard style.\\nAs long as you believe in the path you are walking, then everything you encounter on your journey will be a source of happiness.",
+        "de": "Ein Motiv für Namenskärtchen.\\nSolange man an seinen Weg glaubt, wird alles, was einem auf seiner Reise begegnet, eine Quelle des Glücks sein.",
+        "chs": "名片纹饰。\\n只要相信自己行走的道路，那么这漫长旅途中遇到的一切都将是令人愉快的。",
+        "cht": "名片紋飾。\\n只要相信自己行走的道路，那麼這漫長旅途中遇到的一切都將是令人愉快的。",
+        "es": "Diseño de tarjeta de presentación.\\nSi tienes confianza en el camino que sigues, todo lo que encuentres en tu viaje será un motivo de alegría.",
+        "fr": "Thème.\\nTant qu'on croit au chemin sur lequel on s'est engagé, alors tout ce qu'on rencontre au cours de son périple est source de bonheur.",
+        "id": "Style Kartu Nama.\\nSelama kamu tetap meyakini jalan yang kamu tempuh, maka semua yang kamu temui dalam perjalananmu akan menjadi sumber kebahagiaan.",
+        "jp": "名刺の飾り紋。\\n自分の歩く道を信じていれば、長い旅の中で出会ったものがすべて楽しめる。",
+        "kr": "명함 스킨.\\n자신이 믿는 길을 걷는다면, 긴 여정에서 만난 모든 것이 즐거울 것이다",
+        "pt": "Estilo de Cartão de Visita.\\nEnquanto você acreditar no caminho que está fazendo, tudo que você encontrar em sua jornada será uma fonte de felicidade.",
+        "ru": "Именная карта.\\nПока вы верите в путь, по которому идёте, всё, с чем вы столкнётесь, будет источником счастья.",
+        "th": "ลายนามบัตร\\nขอแค่มีความเชื่อมั่นในเส้นทางที่ตัวเองเลือกเดิน แล้วทุกสิ่งทุกอย่างที่พบเจอในระหว่างการเดินทางอันยาวนาน จะกลายเป็นสิ่งน่ารื่นรมย์",
+        "vi": "Hoa văn danh thiếp.\\nChỉ cần tin tưởng vào con đường mình chọn, thì mọi sự việc chúng ta gặp phải trên con đường dài đó đều sẽ khiến ta vui vẻ."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

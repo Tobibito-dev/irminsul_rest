@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nilou: Lotus Dance",
+        "de": "Nilou – Lotostanz",
+        "chs": "妮露·莲舞",
+        "cht": "妮露·蓮舞",
+        "es": "Nilou - Baile del loto",
+        "fr": "Nilou - Danse du lotus",
+        "id": "Nilou: Lotus Dance",
+        "jp": "ニィロウ·蓮舞",
+        "kr": "닐루·수련의 춤",
+        "pt": "Nilou — Dança de Lótus",
+        "ru": "Нилу: Танец лотоса",
+        "th": "Nilou - ระบำบงกช",
+        "vi": "Nilou - Vũ Điệu Hoa Sen"
+    },
+    "id": 210136,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe lotus that blooms amidst the pure water is naught but a flash of light beneath her toes.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDer sich in sauberem Wasser öffnende Lotos, ist nichts als ein vorbeirauschendes Licht unter ihren Fußspitzen.",
+        "chs": "名片纹饰。\\n绽于净水的莲华，不过是她足尖下的一刹流光。",
+        "cht": "名片紋飾。\\n綻於淨水的蓮華，不過是她足尖下的一刹流光。",
+        "es": "Diseño de tarjeta de presentación.\\nEl loto que florece en un agua pura no es más que un destello de luz bajo los dedos de sus pies.",
+        "fr": "Thème.\\nLe lotus qui fleurit au milieu de l'eau pure n'est rien d'autre qu'un éclair de lumière sous ses orteils.",
+        "id": "Style kartu nama.\\nBunga teratai yang mekar di air murni hanyalah kilatan cahaya sekejap di bawah jari kakinya.",
+        "jp": "名刺の飾り紋。\\n清浄な水に咲く蓮でさえ、彼女の足元を流れる一刹那の光に過ぎない。",
+        "kr": "명함 스킨.\\n맑은 물에 피어난 연꽃은 그녀의 발끝에서 반짝이는 찰나의 빛줄기에 불과하다",
+        "pt": "Estilo de Cartão de Visita.\\nO lótus que desabrocha na água pura é somente um reluzir de um raio de luz sob seus pés.",
+        "ru": "Именная карта.\\nЛотос, цветущий среди чистой воды, - всего лишь проблеск света под её стопами.",
+        "th": "ลวดลายนามบัตร\\nบัวงามที่เบ่งบานท่ามกลางสายน้ำบริสุทธิ์ ต่างเป็นแค่ประกายแสงพราวที่ปลายเท้าของเธอเพียงเท่านั้น",
+        "vi": "Hoa văn danh thiếp.\\nĐóa hoa sen nở trong làn nước thanh khiết chỉ là một tia sáng dưới ngón chân nàng."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

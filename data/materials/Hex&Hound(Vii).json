@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hex & Hound (VII)",
+        "de": "Mehr als nur ein Hund VII",
+        "chs": "犬又二分之一·七",
+        "cht": "犬又二分之一·七",
+        "es": "Más que un simple perro (VII)",
+        "fr": "Plus qu'un chien - VII",
+        "id": "Separuh Serigala (VII)",
+        "jp": "犬と二分の一·7",
+        "kr": "개와 2분의 1·Ⅶ",
+        "pt": "Hex & Hound (VII)",
+        "ru": "Ведьма и гончая. Том VII",
+        "th": "เฮ็กซ์ & ฮาวด์-VII",
+        "vi": "Mật Ngữ Của Khuyển VII"
+    },
+    "id": 100735,
+    "materialDesc": {
+        "en": "\"A good person, one who smiles as she gives out dog biscuits...\" What is the true identity of the strange young woman in the familiar forest?",
+        "de": "„Sie ist ein guter Mensch, der lächelnd Hundefutter ausgibt ...“ So begegnest du dem unbekannten Mädchen in dem vertrauten Wald wieder. Wer ist sie eigentlich ...",
+        "chs": "「是会一边笑着一边分发狗饼干的好人呢…」在熟悉的树林与陌生的少女再次相逢，其真身究竟是——",
+        "cht": "「是會一邊笑著一邊分發狗餅乾的好人呢…」在熟悉的樹林與陌生的少女再次相逢，其真身究竟是——",
+        "es": "“¿Por qué se ríe mientras me da galletas para perros?”. En este nuevo encuentro en un bosque muy familiar, ¿quién será realmente la joven desconocida?",
+        "fr": "« Pourquoi souriez-vous en me donnant des biscuits pour chien ? » Lors de cette nouvelle rencontre dans une forêt très familière, qui se cache derrière cette jeune femme inconnue ?",
+        "id": "\"Orang baik yang bisa membagi-bagikan biskuit anjing sambil tersenyum...\" Saat berjumpa kembali dengan gadis asing itu di hutan yang kukenal, ternyata tubuh sebenarnya adalah——",
+        "jp": "「笑顔で犬にビスケットあげるいい人…」よく知る森で見知らぬ女の子と再び会った時、彼の正体は果たして——",
+        "kr": "「웃으면서 강아지 비스킷을 나눠주는 착한 사람이네 …」 익숙한 숲속에서 낯선 소녀를 재회했다. 그의 진정한 신분은——",
+        "pt": "\"É uma pessoa bondosa que ri enquanto dá biscoitos aos cachorrinhos...\" Nesse novo encontro nessa floresta tão familiar, quem será realmente a jovem desconhecida?",
+        "ru": "«Добрый человек, который с улыбкой угощает собаку печеньем...» В знакомом лесу ему повстречалась незнакомка, но кем же она была на самом деле?",
+        "th": "\"เป็นคนดีที่สามารถคุกกี้ให้สุนัขพร้อมกับยิ้มไปด้วย.. \" เมื่อฉันได้พบกับสาวน้อยแปลกหน้าอีกครั้งในป่าที่คุ้นเคย ร่างที่แท้จริงของเธอคือ——",
+        "vi": "\"Là một người tốt vừa cười vừa phát thức ăn cho chó đó...\" Gặp lại thiếu nữ xa lạ trong khu rừng quen thuộc, thân phận thực sự của người ấy là..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

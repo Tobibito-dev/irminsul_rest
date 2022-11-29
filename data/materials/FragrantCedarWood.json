@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fragrant Cedar Wood",
+        "de": "Duftendes Zedernholz",
+        "chs": "垂香木",
+        "cht": "垂香木",
+        "es": "Madera de cedro fragante",
+        "fr": "Bois de cèdre parfumé",
+        "id": "Fragrant Cedar Wood",
+        "jp": "垂香材",
+        "kr": "수향나무",
+        "pt": "Madeira de Cedro Fragrante",
+        "ru": "Ароматный кедр",
+        "th": "ไม้หอม",
+        "vi": "Gỗ Thùy Hương"
+    },
+    "id": 101307,
+    "materialDesc": {
+        "en": "Wood from the Cedar tree. Also known as the \"Fragrant Cedar\" for the aromatic oils it contains.\\nCan be used to create furnishings.",
+        "de": "Das Holz des Zedernbaums. Auch bekannt als die „Duftende Zeder“ wegen der aromatischen Öle, die sie enthält.\\nKann zum Herstellen von Dekoration verwendet werden.",
+        "chs": "产自「苍柏」的木材，因其富含油脂，香气别致，有着「垂香木」的别称。\\n可用于制作摆设。",
+        "cht": "產自「蒼柏」的木材，因其富含油脂，香氣別緻，有著「垂香木」的別稱。\\n可用於製作擺設。",
+        "es": "Madera obtenida de cedros fragantes. Estos árboles se llaman así por los aceites aromáticos que contienen.\\nPuede utilizarse para fabricar decoraciones.",
+        "fr": "Bois obtenu à partir de cèdre. Aussi connu sous le nom de « cèdre parfumé » du fait des huiles aromatiques qu'il contient.\\nPeut être utilisé pour fabriquer des décorations.",
+        "id": "Kayu dari Pohon Aras. Juga dikenal sebagai \"Aras Harum\" karena mengandung minyak alami yang beraroma.\\nDapat digunakan untuk membuat perabotan.",
+        "jp": "「柏の木」から生産される木材。油分が豊富で独特の香りを持つことから「垂香の木」とも呼ばれている。\\n調度品の製作に使うことができる。",
+        "kr": "「측백나무」에서 얻어낸 목재. 유분이 풍부하기 때문에 독특한 향으로 「수향나무」라고도 불린다.\\n장식 제작용으로 사용할 수 있다",
+        "pt": "Madeira da árvore de Cedro. Também conhecido como \"Cedro Fragrante\" devido aos óleos aromáticos que contém.\\nPode ser usada para fabricar Decorações.",
+        "ru": "Древесина, полученная из кедра. Также известна как «ароматный кедр» благодаря содержащимся в нём ароматическим маслам.\\nСлужит для изготовления декора.",
+        "th": "ไม้ที่ได้จาก \"ต้นไซเปรส\" เนื่องจากมีน้ำมันและกลิ่นหอมที่เป็นเอกลักษณ์ จึงมีชื่อเรียกอีกอย่างว่า \"ไม้หอม\"\\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+        "vi": "Vốn là gỗ Thương Bách, vì có nhiều dầu, hương thơm khác biệt mà được gọi với tên khác là Gỗ Thùy Hương.\\nCó thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_WOOD"
+}

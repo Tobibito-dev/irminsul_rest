@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Berry Mizu Manjuu",
+        "de": "Misslungene Beeren-Mizu-Dampfbrötchen",
+        "chs": "奇怪的树莓水馒头",
+        "cht": "奇怪的樹莓水饅頭",
+        "es": "Pastelillos de bayas acuosos extraños",
+        "fr": "Mizu manju aux baies (suspects)",
+        "id": "Suspicious Berry Mizu Manjuu",
+        "jp": "微妙なラズベリー水まんじゅう",
+        "kr": "이상한 라즈베리 물방울 떡",
+        "pt": "Mizu Manjuuu de Baga Estranho",
+        "ru": "Странный ягодный мидзу мандзю",
+        "th": "Berry Mizu Manjuu รสประหลาด",
+        "vi": "Mochi Mâm Xôi Kỳ Lạ"
+    },
+    "id": 108348,
+    "materialDesc": {
+        "en": "A crystal-clear snack. It certainly looks like \"mizu,\" or water — but unfortunately, it tastes like it too. Where did you go wrong?",
+        "de": "Ein kristallklarer Leckerbissen. Er sieht sicherlich aus wie Mizu, also Wasser, aber leider schmeckt er auch so. Wo liegt das Problem?",
+        "chs": "晶莹剔透的点心。看起来像水不假，吃起来却也像水一般，没什么味道。到底是哪里出了错呢？",
+        "cht": "晶瑩剔透的點心。看起來是像水，吃起來卻也像水一般，沒什麼味道。到底是哪裡出了錯呢？",
+        "es": "Un postre de aspecto brillante y traslúcido. Parece incoloro e insípido como el agua. Mejor dicho, no lo parece, lo es. ¿Qué es lo que fue mal al prepararlo?",
+        "fr": "Un encas clair comme du cristal. Il ressemble à de l'eau, mais en a aussi le goût. Où vous êtes-vous trompé ?",
+        "id": "Camilan sebening kristal. Tampangnya seperti \"mizu,\" yang artinya air — Tapi sayangnya, rasanya juga memang seperti air. Kira-kira, salah di mana ya?",
+        "jp": "透き通ったお菓子。見た目は水のようだが、食感も水と同じように、何の味もしない。一体どこで間違えたのだろう？",
+        "kr": "반짝이고 투명한 후식. 물처럼 보이는 것처럼 먹었을 때도 물처럼 아무 맛도 나지 않는다. 대체 뭐가 잘못된 걸까?",
+        "pt": "Um lanche cristalino. Certamente se parece com \"mizu\", ou água - mas infelizmente, também tem o mesmo gosto. Onde será que você errou?",
+        "ru": "Блестящий полупрозрачный десерт. Он выглядит бесцветным и безвкусным, как вода. На самом деле он таковым и является. Что пошло не так при его приготовлении?",
+        "th": "ขนมสีโปร่งใส ดูแล้วเหมือนหยดน้ำ พอกินเข้าไปก็เหมือนกินน้ำ ไม่มีรสชาติอะไรเลย ปัญหามันอยู่ตรงไหนกันนะ?",
+        "vi": "Món ăn có màu sắc trong trẻo lung linh. Trông rất giống nước, ăn vào quả thật cũng giống nước lã, chả có vị gì. Sai ở đâu nhỉ?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

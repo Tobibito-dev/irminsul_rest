@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Matsutake Meat Rolls",
+        "de": "Mit Matsutake gefüllte Fleischröllchen",
+        "chs": "松茸酿肉卷",
+        "cht": "松茸釀肉捲",
+        "es": "Rollos de carne con matsutake",
+        "fr": "Rouleaux de viande au matsutake",
+        "id": "Matsutake Meat Roll",
+        "jp": "松茸の肉巻き",
+        "kr": "버섯고기말이",
+        "pt": "Enroladinho de Carne com Matsutake",
+        "ru": "Голубцы с грибами",
+        "th": "Matsutake Meat Roll",
+        "vi": "Nhung Tùng Ủ Thịt Cuộn"
+    },
+    "id": 108090,
+    "materialDesc": {
+        "en": "A pan-fried meat dish. Ground meat is put on the Matsutake and gently pan-fried on low heat so the Matsutake can fully take in the aromatic juice of the meat. It's a mouthwatering delicacy in all of its glory.",
+        "de": "Ein langsam gebratenes Fleischgericht. Die noch rohen Matsutake werden mit Hackfleisch umhüllt. Während des langsamen Garens zieht der Fleischsaft in die Matsutake ein, was allein schon ein Grund zur Vorfreude ist.",
+        "chs": "煎制而成的肉料理。肉泥裹上松茸细火慢煎，使松茸内吸满了香浓的肉汁，令人垂涎欲滴。",
+        "cht": "煎製而成的肉料理。肉泥裹上松茸細火慢煎，使松茸內吸滿了香濃的肉汁，令人垂涎欲滴。",
+        "es": "Un plato de carne salteada. El matsutake troceado se envuelve en carne picada y se fríe a fuego lento, de manera que la seta absorbe los jugos aromáticos de la carne. A cualquiera se le hace la boca agua con este plato.",
+        "fr": "Un plat de viande hachée, poêlée avec des champignons matsutake à feu doux. Ces derniers absorbent le jus de la viande et en font saliver plus d'un.",
+        "id": "Hidangan daging yang digoreng. Daging giling ditabur di atas matsutake dan digoreng dengan api kecil supaya matsutakenya dapat menyerap aroma di dalam daging. Ini adalah hidangan yang menggiurkan.",
+        "jp": "肉を焼いた料理。松茸を肉で巻いて、弱火でじっくり焼く。肉汁を吸い込んだ松茸にもはや我慢できない。",
+        "kr": "구운 고기 요리. 송이버섯을 잘게 다진 고기로 감싸 약불에 구워낸다. 송이버섯에 육즙이 골고루 스며들어 먹음직스럽다",
+        "pt": "Um prato de carne frito. A carne moída é colocada no Matsutake e frita delicadamente em fogo baixo, para que o Matsutake possa absorver completamente o suco aromático da carne. É uma iguaria de dar água na boca em toda a sua glória.",
+        "ru": "Мясное блюдо, приготовленное на сковороде. Невысокая температура и продолжительное томление позволяют грибам полностью раскрыть свой вкус и аромат.",
+        "th": "อาหารจำพวกเนื้อสัตว์ทอด นำเห็ดมัตสึทาเคะมาห่อด้วยเนื้อ แล้วทอดด้วยน้ำมันน้อย ๆ และไฟอ่อน ๆ เพื่อให้กลิ่นหอมและความฉ่ำของเนื้อซึมซาบเข้าไปในเห็ดมัตสึทาเคะ ช่างชวนให้น้ำลายไหลซะจริง ๆ",
+        "vi": "Món thịt chiên. Thịt băm được bọc trong nhung tùng và chiên từ từ, khiến cho nhung tùng hấp thu hết vị ngọt của thịt, khiến người ta thèm thuồng."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

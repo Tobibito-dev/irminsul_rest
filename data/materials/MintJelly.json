@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mint Jelly",
+        "de": "Minzgötterspeise",
+        "chs": "薄荷果冻",
+        "cht": "薄荷果凍",
+        "es": "Gelatina de menta",
+        "fr": "Gelée de menthe",
+        "id": "Mint Jelly",
+        "jp": "ミントゼリー",
+        "kr": "허브 젤리",
+        "pt": "Gelatina de Menta",
+        "ru": "Мятное желе",
+        "th": "Mint Jelly",
+        "vi": "Thạch Bạc Hà"
+    },
+    "id": 108226,
+    "materialDesc": {
+        "en": "A refreshing dessert. The steps to making this are quite simple indeed, and when it slides down your throat, the faint, fresh flavor of mint will leave you feeling reinvigorated for the rest of the day.",
+        "de": "Eine erfrischende Nachspeise. Die Schritte zur Herstellung sind in der Tat recht einfach und wenn sie die Kehle hinuntergleitet, wird der leichte, frische Geschmack von Minze dich für den Rest des Tages beleben.",
+        "chs": "口感清凉的甜点。制作步骤十分简单，柔滑的入口和淡淡的薄荷清香却能带给人一整天的清爽心情。",
+        "cht": "口感清涼的甜點。製作步驟十分簡單，柔滑的入口和淡淡的薄荷清香卻能帶給人一整天的清爽心情。",
+        "es": "Un postre muy refrescante. Hacerlo es muy sencillo. Cuando se desliza por tu garganta, el sutil y refrescante sabor de la menta renueva completamente tus energías.",
+        "fr": "Un dessert au goût frais. Très simple à préparer, quand il glisse dans la gorge, le goût rafraîchissant et subtil de la menthe vous laisse revigoré pour le reste de la journée.",
+        "id": "Makanan penutup yang menyegarkan. Cara membuat hidangan ini cukup mudah. Tekstur jeli yang lembut dan rasa mint yang segar pasti akan menyegarkanmu sepanjang hari.",
+        "jp": "ひんやり爽やかなデザート。作り方は非常に簡単。滑らかな食感とふんわりとしたミントの香りは一日の気分を爽やかにしてくれる。",
+        "kr": "상쾌한 맛이 나는 디저트. 제작 과정이 아주 간단하지만, 부드러운 식감과 허브의 향긋함은 하루종일 상쾌한 기분이 들게 한다",
+        "pt": "Uma sobremesa refrescante. As etapas para prepará-la são bastante simples. Quando ela desce pela garganta, o leve e fresco sabor de menta faz você se sentindo revigorado pelo resto do dia.",
+        "ru": "Освежающий десерт. Сделать его очень просто. Мягкий вкус и морозный аромат мяты придадут бодрости на целый день.",
+        "th": "ของหวานรสชาติสดชื่น ขั้นตอนการทำนั้นแสนง่ายดาย เมื่อทานแล้วรสสัมผัสทั้งนิ่มและลื่นคอ อีกทั้งรสหอมสดชื่นของมิ้นต์จะทำให้คุณรู้สึกสดชื่นไปตลอดทั้งวัน",
+        "vi": "Một món tráng miệng thanh mát. Các bước chế biến đơn giản, hương bạc hà thoang thoảng có thể mang lại cho người thưởng thức một tâm trạng sảng khoái suốt cả ngày dài."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

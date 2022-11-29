@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kito's Sachet",
+        "de": "Kitos Säckchen",
+        "chs": "木户的香包",
+        "cht": "木戶的香包",
+        "es": "Bolsita perfumada de Kito",
+        "fr": "Sachet parfumé de Kito",
+        "id": "Kantong Wewangian Kito",
+        "jp": "キトの匂い袋",
+        "kr": "키토의 향낭",
+        "pt": "Bolsinha Perfumada de Kito",
+        "ru": "Ароматическое саше Кито",
+        "th": "Kito's Sachet",
+        "vi": "Túi Thơm Của Kito"
+    },
+    "id": 101575,
+    "materialDesc": {
+        "en": "A sachet carried by Kito and Kina. It seems to have been woven from two smaller sachets before being carefully hidden in a wooden box.",
+        "de": "Die von Kito und Kina getragenen Säckchen. Es scheint aus zwei kleineren Säckchen gewebt worden zu sein, bevor es sorgfältig in einer Holzkiste versteckt wurde.",
+        "chs": "木户与木奈两人的香包。似乎是由两个小香包缝制在一起，被精心收藏在木盒之中。",
+        "cht": "木戶與木奈兩人的香包。似乎是由兩個小香包縫製在一起，被精心收藏在木盒之中。",
+        "es": "Una bolsita perfumada de Kito y Kina. Parece que se hizo cosiendo dos bolsitas pequeñas y después se guardó cuidadosamente en una caja de madera.",
+        "fr": "Le sachet porté par Kito et Kina. Il semble avoir été tissé à partir de deux sachets plus petits avant d'être soigneusement dissimulé dans une boîte en bois.",
+        "id": "Kantong wewangian yang dibawa Kito dan Kina. Sepertinya terbuat dari dua kantong kecil yang dijahit menjadi satu, kemudian disimpan ke dalam kotak kayu.",
+        "jp": "キトとキナの匂い袋を繋ぎ合わせたもの。木箱に丁寧に入れられている。",
+        "kr": "키토와 키나의 향낭. 두 개의 향낭을 이어서 나무 상자 안에 넣어둔 것 같다",
+        "pt": "Uma bolsinha perfumada carregada por Kito e Kina. Parece ter sido tecida de duas bolsinhas menores antes de ser cuidadosamente escondida em uma caixa de madeira.",
+        "ru": "Ароматическое саше Кито и Кины. Два ароматических саше сшили вместе, а затем бережно хранили в деревянной шкатулке.",
+        "th": "ถุงใส่เครื่องหอมของ Kito และ Kina ดูเหมือนจะเป็นถุงใส่เครื่องหอมสองถุงที่ถูกเย็บติดกัน และเก็บไว้ในกล่องไม้อย่างดี",
+        "vi": "Túi thơm của Kito và Kina. Hình như được may ghép lại từ hai túi hương nhỏ, được cất giữ cẩn thận trong hộp gỗ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

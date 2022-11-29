@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Butter Chicken",
+        "de": "Misslungenes Butterhühnchen",
+        "chs": "奇怪的黄油鸡",
+        "cht": "奇怪的奶油雞",
+        "es": "Pollo con mantequilla extraño",
+        "fr": "Poulet au beurre (suspect)",
+        "id": "Suspicious Butter Chicken",
+        "jp": "微妙なバターチキン",
+        "kr": "이상한 버터 치킨",
+        "pt": "Frango na Manteiga Estranho",
+        "ru": "Странный цыплёнок в масле",
+        "th": "Butter Chicken รสประหลาด",
+        "vi": "Gà Áp Chảo Kỳ Lạ"
+    },
+    "id": 108391,
+    "materialDesc": {
+        "en": "A flavorful dish. The amount of seasoning was clearly miscalculated and the dish just tastes sickeningly heavy as a result. If you have it with a couple of glasses of water, perhaps you might manage to swallow some...",
+        "de": "Ein Gericht mit sehr intensivem Geschmack. Die zu verwendende Menge Gewürze wurde anscheinend völlig falsch eingeschätzt, was zu einem viel zu kräftigen Geschmack führte. Vielleicht kann man es mit viel Wasser herunterschlucken ...",
+        "chs": "风味浓郁的菜肴。没有估算好调味料的用量，导致成品味道过重而变得呛人。吃的时候多喝点水的话，勉强能囫囵吞咽下去…",
+        "cht": "風味濃郁的菜餚。沒有估算好調味料的用量，導致成品味道過重而變得嗆人。吃的時候多喝點水的話，勉強能囫圇吞咽下去…",
+        "es": "Un plato de un sabor único. Un error de cálculo en su condimentación hace que tenga un sabor demasiado fuerte y que sea difícilmente comestible. Si se bebe agua al comerlo, a duras penas se puede llegar a ingerir...",
+        "fr": "Un plat savoureux. La quantité d'assaisonnement a clairement été mal calculée et le plat a un goût lourd et écœurant. Avec deux verres d'eau, peut-être est-il possible d'arriver à en avaler un peu...",
+        "id": "Hidangan dengan rasa yang kuat. Jelas sekali kalau ada kesalahan takar saat memberi bumbu sehingga rasanya terlalu kencang dan membuat mual. Mungkin kamu masih bisa memakannya kalau ditemani beberapa gelas air putih ....",
+        "jp": "風味豊かな料理。調味料の分量を見誤り、味が濃すぎて食べづらい料理になってしまった。水を沢山含んで、ギリギリ飲み下せる程度である…",
+        "kr": "풍미가 진한 요리. 조미료의 양 조절에 실패한 탓에 맛이 지나치게 강하고 자극적이다. 물을 많이 마시면 어떻게든 통째로 삼킬 수 있다…",
+        "pt": "Um prato de sabor intenso. Parece que o cozinheiro colocou demasiado tempero, e o sabor está muito forte. Se você tomar com alguns copos de água, talvez consiga engolir um pouco...",
+        "ru": "Блюдо с насыщенным вкусом. Повар перестарался с приправами, и соус получился слишком острым. Наверное, если как следует запить блюдо водой, острота будет чувствоваться не так сильно...",
+        "th": "เมนูรสชาติจัดจ้าน เนื่องจากไม่ได้กะปริมาณของเครื่องปรุงให้ดี จึงทำให้รสชาติของมันจัดจ้านไปนิด หากดื่มน้ำตามไปด้วย อาจช่วยทำให้กลืนลงคอได้ง่ายขึ้น...",
+        "vi": "Món ăn có hương vị đậm đà. Không ước lượng được định lượng gia vị dẫn đến thành phẩm bị nặng mùi đến nghẹt thở. Uống nhiều nước khi ăn mới có thể nuốt hết được..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Prosperous Peace",
+        "de": "Florierender Frieden",
+        "chs": "盛世太平",
+        "cht": "盛世太平",
+        "es": "Paz y prosperidad",
+        "fr": "Paix prospère",
+        "id": "Prosperous Peace",
+        "jp": "盛世太平",
+        "kr": "태평성대",
+        "pt": "Paz Próspera",
+        "ru": "«Мир и процветание»",
+        "th": "Prosperous Peace",
+        "vi": "Thái Bình Thịnh Thế"
+    },
+    "id": 108213,
+    "materialDesc": {
+        "en": "Ganyu's specialty. The image of a resting qilin is by itself enough to calm a person down. Ganyu has put her well-wishes for all that is lovely in this world into this dish — and she's saved some of her favorite Qingxin Flowers just for you, too.",
+        "de": "Ganyus Spezialzubereitung. Ein Gericht, das einem das Gefühl der Ruhe des Qilins vermittelt. Ganyu schenkt diesem Gericht ihre besten Wünsche, krönt es mit Blütenblättern ihrer Lieblingsblume Qingxin und bewahrt es für dich auf, ohne ein Wort zu sagen.",
+        "chs": "甘雨的特色料理。麒麟憩于花丛的画面，光是观赏就能让心情平静下来。甘雨怀揣着对世间的美好祈愿烹制菜肴，再将自己最喜欢的清心花瓣，默不作声地留给了珍视的你。",
+        "cht": "#甘雨的特色料理。麒麟憩於花叢的畫面，光是觀賞就能讓心情平靜下來。甘雨懷揣著對世間的美好祈願烹製菜肴，再將自己最喜歡的清心花瓣，默不作聲地留給了珍視的{F#妳}{M#你}。",
+        "es": "La especialidad de Ganyu. La figura de un Chilin descansando entre flores da una sensación de tranquilidad. Ganyu imbuyó este plato con sus mejores deseos, lo coronó con pétalos de su flor favorita, la flor chingxin, y lo guardó para ti discretamente.",
+        "fr": "Spécialité culinaire de Ganyu. L'image d'un Qilin au repos suffit à elle seule à calmer les esprits. Ganyu a cuisiné ce plat avec ses meilleures intentions et a également mis de côté l'une de ses fleurs de Qingxin préférées, rien que pour vous.",
+        "id": "Hidangan khas Ganyu. Gambaran seekor Qilin yang sedang beristirahat di tengah taman bunga bisa membuat hati siapa pun menjadi lebih tenang. Ganyu menaruh semua harapan tentang dunia yang lebih indah ke dalam hidangan ini. Kemudian dia juga meletakkan kelopak bunga Qingxin kesukaannya di atas hidangan ini, khusus untuk dirimu saja.",
+        "jp": "甘雨のオリジナル料理。麒麟が花畑で休んでいる光景は、見る者の心を穏やかにする。甘雨は世への願いをこの料理に込め、己が最も好んでいる清心の花びらを何も言わずにあなたに残した。",
+        "kr": "감우의 특제 요리. 기린이 꽃밭에서 쉬는 모습을 바라보기만 해도 마음이 차분해진다. 감우는 소중히 여기는 여행자에게 세상이 아름답길 바라는 마음을 담아 만든 요리와 자신이 제일 좋아하는 청심화를 남겼다",
+        "pt": "A especialidade de Ganyu. A imagem de um Qingxin descansando acalma as pessoas. Ganyu colocou neste prato seus desejos de boa sorte para tudo o que é adorável neste mundo - e ela guardou uma de suas Flores Qingxin favoritas só para você.",
+        "ru": "Особое блюдо Гань Юй. Одно только изображение отдыхающего в цветах цилиня успокаивает сердце. Гань Юй вложила в это блюдо пожелания счастья всему миру. Она даже оставила специально для тебя свои любимые цветы цинсинь.",
+        "th": "เมนูพิเศษของ Ganyu ภาพกิเลนที่พักผ่อนอยู่ท่ามกลางดอกไม้ เพียงแค่ได้มองก็สามารถทำจิตใจสงบลงได้ Ganyu ปรุงอาหารจานนี้ด้วยความปรารถนาดีที่มีต่อโลกใบนี้ และเธอยังเก็บกลีบดอก Qingxin ที่เธอชอบที่สุด ไว้ให้คนสำคัญเช่นคุณด้วย",
+        "vi": "Món ăn đặc sắc của Ganyu. Bức tranh kỳ lân đang nghỉ ngơi bên hoa, chỉ cần ngắm nhìn thôi cũng có thể xoa dịu tâm trạng. Ganyu nấu món ăn này với những lời cầu chúc tốt đẹp đến thế giới, rồi lặng lẽ để lại những cánh hoa trái tim thuần khiết mình thích nhất cho bạn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

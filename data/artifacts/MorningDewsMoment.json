@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Morning Dew's Moment",
+        "de": "Augenblick des Morgentaus",
+        "chs": "朝露之时",
+        "cht": "朝露之時",
+        "es": "Reloj de la Transitoriedad",
+        "fr": "Horloge de l'aube",
+        "id": "Morning Dew's Moment",
+        "jp": "朝露の時",
+        "kr": "아침 이슬의 시간",
+        "pt": "Relógio da Alvorada",
+        "ru": "Мгновение росы",
+        "th": "Morning Dew's Moment",
+        "vi": "Khoảnh Khắc Sương Sớm"
+    },
+    "id": 24195,
+    "setId": 15019,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

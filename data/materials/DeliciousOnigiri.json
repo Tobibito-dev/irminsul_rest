@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Onigiri",
+        "de": "Leckere Onigiri",
+        "chs": "美味的饭团",
+        "cht": "美味的飯糰",
+        "es": "Onigiri delicioso",
+        "fr": "Onigiris (délicieux)",
+        "id": "Delicious Onigiri",
+        "jp": "美味しそうなおにぎり",
+        "kr": "맛있는 주먹밥",
+        "pt": "Onigiri Delicioso",
+        "ru": "Вкусные онигири",
+        "th": "Onigiri แสนอร่อย",
+        "vi": "Cơm Nắm Ngon"
+    },
+    "id": 108257,
+    "materialDesc": {
+        "en": "A portable dish made with rice. The crispy seaweed adds a bit of umami to the down-to-earth sweetness of the glutinous rice. For the final touch, the fresh fish within the Onigiri strikes like an ambushing band, and the satisfaction it brings to body and mind is like the clarion flourish of victory.",
+        "de": "Ein tragbares Gericht, das mit Reis zubereitet wird. Der knusprige Seetang fügt der bodenständigen Süße des Klebreises einen Hauch von Umami hinzu. Für den letzten Schliff schlägt der frische Fisch im Reisbällchen wie eine Bande aus dem Hinterhalt zu und die Befriedigung, die er Körper und Geist bringt, ist wie der klare Siegesschrei.",
+        "chs": "由米饭捏成的便携食物。酥脆的海苔片带来一缕鲜味，粘糯的米饭则提供扎实的香甜。最后，暗藏饭团之中的鲜美鱼肉犹如一支奇兵，为身心的满足吹响胜利的号角。",
+        "cht": "由米飯捏成的便攜食物。酥脆的海苔片帶來一縷鮮味，黏糯的米飯則提供扎實的香甜。最後，暗藏飯糰之中的鮮美魚肉猶如一支奇兵，為身心的滿足吹響勝利的號角。",
+        "es": "Una comida hecha con arroz y muy fácil de llevar. El alga aporta una textura crujiente mientras te deleitas en el delicioso arroz glutinoso. Además, dentro del onigiri se esconde un exquisito relleno hecho de pescado, cuyo sabor es tan gratificante como la victoria anunciada por un cuerno de guerra.",
+        "fr": "Un plat à emporter fait à base de riz. L'algue croustillante ajoute un peu d'umami à la douceur terre-à-terre du riz gluant. Pour la touche finale, le poisson frais contenu dans la boule de riz frappe avec force, et la satisfaction qu'il apporte au corps et à l'esprit sonne comme le clairon de la victoire.",
+        "id": "Makanan praktis yang terbuat dari nasi. Rasa rumput laut yang garing menambahkan cita rasa laut yang manis pada nasi ketan. Sebagai sentuhan akhir, potongan ikan segar di dalam Onigiri ini membawakan rasa seperti tiupan terompet kemenangan yang memuaskan fisik dan mental.",
+        "jp": "お米を握って作られた携行食。パリパリとした海苔がほのかなうま味を、もっちりとした米はしっかりとした甘みをもたらす。そして、隠し味として秘められた美味しい魚肉は、まるで勝利のファンファーレのように、心身ともに満足させる。",
+        "kr": "쌀로 뭉친 간편식. 아삭아삭한 김이 신선한 맛을 선사하며 쫀득한 쌀이 다부진 달콤함을 제공한다. 마지막으로, 주먹밥에 숨겨진 신선한 생선 살코기가 마치 복병처럼 몸과 마음의 만족스러움에 승리의 호각을 부는 대미를 장식한다",
+        "pt": "Um prato leve feito com arroz. A alga marinha crocante adiciona um pouco de umami à doçura balanceada do arroz glutinoso. Para o toque final, o peixe fresco dentro do bolinho de arroz ataca como uma emboscada, e a satisfação causada no corpo e na mente é como o clarim que anuncia a vitória.",
+        "ru": "Блюдо из риса, которое удобно брать с собой. Хрустящий лист нори придаёт сладости клейкого риса приятный вкус. В довершение начинка из свежей рыбной мякоти поражает, как удар из засады, доставляя подобное победному горну удовольствие духу и телу.",
+        "th": "อาหารจานด่วนที่ทำจากข้าว สาหร่ายแผ่นกรอบ ๆ มีกลิ่นหอมอร่อย และข้าวเหนียวก็ให้ความหวานที่เข้มข้น ปลาอร่อยในข้าวปั้นที่ซ่อนอยู่ ก็เหมือนทหารจู่โจมมหัศจรรย์ ที่เป่าแตรแห่งชัยชนะให้กับความพึงพอใจของร่างกายและจิตใจ",
+        "vi": "Thức ăn được làm từ cơm và rất tiện lợi khi mang theo. Những miếng rong biển giòn thấm vị biển, hạt cơm dẻo ngọt thơm ngon. Cuối cùng, lát thịt cá tươi kẹp trong nắm cơm cứ như một kỵ binh, thổi lên kèn lệnh chiến thắng cho sự hài lòng của vị giác."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

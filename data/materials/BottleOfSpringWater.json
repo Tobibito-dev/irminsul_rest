@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bottle of Spring Water",
+        "de": "Mit Quellwasser gefüllte Flasche",
+        "chs": "装满泉水的瓶子",
+        "cht": "裝滿泉水的瓶子",
+        "es": "Botella llena de agua de manantial",
+        "fr": "Bouteille d'eau de source",
+        "id": "Botol Berisi Mata Air",
+        "jp": "泉水の入ったボトル",
+        "kr": "샘물이 담긴 병",
+        "pt": "Garrafa de Água da Nascente",
+        "ru": "Бутыль с родниковой водой",
+        "th": "ขวดที่บรรจุน้ำแร่ไว้",
+        "vi": "Chiếc Bình Chứa Đầy Nước Suối"
+    },
+    "id": 101836,
+    "materialDesc": {
+        "en": "A bottle of spring water. The Glacial Spring Water that Blazing Heart desires should be stored within.",
+        "de": "Eine bis oben mit Quellwasser gefüllte Flasche. Darin sollte sich das „Eisgipfelquellwasser“ befinden, nach dem Entflammtes Herz verlangt.",
+        "chs": "盛满泉水的瓶子。瓶中之物应该就是火炽之心想要的「寒山甘泉」了吧。",
+        "cht": "盛滿泉水的瓶子。瓶中之物應該就是火熾之心想要的「寒山甘泉」了吧。",
+        "es": "Una botella llena de agua de manantial. Debe de ser el agua de manantial glacial que quería Corazón Llameante.",
+        "fr": "Une bouteille contenant de l'eau de montagne demandée par Cœur enflammé.",
+        "id": "Botol yang berisi air dari mata air. Benda di dalamnya kemungkinan merupakan \"Mata Air Gletser\" yang diinginkan oleh Blazing Heart.",
+        "jp": "泉水の入ったボトル。中に入っているのは、灼火の心が必要としている「寒山甘泉」のはずだ。",
+        "kr": "샘물을 듬뿍 담은 병. 병 속에 담긴 건 이글거리는 마음이 원하는 「한산 샘물」인 듯하다",
+        "pt": "Uma garrafa de água de nascente. A Água da Nascente Glacial que Coração Flamejante quer deve ser armazenada aqui.",
+        "ru": "Бутыль, наполненная родниковой водой. Это вода из студёного родника, которую желает Пламенное сердце.",
+        "th": "ขวดที่บรรจุน้ำแร่ไว้จนเต็ม สิ่งที่อยู่ในขวดน่าจะเป็น \"Glacial Spring Water\" ที่ Blazing Heart ต้องการ",
+        "vi": "Chiếc bình chứa đầy nước suối. Thứ bên trong chắc hẳn là \"Suối Ngọt Giá Lạnh\" mà Con Tim Rực Lửa đang cần."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

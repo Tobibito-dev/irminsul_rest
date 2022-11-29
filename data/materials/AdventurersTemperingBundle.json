@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventurer's Tempering Bundle",
+        "de": "Beistandshärtepaket",
+        "chs": "冒险助力淬炼包",
+        "cht": "冒險助力淬煉包",
+        "es": "Paquete de refuerzo del aventurero",
+        "fr": "Pack de progression de l'aventurier",
+        "id": "Adventurer's Tempering Bundle",
+        "jp": "冒険助力百錬パック",
+        "kr": "모험 조력 단련 패키지",
+        "pt": "Pacote Temperado do Aventureiro",
+        "ru": "Набор закалки приключенца",
+        "th": "แพ็กหล่อหลอมการผจญภัย",
+        "vi": "Túi Tôi Luyện Hỗ Trợ Mạo Hiểm"
+    },
+    "id": 115023,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_CHEST"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Moment of Cessation",
+        "de": "Uhr des Stillstands",
+        "chs": "停摆之刻",
+        "cht": "停擺之刻",
+        "es": "Momento de Cese",
+        "fr": "Figé dans le temps",
+        "id": "Moment of Cessation",
+        "jp": "停頓の時",
+        "kr": "정지된 시간",
+        "pt": "Momento de Cessação",
+        "ru": "Замершее мгновение",
+        "th": "Moment of Cessation",
+        "vi": "Đồng Hồ Ngưng Đọng"
+    },
+    "id": 24665,
+    "setId": 15018,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

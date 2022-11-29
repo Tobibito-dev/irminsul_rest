@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pyro Whopperflower Nectar",
+        "de": "Brennender Vaniloquanektar",
+        "chs": "炽热的骗骗花蜜",
+        "cht": "熾熱的騙騙花蜜",
+        "es": "Néctar de Megaflora Pyro",
+        "fr": "Nectar de Fleur mensongère Pyro",
+        "id": "Nektar Pyro Whopperflower",
+        "jp": "熱いトリックフラワーの蜜",
+        "kr": "뜨거운 구라구라 꽃꿀",
+        "pt": "Néctar Ardente da Flor Gigante",
+        "ru": "Нектар Пиро попрыгуньи",
+        "th": "Pyro Whopperflower Nectar",
+        "vi": "Mật Hoa Lừa Dối Rực Lửa"
+    },
+    "id": 100748,
+    "materialDesc": {
+        "en": "You can still feel its heat as you hold it in your hand. Can this really be used to make paint?",
+        "de": "Du spürst noch die Wärme in deiner Hand. Wird daraus wirklich Farbe gemacht?",
+        "chs": "拿在手上的时候还能感觉到明显的热度，这种材料，真的能做颜料吗…",
+        "cht": "拿在手上的時候還能感覺到明顯的熱度，這種材料，真的能做顏料嗎…",
+        "es": "Al sostenerlo en la mano, se puede sentir el calor que desprende. ¿De verdad sirve como pigmento?",
+        "fr": "Une chaleur s'en dégage encore dans votre main. Peut-on vraiment s'en servir comme peinture ?",
+        "id": "Kamu masih bisa merasakan panasnya di tanganmu saat memegangnya. Apakah ini benar-benar bisa dijadikan bahan cat?",
+        "jp": "手にすると明らかに熱く感じる。こんな材料が、本当に顔料として使えるのか…",
+        "kr": "손에 쥐면 뜨거움이 느껴진다. 이런 재료가 정말 물감 재료로 쓰일 수 있는 것일까…",
+        "pt": "Você ainda pode sentir seu calor ao segurá-lo em sua mão. Isto pode realmente ser usado para fazer tinta?",
+        "ru": "Руки всё ещё чувствуют исходящий от этого нектара жар. Неужели из него и впрямь можно сделать краску?",
+        "th": "เมื่อถือมันไว้ในมือจะรู้สึกถึงความร้อนได้อย่างชัดเจน วัสดุชนิดนี้สามารถนำมาทำเป็นสีได้จริง ๆ เหรอ...",
+        "vi": "Thấy rõ được độ nóng khi cầm trong tay, thứ nguyên liệu này có thể làm màu nước sao ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

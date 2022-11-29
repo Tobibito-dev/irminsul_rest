@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Prithiva Topaz Fragment",
+        "de": "Prithiva-Topas-Bruchstück",
+        "chs": "坚牢黄玉断片",
+        "cht": "堅牢黃玉斷片",
+        "es": "Fragmento de topacio prithiva",
+        "fr": "Fragment de topaze prithiva",
+        "id": "Prithiva Topaz Fragment",
+        "jp": "堅牢なトパーズ·欠片",
+        "kr": "단단한 황옥 조각",
+        "pt": "Fragmento de Topázio Prithiva",
+        "ru": "Фрагмент топаза Притхива",
+        "th": "Prithiva Topaz Fragment",
+        "vi": "Mảnh Hoàng Ngọc Cứng"
+    },
+    "id": 104172,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"The currencies that flow through this land are my flesh and blood.\"",
+        "de": "Material für den Figurenaufstieg.\\n„Das Geld im gesamten Lande ist ein Teil meiner selbst.“",
+        "chs": "角色突破素材。\\n「大陆所流通的一切银钱皆是我的血肉。」",
+        "cht": "角色突破素材。\\n「大陸所流通的一切銀錢皆是我的血肉。」",
+        "es": "Material de ascensión de personaje.\\n“La moneda que circula por este mundo es mi sangre y mi cuerpo”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »",
+        "id": "Material Ascension Karakter.\\n\"Mata uang di tanah ini adalah darah.\"",
+        "jp": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
+        "kr": "캐릭터 돌파 소재.\\n「티바트 대륙에서 유통되고 있는 은전은 전부 나의 피와 살이다」",
+        "pt": "Material de Ascensão de Personagem.\\n\"O preço que se paga nesta terra é com o sangue.\"",
+        "ru": "Материал возвышения персонажа.\\n«Валютой здесь является кровь».",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\n\"เงินตราทั้งหมดที่หมุนเวียนอยู่ในแผ่นดิน ใหญ่นี้คือเลือดและเนื้อของฉัน\"",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Tất cả tiền bạc lưu thông trên đại lục này đều là máu thịt của tôi.\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

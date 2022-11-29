@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Summer Night's Bloom",
+        "de": "Sommerfestbrosche",
+        "chs": "夏祭之花",
+        "cht": "夏祭之花",
+        "es": "Flor de la Noche de Verano",
+        "fr": "Fleur de la nuit d'été",
+        "id": "Summer Night's Bloom",
+        "jp": "夏祭りの花",
+        "kr": "여름 축제의 꽃",
+        "pt": "Flor do Festival de Verão",
+        "ru": "Цветок равноденствия",
+        "th": "Summer Night's Bloom",
+        "vi": "Hoa Lễ Tế Mùa Hè"
+    },
+    "id": 24784,
+    "setId": 15015,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yanfei: Impartial",
+        "de": "Yanfei – Gerechtigkeit",
+        "chs": "烟绯·公正",
+        "cht": "煙緋·公正",
+        "es": "Yanfei - Imparcialidad",
+        "fr": "Yanfei - Impartialité",
+        "id": "Yanfei: Impartial",
+        "jp": "煙緋·公正",
+        "kr": "연비·공정",
+        "pt": "Yanfei: Imparcial",
+        "ru": "Справедливость",
+        "th": "Yanfei - Impartial",
+        "vi": "Yanfei - Công Chính"
+    },
+    "id": 210069,
+    "materialDesc": {
+        "en": "Namecard style.\\nJustice, signed in scarlet.",
+        "de": "Ein Motiv für Namenskärtchen.\\nGerechtigkeit, unterschrieben in Scharlachrot.",
+        "chs": "名片纹饰。\\n朱漆火印，以证公平。",
+        "cht": "名片紋飾。\\n朱漆火印，以證公平。",
+        "es": "Diseño de tarjeta de presentación.\\nJusticia con un sello escarlata.",
+        "fr": "Thème.\\nLa justice est signée d'écarlate !",
+        "id": "Style kartu nama.\\nKeadilan, diwarnai dengan warna merah api yang membara.",
+        "jp": "名刺の飾り紋。\\n朱色の火印で、公平を保つ。",
+        "kr": "명함 스킨.\\n주칠을 한 낙인은 공정을 의미한다",
+        "pt": "Estilo de Cartão de Visita.\\nJustiça com uma insígnia escarlate.",
+        "ru": "Именная карта.\\nСправедливость с киноварной печатью.",
+        "th": "ลายนามบัตร\\nตราประทับแลคเกอร์สีแดง ใช้เป็นเครื่องหมายพิสูจน์ความยุติธรรม",
+        "vi": "Hoa văn danh thiếp.\\nDấu ấn lửa đỏ, bảo đảm công bằng."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

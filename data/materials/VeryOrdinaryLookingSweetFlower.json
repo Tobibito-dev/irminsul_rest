@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Very Ordinary-Looking Sweet Flower",
+        "de": "Ganz normal aussehende Zuckerblume",
+        "chs": "看起来很普通的甜甜花",
+        "cht": "看起來很普通的甜甜花",
+        "es": "Flor dulce de aspecto normal",
+        "fr": "Fleur sucrante d'aspect ordinaire",
+        "id": "Sweet Flower Biasa",
+        "jp": "普通なスイートフラワー",
+        "kr": "아주 평범해 보이는 달콤달콤꽃",
+        "pt": "Parece uma Flor Doce Comum",
+        "ru": "Выглядит как обычный цветок-сахарок",
+        "th": "Sweet Flower ที่ดูธรรมดา",
+        "vi": "Hoa Ngọt Tầm Thường"
+    },
+    "id": 100623,
+    "materialDesc": {
+        "en": "A Sweet Flower gathered from beside a meteorite. It doesn't look, feel or smell like anything special. Perhaps only Ivanovich knows its true worth...",
+        "de": "Eine Zuckerblume, die du neben einem Meteoriten gepflückt hast. Sie sieht nach nichts Besonderem aus, fühlt sich auch nicht so an und duftet auch nicht anders. Vielleicht kennt nur Ivanovich ihren tatsächlichen Wert ...",
+        "chs": "在陨石旁采到的甜甜花。看起来、摸起来和闻起来，都并没有什么特别的。也许只有伊凡诺维奇才知道这株花的价值所在…",
+        "cht": "在隕石旁採到的甜甜花。看起來、摸起來和聞起來，都並沒有什麼特別的。也許只有伊凡諾維奇才知道這株花的價值所在…",
+        "es": "Una flor dulce recogida al lado de un meteorito. No se descubre nada especial al mirarla, tocarla u olerla. Tal vez solo Ivanovich conoce el valor de esta flor.",
+        "fr": "Une fleur sucrante recueillie près d'une météorite. Elle n'a l'air, ni ne sent rien de spécial. Peut-être qu'Ivanovitch en connaît la valeur...",
+        "id": "Sekuntum Sweet Flower terkumpul di dekat meteorit. Tidak terlihat, terasa atau berbau seperti sesuatu yang istimewa. Mungkin hanya Ivanovich yang tahu nilai sebenarnya...",
+        "jp": "隕石の側で採取したスイートフラワー。見た目も触った感じも香りも、特に変わった点はない。この花の価値を知っているのは、イヴァノヴィチだけだろう。",
+        "kr": "운석 옆에서 채집한 달콤달콤꽃. 외관상으로나 촉감, 냄새에도 별다른 특이점은 없다. 어쩌면 이바노비치만이 이 꽃의 가치를 알아볼지도…",
+        "pt": "Uma Flor Doce pega ao lado de um meteorito. Sua aparência, textura e cheiro não possuem nada de especial. Talvez apenas Ivanovich saiba seu verdadeiro valor...",
+        "ru": "Цветок-сахарок, сорванный неподалёку от метеорита. Он выглядит и пахнет так же, как и другие цветы, и на ощупь ничем не отличается от собратьев. Пожалуй, только Иванович знает его истинную ценность...",
+        "th": "Sweet Flower ที่เก็บมาจากข้าง ๆ อุกกาบาตนั้น เมื่อดูเมื่อจับและดมแล้ว ก็ไม่ได้มีอะไรพิเศษ บางทีอาจมีเพียง Ivanovich เท่านั้นที่รู้ถึงคุณค่าที่แท้จริงของดอกไม้ชนิดนี้...",
+        "vi": "Hoa Ngọt được hái bên cạnh thiên thạch. Dường như không có gì đặc biệt khi ngửi và chạm vào. Có lẽ chỉ có Ivanovich mới biết giá trị của nhành hoa này nằm ở đâu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

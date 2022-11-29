@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Windsong Lyre",
+        "de": "Landschaftliche Leier",
+        "chs": "风物之诗琴",
+        "cht": "風物之詩琴",
+        "es": "Lira de la brisa",
+        "fr": "Lyre de la brise",
+        "id": "Windsong Lyre",
+        "jp": "風吹きのライアー",
+        "kr": "바람의 노래 하프",
+        "pt": "Lira da Brisa",
+        "ru": "Лира ветров",
+        "th": "Windsong Lyre",
+        "vi": "Cung Đàn Của Gió"
+    },
+    "id": 220025,
+    "materialDesc": {
+        "en": "Use this traditional instrument from Mondstadt to play songs.\\nAn instrument of incredible workmanship, it will surely produce moving music when played by able hands.\\nMondstadt has a long-standing tradition of poetry and song, and thus also boasts a long history of constructing instruments to that effect. Bards are most proud of their songs and poems, and perhaps the instruments, too, would be proud of their owners and their musical tradition.",
+        "de": "Benutze dies, um ein traditionelles Instrument aus Mondstadt herzustellen.\\nEin Instrument von unglaublicher Handwerkskunst, das in fähigen Händen sicherlich bewegende Musik erklingen lässt.\\nMondstadt hat eine lange Tradition der Poesie und des Gesangs und rühmt sich daher auch einer langen Geschichte des Baus von Instrumenten, die diesem Effekt dienen. Barden sind sehr stolz auf ihre Lieder und Gedichte und vielleicht wären auch die Instrumente stolz auf ihre Besitzer und ihre musikalische Tradition.",
+        "chs": "使用后，可以进行演奏的蒙德传统乐器。\\n做工极为精致的乐器，在善于演奏的人手中，能奏响清澈动人的乐曲。\\n蒙德有着诗与歌的传统，所以在此类乐器的研究上也有着悠久的历史。吟游诗人以自己的音乐、诗为傲，而乐器也会以自己的主人及诗歌的传统为豪吧。",
+        "cht": "使用後，可以進行演奏的蒙德傳統樂器。\\n做工極為精緻的樂器，在善於演奏的人手中，能奏響清澈動人的樂曲。\\n蒙德有著詩與歌的傳統，所以在此類樂器的研究上也有著悠久的歷史。吟遊詩人以自己的音樂、詩為傲，而樂器也會以自己的主人及詩歌的傳統為豪吧。",
+        "es": "Usa este objeto y podrás tocar un instrumento tradicional de Mondstadt.\\nUn instrumento musical hecho con una gran habilidad artesanal. En las manos de un músico experimentado puede emitir una pura y conmovedora melodía.\\nMondstadt tiene una gran tradición poética y musical, por lo que también cuenta con una larga historia de investigación de este tipo de instrumentos. La música y la poesía son el orgullo de los bardos, mientras que los instrumentos también se enorgullecen de su dueño y sus canciones.",
+        "fr": "Un objet traditionnel venant de Mondstadt.\\nCet instrument conçu avec art peut entre les bonnes mains jouer une musique capable de toucher le cœur de tous.\\nMondstadt possède une longue tradition de poésie et de chansons, qui s'accompagne en toute logique d'une longue tradition dans la construction d'instruments à cet usage. Les bardes sont fiers de leurs chansons et poèmes. Si l'on suit cette idée, peut-être que les instruments sont fiers de leur propriétaire et de la longue tradition qui les précède...",
+        "id": "Alat musik tradisional Mondstadt yang dapat digunakan untuk memainkan lagu.\\nAlat musik yang dibuat dengan sepenuh hati, pasti dapat menciptakan musik yang sangat menyentuh jika dimainkan dengan mahir.\\nMondstadt memiliki budaya yang kaya tentang puisi dan lagu, sehingga mereka juga memiliki sejarah panjang tentang pembuatan alat musik. Penyair sangat membanggakan lagu dan puisi ciptaannya, tapi mungkin sebuah alat musik juga bangga dengan pemiliknya dan budaya musiknya.",
+        "jp": "演奏できるモンドの伝統楽器。\\n巧みに作られた楽器で、演奏が得意な人の手に渡れば、クリアで心を動かす音楽を演奏できる。\\nモンドには詩と歌の伝統があるため、この類の楽器は長く研究されている。吟遊詩人は音楽と詩を誇りに思っていると同様に、楽器も所有主と詩の伝統を誇りに思っているのだろう。",
+        "kr": "사용 시 연주가 가능한 몬드 전통 악기.\\n아주 정교하게 만들어진 악기. 솜씨가 뛰어난 연주가는 이걸로 맑고 감동적인 음악을 연주할 수 있다.\\n몬드는 시와 노래의 전통을 지닌 만큼 이러한 악기를 아주 오랫동안 연구해왔다. 음유시인이 자신의 음악과 시에 대한 자부심이 강하듯, 악기 또한 자신의 주인과 시와 노래의 전통을 자랑스러워할 것이다",
+        "pt": "Use isto para produzir um instrumento tradicional de Mondstadt.\\nUm instrumento bem trabalhado que certamente produzirá uma música comovente quando tocado por mãos hábeis.\\nMondstadt tem uma longa tradição de poesia e música e, portanto, também possui uma grande experiência na fabricação de instrumentos para esse efeito. Os bardos são os que mais se orgulham de suas canções e poemas, e talvez os instrumentos também se orgulhem de seus donos e sua tradição musical.",
+        "ru": "Используйте, чтобы призвать традиционный мондштадтский инструмент.\\nОчень тщательно проработанный музыкальный инструмент, в умелых руках способный исполнять чистые и трогательные мелодии.\\nВ Мондштадте существуют традиции стихов и песен, поэтому этот город может похвастаться и многовековой историей изучения музыкальных инструментов. Барды гордятся своей музыкой и песнями, а музыкальные инструменты, верно, гордятся своими хозяевами и музыкальными традициями.",
+        "th": "ใช้สิ่งนี้เพื่อทำการแสดงด้วยเครื่องดนตรีแบบดั้งเดิมของ Mondstadt\\nเครื่องดนตรีที่ทำขึ้นอย่างประณีตนี้ เมื่อตกอยู่ในมือของคนที่มีฝีมือก็จะสามารถเล่นบทเพลงที่ไพเราะได้\\nMondstadt มีประเพณีการแต่งบทกวีและบทเพลงที่สืบทอดกันมา เครื่องดนตรีชนิดนี้จึงมีประวัติศาสตร์อันยาวนาน นักกวีพเนจรภูมิใจในบทเพลงและบทกวีของพวกเขา และเครื่องดนตรีเองก็ภาคภูมิใจในตัวเจ้าของและประเพณีการแต่งบทกวีและบทเพลงด้วยเช่นกัน",
+        "vi": "Dùng sẽ có thể tiến hành diễn tấu.\\nNhạc cụ được chế tác cực kỳ tinh xảo, có thể chơi những bản nhạc siêu cuốn hút.\\nMondstadt có truyền thống thơ và ca, vì vậy nó có một lịch sử lâu đời trong việc nghiên cứu các nhạc cụ đó. Nhà thơ tự hào về âm nhạc và thơ ca của họ, và các nhạc cụ cũng sẽ tự hào về chủ nhân và truyền thống thơ ca của chúng."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 12",
+        "de": "Gutschein Nr.12",
+        "chs": "兑换券12号",
+        "cht": "兌換券12號",
+        "es": "Cupón de canje n.º 12",
+        "fr": "Coupon d'échange 12",
+        "id": "Kupon Penukaran 12",
+        "jp": "引換券12",
+        "kr": "교환 쿠폰 12호",
+        "pt": "Cupom de Troca 12",
+        "ru": "Купон обмена №12",
+        "th": "คูปองแลกรับหมายเลข 12",
+        "vi": "Phiếu Quà Tặng 12"
+    },
+    "id": 101878,
+    "materialDesc": {
+        "en": "Used to redeem Mirrorpool Triped: Jiggy",
+        "de": "Ein Gutschein, der gegen „Dreibeinige Maschine des Spiegelsees – Tanzen“ eingetauscht werden kann.",
+        "chs": "用于兑换【镜水三足机·蹈】的兑换券",
+        "cht": "用於兌換【鏡水三足機·蹈】的兌換券",
+        "es": "Cupón de canje para obtener un Trípode estanquespejo: Danza.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Kaki Tiga Perairan: Sa-tu-Du-a-!",
+        "jp": "「鏡水三足機·踊」と引き換えることのできる券。",
+        "kr": "[맑은 물의 삼족 로봇·춤사위]를 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Trípode do Lago dos Espelhos: Dança",
+        "ru": "Используйте, чтобы получить «Водяную треногу: Притоп»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Mirrorpool Triped: Jiggy",
+        "vi": "Phiếu quà tặng dùng để đổi \"Robot Ba Chân Mặt Nước - Nhảy\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

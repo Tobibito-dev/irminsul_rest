@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Primogem",
+        "de": "Urgestein",
+        "chs": "原石",
+        "cht": "原石",
+        "es": "Protogema",
+        "fr": "Primo-gemme",
+        "id": "Primogem",
+        "jp": "原石",
+        "kr": "원석",
+        "pt": "Gema Essencial",
+        "ru": "Камень Истока",
+        "th": "Primogem",
+        "vi": "Nguyên Thạch"
+    },
+    "id": 201,
+    "materialDesc": {
+        "en": "A primordial crystalline gem that's beyond the mundane world. Shines with the condensed hopes and dreams of universes that once were.",
+        "de": "Ein urzeitliches Mineral, das dem finsteren Universum einen Glanz, gemacht aus Träumen und Hoffnung, gibt.",
+        "chs": "超出世界的原初晶石。黑暗的宇宙中，由无主的梦想与希望凝结而成的辉光。",
+        "cht": "超出世界的原初晶石。黑暗的宇宙中，由無主的夢想與希望凝結而成的輝光。",
+        "es": "Una gema cristalina que va más allá del mundo terrenal. Brilla con esperanzas y sueños condensados de universos que existieron alguna vez.",
+        "fr": "Une gemme cristalline originelle qui brille grâce à la condensation des espoirs et des rêves des univers d'autrefois.",
+        "id": "Sebuah batu mutiara dari zaman purbakala. Bersinar terang dengan penuh harapan dan impian alam semesta dari masa lampau.",
+        "jp": "世界を超越した原初の晶石。暗闇の宇宙の中で、主無き夢と希望が結び合わさってできた光。",
+        "kr": "세계를 초월한 원초 수정석. 칠흑 같이 어둡던 우주에서 누구의 것인지도 모르는 꿈과 희망이 모여 형성된 찬란한 빛이다",
+        "pt": "Uma gema cristalina primordial que vai além da compreensão mundana. Seu brilho está cheio de esperanças e sonhos do universo em que esteve.",
+        "ru": "Древний драгоценный кристалл из-за пределов обычного мира. Источает блеск несбывшихся надежд и желаний вселенной.",
+        "th": "ผลึกแร่จากโลกยุคโบราณ ส่องประกายแสงที่เต็มไปด้วย ความหวังและความฝันจากจักรวาล ที่มันจากมา",
+        "vi": "Tinh Thạch Nguyên Thủy, nằm trong vũ trụ hắc ám, ánh sáng được kết tinh từ hy vọng và mộng tưởng."
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

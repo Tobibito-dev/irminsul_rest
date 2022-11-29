@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dream Solvent",
+        "de": "Traumlösungsmittel",
+        "chs": "异梦溶媒",
+        "cht": "異夢溶媒",
+        "es": "Solvente de sueños",
+        "fr": "Solvant de rêve",
+        "id": "Dream Solvent",
+        "jp": "異夢の溶媒",
+        "kr": "이상한 꿈의 용매",
+        "pt": "Solvente dos Sonhos",
+        "ru": "Растворитель снов",
+        "th": "Dream Solvent",
+        "vi": "Dung Môi Ảo Mộng"
+    },
+    "id": 113021,
+    "materialDesc": {
+        "en": "An item capable of changing Character Level-Up Materials obtained from memories and trials into whatever form is needed.\\nPeople once believed that spirits and memories had some material form. If someone dreamed of heaven before waking up clutching a flower, then that blossom must have been made from such a fantasy. Dream Solvent dissolves that which is obtained from memory and transforms it into some other dream.\\nIndeed, blows traded with the strong are stepping stones towards becoming stronger yourself.",
+        "de": "Ein Gegenstand, der in der Lage ist, die aus Erinnerungen und Prüfungen gewonnenen Materialien zur Verbesserung von Figuren in jede beliebige Form zu verwandeln.\\nDie Menschen glaubten einst, dass Geister und Erinnerungen eine materielle Form hätten. Wenn jemand vom Himmel träumte, bevor er mit einer Blume in der Hand aufwachte, dann muss diese Blüte aus einer solchen Fantasie entstanden sein. Traumlösungsmittel löst das, was aus der Erinnerung gewonnen wurde, auf und verwandelt es in einen anderen Traum.\\nIn der Tat sind Kämpfe, die gegen die Starken ausgetragen werden, ein Weg, um selbst stärker zu werden.",
+        "chs": "能够使追忆与试炼中取得的角色培养素材发生变质，使其变为所需要的形态。\\n曾经人们相信灵魂和记忆也是有其质料的。如果曾经有人梦到过天堂，醒来后取出了一朵花，那它应该就是由此构成的。异梦溶媒可以溶解回忆中取得的东西，并且将其变成另一种梦。\\n与强者交手的回忆，的确成为了更强之路的砖石。",
+        "cht": "能夠使追憶與試煉中取得的角色培養素材發生質變，使其變為所需要的形態。\\n曾經人們相信靈魂和記憶也是有其質料的。如果曾經有人夢到過天堂，醒來後取出了一朵花，那它應該就是由此構成的。異夢溶媒可以溶解回憶中取得的東西，並且將其變成另一種夢。\\n與強者交手的回憶，的確成為了更強之路的磚石。",
+        "es": "Un objeto capaz de transformar materiales de mejora de personaje obtenidos de recuerdos y pruebas en la forma que se necesite.\\nAntiguamente, la gente creía que los espíritus y los recuerdos también tienen una forma física. Si alguien soñaba con el paraíso y tras despertarse recogía una flor, esa flor debía de estar hecha de la fantasía del sueño. El Solvente de sueños disuelve lo que se obtiene de los recuerdos y lo transforma en un sueño distinto.\\nEl recuerdo de pelear contra alguien más poderoso que tú es lo que hace que quieras ser más fuerte.",
+        "fr": "Un objet capable de modifier un matériau d'amélioration de personnage obtenu lors de réminiscences ou d'épreuves en ce qui est nécessaire.\\nLes gens pensaient autrefois que l'âme et les souvenirs avaient une forme matérielle. Si quelqu'un rêvait de paradis avant de s'éveiller agrippant une fleur, alors cette fleur provenait de cette rêverie. Les solvants de rêve peuvent dissoudre ce qui vient de la mémoire et le transformer en un autre rêve.\\nLes souvenirs de lutte contre les forts pavent le chemin vers une plus grande force pour son propre compte.",
+        "id": "Sebuah item yang berguna untuk mengubah Material Penguatan Karakter yang diperoleh dari ingatan dan ujian, menjadi material apa pun yang dibutuhkan.\\nOrang zaman dulu memercayai bahwa roh dan ingatan memiliki bentuk fisik. Bila seseorang bermimpi tentang surga, lalu terbangun dengan kondisi sedang menggenggam sekuntum bunga, maka bunga tersebut pasti terbentuk dari mimpinya. Dream Solvent dapat mengurai segala hal yang diperoleh dari ingatan, lalu mengubahnya menjadi mimpi lain.\\nMemang benar, ingatan tentang pertempuran melawan musuh kuat akan menjadi batu loncatan untuk menjadi pribadi yang lebih kuat.",
+        "jp": "追憶や試練で獲得したキャラクター育成素材を、思い通りの形態に変換することができる。\\nかつて、魂や記憶にも「材料」があると信じられていた。天国の夢を見た後、花を握りしめて目を覚ました人がいたとしたら、その花はきっとこれによって作られたものだろう。異夢の溶媒は、記憶の中で得たものを溶かし、別の夢に変えることができる。\\n強者との戦いの記憶は、さらなる強さへの道しるべとなる。",
+        "kr": "추억과 시련에서 얻은 캐릭터 육성 소재를 변질 시켜 필요한 형태로 변화시킨다.\\n한때 사람들은 영혼과 기억에도 원료가 있다고 믿었다. 누군가 하늘나라를 꿈꾸고 일어나 꽃 한 송이를 만들어낸 적이 있다면, 아마 이것으로 만들었을 것이다. 이상한 꿈의 용매는 추억에서 얻은 것을 녹여 다른 꿈으로 만든다.\\n강자와 맞붙은 기억은 확실히 더욱 강해질 수 있는 발판으로 된다",
+        "pt": "Um item capaz de mudar os Materiais de Elevação de Personagem obtidos a partir de memórias e julgamentos para qualquer forma que seja necessária.\\nAs pessoas outrora acreditavam que os espíritos e as memórias tinham alguma forma material. Se alguém sonhou com o céu antes de acordar agarrando uma flor, então essa flor deve ter sido feita a partir de tal fantasia. O Solvente dos Sonhos dissolve o que se obtém da memória e o transforma em algum outro sonho.\\nDe fato, os golpes trocados com os mais fortes são apenas obstáculos para que você mesmo se torne mais forte.",
+        "ru": "Предмет, придающий материалам развития персонажей из испытаний и воспоминаний любую необходимую форму.\\nВ былые времена верили, что души и мысли материальны. Если кто-то видел во сне рай и потом, проснувшись, обнаруживал, что держит цветок в руках, значит, цветок этот наверняка был созданием сна. Растворитель снов превращает предметы из памяти в другие сны.\\nВоспоминания о схватках с сильным противником и в самом деле стали средством на пути к самосовершенствованию.",
+        "th": "สิ่งที่ทำให้วัสดุฝึกฝนตัวละครที่ได้รับสร้างการทบทวนความจำและการฝึกฝนเปลี่ยนแปลง และสามารถทำให้เป็นรูปแบบที่ต้องการได้ \\nเมื่อก่อนผู้คนเคยเชื่อว่าวิญญาณและความทรงจำก็เป็นวัสดุของมันเช่นกัน ถ้ามีคนเคยฝันว่าได้ไปสวรรค์ เมื่อตื่นขึ้นมาก็ได้ดอกไม้มาหนึ่งดอก เช่นนั้นมันก็น่าจะเกิดขึ้นได้เพราะเหตุผลนี้ ฝันที่แตกต่างกันสามารถละลายสิ่งที่ทำในความทรงจำและเปลี่ยนเป็นความฝันอื่น \\nความทรงจำที่ต่อกรกับผู้แข็งแกร่ง นั่นก็คือหินอิฐที่แข็งแกร่งขึ้นนั่นเอง",
+        "vi": "Có thể khiến ký ức và nguyên liệu bồi dưỡng nhân vật nhận được trong thí luyện xảy ra biến chất, trở thành hình thái mong muốn.\\nCon người đã từng tin rằng linh hồn và ký ức cũng có chất liệu của riêng nó. Nếu đã từng có người mơ đến thiên đàng và lấy được một đóa hoa sau khi tỉnh dậy, thì có lẽ nó đã được tạo ra từ đó. Dung Môi Ảo Mộng có thể hòa tan những thứ có được trong ký ức và biến nó thành một giấc mơ khác.\\nNhững ký ức về việc chiến đấu chống lại kẻ mạnh thực sự đã trở thành vật liệu xây dựng con đường vững chắc hơn."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

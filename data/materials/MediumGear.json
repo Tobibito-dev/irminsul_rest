@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Medium Gear",
+        "de": "Mittelgroßes Zahnrad",
+        "chs": "中型齿轮",
+        "cht": "中型齒輪",
+        "es": "Engranaje mediano",
+        "fr": "Engrenage moyen",
+        "id": "Roda Gigi Sedang",
+        "jp": "ミドルギア",
+        "kr": "중형 톱니바퀴",
+        "pt": "Engrenagem Média",
+        "ru": "Средняя шестерня",
+        "th": "เฟืองขนาดกลาง",
+        "vi": "Bánh Răng Vừa"
+    },
+    "id": 101848,
+    "materialDesc": {
+        "en": "A medium gear. \"The pivotal one,\" as we call it.",
+        "de": "Ein mittelgroßes Zahnrad. Normalerweise nennen wir es das „Rückgrat“.",
+        "chs": "中型的齿轮。我们一般将其称之为「中坚力量」。",
+        "cht": "中型的齒輪。我們一般將其稱之為「中堅力量」。",
+        "es": "Un engranaje mediano. También se le suele llamar la “fuerza troncal”.",
+        "fr": "Un engrenage de taille moyenne. Il entraîne les autres dans son mouvement.",
+        "id": "Roda Gigi Sedang. Kita biasa menyebutnya \"Tumpuan Tenaga\".",
+        "jp": "中型のギア。一般的に「中堅を担う力」と呼ばれる。",
+        "kr": "중형 톱니바퀴. 우린 보통 이걸 「중견의 힘」이라고 부른다",
+        "pt": "Uma engrenagem média. Geralmente nos referimos a ela como \"força central\".",
+        "ru": "Средняя шестерня. «Поворотная», как мы её называем.",
+        "th": "เฟืองขนาดกลาง โดยทั่วไปพวกเรามักเรียกว่า \"พลังหลัก\"",
+        "vi": "Bánh răng cỡ vừa. Chúng thường được gọi là \"sức mạnh chủ lực\"."
+    },
+    "materialType": "MATERIAL_ACTIVITY_GEAR"
+}

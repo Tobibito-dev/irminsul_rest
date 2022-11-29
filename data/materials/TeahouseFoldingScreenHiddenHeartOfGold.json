@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teahouse Folding Screen: Hidden Heart of Gold",
+        "de": "Teestuben-Schirm – „Goldener Schutz“",
+        "chs": "茶室屏风-「垢身金心」",
+        "cht": "茶室屏風-「垢身金心」",
+        "es": "Biombo de casa de té: Corazón de oro",
+        "fr": "Paravent de salon de thé « Cœur d'or »",
+        "id": "Tirai Lipat Kedai Teh: Berhati Emas",
+        "jp": "茶屋屏風-「垢身金心」",
+        "kr": "찻집 병풍-「때 묻은 몸과 금 같은 마음」",
+        "pt": "Tela da Casa de Chá: Corpo Imundo, Coração Dourado",
+        "ru": "Ширма для чайного дома: Скрытое золотое сердце",
+        "th": "ฉากกั้นในโรงน้ำชา - \"กายเปื้อนใจทอง\"",
+        "vi": "Bình Phong Phòng Trà - Con Tim Thanh Khiết"
+    },
+    "id": 382213,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Teahouse Folding Screen: Hidden Heart of Gold.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Teestuben-Schirm – Goldener Schutz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「茶室屏风-『垢身金心』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「茶室屏風-『垢身金心』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Biombo de casa de té: Corazón de oro.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du paravent de salon de thé « Cœur d'or ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Tirai Lipat Kedai Teh: Berhati Emas.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「茶屋屏風-『垢身金心』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「찻집 병풍-『때 묻은 몸과 금 같은 마음』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Tela da Casa de Chá: Corpo Imundo, Coração Dourado\".\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Ширма для чайного дома: Скрытое золотое сердце».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างฉากกั้นในโรงน้ำชา - \"กายเปื้อนใจทอง\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Bình Phong Phòng Trà - Con Tim Thanh Khiết.\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

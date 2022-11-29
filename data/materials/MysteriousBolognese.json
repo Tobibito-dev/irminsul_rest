@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mysterious Bolognese",
+        "de": "Nudeln mit zauberhafter Fleischsoße",
+        "chs": "魔法肉酱面",
+        "cht": "魔法肉醬麵",
+        "es": "Pasta a la boloñesa mágica",
+        "fr": "Pâtes à la bolognaise mystiques",
+        "id": "Mysterious Bolognese",
+        "jp": "魔法のミートソース",
+        "kr": "마법 스파게티",
+        "pt": "Macarrão Misterioso à Bolonhesa",
+        "ru": "Волшебная паста в томатном соусе",
+        "th": "Mysterious Bolognese",
+        "vi": "Mì Tương Ma Pháp"
+    },
+    "id": 108018,
+    "materialDesc": {
+        "en": "Lisa's specialty. With an inexplicable aura, this bolognese is so exotic that you can never have enough. Did she actually enchant it with some kind of magic?",
+        "de": "Lisas Spezialzubereitung. Die Soße hat eine wundersame Farbe und man kann einfach nicht mehr aufhören, sobald man einmal probiert hat. Was für ein Zauber steckt dahinter?",
+        "chs": "丽莎的特色料理。颜色有些奇妙的肉酱面，可一旦尝过一口就再也不想停下来。她究竟施了什么魔法？",
+        "cht": "麗莎的特色料理。顏色有些奇妙的肉醬麵，可是一旦嘗過一口就再也不想停下來。她究竟施了什麼魔法？",
+        "es": "La especialidad de Lisa. Con un fantástico color, siempre tendrás hueco para un bocado más. ¿Habrá hechizado Lisa este plato?",
+        "fr": "Spécialité culinaire de Lisa. Des pâtes nappées d'une sauce à la viande teintée d'une mystérieuse couleur. Tout le monde en raffole dès la première bouchée. Ce plat est-il enchanté ?",
+        "id": "Masakan andalan Lisa. Bolognese dengan warna saus yang menawan, begitu dicicipi, tidak akan bisa berhenti sampai habis. Sebenarnya ada sihir apa di dalamnya?",
+        "jp": "リサのオリジナル料理。見た目はちょっと微妙なミートソーススパゲッティだが、一度口にしたらもう手が止められない。一体どんな魔法をかけたんだろうか？",
+        "kr": "리사의 특제 요리. 색이 조금 이상하지만 한 입 먹어보면 멈출 수 없는 맛이다. 무슨 마법을 부린 걸까?",
+        "pt": "Especialidade de Lisa. Com uma aurora inexplicável, esta Bolonhesa é tão exótica que nunca será o suficiente. Será que ela encantou algum tipo de magia?",
+        "ru": "Особое блюдо Лизы. Окружённая необъяснимой аурой, эта паста с томатным соусом настолько экзотична, что вам никогда не будет достаточно. Неужели Лиза действительно заколдовала её какой-то магией?",
+        "th": "เมนูพิเศษของ Lisa เป็นโบโลเนสที่มีออร่าลึกลับทอประกายอยู่ด้วย เมนูนี้เป็นของหายากที่คุณทานได้ไม่เคยพอ เธอได้ร่ายมนตราอะไรลงไปด้วยรึเปล่านะ?",
+        "vi": "Món độc quyền của Lisa. Mì thịt có màu sắc kỳ lạ, nhưng ăn một miếng là không muốn dừng lại. Cô ấy đã cho phép thuật gì?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

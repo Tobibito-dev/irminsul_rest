@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tofu",
+        "de": "Tofu",
+        "chs": "豆腐",
+        "cht": "豆腐",
+        "es": "Tofu",
+        "fr": "Tofu",
+        "id": "Tofu",
+        "jp": "豆腐",
+        "kr": "두부",
+        "pt": "Tofu",
+        "ru": "Тофу",
+        "th": "Tofu",
+        "vi": "Đậu hũ"
+    },
+    "id": 100088,
+    "materialDesc": {
+        "en": "Freshly made bean product that has a silky-smooth tender texture.",
+        "de": "Ein aus Bohnenquark gepresstes Erzeugnis, das sich seidig weich auf der Zunge anfühlt.",
+        "chs": "鲜嫩的豆制品。口感如凝乳般细腻。",
+        "cht": "鮮嫩的豆製品。口感如凝乳般細膩。",
+        "es": "Un producto hecho de soja procesada. Tiene un sabor suave y una textura muy fina.",
+        "fr": "Un produit de soja frais. Il a un goût délicat et une texture très douce.",
+        "id": "Makanan yang dibuat dari biji kedelai segar dan memiliki tekstur lembut seperti sutra.",
+        "jp": "新鮮な大豆加工品。なめらかな食感が特徴。",
+        "kr": "신선하고 연한 콩제품. 식감은 응유처럼 부드럽다",
+        "pt": "Um produto fresco feito de soja processada. Possui um sabor suave e textura macia.",
+        "ru": "Приготовленное из бобов блюдо с нежной кремовой текстурой.",
+        "th": "ผลิตภัณฑ์ถั่วที่ทั้งสดและนุ่มละมุน ให้ความรู้สึกนุ่มลื่นเมื่อกินเข้าไป",
+        "vi": "Sản phẩm tươi ngon từ đậu. Ngậy như vị sữa đông."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

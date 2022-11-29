@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ein Immernachtstraum",
+        "de": "Ein Immernachtstraum",
+        "chs": "极夜真梦",
+        "cht": "極夜真夢",
+        "es": "Sueños eternos",
+        "fr": "Songe de la nuit éternelle",
+        "id": "Ein Immernachtstraum",
+        "jp": "極夜の真夢",
+        "kr": "극야의 진실된 꿈",
+        "pt": "Sonho da Noite Eterna",
+        "ru": "Сон вечной ночи",
+        "th": "ห้วงฝันแห่งรัตติกาล",
+        "vi": "Giấc Mộng Đêm Khuya"
+    },
+    "id": 340005,
+    "materialDesc": {
+        "en": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.",
+        "de": "Das Ritualkleid der Prinzessin Fischl. Möge die edle Person immer Mut, Aufrichtigkeit und Herzensgüte besitzen, sodass das Böse sie nicht überkommen kann.",
+        "chs": "皇女菲谢尔的祭礼着装。愿高贵的人永远葆有勇气、诚挚与善心，如此，邪恶必无法挫败她。",
+        "cht": "皇女菲謝爾的祭禮著裝。願高貴的人永遠保有勇氣、誠摯與善心，如此，邪惡必無法挫敗她。",
+        "es": "La vestimenta ceremonial de la Princesa Fischl. Que aquella de corazón noble siempre sea valiente, honesta y bondadosa para que el mal nunca se interponga en su camino.",
+        "fr": "Tenue cérémoniale de Fischl. Que celle qui est noble conserve pour toujours son courage, sa sincérité et sa bonté, de telle sorte qu'aucun mal ne puisse jamais l'atteindre.",
+        "id": "Pakaian upacara untuk Prinzessin. Semoga dia yang hatinya mulia selalu mempunyai keberanian, ketulusan dan kebaikan selamanya di dalam hatinya, dan agar tidak ada kejahatan yang bisa mengalahkannya.",
+        "jp": "皇女フィッシュルの祭礼衣装。高貴なる者がいつまでも勇気と誠意、そして善良な心を持ち続け、いかなる悪にも屈しないように。",
+        "kr": "황녀 피슬의 제례 코스튬. 고귀한 자에게 용기와 진실 그리고 선한 마음이 영원히 깃들기를, 그래야만 사악한 기운이 그녀를 꺾을 수 없을지니",
+        "pt": "Um vestuário cerimonial para a Princesa Fischl. Que ela, tão nobre, eternamente mantenha sua coragem, cordialidade e benevolência, assim o mal jamais a derrotará.",
+        "ru": "Парадный наряд принцессы. Да будет вечно её мужество, искренность и доброта, дабы никакое зло не могло одолеть её.",
+        "th": "ชุดพิธีการของเจ้าหญิง Fischl ขอให้ผู้สูงศักดิ์เปี่ยมไปด้วยความกล้าหาญ จริงใจ และเมตตาตลอดไป ความชั่วร้ายทั้งหลายจะต้องยอมศิโรราบต่อเธอ",
+        "vi": "Trang phục nghi lễ của công chúa Fischl. Nguyện cho người cao quý luôn giữ vững lòng can đảm, sự chân thành và bản tính lương thiện. Có như thế thì tà ác mới không thể nào quật ngã cô ấy."
+    },
+    "materialType": "MATERIAL_COSTUME"
+}

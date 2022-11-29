@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Sautéed Matsutake",
+        "de": "Leckere kurzgebratene Matsutake",
+        "chs": "美味的黄油松茸",
+        "cht": "美味的奶油松茸",
+        "es": "Matsutakes salteados deliciosos",
+        "fr": "Matsutake sautés au beurre (délicieux)",
+        "id": "Delicious Sautéed Matsutake",
+        "jp": "美味しそうな松茸のバター焼き",
+        "kr": "맛있는 버터 송이구이",
+        "pt": "Matsutake Salteado Delicioso",
+        "ru": "Вкусные обжаренные мацутакэ",
+        "th": "Sautéed Matsutake แสนอร่อย",
+        "vi": "Nhung Tùng Rán Bơ Ngon"
+    },
+    "id": 108054,
+    "materialDesc": {
+        "en": "Sautéed slices of Matsutake. So smooth and fragrant, eating them is like having the bursting vitality of spring absorbed into your stomach.",
+        "de": "Nur kurz angebratene Matsutake-Scheiben. Der Geschmack sitzt tief in jedem Bissen, der dich die Kraft des Frühlings kosten lässt.",
+        "chs": "煎制而成的松茸片。口感嫩滑，鲜香四溢，感觉像是把整个春天的活力吃进了肚子里。",
+        "cht": "煎製而成的松茸片。口感嫩滑，鮮香四溢，感覺像是把整個春天的活力吃進了肚子裡。",
+        "es": "Trozos de matsutake salteados. Suaves y aromáticos. A medida que comas, sentirás como si la vitalidad de la primavera estuviera entrando en tu estómago.",
+        "fr": "Des tranches de matsutake sautées dans du beurre. Moelleuses et parfumées à souhait, elles renferment la vitalité du printemps.",
+        "id": "Tumis jamur matsutake. Sangat lembut dan harum, memakannya terasa seperti menyantap semangat yang menggebu-gebu di musim semi.",
+        "jp": "松茸のスライスを焼いたもの。滑らかな口当たり、口の中で広がる香り。まるで春の活力がお腹の中に入ってくるかのようだ。",
+        "kr": "송이버섯을 버터에 구운 요리. 쫄깃한 식감에 향긋한 송이 향까지! 봄의 활기를 먹은 듯한 기분이다",
+        "pt": "Pedaços deliciosos de Matsutake salteado. Macios e aromáticos. Ao comer, você sente como se a vitalidade da primavera estivesse sendo absorvida pelo seu estômago.",
+        "ru": "Обжаренные на сливочном масле ломтики мацутакэ. Такие гладкие и ароматные, что съесть их - всё равно что впитать бурную жизненную энергию весны.",
+        "th": "เห็ดมัตสึทาเกะไฟแดง ทั้งนุ่มและหอม เมื่อได้ทานก็ปลดปล่อยเอาพลังชีวิตของฤดูใบไม้ผลิออกมาจนทั่วท้อง",
+        "vi": "Miếng nhung tùng chiên. Mùi vị mềm mại, thơm nức mũi, giống như đã nếm cả sức sống của mùa xuân vào miệng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

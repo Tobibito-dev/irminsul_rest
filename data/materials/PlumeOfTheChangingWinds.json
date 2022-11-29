@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Plume of the Changing Winds",
+        "de": "Feder des wechselnden Windes",
+        "chs": "迁风的苍翎",
+        "cht": "遷風的蒼翎",
+        "es": "Pluma de los vientos cambiantes",
+        "fr": "Panache des vents changeants",
+        "id": "Plume of the Changing Winds",
+        "jp": "移風の蒼羽",
+        "kr": "바람을 나르는 깃털",
+        "pt": "Pluma dos Ventos Oscilantes",
+        "ru": "Шлейф изменчивых ветров",
+        "th": "Plume of the Changing Winds",
+        "vi": "Lông Vũ Chuyển Gió"
+    },
+    "id": 200112,
+    "materialDesc": {
+        "en": "Specialized refinement material for \"Missive Windspear.\"\\nAn ancient feather carved from turquoise. It was once used as an ornament or a token of sorts.",
+        "de": "Objekt zur Verfeinerung von „Spitze der klingenden Winde“.\\nEin aus Türkis geschnitzter antiker Federkiel, der anscheinend einst als Schmuck oder eine Art Zeichen verwendet wurde.",
+        "chs": "「风信之锋」专用的精炼道具。\\n由松石雕而成的古旧羽翮，在过去似乎曾被用作饰品或信物。",
+        "cht": "「風信之鋒」專用的精煉道具。\\n由松石雕而成的古舊羽翮，在過去似乎曾被用作飾品或信物。",
+        "es": "Objeto de refinamiento exclusivo para el arma “Alabarda del Viento Epistolar”.\\nUna antigua pluma tallada en turquesa que, en el pasado, servía como accesorio decorativo o como objeto conmemorativo.",
+        "fr": "Matériau de raffinement spécial pour la Lance du vent saisonnier.\\nUne ancienne plume taillée dans la turquoise. Elle était autrefois utilisée comme une sorte d'ornement ou de gage.",
+        "id": "Material refinement khusus untuk \"Missive Windspear\".\\nBulu kuno yang diukir dari pirus. Bulu ini dulunya digunakan sebagai ornamen atau semacam tanda.",
+        "jp": "「風信の矛」専用の精錬アイテム。\\nターコイズを彫って作られた古い羽根。飾り物やトークンとして使われていた。",
+        "kr": "「날카로운 바람의 서신」 전용 재련 아이템.\\n터키석을 조각하여 만든 오래된 깃촉은 과거에 장식품이나 증표로 사용되었던 것 같다",
+        "pt": "Material especial de refinamento para a Lâmina do Vento Mensageiro.\\nÉ uma pena antiga entalhada em turquesa. Foi utilizada como um ornamento ou símbolo em algum momento.",
+        "ru": "Особый материал пробуждения для Копья послания ветров.\\nДревнее перо, вырезанное из бирюзы. Когда-то оно использовалось как украшение или некий символ.",
+        "th": "วัสดุสำหรับขัดเกลา \"Missive Windspear\"\\nขนนกเก่าแก่ที่แกะสลักจากเทอร์ควอยซ์ ดูเหมือนว่าในอดีตจะถูกใช้เป็นเครื่องประดับหรือของที่ระลึก",
+        "vi": "Đạo cụ tinh luyện \"Mũi Nhọn Của Gió\".\\nNhững chiếc lông vũ cổ xưa, được chạm khắc từ Tùng Thạch, dường như đã từng được dùng làm trang sức hoặc tín vật."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

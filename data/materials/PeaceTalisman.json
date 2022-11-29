@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Peace Talisman",
+        "de": "Friedenstalisman",
+        "chs": "平安玉符",
+        "cht": "平安玉符",
+        "es": "Talismán de la paz",
+        "fr": "Talisman de paix",
+        "id": "Peace Talisman",
+        "jp": "平安玉佩",
+        "kr": "옥 장신구",
+        "pt": "Talismã da Paz",
+        "ru": "Талисман мира",
+        "th": "Peace Talisman",
+        "vi": "Ngọc Bình An"
+    },
+    "id": 115,
+    "materialDesc": {
+        "en": "Jade talismans that can be obtained during Lantern Rite. The people of Liyue believe that these talismans can bring and defend peace. You might be able to exchange these for some things during Lantern Rite...",
+        "de": "Jadetalismane, die während des Laternenrituals erhalten werden können. Die Menschen in Liyue glauben, dass diese Talismane Frieden bringen und bewahren. Vielleicht lassen sie sich während des Laternenrituals gegen andere nützliche Dinge eintauschen ...",
+        "chs": "海灯节期间可以获得的玉石护符，璃月人相信，这样的玉符能够护佑平安。在海灯节期间，或许可以用这种玉符交换一些东西…",
+        "cht": "海燈節期間可以獲得的玉石護符，璃月人相信，這樣的玉符能夠護佑平安。在海燈節期間，或許可以用這種玉符交換一些東西…",
+        "es": "Un talismán protector de nefrita que se puede conseguir en el Rito de la Linterna. Los habitantes de Liyue creen que estos amuletos pueden garantizar la paz. Canjéalos por otras cosas durante el Rito de la Linterna.",
+        "fr": "Talisman de jade qui peut être obtenu pendant le Festival des lanternes. Les habitants de Liyue croient fermement que ces talismans engendrent et maintiennent la paix. Peut-être pourriez-vous les échanger pendant le Festival des lanternes contre quelque chose d'intéressant...",
+        "id": "Jimat giok yang bisa didapatkan saat Lantern Rite. Para penduduk Liyue memercayai bahwa jimat giok ini bisa membawa dan menjaga kedamaian. Mungkin kamu bisa menukarkan jimat giok ini dengan barang lain selama Lantern Rite berlangsung.",
+        "jp": "海灯祭期間中に獲得できる玉石のお守り。璃月の文化によれば、玉石を身に着けると平安を与えてくれるそうだ。海灯祭期間中は、これを使って何かと交換できるかも…",
+        "kr": "해등절 기간에 획득할 수 있는 옥 부적, 리월 사람들은 이런 옥 부적이 평안을 지켜준다고 믿는다. 해등절 기간에 일부 물건과 교환할 수 있을지도…",
+        "pt": "Um Talismã de jade que pode ser obtido durante o Ritual de Lanternas. O povo de Liyue acredita que esses talismãs podem trazer e defender a paz. Você pode trocá-los por algumas coisas durante o Ritual de Lanternas...",
+        "ru": "Нефритовые талисманы, которые можно получить в период Праздника морских фонарей. Люди Ли Юэ верят, что эти талисманы могут принести и защитить мир. Обменяйте их на ценные предметы во время Праздника морских фонарей...",
+        "th": "เครื่องรางหยกที่สามารถหาได้ในช่วงเทศกาล Lantern Rite ชาว Liyue เชื่อว่าเครื่องรางหยกนี้สามารถนำมาซึ่งความสงบสุขได้ ในช่วง Lantern Rite คุณอาจสามารถนำเครื่องรางหยกนี้ไปแลกเป็นสิ่งอื่น ๆ ได้ด้วย...",
+        "vi": "Phù Ngọc có thể nhận trong Tết Hải Đăng, người Liyue tin rằng, phù này có thể mang lại bình an. Trong Tết Hải Đăng, có thể dùng phù này đổi chút đồ..."
+    },
+    "materialType": false
+}

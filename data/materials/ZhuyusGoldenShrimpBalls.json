@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Zhuyu's Golden Shrimp Balls",
+        "de": "Zhuyus goldene Garnelenhäppchen",
+        "chs": "给茱萸的金丝虾球",
+        "cht": "給茱萸的金絲蝦球",
+        "es": "Albóndigas de camarón dorado para Zhuyu",
+        "fr": "Boulettes de crevettes dorées pour Zhuyu",
+        "id": "Golden Shrimp Ball untuk Zhuyu",
+        "jp": "グミに送るエビのポテト包み揚げ",
+        "kr": "수유에게 주는 황금 새우볼",
+        "pt": "Almôndegas Douradas de Camarão de Zhuyu",
+        "ru": "Шарики с креветкой Чжу Юй",
+        "th": "Golden Shrimp Balls สำหรับ Zhuyu",
+        "vi": "Tôm Viên Tơ Vàng cho Zhuyu"
+    },
+    "id": 100738,
+    "materialDesc": {
+        "en": "This box contains Golden Shrimp Balls made at Wangshu Inn. It is well-packaged, and one can feel the care that the chef took in putting this together.",
+        "de": "In dieser Kiste befinden sich goldene Garnelenhäppchen aus dem Gasthaus Wangshu. Man sieht dem Arrangement an, wie viel Sorgfalt der Koch in die Vorbereitung gesteckt hat.",
+        "chs": "方整的包裹里装有望舒客栈出品的金丝虾球，包装仔细，能感受到厨房的用心。",
+        "cht": "方整的包裹裡裝有望舒客棧出品的金絲蝦球，包裝仔細，能感受到廚房的用心。",
+        "es": "Una caja que contiene un plato de albóndigas de camarón dorado hecho en la Posada Wangshu. Está muy bien empaquetado y se nota el cuidado que puso el cocinero.",
+        "fr": "Cette boîte contient des boulettes de crevettes dorées préparées à l'Auberge Wangshu. Elles sont bien emballées. On peut sentir que le chef y a mis tout son cœur.",
+        "id": "Sebuah kotak yang berisi Golden Shrimp Ball dari Wangshu Inn. Bungkusnya yang rapi mencerminkan kesungguhan hati sang koki dalam mempersiapkan hidangan ini.",
+        "jp": "四角い箱の中には望舒旅館のエビのポテト包み揚げが入っている。ちゃんとした梱包で、こだわりが感じられ",
+        "kr": "가지런히 상자 안에 담겨있는 망서 객잔의 황금 새우볼. 섬세한 포장에서 주방장의 정성이 느껴진다",
+        "pt": "Almôndegas Douradas de Camarão do Albergue Wangshu, cuidadosamente armazenadas. É possível sentir a atenção do cozinheiro.",
+        "ru": "В этой коробке содержатся шарики с креветкой, приготовленные на постоялом дворе «Ваншу». Чувствуется, с какой заботой повар их упаковал.",
+        "th": "กล่องที่ใส่ Golden Shrimp Balls จาก Wangshu Inn เอาไว้ ซึ่งกล่องที่บรรจุมาอย่างดีนี้ ทำให้สามารถสัมผัสได้ถึงความเอาใจใส่ของเชฟ",
+        "vi": "Bên trong túi nhỏ hình vuông có Tôm Viên Tơ Vàng nổi tiếng của Nhà Trọ Vọng Thư, đóng gói kĩ càng, có thể cảm nhận được tâm huyết của đầu bếp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

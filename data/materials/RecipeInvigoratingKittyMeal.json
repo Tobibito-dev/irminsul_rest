@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Invigorating Kitty Meal",
+        "de": "Rezept: Belebende Katzenmahlzeit",
+        "chs": "食谱：活力喵饭",
+        "cht": "食譜：活力喵飯",
+        "es": "Receta: Comida felina revitalizante",
+        "fr": "Recette : Pâté miaou revigorant",
+        "id": "Resep: Invigorating Kitty Meal",
+        "jp": "レシピ：活力にゃんこ飯",
+        "kr": "레시피: 활력충만 고양이 밥",
+        "pt": "Receita: Refeição Revigorante Miau",
+        "ru": "Рецепт: Бодрящее кошачье лакомство",
+        "th": "สูตรอาหาร: Invigorating Kitty Meal",
+        "vi": "Công Thức: Cơm Mèo Năng Động"
+    },
+    "id": 109473,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making an Invigorating Kitty Meal.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „belebende Katzenmahlzeit“.",
+        "chs": "步骤详实的食谱，记载着「活力喵饭」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「活力喵飯」的製作方法。",
+        "es": "Receta paso a paso para hacer comida felina revitalizante.",
+        "fr": "Étapes de préparation du pâté miaou revigorant.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Invigorating Kitty Meal.",
+        "jp": "「活力にゃんこ飯」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「활력충만 고양이 밥」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Refeição Revigorante Miau.",
+        "ru": "Подробный рецепт приготовления блюда «Бодрящее кошачье лакомство».",
+        "th": "สูตรอธิบายวิธีทำ \"Invigorating Kitty Meal\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Cơm Mèo Năng Động\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

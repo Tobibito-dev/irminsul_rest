@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Little Dried Flower",
+        "de": "Getrocknete Blume",
+        "chs": "风干的小花",
+        "cht": "風乾的小花",
+        "es": "Pequeña flor seca",
+        "fr": "Petite fleur séchée",
+        "id": "Bunga Kering Kecil",
+        "jp": "風に乾いた小さな花",
+        "kr": "바람에 말린 작은 꽃",
+        "pt": "Florzinha Seca",
+        "ru": "Засохший цветочек",
+        "th": "ดอกไม้แห้งดอกน้อย ๆ",
+        "vi": "Hoa Phơi Khô"
+    },
+    "id": 101962,
+    "materialDesc": {
+        "en": "It looks like an ordinary little dried flower, but it was once a precious gift. It deserves to be cherished, just like the forgotten friendship of the past.",
+        "de": "Sie sieht aus wie eine gewöhnliche getrocknete Blume, aber sie ist ein wertvolles Geschenk. Sie verdient es, gehegt und gepflegt zu werden, genau wie die vergessene Freundschaft der Vergangenheit.",
+        "chs": "看起来很普通的风干小花，却是一度珍贵的礼物，一定要好好珍惜它，正如珍惜往昔被遗忘的友谊。",
+        "cht": "看起來很普通的風乾小花，卻是一度珍貴的禮物，一定要好好珍惜它，正如珍惜往昔被遺忘的友誼。",
+        "es": "A simple vista no es más que una flor seca, pero antaño fue un preciado regalo. Un objeto así se merece ser cuidado con esmero, al igual que las ya olvidadas amistades del pasado.",
+        "fr": "Une fleur d'apparence tout à fait banale, mais qui est en réalité un cadeau précieux. Elle doit être chérie comme l'on chérit une amitié oubliée.",
+        "id": "Terlihat seperti bunga kering biasa, tapi dulunya ini adalah hadiah yang berharga. Layak untuk dihargai, seperti persahabatan yang terlupakan di masa lalu.",
+        "jp": "見た目は普通の自然乾燥した花だが、貴重な贈り物でもある。忘れ去られた過去の友情を大切にするのと同じように、大事にしよう。",
+        "kr": "매우 평범해 보이는 바람에 말린 꽃이지만 한때는 귀중한 선물로 사용되었다. 잊힌 옛 우정을 간직하는 것처럼 소중히 다루어야 한다…",
+        "pt": "Uma flor seca que pode até parecer comum, mas é um presente precioso que deve ser valorizado, assim como uma amizade esquecida no passado.",
+        "ru": "На вид - самый обычный засохший цветок, но когда-то он был драгоценным подарком. Его нужно беречь, как берегут прошлую дружбу.",
+        "th": "ดอกไม้แห้งดอกน้อย ๆ ที่ดูธรรมดา แต่ก็เป็นของขวัญที่ล้ำค่ามาก จะต้องเก็บรักษาไว้เป็นอย่างดี ให้เหมือนดั่งการรักษามิตรภาพในอดีตที่ถูกลืมเลือน",
+        "vi": "Trông như một bông hoa khô bình thường nhưng lại là món quà quý giá, nhất định phải nâng niu trân trọng, giống như tình bạn xưa cũ đã bị lãng quên."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

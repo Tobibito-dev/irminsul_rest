@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Konda Cuisine",
+        "de": "Konda-Küche",
+        "chs": "绀田煮",
+        "cht": "紺田煮",
+        "es": "Estofado de Konda",
+        "fr": "Ragoût de Konda",
+        "id": "Konda Cuisine",
+        "jp": "紺田煮",
+        "kr": "콘다 어묵",
+        "pt": "Cozido de Konda",
+        "ru": "Рагу Конды",
+        "th": "Konda Cuisine",
+        "vi": "Món Konda"
+    },
+    "id": 108286,
+    "materialDesc": {
+        "en": "Slowly stewed local cuisine. Everyone in Konda Village knows how to make this dish. It originally had no name but would spread throughout Inazuma on account of its nutritious deliciousness. This eventually caused those from outside the village to give it its name — \"Konda Cuisine.\"",
+        "de": "Regionale Küche, die langsam über einem Feuer zubereitet wird. Jeder im Dorf Konda weiß, wie man dieses Gericht zubereitet. Ursprünglich hatte es keinen Namen, aber es verbreitete sich in ganz Inazuma aufgrund seiner nahrhaften Köstlichkeit. Dies führte schließlich dazu, dass diejenigen von außerhalb des Dorfes ihm seinen Namen gaben: „Konda-Küche“.",
+        "chs": "慢火炖煮的乡土料理。是绀田村家家户户都会做的菜肴。原本并没有名字，由于营养好吃而在稻妻地区流传开来，于是绀田村以外地方的人们，便称其为「绀田煮」。",
+        "cht": "慢火燉煮的鄉土料理。是紺田村家家戶戶都會做的菜餚。原本並沒有名字，由於營養好吃而在稻妻地區流傳開來，於是紺田村以外地方的人們，便稱其為「紺田煮」。",
+        "es": "Un rústico estofado hecho a fuego lento. Todos los habitantes de la Aldea Konda saben cocinarlo. En un principio, este plato no tenía nombre, pero debido a lo delicioso y nutritivo que es, se extendió por toda Inazuma. Por esta razón, la gente de fuera de la Aldea Konda comenzó a llamarlo “estofado de Konda”.",
+        "fr": "Plat local mijoté à feu doux. Tous les foyers du Village de Konda connaissent ce plat. Il n'avait pas de nom à l'origine, mais s'est répandu dans tout Inazuma, étant un tel délice nutritif, ce qui lui a valu d'être nommé « ragoût de Konda ».",
+        "id": "Masakan lokal yang direbus perlahan. Semua orang di Desa Konda tahu bagaimana membuat masakan ini. Awalnya masakan ini tidak memiliki nama, namun masakan ini menjadi populer di seantero Inazuma karena lezat dan bergizi. Hal ini pun akhirnya membuat orang-orang selain penduduk Desa Konda memberinya nama \"Konda Cuisine\".",
+        "jp": "ゆっくりと煮た郷土料理。紺田村の家庭では定番の料理。本来は名前がなかったが、栄養が高くておいしいため、稲妻全域に広まった。そのため、紺田村以外の人はこの料理を「紺田煮」と名付けた。",
+        "kr": "약불로 끓인 향토 요리. 콘다 마을 사람이라면 다들 익숙히 조리할 수 있는 음식이다. 정식 명칭이 없었으나, 영양과 맛을 겸비한 탓에 이나즈마 전역에 널리 퍼지게 되었다. 하여 콘다 마을 밖의 사람들은 이 음식을 「콘다 어묵」이라고 부르게 되었다",
+        "pt": "Comida local cozinhada lentamente. Todos na Vila Konda sabem como fazer esse prato. Originalmente não tinha nenhum nome, mas ele se espalhava em Inazuma devido a ser delicioso e nutritivo. Isso eventualmente fez com que aqueles foram da vila lhe dessem seu nome \"Culinária de Konda\".",
+        "ru": "Местное тушёное блюдо. Его готовят в каждом доме деревни Конда. Изначально оно было безымянным, но вскоре сытное и вкусное рагу распространилось по всей Инадзуме, и «рагу Конды» окрестили его те, кто в самой деревне не живёт.",
+        "th": "อาหารท้องถิ่นที่ใช้ไฟอ่อนค่อย ๆ เคี่ยว ทุกคนในหมู่บ้าน Konda ต่างรู้วิธีทำอาหารจานนี้เป็นอย่างดี เดิมทีเมนูนี้ไม่มีชื่อเรียก แต่เนื่องจากมันอุดมไปด้วยคุณค่าทางอาหาร รสชาติอร่อย และยังแพร่หลายไปทั่วทั้ง Inazuma ดังนั้นผู้คนนอกหมู่บ้าน Konta จึงเรียกมันว่า \"Konda Cuisine\"",
+        "vi": "Món ăn dân dã được ninh với lửa nhỏ. Đây là món ăn mà bất kỳ gia đình nào trong làng Konda đều biết làm. Ban đầu không có tên, nhưng vì ngon và dinh dưỡng nên món này trở nên phổ biến trong Inazuma, người dân bên ngoài làng Konda gọi món này là \"Món Konda\"."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

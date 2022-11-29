@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Tale of Shiruyeh and Shirin (II)",
+        "de": "Die Geschichte über Shiruyeh und Shirin – Band II",
+        "chs": "希鲁伊与希琳的故事·卷二",
+        "cht": "希魯伊與希琳的故事·卷二",
+        "es": "Shiruyeh y Shirín (II)",
+        "fr": "Conte de Shiruyeh et Shirin - Tome II",
+        "id": "Kisah Shiruyeh dan Shirin (II)",
+        "jp": "シェロイとシリンの物語·2",
+        "kr": "시루이와 시린의 이야기·권2",
+        "pt": "A Lenda de Shiruyeh e Shirin - (II)",
+        "ru": "История Шируе и Сирин II",
+        "th": "เรื่องราวของ Shiruyeh และ Shirin (II)",
+        "vi": "Câu Chuyện Về Shiruyeh Và Shirin II"
+    },
+    "id": 120020,
+    "materialDesc": {
+        "en": "A Jinni tells a tale on the night wind, a story about itself and a shepherd. It's a story of unknown origin and is full of absurdities.",
+        "de": "Ein Dschinn erzählt eine Geschichte im Nachtwind, eine Geschichte über sich selbst und einen Hirten. Es ist eine Geschichte unbekannten Ursprungs und steckt voller Absurditäten.",
+        "chs": "镇灵在夜风中讲与牧童的故事，不知何来，荒诞不羁。",
+        "cht": "鎮靈在夜風中講與牧童的故事，不知何來，荒誕不羈。",
+        "es": "El cuento sobre un genio que le cuenta una historia a un pastor bajo la brisa de la noche. No se sabe cuál es su origen, pero rebosa una gran imaginación.",
+        "fr": "L'histoire d'un djinn qui récite un conte à un berger dans la brise de la nuit. Son origine est inconnue, mais ne manque pas d'idées pour le moins originales.",
+        "id": "Di tengah malam, Jinni bercerita tentang ceritanya dengan seorang gembala. Diceritakannya sebuah cerita yang asal-usulnya tak diketahui dan penuh dengan keanehan.",
+        "jp": "ジンニーが夜風に吹かれながら、出所不明の、不条理に満ちた牧童の物語を語る…",
+        "kr": "지니가 밤바람을 맞으며 들려주는 목동의 이야기. 출처가 불분명하고 황당무계하다",
+        "pt": "Um Jinni conta a história da brisa da noite, uma história sobre si mesmo e um pastor. É uma história com sua origem desconhecida e cheia de absurdos.",
+        "ru": "История, рассказанная джинном пастушку под завывания ночного ветра. И откуда такие фантазии?",
+        "th": "เรื่องราวที่ญินเล่าให้เด็กเลี้ยงแกะฟังท่ามกลางสายลมยามค่ำคืน ทั้งไม่รู้ที่มา และหาสาระไม่ได้",
+        "vi": "Trong gió đêm, Trấn Linh kể câu chuyện về cậu bé chăn cừu. Đó là một câu chuyện không rõ nguồn gốc và đầy vô lý."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

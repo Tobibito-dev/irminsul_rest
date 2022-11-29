@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Stone Harbor Delicacies",
+        "de": "Misslungene drei Köstlichkeiten vom Steinhafen",
+        "chs": "奇怪的岩港三鲜",
+        "cht": "奇怪的岩港三鮮",
+        "es": "Delicias del Puerto de Piedra extrañas",
+        "fr": "Délicatesses du Port de pierre (suspectes)",
+        "id": "Suspicious Stone Harbor Delicacies",
+        "jp": "微妙な岩港三鮮",
+        "kr": "이상한 바위항 지삼선",
+        "pt": "Iguarias do Porto de Pedra Estranha",
+        "ru": "Странные деликатесы скалистой гавани",
+        "th": "Stone Harbor Delicacies รสประหลาด",
+        "vi": "Nham Cảng Tam Tiên Kỳ Lạ"
+    },
+    "id": 108191,
+    "materialDesc": {
+        "en": "Wok-fried vegetarian food. Improper oil temperature control has caused the ingredients to reek of oil. Those who eat but a single bite will shake their heads and mourn the loss of the rare violetgrass used.",
+        "de": "Ein in viel Öl gebratenes Gemüsegericht. Da Temperaturangaben bei der Zubereitung nicht ordnungsgemäß eingehalten wurde, riechen die Zutaten stark nach Öl. Wer auch immer davon essen wird, wird sicher den Kopf schütteln und den Verlust des seltenen Glasglöckchens bedauern.",
+        "chs": "宽油炒制的素食。油温的控制不当让食材的口感泛起过重的油味，令人吃一口摇三次头，惋惜这来之不易的琉璃袋。",
+        "cht": "寬油炒製的素食。油溫的控制不當讓食材的口感泛起過重的油味，令人吃一口搖三次頭，惋惜這來之不易的琉璃袋。",
+        "es": "Plato de verduras salteadas en abundante aceite. Al no haber controlado bien la temperatura, el sabor del aceite ha impregnado al de toda la comida. La única razón para comer más de un bocado es por las pobres campanitas de cristal, tan difíciles de recolectar.",
+        "fr": "Un plat végétarien sauté dans un wok. La température de l'huile n'a pas été maîtrisée, ce qui rend les aliments très gras en bouche. Ceux qui mangeront ce plat hocheront la tête et feront une minute de silence pour le gâchis de muguet bleu rare.",
+        "id": "Hidangan vegetarian yang digoreng dengan wajan. Pengaturan panas yang kurang baik membuat hidangan ini memiliki bau minyak. Siapa pun yang mencicipinya akan menggelengkan kepala, menyesali violetgrass langka yang terbuang sia-sia.",
+        "jp": "多めの油で炒めた菜食。温度コントロールが出来ていないせいで、非常に脂っこく、口にすると少し気持ち悪い。希少な琉璃袋が台無しだ。",
+        "kr": "기름을 많이 넣고 볶은 채식요리. 기름의 온도를 잘못 맞춰 식자재에서 기름 맛이 올라온다. 한 입 먹으면 고개를 세 번 저을 정도. 어렵게 구한 유리주머니가 아깝다",
+        "pt": "Comida vegetariana frita. O controle inadequado da temperatura do óleo fez com que os ingredientes cheirassem a óleo. Aqueles que comem, apenas com uma mordida sacudirão a cabeça e lamentarão a perda da rara erva violeta utilizada.",
+        "ru": "Вегетарианское блюдо, обжаренное в масле. Из-за безответственного отношения к его температуре все ингредиенты только маслом теперь и воняют. Одна ложка этого блюда заставит любого человека рыдать, оплакивая напрасную гибель редких стеклянных колокольчиков.",
+        "th": "อาหารมังสวิรัติทอด ด้วยการควบคุมอุณหภูมิของน้ำมันที่ไม่ถูกต้อง จึงทำให้รสชาติของส่วนผสมมันจนเกินไป เมื่อทานเข้าไปคำเดียวก็ทำให้ผู้ที่ทานถึงกับส่ายหัว เพราะเสียดายในวัตถุดิบที่หายากอย่าง Violetgrass",
+        "vi": "Thức ăn chay chiên ngập dầu. Kiểm soát nhiệt độ dầu không đúng cách làm cho hương vị của các thành phần trở nên rất ngấy, khiến người ta phải lắc đầu ngao ngán trong lần cắn đầu tiên, thật đáng tiếc."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

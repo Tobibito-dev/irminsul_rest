@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Sakura Tempura",
+        "de": "Misslungenes Sakura-Tempura",
+        "chs": "奇怪的绯樱天妇罗",
+        "cht": "奇怪的緋櫻天婦羅",
+        "es": "Tempura de cerezo extraña",
+        "fr": "Beignets de crevettes (suspects)",
+        "id": "Suspicious Sakura Tempura",
+        "jp": "微妙な緋櫻天ぷら",
+        "kr": "이상한 벚꽃 모둠튀김",
+        "pt": "Tempura de Sakura Estranho",
+        "ru": "Странная тэмпура с сакурой",
+        "th": "Sakura Tempura รสประหลาด",
+        "vi": "Tempura Anh Đào Kỳ Lạ"
+    },
+    "id": 108297,
+    "materialDesc": {
+        "en": "A dish deep-fried in oil. Perhaps it is an inexperience in controlling oil temperatures showing, but the ingredients began giving off a pungent smoke the instant they were dipped into the wok. The batter is now all mottled and browned. Shame about the waste... but best not to eat it, perhaps.",
+        "de": "Ein Gericht, das in Öl frittiert wird. Vielleicht liegt es an der Unerfahrenheit, die Öltemperatur zu kontrollieren, aber die Zutaten fingen an, einen stechenden Rauch abzugeben, sobald sie in den Wok getaucht wurden. Der Teig ist jetzt ganz fleckig und gebräunt. Schade um den Abfall ... aber vielleicht ist es besser, es nicht zu essen.",
+        "chs": "油炸而成的菜肴。或许是对油温控制的生疏。食材刚入锅的时候，便冒出了刺鼻的烟。成品的面衣斑驳而焦黄，虽然很可惜…要不还是别吃了吧。",
+        "cht": "油炸而成的菜餚。或許是對油溫控制的生疏。食材剛入鍋的時候，便冒出了刺鼻的煙。成品的麵衣斑駁而焦黃，雖然很可惜…要不還是別吃了吧。",
+        "es": "Un plato frito en abundante aceite. Quizás sea por la falta de experiencia en controlar la temperatura del aceite, pero los ingredientes comenzaron a emanar un humo quemado nada más introducirlos en la sartén. El rebozado ha quedado completamente marrón. Qué desperdicio... Quizás sea mejor no comérselo.",
+        "fr": "Un plat frit dans l'huile. C'est peut-être dû au manque d'expérience dans le contrôle de la température de l'huile, mais les ingrédients ont commencé à dégager une fumée âcre dès qu'ils ont été plongés dans le wok. La pâte est maintenant toute marbrée et dorée. Dommage pour le gaspillage... mais c'est peut-être mieux de ne pas en manger.",
+        "id": "Hidangan yang digoreng dalam minyak. Mungkin karena kurangnya pengalaman dalam mengontrol suhu minyak, bahan-bahannya mulai mengeluarkan asap yang menyengat begitu dicelupkan ke dalam wajan. Adonannya menjadi berbintik-bintik dan kecokelatan. Memang sayang kalau dibuang... tapi mungkin lebih baik jangan memakannya.",
+        "jp": "油で揚げた料理。油の温度を上手くコントロールできなかったせいか、揚げ始めたとたんに異臭がする煙が上がった。出来上がったものも焦げて茶色くなってしまっている。勿体ないが…食べない方がいいかも。",
+        "kr": "튀김 요리. 튀김 기름 온도에 대한 조절이 미숙한 탓일까, 식자재가 투하되자마자 코를 찌르는 연기가 뿜어져 나온다. 완성품 겉면의 밀가루는 눌어붙고 군데군데 얼룩이 가 있다. 아깝긴 하지만… 먹지 말까, 그냥",
+        "pt": "Um prato frito no óleo. Talvez seja uma falta de experiência ao lidar com a temperatura do óleo, mas assim que os ingredientes foram colocados na frigideira, um cheiro de queimado começou a subir. A manteiga está totalmente marrom. É uma pena por causa do desperdício... Talvez seja melhor não comer.",
+        "ru": "Блюдо, приготовленное во фритюре. Быть может, повар не совладал с температурой, но ингредиенты, попав в масло, начали издавать едкий дым. Местами отвалившийся кляр стал коричневым. Выбрасывать, конечно, жаль, но... давайте-ка мы это есть не будем.",
+        "th": "เมนูทอดในน้ำมัน ที่อาจเป็นเพราะความไม่ชำนาญในการควบคุมอุณหภูมิของน้ำมัน จึงทำให้เกิดควันโขมงขึ้นในตอนที่เอาวัตถุดิบหย่อนลงไปในหม้อ ซึ่งผิวของอาหารที่ออกมานั้น มีทั้งรอยไหม้และสีที่กระดำกระด่าง ถึงแม้จะเสียดาย...แต่ก็อย่ากินจะดีกว่า",
+        "vi": "Món chiên ngập dầu. Có lẽ do thiếu kinh nghiệm trong việc kiểm soát nhiệt đồ dầu. Khi các nguyên liệu mới cho vào nồi, liền có làn khói hăng sộc vào mũi. Lớp vỏ ngoài của món ăn đã có màu lốm đốm và chuyển sang màu nâu, mặc dù có vẻ lãng phí...nhưng tốt nhất là không nên ăn nó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

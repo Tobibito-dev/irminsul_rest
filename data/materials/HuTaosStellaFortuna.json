@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hu Tao's Stella Fortuna",
+        "de": "Stella Fortuna von Hu Tao",
+        "chs": "胡桃的命星",
+        "cht": "胡桃的命星",
+        "es": "Stella Fortuna de Hu Tao",
+        "fr": "Stella Fortuna de Hu Tao",
+        "id": "Hu Tao's Stella Fortuna",
+        "jp": "胡桃の星屑",
+        "kr": "호두의 운명의 별",
+        "pt": "Stella Fortuna de Hutao",
+        "ru": "Удача Ху Тао",
+        "th": "ดวงดาวแห่งชีวิตของ Hu Tao",
+        "vi": "Cung Mệnh của Hu Tao"
+    },
+    "id": 1146,
+    "materialDesc": {
+        "en": "Hu Tao's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Hu Taos Sternbild",
+        "chs": "胡桃的命之座激活素材",
+        "cht": "胡桃的命之座啟用素材",
+        "es": "Material de activación de constelación de Hu Tao",
+        "fr": "Matériau d'activation de la constellation de Hu Tao.",
+        "id": "Material aktivasi untuk konstelasi Hu Tao",
+        "jp": "胡桃の命ノ星座アンロック用素材",
+        "kr": "호두의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Hutao",
+        "ru": "Материал для активации созвездия Ху Тао.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Hu Tao",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Hu Tao"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

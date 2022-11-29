@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Tea Break Pancake",
+        "de": "Rezept: Landeierkuchen",
+        "chs": "食谱：庄园烤松饼",
+        "cht": "食譜：莊園烤鬆餅",
+        "es": "Receta: Panqueques",
+        "fr": "Recette : Pancakes",
+        "id": "Resep: Tea Break Pancake",
+        "jp": "レシピ：午後のパンケーキ",
+        "kr": "레시피: 장원 팬케익",
+        "pt": "Receita: Panqueca do Chá da Tarde",
+        "ru": "Рецепт: Блинчики к чаю",
+        "th": "สูตรอาหาร: Tea Break Pancake",
+        "vi": "Công Thức: Bánh Xốp"
+    },
+    "id": 109401,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Tea Break Pancake.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Landeierkuchen“.",
+        "chs": "步骤详实的食谱，记载着「庄园烤松饼」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「莊園烤鬆餅」的製作方法。",
+        "es": "Receta paso a paso para hacer panqueques.",
+        "fr": "Étapes de préparation des pancakes.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Tea Break Pancake.",
+        "jp": "「午後のパンケーキ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「장원 팬케익」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo da \"Panqueca do Chá da Tarde\".",
+        "ru": "Подробный рецепт приготовления блюда «Блинчики к чаю».",
+        "th": "สูตรอธิบายวิธีทำ \"Tea Break Pancake\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Bánh Xốp\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

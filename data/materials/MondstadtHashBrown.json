@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt Hash Brown",
+        "de": "Kartoffelpuffer nach Mondstadt-Art",
+        "chs": "蒙德土豆饼",
+        "cht": "蒙德薯餅",
+        "es": "Tortilla de papas de Mondstadt",
+        "fr": "Galette de pomme de terre mondstadtoise",
+        "id": "Mondstadt Hash Brown",
+        "jp": "モンド風ハッシュドポテト",
+        "kr": "몬드 감자전",
+        "pt": "Bolinho de Batata de Mondstadt",
+        "ru": "Мондштадтские оладушки",
+        "th": "Mondstadt Hash Brown",
+        "vi": "Bánh Khoai Tây Mondstadt"
+    },
+    "id": 108046,
+    "materialDesc": {
+        "en": "A fried cake of mashed potatoes. A little bit of pinecone helps give it a nice crunch, and great with a bit of jam. Loved by people of all ages.",
+        "de": "Gebratene Kartoffelpuffer. Die Kiefernzapfen sorgen für eine besondere Note. Sie lassen sich gut mit Konfitüre essen und begeistern Jung und Alt.",
+        "chs": "土豆做的炸饼。少量松果提供了富有变化的口感。可以搭配果酱食用，深受各个年龄阶层的欢迎。",
+        "cht": "馬鈴薯做的炸餅。少量松果提供了富有變化的口感。可以搭配果醬食用，深受各個年齡階層的歡迎。",
+        "es": "Una tortilla hecha con papas fritas a la que se han añadido piñones, que le dan un toque crujiente. Se come con un poco de mermelada. Se trata de un plato que gusta a las personas de todas las edades.",
+        "fr": "Une galette de pomme de terre frite. Elle se laisse manger avec un peu de confiture, et une pincée de pommes de pin écrasées lui donne un côté croustillant. Tout le monde l'adore.",
+        "id": "Gorengan yang terbuat dari kentang. Selai pinecone yang disajikan akan memperkaya rasa kentang di mulut. Hidangan ini disukai oleh semua orang dari berbagai usia.",
+        "jp": "ジャガイモで作ったスナック。少し加えたナッツが食感に変化をもたらしている。ジャムと一緒に食べてもよい。幅広い年齢層の人から慕われている。",
+        "kr": "감자로 만든 전. 잣이 조금 들어가 식감이 독특하다. 과일잼과 같이 먹으면 남녀노소 모두 좋아할 만한 색다른 맛을 느낄 수 있다",
+        "pt": "Um bolinho frito de purê de batata. Um pouco de pinha ajuda a dar uma crocância. Pode ser comido com um pouco de geleia. Amado por pessoas de todas as idades.",
+        "ru": "Толстые лепёшки из картофеля. Приятно хрустят благодаря небольшому количеству сосновых семечек. Хорошо сочетаются со сметаной. Придутся по вкусу людям любого возраста.",
+        "th": "มันฝรั่งบดที่ปั้นเป็นก้อนแล้วนำไปทอด ผสมด้วยลูกสนเล็กน้อยช่วยให้มันกรอบกำลังดี ยิ่งทานกับแยมยิ่งอร่อยและเป็นที่ชื่นชอบในหมู่คนทุกเพศทุกวัย",
+        "vi": "Bánh khoai tây chiên. Một ít quả thông giúp gia tăng khẩu vị. Có thể ăn chung với mứt, được nhiều lứa tuổi yêu thích."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

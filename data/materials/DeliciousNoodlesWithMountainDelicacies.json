@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Noodles with Mountain Delicacies",
+        "de": "Leckere Nudeln mit Fleischsoße und Pilzen",
+        "chs": "美味的山珍热卤面",
+        "cht": "美味的山珍熱滷麵",
+        "es": "Fideos con delicias de montaña deliciosos",
+        "fr": "Nouilles aux délices de la montagne (délicieuses)",
+        "id": "Delicious Noodles with Mountain Delicacies",
+        "jp": "美味しそうな山幸の麺",
+        "kr": "맛있는 산미 울면",
+        "pt": "Macarrão Delicioso com Delícias das Montanhas",
+        "ru": "Вкусная лапша «Дары гор»",
+        "th": "Noodles with Mountain Delicacies แสนอร่อย",
+        "vi": "Mì Nóng Bát Bửu Ngon"
+    },
+    "id": 108143,
+    "materialDesc": {
+        "en": "Noodles in a meat and vegetable sauce. The seemingly ordinary noodles have absorbed the essence of the mountainous delicacies. A single mouthful is enough to taste its extreme freshness.",
+        "de": "Nudeln in einer Soße mit Fleisch und Gemüse. Die eigentlich ganz herkömmlichen Nudeln haben den ganzen Geschmack der Bergpilze aufgenommen. Nur ein Happen genügt, um höchste Gaumenfreude zu verspüren.",
+        "chs": "荤素搭配的卤面。看似平凡的面条中吸收了山珍的精华，只须一口，舌尖便能领略到鲜味的极致。",
+        "cht": "葷素搭配的滷麵。看似平凡的麵條吸收了山珍的精華，只須一口，舌尖便能領略到鮮味的極致。",
+        "es": "Fideos en salsa de carne con verduras. Los fideos, aparentemente comunes y corrientes, han absorbido la esencia de las delicias de las montañas. Un solo bocado es suficiente para saborear su extrema frescura.",
+        "fr": "Des nouilles dans une sauce de viande et de légumes. Ce plat si ordinaire concentre tout ce que la montagne a de bon à offrir. Une seule bouchée suffit pour le découvrir.",
+        "id": "Mie dengan saus yang terbuat dari campuran daging dan sayuran. Walaupun terlihat biasa saja, tetapi mie ini telah menyerap esensi-esensi dari bahan pegunungan yang langka. Cukup satu suapan saja sudah cukup membawa kamu merasakan kesegaran makanan yang tak tertandingi.",
+        "jp": "栄養バランスが良い麺。一見普通の麺に見えるが、山の幸を吸収しており、一口で旨味の極みを感じられる。",
+        "kr": "육류와 채소의 밸런스가 좋은 울면. 평범해 보이는 면발이지만 산해진미 진액이 들어있어 한입 먹으면 입안에서 남다른 풍미가 느낄 수 있다",
+        "pt": "Macarrão em um molho de carne e legumes. O macarrão, aparentemente comum, absorveu a essência das iguarias montanhosas. Basta uma única garfada para saborear seu frescor extremo.",
+        "ru": "Лапша в солёной подливке с мясом и овощами. Самая обыкновенная на вид лапша впитала суть горных лакомств. Стоит попробовать лишь чуть-чуть, чтобы испытать удивительную свежесть этого блюда.",
+        "th": "บะหมี่เนื้อตุ๋นใส่ผัก ดูเหมือนว่าบะหมี่ทั่วไปจะดูดซับแก่นแท้ของอาหารป่าไว้อย่างเต็มเปี่ยม เพียงแค่คำเดียวก็เพียงพอที่จะรับรู้ได้ถึงรสชาติของความสดใหม่",
+        "vi": "Món mỳ với thịt và rau. Trông bình thường nhưng hấp thụ tinh hoa núi rừng, chỉ ăn một miếng là đã có thể cảm nhận được mùi vị tuyệt vời."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

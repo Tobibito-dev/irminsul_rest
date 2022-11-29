@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Skyward Atlas",
+        "de": "Himmelsatlas",
+        "chs": "天空之卷",
+        "cht": "天空之卷",
+        "es": "Pergamino Celestial",
+        "fr": "Atlas de la Voûte d'Azur",
+        "id": "Skyward Atlas",
+        "jp": "天空の巻",
+        "kr": "천공의 두루마리",
+        "pt": "Atlas Celestial",
+        "ru": "Небесный атлас",
+        "th": "Skyward Atlas",
+        "vi": "Quyển Thiên Không"
+    },
+    "id": 14501,
+    "type": "WEAPON_CATALYST",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 47.5369987487793
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 0.07199999690055847
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.090999960899353,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1829999685287476,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.274999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3680000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4609999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5540000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7430000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8370000123977661,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9329999685287476,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0280001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2200000286102295,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.316999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4140000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.510999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6080000400543213,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7060000896453857,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.803999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9030001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.002000093460083,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1010000705718994,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.200000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.299999952316284,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4000000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6010000705718994,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7009999752044678,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.802999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9040000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.10699987411499,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.209000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.311999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.414000034332275,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.517000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7230000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.827000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.931000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.034999847412109,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.138999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.243000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.3480000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.558000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.663000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.76800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.874000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.980000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.085999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.191999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.298999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.406000137329102,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.513000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.7270002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.835000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.941999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.050000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.1579999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.267000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.375,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.484000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.5920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.701000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.810999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.029999732971191,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.138999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.24899959564209,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.359000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.470000267028809,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.579999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.690999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.802000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.913000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.02400016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.135000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.246999740600586,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.357999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.470000267028809,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.581999778747559,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.694000244140625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.807000160217285,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.918999671936035,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.031999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.145000457763672,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.258000373840332,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.371000289916992,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.484999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.597999572753906,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.711999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.826000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.9399995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.053999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.168000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.282999992370605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.397000312805176,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 14501,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114005,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 5
+                },
+                {
+                    "id": 112011,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 18
+                },
+                {
+                    "id": 112011,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 9
+                },
+                {
+                    "id": 112021,
+                    "count": 9
+                },
+                {
+                    "id": 112012,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 5
+                },
+                {
+                    "id": 112021,
+                    "count": 18
+                },
+                {
+                    "id": 112012,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 9
+                },
+                {
+                    "id": 112022,
+                    "count": 14
+                },
+                {
+                    "id": 112013,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 14501,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114008,
+                    "count": 6
+                },
+                {
+                    "id": 112022,
+                    "count": 27
+                },
+                {
+                    "id": 112013,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+        "de": "Ein Atlas von der Wolkenlandschaft, geschaffen von Dvalin und seinem Herrn, dem Archon des Windes. Er beschreibt den Wind und die Wolken des Himmels im Norden detailliert und enthält die Kraft von Himmel und Wind.",
+        "chs": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。",
+        "cht": "象徵風龍與其主風之神的雲圖集。細緻記載了北地天空的風與雲，蘊含蒼空與長風的力量。",
+        "es": "Un atlas de nubes que simboliza a Stormterror y al Arconte Anemo, su antiguo maestro. Registra detalladamente y contiene el poder de los vientos y las nubes de los cielos del norte.",
+        "fr": "Un atlas représentant Dvalin et son ancien maître, l'Archon Anémo. Il décrit en détail les vents et les nuages au nord de Teyvat et renferme la puissance des cieux et des vents.",
+        "id": "Atlas awan yang melambangkan Dvalin dan tuannya, Archon Anemo. Menunjukkan secara rinci awan dan angin di daerah Utara, mengandung kekuatan angin dan angkasa.",
+        "jp": "風龍とその主である風の神を象徴した図表集。北の風と雲が詳しく記載されており、蒼空と長風の力が秘められている。",
+        "kr": "풍룡과 그의 주인 바람의 신을 상징하는 두루마리. 북쪽 하늘의 바람과 구름이 상세히 기재되어 있으며, 푸른 하늘과 바람의 힘을 지니고 있다",
+        "pt": "Um atlas das nuvens que simboliza Dvalin e o Arconte Anemo, seu antigo mestre. Detalha os ventos e as nuvens das regiões do norte e contém o poder dos céus e dos ventos.",
+        "ru": "Облачный атлас, символ Двалина и его повелителя, Анемо Архонта. Детально описывает облака и воздушные потоки северного региона, питающие его силой небес и ветров.",
+        "th": "บันทึกมวลเมฆที่เป็นเหมือนตัวแทนของ Dvalin และเทพแห่งลมผู้เป็นเจ้าของเดิม ภายในระบุรายละเอียดของสายลมและหมู่เมฆในแดนเหนือ และมีพลังของท้องฟ้าและสายลมอยู่ด้วย",
+        "vi": "Tập sách tượng trưng cho Phong Long và chủ nhân Phong Thần của nó. Ghi chép tỷ mỉ về gió và mây của bầu trời phương bắc, ẩn giấu sức mạnh của thiên không và gió."
+    },
+    "flavor": {
+        "en": "\nAn atlas of wind.\nA copy of the atlas pertaining to the weather of the northern regions, presented in the form of poems and images.\nIt consists of 100 thousand odes, each dedicated to a single cloud or wind and calling it by name.\nThe cloud atlas gave form to the winds, and odes infused them with personality.\nThe myriad formless winds are now friends and family in the eyes of Barbatos.\n\nLegends tell that in ancient times, Barbatos summoned the four winds with the original version.\nHe thawed the snow, drove away vicious beasts, summoned rainfall, and created Mondstadt.\nHe permitted the atlas to be shared and copied among the people, giving it the name of Cloud Atlas.\nSadly, nothing survives the test of time. Certain drawings and odes were missing in the copies that survived.\nHowever, the knowledge passed on in the form of ballads and legends among the general public.\n\nThe histories of the thousand winds were not lost, for Barbatos still holds them.\nWhen Barbatos stood against the shadowy wings of the evil dragon Durin,\nHe sang to the thousand winds and called upon the Wind Dragon.\nHe who holds this atlas wields the true names of the thousand winds and all of their powers.\n\nNow the skies above Mondstadt are calm and blue.\nBarbatos and Dvalin have found a new place to call home.\nThe atlas, meanwhile, has been entrusted to one worthy of the honor.\n",
+        "de": "\nKompendium der Winde und Wolken.\nEine Kopie des Atlas der Wolkenlandschaft im Norden, präsentiert in Form von Gedichten und Bildern.\nEs enthält einhundert Oden, jede von ihnen ist einer einzelnen Wolke oder einem Wind namentlich gewidmet.\nDer Atlas gab den Winden eine äußere Form und die Oden gaben ihnen Persönlichkeit.\nDie unsichtbaren Winde sind wie Freunde und Familie in den Augen Barbatos’.\n\nIn Legenden rief Barbatos die vier Winde mit der Originalversion herbei.\nEis und Schnee schmolzen, die garstige Bestie war vertrieben, Regen fiel und Mondstadt ward erbaut.\nEr erlaubte das Kopieren und die Verteilung des Buches und nannte dieses „Kompendium der Winde und Wolken“.\nTraurigerweise hatte kaum eine Kopie davon die Prüfung der Zeit bestanden. Zeichnungen und Oden waren in denen, die sie überstanden hatten, nicht mehr aufzufinden.\nDas Wissen wurde der Allgemeinheit in Form von Balladen und Legenden vermittelt.\n\nDie Geschichte der Tausend Winde ist nicht verloren, denn sie lebt in Barbatos weiter.\nBarbatos stellte sich Durin in den Weg, als dieser seine Flügel ausbreitete und somit die Sonne verdeckte.\nIm endlosen Kampf sang Barbatos zu den Tausend Winden und rief Dvalin den Winddrachen.\nDiejenigen, die den Atlas ihr Eigen nennen, haben die wahre Macht über die Tausend Winde und ihre Kräfte.\n\nZur jetzigen Zeit ist der Himmel über Mondstadt wolkenlos und blau.\nBarbatos und Dvalin haben endlich ein neues Zuhause gefunden.\nDer Atlas wurde nun einer vertrauenswürdigen Person anvertraut.\n",
+        "chs": null,
+        "cht": "\n千風萬雲通覽。\n記載北地全境雲風的抄本，以詩與圖鑑的形式呈現。\n總長有十萬頌，每頌是一縷雲，一絲風，其名各異。\n雲圖為風賦予了形狀，頌詩給風塑造了獨特的性格。\n本是無形的千風，在巴巴托斯眼中有如摯友與親人。\n\n在那傳說中的上古時代，風之神持原本，喚來四風，\n消散了冰雪，摒退了凶獸，降下了雨露，蒙德遂成。\n而後慷慨的風神將此書任人傳抄，賦名「千風萬雲」。\n可惜隨著日月流轉，經年以後，雲圖與頌詩多有遺漏。\n記載萬千風雲的通覽散入民間，化作歌謠與故事傳說。\n\n然而千風的歷史遠未因此失傳，風神依然持有著它。\n待魔龍杜林張開巨翼蔽日而來，巴巴托斯挺身而出。\n日月失色的惡戰中，風神唱出千風，風龍緣風而起。\n掌握此卷者，便掌握了千風萬雲的真名與其中偉力。\n\n如今，蒙德的天空平靜蔚藍。\n風神與風龍找到了新的歸宿。\n而此卷則被託付予可信之人。\n",
+        "es": "\nAtlas de las Nubes.\nUn atlas sobre el clima de las regiones del norte, presentado en forma de versos e imágenes.\nSe compone de decenas de miles de odas dedicadas a todas las nubes y los vientos, cada uno de ellos con su propio nombre.\nLas imágenes les dieron la forma, y las odas su personalidad.\nLos miles de vientos sin forma son ahora como una familia para Barbatos.\n\nEn los tiempos de las leyendas, Barbatos solía invocar los cuatro vientos con este libro en mano.\nÉl derritió la nieve, ahuyentó a las bestias, hizo llover y construyó Mondstadt.\nDespués, le otorgó una copia a la raza humana y lo tituló «Atlas de las Nubes».\nPero, con el paso del tiempo, las imágenes y las copias de las odas se han ido perdiendo.\nAun así, el conocimiento transmitido a través del atlas ahora forma parte del folclore con sus baladas y leyendas.\n\nLas historias de los mil vientos no se han perdido, pues Barbatos las conserva.\nCuando Durin el dragón de las sombras cubrió el sol con sus alas, Barbatos se enfrentó a él valientemente.\nEn aquellos días en los que el cielo perdió el color, el Arconte Anemo cantó sobre los vientos e invocó al Dragón del Viento.\nEl poseedor de este tomo tendrá en sus manos los nombres de los miles de vientos y nubes, así como su poder.\n\nEn la actualidad, los cielos de Mondstadt son tranquilos y azules.\nBarbatos y Dvalin encontraron un nuevo hogar,\nasí que este tomo ha sido puesto en manos de una persona confiable.\n",
+        "fr": "\nUn atlas des vents.\nUn manuscrit dédié aux vents des régions du nord, présenté sous forme de poèmes.\nIl en recoupe plus de cent mille ; chacun est une ode aux nuages et aux vents, chaque cumulus et chaque brise ayant son propre nom.\nÀ la manière des vents qui donnèrent forme à ces poèmes, chaque ode confère aux vents une personnalité propre.\nLes mille vents insondables sont tous les frères de Barbatos.\n\nLa légende raconte qu'en des temps anciens, la version originale de l'ouvrage fut utilisée par Barbatos pour invoquer les Quatre Vents.\nIl balaya la neige, repoussa les bêtes, invoqua les pluies, et fonda Mondstadt.\nIl permit au peuple de copier et partager son atlas, lui donnant le nom d'Atlas aux Mille Nuages.\nRien ne résiste au passage du temps, et certains dessins et poèmes disparurent avec les copies qui suivirent.\nMais le savoir que l'ouvrage renferme fut transmis sous la forme de balades et de légendes.\n\nL'histoire des mille vents ne fut pas perdue ; Barbatos la conserva.\nLorsque Durin, le dragon maléfique, étendit ses ailes, Barbatos le défia ;\net invoquant les mille vents dans le ciel, il appela le dragon Dvalin.\nCelui qui possède l'atlas connaît les noms des mille vents, ainsi que leur puissance.\n\nLe ciel de Mondstadt est aujourd'hui sans nuages ;\nBarbatos et Dvalin se sont réconciliés.\nEt cet ouvrage a été remis à une personne digne de confiance.\n",
+        "id": "\nAtlaas Angin.\nTranskrip atlas cuaca di bagian Utara, disajikan dalam bentuk puisi dan buku bergambar.\nBerisikan 100 ribu syair, masing-masing didedikasikan kepada sebuah awan atau angin dan memanggil mereka dengan sebuah nama.\nAwan di atlas memberi bentuk pada angin, dan syair menanamkannya dengan kepribadian.\nSekelompok angin tak berbentuk sekarang menjadi teman dan keluarga di mata Barbatos.\n\nLegenda mengatakan bahwa pada zaman dulu, Barbatos memanggil keempat angin dalam bentuk aslinya,\nDia mencairkan salju, mengusir binatang buas, memanggil curah hujan, dan menciptakan Mondstadt.\nDia mengizinkan atlas untuk dibagi bersama dan tinggal bersama manusia, dan memberinya nama Atlas Awan.\nSayangnya, tidak ada yang selamat dari ujian waktu. Setelah bertahun-tahun, beberapa gambar dan syair hilang.\nNamun demikian, ilmu pengetahuan diwariskan dalam bentuk syair dan legenda di antara masyarakat.\n\nSejarah ribuan angin tidak hilang, karena Barbatos masih memegangnya.\nKetika naga bayangan Durin membuka sayapnya dan menutupi matahari, Barbatos melangkah maju.\nDia bernyanyi kepada ribuan angin dan memanggil Naga Angin.\nDia yang memegang atlas, juga memegang nama dari ribuan angin dan kekuatannya.\n\nKini langit di Mondstadt tenang dan berwarna biru.\nBarbatos dan Dvalin telah menemukan tempat yang mereka sebut rumah.\nSementara itu, atlas telah dipercayakan kepada seseorang yang layak menerima kehormatan tersebut.\n",
+        "jp": "\n千風万雲通覧。\n北の大陸全土の風と雲を、詩と絵の形で記した典籍の謄本。\n十万筋の雲があり、一筋一筋に雲と風が絡み合う。\n雲の絵は風に形を与えた。詩は風に独特な性格を与えた。\n本来は形を持たない千風だが、バルバトスにとっては親友や家族のような存在。\n\n伝説によれば、上古時代に、風の神は典籍の原本で四風を呼び寄せた。\n氷雪を吹き飛ばし、凶暴な怪獣を撃退した。さらに雨を降らし、モンドを創った。\n寛容な風神はこの典籍の内容を人々に共有し、「千風万雲」と名付けた。\n時が経った今では、典籍に記載されていない内容も多く存在する。\n無数の風と雲を記載した典籍は、歌謡や伝説となり人々へ伝わった。\n\n風神が存在し続ける限り、千風の歴史は決して終わらない。\n魔龍ドゥリンの翼が日の光を覆い隠した時、バルバトスは現れた。\n激戦の中、風神は千風を詠い、風龍を召喚した。\nこの典籍を心得た者は、千風万雲の真名とその偉大なる力を手に入れる。\n\n今、モンドの空は穏やかに晴れている。\n風神と風龍は新たな帰る場所を見つけた。\nこの典籍も信頼できる者へと託した。\n",
+        "kr": "\n천풍만운의 통찰\n북대륙 전역의 풍운을 기록한 초본으로, 시와 도감으로 표현되어 있다.\n총 십만 송이나 되는 양에 시마다 구름 한 점과 바람 한 점으로 이루어져 있으며, 제각각 다른 이름을 지니고 있다.\n두루마리는 바람에게 형태를 송시는 바람에게 독특한 성격을 주었다.\n보이지 않던 천풍은 바르바토스에겐 친한 친구이자 가족과도 같은 존재이다.\n\n전설 속의 상고 시대에 바람 신은 원래의 형태를 유지하며 바람을 불러와\n눈을 녹이고 흉악한 짐승을 물리치며, 은혜를 내려 몬드를 세웠다.\n이후 너그러운 바람 신은 이 책에서 자유롭게 베껴 적히며 「천풍만운」이라 불린다.\n안타깝게도 세월이 지나면서 두루마리와 송시는 대부분 유실되었다.\n천풍만운의 통찰이 사람들 사이에 퍼지게 되면서 민요와 설화가 만들어졌다.\n\n천풍의 역사는 이렇게 사라졌지만 바람 신은 여전히 그것을 기억하고 있다.\n마룡 두린이 거대한 날개를 펼쳐 해를 가리자 바르바토스가 그에 맞섰다.\n해와 달이 빛을 잃는 치열한 전투에서 바람 신은 천풍을 노래하며 바람 드래곤을 깨운다.\n이 두루마리를 깨우친 자는 곧 천풍만운의 실체와 그 위력을 깨우쳤다는 것을 의미한다.\n\n오늘날 몬드의 하늘은 잔잔하고 평온하다.\n바람 신과 바람 드래곤은 새로운 결말을 맞이했다.\n두루마리는 신임할 수 있는 사람에게 맡겨졌다.\n",
+        "pt": "\nUm atlas do vento.\nUma cópia do atlas relativo ao clima das regiões do norte, apresentado sob a forma de poemas e imagens.\nEle consiste em 100 mil odes, cada uma dedicada a uma única nuvem ou vento e chamando-a pelo nome.\nO atlas das nuvens deu forma aos ventos, e as odes os infundiram de personalidade.\nOs miríades de ventos sem forma são agora amigos e familiares aos olhos de Barbatos.\n\nAs lendas dizem que, nos tempos antigos, Barbatos convocava os quatro ventos com a versão original deste livro em mãos.\nEle descongelou a neve, expulsou animais ferozes, chamou as chuvas e criou Mondstadt.\nEle permitiu que o atlas fosse compartilhado e copiado entre o povo, dando-lhe o nome de \"Atlas das Nuvens.\"\nInfelizmente, nada sobrevive ao teste do tempo. Alguns desenhos e odes estavam faltando nas cópias que sobreviveram.\nEntretanto, o conhecimento foi transmitido sob a forma de baladas e lendas entre o público, em geral.\n\nAs histórias dos mil ventos não se perderam, pois Barbatos ainda as detém.\nQuando Barbatos se colocou contra as asas sombrias do dragão maligno Durin,\nele cantou aos mil ventos, e invocou o Dragão do Vento.\nAquele que detém este atlas usa os verdadeiros nomes dos mil ventos e de todos os seus poderes.\n\nAgora os céus acima de Mondstadt estão calmos e azuis.\nBarbatos e Dvalin encontraram um novo lugar para chamar de lar.\nO atlas, por sua vez, foi confiado a um digno de sua honra.\n",
+        "ru": "\nАтлас ветров.\nКопия атласа, состоящего из стихов и изображений, описывающих погоду северных регионов.\nОн состоит из ста тысяч стихов, каждый из которых посвящён одному облаку или ветру и называет его по имени.\nОблачный атлас придал ветрам форму, а стихи наделили их характером.\nВ глазах верующих Барбатос всегда олицетворял тысячи ветров.\n\nВ легендах говорится, что Барбатос призвал четыре ветра в их изначальной форме.\nС их помощью он сдул снега, прогнал злобных чудовищ, вызвал дожди и создал Мондштадт.\nОн разрешил распространять этот атлас среди людей, дав ему название «Облачный атлас».\nК сожалению, мало что выдерживает испытание временем. В дошедших до наших дней копиях некоторые рисунки и стихи отсутствуют.\nНо среди мондштадтцев эти знания продолжают передаваться устно в форме баллад и легенд.\n\nИстории о тысячах ветров не были потеряны, ведь Барбатос сохранил их все.\nКогда Барбатос встал против чёрных крыльев злого дракона Дурина,\nОн спел одну тысяче ветров и призвал к себе на помощь дракона ветра.\nВладелец этого атласа хранит подлинную силу и имена тысячи ветров.\n\nТеперь небо над Мондштадтом голубое и безмятежное.\nБарбатос и Двалин нашли себе новый дом.\nИ атлас был доверен тому, кто достоин этой чести.\n",
+        "th": "\nแผนที่ภูมิอากาศ\nสำเนาแผนที่ที่เกี่ยวข้องกับสภาพอากาศของภูมิภาคทางตอนเหนือ โดยถูกนำเสนอในรูปแบบของบทกวีและรูปภาพ\nประกอบไปด้วยบทกวีสรรเสริญกว่าแสนบท ซึ่งและแต่ละบทนั้นเป็นของกลุ่มเมฆและลมที่มีชื่อแตกต่างกัน\nแผนที่เมฆทำให้เกิดกระแสลมและบทกวีสรรเสริญทำให้เห็นภาพ\nลมที่ไม่มีรูปร่างนับพันกลายเป็นเพื่อนและครอบครัวในสายตาของ Barbatos\n\nในยุคสมัยโบราณ เทพแห่งลมได้ถือครองต้นฉบับไว้เพื่อเรียกสายลมทั้งสี่\nเขาละลายหิมะ, ขับไล่อสูรออกไป, เรียกลมฝนและสร้าง Mondstadt ขึ้นมา\nจากนั้นเทพแห่งลมผู้ใจดีได้คัดลอกหนังสือเล่มนี้ให้กับทุกคนและตั้งชื่อมันว่า Cloud Atlas\nน่าเสียดายที่ไม่มีอะไรยั่งยืน หลังจากผ่านไปหลายปีภาพบางอย่างและบทกวีสรรเสริญบางส่วนก็ได้หายไป\nบันทึกเรื่องราวมากมายที่กระจัดกระจายไปอยู่ในฝูงชนและกลายเป็นบทเพลงและตำนานเรื่องเล่า\n\nประวัติศาสตร์ของสายลมนับพันนั้นไม่สูญหายเพราะ Barbatos ยังคงถือพวกมันเอาไว้\nเมื่อ Barbatos ยืนหยัดต่อสู้กับปีกเงาของมังกรอสูร Durin\nเขาขับร้องบทเพลงพันลมและเรียกมังกรแห่งสายลมออกมา\nผู้ที่เชี่ยวชาญหนังสือเล่มนี้ได้เข้าใจถึงชื่อจริงและพลังอันยิ่งใหญ่ของมัน\n\nในตอนนี้ท้องฟ้าของ Mondstadt นั้นทั้งสงบและก็เป็นสีฟ้า\nทั้ง Barbatos และ Dvalin ต่างก็พบสถานที่แห่งใหม่ของตน\nและได้มอบ The Atlas ให้อยู่ในความดูแลของผู้ที่สมควรได้รับความไว้วางใจเช่นนั้น\n",
+        "vi": "\nKhái quát Thiên Phong Vạn Vân Thông.\nBản sao chép toàn bộ mây và gió khắp vùng đất Bắc, được trình bày dưới dạng thơ và hình ảnh.\nVới khoảng mười nghìn bài tụng, mỗi bài là một đám mây, một luồng gió, tên gọi không trùng lặp.\nHình dạng của mây là do gió tạo nên, thơ ca đã trao cho gió những tính cách đặc biệt.\nVốn chỉ là những cơn gió vô hình, vậy mà qua cái nhìn của Barbatos lại trở nên thân thiết và gần gũi đến vậy.\n\nThời thượng cổ có truyền thuyết kể lại rằng, Phong Thần gọi đến tứ phong,\nXua tan đi băng, đẩy lùi ác thú, tạo ra mây và sương, từ đó Mondstadt được dựng lên.\nSau này Phong Thần đã cho người phàm sao chép cuốn sách này và đặt tên là \"Thiên Phong Vạn Vân\".\nThế nhưng điều đáng tiếc đó là, thời gian đã khiến bản đồ và thơ ca bị mất đi nhiều phần.\nĐa phần những quyển sách ghi chép lại ngàn vạn gió mây đã bị phân tán vào dân gian, trở thanh dân ca và các câu chuyện truyền thuyết.\n\nCũng từ đó, cội nguồn thiên phong thất truyền, thế nhưng Phong Thần vẫn ghi nhớ điều đó.\nCho đến khi ma long Durin dang đôi cánh khổng lồ ập đến, Barbatos mới đứng dậy chiến đấu.\nTrong trận ác chiến, nhật nguyệt rung động, Phong Thần cất tiếng hát gọi thiên phong, Phong Long theo hướng gió mà đến.\nNgười nắm giữ cuốn sách, có thể biết được tên của ngàn gió cũng như điều khiển sức mạnh vĩ đại nằm trong chúng.\n\nCho đến nay, bầu trời của Mondstadt đã quay về màu xanh yên bình.\nPhong Thần và Phong Long tìm thấy được nơi quy ẩn mới.\nCòn cuốn sách cũng được đưa cho người đáng tin cất giữ.\n"
+    }
+}

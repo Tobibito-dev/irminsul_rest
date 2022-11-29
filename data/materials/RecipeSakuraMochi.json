@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Sakura Mochi",
+        "de": "Rezept: Sakuramochi",
+        "chs": "食谱：绯樱饼",
+        "cht": "食譜：緋櫻餅",
+        "es": "Receta: Mochis de cerezo",
+        "fr": "Recette : Mochis de fleur de cerisier",
+        "id": "Resep: Sakura Mochi",
+        "jp": "レシピ：緋櫻餅",
+        "kr": "레시피: 벚꽃 모찌",
+        "pt": "Receita: Sakura Mochi",
+        "ru": "Рецепт: Моти с сакурой",
+        "th": "สูตรอาหาร: Sakura Mochi",
+        "vi": "Công Thức: Bánh Anh Đào"
+    },
+    "id": 109463,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Sakura Mochi.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Sakuramochi“.",
+        "chs": "步骤详实的食谱，记载着「绯樱饼」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「緋櫻餅」的製作方法。",
+        "es": "Receta paso a paso para hacer mochis de cerezo.",
+        "fr": "Étapes de préparation des mochis de fleur de cerisier.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Sakura Mochi.",
+        "jp": "「緋櫻餅」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「벚꽃 모찌」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Sakura Mochi.",
+        "ru": "Подробный рецепт приготовления блюда «Моти с сакурой».",
+        "th": "สูตรอธิบายวิธีทำ \"Sakura Mochi\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Bánh Anh Đào\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

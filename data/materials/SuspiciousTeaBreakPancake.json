@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Tea Break Pancake",
+        "de": "Misslungene Landeierkuchen",
+        "chs": "奇怪的庄园烤松饼",
+        "cht": "奇怪的莊園烤鬆餅",
+        "es": "Panqueques extraños",
+        "fr": "Pancakes (suspects)",
+        "id": "Suspicious Tea Break Pancake",
+        "jp": "微妙な午後のパンケーキ",
+        "kr": "이상한 장원 팬케익",
+        "pt": "Panqueca Estranha de Chá da Tarde",
+        "ru": "Странные блинчики к чаю",
+        "th": "Tea Break Pancake รสประหลาด",
+        "vi": "Bánh Xốp Kỳ Lạ"
+    },
+    "id": 108022,
+    "materialDesc": {
+        "en": "A stack of round pancakes. A burnt scent masks what you can only assume should be a sweet taste. The berries are the only thing saving this dish.",
+        "de": "Dicke, runde Eierkuchen. Nur die Beeren lassen erahnen, dass es sich bei diesen schwarzen Scheiben um eine Süßspeise handelt.",
+        "chs": "圆形的烤饼。一丝焦味掩盖了松饼应有的甜味，只有树莓坚守岗位。",
+        "cht": "圓形的烤餅。一絲焦味掩蓋了鬆餅應有的甜味，只有樹莓堅守崗位。",
+        "es": "Un montón de panqueques. El olor a quemado se fusiona con el intenso olor a dulce que desprenden. Las bayas son lo único que salvan este plato.",
+        "fr": "Une pile de pancakes qui sent le brûlé. Ce plat reste mangeable grâce aux baies qui l'agrémentent.",
+        "id": "Tumpukan panekuk berbentuk bulat. Bau gosongnya menutupi harum manisnya. Hanya beri di dalamnya yang menyelamatkan panekuk ini.",
+        "jp": "丸いパンケーキ。パンケーキの香りが焦げ臭さに負けている。ラズベリーだけが唯一の良心。",
+        "kr": "동그란 팬케익. 탄내에 단맛이 가려졌다. 라즈베리만 제대로 올려져 있다",
+        "pt": "Uma pilha de panquecas. Um cheirinho de queimado esconde o seu verdadeiro sabor doce. Contudo, as bagas são as únicas coisas que salvam esse prato.",
+        "ru": "Стопка круглых блинчиков. Запах горелого хорошо маскирует вроде бы сладковатый вкус блинчиков. Это блюдо спасают только свежие ягоды.",
+        "th": "แพนเค้กที่จัดวางซ้อนกันอยู่ กลิ่นไหม้คือสิ่งเดียวที่คุณรู้สึกจากรสที่ควรจะหวาน สิ่งที่ช่วยให้ยังทานได้ไหวมีเพียงพวกเบอร์รีเท่านั้น",
+        "vi": "Bánh nướng hình tròn. Mùi cháy khét đã lấn áp vị ngọt vốn có của bánh, chỉ có quả mâm xôi vẫn giữ được hương vị."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Messy Cocktail",
+        "de": "Falsch zusammengestelltes Getränk",
+        "chs": "风味不对的酒",
+        "cht": "風味不對的酒",
+        "es": "Cóctel caótico",
+        "fr": "Cocktail désordonné",
+        "id": "Koktail yang Berantakan",
+        "jp": "変な味のカクテル",
+        "kr": "맛없는 술",
+        "pt": "Coquetel Bagunçado",
+        "ru": "Такой себе коктейль",
+        "th": "Messy Cocktail",
+        "vi": "Rượu mùi vị không đúng"
+    },
+    "id": 100325,
+    "materialDesc": {
+        "en": "A drink with a messy taste, definitely not what Margaret promised.",
+        "de": "Alle möglichen Geschmäcker sind zwar enthalten, haben aber nichts mit dem „Margaret“ zu tun, von dem Margaret gesprochen hat ...",
+        "chs": "味道十分杂乱的酒品，似乎并不是玛格丽特所描述的「玛格丽特」…",
+        "cht": "味道十分雜亂的酒品，似乎並不是瑪格麗特所描述的「瑪格麗特」…",
+        "es": "Una bebida con un sabor desordenado, definitivamente no es lo que Margaret prometió.",
+        "fr": "Un cocktail aux saveurs désordonnées, complètement différent de la description de Margaret...",
+        "id": "Minuman dengan rasa yang kacau, pastinya bukan ini yang dijanjikan Margaret.",
+        "jp": "変な味のカクテル。マーガレットが教えた「マーガレット」ではないようだ…",
+        "kr": "맛대가리 없는 술. 마가렛이 알려준 「마르가리타」는 이런 게 아니었는데…",
+        "pt": "Uma bebida com um sabor estranho, definitivamente não era como a Margaret tinha prometido.",
+        "ru": "Коктейль с очень неприятным вкусом. Точно не то, о чём говорила мисс Маргарита.",
+        "th": "เป็นเหล้าที่มีรสชาติมั่วมาก ดูเหมือนจะไม่ใช่เหล้าที่ \"Margaret\" เคยบอกไว้",
+        "vi": "Rượu có mùi vị cực kỳ lung tung, hình như không phải \"Margaret\" mà Margaret đã miêu tả..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

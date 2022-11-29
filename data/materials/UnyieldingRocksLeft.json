@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Unyielding Rocks: Left",
+        "de": "Harter Felsen – Links",
+        "chs": "磐固山石·左",
+        "cht": "磐固山石·左",
+        "es": "Roca sólida (izquierda)",
+        "fr": "Rocaille inflexible : Gauche",
+        "id": "Batu Keras: Kiri",
+        "jp": "磐固山石·左",
+        "kr": "굳건한 산석·좌",
+        "pt": "Rocha Sólida: Esquerda",
+        "ru": "Непреклонный камень (левый)",
+        "th": "หินแข็งแกร่ง - ซ้าย",
+        "vi": "Đá Kiên Cố - Trái"
+    },
+    "id": 101858,
+    "materialDesc": {
+        "en": "Very hard bonsai rocks that have an air of firmness to them. These can be placed on the left side of the bonsai.",
+        "de": "Ein außerordentlich harter Felsen für die Miniaturlandschaft, der einen unglaublich felsigen Duft beherbergt. Er kann die Miniaturlandschaft auf der linken Seite flankieren.",
+        "chs": "分外坚硬的盆景山石，极为稳固，蕴含着厚重的岩石气息，可以摆放为盆景左侧的假山。",
+        "cht": "分外堅硬的盆景山石，極為穩固，蘊含著厚重的岩石氣息，可以擺放為盆景左側的假山。",
+        "es": "Una roca para bonsái de aspecto sólido y extremadamente firme que exuda una fuerte sensación pétrea. Se puede colocar en el lado izquierdo del macetero.",
+        "fr": "Des cailloux pour bonsaï d'une dureté et d'une stabilité considérables qui dégage un parfum historique. Ils peuvent être placés sur le côté gauche de votre bonsaï.",
+        "id": "Bebatuan bonsai yang sangat keras mengandung aura bebatuan yang sangat kokoh. Bebatuan ini dapat ditempatkan di sisi kiri bonsai.",
+        "jp": "極めて硬質な盆景山石。重厚な岩の雰囲気を漂わせている。盆景の左側に配置することができる。",
+        "kr": "유난히 단단한 분재 산석. 견고하며 무거운 암석의 기운이 깃들어 있다. 분재 왼쪽에 배치할 수 있다",
+        "pt": "Rocha de bonsai extraordinariamente dura que exala uma sensação incrivelmente rochosa. Pode ser colocada no lado esquerdo do bonsai.",
+        "ru": "Необычайно твёрдый камень для бонсая, который создаёт ощущение нерушимости. Его можно разместить в левой части рокария.",
+        "th": "หินบอนไซที่มีความแข็งเป็นพิเศษ ดูมั่นคงแน่นหนาและปกคลุมไปด้วยกลิ่นอายของความแข็งแกร่ง สามารถวางเป็นหินฝั่งด้านซ้ายของกระถางบอนไซได้",
+        "vi": "Những tảng đá bonsai rất cứng và kiên cố, nặng mùi đá, có thể đặt làm hòn non bộ bên trái chậu bonsai."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

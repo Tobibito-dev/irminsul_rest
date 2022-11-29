@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious \"Pile 'Em Up\"",
+        "de": "Misslungenes Hochgestapeltes",
+        "chs": "奇怪的「堆高高」",
+        "cht": "奇怪的「堆高高」",
+        "es": "Torre de Ludi extraña",
+        "fr": "Empil'tout (suspect)",
+        "id": "Suspicious \"Pile 'Em Up\"",
+        "jp": "微妙な「お肉ツミツミ」",
+        "kr": "이상한 「높이 쌓기」",
+        "pt": "\"Empilhar\" Estranho",
+        "ru": "Странная «Расти гора»",
+        "th": "\"Pile 'Em Up\" รสประหลาด",
+        "vi": "Pile 'Em Up Kỳ Lạ"
+    },
+    "id": 108055,
+    "materialDesc": {
+        "en": "A rich, meaty dish. The meat must have been stacked wrong... Yeah, that's it. Now, can this actually be served...?",
+        "de": "Ein sehr reichhaltiges Fleischgericht. Die Reihenfolge beim Stapeln ist wohl etwas durcheinandergeraten. Es wird eine Herausforderung, dieses Monstrum jemandem vorzusetzen.",
+        "chs": "用料丰厚的肉料理。大概是堆叠的顺序出了差错，能否将这盘摇摇欲坠的料理端上餐桌，已经成为了一个问题。",
+        "cht": "用料豐厚的肉料理。大概是堆疊的順序出了差錯，能否將這盤搖搖欲墜的料理端上餐桌，已經成為了一個問題。",
+        "es": "Un plato con mucha carne. La carne debe haber sido cocinada por un Hilichurl... ¡Qué mal aspecto tiene! ¿Cómo vas a servir tal aberración?",
+        "fr": "Un plat très généreux, surtout en viande. Les ingrédients ont été empilés n'importe comment. C'est un miracle qu'on ait pu servir ce plat sans que tout s'écroule.",
+        "id": "Hidangan yang kaya dan penuh dengan tumpukan daging. Sepertinya ada yang salah dengan urutan tumpukan daging ini... Apakah masih bisa disajikan?",
+        "jp": "たくさんの材料を使った肉料理。おそらく積み重ねる順番を間違えたのだろう。この皿の上でグラついている料理をテーブルまで運べるのか、大きな問題になっている。",
+        "kr": "고기 애호가에 의한 고기 애호가를 위한 요리. 잘못 쌓아올린 탓에 탑이 무너져 바닥에 모두 흘러내릴 것만 같은 요리를 어떻게 식탁에 올릴지는 이미 난제가 되었다",
+        "pt": "Um prato repleto de carnes. A carne deve ter sido feita de forma errada. Sim, é isso mesmo. E agora, isso pode ser servido mesmo?",
+        "ru": "Богатое мясное блюдо. Должно быть, вы сложили стейки в неправильном порядке. Ну кто же так делает... Вряд ли это можно подать на стол.",
+        "th": "อาหารที่เน้นเนื้อแบบสุด ๆ ซึ่งดูแล้วน่าจะมีอะไรบางอย่างผิดพลาดไป... ควรหรือไม่ที่จะนำเอาไปเสิร์ฟนั้น ก็ยังเป็นปัญหาที่ต้องคิดต่อไป",
+        "vi": "Món dùng nhiều thịt. Nhưng hình như thứ tự xếp chồng bị sai, có thể đem món ăn xếp cao ngất ngưởng này lên bàn ăn được hay không, đang là câu hỏi lớn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

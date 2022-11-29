@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Crispy Potato Shrimp Platter",
+        "de": "Misslungene Garnelen auf krossem Kartoffelbett",
+        "chs": "奇怪的鲜虾脆薯盏",
+        "cht": "奇怪的鮮蝦脆薯盞",
+        "es": "Cóctel de camarones sobre papas fritas extraño",
+        "fr": "Croquants aux crevettes (suspect)",
+        "id": "Suspicious Crispy Potato Shrimp Platter",
+        "jp": "微妙なエビのポテトカナッペ",
+        "kr": "이상한 바삭 쉬림프 카나페",
+        "pt": "Prato de Camarão e Batata Crocante Estranho",
+        "ru": "Странные хрустящие креветки с картофелем",
+        "th": "Crispy Potato Shrimp Platter รสประหลาด",
+        "vi": "Giỏ Khoai Giòn Tôm Tươi Kỳ Lạ"
+    },
+    "id": 108222,
+    "materialDesc": {
+        "en": "An attractive-looking pre-meal snack. Too much time was unknowingly spent being preoccupied with the details of this dish's form. The potato slices that were meant to form the base have already turned soft, detracting greatly from the mouthfeel.",
+        "de": "Eine attraktiv aussehende Vorspeise. Zu viel Zeit wurde unbewusst damit verbracht, sich mit den Details der Form dieses Gerichts zu beschäftigen. Die Kartoffelscheiben, die die Basis bilden sollten, sind bereits weich geworden, was das Mundgefühl stark beeinträchtigt.",
+        "chs": "色泽诱人的餐前小吃。沉浸在对造型的细节追求，不知不觉过了太长时间。垫底的薯片已经变得软乎乎的，口感大打折扣。",
+        "cht": "色澤誘人的餐前小點。沉浸在對造型的細節追求，不知不覺過了太長時間。墊底的薯片已經變得軟濡濡的，口感大打折扣。",
+        "es": "Un brillante y cautivador aperitivo. Quien lo hizo se preocupó demasiado por la presentación. Las papas de la base están demasiado blandas y eso le resta muchos puntos a la textura resultante.",
+        "fr": "Un snack à l'aspect appétissant, à déguster à l'apéritif. Trop de temps a été passé à réfléchir à l'aspect final, visiblement. Les chips qui devraient logiquement en constituer la fondation sont devenues molles avec le temps, ce qui n'influe pas dans le bon sens sur l'impression en bouche.",
+        "id": "Camilan sebelum makan yang terlihat menarik. Terlalu banyak waktu tanpa disadari yang dihabiskan untuk sibuk memikirkan dan membuat bentuk detail hidangan ini. Irisan kentang yang ditujukan untuk menjadi alasnya kini sudah menjadi lunak, sangat mengurangi cita rasanya ketika berada di dalam mulut.",
+        "jp": "食欲をそそる色鮮やかな前菜。見栄えを追求しすぎて時間をかけすぎてしまい、ベースのポテチが水分でふにゃふにゃになり、食感がガタ落ちした。",
+        "kr": "매력적인 빛깔의 애피타이저. 모양을 신경 쓰느라 시간이 너무 오래 걸려 밑에 있는 감자칩이 물렁물렁해져서 식감이 이상해졌다",
+        "pt": "Um aperitivo de boa aparência antes da refeição principal. Muito tempo foi gasto sem saber com os detalhes na forma do prato. As fatias de batata que deveriam formar a base já flexíveis, mudando o gosto do prato.",
+        "ru": "Красочная соблазнительная закуска. Слишком много времени было потрачено на обдумывание внешнего вида блюда. Чипсы, которые должны быть основой, со временем размякли, и это сильно сказалось на вкусовых качествах.",
+        "th": "ของกินเล่นก่อนมื้ออาหารสีสันน่าทาน ซึ่งใช้เวลาไปกับรายละเอียดต่าง ๆ จนไม่รู้ว่าใช้เวลาทำนานเกินไป แผ่นมันฝรั่งทอดกรอบด้านล่างดูเหมือนจะนิ่มยวบยาบ ทำให้ลดความอร่อยลงไปเยอะเลยทีเดียว",
+        "vi": "Món ăn vặt màu sắc hấp dẫn. Vì quá đắm chìm trong việc chú ý tới kiểu dáng nên đã tốn mất không ít thời gian. Phần khoai tây chiên dưới cùng đã trở nên mềm và giảm hương vị đi rất nhiều."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

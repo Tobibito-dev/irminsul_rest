@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Emergency Adjustment Plan\"",
+        "de": "„Notfall-Anpassungsplan“",
+        "chs": "「紧急调整计划图」",
+        "cht": "「緊急調整計畫圖」",
+        "es": "Mapa del plan de ajuste de emergencia",
+        "fr": "Plan d'ajustement d'urgence",
+        "id": "Peta Rencana Penyesuaian Darurat",
+        "jp": "「緊急調整計画書」",
+        "kr": "「긴급 조정 계획서」",
+        "pt": "Plano de Ajustes de Emergência",
+        "ru": "План экстренных корректировок",
+        "th": "แผนการปรับใช้ฉุกเฉิน",
+        "vi": "\"Bản Kế Hoạch Điều Chỉnh Khẩn Cấp\""
+    },
+    "id": 101833,
+    "materialDesc": {
+        "en": "This map was contained within the plans that a Fatuus named Oleg accidentally dropped. All the encampment positions and Fatui patrol routes have been marked out here.",
+        "de": "Die dem Plan, den der Fatuus namens Oleg zufällig zurückgelassen hat, beigefügte Karte. Auf dieser sind die Standorte aller Lager und die Patrouillenroute der Fatui eingezeichnet.",
+        "chs": "名为奥列格的愚人众不慎落下的计划书中所附地图，上面标注了所有营地的位置，以及愚人众进行巡逻的路线。",
+        "cht": "名為奧列格的愚人眾不慎落下的計畫書中所附地圖，上面標注了所有營地的位置，以及愚人眾進行巡邏的路線。",
+        "es": "Un mapa adjunto al plan de emergencia que se le cayó al Fatui Oleg. En él se indican las ubicaciones de todos los campamentos y la ruta de patrullaje de los Fatui.",
+        "fr": "Cette carte était contenue dans les plans qu'un Fatui nommé Oleg a accidentellement laissé tomber. Toutes les positions de campement et les itinéraires des patrouilles Fatui sont indiqués dessus.",
+        "id": "Dalam peta ini terkandung sebuah rencana yang secara tidak sengaja dijatuhkan oleh seorang Fatui bernama Oleg. Semua posisi perkemahan dan rute patroli Fatui telah ditandai di peta ini.",
+        "jp": "オレグという名のファデュイが偶然落とした設計図に含まれていたもの。すべての拠点の位置と、ファデュイの見回りルートが記されている。",
+        "kr": "올레그라는 우인단이 실수로 떨어트린 계획서 속의 지도에는 모든 야영지의 위치와 우인단의 순찰 노선이 표시되어 있다",
+        "pt": "Esse mapa estava entre os planos acidentalmente deixados para trás por um Fatuus chamado Oleg. Todas as posições do acampamento e rotas de patrulha dos Fatui estão marcadas nele.",
+        "ru": "Неосторожно оставленный Фатуи по имени Олег план местности, на котором отмечено расположение всех лагерей, а также маршруты патрулирования Фатуи.",
+        "th": "แผนที่นี้มีอยู่ในแผนการปรับใช้ฉุกเฉินซึ่ง Fatui ชื่อ Oleg ทำหล่นลงมาโดยไม่ได้ตั้งใจ ตำแหน่งค่ายทั้งหมดและเส้นทางลาดตระเวนของ Fatui ถูกทำเครื่องหมายไว้ด้านบนแผนที่นั้น",
+        "vi": "Tấm bản đồ đính kèm trong sổ tay kế hoạch mà Fatui có tên là Oleg đã bất cẩn đánh rơi, trên đó có đánh dấu vị trí tất cả doanh trại và lộ trình tuần tra của Fatui."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

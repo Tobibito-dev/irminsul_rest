@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Gloom Paints the Cold Blooms",
+        "de": "Kalte Blüten leuchten im Winterschnee",
+        "chs": "霁青杳漫染寒英",
+        "cht": "霽青杳漫染寒英",
+        "es": "Penumbra en las flores frías",
+        "fr": "Des fleurs froides, peintes par l'obscurité",
+        "id": "The Gloom Paints the Cold Blooms",
+        "jp": "悠々たる霽青の寒花",
+        "kr": "제청색(霁靑)에 물드는 겨울꽃",
+        "pt": "A Penumbra Pinta o Desabrochar Frio",
+        "ru": "Холодные цветы цвета лазури",
+        "th": "ความเศร้าหมองที่แผ่ซ่านความหนาวเหน็บ",
+        "vi": "Tễ Thanh Yểu Mạn Nhiễm Hàn Anh"
+    },
+    "id": 223003,
+    "materialDesc": {
+        "en": "A classic firework the color of the azure skies just after rain. Its flaming flower glows when released, displaying unique petal morphologies.",
+        "de": "Ein klassisches Feuerwerk in der Farbe des Himmels kurz nach dem Regen. Seine flammende Blüte leuchtet beim Aufblühen und zeigt einzigartige Blütenblattmorphologien.",
+        "chs": "「霁青」色的经典烟花，绽放时的火光流漫，呈现出别致的花瓣形貌。",
+        "cht": "「霽青」色的經典煙花，綻放時的火光流漫，呈現出別致的花瓣形貌。",
+        "es": "Un clásico fuego artificial cuyo color es como el del cielo después de una tormenta. Al estallar, su forma es similar a los pétalos de una flor.",
+        "fr": "Un feu d'artifice classique dont les couleurs reprennent celles d'un ciel bleu après la pluie. Sa fleur de flammes brille lorsqu'elle est lâchée et présente des pétales aux formes particulières.",
+        "id": "Kembang api klasik dengan warna biru langit seperti setelah hujan. Bunganya yang menyala bersinar saat ditembakkan dan menampilkan morfologi kelopak yang unik.",
+        "jp": "「霽青」という名の色を咲かす古典的な花火。咲く時に焔光が散り、独特な花びらの形になる。",
+        "kr": "「제청(霁靑)」색의 전통 폭죽. 눈부시게 터지는 불빛이 특이하게 꽃잎 모양으로 퍼진다",
+        "pt": "Um fogo de artifício clássico da cor do céu azul após a chuva. Sua flor flamejante brilha quando é soltado, exibindo pétalas de morfologia única.",
+        "ru": "Классический фейерверк цвета неба после дождя. После запуска яркие цвета перетекают один в другой, обретая форму лепестков.",
+        "th": "ดอกไม้ไฟคลาสสิกสี \"คราม\" ประกายแสงยามผลิบาน เผยให้เห็นรูปร่างของกลีบดอกไม้ที่เป็นเอกลักษณ์",
+        "vi": "Pháo hoa kinh điển có màu Tễ Thanh (trong xanh), luồng sáng khi pháo hoa bùng nổ, tạo ra hình dáng cánh hoa vô cùng độc đáo."
+    },
+    "materialType": "MATERIAL_FIREWORKS"
+}

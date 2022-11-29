@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chongyun",
+        "de": "Chongyun",
+        "chs": "重云",
+        "cht": "重雲",
+        "es": "Chongyun",
+        "fr": "Chongyun",
+        "id": "Chongyun",
+        "jp": "重雲",
+        "kr": "중운",
+        "pt": "Chongyun",
+        "ru": "Чун Юнь",
+        "th": "Chongyun",
+        "vi": "Chongyun"
+    },
+    "id": 1036,
+    "materialDesc": {
+        "en": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+        "de": "Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine „Yang-Lastigkeit“ zu unterdrücken.",
+        "chs": "驱邪世家的年轻方士，为压制自身的「纯阳之体」费尽心机。",
+        "cht": "驅邪世家的年輕術士，為壓制自身的「純陽之體」費盡心機。",
+        "es": "Un joven exorcista procedente de una familia de exorcistas. Hace todo lo que puede para reprimir su propia “positividad congénita”.",
+        "fr": "Le jeune héritier d'une célèbre famille d'exorcistes, qui s'efforce de contrôler l'énergie qui l'habite.",
+        "id": "Anak muda pewaris klan exorcist. Dia telah melakukan segalanya yang bisa dia lakukan untuk menahan \"Congenital Positivity\" yang ada dalam dirinya.",
+        "jp": "妖魔退治一族の少年方士。自身の「純陽の体」を抑えるために色々と苦労している。",
+        "kr": "퇴마 집안의 젊은 도사. 자신이 지닌 「양(阳)의 체질」을 억누르려고 갖은 애를 다쓴다",
+        "pt": "Um jovem exorcista de uma família de exorcistas. Ele tem feito de tudo para superar seu próprio Psíquico Yang Puro.",
+        "ru": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+        "th": "นักปราบปีศาจแห่งตระกูลที่โด่งดังในการปราบภูตผี ต้องเหนื่อยยากกับการระงับ \"ร่างกายแห่งหยางบริสุทธิ์\" ของตนเองอยู่บ่อยครั้ง",
+        "vi": "Phương sĩ trẻ tuổi thuộc gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

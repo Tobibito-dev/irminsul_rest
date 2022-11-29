@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Someone's Diary",
+        "de": "Tagebuch eines Unbekannten",
+        "chs": "不知何人的日记",
+        "cht": "不知何人的日記",
+        "es": "Diario de autoría desconocida",
+        "fr": "Journal de quelqu'un",
+        "id": "Buku Harian Seseorang",
+        "jp": "作者不明の日記",
+        "kr": "누군가의 일기장",
+        "pt": "Diário de Autoria Desconhecida",
+        "ru": "Чей-то дневник",
+        "th": "ไดอารี่ของใครบางคน",
+        "vi": "Nhật Ký Không Biết Của Ai"
+    },
+    "id": 120140,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

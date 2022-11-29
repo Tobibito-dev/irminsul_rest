@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Holy Water",
+        "de": "Geheiligtes Wasser",
+        "chs": "圣水",
+        "cht": "聖水",
+        "es": "Agua bendita",
+        "fr": "Eau sacrée",
+        "id": "Holy Water",
+        "jp": "聖水",
+        "kr": "성수",
+        "pt": "Água Sagrada",
+        "ru": "Святая вода",
+        "th": "Holy Water",
+        "vi": "Nước Thánh"
+    },
+    "id": 108147,
+    "materialDesc": {
+        "en": "A bottle of clear, colorless, and contaminant-free liquid. Indistinguishable from ordinary spring water. May or may not be worth putting all of one's hopes into.",
+        "de": "Ein Fläschchen mit sauberem, klarem Wasser. Es hebt sich in keiner Weise von normalem Quellwasser ab. Sollte man wirklich all seine Hoffnungen in dieses Fläschchen stecken?",
+        "chs": "质地透亮，无色无杂质的一小瓶液体。看起来与清泉水无异的这一瓶，真的值得你寄予厚望吗？",
+        "cht": "#質地透亮，無色無雜質的一小瓶液體。看起來與清泉水無異的這一瓶，真的值得{F#妳}{M#你}寄予厚望嗎？",
+        "es": "Un frasco que contiene un líquido transparente, incoloro y sin contaminar, imposible de distinguir del agua dulce común. ¿Merecerá la pena poner todas tus esperanzas en ella?",
+        "fr": "Une petite flasque contenant un liquide transparent sans impuretés qui pourrait être de l'eau de source ordinaire. N'ayez pas de faux espoirs, ne sait-on jamais...",
+        "id": "Botol kecil berisi cairan bertekstur bening, tidak berwarna dan tanpa kotoran. Apakah botol yang tampak seperti mata air jernih ini benar-benar layak diharapkan?",
+        "jp": "透き通った無色で無垢な液体。清泉水と同じ用に見える。これに期待していい？",
+        "kr": "투명하고 불순물이 전혀 없는 액체 한 병. 샘물과 별 차이 없는 이 병을 정말로 기대해도 되는 걸까?",
+        "pt": "Uma garrafa de líquido sem cor e sem nenhuma impureza. Não parece fazer diferença da água termal comum. Será que realmente vale a pena colocar toda a fé nela?",
+        "ru": "Бутылочка прозрачной, бесцветной жидкости, не содержащей никаких примесей. От родниковой воды её не отличить. Стоит ли возлагать на неё большие надежды?",
+        "th": "น้ำขวดเล็ก ๆ ที่ใสไม่มีสีและไม่มีสิ่งเจือปน ซึ่งดูแล้วไม่ต่างจากน้ำแร่ทั่วไป จะคุ้มค่าสมกับที่หวังไว้มั้ยนะ?",
+        "vi": "Một bình nước trong vắt, không màu không tạp chất. Trông có vẻ không khác với nước suối là bao, thật sự đáng để bạn gửi gắm ước nguyện sao?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pine Wood",
+        "de": "Kiefernholz",
+        "chs": "松木",
+        "cht": "松木",
+        "es": "Madera de pino",
+        "fr": "Bois de pin",
+        "id": "Pine Wood",
+        "jp": "松材",
+        "kr": "소나무",
+        "pt": "Pinheiro",
+        "ru": "Сосна",
+        "th": "ไม้สน",
+        "vi": "Gỗ Thông"
+    },
+    "id": 101303,
+    "materialDesc": {
+        "en": "Timber obtained from pines. Its color and grain are nothing to write home about, but its unpretentious nature is elegant in its own right. The wood is very sturdy as well. In able hands, its products should be able to resist moth and rot alike.\\nCan be used to create furnishings.",
+        "de": "Holz, das aus Kiefern gewonnen wird. Seine Farbe und Maserung sind nichts Besonderes, aber seine unprätentiöse Art ist auf seine Weise elegant. Außerdem ist das Holz sehr robust. In fähigen Händen sollten seine Produkte Motten und Fäulnis gleichermaßen widerstehen können.\\nKann zum Herstellen von Dekoration verwendet werden.",
+        "chs": "产自「松树」的木材，色泽与木纹并不亮眼，但以朴实无华、低调素雅著称。且木质坚实，只需老练的木匠处理，就能耐受虫蛀和腐蚀。\\n可用于制作摆设。",
+        "cht": "產自「松樹」的木材，色澤與木紋並不亮眼，但以樸實無華、低調素雅著稱。且木質堅實，只需老練的木匠處理，就能耐受蟲蛀和腐蝕。\\n可用於製作擺設。",
+        "es": "Madera obtenida de pinos. Sus vetas y su color no tienen nada de especial, pero su naturaleza sin pretensiones la dotan de su propia elegancia. Además, esta madera es muy sólida y, en manos de un buen carpintero, los productos hechos con ella resistirán la carcoma y las polillas.\\nPuede utilizarse para fabricar decoraciones.",
+        "fr": "Bois obtenu à partir de pin. Sa couleur et son grain n'ont rien d'extraordinaire, mais sa nature sans prétention est ce qui constitue son élégance. Ce bois est également très robuste et des mains expertes devraient en faire des meubles résistants aux mites et à la moisissure.\\nPeut être utilisé pour fabriquer des décorations.",
+        "id": "Kayu dari Pohon Pinus. Warna dan serat kayunya mungkin tidak mencolok, tapi justru kesederhanaan ini yang membuatnya menjadi elegan. Kayu ini juga sangat kokoh. Di tangan yang tepat, produk dari kayu ini seharusnya bisa menahan ngengat dan kebusukan.\\nDapat digunakan untuk membuat perabotan.",
+        "jp": "「松の木」から生産される木材。色や木目は決して明るいものではないが、素朴な上品さがあることで有名。ベテランの大工に処理してもらうだけで、虫の侵食と腐りに耐えられるようになる。\\n調度品の製作に使うことができる。",
+        "kr": "「소나무」에서 얻어낸 목재. 광택과 무늬는 눈에 띄지 않으나 수수하고 단아함이 장점. 재질도 튼튼해서 노련한 목수의 손을 거쳐 좀을 먹는 것과 부식을 견딜 수 있는 장식로 제작될 수 있다.\\n장식 제작용으로 사용할 수 있다",
+        "pt": "Madeira obtida de Pinheiros. Sua cor e grãos não são dignos de nota, mas sua natureza despretensiosa é bastante elegante. A madeira também é muito resistente. Em mãos hábeis, produtos feitos com ela resistem a traças e ao apodrecimento.\\nPode ser usada para fabricar Decorações.",
+        "ru": "Древесина, полученная из сосны. Её цвет и узор ничем не примечательны, но неприхотливая природа сама по себе элегантна. Отличается особой прочностью. В умелых руках изделия из сосны устойчивы к паразитам и гниению.\\nСлужит для изготовления декора.",
+        "th": "ไม้ที่ได้จาก \"ต้นสน\" สีและลายไม้ไม่สว่างจนแสบตา แต่ขึ้นชื่อเรื่องความสง่างาม เป็นไม้เนื้อแข็ง จึงมีเพียงแค่ช่างไม้ที่มีฝีมือเท่านั้นที่จะสามารถแปรรูปมันได้ นอกจากนั้นยังสามารถทนต่อแมลงและการกัดกร่อนได้อีกด้วย\\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+        "vi": "Gỗ được lấy từ \"Cây Thông\", màu sắc và vân gỗ không bắt mắt, nhưng chất liệu cứng cáp, khi qua xử lý sẽ chịu được mối mọt.\\nCó thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_WOOD"
+}

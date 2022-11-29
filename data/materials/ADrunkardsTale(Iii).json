@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Drunkard's Tale (III)",
+        "de": "Erzählungen eines Betrunkenen III",
+        "chs": "醉客轶事·三",
+        "cht": "醉客軼事·三",
+        "es": "Cuentos de un borracho (III)",
+        "fr": "Chroniques d'un ivrogne - Partie III",
+        "id": "Kisah Pemabuk (III)",
+        "jp": "酔っぱらいの逸話·3",
+        "kr": "취객 일화·Ⅲ",
+        "pt": "Um Conto de Bêbados (III)",
+        "ru": "История пьяницы III",
+        "th": "เรื่องราวของลูกค้าขี้เมา-3",
+        "vi": "Chuyện Kẻ Say III"
+    },
+    "id": 100579,
+    "materialDesc": {
+        "en": "One of the popular, many tales told by the drinkers of Mondstadt. This drunkard is the one who told the lone wolf of an ancient story.",
+        "de": "Eine der Geschichten, die man sich unter den Trinkern in Mondstadt erzählt. Dieser Band handelt von der langen Geschichte, die der Säufer dem Wolf erzählt.",
+        "chs": "传扬蒙德的醉汉故事之一，本卷是醉汉为孤狼讲述的久远故事。",
+        "cht": "傳揚蒙德的醉漢故事之一，本卷是醉漢為孤狼講述的久遠故事。",
+        "es": "Uno de los muchos cuentos populares que cuentan los borrachos de Mondstadt. Esta es una antigua historia que le contó un borracho a un lobo.",
+        "fr": "Une histoire racontée dans les tavernes de Mondstadt. Dans ce tome, l'ivrogne raconte une vieille légende au loup solitaire.",
+        "id": "Salah satu kisah populer yang sering diceritakan oleh peminum anggur di Mondstadt. Pemabuk inilah yang mencertikan sebuah kisah kuno ini kepada serigala penyendiri itu.",
+        "jp": "モンドで言い伝えられている酒飲みの物語の1つ。本巻では、酔っぱらいが孤狼に過去のことを教えた。",
+        "kr": "몬드에서 전해 내려오는 취객의 이야기 중 하나. 취객이 외톨이 늑대에게 아주 오래 전 이야기를 들려주는 내용",
+        "pt": "Um dos contos mais populares entre os bebedores de Mondstadt. Este volume é uma história de vida longa contada pelo bêbado para o lobo solitário.",
+        "ru": "Популярная застольная байка Мондштадта. В этом томе - нескончаемая история, которую пьяница рассказывал волку.",
+        "th": "หนึ่งในเรื่องเล่าของนักดื่มชาว Mondstadt เป็นเรื่องของคนเมาที่เล่าเรื่องราวอันแสนนมนานให้หมาป่าผู้โดดเดี่ยวฟัง",
+        "vi": "Một trong những câu chuyện mà khách uống rượu lan truyền ở Mondstadt, quyển này là câu chuyện mà người say rượu kể cho con sói nghe."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

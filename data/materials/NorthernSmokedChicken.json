@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Northern Smoked Chicken",
+        "de": "Räuchergeflügel nach Art des Nordens",
+        "chs": "北地烟熏鸡",
+        "cht": "北地煙燻雞",
+        "es": "Pollo ahumado del Norte",
+        "fr": "Poulet fumé nordique",
+        "id": "Northern Smoked Chicken",
+        "jp": "北地のスモークチキン",
+        "kr": "북극 훈제 닭",
+        "pt": "Frango Defumado do Norte",
+        "ru": "Копчёный цыплёночек",
+        "th": "Northern Smoked Chicken",
+        "vi": "Gà Xông Khói Phía Bắc"
+    },
+    "id": 108035,
+    "materialDesc": {
+        "en": "Smoked fowl paired with vegetables. A staple for Northerners, often made for honored guests.",
+        "de": "Etwas Gemüse mit geräuchertem Geflügel. Dies ist ein Gericht, das wohl in jedem Haushalt im Norden zubereitet wird, besonders wenn sich wichtige Gäste angekündigt haben.",
+        "chs": "蔬菜搭配熏制好的禽肉。是北境家家户户都会做的菜肴，会用来招待重要的客人。",
+        "cht": "蔬菜搭配燻製好的禽肉。是北境家家戶戶都會做的菜餚，會用來招待重要的客人。",
+        "es": "Pollo ahumado acompañado de verduras. Un alimento básico para la gente del Norte. A menudo también se cocina para recibir a invitados de honor.",
+        "fr": "De la viande de poulet fumée accompagnée de légumes. Un plat classique que l'on sert aux invités chez toutes les familles dans le nord de Teyvat.",
+        "id": "Unggas bakar yang disajikan bersama dengan sayuran. Hidangan yang disukai oleh orang-orang Utara. Biasa disajikan untuk tamu kehormatan.",
+        "jp": "野菜と燻製にした鳥肉の組合せ。北地の家庭料理の定番。大事な客をもてなす時に出す。",
+        "kr": "야채를 곁들여 먹는 훈제 새고기. 북쪽 추운 지방에선 누구나 만들 줄 아는 요리. 손님 접대용으로도 손색이 없다",
+        "pt": "Frango Defumado combinado com vegetais. Um prato típico das pessoas do Norte, geralmente feito para receber visitas.",
+        "ru": "Копчёная птица в паре с овощами. Одно из главных блюд Северян, которое подают только для самых важных гостей.",
+        "th": "เนื้อสัตว์ปีกรมควันกับผัก ด้วยวัตถุดิบจากทางเหนือ จึงเป็นเมนูที่มักจะทำสำหรับเสิร์ฟให้กับแขกที่มีเกียรติ",
+        "vi": "Thịt gà xông khói với rau củ. Là món ăn nhà nào ở phía bắc cũng biết làm, dùng để tiếp đãi khách quý."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

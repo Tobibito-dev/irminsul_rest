@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "New Chronicles of the Six Kitsune (I)",
+        "de": "Neue Chroniken der Sechs Füchse I",
+        "chs": "新六狐传·一",
+        "cht": "新六狐傳·一",
+        "es": "Nuevas crónicas de los seis kitsune (I)",
+        "fr": "Nouvelles chroniques des six Kitsunes - I",
+        "id": "Sejarah Baru Enam Kitsune (I)",
+        "jp": "新六狐伝·一",
+        "kr": "신육호전·I",
+        "pt": "Novas Crônicas dos Seis Kitsunes (I)",
+        "ru": "Новые хроники шести кицунэ (I)",
+        "th": "ตำนานบทใหม่แห่ง Kitsune ทั้งหก (I)",
+        "vi": "Tân Lục Hồ Truyện I"
+    },
+    "id": 101524,
+    "materialDesc": {
+        "en": "The story of the \"Black Fox\" Itaru was actually the third volume in the original \"Urakusai's Chronicles of the Six Kitsune.\" It appears at the front of this edition due to the writer's personal preference.",
+        "de": "Die Geschichte über den „Schwarzen Fuchs“ Itaru war ursprünglich das dritte Kapitel von „Urakusais Chroniken der Sechs Füchse“, ist jetzt aber wegen der Vorliebe des Autors die erste Geschichte des neuen Buchs geworden.",
+        "chs": "被称为「黑狐」阿达及其故事，本是《有乐斋六狐传》的第三章。由于笔者的特别偏爱，特别被提至第一个故事",
+        "cht": "被稱為「黑狐」阿達及其故事，本是《有樂齋六狐傳》的第三章。由於筆者的特別偏愛，特別被提至第一個故事。",
+        "es": "Itaru, “el zorro negro” y sus hazañas originalmente formaban parte del tercer volumen de «Crónicas de los seis kitsune de Urakusai», pero debido a las preferencias del autor, fueron publicadas en el primer volumen.",
+        "fr": "Itaru le Kitsune noir, et son histoire faisaient à l'origine partie du troisième volume des « Chroniques des six Kitsunes d'Urakusai », mais ont été déplacés en premier du fait des préférences de l'auteur.",
+        "id": "\"Rubah Hitam\" Itaru dan cerita-ceritanya awalnya merupakan volume ketiga dari \"Sejarah Enam Kitsune karya Urakusai\", tetapi akhirnya dibuat menjadi cerita pertama karena preferensi si penulis sendiri.",
+        "jp": "「黒狐」と呼ばれた達の物語。元は『有名な作品『有楽斎六狐伝』の第三章だった。作者が特に好きであったため、第一話となった。",
+        "kr": "「검은 여우」 이타루와 그 이야기로 불린다. 《유낙재육미호전》의 제3장이었으나, 필자가 유독 편애한 탓에 첫 번째 이야기로 앞당겨졌다",
+        "pt": "A Raposa Preta Itaru e suas histórias foram compiladas originalmente no Capítulo III das Crônicas de Urakusai dos Seis Kitsune. Mas devido à preferência do autor, foram publicadas no primeiro volume.",
+        "ru": "Изначально истории о «чёрной лисе» Итару составляли третий том «Хроник шести кицунэ Уракусая», но из-за особых предпочтений автора они были выдвинуты в начало.",
+        "th": "แต่เดิม \"จิ้งจอกดำ\" Itaru และเรื่องราวของมันนั้น อยู่ในบทที่สามของ \"ตำนานแห่ง Kitsune ทั้งหกของ Urakusai\" แต่เนื่องด้วยความชอบพิเศษของผู้แต่ง จึงถูกพูดถึงอย่างเป็นพิเศษเป็นเรื่องแรก",
+        "vi": "\"Hắc Hồ\" Itaru Và Những Truyền Thuyết vốn dĩ là chương thứ 3 của \"Lục Hồ Truyện Urakusai\". Nhưng do tác giả dành cho nó một sự ưu ái đặc biệt, nên đã được nhắc đến đầu tiên"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

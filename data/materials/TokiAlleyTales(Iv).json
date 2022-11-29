@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toki Alley Tales (IV)",
+        "de": "Geschichten aus der Tokigasse – Teil IV",
+        "chs": "鹮巷物语·四",
+        "cht": "䴉巷物語·四",
+        "es": "La novela de la Calle del Ibis (IV)",
+        "fr": "Contes de l'Allée Toki - IV",
+        "id": "Kisah Gang Toki (IV)",
+        "jp": "朱鷺町物語·四",
+        "kr": "따오기 골목 모노가타리·IV",
+        "pt": "Contos da Rua Toki (IV)",
+        "ru": "Рассказы улицы Токи (IV)",
+        "th": "เรื่องราวแห่งตรอก Toki (IV)",
+        "vi": "Câu Chuyện Hẻm Ibis 4"
+    },
+    "id": 101511,
+    "materialDesc": {
+        "en": "The tragedy of mortals is to lack self-knowledge, and that of the youkai is the lack of any such tragic troubles. —Tanuki Historical Commentary",
+        "de": "Es ist bedauerlich, dass normale Menschen sich selbst nicht gut kennen. Und was die Monster betrifft, so haben sie die Sorge über diese Bedauerlichkeit immer nicht. – Überlieferte Weisheit der Tanuki",
+        "chs": "凡人之可悲，正在于其不自知。至于妖怪嘛，总是缺乏此种悲哀的烦恼。——狸史氏评",
+        "cht": "凡人之可悲，正在於其不自知。至於妖怪嘛，總是缺乏此種悲哀的煩惱。——狸史氏評",
+        "es": "La mayor tragedia de los humanos es que no se conocen a sí mismos, y la de los youkai, que no tenemos problemas tan trágicos —comentario histórico de un tanuki.",
+        "fr": "Le plus déplorable chez les humains est leur manque de connaissance de soi. Quant aux démons, c'est qu'ils ne se préoccupent guère de ce genre de problème. — Commentaire historique d'un Tanuki",
+        "id": "Hal yang menyedihkan dari kefanaan manusia terletak pada ketidaktahuan mereka. Adapun monster, mereka selalu kekurangan masalah menyedihkan seperti ini. — Tafsiran Sejarah Tanuki",
+        "jp": "凡人の哀れなところは、身の程知らずであること。妖怪については、このような哀れな悩みに欠けている。——狸歴史家より",
+        "kr": "인간의 비통함은 자신을 모르는 것에 있고 요괴의 비애는 이런 고민이 결여되었다는 것에 있다. ——너구리 사씨 평",
+        "pt": "É lamentável que as pessoas comuns não se conheçam bem a si próprias. E quanto aos monstros, eles não têm essa preocupação de tristeza. - Comentário Histórico Tanuki",
+        "ru": "«Трагедия смертных заключается в отсутствии самопознания, а трагедия ёкаев - в отсутствии подобных трагических проблем». - Исторический комментарий тануки.",
+        "th": "ความโศกเศร้าของมนุษย์ก็เหมือนกับการไม่รู้จักตัวเอง ส่วนปีศาจนั้น พวกมันไม่เคยต้องกลุ้มใจเพราะความโศกเศร้าเช่นนี้เลย – คำอธิบายทางประวัติศาสตร์ของทานูกิ",
+        "vi": "Sở dĩ con người buồn bã, là do họ không hiểu chính mình. Còn yêu quái, lại luôn thiếu mất sự phiền não đáng buồn này. - Tanuki"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

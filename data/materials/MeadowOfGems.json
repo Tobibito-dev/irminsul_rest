@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Meadow of Gems",
+        "de": "Die Juwelenmine",
+        "chs": "珠玑宝矿",
+        "cht": "珠璣寶礦",
+        "es": "La perla de Teyvat",
+        "fr": "Perle précieuse",
+        "id": "Tambang Mutiara",
+        "jp": "珠玉の鉱山",
+        "kr": "주옥 광물",
+        "pt": "Pérola Preciosa",
+        "ru": "Россыпь жемчуга",
+        "th": "เหมืองไข่มุก",
+        "vi": "Quặng Châu Báu"
+    },
+    "id": 100715,
+    "materialDesc": {
+        "en": "This scroll, which seems to be a part of a larger series, belongs to the Jade Chamber's invaluable collection of written works. This volume is a dissertation on Liyue Harbor's economic policy.",
+        "de": "Ein seltenes Buch aus der Kollektion des Jadegemachs. Dieses Buch ist eins von vielen einer ganzen Reihe. Es hält die Diskussionen über Wirtschaftsstrategien in Liyue fest.",
+        "chs": "群玉阁中珍藏的孤本图书，本卷似乎是系列中的其中一册。其中记录了有关璃月港经济方针的论述内容。",
+        "cht": "群玉閣中珍藏的孤本圖書，本卷似乎是系列中的其中一冊。其中記錄了有關璃月港經濟方針的論述內容。",
+        "es": "La única copia existente de un libro conservado en la Cámara de Jade. Este parece ser el primer volumen de toda la serie. En él, se describe la política económica de Liyue.",
+        "fr": "Ce rouleau fait partie de la collection inestimable de la Chambre de Jade. Ce volume parle de la politique économique de Liyue.",
+        "id": "Salah satu edisi buku dari koleksi buku di Jade Chamber. Di dalamnya berisi pembahasan tentang kebijakan ekonomi Pelabuhan Liyue.",
+        "jp": "群玉閣に収蔵されている1冊しか存在していない書籍。これはシリーズの中の1冊のようだ。中には璃月港の経済方針について記録されている。",
+        "kr": "군옥각에 보관된 귀중한 서적. 시리즈로 발간된 책 같다. 본편에 리월항의 경제 방침에 관련된 자세한 내용이 적혀있다",
+        "pt": "Esse pergaminho parece ser de uma série maior. Ele pertence a coleção da Câmara de Jade. Descreve a política econômica do Porto de Liyue.",
+        "ru": "Эта рукопись является частью большой серии и входит в бесценную коллекцию письменных работ Нефритового дворца. Она представляет собой труд на тему экономической политики гавани Ли Юэ.",
+        "th": "หนังสือล้ำค่าที่มีอยู่เพียงเล่มเดียวใน Jade Chamber ดูเหมือนเล่มนี้จะเป็นหนึ่งในหนังสือชุดนี้ ซึ่งได้บันทึกเนื้อหาเกี่ยวกับนโยบายเศรษฐกิจของท่าเรือ Liyue เอาไว้",
+        "vi": "Quyển sách quý giá chỉ còn lại một bản duy nhất trong Quần Ngọc Các, dường như là một quyển trong hệ liệt. Ghi lại việc phân tích các phương châm kinh tế của Liyue."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

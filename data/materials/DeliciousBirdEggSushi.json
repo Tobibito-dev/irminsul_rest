@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Bird Egg Sushi",
+        "de": "Leckeres Vogelei-Sushi",
+        "chs": "美味的鸟蛋寿司",
+        "cht": "美味的鳥蛋壽司",
+        "es": "Sushi de huevo delicioso",
+        "fr": "Sushi à l'œuf (délicieux)",
+        "id": "Delicious Bird Egg Sushi",
+        "jp": "美味しそうな鳥の玉子寿司",
+        "kr": "맛있는 새알 초밥",
+        "pt": "Sushi de Ovo de Pássaro Delicioso",
+        "ru": "Вкусные яичные суши",
+        "th": "Bird Egg Sushi แสนอร่อย",
+        "vi": "Sushi Trứng Chim Ngon"
+    },
+    "id": 108326,
+    "materialDesc": {
+        "en": "An everyday Inazuman dish. The tender egg bounces on the tongue together with the rich grains, bringing to mind a joy that recalls one's childhood. Eager to relive that sweetness, you pick up another before your brain can even catch up.",
+        "de": "Ein alltägliches Gericht aus Inazuma. Das zarte Ei hüpft auf der Zunge zusammen mit den reichhaltigen Körnern und ruft eine Freude hervor, die an die eigene Kindheit erinnert. Begierig darauf, diese Süße wieder zu erleben, nimmt man noch ein weiteres, bevor das Gehirn es überhaupt merken kann.",
+        "chs": "稻妻的家常料理之一。嫩滑的鸟蛋牵着饱满的米粒一起在舌尖蹦跳，快活得仿佛重回童年…为了让嘴中的甜蜜延续下去，不知不觉已经拿起了下一个。",
+        "cht": "稻妻的家常料理之一。嫩滑的鳥蛋牽著飽滿的米粒一起在舌尖蹦跳，快活得仿佛重回童年…為了讓嘴中的甜蜜延續下去，不知不覺已經拿起了下一個。",
+        "es": "Una comida cotidiana de Inazuma. El tierno rollito de huevo y el delicioso arroz danzan en tu paladar para traerte unos alegres recuerdos de la infancia. No quieres dejar de saborear esa delicia, por lo que inconscientemente te sirves otra ración.",
+        "fr": "Un plat typique d'Inazuma fait maison. L'œuf tendre rebondit joyeusement sur la langue avec les grains de riz, comme si vous étiez retourné en enfance. Vous reprenez un sushi avant de vous en rendre compte pour revivre ce moment d'allégresse.",
+        "id": "Makanan sehari-hari rakyat Inazuma. Telur yang lembut dan seakan melompat di lidah dengan butiran nasi yang kaya rasa, mengingatkan akan kegembiraan dan mengingat masa kecil seseorang. Karena ingin menghidupkan kembali rasa manis yang ada pada saat itu, kamu dengan lahap segera menyantapnya lagi bahkan sebelum kamu sempat berpikir.",
+        "jp": "稲妻の家庭料理の一つ。滑らかな鳥卵がふっくらした米粒と一緒に舌の上で踊り、子供の時代に戻ったような楽しさをもたらす…この幸せを口に留めるため、知らず知らずのうちに次の寿司を手に取ってしまう。",
+        "kr": "이나즈마의 가정식 중 하나. 부드러운 새알과 알이 꽉 찬 쌀이 혀끝에서 함께 뛰어놀며 마치 유년시절로 돌아간 듯한 즐거운 느낌을 선사한다… 입안의 달콤함을 이어가기 위해 어느새 하나 더 집고 있다",
+        "pt": "#Um prato cotidiano de Inazuma. O ovo tenro salta na língua junto com os grãos ricos, trazendo à mente uma alegria que relembra a própria infância. Ansios{F#a}{M#o} para reviver essa doçura, você pega outro pedaço antes mesmo que seu cérebro possa se dar conta.",
+        "ru": "Обычное инадзумское блюдо. Нежное яйцо подпрыгивает на языке вместе с сочными зёрнами, вызывая в памяти детскую радость. Желая вновь ощутить эту сладость, вы берёте ещё один кусочек, прежде чем успеваете это заметить.",
+        "th": "หนึ่งในเมนูประจำบ้านของชาว Inazuma ไข่ที่นุ่มเด้งอยู่บนลิ้นบวกกับเม็ดข้าวที่อวบอ้วน ทำให้หวนนึกถึงความสุขในวัยเด็ก... เพราะอยากที่จะรำลึกถึงความหวานนั้นอีกครั้ง คุณก็หยิบมันใส่ปากก่อนที่สมองจะทันสั่งการเสียอีก",
+        "vi": "Một trong những món ăn thường ngày của Inazuma. Trứng chim mềm mịn nhảy nhót trên đầu lưỡi cùng với những hạt cơm căng mọng, hạnh phúc như được trở lại tuổi thơ...Để kéo dài vị ngọt trên miệng, vô tình lại gắp thêm miếng nữa."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

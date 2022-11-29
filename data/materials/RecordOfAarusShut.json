@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Record of Aaru's Shut",
+        "de": "Aufzeichnung von Aarus Spiegelbild",
+        "chs": "阿如的倒影的记录",
+        "cht": "阿如的倒影的紀錄",
+        "es": "Registro de la Sombra de Aaru",
+        "fr": "Registre du Clos d'Aaru",
+        "id": "Catatan Aaru's Shut",
+        "jp": "アアルの影の記録",
+        "kr": "아루의 그림자 기록",
+        "pt": "Registro da Reflexão de Aaru",
+        "ru": "Записи Отражения Аару",
+        "th": "บันทึกของ Aaru's Shut",
+        "vi": "Ghi Chép Về Hình Bóng Của Aaru"
+    },
+    "id": 101992,
+    "materialDesc": {
+        "en": "A stone slate that you found at the highest point of the Mausoleum of King Deshret. This seems to be a record left by a lost civilization.",
+        "de": "Eine aus dem höchsten Teil des Mausoleums von König Deshret erhaltene Steinplatte. Sie scheint die Niederschrift einer verlorenen Zivilisation zu sein ...",
+        "chs": "自赤王陵的最高处获得的石板。似乎是已经失落的文明留下的记录…",
+        "cht": "自赤王陵的最高處獲得的石板。似乎是已經失落的文明留下的紀錄…",
+        "es": "Una placa de piedra que encontraste en la parte más alta del Mausoleo del Rey Deshret. Parece ser el registro de una civilización perdida.",
+        "fr": "Une plaque de pierre que vous avez trouvée au point culminant du Mausolée du roi Deshret. Cela semble être un enregistrement laissé par une civilisation perdue...",
+        "id": "Batu tulis yang diperoleh di bagian tertinggi di Mausoleum Raja Deshret. Tampaknya berisi catatan tentang peradaban yang telah hilang.",
+        "jp": "キングデシェレトの霊廟の頂上で見つけた石板。失われた文明が残した記録らしい…",
+        "kr": "적왕의 무덤 가장 높은 곳에서 찾은 석판. 사라진 문명이 남긴 기록인 것 같다…",
+        "pt": "Uma tabuleta de pedra obtida do ponto mais alto do Mausoléu do Rei Deshret. Parece ser o registro de uma civilização perdida...",
+        "ru": "Каменная плита, которую вы нашли на самой вершине гробницы царя Дешрета. Похоже на записи, оставленные древней цивилизацией.",
+        "th": "แผ่นหินที่ได้รับจากยอดสูงสุดของสุสานราชา Deshret ดูเหมือนจะเป็นบันทึกของอารยธรรมที่ล่มสลายไปแล้ว...",
+        "vi": "Phiến đá được lấy ở nơi cao nhất trong Lăng Mộ Vua Deshret. Có vẻ như là một ghi chép để lại bởi một nền văn minh đã mất..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

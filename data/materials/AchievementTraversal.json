@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Traversal",
+        "de": "Errungenschaft – Reiseabenteuer",
+        "chs": "成就·遍历",
+        "cht": "成就·遍歷",
+        "es": "Logro - Travesía",
+        "fr": "Succès - Traversée",
+        "id": "Achievement: Melintasi",
+        "jp": "アチーブメント·遍歴",
+        "kr": "업적·누빔",
+        "pt": "Conquista: Travessia",
+        "ru": "Преодоление",
+        "th": "ความสำเร็จ - การข้ามผ่าน",
+        "vi": "Thành Tựu - Trải qua"
+    },
+    "id": 210087,
+    "materialDesc": {
+        "en": "Namecard style.\\nA traveler shall experience ten thousand tales, and each shall form a part of the traveler's soul.",
+        "de": "Ein Motiv für Namenskärtchen.\\nEin Reisender wird zehntausend Sagen selbst erleben und jede wird ein Teil seiner eigenen Seele sein.",
+        "chs": "名片纹饰。\\n旅人将遍历的一万个故事，都将成为旅人灵魂的一部分。",
+        "cht": "名片紋飾。\\n旅人將遍歷的一萬個故事，都將成為旅人靈魂的一部分。",
+        "es": "Diseño de tarjeta de presentación.\\nLas historias vividas en una travesía pasarán a formar parte del alma de un aventurero.",
+        "fr": "Thème.\\nUn voyageur connaîtra des milliers d'histoires, et chacune d'elle fera partie de son âme.",
+        "id": "Style Kartu Nama.\\nSeorang petualang akan mengalami sepuluh ribu kisah, dan masing-masing akan menjadi bagian dari jiwa petualang itu sendiri.",
+        "jp": "名刺の飾り紋。\\n旅人が遍歴する無数の物語の全ては、旅人の魂の一部となる。",
+        "kr": "명함 스킨\\n여행자가 겪었던 만 개의 이야기는, 그 영혼의 일부가 되어 영원히 남게 될 것이다",
+        "pt": "Estilo de Cartão de Visita.\\nUm viajante deve ouvir dez mil contos, e cada um deve fazer parte de sua alma.",
+        "ru": "#Именная карта.\\nДесять тысяч историй, что предстоит пережить путешественни{F#це}{M#ку}, станут частью {F#её}{M#его} души.",
+        "th": "ลายนามบัตร \\nเรื่องราวนับ หมื่นเรื่องที่นักเดินทางจะท่องไปทั้งหมด จะกลายเป็นส่วนหนึ่งของจิตวิญญาณของนักเดินทางเอง",
+        "vi": "Hoa văn danh thiếp. \\nMười nghìn câu chuyện mà người lữ khách đã trải qua, sẽ đều trở thành một phần trong linh hồn của họ."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

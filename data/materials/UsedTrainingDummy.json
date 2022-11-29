@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Used Training Dummy",
+        "de": "Benutzter Holzpfahl",
+        "chs": "使用过的木桩",
+        "cht": "使用過的木樁",
+        "es": "Maniquí usado",
+        "fr": "Mannequin usé",
+        "id": "Boneka Latihan Bekas",
+        "jp": "古い杭",
+        "kr": "사용했던 말뚝",
+        "pt": "Manequim de Treino Usado",
+        "ru": "Потрёпанное чучело",
+        "th": "หุ่นไม้สำหรับฝึกซ้อมที่ใช้แล้ว",
+        "vi": "Cọc Gỗ Đã Dùng"
+    },
+    "id": 100627,
+    "materialDesc": {
+        "en": "A wooden stake of very common design. It doesn't seem special in any way, other than its slightly smaller bulk. It bears some signs of use, and might have been moved here from elsewhere.",
+        "de": "Ein Holzpfahl von ganz normalem Aufbau. Außer der kleineren Ausführung ist nichts Besonderes an ihm. Er trägt Spuren früherer Nutzung und scheint von woanders hergebracht worden zu sein.",
+        "chs": "样式很常见的木桩，除了体积小一点之外，没有明显的特别之处。木桩上有一些使用的痕迹，很可能是从其他地方搬运过来的。",
+        "cht": "樣式很常見的木樁，除了體積小一點之外，沒有明顯的特別之處。木樁上有一些使用的痕跡，很可能是從其他地方搬運過來的。",
+        "es": "Un maniquí normal y corriente. Es un poco más pequeño de lo habitual, pero aparte de eso no tiene nada de especial. Se ven algunos arañazos causados por el uso. Probablemente lo han traído desde otro lugar.",
+        "fr": "Un mannequin en bois de conception très courante. Il est un peu plus petit que les mannequins classiques, mais à part ça, il n'a rien de spécial. Il porte quelques signes d'utilisation, et pourrait avoir été déplacé ici d'ailleurs.",
+        "id": "Pancang kayu dengan desain yang sangat umum. Tidak ada yang istimewa sama sekali, selain ukurannya yang sedikit lebih kecil. Ada beberapa tanda penggunaan di tiang pancang, dan mungkin telah dipindahkan ke sini dari tempat lain.",
+        "jp": "普通の杭。少し小さい以外、特に変わった所はない。杭には使用された痕跡があるため、もしかしたら他の場所から運ばれてきたのかもしれない。",
+        "kr": "흔한 스타일의 말뚝, 크기가 좀 작은 거 외에 다른 특별한 점은 없다. 말뚝에 사용한 흔적이 있는 걸 보니, 다른 지역에서 운반해 온 듯하다",
+        "pt": "Uma estaca muito comum. Apesar de ser um pouco pequena, não tem nada de especial. Em cima dela há alguns vestígios de que já foi muito utilizada, talvez por ter sido trazida de outro lugar.",
+        "ru": "Деревянное чучело самой обыкновенной формы. Ничем не отличается от других таких же чучел, разве что слегка поменьше. Видно, что им пользовались. Скорее всего, его принесло сюда из какого-то другого места.",
+        "th": "หุ่นไม้แบบที่เห็นได้ทั่วไป นอกจากตัวหุ่นที่ค่อนข้างเล็กแล้ว ก็ไม่ได้มีจุดเด่นอะไรเป็นพิเศษ หุ่นไม้มีร่องรอยของการใช้งาน ซึ่งเป็นไปได้สูงว่าอาจจะถูกขนย้ายมาจากที่อื่น",
+        "vi": "Cọc gỗ tầm thường với kích thước nhỏ, ngoài ra không có gì đặc biệt. Phía trên có một số dấu vết đã qua sử dụng, hình như được vận chuyển từ nơi khác."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

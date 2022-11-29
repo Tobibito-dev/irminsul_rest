@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Coalesced Defenses",
+        "de": "Gemeinschaftlicher Schutz",
+        "chs": "凝血护佑",
+        "cht": "凝血護佑",
+        "es": "Defensa coagulada",
+        "fr": "Cicatrisation",
+        "id": "Coalesced Defenses",
+        "jp": "癒し守護",
+        "kr": "응혈의 가호",
+        "pt": "Coágulo da Proteção",
+        "ru": "Щит крови",
+        "th": "Coalesced Defenses",
+        "vi": "Vết Máu Bảo Hộ"
+    },
+    "id": 200233,
+    "materialDesc": {
+        "en": "While protected by a shield, characters gain a 40% incoming healing bonus.",
+        "de": "Erhöht den passiven Heilungsbonus von Figuren im Schutz von Schilden um 40 %.",
+        "chs": "角色处于护盾庇护下时，获得40%受治疗加成。",
+        "cht": "角色處於護盾庇護下時，獲得40%受治療加成。",
+        "es": "Cuando el personaje está protegido por un escudo, obtiene un 40% de Bono de Curación recibida.",
+        "fr": "Les personnages sous la protection d'un bouclier bénéficient d'un bonus de soins reçus de 40 %.",
+        "id": "Selama dilindungi perisai, meningkatkan 40% pemulihan HP yang diterima Karakter.",
+        "jp": "シールド状態のキャラクターが受ける治療効果+40%。",
+        "kr": "캐릭터에게 보호막이 있을 시치유 보너스를 40% 획득한다",
+        "pt": "Enquanto protegidos por um escudo, os personagens ganham 40% de Bônus de Cura Recebida.",
+        "ru": "Когда активен щит, бонус получаемого лечения персонажа увеличен на 40%.",
+        "th": "เมื่อตัวละครอยู่ในสถานะปกป้อง จะได้รับโบนัสการรักษา 40%",
+        "vi": "Khi nhân vật được khiên bảo vệ, tăng 40% nhận trị liệu."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teachings of Ballad",
+        "de": "Lehren der „Poesie“",
+        "chs": "「诗文」的教导",
+        "cht": "「詩文」的教導",
+        "es": "Enseñanzas de la poesía",
+        "fr": "Enseignement de la Poésie",
+        "id": "Teachings of \"Ballad\"",
+        "jp": "「詩文」の教え",
+        "kr": "「시문」의 가르침",
+        "pt": "Ensinamentos de Poemas",
+        "ru": "Учения о «Поэзии»",
+        "th": "Teachings of Ballad",
+        "vi": "Bài Giảng Của \"Thơ Văn\""
+    },
+    "id": 104307,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nPoetry is the soul of the land of the wind.\\nPoetry is the manifestations of beautiful feelings. On a beautiful day, the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves.",
+        "de": "Material zum Verbessern von Talenten.\\nPoesie ist die Seele des Reiches des Windes.\\nDie Poesie ist die Darstellung der Schönheit. An schönen Tagen trägt der Wind über den Feldern Gedichte über Heimat und Liebe mit sich. Die Poesie bewegt die Menschen wie der Wind das Gras.",
+        "chs": "天赋培养素材。\\n风之国土的灵魂是诗文。\\n诗文是美好的心意。在美好的日子里，吹拂原野的风中飘扬着田园诗、情诗，如和风拨动草叶般拨动人们的心。",
+        "cht": "天賦培養素材。\\n風之國土的靈魂是詩文。\\n詩文是美好的心意。在美好的日子裡，吹拂原野的風中飄揚著田園詩、情詩，如和風撥動草葉般撥動人們的心。",
+        "es": "Material de mejora de talento.\\nLa poesía es el alma del Reino del Viento.\\nEs la manifestación de los sentimientos más bellos. En los días más hermosos, la brisa lleva consigo una poesía tan conmovedora como el viento que acaricia el césped y las hojas de los árboles.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'âme du Royaume du Vent réside dans la poésie.\\nElle existe pour exprimer la beauté. La brise transporte les mots doux lors des beaux jours. Ils touchent le cœur des gens comme elle caresse les feuilles d'un arbre.",
+        "id": "Material Penguatan Talenta.\\nPuisi adalah jiwa dari Kerajaan Angin.\\nPuisi muncul dari perasaan yang indah. Pada hari yang indah, angin sepoi-sepoi membawa serta puisi yang menyentuh hati orang-orang seperti angin membelai daun.",
+        "jp": "天賦育成素材。\\n風の国の魂は詩と文章である。\\n詩と文章は美しい気持ちである。美しい日々に野原の風が田園の詩や愛の詩を連れて、風が葉を撫でるように、人々の心を優しく撫でる。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 영혼은 노래다.\\n노래는 아름다운 마음이다. 행복한 날에는 전원시와 애정시가 초원을 노니는 바람을 타고 울려 퍼지며 마치 바람이 풀잎을 흔들 듯 마음을 뒤흔든다",
+        "pt": "Material para aprimorar o nível de Talento.\\nA poesia é a alma do Reino do Vento.\\nA poesia é a manifestação de sentimentos bonitos. Em um lindo dia, a brisa carrega consigo poesia que toca o coração das pessoas como o vento acariciando as folhas.",
+        "ru": "Материал повышения таланта.\\nПоэзия - это душа царства ветров.\\nПоэзия - это проявление прекрасных чувств. Приятным летним днём ветер несёт слова песен и стихов, которые касаются людских сердец, как ветер, ласкающий листья деревьев.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nบทกวีนั้นคือจิตวิญญาณของ ประเทศแห่งสายลม\\nบทกวีคือการแสดงออกของ ความรู้สึกที่สวยงาม ในวันที่สวยงามสายลมจะนำบทกวี ที่สัมผัสกับหัวใจของผู้คนราวกับ สายลมที่โบยบิน",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nLinh hồn đất nước của gió là thơ văn.\\nThơ văn là tấm lòng tốt đẹp nhất. Trong khoảng thời gian vui vẻ, gió nơi thảo nguyên mang đầy ý thơ thổi khắp cánh đồng, giống như gió lay động cỏ cây, lay động lòng người."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

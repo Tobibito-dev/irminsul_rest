@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Azure Main",
+        "de": "Erlebnispass – Meeresblau",
+        "chs": "纪行·海蓝",
+        "cht": "紀行·海藍",
+        "es": "PB - Azul marino",
+        "fr": "PB - Azur marin",
+        "id": "Catatan Perjalanan: Kilau Biru Laut",
+        "jp": "紀行·海藍",
+        "kr": "기행·바닷빛",
+        "pt": "Passe de Batalha — Azul Marinho",
+        "ru": "Лазурный берег",
+        "th": "บันทึก - ทะเลคราม",
+        "vi": "Nhật Ký Hành Trình - Biển Xanh"
+    },
+    "id": 210123,
+    "materialDesc": {
+        "en": "Namecard style.\\nYears have gone by, and you wake from an old dream. Inside the keepsake shell, lingers the blue ocean of those summer days.",
+        "de": "Ein Motiv für Namenskärtchen.\\nAls würdest du nach vielen Jahren von einem langen Traum erwachen. In der Erinnerungen bewahrenden Muschel verbleibt noch immer das Meer jenes Sommers.",
+        "chs": "名片纹饰。\\n就像你多年后，从旧梦中醒来。纪念的螺壳里，仍存在着那年夏天的海。",
+        "cht": "#名片紋飾。\\n就像{F#妳}{M#你}多年後，從舊夢中醒來。紀念的螺殼裡，仍存在著那年夏天的海。",
+        "es": "Diseño de tarjeta de presentación.\\nHan pasado los años y te despiertas de un antiguo sueño. En esa caracola de recuerdo aún existe el océano de aquellos días de verano.",
+        "fr": "Thème.\\nVous vous réveillez de votre rêve après des années passées. L'océan de cet été demeurera dans cette coquille souvenir.",
+        "id": "Style kartu nama.\\nTahun demi tahun telah berlalu, kini dirimu terbangun dari mimpi yang lama. Di dalam cangkang kenang-kenangan ini, masihlah tersimpan laut di musim panas tahun itu.",
+        "jp": "名刺の飾り紋。\\nまるで、何年も経ってやっと昔の夢から目が覚めたかのよう。ホラガイの中には、あの夏の海に関する記憶が残っている。",
+        "kr": "명함 스킨.\\n마치 여러 해가 지나고 오랜 꿈에서 깨어난 것처럼, 기념으로 간직했던 소라 껍데기 안에 여전히 그날의 여름 바다가 존재하고 있다",
+        "pt": "Estilo de Cartão de Visita.\\nOs anos passaram, e você desperta de um velho sonho. Dentro da concha de lembrança reside a reminiscência do oceano azul dos dias de verão.",
+        "ru": "Именная карта.\\nПрошли годы, и вы проснулись от долгого сна. В этой раковине до сих пор живёт океан лета тех дней.",
+        "th": "ลายนามบัตร\\nราวกับตื่นจากความฝันครั้งเก่าหลังจากผ่านไปหลายปี ในเปลือกหอยแห่งความทรงจำยังคงเก็บเรื่องราวของทะเลฤดูร้อนในปีนั้นอยู่",
+        "vi": "Hoa văn danh thiếp.\\nCũng giống như bạn ở nhiều năm về sau, thức tỉnh từ trong giấc mơ xưa. Bên trong vỏ ốc kỷ niệm, vẫn còn đó cảnh biển của mùa hè năm đó."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

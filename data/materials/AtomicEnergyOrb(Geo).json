@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Atomic Energy Orb (Geo)",
+        "de": "Kernenergiekugel (Geo)",
+        "chs": "原子能量球(岩)",
+        "cht": "原子能量球(岩)",
+        "es": "Orbe de energía atómica (Geo)",
+        "fr": "Orbe d'énergie atomique (Géo)",
+        "id": "Atomic Energy Orb (Geo)",
+        "jp": "原子エネルギーボール(岩)",
+        "kr": "원자 에너지 오브(바위)",
+        "pt": "Orbe de Energia Atômico (Geo)",
+        "ru": "Сфера атомной энергии (Гео)",
+        "th": "Atomic Energy Orb (Geo)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Nham)"
+    },
+    "id": 2023,
+    "materialDesc": {
+        "en": "Atomic Energy Orb (Geo)",
+        "de": "Kernenergiekugel (Geo)",
+        "chs": "原子能量球(岩)",
+        "cht": "原子能量球(岩)。",
+        "es": "Orbe de energía atómica (Geo)",
+        "fr": "Orbe d'énergie atomique (Géo)",
+        "id": "Atomic Energy Orb (Geo)",
+        "jp": "元素エネルギーボール(岩)",
+        "kr": "원자 에너지 오브(바위)",
+        "pt": "Orbe de Energia Atômico (Geo)",
+        "ru": "Сфера атомной энергии (Гео)",
+        "th": "Atomic Energy Orb (Geo)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Nham)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 4",
+        "de": "Gutschein Nr.4",
+        "chs": "兑换券4号",
+        "cht": "兌換券4號",
+        "es": "Cupón de canje n.º 4",
+        "fr": "Coupon d'échange 4",
+        "id": "Kupon Penukaran 4",
+        "jp": "引換券4",
+        "kr": "교환 쿠폰 4호",
+        "pt": "Cupom de Troca 4",
+        "ru": "Купон обмена №4",
+        "th": "คูปองแลกรับหมายเลข 4",
+        "vi": "Phiếu Quà Tặng 4"
+    },
+    "id": 101870,
+    "materialDesc": {
+        "en": "Used to redeem Thundering Horned Owl: Turning",
+        "de": "Ein Gutschein, der gegen „Eule des Donners – Drehung“ eingetauscht werden kann.",
+        "chs": "用于兑换【霆雷角鸮号·转】的兑换券",
+        "cht": "用於兌換【霆雷角鴞號·轉】的兌換券",
+        "es": "Cupón de canje para obtener un Búho de la tempestad: Giro.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Burung Hantu Geledek: Muter",
+        "jp": "「雷霆コノハズク·転」と引き換えることのできる券。",
+        "kr": "[뇌정의 소쩍새호·회전]을 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Coruja Trovejante: Rodopio",
+        "ru": "Используйте, чтобы получить «Громовую сову: Вращение»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Thundering Horned Owl: Turning",
+        "vi": "Phiếu quà tặng dùng để đổi \"Cú Lôi Đình - Xoay\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

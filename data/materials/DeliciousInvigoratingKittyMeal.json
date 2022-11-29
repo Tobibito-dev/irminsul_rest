@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Invigorating Kitty Meal",
+        "de": "Leckere belebende Katzenmahlzeit",
+        "chs": "美味的活力喵饭",
+        "cht": "美味的活力喵飯",
+        "es": "Comida felina revitalizante deliciosa",
+        "fr": "Pâté miaou revigorant (délicieux)",
+        "id": "Delicious Invigorating Kitty Meal",
+        "jp": "美味しそうな活力にゃんこ飯",
+        "kr": "맛있는 활력충만 고양이 밥",
+        "pt": "Refeição Revigorante Miau Deliciosa",
+        "ru": "Вкусное бодрящее кошачье лакомство",
+        "th": "Invigorating Kitty Meal แสนอร่อย",
+        "vi": "Cơm Mèo Năng Động Ngon"
+    },
+    "id": 108320,
+    "materialDesc": {
+        "en": "This main dish looks rather cute. The simple methodology used to make it has maximized flavor retention in its ingredients. Even cats who usually pay humdrum humanity little mind will surely come running over when they catch a whiff of this. Uh, wait a moment. Was this supposed to attract dogs, too?",
+        "de": "Dieses Hauptgericht sieht ziemlich süß aus. Die einfache Methode, mit der es zubereitet wird, hat den Geschmack der Zutaten maximal erhalten. Sogar Katzen, die der Menschheit normalerweise wenig Beachtung schenken, werden sicherlich herbeieilen, wenn sie einen Hauch von diesem Gericht riechen. Äh, warte einen Moment. Sollte das auch Hunde anlocken?",
+        "chs": "外形可爱的主食。简单的处理方法最大化保留住了食材的鲜美。就算是再不爱搭理人的小猫，闻到这样的鲜香也会忍不住跟上来吧。等等，怎么连小狗也被吸引过来了…？",
+        "cht": "外形可愛的主食。簡單的處理方法最大化保留住了食材的鮮美。就算是再不愛搭理人的小貓，聞到這樣的鮮香也會忍不住跟上來吧。等等，怎麼連小狗也被吸引過來了…？",
+        "es": "Una comida de aspecto adorable. El sencillo método utilizado ha servido para conservar lo mejor posible el sabor de los ingredientes. Ni el gato más indiferente podría evitar sentirse atraído por este aroma. Espera, ¡que también atrae a los perros!",
+        "fr": "Un plat à l'apparence mignonne. Une préparation simple a préservé la fraîcheur des ingrédients. Même les chats qui d'habitude font peu de cas des humains ne pourront pas s'empêcher d'approcher quand ils auront senti l'odeur de ce mets. On dirait que même les chiens ne peuvent pas y résister...",
+        "id": "Hidangan ini terlihat cukup imut. Metode sederhana yang digunakan untuk membuatnya telah memaksimalkan potensi rasa yang terkandung dalam bahan-bahannya. Bahkan kucing yang biasanya tidak peduli dengan urusan manusia yang membosankan pasti akan berlari ketika mereka mencium bau ini. Eh, tunggu sebentar. Apakah hidangan ini juga memang bisa menarik perhatian anjing ya?",
+        "jp": "見た目がかわいい主食。簡単な調理方法で食材の鮮度が最大限に保たれた。どんなに無愛想な子猫でも、この香りを嗅ぐとついてくるだろう。しかし、どうして子犬までも…？",
+        "kr": "외형이 귀여운 주식. 간단한 처리법으로 식자재의 맛을 최대한 살렸다. 아무리 인간을 무시하는 고양이라도, 이 향긋한 냄새를 맡으면 어쩔 수 없이 따라올 것이다. 잠깐, 왜 강아지까지 따라온 거야…?",
+        "pt": "Este prato principal parece muito fofo. A metodologia simples utilizada para fazê-lo tem maximizado a retenção do sabor em seus ingredientes. Até mesmo os gatos que geralmente não ligam para os humanos com certeza virão correndo quando sentirem o cheiro disso. Err, espere um momento. Isto também deveria atrair cães?",
+        "ru": "Довольно милое основное блюдо. Простая технология, использованная для приготовления, позволила максимально сохранить аромат ингредиентов. Даже кошки, которые обычно не обращают внимания на людей, прибегут, когда почувствуют запах этого лакомства. Погодите-ка, оно не должно было привлечь собак!",
+        "th": "อาหารหลักที่หน้าตาดูน่ารัก วิธีการแปรรูปอย่างง่ายจะช่วยรักษาความสดของส่วนผสมได้ดีที่สุด แม้แต่เจ้าเหมียวที่ชอบเมินคนก็อดไม่ได้ที่จะมาดมฟุดฟิด เดี๋ยวก่อนนะ ทำไมถึงดึงดูดได้แม้กระทั่งสุนัขล่ะเนี่ย... ?",
+        "vi": "Món chính có hình dạng dễ thương. Phương pháp chế biến đơn giản giúp giữ lại tối đa độ tươi ngon của nguyên liệu. Dù là một con mèo không thích quan tâm đến ai cũng sẽ chịu không nổi mùi thơm này mà chạy theo. Ơ ơ, sao cả chó con cũng bị thu hút rồi...?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

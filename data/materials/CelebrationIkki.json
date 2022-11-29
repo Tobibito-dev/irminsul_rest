@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Celebration: Ikki",
+        "de": "Feierlichkeit – Ikki",
+        "chs": "庆典·一揆",
+        "cht": "慶典·一揆",
+        "es": "Celebración - Combate",
+        "fr": "Célébration - Ikki",
+        "id": "Perayaan: Ikki",
+        "jp": "祭典·一揆",
+        "kr": "축제·봉기",
+        "pt": "Celebração: Ikki",
+        "ru": "Икки",
+        "th": "การฉลอง - Ikki",
+        "vi": "Lễ Hội - Ikki"
+    },
+    "id": 210100,
+    "materialDesc": {
+        "en": "Namecard style.\\n\"I will ask you a question, and you shall answer me with your sword.\"",
+        "de": "Ein Motiv für Namenskärtchen.\\n„Ich werde dir eine Frage stellen. Und du wirst mir mit deinem Schwert antworten.“",
+        "chs": "名片纹饰。\\n「我来问你问题，你只准用剑来回答。」",
+        "cht": "名片紋飾。\\n「我來問你問題，你只准用劍來回答。」",
+        "es": "Diseño de tarjeta de presentación.\\n“Yo te hago preguntas y tú solo puedes responder con tu espada”.",
+        "fr": "Thème.\\n« Je vais vous poser une question et vous me répondrez avec votre épée. »",
+        "id": "Style kartu nama.\\n\"Aku mau menanyaimu pertanyaan, dan kamu hanya boleh menjawabnya dengan pedangmu.\"",
+        "jp": "名刺の飾り紋。\\n「質問は剣で答えることしか許されない。」",
+        "kr": "명함 스킨.\\n「질문을 하마. 답은 검으로 받겠다」",
+        "pt": "Estilo de Cartão de Visita.\\n\"Eu vim lhe fazer uma pergunta, mas você só se preparou com sua espada para responder\".",
+        "ru": "Именная карта.\\n«Я задам тебе вопрос, а твой меч даст ответ».",
+        "th": "ลวดลายนามบัตร\\n\"ฉันจะถามคำถามเธอ แต่เธอต้องตอบคำถามด้วยดาบเท่านั้น\"",
+        "vi": "Hoa văn danh thiếp. \\n\"Tôi hỏi bạn một câu hỏi, bạn chỉ được phép trả lời bằng kiếm.\""
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

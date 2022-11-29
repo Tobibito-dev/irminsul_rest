@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Adventurer's Breakfast Sandwich",
+        "de": "Leckere verlorene Eier auf Brot",
+        "chs": "美味的冒险家蛋堡",
+        "cht": "美味的冒險家蛋堡",
+        "es": "Sándwich del aventurero delicioso",
+        "fr": "Sandwich de l'aventurier (délicieux)",
+        "id": "Delicious Adventurer's Breakfast Sandwich",
+        "jp": "美味しそうな冒険者エッグバーガー",
+        "kr": "맛있는 모험가 계란빵",
+        "pt": "Delicioso Sanduíche do Aventureiro",
+        "ru": "Вкусная яичная крепость",
+        "th": "Adventurer's Breakfast Sandwich แสนอร่อย",
+        "vi": "Trứng Ốp Nhà Mạo Hiểm Ngon"
+    },
+    "id": 108169,
+    "materialDesc": {
+        "en": "A nutritious egg dish. The mayonnaise rises like the sun over the rippling poached egg's surface, and the exquisite mouthfeel really hits the spot. The unique salty flavor of the ham cuts right through the mix as well, like light parting the gathered clouds.",
+        "de": "Ein nahrhaftes Eiergericht. Die Mayonnaise läuft malerisch an dem verlorenen Ei entlang, das innen unaussprechlich zart ist. Die Würze des Schinkens ist kräftig genug, trübe Regenwolken zu vertreiben und heiteres Wetter zu bringen.",
+        "chs": "营养丰富的蛋料理。蛋黄酱如一汪晨光倾泻在宛如波涛的水波蛋上，嫩滑的口感刚在心中泛起涟漪，火腿独有的咸香就在顷刻间吹开了云彩。旭日东升，光芒无限。",
+        "cht": "營養豐富的蛋料理。蛋黃醬如一汪晨光傾瀉在宛如波濤的水波蛋上，嫩滑的口感剛在心中泛起漣漪，火腿獨有的鹹香就在頃刻間吹開了雲彩。旭日東昇，光芒無限。",
+        "es": "Un plato de huevo muy nutritivo. La mayonesa se derrama como los rayos del sol sobre las olas de huevo y el delicioso sabor conmueve el corazón, mientras que el punto salado del jamón disipa cualquier nube. El sol sale por el este y la luz es infinita.",
+        "fr": "Un plat d'œufs très nutritif. La mayonnaise s'étale tels des rayons du soleil sur la surface ondulante de l'œuf poché, le goût en bouche est tendre et doux, soufflé par l'arôme salé unique du jambon. Le soleil se lève à l'est, la lumière est infinie.",
+        "id": "Hidangan telur bergizi. Mayonesnya mengalir seperti cahaya pagi berada di atas telur rebus dan rasanya begitu lembut. Rasa asin yang unik dari ham juga bercampur, seperti cahaya yang membelah awan yang berkumpul.",
+        "jp": "栄養素たっぷりのたまご料理。マヨネーズは波に差し込む朝日のように、温泉卵の上にかかっている。ツルリとした食感に心がざわめくと、ソーセージ特有の塩の香りが吹き込んでくる。朝日の光を止めるものはいない。",
+        "kr": "영양이 풍부한 계란 요리. 마요네즈가 아침 햇살처럼 수란 위에 쏟아진다. 부드러운 식감이 가슴에 잔잔한 물결을 일으키고, 햄이 지닌 독특한 짠내가 순식간에 구름처럼 피어오른다. 동쪽에 우뚝 솟은 태양에서 빛이 쏟아지는 듯하다",
+        "pt": "Um nutritivo prato feito com ovo. A maionese se derrama como os raios de sol sobre os ovos, e o sabor comove o coração. O sabor salgado do presunto também se ressalta na mistura, como luz que corta as nuvens.",
+        "ru": "Питательное блюдо из яиц. Майонез подобен свету утреннего солнца, проливающемуся на напоминающее океанические волны яйцо-пашот. Его нежный вкус заставляет сердце биться быстрее. Запах солёной ветчины мгновенно наполняет ноздри, как погожим утром солнечные лучи разрезают рассветную дымку.",
+        "th": "เมนูจากไข่ที่อุดมไปด้วยคุณค่าทางโภชนาการ มายองเนสบนไข่ลวกที่มีสีเหลืองนวล ราวกับแสงอาทิตย์ในยามเช้า รสชาติที่ละมุนนั้นเมื่อผสมผสานเข้ากับรสเค็มของแฮมแล้ว ราวกับสายลมที่พัดพาเมฆไป และเผยให้เห็นดวงอาทิตย์ขึ้น พร้อมกับแสงสว่างที่ไม่มีที่สิ้นสุด",
+        "vi": "Món ăn làm từ trứng vô cùng dinh dưỡng. Nước sốt mayonnaise vàng như ánh ban mai sóng sánh trên mặt trứng chần, cảm giác mềm mịn như bông. Kết hợp với vị mặn đặc biệt của giăm bông giống như làn gió trong phút chốc thổi bay những đám mây để lộ ra mặt trời đằng đông với ánh nắng chan hòa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

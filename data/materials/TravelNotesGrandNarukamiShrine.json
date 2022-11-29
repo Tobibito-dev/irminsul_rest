@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Grand Narukami Shrine",
+        "de": "Erlebnispass – Großer Narukami-Schrein",
+        "chs": "纪行·鸣神大社",
+        "cht": "紀行·鳴神大社",
+        "es": "PB - Gran Santuario Narukami",
+        "fr": "PB - Sanctuaire de Narukami",
+        "id": "Catatan Perjalanan: Kuil Agung Narukami",
+        "jp": "紀行·鳴神大社",
+        "kr": "기행·나루카미 다이샤",
+        "pt": "Passe de Batalha - Grande Santuário Narukami",
+        "ru": "Великий храм Наруками",
+        "th": "บันทึก - ศาลเจ้า Grand Narukami",
+        "vi": "Nhật Ký Hành Trình - Đền Narukami"
+    },
+    "id": 210080,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe sakura of Mt. Yougou symbolizes the Grand Narukami Shrine.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDie Sakura des Yougou-Bergs symbolisiert den Großen Narukami-Schrein.",
+        "chs": "名片纹饰。\\n鸣神大社的纹样，「影向山樱」。",
+        "cht": "名片紋飾。\\n鳴神大社的紋樣，「影向山櫻」。",
+        "es": "Diseño de tarjeta de presentación.\\nEl cerezo de la Montaña Yougou representa al Gran Santuario Narukami.",
+        "fr": "Thème.\\nLe cerisier du Mont Yougou symbolise le Sanctuaire de Narukami.",
+        "id": "Style Kartu Nama.\\nSakura dari Mt. Yougou melambangkan Kuil Agung Narukami.",
+        "jp": "名刺の飾り紋。\\n鳴神大社の模様、「影向山櫻」。",
+        "kr": "명함 스킨\\n나루카미 다이샤의 문양, 「요고우산 벚나무」",
+        "pt": "Estilo de Cartão de Visita.\\nA sakura da Montanha Yougou simboliza o Grande Santuário Narukami.",
+        "ru": "Именная карта.\\nСакура горы Ёго символизирует Великий храм Наруками.",
+        "th": "ลายนามบัตร\\nลวดลายศาลเจ้า Grand Narukami \"ซากุระ Mt. Yougou\"",
+        "vi": "Hoa văn danh thiếp.\\nHoa văn, hoa anh đào của núi Yougou tượng trưng cho ngôi đền Narukami."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

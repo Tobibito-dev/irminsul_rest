@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Rose Custard",
+        "de": "Leckeres Rosenmus",
+        "chs": "美味的蔷薇奶糊",
+        "cht": "美味的薔薇奶糊",
+        "es": "Natillas de rosa deliciosas",
+        "fr": "Crème à la rose (délicieuse)",
+        "id": "Delicious Rose Custard",
+        "jp": "美味しそうなローズシュリカンド",
+        "kr": "맛있는 장미 커스터드",
+        "pt": "Creme de Rosa Deliciosa",
+        "ru": "Вкусный заварной крем из роз",
+        "th": "Rose Custard แสนอร่อย",
+        "vi": "Sữa Trứng Tường Vi Ngon"
+    },
+    "id": 108472,
+    "materialDesc": {
+        "en": "A dessert made from fermented milk. When mixed together, the dense curd, fragrant petals, and crisp nuts together create a mellow and sweet taste. As that fragrant milky concoction slips down your throat, it is almost as if you can smell the floral scent from a long time ago.",
+        "de": "Ein Dessert aus fermentierter Milch. Beim Mischen verbinden sich dicker Quark, duftende Blütenblätter und knackige Nüsse zu einem reichen und süßen Geschmack. Wenn dieses duftende milchige Mus deine Kehle hinunterfließt, kannst du den Duft der blühenden Blumen riechen.",
+        "chs": "由发酵乳制成的甜点。绵密的凝乳、清新的花瓣、酥松的坚果，三者交融出芳醇甜蜜的滋味。喉间纵情享受的是此刻滑落的奶香，心头悠悠回荡的是彼时繁盛的花香。",
+        "cht": "由酪乳製成的甜點。綿密的凝乳、清新的花瓣、酥鬆的堅果，三者交融出芳醇甜蜜的滋味。喉間縱情享受的是此刻滑落的奶香，心頭悠悠迴蕩的是彼時繁盛的花香。",
+        "es": "Un bonito postre hecho con leche fermentada. La combinación de las densas natillas, la frescura de los pétalos de rosa y la crujiente textura de las nueces dejan un grato regusto dulce en el paladar. Mientras saboreas esta delicia láctea, te sentirás como si estuvieras en un exuberante prado rodeado del aroma de cientos de flores.",
+        "fr": "Un dessert confectionné à partir de lait fermenté. Lorsqu'ils sont mélangés, le lait caillé, les pétales parfumés et les fruits secs craquants créent une saveur douce et sucrée. C'est comme si la fragrance des fleurs d'antan vous chatouillait les sens lorsque vous avalez ce délice lacté.",
+        "id": "Makanan pencuci mulut yang terbuat dari susu fermentasi. Waktu dicampur bersama, susu yang padat, kelopak yang harum, dan kacang yang renyah, ketiganya ini bisa menciptakan rasa yang manis dan tekstur yang lembut. Saat ramuan yang harumnya seperti susu itu mengaliri tenggorokanmu, kamu seolah-olah bisa mencium aroma bunga bermekaran dari masa lalu.",
+        "jp": "発酵乳で作られたデザート。密度ある凝乳（カード）と新鮮な花びら、香ばしいナッツの三者が甘く芳醇な味わいを醸し出す。滑らかなミルクの香りが喉を駆け抜け、あの頃咲き誇った花の馨りがゆったりと心に流れる。",
+        "kr": "발효유로 만든 디저트. 촘촘한 커드와 싱그러운 꽃잎, 부드러운 견과류가 모여 풍부한 향과 달콤한 맛을 낸다. 목구멍으로 넘어가는 우유 향을 즐길 수 있으며, 마음속에도 그 당시 피었던 무성한 꽃향기가 메아리친다",
+        "pt": "Uma sobremesa de leite fermentado. A coalhada adensada, as pétalas frescas e as nozes crocantes misturam-se em um sabor suave e doce. O que você sente ao engolir é o gosto do leite, e mais tarde a fragrância floral é que aflora.",
+        "ru": "Десерт, приготовленный из кисломолочных продуктов. При смешивании плотный творог, ароматные лепестки и хрустящие орехи создают мягкий и сладкий вкус. Попробовав ароматную молочная смесь, вы словно ощущаете цветочный аромат давних времён.",
+        "th": "ของหวานที่ทำจากนมหมัก ผสมนมเปรี้ยวหนึบหนับ กลีบดอกสดใหม่ และถั่วกรุบกรอบเข้าด้วยกัน เพื่อให้รสชาติที่กลมกล่อมและหวานละมุน ในตอนที่กลิ่นนมอันหอมกรุ่นไหลลงสู่คอนั้น ในชั่วขณะนั้น ราวกับว่าได้กลิ่นหอมของดอกไม้อันเรืองรองกึกก้องอยู่ในใจ",
+        "vi": "Món tráng miệng được làm từ sữa lên men. Sữa đông đặc, cánh hoa tươi và các loại hạt mềm mịn hòa quyện với nhau tạo nên hương vị êm dịu và ngọt ngào. Điều khiến bạn mê đắm trong cổ họng là hương sữa thoảng qua và điều đọng lại trong tim bạn là hương hoa ngập tràn lúc này."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

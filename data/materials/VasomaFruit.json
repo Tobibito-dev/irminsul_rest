@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vasoma Fruit",
+        "de": "Vasoma",
+        "chs": "恒素果",
+        "cht": "恆素果",
+        "es": "Fruto vasoma",
+        "fr": "Fruit vasoma",
+        "id": "Buah Vasoma",
+        "jp": "ヴァソマの実",
+        "kr": "바소마 열매",
+        "pt": "Fruta Vasoma",
+        "ru": "Фрукт васома",
+        "th": "ผล Vasoma",
+        "vi": "Quả Vasoma"
+    },
+    "id": 101809,
+    "materialDesc": {
+        "en": "A fruit with mysterious powers.\\nBija is indispensable for helping Rana, and the Vasoma Fruit is indispensable for obtaining Bija.",
+        "de": "Eine Frucht voller mysteriöser Kräfte.\\nUm Rana zu helfen, muss man die Bija einsammeln. Um die Bija einzusammeln, braucht man die Vasoma.",
+        "chs": "充满神秘力量的果实。\\n为了帮助拉娜，必须取得惟耶之实。为了取得惟耶之实，必须取得恒素果。",
+        "cht": "充滿神秘力量的果實。\\n為了幫助拉娜，必須取得惟耶之實。為了取得惟耶之實，必須取得恆素果。",
+        "es": "Un fruto rebosante de una misteriosa energía.\\nCon el fin de ayudar a Rhana, tendrás que obtener el fruto bija. Y para conseguir el fruto bija, tendrás que obtener frutos vasoma.",
+        "fr": "Un fruit aux pouvoirs mystérieux.\\nLe bija est indispensable pour aider les naras, et le fruit vasoma est indispensable pour obtenir le bija.",
+        "id": "Buah dengan kekuatan misterius.\\nBija sangat diperlukan untuk membantu Rana, dan Buah Vasoma sangat diperlukan untuk mendapatkan Bija.",
+        "jp": "不思議な力を持つ果実。\\nラナを助けるには、ビージャの実を手に入れなければならない。だが、ビージャの実を手に入れるにはヴァソマの実が必要である。",
+        "kr": "신비한 힘이 가득한 열매.\\n라나를 돕기 위해서는 반드시 비야의 열매를 얻어야 하고, 비야의 열매를 얻기 위해서는 반드시 바소마 열매를 얻어야 한다",
+        "pt": "Uma fruta com um poder misterioso.\\nPara ajudar Nara, é preciso ter uma Bija, e para ter uma Bija, é preciso ter uma Fruta Vasoma.",
+        "ru": "Плод, исполненный таинственной силы.\\nЧтобы помочь Ране, нужен плод биджа. А чтобы достать плод биджа, нужны фрукты васома.",
+        "th": "ผลไม้ที่เต็มไปด้วยพลังลึกลับ\\nเพื่อช่วยเหลือ Rana แล้ว จะต้องหา Bija มาให้ได้ และเพื่อที่จะได้มาซึ่ง Bija แล้ว ก็ต้องหาผล Vasoma มาให้ได้",
+        "vi": "Một loại quả chứa đầy sức mạnh thần bí.\\nĐể giúp được Rana, phải lấy được Bija. Để có được Bija, phải lấy được Quả Vasoma."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

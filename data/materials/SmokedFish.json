@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Smoked Fish",
+        "de": "Räucherfisch",
+        "chs": "熏鱼",
+        "cht": "燻魚",
+        "es": "Pescado ahumado",
+        "fr": "Poisson fumé",
+        "id": "Smoked Fish",
+        "jp": "魚の燻製",
+        "kr": "훈제 생선",
+        "pt": "Peixe Defumado",
+        "ru": "Копчёная рыба",
+        "th": "Smoked Fish",
+        "vi": "Cá Xông Khói"
+    },
+    "id": 110012,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

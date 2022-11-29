@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Cocktail Ingredient",
+        "de": "Merkwürdige Getränkezutat",
+        "chs": "奇怪的调酒材料",
+        "cht": "奇怪的調酒材料",
+        "es": "Ingrediente para cóctel",
+        "fr": "Ingrédient de cocktail étrange",
+        "id": "Bahan Koktail yang Aneh",
+        "jp": "変わったカクテルの材料",
+        "kr": "이상한 칵테일 재료",
+        "pt": "Ingrediente de Coquetel Estranho",
+        "ru": "Странный ингредиент для коктейля",
+        "th": "วัตถุดิบผสมเหล้าสุดแปลกประหลาด",
+        "vi": "Nguyên liệu pha chế rượu kỳ quái"
+    },
+    "id": 100553,
+    "materialDesc": {
+        "en": "A cocktail ingredient salvaged from a cart. When you hold it in your hand, you can't help but feel that there's something unusual about it.",
+        "de": "Die Zutat für ein Getränk, die du aus einem Güterwagen gerettet hast. Du bekommst ein komisches Gefühl, wenn du sie in der Hand hältst.",
+        "chs": "从货车里抢救出来的调酒材料。拿在手里的时候，总有种奇怪的感觉…",
+        "cht": "從貨車裡搶救出來的調酒材料。拿在手裡的時候，總有種奇怪的感覺…",
+        "es": "Ingredientes para hacer cócteles recuperados de un carruaje. Al sostenerlos en la mano, es inevitable sentir que tienen algo inusual.",
+        "fr": "Un ingrédient pour cocktail qui a été récupéré d'un convoi. Il dégage quelque chose de particulier...",
+        "id": "Bahan koktail yang diperoleh dari kereta barang. Sewaktu kamu menggenggamnya di tanganmu, terasa ada sesuatu yang tidak biasa dari benda ini.",
+        "jp": "運送車から救出したカクテルの材料。手にする時は異様な感じがする。",
+        "kr": "화물차에서 구한 칵테일 재료. 손에 들고 있으면 계속 이상한 느낌이 든다…",
+        "pt": "Um ingrediente de coquetel recuperado de um carrinho. Quando você o segura na mão, não pode deixar de sentir que há algo incomum nisso.",
+        "ru": "Ингредиент для коктейля, который удалось спасти из телеги. Взяв его в руки, вы поневоле чувствуете в нём что-то необыкновенное.",
+        "th": "วัตถุดิบผสมเหล้าที่กู้มาจากรถบรรทุกของ มักจะให้ความรู้สึกแปลก ๆ เมื่อถือไว้ในมือ...",
+        "vi": "Nguyên liệu pha rượu được cứu từ xe hàng kịp thời. Cầm trên tay có cảm giác kỳ lạ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

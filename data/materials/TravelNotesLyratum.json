@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Lyratum",
+        "de": "Erlebnispass – Lyratum",
+        "chs": "纪行·白英",
+        "cht": "紀行·白英",
+        "es": "PB - Lyratum",
+        "fr": "PB - Lyratum",
+        "id": "Catatan Perjalanan: Lyratum",
+        "jp": "紀行·白英",
+        "kr": "기행·백영(白英)",
+        "pt": "Passe Batalha - Lyratum",
+        "ru": "Паслён",
+        "th": "บันทึก - กลีบดอกไม้ขาว",
+        "vi": "Nhật Ký Hành Trình - Lyratum"
+    },
+    "id": 210106,
+    "materialDesc": {
+        "en": "Namecard.\\nOnly this flower remains on the heights where all trees have withered.",
+        "de": "Ein Motiv für Namenskärtchen.\\nNur diese Blume steht auf dem hohen Gipfel, wo alle Bäume verdorrt sind.",
+        "chs": "名片纹饰。\\n高峰之上万树凋零，唯有此花。",
+        "cht": "名片紋飾。\\n高峰之上萬樹凋零，唯有此花。",
+        "es": "Diseño de tarjeta de presentación.\\nSolo esta flor permanece en las alturas, donde todos los árboles se han marchitado.",
+        "fr": "Thème.\\nSeule cette fleur subsiste sur les hauteurs où tous les arbres ont flétri.",
+        "id": "Style Kartu Nama.\\nHanya bunga ini yang tersisa di ketinggian di mana semua pohon telah layu.",
+        "jp": "名刺の飾り紋。\\n山頂の木は枯れてゆく、この花のみ。",
+        "kr": "명함 스킨.\\n높은 봉우리의 모든 나무가 시들었지만 이 꽃만이 피어있다",
+        "pt": "Estilo de Cartão de Visita.\\nSomente esta flor permanece nas altitudes onde todas as árvores definharam.",
+        "ru": "Именная карта.\\nТолько это растение выживает на высотах, где засыхают даже деревья.",
+        "th": "ลายนามบัตร\\nยอดเขาสูงชัน ต้นไม้นับพันพลันเหี่ยวเฉา ยกเว้นแต่ดอกไม้ดอกนี้เท่านั้น",
+        "vi": "Hoa văn danh thiếp.\\nTrên núi cao cây cỏ tàn lụi, chỉ còn lại duy nhất đóa hoa này."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

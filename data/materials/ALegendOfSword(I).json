@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Legend of Sword (I)",
+        "de": "Vom Schwert gefunden im Herbst I",
+        "chs": "沉秋拾剑录·一",
+        "cht": "沉秋拾劍錄·一",
+        "es": "Una leyenda de espadas (I)",
+        "fr": "Une légende d'épée - I",
+        "id": "Legenda Pedang (I)",
+        "jp": "沈秋拾剣録·一",
+        "kr": "침추습검록·I",
+        "pt": "A Lenda da Espada (I)",
+        "ru": "Легенда о клинке (I)",
+        "th": "ตำนานของดาบ (I)",
+        "vi": "Trầm Thu Thập Kiếm Lục I"
+    },
+    "id": 101532,
+    "materialDesc": {
+        "en": "Amid a sea of stars that spin in reverse, light-centuries of war unfold down on the planet's surface... With this grandiose opening comes an all-new tale of gallantry!",
+        "de": "Inmitten eines Sternenmeeres, das sich rückwärts dreht, entfalten sich die Schlachtfelder über die Erde, die mehrere hundert Lichtjahre umfassen ... Mit diesem grandiosen Anfang beginnt eine brandneue Geschichte der Galanterie!",
+        "chs": "逆转的星海中央，地表之下蔓延数百光年的战场…随着过于庞大的开头展开迅猛而来的新感觉侠客物语！就此开场！",
+        "cht": "逆轉的星海中央，地表之下蔓延數百光年的戰場…隨著過於龐大的開頭展開迅猛而來的新感覺俠客物語！就此開場！",
+        "es": "En un mar de estrellas invertido, una guerra lleva teniendo lugar durante cientos de años luz. Esta se trata de un nuevo tipo de novela de artes marciales que se desarrolla a partir de un magnífico comienzo. ¡Aquí empieza la historia!",
+        "fr": "Au milieu d'une mer d'étoiles qui tournent à l'envers, des années-lumières de guerre se déroulent sur la terre... C'est avec cette ouverture grandiose que s'annonce cette nouvelle histoire de chevalerie !",
+        "id": "Di tengah lautan bintang yang berputar secara terbalik, perang yang berabad-abad terjadi di seluruh bumi... Dengan pembukaan yang megah ini, datanglah kisah keberanian yang baru!",
+        "jp": "逆転した星海の中央、地下で何百光年も広がり続けてきた戦場…壮大すぎる展開の新感覚侠客物語が、今始まる！",
+        "kr": "역전의 별바다 중심부, 지표 아래 수백 년 동안 이어져 온 전장… 방대한 서두로 시작해 순식간에 이어지는 전개! 색다른 협객 이야기의 서막이 곧 시작된다!",
+        "pt": "Em meio a um mar de estrelas que giram ao contrário, séculos-luz de guerra se desenrolam pela terra... Com essa abertura grandiosa, inicia-se um conto de galanteria totalmente novo!",
+        "ru": "Среди моря звёзд, вращающихся вспять, по всей земле разворачиваются световые столетия войн... С этим грандиозным вступлением начинается новая героическая сага!",
+        "th": "ในใจกลางของทะเลดาวที่แปรผัน สนามรบที่แผ่ขยายออกไปหลายร้อยปีแสงใต้พื้นผิว... ด้วยจุดเริ่มต้นที่ใหญ่โต ความรู้สึกใหม่ของเรื่องราวของอัศวินก็มาถึงอย่างรวดเร็ว! นี่ก็แค่จุดเริ่มต้นเท่านั้น!",
+        "vi": "Giữa biển sao xoay ngược chiều với quỹ đạo vốn có, cuộc chiến tranh hàng trăm năm ánh sáng diễn ra khắp nơi trên lục địa...với sự khởi đầu hoành tráng này, một câu chuyện mới mẻ được mở ra!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

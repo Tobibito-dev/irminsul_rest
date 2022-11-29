@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chaos Device",
+        "de": "Chaos-Apparat",
+        "chs": "混沌装置",
+        "cht": "混沌裝置",
+        "es": "Dispositivo del caos",
+        "fr": "Dispositif du chaos",
+        "id": "Chaos Device",
+        "jp": "混沌の装置",
+        "kr": "혼돈의 장치",
+        "pt": "Dispositivo do Caos",
+        "ru": "Устройство хаоса",
+        "th": "Chaos Device",
+        "vi": "Cấu Trúc Hỗn Độn"
+    },
+    "id": 112023,
+    "materialDesc": {
+        "en": "Comes from ancient defunct relic structures. A part that once held the structure together. Its aesthetically-pleasing engineering is quite exquisite.",
+        "de": "Ein uraltes Ruinenkonstrukt, das einmal dazu diente, ein Gerät am Laufen zu halten. Die Technik sieht verblüffend aus.",
+        "chs": "来自不再活动的古代遗迹构装体。曾经是维系它身躯的某个部位，有着精妙的工学美感。",
+        "cht": "來自不再活動的古代遺蹟構裝體。曾經是維繫它身軀的某個部位，有著精妙的工學美感。",
+        "es": "Este dispositivo, procedente de unas reliquias antiguas que ya no están activas, se utilizaba para sujetar una parte de la estructura de su cuerpo. Esta refinada pieza de ingeniería tiene cierto valor estético.",
+        "fr": "Une pièce qui effectuait la maintenance d'une structure antique. Son mécanisme est un plaisir pour les yeux et relève d'une ingénierie exquise.",
+        "id": "Bagian dari mesin kuno yang sudah tidak lagi bekerja, bagian ini terlihat menopang seluruh bagian mesin. Bentuknya yang indah terlihat memiliki unsur artistik.",
+        "jp": "すでに動かなくなった古代遺跡の構造体からとったもの。かつてはその体を維持するある部位で、絶妙な工学的美しさがある。",
+        "kr": "멈춰버린 고대 유적에서 나온 구조체. 몸체의 균형을 잡아주던 부분으로 정교한 공학적 감각이 돋보인다",
+        "pt": "Vindo de relíquias antigas que não estão mais ativas. Era usada para segurar uma parte de seu corpo, tendo uma estética de engenharia muito requintada.",
+        "ru": "Часть древнего механического тела. Раньше она поддерживала его целостность. Выполнена с высоким мастерством.",
+        "th": "สร้างมาจากโบราณวัตถุที่ไม่ได้ใช้งานแล้ว มีความสวยงามทางศิลปะมากและในอดีตเคยเป็นส่วนหนึ่งของร่างกาย",
+        "vi": "Là một phần trong di tích không còn hoạt động. Từng là một bộ phận trong cơ thể đó, có một vẻ đẹp kỳ diệu."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

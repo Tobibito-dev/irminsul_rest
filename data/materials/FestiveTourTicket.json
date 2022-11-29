@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Festive Tour Ticket",
+        "de": "Festrundgangsticket",
+        "chs": "庆典巡回券",
+        "cht": "慶典巡迴券",
+        "es": "Cupón del festival",
+        "fr": "Ticket des alizées",
+        "id": "Festive Tour Ticket",
+        "jp": "祭典巡礼チケット",
+        "kr": "축제 투어 티켓",
+        "pt": "Tíquete de Passeio Festivo",
+        "ru": "Праздничный купон",
+        "th": "Festive Tour Ticket",
+        "vi": "Vé Dạo Chơi Lễ Hội"
+    },
+    "id": 118,
+    "materialDesc": {
+        "en": "Take part in the celebratory activities of the Windblume Festival to obtain these tickets and exchange them in the event shop for rewards.\\nThe people of Mondstadt are fun-loving by nature, and they have a celebration for the seasons, the harvests of different crops, and the anniversaries of events of historic significance. Perhaps there might be a festival to commemorate the outlander who repelled Stormterror someday...?",
+        "de": "Nimm an den feierlichen Aktivitäten des Windblumenfestes teil, um diese Belohnung zu erhalten, und tausche sie beim Aktionshändler gegen Belohnungen ein.\\nDie Menschen in Mondstadt sind von Natur aus lebenslustig und feiern die Jahreszeiten, die Ernten verschiedener Feldfrüchte und die Jahrestage von Ereignissen mit historischer Bedeutung. Vielleicht gibt es eines Tages auch ein Fest zum Gedenken an den Fremden, der Sturmschrecken zurückgeschlagen hat?",
+        "chs": "参加风花节期间的庆典活动，可以获得的奖励票券。在活动期间，可以用来兑换奖品。\\n蒙德人天性乐天。时令、不同作物的收成与过往值得纪念的历史事件，都有着对应的庆祝活动。或许有朝一日，异邦人化解「龙灾」的事件，也会拥有对应的节日吧…？",
+        "cht": "參加風花節期間的慶典活動，可以獲得的獎勵票券。在活動期間，可以用來兌換獎品。\\n蒙德人天性樂天。時令、不同作物的收成與過往值得紀念的歷史事件，都有著對應的慶祝活動。或許有朝一日，異邦人化解「龍災」的事件，也會擁有對應的節日吧…？",
+        "es": "Participa en las actividades de celebración del Festival de las Flores de Viento para obtener estos cupones y canjearlos por recompensas en la tienda del evento.\\nA los habitantes de Mondstadt les gusta divertirse y celebran las estaciones, las cosechas de distintos cultivos y los aniversarios de eventos históricos significativos. Tal vez en el futuro habrá un festival para conmemorar a la persona venida de otro mundo que derrotó a Stormterror...",
+        "fr": "Ticket s'obtenant en participant aux activités de la Fête des alizées, échangeable pendant l'événement contre des récompenses.\\nLes gens de Mondstadt sont d'un naturel joyeux, et ont une fête pour les saisons, les récoltes, les anniversaires historiques importants... Qui sait, peut-être qu'un festival célébrant la personne venue d'un autre monde ayant vaincu Stormterror existera un jour ?",
+        "id": "Ikut sertalah dalam kegiatan perayaan Festival Windblume untuk mendapatkan tiket ini, dan menukarnya di toko event dengan berbagai hadiah.\\nPada dasarnya, penduduk Mondstadt sangat suka bersenang-senang, karena itu mereka memiliki banyak perayaan sepanjang tahun, seperti perayaan pergantian musim, musim panen, serta peringatan peristiwa-peristiwa penting bersejarah. Mungkin saja, suatu hari nanti juga akan ada festival untuk memperingati seorang pengembara yang berhasil melindungi kota dari Stormterror...?",
+        "jp": "風花祭のイベントに参加すると獲得できるチケット。イベント期間中、さまざまな報酬と交換できる。\\nモンド人は陽気な人が多い。そのため、季節や農作物の収穫、記念すべき歴史にはそれぞれ関連するお祭りがある。いつか、異邦人が「龍災」を鎮めた一件も祝祭となる日が来るかもしれない。",
+        "kr": "윈드블룸 축제 이벤트에 참여하면 얻게 되는 티켓, 이벤트 기간 동안 상품을 교환할 수 있다.\\n몬드인들은 타고난 낙천가들이다. 그들은 절기와 농작물의 수확, 그리고 역사적 사건들을 기념하고 축하하는 행사를 연다. 언젠가 이방인이 해결한 「용의 재앙」 사건을 기념하는 축제가 생길지도…?",
+        "pt": "#Participe nas atividades de celebração do Festival da Brisa Florescente para obter esses tíquetes e trocá-los na Loja do Evento por recompensas.\\nO povo de Mondstadt adoram a diversão, e eles possuem celebrações para as estações, colheitas, e aniversários de eventos de significado histórico. Talvez exista um festival para comemorar {F#a forasteira}{M#o forasteiro} que repeliu Stormterror algum dia...?",
+        "ru": "Купоны, которые можно получить в награду на мероприятиях Праздника ветряных цветов. Во время события их можно обменивать на награды. \\nЖители Мондштадта по натуре оптимистичны. Всем временам года, памятным историческим событиям и сбору урожая различных культур посвящены соответствующие праздники. Возможно день, когда гость из других краёв победил Ужаса Бури, тоже однажды станет праздником?",
+        "th": "เข้าร่วมงานเฉลิมฉลองในเทศกาล Windblume และรับคูปองเหล่านี้ เพื่อไปแลกของรางวัลในช่วงกิจกรรม\\nชาว Mondstadt มีนิสัยรักความรื่นเริง พวกเขาจัดงานเฉลิมฉลองตามฤดูกาลการเก็บเกี่ยวพืชผลต่าง ๆ และวันครบรอบเหตุการณ์สำคัญทางประวัติศาสตร์ ไม่แน่ว่า สักวันอาจจะมีงานเทศกาลเพื่อรำลึกถึงคนต่างแดนที่ขับไล่ Stormterror ก็เป็นได้...?",
+        "vi": "Vé thưởng nhận được trong sự kiện Lễ Hội Hoa Gió, có thể dùng để đổi thưởng.\\nBản chất người Mondstadt là lạc quan. Vào vụ mùa thu hoạch các loại cây trồng khác nhau và các sự kiện lịch sử đáng nhớ trong quá khứ đều có các lễ kỷ niệm tương ứng. Biết đâu một ngày nào đó, khi người ngoại bang giải quyết xong sự kiện “Tai Họa Rồng”, họ cũng sẽ có một lễ hội tương ứng thì sao ...?"
+    },
+    "materialType": false
+}

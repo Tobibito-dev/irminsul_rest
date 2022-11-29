@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Hill Dwellers",
+        "de": "Errungenschaft – Bergbewohner",
+        "chs": "成就·山民",
+        "cht": "成就·山民",
+        "es": "Logro - Habitantes de las colinas",
+        "fr": "Succès - Brutaux des collines",
+        "id": "Achievement: Penghuni Bukit",
+        "jp": "アチーブメント·山民",
+        "kr": "업적·산 부족",
+        "pt": "Conquista - Habitantes das Colinas",
+        "ru": "Горный житель",
+        "th": "ความสำเร็จ - ชาวเขา",
+        "vi": "Thành tựu - Sơn dân"
+    },
+    "id": 210030,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe hilichurls were dubbed the \"hill devils.\" But a certain young girl named Musk insists on calling them the \"hill dwellers.\"",
+        "de": "Ein Motiv für Namenskärtchen.\\nHilichurle wurden häufig als Scheusale der Berge bezeichnet. Eine junge Frau mit dem Namen Musk besteht jedoch darauf, sie als Bewohner der Berge zu bezeichnen.",
+        "chs": "名片纹饰。\\n其实一开始丘丘人会被命名为「山丘的鬼怪」。但是有某个马斯克小女孩坚持称他们为山丘的子民。",
+        "cht": "名片紋飾。\\n其實一開始丘丘人會被命名為「山丘的鬼怪」。但是有某個馬斯克小女孩堅持稱他們為山丘的子民。",
+        "es": "Diseño de tarjeta de presentación.\\nEn un principio, a los Hilichurls se los llamaba “demonios de las colinas”, pero cierta joven de apellido Musk insistió en llamarlos “habitantes de las colinas”.",
+        "fr": "Thème.\\nLes Brutocollinus étaient à l'origine appelés « gobelins des collines ». Une certaine jeune fille appelée Ella s'obstinait-elle à leur donner le nom de « citoyens des collines ».",
+        "id": "Style kartu nama.\\nPara Hilichurl itu dijuluki \"setan bukit\". Tapi seorang gadis muda bernama Musk bersikeras menyebut mereka \"penghuni bukit\".",
+        "jp": "名刺の飾り紋。\\n丘々人（ヒルチャール）は元々「丘の妖怪」と呼ばれていた。しかし、あるマスク一族の女の子が、彼らは丘の民と頑なに主張している。",
+        "kr": "명함 스킨.\\n사실 츄츄족은 「산등성이 요괴」라고 이름 지어졌지만 엘라·머스크는 그들을 산등성이 부족이라 우긴다",
+        "pt": "Estilo de Cartão de Visita.\\nNo início foram nomeados por Hilichurls de \"Demônios da Colina\". Mas uma certa jovem chamada Musk insistia em chamá-los de \"Moradores da Colina\".",
+        "ru": "Именная карта.\\nХиличурлов прозвали «горными демонами», но одна девочка по фамилии Маск упорно зовёт их «горными жителями».",
+        "th": "ลายนามบัตร\\nความจริงในตอนเริ่มนั้น Hilichurl ถูกเรียกว่า \"อสูรแห่งเนินเขา\" แต่มีเด็กสาวคนหนึ่งชื่อว่า Musk ยืนกรานที่จะเรียกพวกมันว่า \"ชาวเขา\"",
+        "vi": "Hoa văn danh thiếp.\\nThật ra ban đầu Hilichurl bị gọi là \"bóng ma trên đồi\". Nhưng có một đứa trẻ tên Musk nhất quyết gọi họ là dân đồi núi."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

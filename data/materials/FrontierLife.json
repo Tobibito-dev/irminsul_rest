@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Frontier Life",
+        "de": "Grenzlandleben",
+        "chs": "远驻前哨的生活",
+        "cht": "遠駐前哨的生活",
+        "es": "Vida en la frontera",
+        "fr": "« Vie au poste-frontière »",
+        "id": "Kehidupan di Perbatasan",
+        "jp": "前哨地での生活",
+        "kr": "전초 생활",
+        "pt": "Vida na Fronteira",
+        "ru": "Жизнь на границе",
+        "th": "ชีวิตที่ด่านหน้า",
+        "vi": "Cuộc Sống Nơi Đài Canh Gác"
+    },
+    "id": 350002,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up \"Frontier Life.\"\\nThe previous Grand Master of the Knights of Favonius once suggested that knight companies attending to duties in the wild should attempt to set up as secure a dwelling as possible to guard against any sudden attacks. The Pocket-Sized Pine Cabin proved to be the best choice in that regard.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Grenzlandleben“.\\nDer frühere Großmeister der Ritter des Ordo Favonius schlug einst vor, dass Ritterkompanien, die in der Wildnis unterwegs sind, versuchen sollten, eine möglichst sichere Behausung zu errichten, um sich vor plötzlichen Angriffen zu schützen. Die kompakte Kiefernhütte erwies sich in dieser Hinsicht als die beste Wahl.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「远驻前哨的生活」的放置方法。\\n西风骑士团的前任团长曾建议，人数较少的队伍在野外执行任务时，应尽量建立牢固的住所，以防遭遇突然袭击。「袖珍松木小屋」便是绝佳的选择。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「遠駐前哨的生活」的放置方法。\\n西風騎士團的前任團長曾建議，人數較少的隊伍在野外執行任務時，應盡量建立牢固的住所，以防遭遇突然襲擊。「袖珍松木小屋」便是絕佳的選擇。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar Vida en la frontera.\\nEl anterior Gran Maestro de los Caballeros de Favonius dijo una vez que los equipos con pocos integrantes que estuvieran de misión en la naturaleza deberían erigir un refugio lo más resistente posible para guarecerse de ataques por sorpresa. La Cabaña pequeña de pino resultó ser la mejor elección.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place de la « Vie au poste-frontière ».\\nL'ancien Grand Maître des chevaliers de l'Ordre de Favonius suggéra un jour que les compagnies de chevaliers en déplacement établissent des camps aussi solides que possible pour se prémunir contre les attaques soudaines. La cabane en pin miniature s'est avérée être le meilleur choix à cet égard.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Kehidupan di Perbatasan\".\\nGrand Master Knights of Favonius sebelumnya menyarankan bahwa semua Knight yang bertugas di alam liat harus membangun tempat berkemah yang aman untuk menghalau serangan dadakan. Sepertinya \"Kabin Pinus Berukuran Kecil\" adalah pilihan yang paling tepat untuk itu.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「前哨地での生活」の詳しい配置方法が載っている設計図。\\n野外で任務を執行する少人数の部隊は、奇襲攻撃に備えるため、しっかりとした拠点を作るようにと西風騎士団の前団長が提言したことがある。「小さな松の小屋」はベストチョイスだ。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「전초 생활」의 설치 방법이 기재되어 있다.\\n페보니우스 기사단의 전 단장은 소수의 팀이 현장에서 임무를 수행할 때 갑작스러운 공격을 막기 위해 강력한 대피소를 구축해야 한다고 제안했다. 「아담한 소나무 오두막」은 훌륭한 선택이다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar a \"Vida na Fronteira\".\\nO Grande Mestre anterior dos Cavaleiros de Favonius sugeriu uma vez que as equipes de pequeno número de cavaleiros que atendem aos deveres na natureza deveriam tentar estabelecer uma moradia a mais segura possível para se protegerem contra qualquer ataque repentino. A Cabana Pequena de Pinheiro provou ser a melhor escolha a esse respeito.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Жизнь на границе».\\nПредыдущий магистр Ордо Фавониус однажды предложил, чтобы несущие службу в дикой природе рыцарские отряды постарались установить как можно более безопасное жилище для защиты от любых внезапных атак. Маленькая сосновая хижина оказалась лучшим выбором.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"ชีวิตที่ด่านหน้า\"\\nอดีตผู้บัญชาการกองอัศวินแห่ง Favonius เคยแนะนำว่า เมื่อเคยแนะนำว่าเมื่อสมาชิกที่มีคนจำนวนน้อยปฏิบัติภารกิจในป่า พวกเขาควรพยายามอย่างเต็มที่เพื่อสร้างที่อยู่อาศัยที่แข็งแกร่ง เพื่อป้องกันการโจมตีอย่างกะทันหัน และบ้านไม้สนหลังเล็กก็ถือเป็นตัวเลือกที่ดี\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Cuộc Sống Nơi Đài Canh Gác\".\\nĐội trưởng tiền nhiệm của Đội Kỵ Sĩ Tây Phong đã từng đề nghị, khi đội ít người thực hiện nhiệm vụ ở ngoại thành, phải xây dựng nơi đóng quân kiên cố, để tránh bị tập kích. \"Nhà Nhỏ Gỗ Thông Bỏ Túi\" chính là sự lựa chọn tốt nhất.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

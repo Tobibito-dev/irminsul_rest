@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fossilized Bone Shard",
+        "de": "Versteinertes Knochenstück",
+        "chs": "石化的骨片",
+        "cht": "石化的骨片",
+        "es": "Fragmento de hueso fosilizado",
+        "fr": "Fragment d'os fossilisé",
+        "id": "Fossilized Bone Shard",
+        "jp": "石化した骨片",
+        "kr": "석화한 뼛조각",
+        "pt": "Fragmento de osso fossilizado",
+        "ru": "Окаменевшие останки",
+        "th": "Fossilized Bone Remains",
+        "vi": "Mảnh Xương Hóa Thạch"
+    },
+    "id": 112043,
+    "materialDesc": {
+        "en": "A fossilized bone fragment sometimes found after defeating Geovishaps.\\nGeovishaps all dream of growing into great dragons one day. They see these fossils as dragon bones and greatly cherish them, perhaps because they too hope to attain the dragons' longevity and power.",
+        "de": "Ein versteinertes Knochenstück, das man manchmal besiegten Drachenechsen abnehmen kann.\\nDrachenechsen träumen davon, eines Tages zu richtigen Drachen zu werden. Da sie diese versteinerten Stücke für Drachenknochen halten, verehren sie sie abgöttisch, womöglich in der Hoffnung auf die Langlebigkeit und Stärke der Drachen.",
+        "chs": "击败龙蜥后有时能找到的石化骨片。\\n龙蜥都梦想着成长为真正的龙。会把古老的化石认作是龙之骨而加以珍惜，或许是因为希冀着龙的永恒与强大吧。",
+        "cht": "擊敗龍蜥後有時能找到的石化骨片。\\n龍蜥都夢想著成長為真正的龍。會把古老的化石認作是龍之骨而加以珍惜，或許是因為希冀著龍的永恆與強大吧。",
+        "es": "Un fragmento de hueso fosilizado que a veces se encuentra después de derrotar a un Dragarto. Todos los Dragartos sueñan con convertirse en grandes dragones. Adoran estos fósiles porque creen que pertenecieron a un dragón, o tal vez porque desean alcanzar la longevidad y el poder de los dragones.",
+        "fr": "Fragment d'os obtenu parfois après avoir vaincu des Élémentosaures.\\nTous les Élémentosaures rêvent de devenir un jour dragon, et vénèrent avec passion ce type de fossile ; peut-être pensent-ils bénéficier ainsi de la longévité et de la puissance des vrais dragons.",
+        "id": "Sebuah fosil tulang yang terkadang ditemukan setelah mengalahkan Geovishap.\\nSemua Geovishap bermimpi untuk menjadi naga suatu hari nanti. Mereka melihat fosil ini sebagai tulang naga dan menganggapnya berharga, mungkin karena mereka berharap bisa mendapatkan kekuatan dan keabadian seekor naga.",
+        "jp": "ヴィシャップを倒すと、たまに見つける石化した骨片。\\nヴィシャップは、いつか本当の龍になれるとずっと夢見ている。古い化石を龍の骨と思い込んでいるのは、龍の永久不滅の命と強大な力を憧れているのだろう。",
+        "kr": "용 도마뱀을 처치했을 때 가끔 볼 수 있는 석화한 뼛조각.\\n용 도마뱀들은 언젠가 진정한 용이 되길 꿈꾼다. 오래된 화석을 용의 뼈로 착각하고 소중히 여기기도 한다. 용의 영원함과 강함을 바라기 때문일 수도 있다",
+        "pt": "Um fragmento de osso fossilizado encontrado após derrotar Dragartos.\\nTodos os Dragartos sonham em se tornar um formidável dragão algum dia. Eles veem esses fósseis como ossos de dragões e os valorizam muito, talvez porque eles esperam receber a longevidade e poder de um dragão.",
+        "ru": "Окаменевший фрагмент кости, который иногда можно найти после победы над геовишапом.\\nГеовишапы мечтают когда-нибудь стать великими драконами. Они бережно хранят эти костяные осколки, возможно, потому что они надеются получить силу и долголетие настоящих драконов.",
+        "th": "บางครั้งอาจจะได้รับเศษฟอสซิลกระดูก เมื่อเอาชนะ Geovishap ได้\\nGeovishap นั้นล้วนแต่เฝ้าฝันถึงวันที่จะเติบโตเป็นมังกรอย่างแท้จริง พวกมันมองว่าเศษฟอสซิลกระดูกเหล่านี้นั้น เป็นของมังกรและหวงแหนมันมาก ๆ บางทีคงจะเป็นเพราะปรารถนาในความเป็นนิรันดร์และแข็งแกร่งของมังกรล่ะนะ",
+        "vi": "Mảnh xương hóa thạch của rồng đất bị đánh bại.\\nRồng đất luôn mong muốn lớn lên thành rồng đích thực, vì thế xem hóa thạch cổ xưa là xương rồng, vô cùng trân quý, có thể cũng vì khao khát sự vĩnh hằng và lớn mạnh của rồng chăng."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Long Table With Tablecloth",
+        "de": "Langer Tisch mit Tischtuch",
+        "chs": "菱形桌布的长桌",
+        "cht": "菱形桌布的長桌",
+        "es": "Mesa larga con mantel en forma de rombo",
+        "fr": "Table longue avec nappe",
+        "id": "Meja Panjang dengan Taplak Meja",
+        "jp": "ひし形卓布の長テーブル",
+        "kr": "마름모 테이블 보 탁자",
+        "pt": "Mesa Longa com Toalha de Mesa",
+        "ru": "Длинный стол со скатертью",
+        "th": "โต๊ะยาวพร้อมผ้าปูโต๊ะทรงสี่เหลี่ยม",
+        "vi": "Bàn Dài Với Khăn Hình Thoi"
+    },
+    "id": 381306,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Long Table With Tablecloth.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Langer Tisch mit Tischtuch“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「菱形桌布的长桌」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「菱形桌布的長桌」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Mesa larga con mantel en forma de rombo.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la table longue avec nappe.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Meja Panjang dengan Taplak Meja\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「ひし形卓布の長テーブル」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「마름모 테이블 보 탁자」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Mesa Longa com Toalha de Mesa\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Длинный стол со скатертью».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โต๊ะยาวพร้อมผ้าปูโต๊ะทรงสี่เหลี่ยม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Dài Với Khăn Hình Thoi\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

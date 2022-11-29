@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lost Energy Block",
+        "de": "Zurückgelassener Energieblock",
+        "chs": "遗落的能量块",
+        "cht": "遺落的能量塊",
+        "es": "Fragmento de energía extraviado",
+        "fr": "Bloc d'énergie perdu",
+        "id": "Blok Energi yang Hilang",
+        "jp": "失われたエネルギーブロック",
+        "kr": "잃어버린 에너지 덩어리",
+        "pt": "Bloco de Energia Perdido",
+        "ru": "Потерянный энергетический куб",
+        "th": "บล็อกพลังงานที่สาบสูญ",
+        "vi": "Khối Năng Lượng Thất Lạc"
+    },
+    "id": 120008,
+    "materialDesc": {
+        "en": "Blocks refined from pure energy. You can seemingly use it to activate the recording devices of some ancient constructs.",
+        "de": "Ein Block, der aus reiner komprimierter Energie geschaffen wurde. Es scheint, als könne er den Aufzeichnungsapparat irgendeines uralten Ruinenkonstrukts aktivieren.",
+        "chs": "由纯粹能量凝练而成的能量块，似乎可以用来启动某些古代遗迹构装体的记录装置。",
+        "cht": "由純粹能量凝練而成的能量塊，似乎可以用來啟動某些古代遺蹟構裝體的記錄裝置。",
+        "es": "Un fragmento de energía condensado a partir de energía pura. Parece utilizarse para activar los dispositivos de grabación de ciertas reliquias antiguas.",
+        "fr": "De l'énergie pure condensée en blocs. Vous pouvez les utiliser pour activer les dispositifs d'enregistrement de certaines structures antiques.",
+        "id": "Balok energi yang terkondensasi dari energi murni. Tampaknya bisa dipakai untuk mengaktifkan alat perekam dari sejenis struktur reruntuhan kuno.",
+        "jp": "純粋なエネルギーが凝縮したブロック。一部の古代遺跡に残された構造体の記録装置を起動できそうだ。",
+        "kr": "순수한 에너지로 응축된 에너지 덩어리. 일부 고대 유적 구조체의 기록 장치를 가동하는 데 사용할 수 있을 것 같다",
+        "pt": "Blocos refinados de energia pura. Aparentemente podem ser utilizados para ativar os dispositivos de gravação em algumas relíquias antigas.",
+        "ru": "Куб, состоящий из концентрированной чистой энергии. Кажется, с его помощью можно активировать записывающие устройства некоторых древних конструкций.",
+        "th": "บล็อกพลังงานที่เกิดจากการควบแน่นของพลังงานบริสุทธิ์ ดูเหมือนจะสามารถใช้ในการเปิดใช้งานอุปกรณ์บันทึกของโบราณวัตถุบางชิ้นได้",
+        "vi": "Khối năng lượng được hình thành bởi năng lượng thuần khiết ngưng tụ, hình như có thể dùng để khởi động bộ phận ghi nhận của thiết bị di tích cổ đại nào đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

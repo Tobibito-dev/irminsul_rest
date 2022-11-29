@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fragile Wooden Plank",
+        "de": "Zerbrechliches Brett",
+        "chs": "脆弱的木板",
+        "cht": "脆弱的木板",
+        "es": "Tabla de madera fina",
+        "fr": "Planche en bois fragile",
+        "id": "Papan Kayu Rapuh",
+        "jp": "壊れやすい木の板",
+        "kr": "약한 나무판",
+        "pt": "Tábua de Madeira Frágil",
+        "ru": "Слабая доска",
+        "th": "Fragile Wooden Plank",
+        "vi": "Ván Gỗ Giòn Yếu"
+    },
+    "id": 100307,
+    "materialDesc": {
+        "en": "A fragile wooden plank that is easily breakable. It doesn't serve much of a purpose aside from pretending that you're strong.",
+        "de": "Ein höchst zerbrechliches Brett. Es fühlt sich an, als könnte es jeden Moment auseinanderfallen, weshalb es wohl auch zu nichts zu gebrauchen ist. Du kannst höchstens damit so tun, als wärst du unglaublich stark.",
+        "chs": "十分脆弱的木板，感觉可以轻松掰断，除了假装自己力气很大之外，没有太多用处。",
+        "cht": "十分脆弱的木板，感覺可以輕鬆扳斷，除了假裝自己力氣很大之外，沒有太多用處。",
+        "es": "Una tabla de madera muy frágil que se rompe fácilmente. No sirve de mucho, aparte de fingir que eres fuerte.",
+        "fr": "Une planche en bois fragile, facilement cassable. Ne sert pas à grand-chose si ce n'est faire croire qu'on est plus fort ne l'est vraiment.",
+        "id": "Papan kayu yang rapuh. Tidak begitu berguna selain terlihat kuat.",
+        "jp": "軽くて壊れやすい木の板。力を見せつけることに使えそうだが、それ以外は特に使い道はないようだ。",
+        "kr": "매우 약한 나무판. 쉽게 부서질 것 같다. 힘센 척 자랑할 때 빼곤 전혀 쓸모없다",
+        "pt": "Uma tábua de madeira facilmente quebrável. Não serve para muita coisa além de fingir que você é forte.",
+        "ru": "Слабая деревянная доска, которую легко можно сломать. С помощью неё получится только хвастаться тем, какой вы воображаемо сильный.",
+        "th": "แผ่นกระดานที่ผุและใกล้ที่จะพัง สามารถพังมันได้ง่ายๆ นอกจากจะนำมาแอ๊คท่าให้ดูแข็งแรงแล้ว ไม่ค่อยจะมีประโยชน์เท่าไหร่",
+        "vi": "Ván gỗ rất yếu, cảm giác có thể dễ dàng bẻ gãy, ngoài việc giả vờ rằng bản thân rất mạnh mẽ ra, thì không có tác dụng nhiều."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

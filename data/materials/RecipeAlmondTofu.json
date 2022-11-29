@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Almond Tofu",
+        "de": "Rezept: Mandeltofu",
+        "chs": "食谱：杏仁豆腐",
+        "cht": "食譜：杏仁豆腐",
+        "es": "Receta: Tofu de almendras",
+        "fr": "Recette : Tofu aux amandes",
+        "id": "Resep: Almond Tofu",
+        "jp": "レシピ：杏仁豆腐",
+        "kr": "레시피: 행인두부",
+        "pt": "Receita: Tofu de Amêndoas",
+        "ru": "Рецепт: Миндальный тофу",
+        "th": "สูตรอาหาร: Almond Tofu",
+        "vi": "Công thức: Đậu Hũ Hạnh Nhân"
+    },
+    "id": 109408,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Almond Tofu.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Mandeltofu“.",
+        "chs": "步骤详实的食谱，记载着「杏仁豆腐」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「杏仁豆腐」的製作方法。",
+        "es": "Receta paso a paso para hacer un tofu de almendras.",
+        "fr": "Étapes de préparation du tofu aux amandes.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Almond Tofu.",
+        "jp": "「杏仁豆腐」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「행인두부」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo para fazer um Tofu de Amêndoas.",
+        "ru": "Подробный рецепт приготовления блюда «Миндальный тофу».",
+        "th": "สูตรอธิบายวิธีทำ \"Almond Tofu\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Đậu Hũ Hạnh Nhân\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

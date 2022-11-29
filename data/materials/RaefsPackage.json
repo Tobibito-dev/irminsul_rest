@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Raef's Package",
+        "de": "Raefs Paket",
+        "chs": "里夫的包裹",
+        "cht": "里夫的包裹",
+        "es": "Paquete de Raef",
+        "fr": "Colis de Raef",
+        "id": "Tas Raef",
+        "jp": "レイフの荷物",
+        "kr": "리프의 상자",
+        "pt": "Pacote de Raef",
+        "ru": "Тюк Раефа",
+        "th": "พัสดุของ Raef",
+        "vi": "Túi Của Raef"
+    },
+    "id": 120065,
+    "materialDesc": {
+        "en": "This package contains a pot, flower seeds, fertilizer, and many other gardening supplies. It is very heavy indeed. It will be quite difficult to carry it across the desert...",
+        "de": "Ein Paket, in dem sich Blumentöpfe, Blumen, Dünger und viele weitere Gärtnereiutensilien befinden. Es ist sehr schwer, wenn man mit ihm in den Händen die Wüste durchqueren wollte, wäre das keine leichte Aufgabe ...",
+        "chs": "装有花盆，花种，肥料和许多园艺用品的包裹。拿起来十分沉重，想扛着它跨越沙漠，想必不是一件容易的事…",
+        "cht": "裝有花盆、花種、肥料和許多園藝用品的包裹。拿起來十分沉重，想扛著它跨越沙漠，想必不是一件容易的事…",
+        "es": "Un paquete que contiene macetas, semillas, fertilizantes y muchos otros artículos de jardinería. Es muy pesado. No es fácil llevarlo a través del desierto...",
+        "fr": "Un paquet contenant un pot de fleur, des graines, de l'engrais et plusieurs objets de jardinage. Il est extrêmement lourd, le transporter à travers le désert ne doit pas être facile...",
+        "id": "Tas ini berisi pot, bibit bunga, pupuk, dan banyak perlengkapan berkebun lainnya. Bobotnya memang sangat berat. Pasti cukup sulit untuk membawanya melintasi padang pasir ....",
+        "jp": "植木鉢と花の種、肥料や諸々の園芸用品が入った荷物。とても重いので、これを持って砂漠を越えるのは簡単ではなさそうだ…",
+        "kr": "화분과 꽃씨, 비료와 많은 원예용품이 들어있는 상자. 묵직해서 이를 메고 사막을 건너기는 결코 쉽지 않을 것 같다…",
+        "pt": "Esse saco contém jarros, sementes de flores, fertilizantes e outros suprimentos de jardinagem. É muito pesado, e deve ter sido muito difícil de trazê-lo pelo deserto...",
+        "ru": "В этом тюке горшки, семена цветов, удобрения и многие другие принадлежности для садоводства. Он очень тяжёл. Наверное, было очень трудно нести его через пустыню...",
+        "th": "กล่องพัสดุที่ด้านในมีกระถางดอกไม้, เมล็ดพันธุ์, ปุ๋ย และอุปกรณ์ทำสวนอีกมากมาย น้ำหนักของมันไม่ธรรมดา หากคิดจะแบกมันข้ามทะเลทรายละก็ คงไม่ใช่เรื่องง่ายดายอย่างแน่นอน...",
+        "vi": "Chiếc túi chứa chậu hoa, hạt giống, phân bón và nhiều dụng cụ làm vườn. Chiếc túi rất nặng, muốn mang nó đi qua sa mạc chắc không phải chuyện dễ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

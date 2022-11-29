@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Well-Packaged Gebratenes Fleisch mit Sauerkraut",
+        "de": "Fertig verpacktes „gebratenes Fleisch mit Sauerkraut“",
+        "chs": "包装好的「酱菜煎肉」",
+        "cht": "包裝好的「醬菜煎肉」",
+        "es": "Carne con verdura encurtida para llevar",
+        "fr": "Choucroute à la viande bien emballée",
+        "id": "Gebratenes Fleisch mit Sauerkraut yang Terbungkus Rapi",
+        "jp": "梱包された「漬け野菜肉炒め」",
+        "kr": "포장된 「야채절임 바비큐」",
+        "pt": "Chucrute com Carne Frita Bem Embalado",
+        "ru": "Упакованное мясо с маринованными овощами",
+        "th": "Gebratenes Fleisch mit Sauerkraut ที่ห่อเสร็จแล้ว",
+        "vi": "\"Thịt Rang Dưa Muối\" Đóng Gói"
+    },
+    "id": 100817,
+    "materialDesc": {
+        "en": "A serving of Gebratenes Fleisch mit Sauerkraut that has already been packed. A curious smell wafts from within.\\nYou've heard that this is a hidden menu item that only long-time patrons know of and that the hoi polloi cannot appreciate its flavor — fair enough, you think...",
+        "de": "Eine bereits fertig verpackte Portion „gebratenes Fleisch mit Sauerkraut“, welche ihren Duft durch die Verpackung hindurch verströmt.\\nMan sagt, nur alte Stammgäste können dieses Gericht bestellen. Daher haben neuere Kunden leider nicht die Gelegenheit, in den Genuss davon zu kommen ...",
+        "chs": "经打包完成的「酱菜煎肉」，从包裹里飘出一种奇妙的味道。\\n听说这是只有老食客才会点的隐藏菜品，所以普通人欣赏不来它的滋味，也是可以理解的吧…",
+        "cht": "經打包完成的「醬菜煎肉」，從包裹裡飄出一種奇妙的味道。\\n聽說這是只有老食客才會點的隱藏菜品，所以普通人欣賞不來它的滋味，也是可以理解的吧…",
+        "es": "Un plato de carne con verdura encurtida que ya se ha empaquetado. Del recipiente emana un olor raro.\\nOíste que este plato no está en el menú y solo lo piden los clientes de toda la vida, ya que la gente común no sabe apreciarlo. Con ese olor, no te extraña...",
+        "fr": "Une portion de choucroute à la viande déjà emballée. Les effluves qui s'échappent de l'emballage ont une odeur bizarre.\\nVous avez entendu dire qu'il s'agissait d'une recette réservée aux habitués de longue date, qui ne saurait plaire au tout-venant... Soit, vous vous dites...",
+        "id": "Seporsi Gebratenes Fleisch mit Sauerkraut yang sudah dikemas. Terdapat bau aneh yang tercium dari dalamnya.\\nKamu pernah mendengar bahwa ini adalah menu rahasia yang hanya diketahui oleh pelanggan lama, jadi tidak heran jika orang biasa tidak bisa menghargainya...",
+        "jp": "梱包された「漬け野菜肉炒め」、いい香りが漂ってくる。\\n常連客しか注文しない隠された一品だと言われている。一般の人がその味を理解できないのも無理はない…",
+        "kr": "포장된 「야채절임 바비큐」는 포장에서부터 묘한 냄새를 풍긴다.\\n나이 든 손님만 찾는 히든 메뉴라고 하니, 일반인들이 그 맛을 못 즐기는 것도 이해가 간다…",
+        "pt": "Uma porção de Chucrute com Carne Frita que já foi embalada. Um cheiro curioso vem de dentro.\\nVocê já ouviu dizer que este é um item escondido do menu que só os clientes de longa data conhecem, e que a ralé não saberia apreciar seu sabor - é justo, você acha...",
+        "ru": "Упакованное мясо с маринованными овощами. От него исходит дивный аромат.\\nГоворят, что это секретное блюдо, которое могут заказать лишь постоянные клиенты, и простым смертным им не насладиться, что вполне можно понять...",
+        "th": "\"Gebratenes Fleisch mit Sauerkraut\" ที่ห่อเสร็จแล้ว กลิ่นแปลกประหลาดลอยออกมาจากห่อ \\nได้ยินมาว่านี่เป็นเมนูลับที่มีแต่ลูกค้าเก่าเท่านั้นที่สั่งได้ จึงพอเข้าใจได้ถ้าคนธรรมดาทั่วไปจะสัมผัสไม่ถึงรสชาติของมัน...",
+        "vi": "Món \"Thịt Rang Dưa Muối\" đã được đóng gói, từ bên trong tỏa ra hương thơm kỳ diệu.\\nNghe nói đây là món ăn bí mật mà chỉ có khách quen mới biết gọi, thế nên những vị khách thông thường không được nếm cũng là điều dễ hiểu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

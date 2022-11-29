@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dissection Records",
+        "de": "Anatomie-Aufzeichnung",
+        "chs": "解剖记录",
+        "cht": "解剖紀錄",
+        "es": "Registro de autopsia",
+        "fr": "Registre de dissection",
+        "id": "Catatan Pembedahan",
+        "jp": "解剖記録",
+        "kr": "해부 기록",
+        "pt": "Registros de Dissecção",
+        "ru": "Отчёт о вскрытии",
+        "th": "บันทึกการชันสูตร",
+        "vi": "Hồ Sơ Giải Phẫu"
+    },
+    "id": 120041,
+    "materialDesc": {
+        "en": "Dissection Records",
+        "de": "Anatomie-Aufzeichnung",
+        "chs": "解剖记录",
+        "cht": "解剖紀錄",
+        "es": "Un registro de autopsia.",
+        "fr": "Registre de dissection",
+        "id": "Catatan Pembedahan",
+        "jp": "解剖記録",
+        "kr": "해부 기록",
+        "pt": "Registros de Dissecção",
+        "ru": "Отчёт о вскрытии",
+        "th": "บันทึกการชันสูตร",
+        "vi": "Hồ Sơ Giải Phẫu"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,74 @@
+{
+    "name": {
+        "en": "Tea Break Pancake",
+        "de": "Landeierkuchen",
+        "chs": "庄园烤松饼",
+        "cht": "莊園烤鬆餅",
+        "es": "Panqueques",
+        "fr": "Pancakes",
+        "id": "Tea Break Pancake",
+        "jp": "午後のパンケーキ",
+        "kr": "장원 팬케익",
+        "pt": "Panqueca do Chá da Tarde",
+        "ru": "Блинчики к чаю",
+        "th": "Tea Break Pancake",
+        "vi": "Bánh Xốp"
+    },
+    "id": 2005,
+    "foodType": "COOK_FOOD_HEAL",
+    "cookMethod": "COOK_METHOD_BAKE",
+    "rankLevel": 2,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 10,
+    "inputVec": [
+        {
+            "id": 100051,
+            "count": 3
+        },
+        {
+            "id": 110001,
+            "count": 2
+        },
+        {
+            "id": 100062,
+            "count": 1
+        },
+        {},
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108022,
+            "count": 1
+        },
+        {
+            "id": 108023,
+            "count": 1
+        },
+        {
+            "id": 108024,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.4,0.35",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Revives the selected character. Restores <color=#3399CCFF>250–550</color> HP.",
+        "de": "Belebt die gewählte Figur wieder. Stellt <color=#3399CCFF>250 bis 550</color> LP wieder her.",
+        "chs": "复苏选中的角色。 为其恢复<color=#3399CCFF>250-550</color>点生命值。",
+        "cht": "復甦選中的角色。 為其恢復<color=#3399CCFF>250-550</color>點生命值。",
+        "es": "Revive al personaje seleccionado. Restaura <color=#3399CCFF>250-550</color> pts. de Vida.",
+        "fr": "Réanime le personnage sélectionné. Restaure <color=#3399CCFF>250 à 550</color> PV.",
+        "id": "Menghidupkan kembali Karakter yang dipilih. Memulihkan<color=#3399CCFF> 250–550</color> HP.",
+        "jp": "選択したキャラを復活させる。 さらにHPを<color=#3399CCFF>250~550</color>回復する。",
+        "kr": "선택한 캐릭터를 부활시킨다 HP를 <color=#3399CCFF>250-550</color>pt 회복",
+        "pt": "Revive o Personagem selecionado. Restaura <color=#3399CCFF>250 - 550</color> de Vida.",
+        "ru": "Воскрешает выбранного персонажа. Восстанавливает <color=#3399CCFF>250-550</color> HP.",
+        "th": "ฟื้นชีวิตให้แก่ตัวละครที่เลือก ฟื้นฟูพลังชีวิต <color=#3399CCFF>250-550</color> หน่วย",
+        "vi": "Hồi sinh cho nhân vật được chọn. Hồi <color=#3399CCFF>250-550</color> điểm HP."
+    }
+}

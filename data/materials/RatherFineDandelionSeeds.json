@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rather Fine Dandelion Seeds",
+        "de": "Recht hochwertiger Löwenzahn",
+        "chs": "品质不错的蒲公英籽",
+        "cht": "品質不錯的蒲公英籽",
+        "es": "Semilla de diente de león de buena calidad",
+        "fr": "Graines de pissenlit de bonne qualité",
+        "id": "Dandelion Berkualitas Baik",
+        "jp": "質の高い蒲公英の種",
+        "kr": "품질 좋은 민들레 씨앗",
+        "pt": "Sementes de Dandelion de Boa Qualidade",
+        "ru": "Неплохие семена одуванчика",
+        "th": "Dandelion Seed คุณภาพดี",
+        "vi": "Hạt Bồ Công Anh Chất Lượng Tốt"
+    },
+    "id": 100779,
+    "materialDesc": {
+        "en": "Seeds of a Dandelion plucked from Starsnatch Cliff. Said to be of rather fine quality.",
+        "de": "Ein Löwenzahn, gepflückt nahe der Sterngreifklippe. Er soll von recht hoher Qualität sein.",
+        "chs": "在摘星崖附近采到的蒲公英籽，据说品质不错。",
+        "cht": "在摘星崖附近採到的蒲公英籽，據說品質不錯。",
+        "es": "Semilla de diente de león recogida en las cercanías del Acantilado Estrellado. Parece de muy buena calidad.",
+        "fr": "Des graines de pissenlit récoltée près de la Falaise Arrachétoile. De bonne qualité, paraît-il.",
+        "id": "Sekuntum Dandelion yang dipetik di sekitar Starsnatch Cliff. Orang bilang Dandelion ini memiliki kualitas yang cukup bagus.",
+        "jp": "星拾いの崖で採れた蒲公英の種、品質が高いらしい。",
+        "kr": "별을 따는 절벽 근처에서 채집한 민들레 씨앗, 품질이 꽤 좋다고 한다",
+        "pt": "Uma Dandelion colhida dos arredores do Penhasco das Estrelas. Parece ser de uma ótima qualidade.",
+        "ru": "Семена одуванчика, собранные на утёсе Звездолова. Говорят, они неплохого качества.",
+        "th": "Dandelion Seed ที่เก็บมาจาก Starsnatch Cliff ว่ากันว่าคุณภาพไม่เลวเลยทีเดียว",
+        "vi": "Hạt Bồ Công Anh được hái ở Vực Hái Sao, nghe nói chất lượng rất tốt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

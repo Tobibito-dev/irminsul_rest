@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teachings of Prosperity",
+        "de": "Lehren des „Wohlstands“",
+        "chs": "「繁荣」的教导",
+        "cht": "「繁榮」的教導",
+        "es": "Enseñanzas de la prosperidad",
+        "fr": "Enseignement de la Prospérité",
+        "id": "Teachings of \"Prosperity\"",
+        "jp": "「繁栄」の教え",
+        "kr": "「번영」의 가르침",
+        "pt": "Ensinamentos de Prosperidade",
+        "ru": "Учения о «Процветании»",
+        "th": "Teachings of Prosperity",
+        "vi": "Bài Giảng Của \"Phồn Vinh\""
+    },
+    "id": 104310,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nProsperity is the people's pursuit in the land of Geo.\\nProsperity is the blessing of Liyue, it is the foundation of the great city built by the gods and the people of Liyue, and it is the source of the peace and safety of the land.",
+        "de": "Material zum Verbessern von Talenten.\\nWohlstand ist das Ziel des Reiches des Gesteins.\\nDer Wohlstand ist Liyues Gnade. Er ist die wundervolle Stadt Liyue, errichtet von Göttern und Menschen gemeinsam. Er ist die Quelle der Sicherheit und des Friedens des Landes.",
+        "chs": "天赋培养素材。\\n岩之国土的追求是繁荣。\\n繁荣是璃月的恩惠，是璃月的神与人共同建立的伟大城市，是璃月的大地安全和平的源泉。",
+        "cht": "天賦培養素材。\\n岩之國土的追求是繁榮。\\n繁榮是璃月的恩惠，是璃月的神與人共同建立的偉大城市，是璃月的大地安全和平的源泉。",
+        "es": "Material de mejora de talento.\\nLa prosperidad es la mayor ambición del Reino de Piedra.\\nEs la bendición de Liyue, una ciudad construida por los dioses y el pueblo, así como la fuente de la paz y la seguridad en toda la región.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nLe Pays de la Roche aspire à la prospérité.\\nElle assure la paix et la sécurité de Liyue, cité bâtie conjointement par les dieux et par les hommes.",
+        "id": "Material Penguatan Talenta.\\nKemakmuran adalah hal yang dikejar tanah bumi.\\nKemakmuran adalah berkah dari Liyue, kota megah yang dibangun oleh Dewa-Dewa dan rakyat Liyue, sumber perdamaian dan keamanan.",
+        "jp": "天賦育成素材。\\n岩の国が追い求めるものは繁栄である。\\n繁栄は璃月の恵みであり、璃月の神と人間が共に作った偉大なる都市、そして璃月の大地の安全と平和を守る源である。",
+        "kr": "특성 육성 소재.\\n바위의 나라는 번영을 추구한다.\\n번영은 리월의 은혜이자, 리월의 신과 사람들이 함께 건설한 위대한 도시이며, 리월의 안전과 평화의 원천이다",
+        "pt": "Material de elevação de Talento.\\nProsperidade é a busca da Terra.\\nA Prosperidade é a bênção de Liyue, é a grande cidade construída pelos deuses e pelo povo de Liyue, é a fonte da paz e segurança do continente.",
+        "ru": "Материал повышения таланта.\\nПроцветание - это стремление царства земли.\\nПроцветание - это благословение Ли Юэ, великого города, основанного богами и людьми, это источник мира на земле.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nความเจริญรุ่งเรืองคือสิ่งที่ประเทศ แห่งหินคอยตามหา\\nความเจริญรุ่งเรืองคือสิ่งที่เมืองต่าง ๆ โปรดปราน Liyue คือเมืองอันยิ่งใหญ่ที่ถูกร่วมสร้าง โดยเทพเจ้าและเหล่าชาวเมือง Liyue คือแหล่งกำเนิดของความปลอดภัย และสงบสุขของเมืองอันยิ่งใหญ่",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nĐất nước của nham thạch theo đuổi sự phồn hoa.\\nPhồn hoa là ân huệ của Liyue, là thành phố vĩ đại được Thần và người dân Liyue cùng xây dựng, là cội nguồn của hòa bình và sự an toàn trên mảnh đất Liyue."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

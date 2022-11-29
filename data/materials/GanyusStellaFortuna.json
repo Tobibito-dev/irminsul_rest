@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ganyu's Stella Fortuna",
+        "de": "Stella Fortuna von Ganyu",
+        "chs": "甘雨的命星",
+        "cht": "甘雨的命星",
+        "es": "Stella Fortuna de Ganyu",
+        "fr": "Stella Fortuna de Ganyu",
+        "id": "Ganyu's Stella Fortuna",
+        "jp": "甘雨の星屑",
+        "kr": "감우의 운명의 별",
+        "pt": "Stella Fortuna de Ganyu",
+        "ru": "Удача Гань Юй",
+        "th": "ดวงดาวแห่งชีวิตของ Ganyu",
+        "vi": "Chòm Sao Của Ganyu"
+    },
+    "id": 1137,
+    "materialDesc": {
+        "en": "Ganyu's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Ganyus Sternbild",
+        "chs": "甘雨的命之座激活素材",
+        "cht": "甘雨的命之座啟用素材。",
+        "es": "Material de activación de constelación de Ganyu",
+        "fr": "Matériau d'activation de la constellation de Ganyu.",
+        "id": "Material aktivasi untuk konstelasi Ganyu",
+        "jp": "甘雨の命ノ星座アンロック用素材",
+        "kr": "감우의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Ganyu",
+        "ru": "Материал для активации созвездия Гань Юй.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Ganyu",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Ganyu"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

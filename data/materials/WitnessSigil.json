@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Witness Sigil",
+        "de": "Bezwingersiegel",
+        "chs": "降魔印",
+        "cht": "降魔印",
+        "es": "Sello del Testigo",
+        "fr": "Sceau du Dompteur de démons",
+        "id": "Simbol Kesaksian",
+        "jp": "降魔印",
+        "kr": "항마인",
+        "pt": "Selo de Testemunha",
+        "ru": "Печать завоевателя зла",
+        "th": "ผนึกปราบอสูร",
+        "vi": "Ấn Hàng Ma"
+    },
+    "id": 100427,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

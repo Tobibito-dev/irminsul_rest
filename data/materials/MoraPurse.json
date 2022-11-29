@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mora Purse",
+        "de": "Mora-Beutel",
+        "chs": "摩拉钱袋",
+        "cht": "摩拉錢袋",
+        "es": "Bolsa de Mora",
+        "fr": "Bourse de moras",
+        "id": "Dompet Mora",
+        "jp": "モラ袋",
+        "kr": "모라 주머니",
+        "pt": "Bolsa de Mora",
+        "ru": "Кошелёк с морой",
+        "th": "ถุงใส่ Mora",
+        "vi": "Túi Tiền Mora"
+    },
+    "id": 101697,
+    "materialDesc": {
+        "en": "You were asked by Xu from Feiyun Commerce Guild to deliver this to Huishan Hall's representative Muning, who is at The Chasm. It contains a rather sizable sum of Mora.",
+        "de": "Du hast es von Xu von der Händlergilde Feiyun bekommen und musst es jetzt zu Muning bringen, dem Vertreter der Huishan-Kammer in der Großen Kluft. Es wiegt viel, daher bist du sicher, dass es voller Mora ist.",
+        "chs": "受飞云商会的阿旭所托，需要交付给辉山厅驻层岩巨渊专员沐宁。沉甸甸的，里面应当有不少摩拉。",
+        "cht": "受飛雲商會的阿旭所託，需要交付給輝山廳駐層岩巨淵專員沐寧。沉甸甸的，裡面應當有不少摩拉。",
+        "es": "Te la entregó Xu del Gremio de Comerciantes de Feiyun y ahora tienes que llevársela a Muning, miembro del Gremio de Comerciantes de Feiyun ubicado en el Salón Huishan. Pesa mucho, seguro que está llena de Mora.",
+        "fr": "Xu, de la Guilde des marchands de Feiyun, vous a demandé de remettre ceci au représentant spécial du Hall Huishan, Muning, qui se trouve au Gouffre. Elle contient une somme assez importante de moras.",
+        "id": "Kamu diminta oleh Xu dari Feiyun Commerce Guild untuk mengirimkan benda ini ke Muning — perwakilan Huishan Hall yang berada di Chasm. Di dalamnya berisi sejumlah Mora yang cukup banyak.",
+        "jp": "飛雲商会の阿旭に頼まれた通り、層岩巨淵で駐留する輝山庁の沐寧に届けなければならない。かなり重いので、きっとモラがいっぱい入っているのだろう。",
+        "kr": "비운 상회 욱이의 부탁을 받고, 휘산청 소속의 층암거연 상주 담당자 목영에게 전해줄 모라 주머니. 묵직한 걸 보니 모라가 적잖게 들어 있는 듯하다",
+        "pt": "Xu, da Guilda de Comerciantes de Feiyun, pediu para você entregar essa carta para Muning, o representante do Salão Huishan no Despenhadeiro. Ela contém uma quantia considerável de Mora.",
+        "ru": "Сюй из торговой гильдии «Фэйюнь» поручил вам доставить его Му Нину, специальному представителю зала Хуэйшань, который сейчас работает в Разломе. В этом увесистом кошельке немало моры.",
+        "th": "ได้รับคำขอจาก Xu แห่งสมาคมการค้า Feiyun ให้นำไปส่งมอบให้กับ Muning เจ้าหน้าที่ใน Chasm ที่ประจำการอยู่ที่ Huishan Hall ถุงนี้ดูหนักใช่ย่อย ข้างในจะต้องมี Mora อยู่ไม่น้อยแน่ ๆ เลยล่ะ",
+        "vi": "Nhận lời của Xu ở Thương Hội Phi Vân, cần giao cho chuyên viên Muning của Huy Sơn Đình đang trú đóng ở Vực Đá Sâu. Túi tiền nặng trĩu, chắc là đựng trong đó không ít Mora."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

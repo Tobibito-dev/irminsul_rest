@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Dodoco Tales",
+        "de": "Dodoco-Geschichten",
+        "chs": "嘟嘟可故事集",
+        "cht": "嘟嘟可故事集",
+        "es": "Cuentos de Dodoco",
+        "fr": "Contes de Dodoco",
+        "id": "Dodoco Tales",
+        "jp": "ドドコの物語",
+        "kr": "도도코 이야기집",
+        "pt": "Contos de Dodoco",
+        "ru": "Истории Додоко",
+        "th": "Dodoco Tales",
+        "vi": "Tuyển tập các câu chuyện về Dodoco"
+    },
+    "id": 14413,
+    "type": "WEAPON_CATALYST",
+    "rankLevel": 4,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 41.067100524902344
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 0.11999999731779099
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0770000219345093,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1540000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2300000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.305999994277954,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3819999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4570000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5329999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6069999933242798,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6820000410079956,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8309999704360962,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9049999713897705,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9789999723434448,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.052000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.125999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1989998817443848,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2720000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.3450000286102295,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4170000553131104,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.634000062942505,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7070000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7780001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8499999046325684,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.921999931335449,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.993000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.065000057220459,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.135999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2070000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2780001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3489999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4200000762939453,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.561000108718872,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.631999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7019999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7720000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8420000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9130001068115234,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9830000400543213,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.052999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.122000217437744,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.191999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.26200008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.331999778747559,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.401000022888184,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.4710001945495605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.539999961853027,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.609000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.678999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.748000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.816999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.886000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.954999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.02400016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.1620001792907715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.230999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.300000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.368000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.436999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.50600004196167,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.573999881744385,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.64300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.710999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.78000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.8480000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.915999889373779,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.985000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.052999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.120999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.189000129699707,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.256999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.326000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.394000053405762,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.461999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.53000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.5980000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.664999961853027,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.732999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.801000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.86899995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.936999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.072000026702881,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.139999866485596,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.208000183105469,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.275000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.3429999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.410999774932861,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.478000164031982,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.61299991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.681000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.748000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.815999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.882999897003174,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.949999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 14413,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114005,
+                    "count": 3
+                },
+                {
+                    "id": 112020,
+                    "count": 3
+                },
+                {
+                    "id": 112005,
+                    "count": 2
+                }
+            ],
+            "coinCost": 5000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 25.899999618530273
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 3
+                },
+                {
+                    "id": 112020,
+                    "count": 12
+                },
+                {
+                    "id": 112005,
+                    "count": 8
+                }
+            ],
+            "coinCost": 15000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 51.900001525878906
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 6
+                },
+                {
+                    "id": 112021,
+                    "count": 6
+                },
+                {
+                    "id": 112006,
+                    "count": 6
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 77.80000305175781
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 3
+                },
+                {
+                    "id": 112021,
+                    "count": 12
+                },
+                {
+                    "id": 112006,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 103.69999694824219
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 6
+                },
+                {
+                    "id": 112022,
+                    "count": 9
+                },
+                {
+                    "id": 112007,
+                    "count": 6
+                }
+            ],
+            "coinCost": 35000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 129.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 14413,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114008,
+                    "count": 4
+                },
+                {
+                    "id": 112022,
+                    "count": 18
+                },
+                {
+                    "id": 112007,
+                    "count": 12
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A children's book filled with childish short stories at which one cannot help but laugh.\\nEven those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+        "de": "Ein Kinderbuch mit vielen lustigen Kurzgeschichten.\\nDie unschuldigen, kindlichen Abenteuer, die in den Geschichten geschildert werden, reißen selbst die längst erwachsenen Leser beim Lesen mit.",
+        "chs": "一本封面华丽的童书，内容皆是童言无忌的短小故事，读之令人忍俊不禁。\\n即使业已成年的读者，读到书中天真无邪的冒险故事，也会忍不住神往吧。",
+        "cht": "一本封面華麗的童書，內容皆是童言無忌的短小故事，讀之令人忍俊不禁。\\n即使業已成年的讀者，讀到書中天真無邪的冒險故事，也會忍不住神往吧。",
+        "es": "Un libro infantil con una bella portada. Todo su contenido son relatos cortos infantiles que harán reír a cualquier lector.\\nNi los adultos podrán evitar sentirse fascinados al leer sus inocentes historias de aventuras.",
+        "fr": "Un livre pour enfants rempli d'histoires enfantines qui font sourire petits et grands.\\nMême les lecteurs passés depuis longtemps à l'âge adulte ne peuvent s'empêcher d'être absorbés par les petites aventures innocentes et naïves qui y sont dépeintes.",
+        "id": "Buku anak-anak yang penuh dengan cerita pendek anak-anak yang bisa membuat pembacanya tertawa.\\nMereka yang sudah dewasa sekalipun akan terpukau dengan kepolosan, kesucian petualangan kecil yang tergambarkan di dalamnya.",
+        "jp": "豪華な表紙の児童書、子供向けの短いストーリーで構成されている。読むと心がリラックスできるものばかり。\\nその無邪気な冒険物語を読めば、たとえ大人でも夢中になるだろう。",
+        "kr": "겉표지가 화려한 동화책. 내용은 모두 어린아이들의 이야기로 독자들을 행복하게 해 준다.\\n또 어른이라도 이 책의 순진무구한 모험담을 읽으면 어느새 집중하고 있는 자신을 발견할 거다",
+        "pt": "Um livro infantil com uma bela capa. Seu conteúdo é pequenas estórias infantis inofensivas, e quem as ler não poderá evitar rir.\\nMesmo que seu leitor já seja um adulto, ao ler tais aventuras inocentes, também acabará fascinado por elas.",
+        "ru": "Книга, состоящая из увлекательных детских историй, которые невольно вызывают улыбку на лице.\\nДаже взрослые читатели не могут не погрузиться с головой в рассказанные здесь невинные и наивные маленькие приключения.",
+        "th": "หนังสือสำหรับเด็กที่มีหน้าปกสวยงาม เนื้อหาเป็นเรื่องสั้นที่เกี่ยวกับเด็ก ๆ ทั้งหมด มันน่าอ่านจนอดใจไม่ไหว\\nแม้แต่นักอ่านที่เป็นผู้ใหญ่พอได้อ่านเรื่องราวผจญภัยแบบเด็ก ๆ แบบนี้แล้ว ก็อดไม่ได้ที่จะหลงใหลไปกับมัน",
+        "vi": "Một cuốn sách thiếu nhi với trang bìa lộng lẫy, nội dung toàn là truyện ngắn với ngôn từ trẻ con, sẽ khiến người đọc không kìm được cảm xúc.\\n Ngay cả những độc giả trưởng thành khi đọc những câu chuyện phiêu lưu hồn nhiên và ngây thơ trong cuốn sách cũng không thể không bị cuốn hút."
+    },
+    "flavor": {
+        "en": "\nLegend has it that there is a group of islands somewhere far away in the middle of a foggy sea, and this place is called the Golden Apple Archipelago.\nThey say that the cute and peace-loving Dodo Clan lives together on the many islands, and they have no troubles with the rest of the world.\nThe Dodo Clan are kind and playful creatures, and they love to tease each other and play with each other, and none of them ever get bored or sad.\n\"Dodoco!\" they all call each other, and that means \"the best of friends!\"\n\nBut just as dandelion seeds will one day leave the embrace of their stalk and go with the wind, every Dodoco will one day ride the wind and the waves, and travel to the wider world on an adventure, searching for a four-leaf clover.\nWhy must they do this?\nIt's because, having lived for a long time on the Golden Apple Archipelago, the Dodocos can no longer recognize each other. They're all \"Dodocos,\" and they all look the same, after all! So there's no \"you\" or \"me\" for them at all!\nBut only the red, blazing four-leaf clover can let them know the true meaning of \"Dodoco\" and tell each other apart, thus allowing them to play freely with all their friends!\n...At least, that's what my mom says, and she can do just about aaaanything!\nSo, in order to understand what makes a true \"Dodoco,\" they leave their good friends and go to faraway places to make new good friends and become their \"Dodoco,\" too!\nThey'll see all kinds of nice things, hear all kinds of interesting stuff, meet lots of friends... and one day, when their friends are looking at them, at a time when no one expects it — that's when the blazing, sparkling four-leaf clover will appear!\n\nAnd that's why when a furry Dodoco from the Golden Apple Archipelago tumbles into the sea or leaps into the wind before drifting far, far away, that means that a lucky child is about to meet their bestest friend ever!\nThis small, precious book was given by the freest mother in the world to the luckiest daughter in the world. It chronicles the countless adventures that Dodoco had before meeting her, and the adventures that she and Dodoco have had since — bigger and better adventures filled with sparks, splashes, treasures, and lots of friends!\n",
+        "de": "\nDie Legende besagt, dass es irgendwo weit weg inmitten eines nebligen Meeres eine Inselgruppe gibt, und dieser Ort wird der Goldapfelarchipel genannt.\nMan sagt, dass der friedliebende, niedliche Dodo-Klan auf den vielen Inseln zusammenlebt und keine Probleme mit dem Rest der Welt hat.\nDer Dodo-Klan besteht aus freundlichen und verspielten Kreaturen und sie lieben es, sich gegenseitig zu necken und miteinander zu spielen, und keiner von ihnen langweilt sich jemals oder wird traurig.\n„Dodoco!“ nennen sie sich alle und das bedeutet „beste Freunde“.\n\nAber so wie die Pusteblume eines Tages die Umarmung ihres Stängels verlässt und mit dem Wind schwebt, wird jeder Dodoco eines Tages den Wind und die Wellen reiten und auf der Suche nach einem vierblättrigen Kleeblatt in die weite Welt hinausziehen.\nWarum müssen sie das tun?\nDas liegt daran, dass sich die Dodocos nach ihrem langen Leben auf dem Goldapfelarchipel nicht mehr wiedererkennen können. Sie sind alle „Dodocos“ und sehen doch alle gleich aus! Es gibt also kein „Du“ oder „Ich“ für sie!\nAber nur das rote, leuchtende vierblättrige Kleeblatt kann ihnen die wahre Bedeutung von „Dodoco“ verraten und sie voneinander unterscheiden, sodass sie frei mit all ihren Freunden spielen können!\nZumindest sagt das meine Mutter und die kann so gut wie alles!\nUm also zu verstehen, was einen wahren „Dodoco“ ausmacht, verlassen sie ihre guten Freunde und gehen an weit entfernte Orte, um neue gute Freunde zu finden und auch deren „Dodoco“ zu werden!\nSie werden alle möglichen schönen Dinge sehen, alle möglichen interessanten Dinge hören, viele Freunde treffen ... und eines Tages, wenn ihre Freunde sie ansehen, zu einem Zeitpunkt, an dem niemand damit rechnet, dann wird das strahlende, funkelnde vierblättrige Kleeblatt erscheinen!\n\nUnd deshalb bedeutet es, wenn ein pelziger Dodoco vom Goldapfelarchipel ins Meer rollt oder in den Wind springt, bevor er weit, weit weg treibt, dass ein glückliches Kind im Begriff ist, seinen besten Freund überhaupt zu treffen!\nDieses kleine, kostbare Buch wurde von der freiesten Mutter der Welt an die glücklichste Tochter der Welt verschenkt. Es berichtet von den unzähligen Abenteuern, die Dodoco erlebte, bevor er sie kennenlernte, und von den Abenteuern, die sie und Dodoco seitdem erlebt haben, größere und bessere Abenteuer voller Funken, Schätze und vieler Freunde!\n",
+        "chs": null,
+        "cht": "\n傳說中，有這麼一片遙遠的迷霧之海，海的中央有一座群島，名叫「金蘋果群島」。\n傳說中，平和可愛的嘟嘟一族就在這座群島的諸多島嶼上，共同過著與世無爭的生活。\n嘟嘟一族是善良而頑皮的生物，最喜歡互相捉弄，彼此玩耍，從來也不會有誰會無聊或傷心。\n「嘟嘟可！」他們都這樣互相稱呼，意思就是「最好的朋友！」\n\n就像蒲公英的種子總會離開莖葉的懷抱隨風飄揚，每一個「嘟嘟可」總有一天也會乘著風與海流，去往更廣闊的世界冒險，尋找一株四葉草。\n為什麼要這樣做呢？\n這是因為，在「金蘋果群島」生活久了，嘟嘟可便會認不出彼此——大家全都是一模一樣的「嘟嘟可」了，還怎麼會有「你」與「我」嘛！\n只有火紅的四葉草才能讓他們知道何謂真正的「嘟嘟可」，從而互相分辨你我，自由自在地同夥伴們玩耍。\n——至少，無所不能的媽媽是這樣說的。\n於是，為了理解什麼才是「嘟嘟可」，他們便會離開眼前的好朋友，去往遙遠的地方，結交好朋友，成為他們的「嘟嘟可」，「最好的朋友！」\n一起去看更多的景色，實驗更多有趣的想法，結識更多夥伴…最後，當他們在夥伴的目光中回望自己時，在某個誰也沒法料到的時刻——那株四葉草便隨著閃耀的火花轉轉登場啦！\n\n所以呀，每當有一個毛茸茸的「嘟嘟可」從「金蘋果群島」滾落海中，或者一下子躍入風中，紛紛揚揚地向遠方而去時，便將會有一個幸運的孩子與最好的朋友相聚。\n這本珍貴的小書，由全世界最自由的媽媽送給全世界最幸運的女兒，記錄了嘟嘟可與她相遇之前所經歷的無數冒險；還有與她相識之後所期許的，充滿了火花、寶物與夥伴的，更大的冒險！\n",
+        "es": "\nSegún cuenta la leyenda, existe un lejano lugar del océano donde abunda la bruma, y en mitad de esta se encuentra un conjunto de islas llamado Archipiélago Manzana Dorada.\nSe dice que en este archipiélago habita el pacífico y adorable Clan Dodo, que vive tranquilamente y sin disputas con el resto del mundo.\nLos Dodo son un clan de seres bondadosos y un tanto traviesos. Les encanta hacerse bromas los unos a los otros y juguetear constantemente. Nunca encontrarás a ninguno de ellos aburrido o triste.\n“¡Dodoco!”. Esta palabra, la cual todos ellos utilizan para llamarse entre sí, significa “mejor amigo”.\n\nIgual que unas semillas de dientes de león que, al abandonar el tallo y las hojas, se alejan flotando con la brisa, a todos los Dodocos les llega el día en el que han de partir llevados por el viento y la marea. Van a una aventura en un mundo más grande con el fin de buscar un trébol de cuatro hojas.\n¿Por qué lo hacen?\nPorque, tras vivir durante tanto tiempo en el Archipiélago Manzana Dorada, sus habitantes acaban siendo incapaces de reconocerse los unos a los otros. Todos los Dodocos tienen un aspecto idéntico, por lo que ¿cómo es posible distinguirse a sí mismo de los demás?\nSolo los tréboles de hojas rojas como el fuego pueden hacer que entiendan lo que realmente significa “Dodoco” y que se distingan los unos de los otros para jugar con sus amigos con total libertad.\n“Al menos, eso es lo que dice mi mamá, ¡y ella puede hacer cualquier cosa!”\nPor eso, para comprender qué es exactamente un “Dodoco”, abandonan a sus amigos y van a un lugar muy lejano en el que encontrar otros amigos y convertirse en sus Dodocos, o sea, ¡en sus mejores amigos!\nExploran nuevos paisajes juntos, descubren cosas nuevas e interesantes, hacen más amigos... Y finalmente, cuando se ven a sí mismos en los ojos de sus compañeros, en el momento más inesperado aparecerá ese chispeante y llameante trébol de cuatro hojas.\n\nPor eso, cuando un peludito Dodoco del Archipiélago Manzana Dorada cae al mar o sale flotando con el viento hacia un lugar remoto, un niño tendrá la suerte de haber encontrado un nuevo mejor amigo.\nLa madre más libre del mundo le regaló este pequeño libro tan valioso a la hija más afortunada del mundo. En él, están registradas las innumerables aventuras de Dodoco antes de conocer a la niña, ¡así como las chispeantes, preciadas y grandes aventuras llenas de amigos que esperaba vivir con ella tras conocerse!\n",
+        "fr": "\nLa légende raconte qu'il existe un groupe d'îles situé au plus profond d'une mer recouverte de brume, portant le nom d'« Archipel de la pomme dorée ».\nOn raconte que le paisible Clan Dodo habite plusieurs des îles de l'archipel, vivant en harmonie avec le monde.\nLes créatures du Clan Dodo sont amicales et enjouées, et adorent s'amuser ensemble ou se jouer des tours. Elles ne connaissent ni l'ennui, ni la tristesse.\n« Dodoco ! » : c'est ainsi que les créatures s'appellent les unes les autres, ce qui signifie « meilleures amies ! ».\n\nMais tout comme les pissenlits quittent un jour leur tige pour voler au vent, chaque Dodoco doit un jour partir avec le vent et les vagues et s'aventurer de par le monde à la recherche d'un trèfle à quatre feuilles.\nPourquoi agissent-ils de la sorte ?\nTout simplement parce qu'après avoir occupé l'Archipel de la pomme dorée si longtemps, les Dodocos n'arrivent plus à se distinguer les uns des autres. Ils sont tous « Dodoco », et ils se ressemblent tous, après tout. Aucune distinction n'est faite pour ainsi dire entre « moi » et « toi » !\nSeul le trèfle à quatre feuilles d'un rouge éclatant leur permet de savoir la vraie signification de « Dodoco » et de se différencier les uns des autres, ce qui en retour leur permet de jouer librement avec tous leurs amis.\n– Enfin, c'est ce que ma mère raconte.\nC'est pour ça que pour comprendre ce qui fait un vrai Dodoco, ceux-ci doivent quitter leurs amis et partir en des lieux lointains se faire de nouveaux amis, et devenir leur Dodoco à leur tour !\nLes Dodocos voient ainsi toutes sortes de paysages, entendent toutes sortes de choses intéressantes, et rencontrent plein de nouveaux amis... Et un jour, quand leurs amis les regardent, au moment où tout le monde s'y attend le moins... C'est là que le trèfle à quatre feuilles éclatant apparaît !\n\nEt c'est pour cela que lorsqu'un Dodoco de l'Archipel de la pomme dorée quitte l'endroit par la mer ou les vents pour partir vers quelque destination lointaine, cela signifie qu'un enfant chanceux va bientôt rencontrer son meilleur ami !\nCe précieux livre a été donné par la plus libre des mères à la plus chanceuse des filles au monde. Il décrit les innombrables aventures vécues par Dodoco avant qu'elle ne la rencontre, et les aventures que les deux ont ensuite vécues ensemble – des aventures toujours plus impressionnantes, pleines d'étincelles, de trésors et d'amis !\n",
+        "id": "\nMenurut legenda, kepulauan dengan lautan berkabut ini bernama Golden Apple Archipelago.\nMenurut legenda, Klan Dodo yang lucu menggemaskan menjalani kehidupan yang damai di pulau-pulau dalam kepulauan ini.\nKlan Dodo terdiri dari makhluk-makhluk baik namun nakal. Mereka suka mengusili satu sama lain dan bermain. Tidak ada satu pun dari mereka yang merasa bosan ataupun sedih.\n\"Dodoco!\" — cara mereka memanggil satu sama lain. Artinya adalah \"teman baikku!\"\n\nSeperti Dandelion yang akan meninggalkan batangnya kemudian terbang tertiup angin, setiap Dodoco juga pada saatnya akan pergi mengarungi samudra seiring dengan angin, bertualang menuju dunia yang lebih luas dan mencari sekuntum semanggi berhelai empat.\nKenapa harus begitu?\nKarena Dodoco yang sudah lama tinggal di Golden Apple Archipelago tidak akan bisa mengenali satu sama lain. Mereka memiliki paras dan bentuk yang sama, mereka adalah Dodoco! Di dunia mereka tidak ada \"kamu\" dan \"aku\"!\nHanya semanggi berhelai empat yang bisa membantu mereka memahami apa maksud \"Dodoco\" yang sebenarnya, kemudian mereka akan bisa mengenali satu sama lain dan bebas bermain bersama sesamanya.\n...Pokoknya, kata mama sih gitu, dan mama bisa melakukan segalanya loh!\nDemi memahami maksud \"Dodoco\", mereka pun meninggalkan teman baik mereka di kepulauan dan merantau jauh. Mereka lalu menemukan teman baik dan menjadi \"Dodoco\" mereka, \"teman baik\" mereka!\nMenikmati pemandangan bersama, mewujudkan ide-ide menarik, menemukan lebih banyak teman lagi. Pada akhirnya, saat mereka melihat pantulan bayang dirinya di mata teman, pada momen yang tidak bisa diprediksi sama sekali — sekuntum semanggi berhelai empat pun muncul seiring dengan percikan api yang berkilauan!\n\nJadi, saat Dodoco yang berbulu merantau pergi dari Golden Apple Archipelago, atau melompat ke pusaran angin dan melayang jauh, pasti setelahnya ada seorang anak yang beruntung menemukan teman terbaiknya.\nBuku berharga ini dihadiahkan seorang ibu yang hidup bebas untuk anak perempuannya yang paling beruntung di dunia ini. Buku ini menuliskan tentang petualangan-petualangan yang tak terhitung jumlahnya, saat di mana Dodoco dan anak perempuan itu belum bertemu. Setelah bertemu dengan Dodoco, harapan anak perempuan itu berisi penuh dengan percikan api, harta karun dan petualangan yang lebih seru bersama partner!\n",
+        "jp": "\n伝説によるとね、すごく遠い場所に、霧がかかった海があるんだって。その海の真ん中には群島があって、「金リンゴ群島」と呼ばれてるんだ。\nそれでね、穏やかで可愛いドド一族が、この群島にある島々でほのぼのとした生活を送ってるらしいよ。\nドド一族は優しい性格をしてて、やんちゃなところもあって、イタズラとか遊びが大好きな生き物なんだ。だから、みんな退屈したり、悲しんだりすることはないの。\n「ドドコ！」——お互いにそうやって呼ぶらしいよ。意味は「最高の友達！」なんだって。\n\n空を飛ぶ蒲公英のように、「ドドコ」もいつか風と海流に乗って、もっと広い世界を冒険するんだ。とある四つ葉のクローバーを探すためにね！\nどうしてそうするかって？\n「金リンゴ群島」で長いこと生活してると、ドドコはお互いが誰なのか分からなくなるんだって——だって、みんな見た目が同じ「ドドコ」だから！区別なんてつかないでしょ？\n炎みたいに赤い四つ葉のクローバーにだけ、「ドドコ」が何なのか彼らに分からせることができるんだ。そうすれば、お互いに見分けがついて、自由気ままに仲間たちと遊べるね！\n——少なくとも、なんでもできるママはそう言ってたよ。\nこうして、何が「ドドコ」なのかを理解するために、彼らはそばにいる友達から離れて、遠くに行くことを選ぶんだ。そこで友達を作って、彼らの「ドドコ」、つまり「最高の友達！」になるの！\n一緒にたくさんの景色を眺めて、面白いことをたくさんやって、たくさんの仲間を見つける…そして、自分自身を振り返ったその時こそ——火花と共に輝く四つ葉のクローバーの登場！\n\nだからね、もしモフモフの「ドドコ」が「金リンゴ群島」から海に転がり落ちたり、風に乗って遠くに飛び立ったりすると、これから最高の友達に出会えるってことなの。\nこの貴重な本はね、世界で一番自由なママから世界で一番運のいい娘へのプレゼントなんだ。ここには、ドドコが彼女と出会う前に経験した無数の冒険が描かれてる。それと、彼女と出会った後に経験した火花と宝物と仲間たちに満ちた大いなる冒険も！\n",
+        "kr": "\n전설에 의하면 저 머나먼 안개의 바다 가운데에는 「금사과 제도」라 불리는 섬들이 있다고 한다.\n그곳에는 평화를 사랑하고 귀여운 도도 일족이 소박하게 살고 있다.\n도도 일족은 선량하고 장난기가 많다. 이들은 서로에게 장난치는 것을 가장 좋아하며, 심심해하거나 속상해하는 일이 없다.\n「도도코!」 그들은 서로를 호칭하는 말로 「가장 좋은 친구！」라는 뜻이다.\n\n민들레 씨앗이 잎을 떠나 바람에 날리듯, 모든 「도도코」는 언젠가 바람과 해류를 따라 네잎 클로버를 찾아 더 넓은 세계로 모험을 떠난다.\n이들은 왜 이렇게 하는 걸까?\n「금사과 제도」에 오래 살다 보니 서로를 알아볼 수 없게 되기 때문이다——그들은 전부 똑같은 모습의 「도도코」가 돼서 「나」와 「너」를 구분할 수 없다!\n빨간 네잎 클로버가 있어야만 그들은 진정한 「도도코」를 알아낼 수 있다. 그로써 나와 타인을 분별해내서 자유롭게 서로 장난을 친다.\n——이건 못하는 게 없는 엄마가 해준 이야기이다.\n그래서 「도도코」가 대체 뭔지 알기 위해, 그들은 눈앞의 좋은 친구를 떠나 머나먼 곳으로 떠난다. 새로운 곳에서 새롭게 사귄 친구들의 「도도코」, 「가장 좋은 친구!」가 되는 것이다.\n그들은 새로운 친구들과 더 많은 곳을 구경하고 흥미로운 생각들을 실험해 보며 더 많은 동료를 사귄다…. 그리고 그들은 동료들의 눈에 자신이 비칠 때, 누구도 예상하지 못한 때에——그 네잎 클로버는 번쩍이는 불꽃을 따라 빙글빙글 돌며 등장한다!\n\n그러니까 보송보송한 「도도코」가 「금사과 제도」에서 해류나 바람에 실려 멀리 가면, 운이 좋은 아이는 가장 좋은 친구와 만나게 된다.\n이 진귀한 책은 이 세상에서 가장 자유로운 엄마가 이 세상에서 가장 운이 좋은 딸에게 주는 선물로, 도도코와 그녀가 만나기 전 겪은 수많은 모험이 기록되어 있다. 그뿐만 아니라 그녀와 알게 된 후의 바람들, 불꽃과 보물, 친구들, 스릴 넘치는 모험으로 가득하다!\n",
+        "pt": "\nLendas falam sobre um mar longínquo sob uma densa neblina, e no centro dele há um arquipélago chamado Arquipélago de Maçã Dourada.\nDizem que o Clã Dodo pacífico e fofo vive junto nas muitas ilhas, e não têm problemas com o resto do mundo.\nEles são criaturas bondosas e travessas. Eles gostam de brincar juntos, ninguém fica entediado ou triste.\nEles chamam de \"Dodoco\" uns aos outros, o que significa \"melhor amigo\"!\n\nMas assim como os Dandelions, que um dia deixarão o abraço de seu talo e irão com o vento, cada Dodoco um dia surfará o vento e as ondas, e viajará para o mundo inteiro em uma aventura, em busca de um Trifolium.\nPor que eles fazem isso?\nÉ porque, tendo vivido por muito tempo no Arquipélago de Maçã Dourada, os Dodocos não podem mais se reconhecer uns aos outros. Eles são todos \"Dodocos\", e todos parecem iguais, afinal de contas! Portanto, não há \"você\" ou \"eu\" para eles de forma alguma!\nMas somente o Trifolium vermelho e flamejante pode fazê-los saber o verdadeiro significado de \"Dodoco\" e se distinguir, permitindo-lhes assim brincar livremente com todos os seus amigos!\n- Pelo menos, foi isso que a minha mãe disse, e ela consegue fazer qualqueeeeer coisa!\nEntão para entender o que faz um \"Dodoco\" de verdade, eles se despedem de seus melhores amigos atuais e vão para um lugar mais longe para fazer novos amigos, tornando-se assim o \"Dodoco\" deles também!\nEles verão todo tipo de coisas legais, ouvirão todo tipo de coisas interessantes, conhecerão muitos amigos... E um dia, quando seus amigos estiverem olhando para eles, num momento em que ninguém espera - é quando o Trifolium abrasador e cintilante aparecerá!\n\nE é por isso que quando um Dodoco peludo do Arquipélago de Maçã Dourada rola para o mar ou pula no vento antes de ir para longe, bem longe, isso significa que uma criança sortuda está prestes a conhecer seu melhor amigo de todo sempre!\nEste pequeno e precioso livro foi dado pela mãe mais livre do mundo para a filha mais sortuda do mundo. Ele narra as inúmeras aventuras que Dodoco teve antes de conhecê-la, e as aventuras que ela e Dodoco tiveram desde então - maiores e melhores aventuras cheias de faíscas, respingos, tesouros, e muitos amigos!\n",
+        "ru": "\nЛегенда гласит, что где-то далеко-далеко посреди туманного моря есть группа островов под названием архипелаг Золотого Яблока.\nГоворят, этот архипелаг является домом для очаровательного додоклана, живущего в гармонии с миром.\nПредставители додоклана - добрые и озорные существа. Они любят резвиться и разыгрывать друг друга. Никто из них никогда не скучает и не грустит.\n«Додоко!» - называют они друг друга, что означает «лучший друг».\n\nПодобно семенам одуванчика, которые однажды покидают объятия своего стебля и улетают по ветру, каждый Додоко однажды отправляется в мир приключений на поиски четырёхлистного клевера, уносимый ветром и волнами.\nПочему они это делают?\nПрожив долгое время на архипелаге Золотого Яблока, Додоко перестают узнавать друг друга. Они все Додоко, и они все выглядят одинаково! Для них перестают существовать такие понятия, как «я» или «ты».\nНо только огненно-красный четырёхлистный клевер может позволить им узнать, что на самом деле означает «Додоко», и начать различать друг друга. Тогда они смогут свободно играть со своими друзьями.\nТак говорит моя мама, а она может всё!\nПоэтому, чтобы понять, что такое настоящий «Додоко», они оставляют своих друзей и отправляются в далёкие края, чтобы найти новых друзей и стать их «Додоко».\nИм предстоит увидеть много хорошего, услышать много интересного, встретить много друзей... И однажды, когда их друзья будут смотреть на них, в тот самый момент, когда этого никто не ожидает, появится огненно-красный сверкающий четырёхлистный клевер!\n\nПоэтому, когда пушистый Додоко с архипелага Золотого Яблока катится в море или прыгает в поток ветра и уносится далеко-далеко, это значит, что счастливый ребёнок вот-вот встретит своего самого лучшего друга!\nЭта маленькая драгоценная книга была подарена самой свободной мамой на свете своей самой счастливой дочери на свете. В ней рассказывается о бесчисленных приключениях Додоко до того, как он встретил маленькую девочку, а также об искромётных, бесценных, больших приключениях со множеством друзей, которые он надеялся пережить вместе с ней после их встречи!\n",
+        "th": "\nตามตำนานกล่าวว่ามีทะเลหมอกอยู่ในที่ไกลออกไป กลางทะเลมีหมู่เกาะที่เรียกว่า \"หมู่เกาะ Golden Apple Archipelago\"\nตามตำนานตระกูล Dodo Clan ที่เงียบสงบและน่ารักอาศัยอยู่บนเกาะหลายแห่งของหมู่เกาะนี้และใช้ชีวิตร่วมกันอย่างไม่มีการแย่งชิงต่อสู้กัน\nตระกูล Dodo Clan เป็นสิ่งมีชีวิตที่ใจดีและซุกซน ชอบหยอกล้อเล่นกันเอง ไม่เคยมีใครเบื่อหรือต้องเสียใจ\n\"Dodoco!\" พวกมันต่างก็เรียกกันแบบนี้ ซึ่งมีความหมายว่า \"เพื่อนซี้!\"\n\nเช่นเดียวกับที่วันหนึ่งเมล็ดของดอกแดนดิไลออนจะทิ้งก้านของลำต้นและใบ ปลิวล่องไปตามสายลมอยู่เสมอ \"Dodoco\" ทุกตัวจะโลดแล่นไปตามกระแสลมและกระแสน้ำในมหาสมุทร เพื่อผจญภัยไปในโลกกว้างตามหาใบโคลเวอร์สี่แฉก\nทำไมมันถึงทำอย่างนั้นล่ะ?\nนั่นก็เพราะว่า หลังจากอาศัยอยู่ใน \"หมู่เกาะ Golden Apple Archipelago\" เป็นเวลานาน Dodoco จะไม่รู้จักซึ่งกันและกัน - ทุกคนเป็นต่างเป็น \"Dodoco\" ที่เหมือนกันทั้งหมด แล้วจะมี \"เธอ\" และ \"ฉัน\" ได้ยังไงกัน!\nมีเพียงใบโคลเวอร์สี่แฉกที่มีสีแดงเพลิงเท่านั้นที่ทำให้พวกเขารู้ว่า \"Dodoco\" ที่แท้จริงคืออะไร เมื่อสามารถแยกแยะกันและกันได้แล้ว ก็จะสามารถเล่นหยอกล้อกันได้อย่างเป็นอิสระ\n- อย่างน้อยที่ก็เป็นสิ่งที่แม่ผู้ที่ทำได้ทุกอย่างพูดเอาไว้\nดังนั้นเพื่อให้เข้าใจว่า \"Dodoco\" คืออะไร พวกเขาจะทิ้งเพื่อนที่ดีไว้ตรงหน้า และไปยังสถานที่ห่างไกล เพื่อหาเพื่อนใหม่ และกลายเป็น \"Dodoco\" \"เพื่อนที่ดีที่สุด!\" ของพวกเขา\nได้ไปดูทิวทัศน์มากมายร่วมกัน ทดลองไอเดียที่น่าสนใจ ทำความรู้จักคู่หูให้มากขึ้น... สุดท้าย เมื่อพวกเขามองเห็นตัวเองในสายตาของคู่หู ในช่วงเวลาที่ไม่มีใครสามารถคาดเดาได้ ใบโคลเวอร์สี่แฉกจะปรากฏขึ้นบนมาพร้อมกับประกายไฟที่เปล่งประกาย!\n\nดังนั้นเมื่อ \"Dodoco\" ขนปุกปุยกลิ้งลงทะเลจาก \"หมู่เกาะ Golden Apple Archipelago\" หรือกระโดดลงไปในสายลม และมุ่งหน้ายังสถานที่ไกลออกไป จะมีเด็กที่โชคดีหนึ่งคนได้พบเจอกับเพื่อนที่ดี\nหนังสือเล่มเล็กอันมีค่าเล่มนี้เป็นสิ่งที่แม่ที่เป็นอิสระที่สุดในโลกมอบให้กับลูกสาวที่โชคดีที่สุดในโลก บันทึกการผจญภัยนับไม่ถ้วนที่ Dodoco ได้เผชิญมาก่อนที่จะมาพบกับเธอ และสิ่งที่คาดหวังหลังจากได้พบเธอเต็มไปด้วยประกายไฟ สมบัติและคู่หู รวมถึงการผจญภัยที่ยิ่งใหญ่กว่าอีกด้วยล่ะ!\n",
+        "vi": "\nTrong truyền thuyết có một vùng biển đầy sương mù xa xôi như thế, giữa biển là một quần đảo, có tên là \"Quần Đảo Táo Vàng\".\nTrong thuyền thuyết, tộc Dodo ôn hòa dễ thương sinh sống trên những đảo này, cùng trải qua một cuộc sống không ganh đua với đời.\nTộc Dodo là những sinh vật hiền lành và tinh nghịch, rất thích trêu ghẹo, đùa giỡn với nhau, chưa từng thấy có người nào buồn bã.\n\"Dodoco!\" Họ thường gọi nhau như thế, có nghĩa là \"người bạn tốt nhất!\"\n\nCũng giống như những hạt giống bồ công anh, sẽ đến lúc rời khỏi vòng tay của thân lá, theo ngọn gió bay đi muôn nơi. Mỗi Dodoco một ngày nào đó sẽ cưỡi trên ngọn sóng và gió, phiêu lưu đến thế giới rộng lớn để kiếm tìm cỏ bốn lá.\nVì sao phải làm vậy?\nVì sống ở Quần Đảo Táo Vàng lâu rồi, Dodoco sẽ không còn nhận ra nhau nữa, mọi người đều là \"Dodoco\" như nhau, thì làm sao có \"bạn\" và \"tôi\" nữa!\nChỉ có cỏ bốn lá mới giúp họ biết được thế nào là \"Dodoco\" chân chính, từ đó phân biệt được nhau, tự do vui đùa với đồng bọn.\nÍt nhất thì người mẹ tinh thông mọi thứ đã nói như thế.\nThế là, để hiểu được như thế nào mới là Dodoco, chúng sẽ rời khỏi người bạn tốt hiện giờ, đi đến một nơi thật xa để quen biết thêm nhiều bạn bè, trở thành Dodoco, \"người bạn tốt nhất của họ!\"\nCùng nhau đi ngắm nhiều cảnh đẹp hơn, thử nghiệm những ý tưởng mới thú vị hơn, kết giao với nhiều bạn bè hơn...và cuối cùng, khi họ nhìn lại bản thân trong ánh mắt của người bạn đồng hành, tại khoảnh khắc mà không ai ngờ tới, cỏ bốn lá lấp lánh bỗng xuất hiện trong ánh sáng rực rỡ!\n\nCho nên, khi một Dodoco rời khỏi Quần Đảo Táo Vàng lăn xả vào biển hoặc tung người theo gió, bay về phương xa, sẽ có một đứa trẻ may mắn gặp được một người bạn tốt nhất.\nQuyển sách quý giá này được những người mẹ tự do nhất trên khắp thế giới tặng cho con gái bảo bối may mắn nhất thế giới, viết lại vô số cuộc phiêu lưu mà Dodoco đã trải qua trước khi gặp cô, còn có những kỳ vọng sau khi quen biết, một hành trình phiêu lưu lớn hơn, đầy rực rỡ, báu vật và bạn bè!\n"
+    }
+}

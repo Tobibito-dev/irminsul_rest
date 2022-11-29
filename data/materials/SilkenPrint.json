@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Silken Print",
+        "de": "Seidendruck",
+        "chs": "「绘绮之枕印」",
+        "cht": "「繪綺之枕印」",
+        "es": "Impresión de seda",
+        "fr": "Imprimé de soie",
+        "id": "Silken Print",
+        "jp": "「絵綺の枕印」",
+        "kr": "「회기의 베개 자국」",
+        "pt": "Selo de Seda",
+        "ru": "Шёлковый принт",
+        "th": "\"Silken Print\"",
+        "vi": "\"Dấu Ấn Sắc Màu\""
+    },
+    "id": 222001,
+    "materialDesc": {
+        "en": "A prayer plaque that displays lovely Inazuman scenery, carved upon exquisite Yumemiru Wood in full color.\\nYou can use Sub-Space Creation to imprint this elegant scene upon your Serenitea Pot...",
+        "de": "Eine Gebetstafel mit farbiger Malerei, die die liebliche Landschaft von Inazuman zeigt, geschnitzt auf exquisitem Yumemiru-Holz.\\nDu kannst die Raumschaffung verwenden, um diese elegante Landschaft auf der Tafel in deine Kanne der Vergänglichkeit zu übertragen ...",
+        "chs": "饰有彩画的绘马，由品质上佳的梦见木精雕细刻而成，描绘着明丽的稻妻风光。\\n借由「外景之能」，方可将彩画上的风雅景致呈现在「尘歌壶」之中…",
+        "cht": "飾有彩畫的繪馬，由品質上佳的夢見木精雕細刻而成，描繪著明麗的稻妻風光。\\n借由「外景之能」，方可將彩畫上的風雅景致呈現在「塵歌壺」之中…",
+        "es": "Una placa de oración policromada que muestra el encantador paisaje de Inazuma tallado en una exquisita madera onírica.\\nPuedes utilizar la creación dimensional para crear una impresión de este elegante paisaje en tu Relajatetera.",
+        "fr": "Un ema sur lequel figure un paysage inazumien, gravé sur du bois de rêve d'excellente qualité.\\nVous pourrez modifier le décor de votre Sérénithéière grâce à l'énergie dimensionnelle...",
+        "id": "Sebuah plakat doa dari kayu Yumemiru, diukir dan diwarnai dengan pemandangan Inazuma yang memesona.\\nKamu dapat menggunakan kekuatan Penciptaan Sub-Ruang untuk menampilkan pemandangan indah ini di dalam Serenitea Pot ....",
+        "jp": "絵が描かれてある絵馬。質のいい夢見材で彫られてできたもので、稲妻の壮麗な景色が描いてある。\\n「外景の力」で絵にある風景を「塵歌壺」で再現することができる…",
+        "kr": "화려한 그림이 그려진 소원패. 좋은 품질의 꿈의 나무를 조각하여 만들어졌으며, 아름다운 이나즈마 풍경이 그려져있다.\\n「외경의 능력」을 빌려 그림 속의 풍경을 「속세의 주전자」에 나타낼 수 있다…",
+        "pt": "Uma Placa de Oração com arte colorida exibindo a adorável paisagem de Inazuma esculpida na requintada Madeira Yumemiru.\\nVocê pode usar a criação subespacial para estampar esta elegante cena em seu Bule de Relachá.",
+        "ru": "Молитвенная табличка из дерева юмэмиру с цветным изображением прекрасного пейзажа Инадзумы.\\nВы можете использовать подпространство, чтобы запечатлеть эту элегантную сцену в вашем Чайнике безмятежности...",
+        "th": "แผ่นไม้ขอพรที่ถูกตกแต่งด้วยภาพวาดหลากสีสัน ถูกแกะสลักอย่างประณีตจากไม้ Yumemiru คุณภาพดี แสดงถึงทัศนียภาพอันงดงามของ Inazuma\\n ทัศนียภาพอันงดงามที่ถูกวาดไว้ สามารถประดับใน Serenitea Pot ได้ด้วย \"พลังเนรมิต\"",
+        "vi": "Thẻ cầu nguyện được trang trí bằng tranh, điêu khắc từ Gỗ Mơ Mộng thượng hạng, mô tả phong cảnh tươi đẹp của Inazuma.\\nMượn \"sức mạnh ngoại cảnh\" để đưa cảnh sắc tao nhã trong tranh vào trong Ấm Trần Ca..."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuma: Eagleplume",
+        "de": "Inazuma – Adlerfeder",
+        "chs": "稻妻·鹫羽",
+        "cht": "稻妻·鷲羽",
+        "es": "Inazuma - Pluma de águila",
+        "fr": "Inazuma - Plume d'aigle",
+        "id": "Inazuma: Bulu Elang",
+        "jp": "稲妻·鷲羽",
+        "kr": "이나즈마·독수리의 깃털",
+        "pt": "Inazuma: Pluma de Águia",
+        "ru": "Перо орла",
+        "th": "Inazuma - ขนนกอินทรี",
+        "vi": "Inazuma - Lông Đại Bàng"
+    },
+    "id": 210103,
+    "materialDesc": {
+        "en": "Namecard style.\\nPirka chikappo! Kapatcir kamuy!",
+        "de": "Ein Motiv für Namenskärtchen.\\nPirka chikappo! Kapatcir kamuy!",
+        "chs": "名片纹饰。\\n啊啊，美丽的鸟，如神的鹫鸟啊。",
+        "cht": "名片紋飾。\\n啊啊，美麗的鳥，如神的鷲鳥啊。",
+        "es": "Diseño de tarjeta de presentación.\\n“Pirka chikappo! Kapatcir kamuy!”.",
+        "fr": "Thème.\\nPirka chikappo ! Kapatcir kamuy !",
+        "id": "Style kartu nama.\\nPirka chikappo! Kapatcir kamuy!",
+        "jp": "名刺の飾り紋。\\nピリカ　チカッポ　カパッチリカムイ",
+        "kr": "명함 스킨.\\n아아, 아름다운 새, 신과도 같은 독수리시여",
+        "pt": "Estilo de Cartão de Visita.\\nPirka chikappo! Kapatcir kamuy!",
+        "ru": "Именная карта.\\nО прекрасная птица. О божественный орёл.\\nPirka chikappo! Kapatcir kamuy!",
+        "th": "ลายนามบัตร\\nPirka chikappo! Kapatcir kamuy!",
+        "vi": "Hoa văn danh thiếp.\\nPirka chikappo! Kapatcir kamuy!"
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

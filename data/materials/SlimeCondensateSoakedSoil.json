@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Slime Condensate-Soaked Soil",
+        "de": "Mit Schleimabsonderung vollgesogener Lehm",
+        "chs": "浸有史莱姆凝液的泥土",
+        "cht": "浸有史萊姆凝液的泥土",
+        "es": "Barro impregnado de condensado de Slime",
+        "fr": "Terre gorgée de bave de Blob",
+        "id": "Tanah yang Direndam dengan Slime Condensate",
+        "jp": "スライムの液体を染み込ませた土",
+        "kr": "슬라임 응축액이 스며든 진흙",
+        "pt": "Barro com Condensado de Slime",
+        "ru": "Земля, пропитанная слизью слайма",
+        "th": "ดินที่ชุ่มไปด้วยเมือกของ Slime",
+        "vi": "Đất Thấm Dịch Slime"
+    },
+    "id": 101905,
+    "materialDesc": {
+        "en": "Soil soaked with Slime Condensate. What will Akim use this sticky stuff for?",
+        "de": "Mit Schleimabsonderung vollgesogener Lehm. Ziemlich klebrig, wozu Akim den wohl benutzen möchte?",
+        "chs": "浸有史莱姆凝液的泥土。黏糊糊的，不知道阿金会拿来做什么…",
+        "cht": "浸有史萊姆凝液的泥土。黏糊糊的，不知道阿金會拿來做什麼…",
+        "es": "Barro impregnado de condensado de Slime. Resulta pegajoso al tacto. ¿Para qué lo querrá Akim?",
+        "fr": "De la terre imbibée de bave de blob. À quoi ce truc collant va-t-il servir à Akim ?",
+        "id": "Tanah yang Direndam dengan Slime Condensate. Akim mau pakai benda ini buat apa sih?",
+        "jp": "スライムの液体を染み込ませた土。べたべたしてるけど、アキムはこれを何に使うんだろう…",
+        "kr": "슬라임 응축액이 스며든 진흙. 아킴은 이렇게 끈적끈적한 진흙으로 뭘 하려는 걸까…",
+        "pt": "Barro com Condensado de Slime. É bastante pegajoso, me pergunto por que o Akim quer um desses?",
+        "ru": "Земля, пропитанная слизью слайма. Клейкая и вязкая - интересно, зачем она понадобилась Акиму...",
+        "th": "ดินที่ชุ่มไปด้วยเมือกของ Slime เหนียวเหนอะหนะ ไม่รู้ว่า Akim จะเอามาทำอะไรกันแน่...",
+        "vi": "Đất thấm Dịch Slime. Nhầy nhớt, không biết Akim dùng nó để làm gì..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scroll-Shaped Ward",
+        "de": "Rollenförmiges „Omamori“",
+        "chs": "卷形的「镇物」",
+        "cht": "卷形的「鎮物」",
+        "es": "Amuleto con forma de pergamino",
+        "fr": "Amulette en forme de parchemin",
+        "id": "Jimat Penangkal Berbentuk Gulungan",
+        "jp": "巻物の形をした「鎮め物」",
+        "kr": "말려 있는 「주술 도구」",
+        "pt": "Amuleto em Formato de Pergaminho",
+        "ru": "Оберег в форме свитка",
+        "th": "\"เครื่องราง\" รูปทรงม้วน",
+        "vi": "\"Vật Trấn Giữ\" Cuộn Tròn"
+    },
+    "id": 100771,
+    "materialDesc": {
+        "en": "An ancient and mysterious item shaped like a tightly-sealed scroll. No matter what you do, it won't open at all.\\nAccording to Hanachirusato, these wards are needed to conduct the Sacred Sakura Cleansing Ritual.",
+        "de": "Ein uraltes mysteriöses Objekt in Form einer versiegelten Schriftrolle, die nicht wieder entsiegelt werden kann, egal welche Methode verwendet wird.\\nLaut Hanachirusato wird dieses Omamori verwendet, um die das „Sakura-Reinigungsritual“ durchzuführen.",
+        "chs": "古老的神秘物件，外形是密封的卷轴。无论用什么方法，也无法解开。\\n根据「花散里」的说法，需要利用这种镇物来进行「神樱大祓」。",
+        "cht": "古老的神秘物件，外形是密封的卷軸。無論用什麼方法都無法解開。\\n根據「花散里」的說法，進行「神櫻大祓」需要用到這種鎮物。",
+        "es": "Un objeto antiguo misterioso. Parece un pergamino cerrado. No importa cuántos métodos se utilicen, es imposible abrirlo.\\nSegún Hanachirusato, estos amuletos se utilizan para llevar a cabo las ceremonias de purificación del Cerezo Sagrado.",
+        "fr": "Un ancien objet mystérieux en forme de parchemin scellé. Peu importe ce que vous essayez, il ne s'ouvrira pas.\\nSelon Hanachirusato, ces amulettes sont nécessaires pour le rituel de purification du cerisier sacré.",
+        "id": "Benda kuno misterius yang berbentuk gulungan yang tertutup rapat. Tidak peduli bagaimanapun kamu mencoba, gulungan ini tak dapat dibuka sama sekali.\\nMenurut Hanachirusato, jimat penangkal ini dibutuhkan untuk melakukan Ritual Pemurnian Sacred Sakura.",
+        "jp": "神秘的な古代のアイテム。密封した巻物の形をしている。いかなる方法を使っても開くことはできない。\\n「花散里」によると、「神櫻大祓」の際はこのような鎮め物が必要らしい。",
+        "kr": "고대의 신비한 아이템. 외형은 밀봉된 족자로, 그 어떠한 방법을 사용해도 펼칠 수가 없다\\n「하나치루사토」의 말에 따르면, 이러한 주술 도구로 「신성한 벚나무 대액막이」를 진행해야 된다고 한다",
+        "pt": "Um antigo e misterioso item na forma de um pergaminho selado apertadamente. Não importa o que você faça, nada o abrirá.\\nDe acordo com Hanachirusato, esses amuletos são necessários para conduzir o Ritual Sagrado de Purificação Sakura.",
+        "ru": "Древний и таинственный предмет в форме туго свёрнутого свитка. Что бы вы ни делали, он не разворачивается.\\nПо словам Ханатирусато, этот оберег нужен для ритуала очищения.",
+        "th": "วัตถุลึกลับที่มีความเก่าแก่ มีรูปทรงของม้วนกระดาษที่ถูกปิดผนึก ไม่ว่าจะใช้วิธีใดก็ไม่สามารถแกะออกได้\\nตามคำกล่าวของ Hanachirusato จะต้องใช้เครื่องรางแบบนี้ในการดำเนิน \"พิธีชำระซากุระศักดิ์สิทธิ์\"",
+        "vi": "Vật bí ẩn cổ xưa, mang hình dáng của một cuộn giấy được niêm phong. Cho dù dùng cách gì cũng không thể mở ra.\\nTheo cách nói của \"Hanachirusato\", cần phải dùng vật này để thực hiện \"Tế Lễ Thần Anh Đào\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

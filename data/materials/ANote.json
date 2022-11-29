@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Note",
+        "de": "Ein Zettel",
+        "chs": "一张纸条",
+        "cht": "一張紙條",
+        "es": "Nota",
+        "fr": "Note",
+        "id": "Selembar Catatan",
+        "jp": "一枚の紙切れ",
+        "kr": "쪽지 한 장",
+        "pt": "Uma Nota",
+        "ru": "Записка",
+        "th": "กระดาษแผ่นหนึ่ง",
+        "vi": "Một Mảnh Giấy"
+    },
+    "id": 101866,
+    "materialDesc": {
+        "en": "A wrinkled note with horrendously slanted handwriting.",
+        "de": "Ein geknitterter Zettel voller liederlicher Schrift.",
+        "chs": "写满歪斜笔迹皱巴巴的纸条。",
+        "cht": "寫滿歪斜筆跡皺巴巴的紙條。",
+        "es": "Una nota arrugada escrita con una caligrafía muy torcida.",
+        "fr": "Une note avec une écriture très inclinée...",
+        "id": "Catatan yang tulisannya amburadul.",
+        "jp": "歪んだ筆跡のくしゃくしゃの紙切れ。",
+        "kr": "삐뚤삐뚤한 글씨로 가득 찬 잔뜩 구겨진 쪽지",
+        "pt": "Uma nota amassada com escrita torta.",
+        "ru": "Мятая записка косым почерком",
+        "th": "กระดาษโน้ตยับยู่ยี่ที่เต็มไปด้วยลายมือบิด ๆ เบี้ยว ๆ",
+        "vi": "Mảnh giấy nhăn nheo với nét chữ xiêu vẹo."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

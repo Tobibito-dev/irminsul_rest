@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Saimon Heirloom Blade Diagram",
+        "de": "Schwertbauplan der Familie Saimon",
+        "chs": "柴门家传的名刀图谱",
+        "cht": "柴門家傳的名刀圖譜",
+        "es": "Plano de la espada del clan Saimon",
+        "fr": "Plan : Lame familiale des Saimon",
+        "id": "Saimon Heirloom Blade Diagram",
+        "jp": "柴門家伝来の名刀図譜",
+        "kr": "사이몬가 대대로 내려오는 명검 도감",
+        "pt": "Diagrama de Espadas da Família Saimon",
+        "ru": "Диаграмма фамильного клинка клана Саимон",
+        "th": "แบบแปลนดาบอันโด่งดังของตระกูล Saimon",
+        "vi": "Bản vẽ danh đao gia truyền của nhà Saimon"
+    },
+    "id": 221013,
+    "materialDesc": {
+        "en": "The Saimon Clan possessed this diagram of how to make the Amenoma Kageuchi (Sword). You can use it to master art of making this weapon.",
+        "de": "Ein Schmiedeplan von „Amenoma Kageuchi“, der von den Ahnen der Familie Saimon gezeichnet wurde und von Generation zu Generation weitergegeben wird. Mithilfe dieses Schmiedeplans kann die Herstellung dieses Einhänders gemeistert werden.",
+        "chs": "柴门家描绘的「天目影打刀」的图画。通过它可以掌握这把单手剑的制造方法。",
+        "cht": "柴門家描繪的「天目影打刀」的圖畫。透過它可以掌握這把單手劍的製造方法。",
+        "es": "Un dibujo de la Espada Amenoma Gemela pintado por el clan Saimon. Puedes utilizarlo para fabricar esta espada ligera.",
+        "fr": "Le Clan Saimon possédait ce schéma expliquant comment fabriquer la Lame kageuchi d'Amenoma (Épée). Vous pouvez l'utiliser pour maîtriser l'art de fabriquer cette arme.",
+        "id": "Klan Saimon memiliki diagram tentang cara membuat Amenoma Kageuchi (Sword). Kamu dapat menggunakannya untuk menguasai seni membuat senjata ini.",
+        "jp": "柴門家が描いた「天目影打」の図。使用するとこの片手剣の鍛造方法を習得できる。",
+        "kr": "사이몬 가문이 얘기했던 「아메노마 카게우치가타나」의 도감. 도감을 통해 이 한손검의 제작 방법을 습득할 수 있다",
+        "pt": "O Clã Saimon possuía este diagrama de como fazer a Lâmina Amenoma Kageuta (Espada). Você pode usá-lo para dominar a arte de fazer esta arma.",
+        "ru": "Диаграмма оружия Амэнома Кагэути клана Саимон. Используйте её, чтобы изготовить это одноручное оружие.",
+        "th": "ภาพวิธีการสร้างดาบ \"Amenoma Kageuchi\" โดยละเอียดที่วาดโดยตระกูล Saimon",
+        "vi": "Bản vẽ \"Đoản Đao Amenoma\" do nhà Saimon vẽ. Qua đó có thể nắm vững phương pháp chế tạo của thanh kiếm đơn này."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

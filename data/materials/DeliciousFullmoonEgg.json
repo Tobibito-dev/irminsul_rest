@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Fullmoon Egg",
+        "de": "Leckeres Vollmondei",
+        "chs": "美味的明月蛋",
+        "cht": "美味的明月蛋",
+        "es": "Rollitos de luna llena deliciosos",
+        "fr": "Œufs de pleine lune (délicieux)",
+        "id": "Delicious Fullmoon Egg",
+        "jp": "美味しそうな明月の玉子",
+        "kr": "맛있는 명월 딤섬",
+        "pt": "Ovo de Lua Cheia Delicioso",
+        "ru": "Вкусная полнолунная яичница",
+        "th": "Fullmoon Egg แสนอร่อย",
+        "vi": "Trứng Minh Nguyệt Ngon"
+    },
+    "id": 108181,
+    "materialDesc": {
+        "en": "One of Liyue's traditional snacks. Take a bite while it's hot, and have your tastebuds savor the tender minced meat and delicious juice, an experience which is then topped off with a finishing touch of sweet prawn. Before your eyes, you can almost see a full moon over rippling waters, a fishing boat by the shore, and the fishermen's songs echoing down the years.",
+        "de": "Eine der traditionellen Leckereien aus Liyue. Nimm einen Bissen, solange er noch heiß ist, und verwöhne deine Geschmacksknospen mit dem zarten Hackfleisch und dem köstlichen Saft, der von einem Hauch süßer Garnele gekrönt wird. Du wirst sehen, wie vor deinem geistigen Augen der Vollmond über dem plätschernden Wasser aufgeht und vom Fischerboot am anderen Ufer die Lieder der Fischer erklingen.",
+        "chs": "璃月的传统点心之一。趁热轻咬，弹嫩肉馅伴随着鲜美汁水正中味蕾的软肋，虾肉的回甘更似画龙点睛的一笔。眼前仿佛一轮明月，一汪秋水，渔船泊靠岸边，渔歌唱遍丰年。",
+        "cht": "璃月的傳統點心之一。趁熱輕咬，彈嫩肉餡伴隨著鮮美汁水正中味蕾的軟肋，蝦肉的回甘更似畫龍點睛的一筆。眼前彷彿一輪明月，一汪秋水，漁船泊靠岸邊，漁歌唱遍豐年。",
+        "es": "Un aperitivo tradicional de Liyue. Prueba un bocado cuando aún esté caliente y disfruta del sabor de la tierna y jugosa carne, complementada con la guinda final: un camarón de un dulce regusto. Frente a tus ojos aparecerá una luna llena sobre unas límpidas aguas en cuya orilla flota un bote de pesca, desde el que resonará una bella canción de pescadores.",
+        "fr": "L'une des spécialités de Liyue. Prenez une bouchée tant que c'est chaud et savourez le moelleux de la viande hachée et son délicieux jus. Une expérience couronnée par la douceur de la crevette. Un peu comme si se dévoilait sous vos yeux une pleine lune se reflétant sur les eaux, un bateau de pêche accosté au rivage retirant ses filets au son du chant des marins.",
+        "id": "Salah satu jajanan tradisional Liyue. Cicipilah makanan ini saat masih panas, dan nikmati daging cincang lembut dan jus yang nikmat, sebuah pengalaman mengesankan yang kemudian diakhiri dengan sentuhan akhir udang manis. Kamu seakan bisa melihat bulan purnama di atas riak air, perahu nelayan di tepi pantai, dan nyanyian nelayan yang menggema selama bertahun-tahun.",
+        "jp": "璃月の伝統点心の1つ。熱いうちに一口噛むと、じゅわっと肉汁が溢れ出し、エビの甘味が全体のうまさを一気に引き出す。まるで秋の明月と小池、小舟が岸に泊まり、漁師の歌声が響く、このような美しい風景を思わせる美味しさだ。",
+        "kr": "리월의 전통 간식 중 하나. 따듯할 때 베어 물면 부드러운 고기소와 신선한 육즙이 미뢰를 자극하며, 새우 살의 단맛이 화룡점정을 찍는다. 이는 달 밝은 날 가을철 맑은 물에 어부배가 정박해있고 풍년을 기원하는 뱃노래가 울려 퍼지는 모습이 연상되는 듯하다",
+        "pt": "Um dos petiscos tradicionais de Liyue. Dê uma mordida enquanto está quente, e tenha seu paladar saboreando a tenra carne picada e o seu delicioso suco, uma experiência que é então complementada com um toque final de camarão doce. Diante de seus olhos, você pode ver quase uma lua cheia sobre as águas onduladas, um barco de pesca à beira-mar e as canções dos pescadores ecoando ao longo dos anos.",
+        "ru": "Одно из традиционных лакомств Ли Юэ. Кусайте, пока она горячая, и упругая сочная начинка сведёт ваш язык с ума, а сладкое креветочное послевкусие добьёт его. И будто замерцала перед глазами полноликая луна над осенней водой, и под звуки рыбацкой песни потянулись к берегу усталые лодки.",
+        "th": "หนึ่งในอาหารว่างที่สืบทอดกันมาของ Liyue เมื่อทานตอนร้อน ๆ เนื้อนุ่ม ๆ และน้ำซุปที่อร่อยกลมกลืนไปกับความหวานของเนื้อกุ้งนั้นช่างเข้ากันได้อย่างลงตัว ราวกับเห็นพระจันทร์เต็มดวงอยู่เหนือผืนน้ำ เรือประมงริมฝั่งที่กระเพื่อมไปตามคลื่น และเสียงเพลงของชาวประมงที่ดังก้องอยู่เบื้องหน้า",
+        "vi": "Một trong những món điểm tâm truyền thống của Liyue. Cắn ngay khi còn nóng, phần nhân thịt mềm cùng với nước dùng thơm ngon, hòa nguyện cùng với vị ngọt của thịt tôm tạo ra trải nghiệm tuyệt vời cho vị giác. Nó giống như vầng trăng sáng và một dải nước mùa thu, những chiếc thuyền đánh cá đậu trên bờ, và những câu ca dao hát suốt vụ mùa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

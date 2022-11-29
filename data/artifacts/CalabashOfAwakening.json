@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Calabash of Awakening",
+        "de": "Kalebasse des Erwachens",
+        "chs": "梦醒之瓢",
+        "cht": "夢醒之瓢",
+        "es": "Calabaza del Despertar",
+        "fr": "Calebasse d'éveil",
+        "id": "Calabash of Awakening",
+        "jp": "夢醒の瓢箪",
+        "kr": "꿈에서 깬 조롱박",
+        "pt": "Despertar dos Sonhos",
+        "ru": "Тыква пробуждения",
+        "th": "Calabash of Awakening",
+        "vi": "Hồ Lô Tỉnh Mộng"
+    },
+    "id": 24821,
+    "setId": 15021,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

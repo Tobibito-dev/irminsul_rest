@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Original Resin (Invalidated)",
+        "de": "Ursprüngliches Harz (obsolet)",
+        "chs": "原粹树脂（废弃）",
+        "cht": "原粹樹脂",
+        "es": "Resina original (obsoleto)",
+        "fr": "Résine originelle (jetée)",
+        "id": "Original Essence",
+        "jp": "天然樹脂（廃棄）",
+        "kr": "퓨어 레진(폐기)",
+        "pt": "Essência Original",
+        "ru": "Очищенная смола (выброшено)",
+        "th": "Original Resin (ยกเลิก)",
+        "vi": "Nhựa Nguyên Chất"
+    },
+    "id": 211,
+    "materialDesc": {
+        "en": "A crystal that temporarily revitalizes Irminsul to grant you great treasures. The energy within regenerates over time.",
+        "de": "Ein durchsichtiger, gläserner Gegenstand, der den silbernen Baum für kurze Zeit wiederbelebt. Auf diese Weise erhältst du enorme Schätze. Die Energie wird mit der Zeit wieder aufgeladen.",
+        "chs": "能使银白古树暂时复苏的透彻晶体，可以通过这种方式获得丰厚的宝藏。其中的能量会随时间恢复。",
+        "cht": "能使銀白古樹暫時復甦的透徹晶體，可以透過這種方式獲得豐厚的寶藏。其中的能量會隨時間恢復。",
+        "es": "Puede ser usado para revitalizar temporalmente el Irminsul. Se pueden obtener generosos tesoros a través de él. La Energía se recupera lentamente cada cierto periodo de tiempo.",
+        "fr": "Un cristal pur et transparent qui peut temporairement faire revivre l'ancien arbre argenté. Vous pouvez l'utiliser pour obtenir de riches trésors. Son énergie se restaure avec le temps.",
+        "id": "Kristal yang menghidupkan kembali Irminsul untuk sementara dan memberikanmu harta yang berlimpah. Kekuatan di dalamnya terpulihkan setiap hari.",
+        "jp": "銀白の古樹を一時的に蘇生させられる結晶、使用すると豪華報酬を獲得できる。中のエネルギーは時間経過と共に回復する。",
+        "kr": "은백 고목을 잠시 소생시켜 주는 투명한 결정체. 이런 방식으로 풍부한 보물을 획득할 수 있다. 에너지는 시간이 지나면 회복한다",
+        "pt": "Um cristal que revitaliza uma Árvore de Prata temporariamente para lhe conceder tesouros. A energia dentro dela é regenerada diariamente.",
+        "ru": "Этот кристалл временно вернёт к жизни Ирминсуль, который в ответ щедро наградит вас сокровищами. Энергия кристалла восстанавливается со временем.",
+        "th": "วัตถุที่เป็นแก้วโปร่งแสงที่ทำให้ Silver Tree ฟื้นขึ้นมาชั่วคราว ด้วยวิธีนี้คุณจะได้รับสมบัติมหาศาล โดยพลังงานจะฟื้นฟูเมื่อเวลาผ่านไป",
+        "vi": "Tinh thể trong suốt có thể giúp Cổ Thụ Irminsul tạm thời hồi sinh, dùng cách này để lấy kho báu. Năng lượng trong đó sẽ khôi phục theo thời gian."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

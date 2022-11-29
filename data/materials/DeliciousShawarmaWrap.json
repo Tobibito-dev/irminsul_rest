@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Shawarma Wrap",
+        "de": "Leckere Schawarma-Rolle",
+        "chs": "美味的烤肉卷",
+        "cht": "美味的烤肉卷",
+        "es": "Rollos de shawarma deliciosos",
+        "fr": "Shawarma (délicieux)",
+        "id": "Delicious Shawarma Wrap",
+        "jp": "美味しそうなシャワルマサンド",
+        "kr": "맛있는 샤와르마",
+        "pt": "Rolinho Shawarma Delicioso",
+        "ru": "Вкусная шаурма",
+        "th": "Shawarma Wrap แสนอร่อย",
+        "vi": "Cuốn Shawarma Ngon"
+    },
+    "id": 108396,
+    "materialDesc": {
+        "en": "A wrap filled with roasted meat. On the thin, soft flatbread lies the tender meat covered in a crispy exterior, and the flavor is enriched by spices and balanced by vegetables. A small mouthful is enough to please one's picky taste buds. Eat carefully, now! You don't want to miss out on a single drop of the juice.",
+        "de": "In Fladenbrot gerolltes Grillfleisch. Unter dem dünnen, weichen Fladenbrot liegt das knusprige und zarte Fleisch, dessen Geschmack durch Harra-Würze angereichert und durch erfrischendes Gemüse ausgeglichen wird. Ein kleiner Bissen reicht aus, um die wählerischen Geschmacksnerven zu erfreuen. Iss vorsichtig, denn du willst keinen einzigen Tropfen des Saftes verpassen.",
+        "chs": "以烤肉为馅的卷饼。外焦里嫩的烤肉被香辛料注入了灵魂，水灵的蔬菜带来了清爽的口感，薄而不硬的饼皮包裹着美味，一口下去令人直叹满足，就连不小心溢出的肉汁都舍不得放过。",
+        "cht": "以烤肉為餡的捲餅。外焦裡嫩的烤肉被香辛料注入了靈魂，水嫩的蔬菜帶來了清爽的口感，薄而不硬的餅皮包裹著美味，一口下去令人直嘆滿足，就連不小心溢出的肉汁都捨不得放過。",
+        "es": "Unos rollos de carne a la parrilla. El exterior de la carne asada está marcado por la parrilla e impregnado de sabrosas especias, mientras que por dentro la carne está tierna y jugosa. Las verduras frescas aportan un sabor refrescante y la corteza fina pero no demasiado dura del rollito envuelve la exquisitez de un bocado tan satisfactorio que ni siquiera se puede desperdiciar el derrame accidental de la salsa.",
+        "fr": "De la viande grillée enroulée dans une galette. L'ajout d'épices est ce qui donne toute son âme à la viande rôtie à l'extérieur et tendre à l'intérieur. Les légumes frais ajoutent une saveur rafraîchissante et la galette fine, mais pas trop dure du pain enveloppe ces ingrédients délicieux. Une seule bouchée suffit à provoquer un soupir de satisfaction à ceux qui dégustent ce mets, si bien qu'ils refusent de laisser s'enfuir la moindre goutte de jus de viande qui oserait déborder.",
+        "id": "Roti bungkus yang berisi daging panggang. Di dalam lapisan roti yang lembut terdapat potongan daging yang garing dan empuk. Rasa rempahnya sangat terasa dan dipadukan dengan sayuran segar. Satu gigitan saja sudah cukup untuk memanjakan lidah paling pemilih sekalipun. Hati-hati waktu memakannya ya, jangan sampai satu tetes saus pun terlewatkan.",
+        "jp": "ローストミートをたっぷり入れたシャワルマ。外はこんがり、中は柔らかで、香り高いスパイスが魂に染み渡るローストミート。爽やかな味わいの野菜と薄いながらも硬くない皮が、美味しさを包み込む。口に入れた瞬間大満足、うっかりこぼした肉汁も惜しい！",
+        "kr": "구운 고기가 들어간 샤와르마. 겉은 바싹하고 속은 촉촉한 고기에 향신료로 영혼을 불어넣고 싱싱한 채소로 신선한 맛을 더해준다. 환상적인 맛을 감싸고 있는 얇고 말랑한 전병을 한입 베어 물면 만족감이 입안 한가득 느껴져 실수로 흘러나온 육즙마저 아까울 정도다",
+        "pt": "Rolinhos de carne grelhada. A parte externa da carne assada é grelhada e infundida com especiarias saborosas, enquanto o interior é macio e suculento. Legumes frescos adicionam um sabor refrescante, e a crosta fina, mas não muito dura, da massa, embala a delícia em uma mordida tão satisfatória que nem mesmo uma única gota do molho deveria ser desperdiçada.",
+        "ru": "Жареное мясо, завёрнутое в лепёшку. Под тончайшей лепёшкой скрывается нежное мясо с хрустящей корочкой, искусно приправленное и смешанное с сочными овощами. Это наслаждение не передать словами! Ешьте осторожнее, чтобы не потерять ни капли драгоценного сока.",
+        "th": "แป้งห่อไส้เนื้อย่าง ผิวด้านนอกไหม้เกรียมแต่เนื้อด้านในนุ่มชุ่มฉ่ำ คลุกเคล้ากับเครื่องเทศหอมกรุ่นและผักสดกรุบกรอบช่วยเพิ่มความสดชื่นในรสชาติ แป้งที่บางนุ่มห่อหุ้มความอร่อยกลมกล่อมเอาไว้ภายใน แค่ลองกัดคำเดียวยังต้องเผลออุทานด้วยความฟิน แม้แต่ซอสที่ทะลักออกมายังทำใจปล่อยให้หยดลงพื้นไม่ได้เลยเชียว",
+        "vi": "Một chiếc bánh cuộn nhân thịt nướng. Thịt nướng bên ngoài chín mềm bên trong ngấm đều gia vị, rau củ tươi ngon mang lại cảm giác sảng khoái, lớp vỏ bánh mỏng nhưng không cứng, bọc ngoài rất ngon, cắn một miếng thôi là đã thấy thỏa mãn rồi, dù chỉ là chút nước thịt vô tình chảy ra cũng không nỡ bỏ qua."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

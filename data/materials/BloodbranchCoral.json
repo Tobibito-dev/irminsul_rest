@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bloodbranch Coral",
+        "de": "Blutzweigkoralle",
+        "chs": "血枝珊瑚",
+        "cht": "血枝珊瑚",
+        "es": "Rama de coral sangriento",
+        "fr": "Corail sanglant",
+        "id": "Koral Bercabang Darah",
+        "jp": "血枝珊瑚",
+        "kr": "핏빛 산호",
+        "pt": "Coral Sangrento",
+        "ru": "Кровавый коралл",
+        "th": "Bloodbranch Coral",
+        "vi": "San Hô Máu"
+    },
+    "id": 100939,
+    "materialDesc": {
+        "en": "A coral in which the life force of Watatsumi Omikami dwells. It is a vital part of the Watatsumi Goryou Matsuri.",
+        "de": "Eine Koralle, in der die Lebenskraft von Watatsumi Omikami wohnt. Sie ist ein wichtiger Teil des „Watatsumi Goryou Matsuri“.",
+        "chs": "海祇大御神生命力凝结的珊瑚。是举行「海祇御灵祭」必不可少的道具。",
+        "cht": "海祇大御神生命力凝結的珊瑚。是舉行「海祇御靈祭」必不可少的道具。",
+        "es": "Un coral creado mediante la condensación de la fuerza vital de Omikami de Watatsumi. Es indispensable para llevar a cabo la ceremonia de ofrendas de Watatsumi.",
+        "fr": "Un corail dans lequel réside la force vitale de la Divinité des tréfonds. Il constitue une partie vitale du rituel sacré de Watatsumi.",
+        "id": "Sebuah koral yang di dalamnya terdapat kekuatan hidup dari Watatsumi Omikami. Ini merupakan bagian penting dari Watatsumi Goryou Matsuri.",
+        "jp": "海祇大御神の生命力で凝縮された珊瑚。「海祇御霊祭」を行うために不可欠なもの。",
+        "kr": "와타츠미 신의 생명력이 응집된 산호. 「와타츠미 어령 제사」 진행의 필수 아이템이다",
+        "pt": "Um coral com a força vital de Watatsumi Omikami. É uma parte vital da Cerimônia de Oferendas de Watatsumi.",
+        "ru": "Коралл, в котором сосредоточена жизненная сила Ватацуми Омиками. Это важная часть Ватацуми горё мацури.",
+        "th": "ปะการังที่ควบแน่นด้วยพลังของ Watatsumi Omikami เป็นไอเทมที่ขาดไม่ได้สำหรับการจัดพิธี \"สังเวยจิตวิญญาณของ Watatsumi\"",
+        "vi": "San hô ngưng tụ sinh mệnh của Watatsumi Omikami, là đạo cụ không thể thiếu khi tổ chức Tế Lễ Linh Hồn Watatsumi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

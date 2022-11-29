@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Intertwined Fate",
+        "de": "Verwobenes Schicksal",
+        "chs": "纠缠之缘",
+        "cht": "糾纏之緣",
+        "es": "Destino entrelazado",
+        "fr": "Pierre de la fatalité",
+        "id": "Intertwined Fate",
+        "jp": "紡がれた運命",
+        "kr": "뒤얽힌 인연",
+        "pt": "Destino Entrelaçado",
+        "ru": "Переплетающиеся судьбы",
+        "th": "Intertwined Fate",
+        "vi": "Mối Duyên Vương Vấn"
+    },
+    "id": 223,
+    "materialDesc": {
+        "en": "A fateful stone that connects dreams.\\nIts glimmers can entwine fates and connect dreams, just as how its glimmers links stars into the shapes of a heart's desires.",
+        "de": "Ein Samen des Schicksals, der Träume verbindet.\\nSein Glanz ist dazu in der Lage, Schicksale miteinander zu verknüpfen und die Träume von Menschen zusammenzuführen. Es ist dieser Glanz, der die Sterne Bilder des Herzens formen lässt.",
+        "chs": "连结梦想的命运之种。\\n缘石辉光能让本无交集的命运交错，让彼此的梦想相连，正如这种光辉将群星连成心之所向的图形。",
+        "cht": "連結夢想的命運之種。\\n緣石輝光能讓本無交集的命運交錯，讓彼此的夢想相連，正如這種光輝將群星連成心之所向的圖形。",
+        "es": "Una piedra fatídica que conecta los sueños.\\nSus destellos pueden entrelazar el destino y conectar los sueños entre sí, de la misma manera que vinculan a las estrellas con los deseos de uno mismo.",
+        "fr": "Une graine du destin qui relie les rêves.\\nLa lueur de la pierre de la fatalité peut faire s'entrelacer les sorts qui ne devraient pas se croiser. C'est grâce à cette lueur que les étoiles peuvent former l'image de votre cœur.",
+        "id": "Benih takdir yang menghubungkan mimpi.\\nBatu menyala yang dapat menghubungkan takdir dan mimpi satu sama lain, seperti kecerahan yang menghubungkan bintang-bintang dan membentuk hati.",
+        "jp": "夢をつなぐ運命の種。\\n石の輝きは本来交わらない運命を交差させ、互いの夢を繋げ、まさにこの輝きは星々を心の赴く形に繋げると同じである。",
+        "kr": "꿈을 이어주는 운명의 씨앗.\\n인연석의 빛은 접점이 없던 운명을 맞물리게 하고, 서로의 꿈을 이어준다. 마치 뭇별을 마음이 원하는 도형으로 이어준 빛처럼…",
+        "pt": "Uma pedra do destino que conecta sonhos.\\nO seu brilho pode entrelaçar e conectar sonhos, assim como seu brilho pode conectar as estrelas em formatos de desejos de um coração.",
+        "ru": "Судьбоносный камень, который соединяет мечты.\\nЕго блёклое свечение переплетает судьбы и соединяет мечты так же, как звёзды соединяются в созвездия.",
+        "th": "เมล็ดพันธุ์แห่งโชคชะตาที่เชื่อมโยงความฝัน\\nความสามารถของมันคือการเชื่อมโยงชะตากรรมและนำความฝันของผู้คนมารวมกัน มันเป็นเงาที่ทำให้ดวงดาวเป็นรูปหัวใจ",
+        "vi": "Hạt giống vận mệnh kết nối ước mơ.\\nÁnh sáng của duyên thạch kết nối nhiều vận mệnh, gắn liền ước mơ của đôi bên, cũng giống như ánh sáng này kết nối những chòm sao kết thành hình ảnh mà trong lòng hướng đến."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

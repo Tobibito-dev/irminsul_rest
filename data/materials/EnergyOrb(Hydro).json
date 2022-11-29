@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Energy Orb (Hydro)",
+        "de": "Elementarenergiekugel (Hydro)",
+        "chs": "元素能量球(水)",
+        "cht": "元素能量球(水)",
+        "es": "Orbe de energía (Hydro)",
+        "fr": "Orbe d'énergie (Hydro)",
+        "id": "Small Energy Orb (Hydro)",
+        "jp": "元素エネルギーボール(水)",
+        "kr": "원소 에너지 오브(물)",
+        "pt": "Orbe de Energia (Hydro)",
+        "ru": "Сфера энергии (Гидро)",
+        "th": "Energy Orb (Hydro)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Thủy)"
+    },
+    "id": 2002,
+    "materialDesc": {
+        "en": "Energy Orb (Hydro)",
+        "de": "Elementarenergiekugel (Hydro)",
+        "chs": "元素能量球(水)",
+        "cht": "元素能量球(水)。",
+        "es": "Orbe de energía (Hydro)",
+        "fr": "Orbe d'énergie (Hydro)",
+        "id": "Small Energy Orb (Hydro)",
+        "jp": "元素エネルギーボール(水)",
+        "kr": "원소 에너지 오브(물)",
+        "pt": "Orbe de Energia (Hydro)",
+        "ru": "Сфера энергии (Гидро)",
+        "th": "Energy Orb (Hydro)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Thủy)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

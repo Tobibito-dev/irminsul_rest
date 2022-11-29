@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Survival Grilled Fish",
+        "de": "Lebensrettender Grillfisch",
+        "chs": "绝境求生烤鱼",
+        "cht": "絕境求生烤魚",
+        "es": "Pescado a la parrilla del superviviente",
+        "fr": "Poisson grillé du survivant",
+        "id": "Survival Grilled Fish",
+        "jp": "九死一生の焼き魚",
+        "kr": "절체절명 생선구이",
+        "pt": "Peixe Grelhado de Sobrevivência",
+        "ru": "Спасительная рыбка",
+        "th": "Survival Grilled Fish",
+        "vi": "Cá Nướng Không Lối Thoát"
+    },
+    "id": 108145,
+    "materialDesc": {
+        "en": "Keqing's specialty. This dish was not grilled. Instead, it was fried from within through the delicate application of Electro. A gentle bite reveals fragrant fish under the lightly charred skin, its taste perfectly balanced. So, is this how she survives in the wild? You really can't judge a book by its cover.",
+        "de": "Keqings Spezialzubereitung. Dieser Fisch ist nicht über dem Feuer gegrillt, sondern von innen heraus mithilfe der Elektro-Kraft gegart worden. Schon beim ersten Bissen durch die krosse Fischhaut erliegt man der Versuchung des knusprigen Fisches. Wenn Keqing durch die Wildnis streift, ist dies wohl eine ihrer Überlebensstrategien. Das sieht man ihr wirklich nicht an.",
+        "chs": "刻晴的特色料理。并非以火烤熟，而是借由雷元素的精细操作将鱼肉从内部炸透。轻轻一咬，微焦的鱼皮包裹着香酥的鱼肉，程度却是恰到好处。露宿荒野的时候，她就是凭借着这些技巧生存下去的吗？真是不可貌相。",
+        "cht": "刻晴的特色料理。並非以火烤熟，而是藉由雷元素的精細操控將魚肉從內部炸熟。輕輕一咬，微焦的魚皮包裹著香酥的魚肉，程度卻是恰到好處。露宿荒野時，她就是憑藉著這些技巧生存下去的嗎？真是不可貌相。",
+        "es": "La especialidad de Keching. Este plato no fue cocinado con fuego, sino que se cocinó desde el interior a través de un delicado uso del elemento Electro. Al comerlo, se puede sentir la tierna textura del pescado, fragante y con la piel ligeramente carbonizada. Su sabor está perfectamente equilibrado. ¿Es así como sobrevive Keching en la naturaleza? ¿Con sus habilidades culinarias? Verdaderamente, las apariencias engañan...",
+        "fr": "Spécialité culinaire de Keqing. Ce poisson n'a pas été grillé à la flamme, mais frit de l'intérieur grâce à de l'énergie Électro. Vous succomberez à sa saveur exquise dès que vous mordrez sa peau croustillante. C'est donc grâce à ce genre de repas que Keqing survit dans la nature ? On aurait du mal à le croire...",
+        "id": "Spesialisasi Keqing. Ikan ini bukan dipanggang dengan api, melainkan dimasak dengan kekuatan elemen Electro. Daging ikannya dimasak matang seperti sudah digoreng. Saat menggigit daging ikan renyah yang dibaluti kulit ikan kecoklatan, kelezatannya sangat sempurna. Jadi apakah begini cara dia bertahan hidup di alam liar? Kita memang tidak bisa menebak orang dari penampilan luar saja.",
+        "jp": "刻晴のオリジナル料理。火で焼くのではなく、雷元素で魚を内部から加熱した料理。程よく焦げた皮が身を包み、一口で旨味が広がる。彼女にはこういうサバイバルスキルもあるのか？人は見かけによらぬものだ。",
+        "kr": "각청의 특제 요리. 불에 익히지 않고 정밀한 번개 원소 조작으로 생선 살을 익힌 요리다. 한입 베어 물면 바삭한 생선 껍질이 고소한 생선 살을 감싸줄 정도로 적당히 잘 익었다. 황야를 떠돌며 이런 기술로 살아가는 걸까? 도통 종 잡을 수가 없다",
+        "pt": "A gastronomia da Keqing. Este prato não foi grelhado em fogo, mas foi frito por dentro através da delicada aplicação do Electro. Uma mordida suave revela peixes perfumados sob a pele levemente crocante, bem como o seu sabor perfeitamente equilibrado. Então, é assim que ela sobrevive na natureza? Você realmente não pode avaliar um livro pela capa.",
+        "ru": "Особое блюдо Кэ Цин. Его не запекали на огне, нет. Аккуратно применив Электро, рыбу зажарили изнутри. Немного откусите, и под хрустящей кожицей вы увидите ароматную мякоть. Вкус сбалансирован идеально. Так вот как ей удаётся долго оставаться на дикой природе? М-да, внешность обманчива.",
+        "th": "อาหารสูตรพิเศษของ Keqing มันไม่ได้ถูกย่างด้วยไฟ แต่ถูกกระบวนการอันละเอียดอ่อนของธาตุไฟฟ้าทำให้ภายในของปลาถูกทอดจนทั่ว เพียงแค่กัดลงไปเบา ๆ บนเนื้อทอดกรอบที่ถูกหุ้มด้วยหนังที่เกรียมเล็กน้อย ก็จะพบความลงตัวที่แสนเพอร์เฟกต์ เธอใช้ทักษะเหล่านี้เพื่อความอยู่รอดในตอนที่อยู่ในป่างั้นเหรอเนี่ย? คนเรานี่ดูแต่ภายนอกไม่ได้เลยน้า...",
+        "vi": "Món ăn đặc sắc của Keqing. Không nấu bằng lửa, mà cá được chiên giòn từ bên trong bằng nguyên tố lôi. Cắn nhẹ một miếng, da cá hơi cháy bọc lấy thịt cá giòn thơm vừa phải. Cô ấy đã sử dụng những kỹ năng này để sinh tồn ở nơi hoang dã sao? Thật không thể hình dung được."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

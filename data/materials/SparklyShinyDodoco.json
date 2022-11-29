@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sparkly Shiny Dodoco!",
+        "de": "Glitzernder Dodoco!",
+        "chs": "焰光闪闪嘟嘟可",
+        "cht": "焰光閃閃嘟嘟可",
+        "es": "Dodoexplosivo brillante",
+        "fr": "Dodoco scintillant",
+        "id": "Sparkly Shiny Dodoco!",
+        "jp": "光焔に瞬くドドコ",
+        "kr": "반짝반짝 도도코",
+        "pt": "Dodoco Brilhante Explosivo",
+        "ru": "Яркий искрящийся Додоко",
+        "th": "Dodoco ประกายแพรวพราว",
+        "vi": "Ánh Lửa Lấp Lánh Dodoco"
+    },
+    "id": 223008,
+    "materialDesc": {
+        "en": "After visiting a neighboring state, a certain firework artisan from Liyue met a friendly and hospitable Spark Knight, and thus created this firework based on her bestest friend, Dodoco.",
+        "de": "Nach einem Besuch in einer Nachbarstadt traf ein bestimmter Feuerwerkskünstler aus Liyue einen gewissen sehr gastfreundlichen Funkenritter und schuf so ein Feuerwerk, das ihrem besten Freund, Dodoco, gewidmet war.",
+        "chs": "某位璃月的烟花工匠在造访邻国后，遭遇了热情好客的「火花骑士」，并参考「火花骑士」的好伙伴「嘟嘟可」，开发了这种创意烟花。",
+        "cht": "某位璃月的煙花工匠在造訪鄰國後，遭遇了熱情好客的「火花騎士」，並參考「火花騎士」的好夥伴「嘟嘟可」，開發了這種創意煙花。",
+        "es": "Cuando un artesano pirotécnico de Liyue visitó un país vecino, se encontró con la hospitalaria Caballera Chispeante y se inspiró en su compañero “Dodoco” para crear este fuego artificial.",
+        "fr": "Après une visite d'un pays voisin, un artificier de Liyue fit la rencontre de l'enthousiaste et amical Chevalier de l'étincelle et créa ce feu d'artifice à l'image de sa meilleure amie, Dodoco, pour lui rendre hommage.",
+        "id": "Setelah mengunjungi negara tetangga, seorang pengrajin kembang api Liyue bertemu dengan \"Spark Knight\" yang ramah dan bersahabat. Dia kemudian mengembangkan kembang api penuh kreativitas dengan mengambil referensi dari sahabat terbaik sang \"Spark Knight\", yaitu Dodoco.",
+        "jp": "ある璃月の花火職人が隣国を訪れた際、友好的な「火花騎士」に出会った。その「火花騎士」の友達である「ドドコ」を参考にして開発された独創的な花火。",
+        "kr": "리월의 폭죽 장인이 이웃 나라를 방문했을 때, 친절한 「불꽃 기사」를 만난 후 「불꽃 기사」의 친구 「도도코」를 참고해 만든 창의적인 폭죽",
+        "pt": "Após visitar uma nação vizinha, um pirotecnista de Liyue conheceu a simpática e hospitaleira Cavaleira das Faíscas, e assim criou um fogo de artifício baseado em sua melhor amiga, Dodoco.",
+        "ru": "Во время поездки в соседнюю страну некий мастер фейерверков из Ли Юэ познакомился с дружелюбным и гостеприимным Рыцарем Искоркой, которая вдохновила его на создание фейерверка на основе её лучшего друга Додоко.",
+        "th": "หลังจากไปเยี่ยมเยียนเมืองใกล้เคียงแล้ว ช่างฝีมือจาก Liyue ที่ได้พบกับ \"อัศวินดอกไม้เพลิง\" ผู้อัธยาศัยดี และได้คิดค้นดอกไม้ไฟชนิดนี้ขึ้นมา โดยอ้างอิงจาก \"Dodoco\" เพื่อนรักของอัศวินดอกไม้เพลิง",
+        "vi": "Một người thợ làm pháo hoa nào đó của Liyue sau khi ghé thăm nước láng giềng đã gặp được \"Kỵ Sĩ Tia Lửa\" nhiệt tình hiếu khách, đồng thời tham khảo người bạn đồng hành Dodoco của kỵ sĩ ấy, để phát minh ra loại pháo hoa đầy tính sáng tạo này."
+    },
+    "materialType": "MATERIAL_FIREWORKS"
+}

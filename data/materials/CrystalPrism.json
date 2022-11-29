@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Crystal Prism",
+        "de": "Kristallprisma",
+        "chs": "水晶棱镜",
+        "cht": "水晶稜鏡",
+        "es": "Prisma de cristal",
+        "fr": "Prisme de cristal",
+        "id": "Crystal Prism",
+        "jp": "水晶プリズム",
+        "kr": "수정 프리즘",
+        "pt": "Prisma Cristalino",
+        "ru": "Кристальная призма",
+        "th": "Crystal Prism",
+        "vi": "Lăng Kính Pha Lê"
+    },
+    "id": 112051,
+    "materialDesc": {
+        "en": "A prism that can bend light.\\nIllusory images can be made using such prisms, giving such devices — in a manner of speaking — the power to sway human hearts.",
+        "de": "Ein Prisma, das Licht biegen kann.\\nMit solchen Prismen können Trugbilder erzeugt werden, was solchen Geräten – sozusagen – die Macht gibt, die Herzen der Menschen zu beeinflussen.",
+        "chs": "能够偏转光线的棱镜。\\n利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。",
+        "cht": "能夠偏轉光線的稜鏡。\\n利用這種稜鏡，可以製造虛幻的影像。從某種意義而言，也因此有著操縱人心的力量。",
+        "es": "Un prisma de cristal capaz de controlar la luz.\\nUtilizando este prisma, es posible crear imágenes ilusorias. En cierto sentido, también posee el poder de manipular el corazón de las personas.",
+        "fr": "Un prisme qui peut dévier la lumière.\\nIl est possible de créer des illusions à l'aide de tels prismes, ce qui en fait, dans un sens, des appareils capables d'influencer le cœur des hommes.",
+        "id": "Prisma yang dapat memantulkan polarisasi cahaya.\\nKamu dapat membuat gambar ilusi dengan menggunakan prisma ini. Dalam arti tertentu, prisma ini juga memiliki kemampuan untuk memanipulasi hati orang.",
+        "jp": "光を屈折させるプリズム。\\n実際に存在しない虚像を作り出すことができる。ある意味、人の心を操る力をも持っている。",
+        "kr": "빛의 방향을 바꾸는 프리즘.\\n이러한 프리즘을 이용해 허구의 영상을 만들어낼 수 있다. 어떤 의미에서 보면, 사람의 마음을 컨트롤할 수 있는 힘을 가지고 있다",
+        "pt": "Um prisma que pode manipular a luz.\\nImagens ilusórias podem ser feitas usando esses prismas, dando a tais dispositivos — por assim dizer — o poder de influenciar os corações humanos.",
+        "ru": "Отклоняющая лучи света призма.\\nЭтой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей.",
+        "th": "ปริซึมที่สามารถหักเหแสงได้\\nเมื่อใช้ปริซึมชนิดนี้จะสามารถสร้างภาพลวงตาได้ ในอีกแง่หนึ่ง มันยังมีพลังที่สามารถครอบงำจิตใจคนได้อีกด้วย",
+        "vi": "Lăng kính có thể làm lệch hướng ánh sáng.\\nLợi dụng nó sẽ có thể tạo ra ảo ảnh. Ở một khía cạnh nào đó, nó cũng có sức mạnh thao túng lòng người."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

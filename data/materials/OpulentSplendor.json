@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Opulent Splendor",
+        "de": "Üppige Pracht",
+        "chs": "霓裾翩跹",
+        "cht": "霓裾翩躚",
+        "es": "Gracilidad fastuosa",
+        "fr": "Splendeur opulente",
+        "id": "Opulent Splendor",
+        "jp": "霓裾の舞",
+        "kr": "살랑이는 무지개 자락",
+        "pt": "Esplendor Opulente",
+        "ru": "Яркая лёгкость",
+        "th": "รัศมีรุ้งเจิดจรัส",
+        "vi": "Vũ Điệu Nghê Thường"
+    },
+    "id": 340003,
+    "materialDesc": {
+        "en": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance.",
+        "de": "Keqings formelle Kleidung. Die Fäden, die in tagelanger harter Arbeit gewebt wurden, verflechten sich inmitten der schönen Morgenstunden des Laternenrituals zu einem leichten und doch prächtigen Erscheinungsbild.",
+        "chs": "刻晴的礼服装扮。于海灯节之良辰美景中，往日辛劳浓墨所绘的线条，交织成今夜轻盈而瑰丽的容姿。",
+        "cht": "刻晴的禮服裝扮。於海燈節之良辰美景中，往日辛勞濃墨所繪的線條，交織成今夜輕盈而瑰麗的容姿。",
+        "es": "Vestimenta formal de Keching. Durante el magnífico Rito de la Linterna, los hilos tejidos por el trabajo duro se entrelazan con una apariencia grácil y elegante.",
+        "fr": "Tenue formelle de Keqing. Dans la splendeur du Festival des lanternes, des fils ont été tissés pendant des jours de labeur pour assembler cette tenue du soir pleine de légèreté et d'élégance.",
+        "id": "Pakaian resmi Keqing. Ia hadir di tengah pagi yang indah pada momen Lantern Rite. Benang yang sudah dirajut begitu lama oleh jerih payah ini, kemudian terjalin menjadi penampilan yang sederhana namun mengesankan.",
+        "jp": "刻晴の礼服。海灯祭の佳景の中、過去の苦心により描かれた線には、今宵の軽やかで麗しい姿が織り込まれている。",
+        "kr": "각청의 예복 코스튬. 해등절의 아름다운 경치 속에서, 지난날의 노력으로 이루어진 먹의 선들이 오늘 밤, 가볍고 아름다운 자태로 엮인다",
+        "pt": "Vestuário formal de Keqing. Em meio à bela aurora do Ritual de Lanternas, os fios tecidos por dias de trabalho duro se entrelaçam em uma aparência suave, porém magnífica.",
+        "ru": "Праздничный наряд Кэ Цин. В утренние часы праздника морских фонарей нити, результат тяжёлой работы, сплетаются в лёгкий великолепный образ.",
+        "th": "คอสตูมชุดพิธีการของ Keqing ท่ามกลางบรรยากาศอันงดงามของงานเทศกาล Lantern Rite ความเหนื่อยยากในช่วงวันเวลาที่ผ่านมา หล่อหลอมให้เกิดเป็นความงดงามในค่ำคืนนี้",
+        "vi": "Lễ phục của Keqing. Trong khoảnh khắc tươi đẹp của Tết Hải Đăng, từng đường nét được vẽ bằng sự vất vả trong quá khứ, đã kết nên dung mạo xinh tươi nhẹ nhàng của hôm nay."
+    },
+    "materialType": "MATERIAL_COSTUME"
+}

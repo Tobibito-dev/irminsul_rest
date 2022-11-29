@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Stir-Fried Filet",
+        "de": "Besonderes scharfes Geschnetzeltes",
+        "chs": "特制的爆炒肉片",
+        "cht": "特製的爆炒肉片",
+        "es": "Carne frita especial",
+        "fr": "Viande sautée spéciale",
+        "id": "Stir-Fried Filet Spesial",
+        "jp": "特製豚肉の油炒め",
+        "kr": "특제 고기볶음",
+        "pt": "Carne Frita Especial",
+        "ru": "Особое жаренное в воке мясо",
+        "th": "Stir-Fried Filet สูตรพิเศษ",
+        "vi": "Thịt Xào Ớt Tuyệt Vân Đặc Biệt"
+    },
+    "id": 100662,
+    "materialDesc": {
+        "en": "Stir-Fried Filet prepared for Ling'guan. If it was fated to be left to cool, why stir-fry it in the first place?",
+        "de": "Scharfes Geschnetzeltes, das extra für Lingguan zubereitet worden ist. Wenn es dafür bestimmt wäre, kalt zu werden, hätte es wohl nicht erst gebraten werden müssen.",
+        "chs": "为铃官准备的爆炒肉片。如果命中注定要放凉，一开始何必爆炒呢？",
+        "cht": "為鈴官準備的爆炒肉片。如果命中注定要放涼，一開始何必爆炒呢？",
+        "es": "Un plato de carne frita cocinado especialmente para Linguan. Si se va a dejar enfriar, ¿para qué se ha preparado?",
+        "fr": "Une viande sautée préparée spécialement pour Ling'guan. Si c'était pour la laisser refroidir, pourquoi l'avoir fait sauter en première instance ?",
+        "id": "Stir-Fried Filet untuk Ling'guan. Jika hidangannya harus dingin, kenapa ditumis?",
+        "jp": "鈴官のために準備した豚肉の油炒め。冷めるまで待っているのなら、なぜわざわざ炒めたのか？",
+        "kr": "영관을 위해 준비한 고기볶음, 식게 놔둬야 할 운명이라면, 애초에 왜 볶았을까?",
+        "pt": "Um Frango Frito preparado para a Ling'guan. Se estava fadado a ser deixado para esfriar, por que então se dar ao trabalho de fritar no fim das contas?",
+        "ru": "Жаренное в воке мясо, приготовленное для Лин Гуань. Если ему суждено остыть, то зачем вообще было жарить его в воке?",
+        "th": "Stir-Fried Filet ที่เตรียมไว้ให้ Ling'guan ถ้าจะต้องปล่อยให้เย็น อย่างงั้นทำไมต้องผัดตั้งแต่แรก?",
+        "vi": "Thịt Xào Ớt Tuyệt Vân được chuẩn bị cho Ling'guan. Nếu số phận an bài phải để nguội, vậy còn xào làm gì nữa?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

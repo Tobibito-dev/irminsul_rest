@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Valley Weaver Essential Oil",
+        "de": "Öl „Bergbrokat“",
+        "chs": "「山阴锦簇」精油",
+        "cht": "「山陰錦簇」精油",
+        "es": "Aceite esencial de tejedora de los valles",
+        "fr": "Huile essentielle de tisserande de la vallée",
+        "id": "Minyak Esensial dari Bunga Penenun Lembah",
+        "jp": "「山の花錦」のオイル",
+        "kr": "「산음금족」 정유",
+        "pt": "Óleo Essencial de \"Tecedor dos Vales\"",
+        "ru": "Эссенция «Горной ткачихи»",
+        "th": "น้ำมันหอมระเหย \"Valley Weaver\"",
+        "vi": "Tinh dầu \"Sơn Âm Cẩm Thốc\""
+    },
+    "id": 100491,
+    "materialDesc": {
+        "en": "The essence of decocted Silk Flowers. It can be further refined into perfume. Gives off an intense scent.",
+        "de": "Konzentrierte ätherische Öle von Seidenblumen. Durch weitere Verarbeitung kann darauf Duftessenz hergestellt werden, die einen kräftigen Duft verströmt.",
+        "chs": "霓裳花熬出的精油，进一步提炼后可以制成香膏。散发着浓烈的芬芳。",
+        "cht": "霓裳花熬出的精油，進一步提煉後可以製成香膏。散發著濃烈的芬芳。",
+        "es": "Extracto de flores de seda. Se puede refinar aún más como perfume. Emite un aroma intenso.",
+        "fr": "Une huile essentielle extraite de fleurs de soie qui pourrait être transformée en parfum. Elle émet une odeur intense.",
+        "id": "Esensi dari Silk Flower yang telah diuraikan. Dapat disempurnakan menjadi parfum. Menghasilkan aroma yang kuat.",
+        "jp": "霓裳花で作られたオイル、精錬すると香膏になる。濃厚な香りがする",
+        "kr": "예상꽃에서 나온 정유. 한 번 더 정제하면 향고로 만들 수 있다. 강렬한 향기를 내뿜는다",
+        "pt": "A Essência das Flores de Seda decoctadas. Pode ser refinado ainda mais em perfume. Exala um perfume intenso.",
+        "ru": "Эссенция цветов шелковицы. Используется для изготовления ароматного парфюма. Даёт резкий вкус.",
+        "th": "น้ำมันที่สกัดจากดอก Silk Flower หลังจากลั่นแล้วสามารถนำมาทำเป็นน้ำหอมที่ส่งกลิ่นหอมฉุนได้",
+        "vi": "Tinh dầu từ hoa nghê thường sau khi chắt lọc sẽ tạo thành sáp thơm với mùi hương ngào ngạt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

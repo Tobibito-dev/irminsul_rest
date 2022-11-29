@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancestral Sword Rack: Four Core Principles",
+        "de": "Traditioneller Schwertständer – „Vier Techniken“",
+        "chs": "宗传刀架-「四常法」",
+        "cht": "宗傳刀架-「四常法」",
+        "es": "Estante de espadas ancestral: Cuatro principios",
+        "fr": "Râtelier d'épées antiques « Quatre principes fondamentaux »",
+        "id": "Rak Pedang Leluhur: Empat Pegangan Utama",
+        "jp": "皆伝刀掛け-「四常法」",
+        "kr": "정통 칼 거치대-「순환 상생」",
+        "pt": "Porta-ferramentas Ancestral - Quatro Métodos Comuns",
+        "ru": "Стойка для меча предков: Четыре основных принципа",
+        "th": "ชั้นวางดาบผู้สืบทอด - \"สี่หลักการ\"",
+        "vi": "Giá Để Đao - \"Tứ Thường Pháp\""
+    },
+    "id": 382214,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Ancestral Sword Rack: Four Core Principles.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Traditioneller Schwertständer – Vier Techniken“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「宗传刀架-『四常法』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「宗傳刀架-『四常法』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Estante de espadas ancestral: Cuatro principios.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du râtelier d'épées antiques « Quatre principes fondamentaux ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Rak Pedang Leluhur: Empat Pegangan Utama.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「皆伝刀掛け-『四常法』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「정통 칼 거치대-『순환 상생』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Porta-ferramentas Ancestral - Quatro Métodos Comuns.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Стойка для меча предков: Четыре основных принципа».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างชั้นวางดาบผู้สืบทอด - \"สี่หลักการ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Giá Để Đao - \"Tứ Thường Pháp\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

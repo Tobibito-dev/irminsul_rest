@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Duplex Gear",
+        "de": "Doppellagiges Zahnrad",
+        "chs": "双层齿轮",
+        "cht": "雙層齒輪",
+        "es": "Engranaje doble",
+        "fr": "Engrenage double",
+        "id": "Roda Gigi Ganda",
+        "jp": "ダブルギア",
+        "kr": "이중 톱니바퀴",
+        "pt": "Engrenagem Dupla",
+        "ru": "Двусторонняя шестерня",
+        "th": "เฟืองสองชั้น",
+        "vi": "Bánh Răng Hai Tầng"
+    },
+    "id": 101851,
+    "materialDesc": {
+        "en": "A rather small duplex gear. Double the flanks, double the labor hours.",
+        "de": "Ein relativ kleines doppellagiges Zahnrad. Doppelte Struktur, doppelte Arbeitsleistung.",
+        "chs": "略小的双层结构齿轮。双层的结构，双层的工时。",
+        "cht": "略小的雙層結構齒輪。雙層的結構，雙層的工時。",
+        "es": "Un engranaje doble bastante pequeño. El doble de engranajes, el doble de horas de trabajo.",
+        "fr": "Un engrenage double de petite taille. Deux fois plus de dentures pour deux fois plus de travail accompli.",
+        "id": "Roda Gigi dengan struktur ganda yang agak kecil. Ganda strukturnya, dobel pula efisiensi waktunya.",
+        "jp": "やや小さい二段構造のギア。二段の構造、二倍の作業時間。",
+        "kr": "조금 작은 이중 구조 톱니바퀴. 이중 구조로 인해 이중의 작업 시간을 필요로 한다",
+        "pt": "Uma engrenagem dupla relativamente pequena. Estrutura em dobro, trabalho em dobro.",
+        "ru": "Довольно маленькая двусторонняя шестерня. Двойная конструкция, двойные трудозатраты.",
+        "th": "เฟืองโครงสร้างสองชั้นที่ค่อนข้างเล็ก เพิ่มโครงสร้างเป็นสองชั้น ชั่วโมงแรงงานก็เพิ่มเป็นสองเท่า",
+        "vi": "Bánh răng có kết cấu hai tầng hơi nhỏ. Hai tầng kết cấu, hai tầng công việc."
+    },
+    "materialType": "MATERIAL_ACTIVITY_GEAR"
+}

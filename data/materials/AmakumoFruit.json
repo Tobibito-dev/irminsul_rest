@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amakumo Fruit",
+        "de": "Amakumo-Frucht",
+        "chs": "天云草实",
+        "cht": "天雲草實",
+        "es": "Fruto amakumo",
+        "fr": "Fruit d'Amakumo",
+        "id": "Amakumo Fruit",
+        "jp": "天雲草の実",
+        "kr": "아마쿠모초 열매",
+        "pt": "Fruto Tenkumo",
+        "ru": "Плод облачной травы",
+        "th": "Amakumo Fruit",
+        "vi": "Quả Amakumo"
+    },
+    "id": 101208,
+    "materialDesc": {
+        "en": "The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.",
+        "de": "Die Frucht des Amakumo-Grases, das auf Seirai wächst. Du kannst es mit einem winzigen Strom knistern hören, wenn du es an dein Ohr hältst.",
+        "chs": "生长在清籁岛的天云草结成的果实，贴在耳畔能听见微弱的电流声。",
+        "cht": "生長在清籟島的天雲草結成的果實，貼在耳畔能聽見微弱的電流聲。",
+        "es": "El fruto de la planta amakumo, que crece en la Isla Seirai. Si te lo acercas a la oreja, podrás oír la minúscula corriente eléctrica que restalla en su interior.",
+        "fr": "Le fruit de l'herbe d'Amakumo, qui pousse sur l'Île de Seirai. En le mettant contre votre oreille, vous pouvez entendre comme un petit crépitement de courant électrique.",
+        "id": "Buah dari Rumput Amakumo, yang tumbuh di Pulau Seirai. Kamu bisa mendengar derak arus listrik kecil saat mendekatkannya ke telingamu.",
+        "jp": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
+        "kr": "세이라이섬에서 자라는 아마쿠모초의 열매. 귓가에 대면 은은한 전류 소리가 들린다",
+        "pt": "O fruto da Grama Tenkumo que cresce na Ilha Seirai. Você pode ouvir a corrente elétrica estalando se segurar próximo ao seu ouvido.",
+        "ru": "Плод облачной травы, которая растёт на острове Сэйрай. Если поднести его к уху, можно услышать слабое потрескивание тока.",
+        "th": "ผลของหญ้า Amakumo Grass ที่เติบโตอยู่บนเกาะ Seirai หากนำมันมาแนบหูจะสามารถได้ยินเสียงกระแสไฟฟ้าที่แผ่วเบา",
+        "vi": "Quả của Cỏ Amakumo mọc trên đảo Seirai, áp sát bên tai có thể thoáng nghe thấy âm thanh của dòng điện."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

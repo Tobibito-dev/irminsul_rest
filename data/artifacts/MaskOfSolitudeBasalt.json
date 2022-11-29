@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Mask of Solitude Basalt",
+        "de": "Maske des starren Gesteins",
+        "chs": "不动玄石之相",
+        "cht": "不動玄石之相",
+        "es": "Máscara de Basalto Inerte",
+        "fr": "Masque en basalte inerte",
+        "id": "Mask of Solitude Basalt",
+        "jp": "不動玄石の相",
+        "kr": "부동현석의 상",
+        "pt": "Imagem de uma Pedra Imóvel",
+        "ru": "Маска из одинокого базальта",
+        "th": "Mask of Solitude Basalt",
+        "vi": "Mặt Nạ Huyền Thạch"
+    },
+    "id": 24743,
+    "setId": 15014,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

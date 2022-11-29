@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Egg Roll",
+        "de": "Misslungene Eierrolle",
+        "chs": "奇怪的鸟蛋烧",
+        "cht": "奇怪的鳥蛋燒",
+        "es": "Rollitos de huevo extraños",
+        "fr": "Omelette roulée (suspecte)",
+        "id": "Suspicious Egg Roll",
+        "jp": "微妙な鳥卵の玉子焼き",
+        "kr": "이상한 새알말이",
+        "pt": "Rolinho de Ovo de Pássaro Estranho",
+        "ru": "Странный яичный рулет",
+        "th": "Egg Roll รสประหลาด",
+        "vi": "Trứng Cuộn Kỳ Lạ"
+    },
+    "id": 108264,
+    "materialDesc": {
+        "en": "A fried egg dish. It looks way too soft... and what do you know, it comes apart the instant it so much as touches chopsticks. Might as well use a spoon at this point.",
+        "de": "Ein Eiergericht. Es sieht viel zu weich aus ... und was soll man sagen, es zerfällt in dem Moment, in dem es die Stäbchen auch nur berührt. An diesem Punkt kann man genauso gut einen Löffel verwenden.",
+        "chs": "煎制而成的蛋料理。看起来过于软嫩，用筷子轻轻一碰就会松散开来，或许用勺子挖着吃会更方便。",
+        "cht": "煎製而成的蛋料理。看起來過於軟嫩，用筷子輕輕一碰就會鬆散開來，或許用湯匙挖著吃會更方便。",
+        "es": "Un plato hecho con huevo. Se ha quedado demasiado blando, por lo que, al utilizar palillos, el huevo se rompe por completo. Tal vez sea mejor comerlo con cuchara...",
+        "fr": "Un plat à base d'œufs frits. C'est bien trop mou... Quoi que vous fassiez, elle se désagrège dès l'instant où vous la touchez avec vos baguettes. Autant utiliser une cuillère à ce stade.",
+        "id": "Hidangan telur goreng. Bagian luarnya tampak lembut, saat ditusuk dengan sumpit, seluruh telur akan hancur seketika. Mungkin akan lebih mudah dimakan kalau menggunakan sendok.",
+        "jp": "油で焼き上げた卵料理。柔らかすぎて、箸で少し触れただけで崩れてしまう。スプーンですくった方が食べやすいかも？",
+        "kr": "구운 새알 요리. 지나치게 말랑해 젓가락으로 조금만 건드려도 부서질 것만 같다. 숟가락으로 퍼먹는 게 더 편할지도",
+        "pt": "Um prato de ovo frito. Parece muito macio... e se desfaz no instante em que é tocado por um hashi. É melhor usar uma colher neste momento.",
+        "ru": "Блюдо из жареных яиц. Какое-то оно... слишком мягкое. Оно разваливается, даже если его легонько взять палочками, поэтому стоит пустить в ход ложку.",
+        "th": "เมนูไข่ม้วน มันดูนิ่มเกินไป ใช้ตะเกียบแตะเบา ๆ ก็สามารถแยกออกจากกันได้ บางทีอาจจะสะดวกกว่าถ้ากินด้วยช้อน",
+        "vi": "Món trứng được chế biến từ cách đem đi chiên. Có vẻ quá mềm, dùng đũa đụng nhẹ cũng nát, có lẽ phải dùng muỗng múc thì mới ăn được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

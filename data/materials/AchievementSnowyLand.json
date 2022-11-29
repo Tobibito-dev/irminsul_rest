@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Snowy Land",
+        "de": "Errungenschaft – Verschneite Landschaft",
+        "chs": "成就·雪乡",
+        "cht": "成就·雪鄉",
+        "es": "Logro - País de nieve",
+        "fr": "Succès - Pays de la neige",
+        "id": "Achievement: Daratan Bersalju",
+        "jp": "アチーブメント·雪郷",
+        "kr": "업적·눈의 땅",
+        "pt": "Conquista - Terra das Neves",
+        "ru": "Вечный холод",
+        "th": "ความสำเร็จ - หมู่บ้านหิมะ",
+        "vi": "Thành tựu - Quê hương của tuyết"
+    },
+    "id": 210031,
+    "materialDesc": {
+        "en": "Namecard style.\\nYou've heard many stories about Snezhnaya. What does it look like in your mind's eye?",
+        "de": "Ein Motiv für Namenskärtchen.\\nÜber Snezhnaya gibt es viele Geschichten zu hören. Welche Gestalt hat es in deiner Vorstellung?",
+        "chs": "名片纹饰。\\n听了很多关于至冬的故事呢。在你想象里它是什么样的地方呢？",
+        "cht": "名片紋飾。\\n聽了很多關於至冬的故事呢。在你想像裡它是什麼樣的地方呢？",
+        "es": "Diseño de tarjeta de presentación.\\nHas escuchado muchas historias sobre Snezhnaya. ¿Cómo te la imaginas?",
+        "fr": "Thème.\\nVous avez entendu nombre de choses au sujet du royaume de Snezhnaya. Comment l'imaginez-vous ?",
+        "id": "Style kartu nama.\\nKamu sudah mendengar banyak tentang Snezhnaya. Bagaimana tempat itu menurut pandanganmu?",
+        "jp": "名刺の飾り紋。\\nスネージナヤについての話をたくさん聞いたね。スネージナヤに対してどんなイメージか？",
+        "kr": "명함 스킨.\\n스네즈나야의 이야기는 자주 접해봤을 것이다. 당신 생각에 그곳은 어떤 곳인가?",
+        "pt": "Estilo de Cartão de Visita.\\nJá ouvimos muitas histórias sobre Snezhnaya. Como é que é Snezhnaya na sua imaginação?",
+        "ru": "Именная карта.\\nВы слышали множество историй о Снежной. Каким этот край представляется вам?",
+        "th": "ลายนามบัตร\\nได้ฟังเรื่องราวมากมายเกี่ยวกับ Snezhnaya ในความคิดของคุณสถานที่นั้นมันเป็นแบบไหนกันนะ?",
+        "vi": "Hoa văn danh thiếp.\\nTôi đã nghe rất nhiều câu chuyện về Snezhnaya. Theo bạn nghĩ thì đó là một nơi như thế nào?"
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

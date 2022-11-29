@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Legend of the Shattered Halberd (VI)",
+        "de": "Legende der zerbrochenen Hellebarde – Band VI",
+        "chs": "神霄折戟录·第六卷",
+        "cht": "神霄折戟錄·第六卷",
+        "es": "La leyenda de la alabarda fragmentada (VI)",
+        "fr": "Le Bris de l'arme divine - Tome VI",
+        "id": "Legenda Tombak Dewa (VI)",
+        "jp": "神霄折戟録·第6卷",
+        "kr": "신소절극록·제6권",
+        "pt": "A Queda de Shenxiao - Volume VI",
+        "ru": "Легенда о разбитой алебарде. Том VI",
+        "th": "ตำนานง้าวที่แตกสลาย - 6",
+        "vi": "Thần Tiêu Trảm Kích Lục (VI)"
+    },
+    "id": 100364,
+    "materialDesc": {
+        "en": "Mir once again chanted the forgotten spell. The maiden was reunited with him again. \"So, this is what you truly look like.\"\\n\"The world is beyond repair. It shall be born anew from the ashes of the last.\" The mad Celestial Emperor sentenced all living things of the world to a harsh punishment.\\n\"But you, you would understand me, wouldn't you?\" The nameless thief who stole the national treasure said to his lord.\\n\"No. No apologies necessary, for you are benevolent.\"",
+        "de": "Erneut hallten die magischen Worte durch den Raum. Das Mädchen und er waren wieder beisammen. „So siehst du also in Wahrheit aus.“\\n„Diese Welt liegt bereits in Trümmern. Sie muss ausgelöscht werden, damit eine neue entstehen kann“, urteilte der Himmelskaiser.\\n„Kannst du dich in meine Lage versetzen?“, fragte der namenlose Dieb, nachdem er das Heiligtum gestohlen hatte.\\n„Nein, du musst nicht um Verzeihung bitten. Du bist doch so ein gutmütiges Wesen.“",
+        "chs": "弥耳再度念出了遗忘的咒语。少女与他再度相会——「原来真实的你长这样啊。」\\n「这个世界已经坏掉了，必须得全部烧尽重来。」疯狂的天帝对万物如此判决。\\n「我说，如果是你的话，是可以理解我的吧？」盗走国宝的无名大盗这么对圣上说道。\\n「不，不用道歉，因为你就是这样的温柔的存在呢。」",
+        "cht": "彌耳再度念出了遺忘的咒語。少女與他再度相會——「原來真實的你長這樣啊。」\\n「這個世界已經壞掉了，必須得全部燒盡重來。」瘋狂的天帝對萬物如此判決。\\n「我說，如果是你的話，是可以理解我的吧？」盜走國寶的無名大盜這麼對聖上說道。\\n「不，不用道歉，因為你就是這樣的溫柔的存在呢。」",
+        "es": "Mir recitó nuevamente el hechizo olvidado. La chica y él estaban juntos de nuevo: “Así que esta es tu verdadera apariencia”.\\n“El mundo está en la ruina. Debe arder para resurgir”. En su locura, el Emperador Celestial llegó a esta conclusión.\\n“Si estuvieras en mi lugar, ¿lo entenderías?”, preguntó el ladrón después de saquear el santuario.\\n“No hace falta disculparte, porque eres un ser bondadoso”.",
+        "fr": "Mi'er prononça à nouveau le sort oublié, et à nouveau la jeune fille le rejoignit. « Ainsi donc voilà ta vraie apparence. »\\n« Ce monde n'est plus que l'ombre de ce qu'il fut autrefois, et doit renaître dans ses cendres. » Ainsi avait parlé l'Empereur Céleste dans sa folie.\\n« Mais toi, toi... Tu me comprendrais, à ma place, non ? » fit le voleur sans nom qui s'était emparé du trésor du royaume.\\n« Non, nul besoin d'excuses, car en toi vit la bienveillance. »",
+        "id": "Mir meneriakkan mantra yang terlupakan itu sekali lagi. Gadis itu pun bertemu kembali dengannya. \"Jadi, seperti inilah dirimu yang sebenarnya.\"\\n\"Dunia ini sudah tidak bisa diperbaiki lagi. Ia akan dilahirkan kembali dari abu yang terakhir.\" Kaisar Surgawi yang gila itu menghukum semua makhluk hidup di dunia dengan hukuman yang keras.\\n\"Tetapi kamu, kamu mengerti aku, kan?\" ucap pencuri tanpa nama yang mencuri harta nasional itu kepada Tuannya.\\n \"Tidak, tidak perlu minta maaf, kehangatan seperti ini bisa ada berkatmu.\"",
+        "jp": "弥耳が忘れた呪文を再び口にして、少女と再会した——「本当のお前はこうなんだ。」\\n「この世界は壊れた。全て燃やしてやり直さないと。」狂った天帝は万物に判決を下した。\\n「お前なら、分かってくれるだろ？？」国宝を盗んだ無名の盗賊はそう言った。\\n「謝らないで、あなたはそういう優しい存在だから。」",
+        "kr": "미르가 잊혀진 주문을 외우자 소녀는 그와 재회한다. 「이렇게 생겼구나」\\n「이 세계는 가망이 없어, 모든 걸 불태우고 다시 시작해야 된다」 미친 천제는 만물에 이렇게 판결을 내렸다.\\n「만약 네가 나라면 날 이해할 수 있겠지?」 국보를 훔쳐 간 이름 없는 대도가 왕에게 물었다.\\n「아니, 사과할 필요 없어, 넌 본디 이렇게 따뜻한 존재니까」",
+        "pt": "Mier mais uma vez cantou o feitiço esquecido. A donzela se reuniu com ele novamente. \"Então, é assim que você realmente é.\"\\n\"O mundo está em ruínas. Deverá queimar e renascer das cinzas.\" O Imperador Celestial, em sua loucura, condenou todas os seres vivos do mundo com uma punição severa.\\n\"Mas você, você me entenderia, não é?\". O ladrão sem nome que roubou o tesouro nacional disse ao seu senhor.\\n \"Não. Não é necessário pedir desculpas, pois você é um ser bondoso.\"",
+        "ru": "Миар ещё раз повторил слова забытого заклинания. Он вновь встретил девушку. «Значит, вот так ты выглядишь на самом деле».\\n«Мир лежит в руинах. Новый мир родится из пепла старого». Безумный Небесный Император приговорил всех живых существ к жестокому наказанию.\\n«Но вы, вы ведь сможете меня понять, не так ли?» Безымянный вор, похитивший национальное сокровище, сказал своему господину.\\n«Нет, не надо извинений. Ты такой добродушный».",
+        "th": "Mir ท่องอาคมที่ถูกลืมอีกครั้ง หญิงสาวและเขากลับมาพบกันอีกครั้ง... \"ที่แท้ตัวจริงของเธอหน้าตาเป็นอย่างงี้เองงั้นเหรอ\"\\n\"โลกนี้มันเน่าเฟะไปหมดแล้ว มันจะต้องมอดไหม้ไปทั้งหมดเพื่อเริ่มต้นใหม่อีกครั้ง\" จักรพรรดิผู้บ้าคลั่งตัดสินทุกสิ่งเยี่ยงนี้\\n\"ฉันว่าถ้าหากเป็นเธอล่ะก็น่าจะเข้าใจฉันใช่มั้ยล่ะ?\" จอมโจรไร้นามผู้ขโมยสมบัติของชาติพูดต่อองค์จักรพรรดิอย่างนี้\\n\"ไม่ ไม่ต้องขอโทษหรอก เพราะเธอก็ดำรงชีวิตอยู่อย่างอ่อนโยนอย่างนี้อยู่แล้วนี่นะ\"",
+        "vi": "Mir niệm lại câu thần chú bị lãng quên. Thiếu nữ và anh gặp nhau lần nữa-\"Thì ra bên ngoài anh trông như thế này\".\\n\"Thế giới đã bị hủy hoại, bắt buộc phải thiêu rụi toàn bộ.\" Thiên Đế điên cuồng phán xét như vậy với vạn vật. \\n\"Tôi nói, nếu là bạn thì có thể hiểu được tôi phải không?\" Tên cướp vô danh đánh cắp quốc bảo nói với thánh thượng. \\n\"Không, không cần xin lỗi, bởi vì bạn chính là sự tồn tại của dịu dàng rồi đó.\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

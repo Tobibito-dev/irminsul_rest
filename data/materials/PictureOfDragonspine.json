@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Picture of Dragonspine",
+        "de": "Landschaftsbild vom Drachengrat",
+        "chs": "雪山风景画片",
+        "cht": "雪山風景畫片",
+        "es": "Imagen de Espinadragón",
+        "fr": "Photo des Monts Dosdragon",
+        "id": "Gambar Dragonspine",
+        "jp": "雪山の風景画",
+        "kr": "설산 풍경 사진",
+        "pt": "Foto da Espinha do Dragão",
+        "ru": "Пейзаж Драконьего хребта",
+        "th": "ภาพวิว Dragonspine",
+        "vi": "Ảnh chụp phong cảnh Tuyết Sơn"
+    },
+    "id": 100815,
+    "materialDesc": {
+        "en": "A picture taken for Iris. It depicts the snowy scenery of Dragonspine.",
+        "de": "Ein Bild, das für Iris aufgenommen wurde. Es zeigt die verschneite Landschaft des Drachengrats.",
+        "chs": "为玉霞拍下的画片，描绘了雪山的风景。",
+        "cht": "為玉霞拍下的畫片，描繪了雪山的風景。",
+        "es": "Una imagen capturada para Iris. Muestra el paisaje nevado de Espinadragón.",
+        "fr": "Une photo prise pour Iris. Elle représente le paysage enneigé des Monts Dosdragon.",
+        "id": "Foto yang dipotret oleh Iris. Foto ini menggambarkan pemandangan bersalju di Dragonspine.",
+        "jp": "玉霞のために撮った風景画。雪山の風景が写されている。",
+        "kr": "옥희를 위해 찍은 사진. 설산의 풍경이 그려져 있다",
+        "pt": "Uma foto tirada para Yuxia com uma paisagem de fundo da Montanha Nevada.",
+        "ru": "Фотография, сделанная специально для Юй Ся. На ней изображён заснеженный пейзаж Драконьего хребта.",
+        "th": "ภาพที่ถ่ายให้ Iris เป็นภาพทิวทัศน์ของภูเขาหิมะ",
+        "vi": "Bức ảnh chụp cho Iris, là phong cảnh Tuyết Sơn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

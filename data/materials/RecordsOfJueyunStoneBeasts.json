@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Records of Jueyun: Stone Beasts",
+        "de": "Jueyun-Schriften – Steinerne Bestien",
+        "chs": "绝云记闻·石兽",
+        "cht": "絕雲記聞·石獸",
+        "es": "Registros de Jueyun: Bestia de piedra",
+        "fr": "Archives de Jueyun - Monstres de pierre",
+        "id": "Catatan Jueyun: Monster Batu",
+        "jp": "絶雲紀聞·石獣",
+        "kr": "절운 기문·석수",
+        "pt": "Registros de Jueyun - Bestas de Pedra",
+        "ru": "Хроника Заоблачного предела: Каменные звери",
+        "th": "บันทึกอันน่าทึ่งของ Jueyun - อสูรหิน",
+        "vi": "Ký Sự Tuyệt Vân - Thạch Thú"
+    },
+    "id": 100399,
+    "materialDesc": {
+        "en": "A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the legends of stone beasts.",
+        "de": "Eine Sammlung von interessanten kurzen Erzählungen, die durch das Volk von Liyue gehen. Sie sind recht knapp und dennoch sehr beliebt unter den Menschen. In diesem Band geht es um die Legende der Steinernen Bestien.",
+        "chs": "璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇记述了石兽的传说。",
+        "cht": "璃月流傳的諸多志怪傳奇故事合集，收錄了許多短小精悍，膾炙人口的軼事，大多為民俗題材。本篇記述了石獸的傳說。",
+        "es": "Una colección de las muchas historias legendarias de Liyue. Incluye cuentos cortos y anécdotas universalmente populares, la mayoría sobre temas folclóricos. Esta edición describe la leyenda de la bestia de piedra.",
+        "fr": "Une compilation d'histoires passionantes en rapport avec le folklore liyuéen. Ce tome traite des monstres de pierre.",
+        "id": "Kumpulan cerita rakyat, mitos, dan legenda dari Liyue. Isinya sangat menarik. Bagian ini berisi tentang legenda Monster Batu.",
+        "jp": "璃月の怪奇伝説物語全集、誰もが知っている物語が多く収録され、その多くは民俗をテーマにしたもの。本編は石獣に関する伝説が記載されている。",
+        "kr": "리월에서 전해 내려오는 여러 기괴한 전설 전집. 짧지만 사람들 입에 많이 오르내리는 알찬 일화들이 수록되어 있으며, 대부분은 민간을 소재로 하는 내용이다. 본편은 석수의 전설이 기술되어 있다",
+        "pt": "Uma coleção de histórias folclóricas, mitos e lendas de Liyue. É uma mudança de página. Este segmento está nas lendas dos animais de pedra.",
+        "ru": "Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги посвящена каменным зверям.",
+        "th": "คอลเลกชันที่รวบรวมตำนานและเรื่องเล่ามากมายที่ถูกบอกต่อกันของ Liyue บันทึกช่วงเวลาสั้น ๆ และทรงพลังรวมไปถึงนิยายที่ผู้คนต่างพากันพูดถึงไว้อย่างมากมาย ซึ่งโดยส่วนใหญ่แล้วจะมีหัวข้อเกี่ยวกับประเพณีต่าง ๆ ส่วนบทความนี้จะพูดถึงตำนานของอสูรหิน",
+        "vi": "Bộ sưu tập nhiều câu chuyện ly kì ở Liyue, bao gồm nhiều giai thoại ngắn và thú vị, chủ yếu lấy chủ đề dân gian. Bài viết này mô tả truyền thuyết về Thạch Thú."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

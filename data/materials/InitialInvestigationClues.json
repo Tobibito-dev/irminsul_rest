@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Initial Investigation Clues",
+        "de": "Hinweise aus der ersten Ermittlung",
+        "chs": "初步调查的线索",
+        "cht": "初步調查的線索",
+        "es": "Pistas preliminares de la investigación",
+        "fr": "Premiers indices d'enquête",
+        "id": "Petunjuk Investigasi Awal",
+        "jp": "初期調査の手がかり",
+        "kr": "초기 조사를 마친 단서",
+        "pt": "Pistas Iniciais da Investigação",
+        "ru": "Первоначальные улики",
+        "th": "เบาะแสจากการตรวจสอบเบื้องต้น",
+        "vi": "Manh Mối Điều Tra Sơ Bộ"
+    },
+    "id": 120158,
+    "materialDesc": {
+        "en": "Clues that you gathered from the Nilotpala Cup Beast Tamers Tournament's Floral Jelly booth while no one was around — you took some photos of Floral Jelly and the Floral Jelly recipe.\\nHowever, these two objects will require professional analysis before they yield any meaningful information.",
+        "de": "Hinweise, die du am „Blumengelee“-Stand der „Nilotpala-Lotos-Meisterschaft“ gesammelt hast, als niemand in der Nähe war. Du hast das „Blumengelee“ und dessen Rezept, das auf dem Tisch lag, fotografiert.\\nDiese beiden Objekte erfordern jedoch eine professionelle Analyse, um Hinweise zu liefern.",
+        "chs": "趁无人之时，在「月莲杯驯兽师大赛」的「花花琼脂」摊位搜集到的线索——拍摄了「花花琼脂」的实物和桌面上的配方。\\n不过，这两样东西似乎需要专业人士来分析，才能找出其中的些许端倪。",
+        "cht": "趁無人之時，在「月蓮盃馴獸師大賽」的「花花瓊脂」攤位搜集到的線索——拍攝了「花花瓊脂」的實物和桌面上的配方。\\n不過，這兩樣東西似乎需要專業人士來分析，才能找出其中的些許端倪。",
+        "es": "Una serie de pistas que reuniste al fotografiar lo que había encima de la mesa del puesto del agar floral del Torneo Loto Niloptala de Doma de Bestias aprovechando que no había nadie cerca.\\nNecesitarás a alguien experto en la materia para que te ayude a interpretar la información.",
+        "fr": "Une photo de la gelée florale et de sa recette que vous avez prise à l'étal de gelée florale du tournoi de dompteur de la Coupe des nilotpalotus quand personne n'y était.\\nCependant, une analyse professionnelle est requise pour en faire quoi que ce soit.",
+        "id": "Petunjuk yang kamu kumpulkan dari Turnamen Piala Nilotpala untuk Pawang Penjinak waktu tidak ada yang melihat. Kamu mengambil foto Floral Jelly dan resep Floral Jelly.\\nTapi dua benda ini perlu dianalisis oleh seorang profesional dulu sebelum bisa berguna.",
+        "jp": "人のいないときに、「サウマラタ蓮杯テイマー大会」の「フラワーゼリー」屋台で集めた手がかり。「フラワーゼリー」の実物と机の上にあるレシピを撮影したもの。\\nこの二つをプロに分析してもらえば、隠された情報を見つけ出せそうだ。",
+        "kr": "사람이 없는 틈을 타 「달 연꽃컵 훈련사 대회」의 「플로럴 젤리」 노점에서 수집한 단서——「플로럴 젤리」의 실물과 책상 위에 놓인 제조법을 촬영했다.\\n하지만 전문가의 분석이 있어야만 그 안에 담긴 실마리를 찾을 수 있을 듯하다",
+        "pt": "Pistas que você reuniu da tenda de Geleia Floral da Copa Nilotpala de Domadores de Feras enquanto ninguém olhava — você fotografou algumas Geleias Florais e a receita de Geleia Floral.\\nEntretanto, essas fotos vão precisar de análise profissional para que possam resultar em informações relevantes.",
+        "ru": "Улики, которые вы собрали в киоске с цветочным агаром на Турнире укротителей «Кубок лотоса нилотпала», пока никого не было рядом. Вы сделали несколько фотографий цветочного агара и его рецепта.\\nЭти улики необходимо подвергнуть профессиональному анализу, прежде чем получится получить из них значимую информацию.",
+        "th": "ฉวยโอกาสตอนที่ไม่มีคน รวบรวมเบาะแสจากบูธ \"Floral Jelly\" ของ \"การแข่งขันเทรนเนอร์ Nilotpala Cup\"... ถ่ายรูปอาหารและสูตรที่อยู่บนโต๊ะของบูธ \"Floral Jelly\"\\nแต่ว่า ของทั้งสองอย่างนี้ดูเหมือนจะต้องการผู้เชี่ยวชาญเฉพาะทางในการวิเคราะห์ จึงจะสามารถหาสิ่งผิดปกติที่อยู่ภายในนั้นออกมาได้",
+        "vi": "Nhân lúc không có ai, đã tìm thấy manh mối tại quầy hàng \"Rau Câu Hoa Hoa\" ở Giải Đấu Luyện Thú Cúp Nilotpala, đã chụp ảnh Rau Câu Hoa Hoa và công thức ở trên bàn.\\nChỉ có điều, hai thứ này hình như cần có người chuyên nghiệp phân tích mới có thể tìm ra điểm khả nghi trong đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

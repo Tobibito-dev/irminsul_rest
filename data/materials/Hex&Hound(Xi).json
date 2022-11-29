@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hex & Hound (XI)",
+        "de": "Mehr als nur ein Hund XI",
+        "chs": "犬又二分之一·十一",
+        "cht": "犬又二分之一·十一",
+        "es": "Más que un simple perro (XI)",
+        "fr": "Plus qu'un chien - XI",
+        "id": "Separuh Serigala (XI)",
+        "jp": "犬と二分の一·11",
+        "kr": "개와 2분의 1·Ⅺ",
+        "pt": "Hex & Hound (XI)",
+        "ru": "Ведьма и гончая. Том XI",
+        "th": "เฮ็กซ์ & ฮาวด์-XI",
+        "vi": "Mật Ngữ Của Khuyển XI"
+    },
+    "id": 100785,
+    "materialDesc": {
+        "en": "\"I should just stuff that noisy puppy yapper of yours...\" \"Woof, woof!\" That day, the young maiden gave her loyal dog something precious...",
+        "de": "„Du lauter Köter, ich stopfe dir die Schnauze!“ ... „Mmm! Mmm!“ In dieser Nacht vertraute das junge Mädchen ihrem treuen Hund etwas Wichtiges an.",
+        "chs": "「吵吵闹闹的狗嘴，让我来堵上好了…」「唔唔——！」那一夜，少女向忠犬托付了重要的东西…",
+        "cht": "「吵吵鬧鬧的狗嘴，讓我來堵上好了…」「唔唔——！」那一夜，少女向忠犬託付了重要的東西…",
+        "es": "“Chucho ruidoso, ¡te taparé el hocico!”... “¡Mmm! ¡Mmm!”. Esa noche, la joven le confió algo importante a su fiel perro.",
+        "fr": "« Mais arrête ! Je vais te faire taire, tu vas voir ! » « Ahouahou ! »... Ce jour-là, la jeune fille offrit à son fidèle chien quelque chose de précieux...",
+        "id": "\"Biar kusumpal saja moncongmu yang berisik itu...\" \"Guk, guk!\" Pada malam itu, si gadis mempercayakan sebuah benda berharga pada anjingnya yang setia itu...",
+        "jp": "「そのやかましい口、塞いでやろうか…」「ううー！」その夜、少女は忠犬に重要なものを託した…",
+        "kr": "「시끄럽게 짖는 강아지 소리, 그 입은 내가 막으면 돼…」 「우후——! 」 그날 밤, 소녀는 충견에게 자신의 가장 중요한 물건을 맡겼다…",
+        "pt": "\"Eu deveria apenas empalhar aquele seu cachorro barulhento...\" \"Au, au!\" Naquele dia, a jovem donzela deu ao seu fiel cão algo precioso...",
+        "ru": "«Шумная шавка, я заткну твою пасть!» «Умф-умф!» В ту ночь девушка рассказала самое сокровенное верному псу...",
+        "th": "\"เห่าโฮ่งโฮ่งโฮ่งอยู่ได้ เดี๋ยวฉันจะอุดปากนั่นให้เอง...\"ฮึกฮึก——\" ในคืนนั้น สาวน้อยได้มอบสิ่งสำคัญให้กับสุนัขผู้ซื่อสัตย์...",
+        "vi": "\"Cái mõm chó ồn ào này, im lặng\" \"Gâu gâu!\". Hôm đó, cô thiếu nữ đã tặng cho chú chó trung thành của mình một thứ quan trọng..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

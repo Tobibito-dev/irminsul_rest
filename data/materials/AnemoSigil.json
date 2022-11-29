@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Anemo Sigil",
+        "de": "Anemo-Siegel",
+        "chs": "风之印",
+        "cht": "風之印",
+        "es": "Insignia Anemo",
+        "fr": "Sceau Anémo",
+        "id": "Anemo Sigil",
+        "jp": "風の印",
+        "kr": "바람의 인장",
+        "pt": "Selo Anemo",
+        "ru": "Печать Анемо",
+        "th": "Anemo Sigil",
+        "vi": "Ấn Phong"
+    },
+    "id": 305,
+    "materialDesc": {
+        "en": "An insignia that shows the recognition of the winds of Mondstadt.\\nCan be exchanged for special items in Mondstadt.",
+        "de": "Ein Zeichen für die Anerkennung der Tausend Winde von Mondstadt.\\nKann an bestimmten Orten in Mondstadt gegen besondere Objekte eingetauscht werden.",
+        "chs": "受到蒙德大地的千风认可，获授的印记。\\n用来在蒙德城内特定的地方兑换特殊道具。",
+        "cht": "受到蒙德大地的千風認可，獲授的印記。\\n用來在蒙德城內特定的地方兌換特殊道具。",
+        "es": "Una insignia que muestra el reconocimiento de los vientos de Mondstadt.\\nPuede ser intercambiada por objetos especiales en Mondstadt.",
+        "fr": "Un insigne montrant la reconnaissance des vents de Mondstadt.\\nS'échange contre des objets spéciaux dans un lieu spécifique de Mondstadt.",
+        "id": "Lencana yang menunjukkan pengakuan angin Mondstadt.\\nDapat ditukar untuk item khusus di Mondstadt.",
+        "jp": "モンドの風に認められ、授かった印記。\\nモンド城の記念品ショップで特別なアイテムと交換できる。",
+        "kr": "몬드 대지 바람의 인정을 받아 획득한 인장.\\n몬드성 내 특정 장소에서 특수한 아이템을 교환할 수 있다",
+        "pt": "Uma insígnia que mostra o reconhecimento dos ventos de Mondstadt.\\nPode ser trocada por itens especiais em Mondstadt.",
+        "ru": "Символ признания вольными ветрами города свободы.\\nМожно обменять на особые предметы в Мондштадте.",
+        "th": "เครื่องหมายลมพายุแห่ง Mondstadt \\nใช้สำหรับแลกเปลี่ยนไอเทมพิเศษ ในสถานที่เฉพาะของเมือง Mondstadt",
+        "vi": "Dấu ấn nhận được khi có được sự chấp nhận của hàng ngàn ngọn gió ở Mondstadt.\\nDùng để đổi vật phẩm đặc biệt trong thành Mondstadt."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

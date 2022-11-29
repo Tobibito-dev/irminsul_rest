@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Outrider's Champion Steak!",
+        "de": "Kundschaftersteak!",
+        "chs": "侦察骑士烤肉！",
+        "cht": "偵察騎士烤肉！",
+        "es": "Filete de la Caballera Exploradora",
+        "fr": "Super steak de l'Éclaireuse !",
+        "id": "Outrider's Champion Steak!",
+        "jp": "偵察騎士ステーキ！",
+        "kr": "정찰 기사 바비큐!",
+        "pt": "Bife da Aventureira Campeã!",
+        "ru": "Стейк скаута-чемпиона!",
+        "th": "Outrider's Champion Steak!",
+        "vi": "Thịt Nướng Kỵ Sĩ Trinh Thám!"
+    },
+    "id": 108010,
+    "materialDesc": {
+        "en": "Amber's specialty. One side is obviously uncooked. The other side gives off a subtle scent of something burnt. Close your eyes and have a big mouthful, just to keep Amber happy if nothing else.",
+        "de": "Ambers Spezialzubereitung. Eine Seite ist noch vollständig roh, die andere verbrannt und verströmt einen leicht beißenden Geruch. Schließ die Augen, beiß rein und mach Amber eine Freude.",
+        "chs": "安柏的特色料理。一面泛着血色，另一面散发着微妙焦香气味的肉排。闭着眼大口吃下去，安柏会很高兴的吧。",
+        "cht": "安柏的特色料理。一面泛著血色，另一面散發著微妙焦香氣味的肉排。閉著眼大口吃下去，安柏會很高興的吧。",
+        "es": "La especialidad de Amber. Sin cocinar por un lado y quemado por el otro. Cierra los ojos y pégale un mordisco. Amber se pondrá contenta.",
+        "fr": "Spécialité culinaire d'Amber. Un morceau de viande grillée. Pas assez cuit d'un côté et un peu brûlé de l'autre. Contentez-vous de l'avaler, c'est l'intention qui compte.",
+        "id": "Masakan andalan Amber. Satu sisi terlihat kurang matang, dan sisi satunya terlihat agak gosong. Tutup mata dan makanlah dengan lahap, setidaknya agar Amber senang.",
+        "jp": "アンバーのオリジナル料理。片面は血の色をしており、もう片面からは焦げた肉の微妙な香りを放っている。目を閉じて一気に食べると、アンバーは喜んでくれるだろう。",
+        "kr": "엠버의 특제 요리. 한 면은 핏기를 띄고 다른 한 면은 은은하게 탄내가 나는 스테이크. 눈 딱 감고 먹으면 엠버가 기뻐할 거야!",
+        "pt": "A especialidade de Amber. Um lado claramente mal-passado, e o outro lado um leve aroma de queimado. Feche os olhos e dê uma boa mordida. A Amber vai ficar feliz com isso.",
+        "ru": "Особое блюдо Эмбер. Одна сторона явно сырая. Другая сторона имеет тонкий запах чего-то подгоревшего. Закройте глаза и откусите большой кусок... просто чтобы Эмбер была счастлива.",
+        "th": "เมนูพิเศษของ Amber ที่ด้านหนึ่งจะไม่ย่างให้สุก ส่วนอีกด้านจะให้กลิ่นไหม้ของเนื้อ จาง ๆ ลองหลับตาแล้วลิ้มรสมันด้วยคำใหญ่ๆ Amber ถูกใจสิ่งนี้",
+        "vi": "Món độc quyền của Amber. Thịt thăn một mặt vẫn sống, một mặt thì hơi khét. Nếu cứ nhắm mắt ăn đại thì có khiến Amber vui không nhỉ?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

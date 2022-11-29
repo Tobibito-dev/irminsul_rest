@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Maple Wood Floor Lamp: Clarity",
+        "de": "Stehlampe aus Ahornholz – „Erleuchtung“",
+        "chs": "枫木地灯-「照澄」",
+        "cht": "楓木地燈-「照澄」",
+        "es": "Linterna de suelo de arce: Brillo purificador",
+        "fr": "Lampe à pied « Clarté » en bois d'érable",
+        "id": "Lampu Lantai Kayu Maple: Kejernihan",
+        "jp": "楓の灯籠-「照澄」",
+        "kr": "단풍나무 스탠드-「조명」",
+        "pt": "Lanterna Fixa de Bordo: Brilho Purificador",
+        "ru": "Торшер из клёна: Очищающее сияние",
+        "th": "โคมไฟตั้งพื้นไม้ Maple -\"ชัดเจน\"",
+        "vi": "Đèn Sàn Gỗ Phong - Sáng Tỏ"
+    },
+    "id": 380410,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Maple Wood Floor Lamp: Clarity.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Stehlampe aus Ahornholz – Erleuchtung“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「枫木地灯-『照澄』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「楓木地燈-『照澄』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Linterna de suelo de arce: Brillo purificador.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la lampe à pied « Clarté » en bois d'érable.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Lampu Lantai Kayu Maple: Kejernihan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「楓の灯籠-『照澄』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면,「단풍나무 스탠드-『조명』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Lanterna Fixa de Bordo: Brilho Purificador\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Торшер из клёна: Очищающее сияние».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างโคมไฟตั้งพื้นไม้ Maple -\"ชัดเจน\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Sàn Gỗ Phong - Sáng Tỏ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Plain Vase: Ocher",
+        "de": "Reine Vase – „Ocker“",
+        "chs": "素浄宝瓶-「赭黄」",
+        "cht": "素浄寶瓶-「赭黃」",
+        "es": "Jarrón simple: Ocre",
+        "fr": "Vase uni « Ocre »",
+        "id": "Vas Polos: Oker",
+        "jp": "清き宝瓶-「柘黄」",
+        "kr": "소박한 보물병-「황토색」",
+        "pt": "Vaso Simples: Ocre",
+        "ru": "Простая ваза: Жёлтая охра",
+        "th": "แจกันแสนสงบ - \"ดินเหลือง\"",
+        "vi": "Bình Thuần Khiết - Giả Hoàng"
+    },
+    "id": 382226,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Plain Vase: Ocher.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Reine Vase – Ocker“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「素浄宝瓶-『赭黄』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「素浄寶瓶-『赭黃』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar “Jarrón simple: Ocre”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du vase uni « Ocre ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Diagram yang berisi langkah-langkah untuk membuat \"Vas Polos: Oker\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「清き宝瓶-『柘黄』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「소박한 보물병-『황토색』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Vaso Simples: Ocre\".\\nDepois de usar, você pode entrar na interface de produção para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Простая ваза: Жёлтая охра».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"แจกันแสนสงบ - 'ดินเหลือง'\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bình Thuần Khiết - Giả Hoàng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

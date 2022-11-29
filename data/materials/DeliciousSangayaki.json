@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Sangayaki",
+        "de": "Leckeres Sangayaki",
+        "chs": "美味的山家烧",
+        "cht": "美味的山家燒",
+        "es": "Sangayaki deliciosos",
+        "fr": "Sangayaki (délicieux)",
+        "id": "Delicious Sangayaki",
+        "jp": "美味しそうなさんが焼き",
+        "kr": "맛있는 산가야키",
+        "pt": "Sangayaki Delicioso",
+        "ru": "Вкусное рагу отшельника",
+        "th": "Sangayaki แสนอร่อย",
+        "vi": "Sangayaki Ngon"
+    },
+    "id": 108376,
+    "materialDesc": {
+        "en": "A simple, humble fisherman's side dish. Full of nutrition and flavor. The lightly charred, yellowed exterior wraps the tender insides — providing two pleasures at once! Fish paste was already quite delectable raw, and the charcoal grilling only makes it better.",
+        "de": "Eine einfache Fischer-Vorspeise, voller Nährstoffe und Geschmack. Außen leicht gebräunt und knusprig und innen sehr saftig. Jeder Bissen ist ein doppeltes Vergnügen. Das zerkleinerte rohe Fischfleisch an sich ist schon eine Delikatesse. Und mit dem Rösten über dem Holzkohlefeuer wird sein frischer und köstlicher Geschmack noch viel intensiver.",
+        "chs": "朴实无华的渔家小菜。兼具了营养与美味。微焦酥黄的表面，包裹着柔滑的内在，单是一口便有双重享受。鱼茸生吃本不逊色，炭火的炙烤更是升华了这一份鲜美。",
+        "cht": "樸實無華的漁家小菜。兼具了營養與美味。微焦酥黃的表面，包裹著柔滑的內在，單是一口便有雙重享受。魚茸生吃本不遜色，炭火的炙烤更是昇華了這一份鮮美。",
+        "es": "Un aperitivo simple y sencillo típico de los pescadores. Rebosante de nutrientes y sabor, ligeramente dorado y crujiente por fuera y muy jugoso por dentro, cada bocado se disfruta el doble. Puede que el pescado machacado no sea un manjar al comerlo crudo, pero al tostarse al fuego del carbón se intensifica su fresco y delicioso sabor.",
+        "fr": "Un plat de pêcheur simple. Il allie nutrition et saveurs. L'extérieur légèrement carbonisé et jauni enveloppe un intérieur tendre, offrant deux plaisirs à la fois ! La pâte de poisson était déjà délicieuse crue, et la cuisson au charbon de bois n'a fait que la sublimer.",
+        "id": "Lauk-pauk nelayan yang sederhana. Makanan ini kaya akan nutrisi dan rasa. Bagian luarnya yang sedikit hangus dan menguning membungkus kelembutan yang ada di dalamnya — memberikan dua kenikmatan sekaligus! Dimakan mentah saja, pasta ikan ini sudah cukup lezat. Kalau masih sempat untuk memangganggnya dengan arang, rasanya tentu akan menjadi lebih nikmat.",
+        "jp": "素朴な漁師メシ。栄養満点で美味しい。表面はこんがりと焼き目がついてカリッとしているが、包み込まれた中身は柔らかであり、一口で二つの食感を味わえる。魚のたたきは生でも美味しく食べられるが、炭火で焼くことで風味がさらに増している。",
+        "kr": "아주 평범한 어촌 음식. 영양과 맛을 모두 갖추었다. 노릇노릇하게 구워진 표면, 부드러운 속살, 한입만 베어 물면 겉은 바삭하고 속은 촉촉한 식감을 느낄 수 있다. 익히지 않고 먹을 수 있지만, 숯불에 구워 먹으면 맛이 한층 더 깊어진다",
+        "pt": "Um prato simples e humilde de pescadores. Muito nutritivo e apetitoso. O exterior ligeiramente tostado e dourado envolve o interior tenro, proporcionando dois prazeres ao mesmo tempo! A pasta de peixe já era deliciosa crua, mas depois de grelhada em carvão fica simplesmente divina.",
+        "ru": "Простое рыбацкое блюдо. Вкусное и питательное. Слегка подрумяненное, хрустящее снаружи и очень сочное внутри. Каждый кусочек - это двойное удовольствие. Сама по себе измельчённая рыба не является деликатесом, но после приготовления на углях она приобретает восхитительный вкус.",
+        "th": "กับข้าวของชาวประมงที่ดูเรียบง่ายไม่หรูหรา ผสมผสานคุณค่าทางโภชนาการและความอร่อย ผิวที่ไหม้เกรียมและสีเหลืองทองเล็กน้อยห่อหุ้มเนื้อนุ่มลื่นที่อยู่ภายใน ได้ชิมเพียงคำเดียวก็ทำให้เพลิดเพลินได้ถึงสองรสชาติ เนื้อปลาสามารถทานดิบได้ แต่เมื่อย่างด้วยเตาถ่านก็จะทำให้รสชาติอร่อยมากขึ้นไปอีก",
+        "vi": "Món ăn đơn giản mộc mạc của ngư dân. Đầy đủ dinh dưỡng và hương vị. Bên ngoài vàng ruộm, bên trong mềm mịn, chỉ cần cắn một miếng là hạnh phúc nhân đôi. Chả cá có ăn sống cũng không hề kém cạnh, nướng qua than hồng lại càng tăng thêm hương vị tươi ngon."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

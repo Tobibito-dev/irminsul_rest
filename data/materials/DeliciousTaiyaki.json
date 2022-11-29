@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Taiyaki",
+        "de": "Leckeres Taiyaki",
+        "chs": "美味的日落鲷鱼烧",
+        "cht": "美味的日落鯛魚燒",
+        "es": "Taiyaki delicioso",
+        "fr": "Taiyaki (délicieux)",
+        "id": "Delicious Taiyaki",
+        "jp": "美味しそうな夕暮れの鯛焼き",
+        "kr": "맛있는 일몰 붕어빵",
+        "pt": "Taiyaki Delicioso",
+        "ru": "Вкусный тайяки",
+        "th": "Taiyaki แสนอร่อย",
+        "vi": "Bánh Cá Hoàng Hôn Ngon"
+    },
+    "id": 108332,
+    "materialDesc": {
+        "en": "A snack shaped like a snapper. Fresh out of the oven, this taiyaki gives off a titillating aroma while it is still a mite scalding to the touch. A single bite causes the sweetness to melt in your mouth instantly. The feeling is akin to watching a fish in a pool bathed in sunset's gleam, its scales attaining a golden sheen.",
+        "de": "Ein Snack in Form einer Brasse. Frisch aus dem Ofen verströmen diese Taiyaki ein betörendes Aroma, während es sich noch leicht brühend anfühlt. Ein einziger Biss lässt die Süße sofort im Mund zergehen. Das Gefühl ist so, als würde man einen Fisch in einem Teich beobachten, dessen Schuppen im Licht des Sonnenuntergangs golden schimmern.",
+        "chs": "鲷鱼形状的点心。刚出炉的时候微微烫手，散发着令人精神振奋的甜香。一口咬下去，甜蜜感瞬间融化在嘴中。仿佛黄昏时分池中的一尾鱼，鳞片上闪耀着温暖的金色光芒。",
+        "cht": "鯛魚形狀的點心。剛出爐的時候微微燙手，散發著令人精神振奮的甜香。一口咬下去，甜蜜感瞬間融化在嘴中。仿佛黃昏時分池中的一尾魚，鱗片上閃耀著溫暖的金色光芒。",
+        "es": "Un dulce con forma de pargo. Cuando está recién salido del horno, aún desprende un ligerísimo calor con un aroma que despierta los sentidos. Dale un bocado y siente cómo el dulce se derrite en tu paladar. Es como ver un pez cuyas escamas irradian una dorada luz al ser bañado por el brillo del crepúsculo.",
+        "fr": "Un dessert en forme de poisson. Légèrement chaud après sa sortie du four, il dégage un arôme doux et revigorant, puis fond dans votre bouche dès la première bouchée. Ses écailles sont baignées d'une lueur dorée pleine de chaleur, comme un poisson dans un lac au crépuscule de la journée.",
+        "id": "Camilan yang berbentuk seperti ikan kakap. Taiyaki yang baru saja keluar dari oven ini mengeluarkan aroma yang membuat perut keroncongan saat disentuh. Satu gigitan saja dan kamu akan langsung merasakan rasa manisnya lumer di dalam mulutmu. Perasaan orang yang memakannya seakan-akan seperti sedang menonton ikan di kolam yang bermandikan cahaya matahari terbenam, di mana sisik ikan tersebut memancarkan cahaya keemasan.",
+        "jp": "鯛の形をしたお菓子。出来立ての時は熱々で、心を躍らせる香りがする。一口噛むと、その瞬間に甘さが口の中で溶けてしまう。夕方の池にいる一尾の魚のように、うろこに温かい金色の光が輝いている。",
+        "kr": "도미 모양의 디저트. 막 완성되었을 때는 다소 뜨거우며, 정신이 번쩍 들 만큼 달콤한 향기가 풍긴다. 한입 베어 물면, 달콤함이 순식간에 입속으로 녹아들어, 마치 해 질 녘 연못에서 헤엄치는 물고기의 비늘 위의 반짝이는 따뜻한 금색 빛을 머금은 듯한 느낌이 든다",
+        "pt": "Um lanche em forma de pargo. Fresquinho, recém tirado do forno, este taiyaki liberta um aroma tentador enquanto ainda é extremamente escaldante ao toque. Uma única mordida faz com que a doçura derreta em sua boca instantaneamente. A sensação é semelhante à de ver um peixe em uma piscina banhada pelo brilho do pôr do sol enquanto suas escamas emitem um brilho dourado.",
+        "ru": "Пирожное в форме рыбы. Свежеприготовленное, прямо из печи, обладает бодрящим сладким ароматом. Один укус - и сладость мгновенно тает во рту. Словно бы в сумеречном пруду мелькает тёплое золотое сияние рыбьей чешуи.",
+        "th": "ขนมทานเล่นรูปปลา ออกมาจากเตาอบใหม่ ๆ มันร้อนจนเกือบจะลวกมือ ส่งกลิ่นหอมหวานที่ทำให้คนน้ำลายสอ เมื่อกัดเข้าไป ความหวานของมันจะละลายในปากของคุณทันที เหมือนแสงสีทองอันอบอุ่นส่องบนเกล็ดของปลาในสระน้ำยามพลบค่ำ",
+        "vi": "Món điểm tâm hình cá. Mới ra lò sẽ hơi nóng, mùi thơm tỏa ra làm cho người ăn thấy sảng khoái. Cắn một miếng, vị ngọt tan ngay trong miệng. Giống như một con cá trong ao vào lúc hoàng hôn, trên vảy lấp lánh ánh sáng vàng ấm áp."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

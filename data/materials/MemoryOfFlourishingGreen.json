@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Memory of Flourishing Green",
+        "de": "Erinnerung der prachtvollen Wälder",
+        "chs": "草木繁茂的记忆",
+        "cht": "草木繁茂的記憶",
+        "es": "Recuerdo del verde naciente",
+        "fr": "Souvenir de végétation luxuriante",
+        "id": "Memory of Flourishing Green",
+        "jp": "草木繁茂の記憶",
+        "kr": "무성한 초목의 기억",
+        "pt": "Lembrança de Vegetação Exuberante",
+        "ru": "Память о пышной флоре",
+        "th": "Memory of Flourishing Green",
+        "vi": "Ký Ức Cây Cỏ Tươi Tốt"
+    },
+    "id": 913,
+    "materialDesc": {
+        "en": "The missing star from the Talents of a Dendro-aligned Traveler.",
+        "de": "Ein fehlender Stern im Dendro-Sternbild von Reisenden.",
+        "chs": "草元素旅行者的命之座当中，缺失的星辰。",
+        "cht": "草元素旅行者的命之座當中，缺失的星辰。",
+        "es": "Una estrella perdida en la constelación Dendro del Viajero.",
+        "fr": "Une étoile manquante dans la constellation du voyageur Dendro.",
+        "id": "Konstelasi yang hilang dari gugusan Talenta seorang Pengembara berelemen Dendro.",
+        "jp": "草元素を持つ旅人の命ノ星座が欠けた星屑。",
+        "kr": "풀 원소 여행자의 운명의 자리에서 사라진 별",
+        "pt": "A estrela perdida na constelação Dendro do Viajante.",
+        "ru": "Недостающая звезда в созвездии Дендро Путешественника.",
+        "th": "ดวงดาวที่หายไปในกลุ่มดาวของ นักเดินทางธาตุไม้",
+        "vi": "Ngôi sao bị thiếu trong cung mệnh của Nhà Lữ Hành Nguyên Tố Thảo."
+    },
+    "materialType": "MATERIAL_TALENT"
+}

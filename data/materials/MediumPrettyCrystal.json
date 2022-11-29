@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Medium Pretty Crystal",
+        "de": "Hübscher mittlerer Kristall",
+        "chs": "漂亮的中结晶",
+        "cht": "漂亮的中結晶",
+        "es": "Cristal bonito (mediano)",
+        "fr": "Joli cristal (moyen)",
+        "id": "Medium Pretty Crystal",
+        "jp": "綺麗な結晶（中）",
+        "kr": "아름다운 결정",
+        "pt": "Cristal Médio Bonito",
+        "ru": "Средний красивый кристалл",
+        "th": "Medium Pretty Crystal",
+        "vi": "Kết Tinh Vừa Xinh Xắn"
+    },
+    "id": 111021,
+    "materialDesc": {
+        "en": "Additional Crafted Item",
+        "de": "Zusätzlich hergestelltes Produkt",
+        "chs": "合成额外产物",
+        "cht": "合成的額外產物",
+        "es": "Objeto sintetizado adicional",
+        "fr": "Produit synthétisé supplémentaire",
+        "id": "Hasil Craft Tambahan",
+        "jp": "合成追加産物",
+        "kr": "합성 추가 생성물",
+        "pt": "Item Adicional Forjado",
+        "ru": "Добавочный Ремесленный Предмет",
+        "th": "ไอเทมเพิ่มเติมจากการสรรค์สร้าง",
+        "vi": "Sản Phẩm Ghép Tăng Thêm"
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

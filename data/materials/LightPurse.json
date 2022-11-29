@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Light Purse",
+        "de": "Leichter Geldbeutel",
+        "chs": "轻飘飘的钱袋",
+        "cht": "輕飄飄的錢袋",
+        "es": "Monedero muy ligero",
+        "fr": "Bourse légère",
+        "id": "Dompet yang Ringan",
+        "jp": "軽いお財布",
+        "kr": "가벼운 돈주머니",
+        "pt": "Porta Moeda Leve",
+        "ru": "Невесомый кошелёк",
+        "th": "ถุงใส่เงินที่เบาหวิว",
+        "vi": "Túi Tiền Nhẹ Tênh"
+    },
+    "id": 101675,
+    "materialDesc": {
+        "en": "A purse you got from Mona. It contains the amount she needs to pay her rent.",
+        "de": "Ein Geldbeutel, den du von Mona bekommen hast. Er enthält den Betrag, den sie für ihre Miete braucht.",
+        "chs": "从莫娜那里拿到的钱袋，里面装着莫娜用来付房租的钱。",
+        "cht": "從莫娜那裡拿到的錢袋，裡面裝著莫娜用來付房租的錢。",
+        "es": "Un monedero que te dio Mona. Contiene el dinero que debe pagar por su alquiler de este mes.",
+        "fr": "Une bourse que vous avez obtenue de la part de Mona. Elle contient le montant dont elle a besoin pour payer son loyer.",
+        "id": "Dompet yang kamu terima dari Mona. Berisikan biaya sewa yang harus dia bayar.",
+        "jp": "モナから貰ったお財布。中にはモナの家賃が入っている。",
+        "kr": "모나에게서 받은 돈주머니. 안에는 모나의 월세가 들어있다",
+        "pt": "Um porta moeda de Mona. Dentro dele está o dinheiro de Mona para pagar o aluguel.",
+        "ru": "Кошелёк, который вам дала Мона. Внутри деньги Моны за аренду.",
+        "th": "ถุงใส่เงินที่รับมาจากมือ Mona ด้านในมีเงินที่ Mona เอาไว้จ่ายค่าเช่าบ้าน",
+        "vi": "Túi tiền nhận được từ chỗ Mona, cô ấy dùng nó để trả tiền thuê phòng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yanfei's Stella Fortuna",
+        "de": "Stella Fortuna von Yanfei",
+        "chs": "烟绯的命星",
+        "cht": "煙緋的命星",
+        "es": "Stella Fortuna de Yanfei",
+        "fr": "Stella Fortuna de Yanfei",
+        "id": "Yanfei's Stella Fortuna",
+        "jp": "煙緋の星屑",
+        "kr": "연비의 운명의 별",
+        "pt": "Stella Fortuna de Yanfei",
+        "ru": "Удача Янь Фэй",
+        "th": "ดวงดาวแห่งชีวิตของ Yanfei",
+        "vi": "Chòm Sao Của Yanfei"
+    },
+    "id": 1148,
+    "materialDesc": {
+        "en": "Yanfei's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Yanfeis Sternbild",
+        "chs": "烟绯的命之座激活素材",
+        "cht": "煙緋的命之座啟用素材",
+        "es": "Material de activación de constelación de Yanfei",
+        "fr": "Matériau d'activation de la constellation de Yanfei.",
+        "id": "Material aktivasi untuk konstelasi Yanfei",
+        "jp": "煙緋の命ノ星座アンロック用素材",
+        "kr": "연비의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Yanfei",
+        "ru": "Материал для активации созвездия Янь Фэй.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Yanfei",
+        "vi": "Nguyên liệu kích hoạt Cung Mệnh của Yanfei."
+    },
+    "materialType": "MATERIAL_TALENT"
+}

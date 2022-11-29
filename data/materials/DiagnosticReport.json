@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagnostic Report",
+        "de": "Befund",
+        "chs": "诊断报告",
+        "cht": "診斷報告",
+        "es": "Informe de diagnóstico",
+        "fr": "Rapport diagnostique",
+        "id": "Laporan Diagnosis",
+        "jp": "診断書",
+        "kr": "진단서",
+        "pt": "Relatório de Diagnóstico",
+        "ru": "Диагностический отчёт",
+        "th": "รายงานการวินิจฉัย",
+        "vi": "Báo Cáo Chẩn Đoán"
+    },
+    "id": 120048,
+    "materialDesc": {
+        "en": "A complete set of medical documentation that seems to have been extracted from a larger book.",
+        "de": "Eine intakte Seite von Krankenhausdokumenten. Sie scheint aus einem Ordner gefallen zu sein.",
+        "chs": "一页完好的医院文件记录，似乎是从簿册中脱落出来的。",
+        "cht": "一頁完好的醫院文件紀錄，似乎是從簿冊中脫落出來的。",
+        "es": "Una página intacta de los registros del hospital. Parece haberse desprendido de algún libro.",
+        "fr": "Un ensemble complet de documents médicaux qui semble avoir été extrait d'un livre plus volumineux.",
+        "id": "Catatan medis lengkap yang kelihatannya ditarik dari sebuah buku yang lebih besar.",
+        "jp": "完全な状態の1ページ。病院の資料から抜け落ちたらしい。",
+        "kr": "기록이 온전한 병원 서류의 한 페이지. 차트에서 빠져나온 것 같다",
+        "pt": "Uma página de registros médicos completos. Parece ter sido arrancada de algum livro.",
+        "ru": "Полный комплект медицинской документации, который, похоже, был извлечён из более крупной книги.",
+        "th": "หน้าเอกสารของทางโรงพยาบาล ที่ดูเหมือนจะหลุดออกมาจากหน้าบันทึก",
+        "vi": "Một trang tài liệu nguyên vẹn của bệnh viện, hình như đã bị rơi ra khỏi cuốn sách."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Test Temporary stamina Growth Item",
+        "de": "(Test) Objekt für kurzzeitigen Anstieg der Ausdauer",
+        "chs": "测试用体力临时增长道具",
+        "cht": "測試用體力臨時增長道具",
+        "es": "Probar objeto de aumento temporal de Aguante",
+        "fr": "(test)",
+        "id": "Test Temporary stamina Growth Item",
+        "jp": "テスト用スタミナ臨時増加アイテム",
+        "kr": "테스트용 스태미나 임시 성장 아이템",
+        "pt": "Testar Item de Crescimento de Stamina Temporária",
+        "ru": "测试用体力临时增长道具",
+        "th": "ทดสอบไอเทมพัฒนาพลังกายชั่วคราว",
+        "vi": "Test dùng đạo cụ tăng thể lực tạm thời"
+    },
+    "id": 106001,
+    "materialDesc": {
+        "en": "Test item for increasing max stamina temporarily",
+        "de": "Objekt für den Test eines einmaligen Anstiegs der max. Ausdauer.",
+        "chs": "用于一次性增加体力上限的测试道具",
+        "cht": "用於一次性增加體力上限的測試道具",
+        "es": "Objeto de prueba para aumentar el Aguante Máx. temporalmente",
+        "fr": "Objet test pour augmenter l'endurance de manière temporaire.",
+        "id": "Test item untuk meningkatkan stamina selama sementara waktu",
+        "jp": "スタミナ上限を増やすテスト用アイテム",
+        "kr": "1회성으로 스태미나 최대치를 늘리는데 사용하는 테스트 아이템",
+        "pt": "Item de teste para aumentar a Stamina Máxima temporariamente.",
+        "ru": "Тестовый предмет для временного увеличения макс. выносливости",
+        "th": "ไอเทมทดสอบเพื่อเพิ่มพลังกายให้ถึงขีดจำกัดชั่วคราว",
+        "vi": "Test đạo cụ dùng một lần làm tăng giới hạn thể lực"
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Final Instructions\"",
+        "de": "„Letzte Anweisungen“",
+        "chs": "「最终指令」",
+        "cht": "「最終指令」",
+        "es": "Orden final",
+        "fr": "Instructions finales",
+        "id": "\"Instruksi Terakhir\"",
+        "jp": "「最終指令」",
+        "kr": "「최종 지령」",
+        "pt": "Ordens Finais",
+        "ru": "Последний приказ",
+        "th": "\"คำสั่งสุดท้าย\"",
+        "vi": "\"Mệnh Lệnh Cuối Cùng\""
+    },
+    "id": 101662,
+    "materialDesc": {
+        "en": "Fatui operational orders that you obtained from Lyudochka. They detail an operation that will take place in the future on Watatsumi Island. This intelligence is very important — peoples' lives are at stake here!",
+        "de": "Fatui-Einsatzbefehle, die du von Lyudochka erhalten hast. Sie beschreiben eine Operation, die in der Zukunft auf der Insel Watatsumi stattfinden wird. Diese Informationen sind sehr wichtig: Hier stehen Menschenleben auf dem Spiel!",
+        "chs": "从柳达希卡手里得到的愚人众行动指令，详细叙述了接下来要在海祇岛上执行的任务。由于事关民众的安危，这张纸上的情报尤为重要。",
+        "cht": "從柳達希卡手裡得到的愚人眾行動指令，詳細敘述了接下來要在海祇島上執行的任務。由於事關民眾的安危，這張紙上的情報尤為重要。",
+        "es": "Unas instrucciones para los Fatui que obtuviste de Lyudochka. Describen detalladamente la próxima misión que se realizará en la Isla Watatsumi. Al estar relacionada con la seguridad de los habitantes, la información de este papel es sumamente importante.",
+        "fr": "Ordres opérationnels Fatui que vous avez obtenus de Lyudochka. Ils détaillent une opération prévue sur l'Île de Watatsumi. Cette information est de la plus grande importance, il y a des vies en jeu !",
+        "id": "Perintah operasional Fatui yang kamu ambil dari Lyudochka. Isinya adalah tentang pelaksanaan operasi yang akan diadakan di Pulau Watatsumi. Informasi ini teramat penting, nyawa banyak orang menjadi taruhannya!",
+        "jp": "リュドヒカから貰ったファデュイの動きを記した指示書。これから海祇島で実行される任務が詳しく載っている。人々の安全に関わるため、この紙に書かれた情報は極めて重要である。",
+        "kr": "류다치카에게서 받은 우인단 행동 지령, 와타츠미섬에서 집행해야 할 임무가 상세하게 적혀있다. 사람들의 안위가 걸려있기 때문에 정말 중요한 정보이다",
+        "pt": "Ordens de operações Fatui obtidas de Lyudochka. Descrevem detalhadamente as próximas missões na Ilha Watatsumi. Como envolvem perigos para a população, esse pedaço de papel é de suma importância.",
+        "ru": "Оперативное распоряжение для Фатуи, которое вы получили от Людочки. В нём подробно описана операция, которая состоится на острове Ватацуми. Эти сведения очень важны, ведь на кону жизни людей!",
+        "th": "คำสั่งดำเนินการของ Fatui ที่ได้รับมาจาก Lyudochka ซึ่งมีรายละเอียดเกี่ยวกับภารกิจต่อไปในเกาะ Watatsumi ข้อมูลในเอกสารนี้มีความสำคัญมาก เพราะเกี่ยวข้องกับความปลอดภัยและอันตรายของผู้คน",
+        "vi": "Mệnh lệnh của Fatui, lấy được từ tay Lyudochka, ghi lại chi tiết các nhiệm vụ cần làm tiếp theo tại Đảo Watatsumi. Vì sự an toàn của dân chúng, tình báo trong mảnh giấy này là cực kỳ quan trọng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

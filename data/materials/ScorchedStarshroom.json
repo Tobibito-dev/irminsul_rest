@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scorched Starshroom",
+        "de": "Verbrannter Sternpilz",
+        "chs": "枯焦的星蕈",
+        "cht": "枯焦的星蕈",
+        "es": "Hongo estelar chamuscado",
+        "fr": "Champitoile calciné",
+        "id": "Scorched Starshroom",
+        "jp": "ひからびた星茸",
+        "kr": "건조된 별 버섯",
+        "pt": "Cogumelo Estrelar Queimado",
+        "ru": "Обожжённый гриб-звезда",
+        "th": "Starshroom ที่ไหม้เกรียม",
+        "vi": "Nấm Sao Cháy Khô"
+    },
+    "id": 101227,
+    "materialDesc": {
+        "en": "A fungus with a cap that resembles a five-pointed star. It seems to be a little singed.",
+        "de": "Ein Pilz mit einer an einen fünf-zackigen Stern erinnernden Kappe, in dem viel Lebensenergie steckt. Er sieht leicht verbrannt aus.",
+        "chs": "伞盖形如五角星星一般的菌类，生命力十分顽强。看上去似乎被烤焦了。",
+        "cht": "傘蓋形如五角星星一般的菌類，生命力十分頑強。看起來似乎被烤焦了。",
+        "es": "Un hongo con un sombrero en forma de estrella y una gran vitalidad. Por su aspecto, parece que se ha chamuscado.",
+        "fr": "Un champignon dont le chapeau ressemble à une étoile à cinq branches. Son apparence donne l'impression qu'il a été légèrement brûlé.",
+        "id": "Jamur dengan topi yang menyerupai bintang segi lima. Tampaknya agak sedikit hangus.",
+        "jp": "カサが五芒星のような形をしているキノコ。強靭な生命力を持っている。焦げているみたいに見える…",
+        "kr": "버섯갓이 별 모양으로 된 균류. 생명력이 무척 강하며 불에 탄 것 같은 모양새다",
+        "pt": "Um fungo em forma de uma estrela de cinco pontas. É bastante resistente e parece estar um pouco queimado.",
+        "ru": "Этот гриб в форме пятиконечной звезды обладает удивительной живучестью. Кажется, его слегка подпалили.",
+        "th": "เห็ดที่หมวกเห็ดมีรูปร่างคล้ายดาวห้าแฉก พวกมันมีพลังชีวิตที่แกร่งกล้ามาก และดูเหมือนจะถูกย่างจนไหม้เกรียมแล้ว",
+        "vi": "Loại nấm có hình ngôi sao năm cánh, có tán, sức sống rất ngoan cường. Trông như bị nướng cháy."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

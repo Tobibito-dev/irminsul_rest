@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Frost-Weaved Dignity",
+        "de": "Erhabenheit des Frostwebers",
+        "chs": "遍结寒霜的傲骨",
+        "cht": "遍結寒霜的傲骨",
+        "es": "Orgullo del Invierno",
+        "fr": "Fierté du Tisseur de givre",
+        "id": "Frost-Weaved Dignity",
+        "jp": "霜を纏った気骨",
+        "kr": "서리를 감싼 기골",
+        "pt": "Orgulho da Geada",
+        "ru": "Морозная гордость",
+        "th": "Frost-Weaved Dignity",
+        "vi": "Niềm Kiêu Hãnh Băng Giá"
+    },
+    "id": 24181,
+    "setId": 14001,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

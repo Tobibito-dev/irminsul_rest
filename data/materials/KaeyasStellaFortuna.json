@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kaeya's Stella Fortuna",
+        "de": "Stella Fortuna von Kaeya",
+        "chs": "凯亚的命星",
+        "cht": "凱亞的命星",
+        "es": "Stella Fortuna de Kaeya",
+        "fr": "Stella Fortuna de Kaeya",
+        "id": "Kaeya's Stella Fortuna",
+        "jp": "ガイアの星屑",
+        "kr": "케이아의 운명의 별",
+        "pt": "Stella Fortuna de Kaeya",
+        "ru": "Удача Кэйи",
+        "th": "ดวงดาวแห่งชีวิตของ Kaeya",
+        "vi": "Chòm Sao Của Kaeya"
+    },
+    "id": 1115,
+    "materialDesc": {
+        "en": "Kaeya's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Kaeyas Sternbild",
+        "chs": "凯亚的命之座激活素材",
+        "cht": "凱亞的命之座啟用素材。",
+        "es": "Material de activación de constelación de Kaeya",
+        "fr": "Matériau d'activation de la constellation de Kaeya.",
+        "id": "Material aktivasi untuk konstelasi Kaeya",
+        "jp": "ガイアの命ノ星座アンロック用素材",
+        "kr": "케이아의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Stella Fortuna de Kaeya",
+        "ru": "Материал для активации созвездия Кэйи.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Kaeya",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Kaeya"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

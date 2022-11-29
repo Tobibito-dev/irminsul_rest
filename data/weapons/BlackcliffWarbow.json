@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Blackcliff Warbow",
+        "de": "Schwarzstein-Kriegsbogen",
+        "chs": "黑岩战弓",
+        "cht": "黑岩戰弓",
+        "es": "Arco del Peñasco Oscuro",
+        "fr": "Arc de guerre de Rochenoire",
+        "id": "Blackcliff Warbow",
+        "jp": "黒岩の戦弓",
+        "kr": "흑암 배틀 보우",
+        "pt": "Arco do Penhasco Obscuro",
+        "ru": "Черногорский боевой лук",
+        "th": "Blackcliff Warbow",
+        "vi": "Cung Hắc Nham"
+    },
+    "id": 15408,
+    "type": "WEAPON_BOW",
+    "rankLevel": 4,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 43.734901428222656
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT",
+            "value": 0.07999999821186066
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0880000591278076,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1759999990463257,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2640000581741333,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3530000448226929,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4420000314712524,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.531000018119812,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.621000051498413,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7100000381469727,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7999999523162842,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8910000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9809999465942383,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.072000026702881,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1619999408721924,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.253000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.3450000286102295,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.436000108718872,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.5269999504089355,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.61899995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7109999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.802999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8949999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.986999988555908,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0799999237060547,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.171999931335449,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.265000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3580000400543213,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4509999752044678,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5439999103546143,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.63700008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7309999465942383,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8239998817443848,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9179999828338623,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.011000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.105000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.198999881744385,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.293000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.38700008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.480999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.669000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.763000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.857999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.952000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.046999931335449,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.142000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.236000061035156,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.330999851226807,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.426000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.520999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.616000175476074,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.710999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.806000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.901000022888184,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.995999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.0920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.186999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.2820000648498535,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.377999782562256,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.4730000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.568999767303467,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.664000034332275,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.760000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.855999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.951000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.046999931335449,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.14300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.238999843597412,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.335000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.431000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.5269999504089355,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.623000144958496,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.718999862670898,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.815000057220459,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.910999774932861,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.006999969482422,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.102999687194824,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.199000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.295999526977539,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.392000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.48799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.585000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.680999755859375,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.777000427246094,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.87399959564209,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.970000267028809,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.067000389099121,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.163000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.260000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.355999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.45300006866455,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.550000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.645999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.743000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.84000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.935999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.032999992370605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.130000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.22700023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.324000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 15408,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114013,
+                    "count": 3
+                },
+                {
+                    "id": 112029,
+                    "count": 3
+                },
+                {
+                    "id": 112038,
+                    "count": 2
+                }
+            ],
+            "coinCost": 5000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 25.899999618530273
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114014,
+                    "count": 3
+                },
+                {
+                    "id": 112029,
+                    "count": 12
+                },
+                {
+                    "id": 112038,
+                    "count": 8
+                }
+            ],
+            "coinCost": 15000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 51.900001525878906
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114014,
+                    "count": 6
+                },
+                {
+                    "id": 112030,
+                    "count": 6
+                },
+                {
+                    "id": 112039,
+                    "count": 6
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 77.80000305175781
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114015,
+                    "count": 3
+                },
+                {
+                    "id": 112030,
+                    "count": 12
+                },
+                {
+                    "id": 112039,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 103.69999694824219
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114015,
+                    "count": 6
+                },
+                {
+                    "id": 112031,
+                    "count": 9
+                },
+                {
+                    "id": 112040,
+                    "count": 6
+                }
+            ],
+            "coinCost": 35000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 129.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 15408,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114016,
+                    "count": 4
+                },
+                {
+                    "id": 112031,
+                    "count": 18
+                },
+                {
+                    "id": 112040,
+                    "count": 12
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+        "de": "Ein aus Schwarzstein hergestellter Bogen. Die Arme halten eine unfassbare Zugkraft aus. Nur die Kräftigsten können diesen Bogen nach Belieben benutzen.",
+        "chs": "以黑岩塑成的弓。弓臂坚硬无比，只有膂力绝人的弓手才能尽心所欲地使用。",
+        "cht": "以黑岩塑成的弓。弓臂堅硬無比，只有膂力絕人的弓手才能盡心所欲地使用。",
+        "es": "Un arco hecho de piedra negra cuyos extremos son sumamente resistentes. Su uso requiere de un arquero diestro y de brazos fuertes.",
+        "fr": "Un arc de roche noire, à la courbure d'une solidité à toute épreuve. Seul un archer aux bras robustes peut le manier.",
+        "id": "Sebuah busur yang dibuat dari blackstone, sangat kokoh. Membutuhkan seorang pemanah dengan lengan yang kuat untuk menggunakannya.",
+        "jp": "黒岩でできた弓。かなり硬いため、腕に自信のある射手だけが思うままに使いこなせられる。",
+        "kr": "흑암으로 만든 활. 활짱은 단단하기 그지없어서 오직 힘이 장사인 궁수만이 자유자재로 다룰 수 있다",
+        "pt": "Um arco feito de Pedra Negra extremamente robusto. Requer um arqueiro com um braço forte para usar.",
+        "ru": "Весьма крепкий лук из чёрного камня. Только лучники с сильными руками смогут им воспользоваться.",
+        "th": "คันธนูที่ทำจากหิน blackstone ที่มีคันศรอันแข็งแกร่ง ผู้ยิงต้องเป็นมือธนูที่กำยำแข็งแกร่งเท่านั้น",
+        "vi": "Tạo nên từ hắc nham. Cung chắc chắn và nặng vô cùng, chỉ có cung thủ có thể lực tốt mới có thể phát huy hết sức mạnh."
+    },
+    "flavor": {
+        "en": "\nA longbow made from rare blackcliff. Drawing the bow invokes a sound like the wind — a premonition of the final breeze for any target within 100 yards.\nWith a jet-black body contrasted by blood-red ends, it's cold to the touch without being intimidating. A shot from this bow takes to the skies like a meteor, challenging both wind and thunder.\n\nThe house of Yun has long since established itself in Liyue as a family of craftsmen. At the time of this bow's inception, the seventh head of the house, Hui, was well-renowned as a member of the Qixing.\nYun Hui had but one child, a daughter, by the name of Huang. As per familial custom, should she marry, her husband would take over as head of house.\nHaving been raised an unyielding martial artist, Huang refused to take this path, and instead took over as the daughter she was, inciting endless gossip amongst the people.\nBut Yun Huang took control at a hard time.\n\nThe continent was troubled. Even the loftiest of peaks and deepest of caves collapsed to a symphony of low roars.\nThe bounty of the earth beneath them became almost unreachable, threatening to bring an end to the legacy of their craft.\nOne night Yun Huang lay awake unable to sleep, tortured by her worries that her family's name would end with her.\nAmidst the sorrow that enveloped her, she could do naught but call upon the heavens and pray for celestial intervention in her desperate situation.\n\nIt was then that Han Ce, who had long since abandoned his family business and wandered the continent, arrived in the village in his craftsman's attire.\nHe handed Huang a small wooden box, within which were the prototype plans his father had revised in his later years. He also took out a bow and said:\n\"As the issue arose from Blackcliff, so too shall it end by Blackcliff. It is said that the house of Yun appreciates archery. Should it please you, give this bow a try.\"\nHuang fired an arrow into the sky. It roared across the heavens like angry thunder, as the sound of the bowstring being released reverberated throughout the mountains.\nAs she watched the clouds flow beneath the moon, she knew that her prayer had been answered.\n",
+        "de": "\nEin Langbogen aus seltenem Schwarzstein. Den Bogen zu spannen erzeugt ein Geräusch wie das des Windes, wie eine Vorahnung des letzten Atemzugs jedes Ziels innerhalb von hundert Schritten Entfernung.\nSein pechschwarzer Körper, der von blutroten Enden kontrastiert wird, fühlt sich kalt an, ohne einschüchternd zu wirken. Ein Schuss von diesem Bogen steigt wie ein Meteor in den Himmel und fordert sowohl Wind als auch Donner heraus.\n\nDie Familie Yun hatte sich in Liyue längst als Handwerkerfamilie etabliert. Zum Zeitpunkt der Erfindung dieses Bogens war der siebte Vorsteher des Hauses, Hui, auch ein hoch angesehenes Mitglied der Qixing.\nYun Hui hatte nur ein Kind, eine Tochter namens Huang. Sollte sie eines Tages heiraten, würde ihr Mann, nach familiärer Tradition, die Leitung des Hauses übernehmen.\nNachdem Huang unnachgiebig als Kampfkünstlerin aufgewachsen war, weigerte sie sich, diesen Weg zu gehen und übernahm stattdessen die Leitung als Tochter, die sie war, was folglich zu endlosem Tratsch unter den Leuten führte.\nYun Huang übernahm die Leitung jedoch zu einer schwierigen Zeit.\n\nDer ganze Kontinent war in Aufruhr. Selbst die höchsten Gipfel und tiefsten Höhlen schlugen eine Symphonie leiser Geräusche an.\nDie Bodenschätze unter ihnen wurden fast unerreichbar und bedrohten das Erbe ihres Handwerks zu beenden.\nEines Nachts lag Yun Huang wach und konnte nicht schlafen. Sie wurde von ihrer Sorge gequält, dass der Name ihrer Familie mit ihr als letzter Vorsteher enden würde.\nInmitten der Trauer, die sie umgab, konnte sie nichts anderes tun, als den Himmel anzubeten, um göttliche Hilfe in ihrer verzweifelten Situation zu bekommen.\n\nZu diesem Zeitpunkt kam Han Ce, der sein Familienunternehmen längst aufgegeben und das Land bereist hatte, in seiner Handwerkskleidung ins Dorf.\nEr gab Huang eine kleine Holzkiste, in der sich die Prototypenpläne befanden, die sein Vater in seinen späteren Jahren überarbeitet hatte. Er nahm auch einen Bogen heraus und sagte,\n„Das Problem liegt beim Schwarzstein, so soll es auch mit Schwarzstein enden. Man sagt, das Haus von Yun schätze Bogenschießen. Sollte dem so sein, versuche es mit diesem Bogen.“\nHuang feuerte einen Pfeil in den Himmel. Er dröhnte wie wütender Donner über den Himmel, als das Geräusch der Bogensehne, als diese losgelassen wurde, in den Bergen widerhallte.\nAls sie die Wolken unter dem Mond zerfließen sah, wusste sie, dass ihr Gebet erhört worden war.\n",
+        "chs": null,
+        "cht": "\n由十分罕見的黑岩製成的長弓。引弓聽風，能百步穿楊。\n弓身中段漆黑，兩端血紅，觸手寒而不陰。張弓射箭，箭如流星入天，足以追風逐雷。\n\n璃月雲氏是歷史悠久的鍛造世家。彼時的第七代家主輝更是七星之一，極富名望。\n雲輝僅有一個女兒，名凰。依家族的慣例，雲凰成婚後將由夫婿入贅接任大掌櫃。\n自幼習武、個性剛強的凰並無此意，堅持以女兒身接手家業，一時引來流言無數。\n但雲凰就任正值難時。\n\n彼時的大地並不平靜。山嶽與洞窟在低聲的轟鳴嘶叫中，坍塌挪移。\n深埋地下的寶石金屬難以開採，鍛煉兵器、傳承手藝之事難以為繼。\n是夜。雲凰輾轉難眠，恐怕雲家百年有餘的鍛兵傳承要她手中斷絕。\n愁緒萬千中，她只得對天祈禱，盼望神仙能巧施妙法解她燃眉之急。\n\n過去放棄家業雲遊天下的寒氏之策，此時卻身著匠人裝束入莊尋訪。\n他取出一方木匣交予，是其父晚年依照「試作」修訂的新圖譜。又取長弓一挺，說：\n「此事因黑岩而起，還希望以黑岩做結。聽聞雲掌櫃喜愛射箭，如不嫌棄還請一試」\n凰朝天放箭。飛矢如逆行欃槍奔空怒雷，而留弦之音則久久迴盪在山林之中。\n遠眺月下流雲，她只覺轉機已到…\n",
+        "es": "\nUn arco largo fabricado con piedra negra, un material muy poco común. Al tirar de la cuerda se puede escuchar el sonido del viento. Puede disparar con gran precisión.\nSu centro es negro, y sus dos extremos, de color carmesí. Es frío al tacto, pero no tanto como para quitar las manos de él rápidamente. La flecha que dispara es veloz como una estrella fugaz, capaz de alcanzar al viento y al trueno.\n\nLa familia Yun de Liyue tiene una larga historia como casa de herreros de renombre. Entre ellos, Yun Hui, de la séptima generación, elevó el nombre de la familia al ser nombrado una de las Siete Estrellas.\nYun Hui tenía solo una hija, llamada Yun Huang. Siguiendo la tradición, después de contraer matrimonio, su marido pasó a formar parte de la familia y se convirtió en el cabeza de familia.\nDesde pequeña, Yun Huang había estudiado artes marciales. De carácter tenaz, siempre se rehusó a heredar el negocio familiar, lo que dio pie a diversos rumores.\nLa chica se encontraba en una situación difícil.\n\nEran tiempos turbulentos. Las montañas y las cavernas emitían tenues rugidos, y terminaron por colapsar.\nCada vez se volvió más difícil extraer minerales de las profundidades de la tierra, y la continuidad del negocio familiar se puso en peligro.\nUna noche, Yun Huang no pudo conciliar el sueño, preocupada por que la tradición centenaria de la forja llegaría a su fin al pasar a manos suyas.\nAngustiada, la joven no vio otra solución más que rezarle al cielo, esperando que los dioses escucharan sus plegarias y resolvieran su problema.\n\nUn día, Han Tse, que había rechazado el negocio familiar y había decidido recorrer el mundo, llegó a la aldea vestido de herrero.\nSacó una pequeña caja, la cual contenía la «Enciclopedia de prototipos» que había escrito su padre en sus últimos años de vida. Acto seguido, sacó un arco largo y dijo:\n“Todo comenzó gracias a la piedra negra, y con ella quiero que termine. Escuché que a la familia Yun le gustan los arcos. Si no le importa, ¿podría probarlo?”.\nYun Huang alzó la mirada y disparó al cielo. La flecha cruzó los cielos, rugiendo como un relámpago, y el sonido del arco reverberó lejos en las montañas.\nMientras contemplaba las nubes que flotaban a lo lejos, bajo la luz de la luna, Yun Huang tuvo el presentimiento de que las cosas iban a cambiar para mejor...\n",
+        "fr": "\nUn arc long réalisé en roche noire d'une extrême rareté. On raconte à son sujet que celui qui le brandit peut en écoutant les vents toucher sa cible à mille pieds.\nLe corps de l'arme est d'un noir d'ébène en son centre, et de couleur vermillon à ses deux extrémités. Les flèches qui en sont tirées sont capables de poursuivre le vent et la foudre.\n\nLe Clan Yun était un clan de forgerons établis depuis longtemps à Liyue ; Yun Hui, le patriarche de la septième génération, était également l'une des Sept Étoiles de la cité.\nYun Hui n'avait qu'une seule fille, nommée Phénix. La tradition du clan voulait qu'à son mariage, son époux reprenne les affaires de son père.\nPhénix, qui étudiait les arts martiaux depuis sa jeune enfance et avait un caractère fort, s'éleva contre la tradition, et s'obstina à reprendre l'affaire de son père sous sa propre identité, ce qui fit beaucoup jaser.\nQui plus est, la reprise des affaires du clan ne s'avéra pas chose aisée.\n\nLes terres d'alors étaient loin d'être en paix ; le grondement grave des monts et des cavernes se faisait entendre, et la montagne vivait.\nLes minerais et métaux profondément enfouis sous terre étaient difficiles à exploiter ; poursuivre le commerce du clan était chose difficile.\nUne nuit, Phénix se retournait dans ses draps, toute à son inquiétude d'échouer dans son métier et d'échouer à la transmission d'un art de plusieurs générations.\nN'ayant d'autre recours pour apaiser son angoisse, la jeune fille pria les dieux pour qu'ils apportent une solution à son dilemme.\n\nHan Ce, le fils de Han Wu, avait lui refusé de prendre la suite de son père et était parti voyager de par le monde. Il revint à passer au village, portant les atours d'un artisan.\nSortant un coffret en bois, il sortit un arc, résultat des plans prototypes de son père ; il parla en ces termes à Phénix :\n« Tout ceci est dû à la roche noire, et devrait être résolu par elle. J'ai entendu dire que le Clan Yun apprécie les arcs de bonne facture ; peut-être celui-ci aura-t-il l'heur de te plaire ? »\nPhénix tira vers le soleil. La flèche partir telle une comète, rageant à travers les cieux ; l'écho de la corde pincée continua de s'entendre un moment dans les montagnes.\nEn regardant les nuages au loin, Phénix sentit que les choses allaient enfin tourner au mieux.\n",
+        "id": "\nSebuah busur panjang terbuat dari Blackstone langka. Seolah dapat mendengar suara angin, dapat menembakkan target sejauh 100 yard.\nBagian tengah dari busur berwarna gelap, dengan warna merah darah di kedua ujungnya, dingin saat disentuh. Tembakan dari busur ini menjulang ke angkasa bagai meteor, menantang angin dan petir.\n\nKeluarga Yun sudah lama tinggal di Liyue sebagai keluarga pengrajin. Pada saat busur ini lahir, kepala keluarga ketujuh, Hui, dikenal sebagai anggota Qixing.\nYun Hui mempunyai seorang putri bernama Huang. Berdasarkan adat istiadat keluarga, jika dia menikah maka suaminya akan menjadi kepala keluarga.\nDibesarkan sebagai seniman bela diri yang gigih, Huang menolak untuk mengambil alih bisnis keluarganya, yang akhirnya berujung pada gosip yang tidak menyenangkan di kalangan masyarakat.\nNamun Yun Huang tetap mengambil alih pada masa sulit.\n\nDunia pada saat itu mengalami bencana. Bahkan puncak tertinggi dan gua terdalam pun runtuh dalam sebuah simfoni raungan rendah.\nLogam permata yang terkubur di dalam bumi sulit untuk ditambang, sehingga mengancam kerajinan mereka yang sudah turun-temurun.\nPada suatu malam Yun Huang tidak bisa tidur, tersiksa oleh kekhawatirannya bahwa nama besar keluarganya akan berakhir pada dirinya.\nDi samping kesedihan yang melandanya, dia memohon dan berdoa kepada para Dewa untuk membantunya di saat sulit seperti ini.\n\nPada saat itulah Han Ce, yang telah meninggalkan bisnis keluarganya sejak lama berkunjung ke daerah tersebut, tiba di desa tersebut dengan masih memakai pakaian pengrajin.\nDia menyerahkan pada Huang sebuah kotak kayu, di dalamnya adalah rancangan prototipe ayahnya yang telah direvisi. Dia juga mengeluarkan sebuah busur dan berkata:\n\"Masalah datang dari Blackcliff, jadi biarlah diselesaikan oleh Blackcliff juga. Aku dengar keluarga Yun senang panahan. Jika kamu berkenan, silakan coba busur ini.\"\nHuang menembakkan panah ke angkasa. Bergemuruh di angkasa seperti petir yang mengamuk, dan suara tali busur yang dilepaskan bergema di seluruh pegunungan.\nSaat dia melihat awan di bawah bulan, dia tahu bahwa doanya telah terjawab...\n",
+        "jp": "\n希少な黒岩で作られた長弓。風に導かれた矢は百発百中となる。\n弓柄の中央は黒いが、両端は血のように紅く、握れば冷たく感じる。放たれる矢はまるで流星のよう。\n\n璃月の雲氏一族は長い歴史をもつ鍛造の名門である。さらに七代目の雲輝は七星の一人で名望が高い。\n雲輝には一人の娘がいる。名前は雲凰。一族の慣習に倣うと、雲凰の夫になる人が雲輝の跡を継ぐことになる。\n幼い頃から武術を学んだ気が強い雲凰。彼女は「女性でも跡を継ぎたい」と主張し、一時話題になった。\nしかしこの時、雲凰が跡を継ぐ可能性は低いと思われた。\n\n当時の大地は危険だった。頻繁に坑道が崩落していた。\n崩落によって鉱物が地中深くに埋まり、採掘ができなくなった。武器の鍛造や跡継ぎの話も難しくなってきた。\nその日の夜、彼女は眠れずに居た。一族の歴史が自分の代で終わるのではないかと心配した雲凰は、\n悲しみに暮れ、神に祈るしかなかった。\n\n翌日、かつて父の跡を継がなかった寒策は職人の衣装で現れた。\nそして、木の匣を雲凰に渡した。中には「試作」を改良した設計図が入っている。さらに一張の弓も取り出した。\n「全ての始まりは黒岩である。終わる時も黒岩であろう。雲さんは弓使いと聞いたが、差し支えなければぜひ使ってくれ」\n雲凰はその弓を引いた。矢は稲妻のように天へと飛んでいき、弦の空気を震わす音が山に響き渡った。\n雲を裂く一矢。鉛色の空から顔を出した月を見て、彼女は転機を予感した。\n",
+        "kr": "\n매우 희귀한 흑암으로 만든 활. 활을 당기면 바람이 갈라지고 백보천양이다\n활체 중간 부분은 까맣고 양 끝은 피처럼 붉다. 촉감은 서늘하지만 스산하지 않다. 활로 화살을 쏘면, 화살은 유성처럼 바람과 번개를 추격한다.\n\n리월의 운 씨 가문은 유구한 역사를 자랑하는 단조 명가이다. 이때 제 7대 가주인 운휘는 칠성 중 하나로 몹시 부유하며 명망 높았다. \n운휘에게는 황이라는 이름의 딸 하나뿐이었다. 가문의 관례에 따라 운황이 혼인하면 사위가 입적하여 가문을 맡기로 되어 있었다.\n어릴 때부터 무예를 연마하고 개성이 강했던 황은 이를 거부했다. 그녀는 여인의 몸으로 가업을 계승하길 고수하여 세간의 입방아에 오르게 되었다.\n그러나 운황이 가주가 되려는 때 재난이 닥쳤다.\n\n이때 대지는 평온하지 않았다. 산과 동굴은 낮은 굉음을 내며 무너져내렸다.\n지하에 깊이 묻힌 보석과 금속은 채굴하기 어려웠다. 무기를 제조하고 기술을 전수하는 일을 지속하기 어려웠다.\n밤이었다. 운황은 백 년 넘게 내려오는 운 씨 가문의 무기 단조 기술이 그녀의 대에서 끊어지게 될까봐 걱정으로 잠을 이루지 못했다.\n근심 속에 그녀는 신이 절묘한 방법으로 당면한 위기를 해결해주길 기도하는 수밖에 없었다.\n\n가업을 팽개치고 천하를 떠돌던 한책은 이때 장인의 차림으로 다급히 찾아왔다.\n그는 나무함을 꺼내 건넸다. 그의 부친이 만년에 「시작」에 따라 손본 새로운 도감이었다. 그는 또 활을 꺼내 튕기며 말했다.\n「이 일은 흑암으로 일어났으니 흑암으로 마무리해야지요. 가주께서 활쏘기를 좋아한다고 들었는데 한번 쏴보시지요」\n황은 하늘을 향해 화살을 쐈다. 화살은 번개처럼 하늘을 갈랐고, 활시위의 진동은 오래도록 숲을 울렸다.\n달 밑에 흘러가는 구름을 바라보며 그녀는 상황을 역전시킬 기회가 왔음을 느꼈다…\n",
+        "pt": "\nUm arco longo feito de rocha negra extremamente rara. Diz-se que quem o empunha pode, ouvindo os ventos, acertar o seu alvo a trezentos metros.\nCom um corpo negro, contrastado por extremidades vermelho-sangue, é frio ao toque sem ser intimidante. Um tiro desde arco chega aos céus como um meteoro, desafiando tanto o vento quanto os trovões.\n\nA família Yun se estabeleceu há muito tempo em Liyue como uma família de artesãos. Na época do início deste arco, o sétimo chefe da família, Hui, era bem conhecido como um membro dos Qixing.\nO Yun Hui tem uma filha única chamada Huang, que significa fênix. Segundo a tradição da família, depois do casamento, o marido vai tomar posse como chefe da casa.\nTendo sido criado um artista marcial inabalável, Huang recusou-se a tomar este caminho e, em vez disso, assumiu como filha, incitando fofocas intermináveis entre o povo.\nMas Yun Huang tomou posse em um momento difícil.\n\nO continente estava perturbado. Mesmo os picos mais elevados e as cavernas mais profundas desabaram em uma sinfonia de rugidos baixos.\nMinerais e metais enterrados profundamente no subsolo eram difíceis de extrair, ameaçando pôr fim ao legado de seu ofício.\nUma noite, Yun Huang ficou acordada sem conseguir dormir, torturada por suas preocupações de que o nome de sua família acabasse com ela.\nEm meio à tristeza que a envolveu, ela nada podia fazer a não ser invocar os céus e orar pela intervenção celestial em sua situação desesperadora.\n\nFoi então que o Han Ce, que já tinha abandonado o negócio da família e perambulava pelo continente, chegou à aldeia com suas roupas de artesão.\nEle entregou a Huang uma pequena caixa de madeira, dentro da qual estavam os planos do protótipo que seu pai havia revisado em seus últimos anos. Ele também tirou um arco e disse:\n\"Como a questão surgiu do Penhasco Obscuro, então também deve terminar no Penhasco Obscuro. Diz-se que a família Yun aprecia o tiro com arco e flecha. Caso lhe agrade, experimente este arco.\"\nHuang disparou uma flecha para o céu. Ela rugiu através dos céus como um trovão furioso, enquanto o som do cordão do arco sendo liberado reverberava pelas montanhas.\nEnquanto observava as nuvens fluírem sob a lua, ela sabia que a sua oração tinha sido atendida...\n",
+        "ru": "\nДлинный лук, изготовленный из редкого чёрного камня. Звук натягивающейся тетивы похож на свист ветра - последнего ветра для любой цели в пределах ста метров.\nЧёрная рукоять лука контрастирует с его кроваво-красными плечами, она холодна на ощупь, но не угрожающая. Выпущенная из этого лука стрела взмывает в небо, словно метеорит, бросивший вызов грому и ветрам.\n\nДом Юнь, обосновавшийся в Ли Юэ, давно имеет статус семьи первоклассных мастеров-ремесленников. Во времена появления этого лука седьмой глава дома Юнь по имени Хуэй был известным членом группировки Цисин.\nУ Юнь Хуэя был только один ребёнок - дочь по имени Хуан. Согласно семейной традиции, её будущий муж должен будет стать новым главой дома Юнь.\nВоспитанная боевыми искусствами Хуан отказалась от этой традиции и вместо этого взяла на себя роль обычной дочери, разжигая этим бесконечные сплетни среди обычных людей.\nНо в трудные времена Юнь Хуан брала на себя бразды правления домом.\n\nВесь континент был встревожен. Даже самые высокие вершины и самые глубокие пещеры рухнули в симфонию низких рыков.\nЩедрость земли под ними стала почти недоступной, что угрожало положить конец наследию их ремесла.\nОдной бессонной ночью Юнь Хуан мучили опасения, что она останется последним членом дома Юнь.\nМучаясь от охватившей её скорби, она ничего не могла поделать, кроме как взывать к небесам и молиться о небесном вмешательстве в её отчаянное положение.\n\nИменно тогда Хань Цэ, который давно оставил свой семейный бизнес и бродил в одиночестве по континенту, прибыл в деревню в одежде ремесленника.\nОн отдал Хуан маленькую деревянную коробочку с диаграммами «прототипа», который его отец совершенствовал в свои последние годы жизни. Затем он взял в руки лук и сказал:\n«Проблемы начались в Черногорье, Черногорье их и решит. Говорят, что дом Юнь очень ценит стрельбу из лука. Испытайте этот лук, если вам когда-либо будет угодно».\nХуан выпустила стрелу в небо. Она пронеслась среди облаков, словно разгневанный раскат грома, а звук отпущенной тетивы разнёсся по окружающим горам и лесам.\nНаблюдая за облаками, проносящимися под луной, она знала, что её молитвы были услышаны.\n",
+        "th": "\nธนูยาวที่สร้างขึ้นจากหิน Blackstone ที่หายาก เมื่อง้างธนูได้ยินเสียงลม สามารถยิงได้ไกลกว่าร้อยหลา\nส่วนกลางของคันธนูมีสีดำสนิท ปลายทั้งสองข้างมีสีแดงเลือด เมื่อสัมผัสกับมือจะรู้สึกเย็น เมื่อง้างธนูและยิงออกไป ลูกธนูพุ่งไปราวกับดาวตก เร็วพอที่จะไล่ลมและสายฟ้าได้\n\nในเมือง Liyue... ช่างตีเหล็กตระกูล Yun นั้นมีประวัติศาสตร์อันแสนยาวนาน ซึ่งขณะนั้นทายาทรุ่นที่เจ็ด Yun Hui คือหนึ่งใน Qixing หรือดวงดาวทั้งเจ็ด ซึ่งนั่นยิ่งทำให้มีชื่อเสียงมากขึ้นไปอีก\nYun Hui มีลูกสาวคนเดียวนามว่า Yun Huang แปลว่านกฟีนิกซ์ โดยตามธรรมเนียมของตระกูลแล้ว หลังจาก Yun Huang แต่งงาน สามีของเธอจะต้องเข้ามาสืบทอดตำแหน่งเจ้าของร้าน\nเธอฝึกฝนทักษะการป้องกันตัวมาตั้งแต่เด็ก และด้วยนิสัยที่เด็ดเดี่ยวราวนกฟินิกซ์ของเธอไม่ยอมรับเรื่องนี้ ยืนยันที่จะใช้ความเป็นลูกสาวมารับสืบทอดกิจการของที่บ้านด้วยตนเอง ทำให้นำมาซึ่งเสียงนินทาหนาหู\nแต่จังหวะที่ Yun Huang จะขึ้นมาสืบทอดตำแหน่งนั้นเป็นช่วงเวลาที่ยากลำบาก\n\nผืนดินในขณะนั้นไม่สงบ ภูเขาและถ้ำที่ส่งเสียงคำรามต่ำๆ ได้พังทลายลง\nอัญมณีที่ฝังลึกลงไปใต้ดินยากที่จะขุดออกมา การสร้างอาวุธ และการถ่ายทอดทักษะก็ยากที่จะสืบสานต่อเช่นกัน\nในยามค่ำคืน Yun Huang นอนไม่หลับ ด้วยกลัวว่ากิจการตีเหล็กของตระกูล Yun ที่สืบทอดกันมาเป็นร้อยปี จะมาสิ้นสุดอยู่ที่มือเธอ\nท่ามกลางความกังวล เธอได้อ้อนวอนต่อเทพเจ้า หวังว่าเหล่าเทพจะใช้พลังเวทแก้ไขปัญหาอันเร่งด่วนของเธอได้\n\nในอดีต Hance ที่เคยละทิ้งกิจการของที่บ้านเพื่อไปท่องโลกนั้น ปัจจุบันนี้เขากลับสวมใส่เครื่องแต่งกายของช่างฝีมือเข้าไปในหมู่บ้าน\nเขาหยิบเอากล่องไม้เล็กๆออกมาแล้วส่งให้เธอ มันคือตำราสร้างอาวุธ\"การทดสอบ\"ที่พ่อของเขาได้แก้ไขไว้ก่อนจากไป เขายังหยิบธนูยาวออกมาอีกคันแล้วกล่าวว่า:\n\"เรื่องนี้เกิดขึ้นจากหิน Blackcliff ข้าหวังว่ามันจะจบลงที่หิน Blackcliff เช่นกัน ได้ยินว่าเจ้าของร้าน Yun ชื่นชอบธนู ถ้าไม่รังเกียจก็ลองธนูนี้ดูสิ\"\nYun Huang ยิงธนูขึ้นสู่ฟ้า โดยลูกธนูนั้นพุ่งไปราวกับสายฟ้าพิโรธฟาดผ่านชั้นบรรยากาศ ส่วนเสียงจากสายธนูนั้นก็สะท้อนอยู่ในป่าเป็นเวลานาน\nมองไปยังดวงจันทร์ที่ลอยต่ำอยู่ใต้เมฆ เธอรู้สึกได้ว่าเวลาของเธอมาถึงแล้ว\n",
+        "vi": "\nTrường cung được làm từ hắc nham rất hiếm có. Giương cung lắng nghe gió, bắn ra tên bách phát bách trúng.\nGiữa thân cung có đoạn màu đen, hai đoạn huyết sắc, chạm tay mát mà không lạnh. Giương cung bắn tên, giống như sao băng trên trời đủ để đuổi gió tìm lôi.\n\nGia tộc họ Yun ở Liyue là gia tộc rèn binh khí lâu đời. Vào thời điểm đó, gia chủ thế hệ thứ bảy là một trong thất tinh, giàu có và nổi tiếng.\nYun Hui chỉ có một người con gái, tên gọi Huang. Theo truyền thống của gia tộc, sau khi cô kết hôn chồng cô sẽ ở rể và tiếp quản công việc.\nTừ nhỏ đã tập võ, tính cách mạnh mẽ, không hề thích như vậy, cô kiên quyết muốn tiếp quản gia nghiệp với thân phận nữ nhi, đã dẫn đến vô số tin đồn.\nNhưng khi Yun Huang khó khăn nhận chức.\n\nLúc này trái đất không còn bình yên. Núi đồi, hang động đều sụp đổ, đất trời rung chuyển.\nBảo thạch sâu trong lòng đất rất khó để khai thác, thật khó để có thể kế thừa tay nghề rèn binh khí. \nTrong đêm, Yun Huang khó mà chợp mắt, cô lo sợ nghiệp rèn trăm năm của nhà họ Yun bị hủy trong tay mình.\nTrong vô vàn lo lắng, cô chỉ có thể cầu nguyện với trời, hy vọng các vị thần có thể ban phép giải quyết vấn đề khó khăn của cô.\n\nHance lúc trước từ bỏ gia nghiệp vân du thiên hạ, lúc này mặc trên người trang phục thợ thủ công, đến thăm hỏi.\nAnh lấy ra một chiếc hộp gỗ, dựa theo bản vẽ \"mẫu\" mới của bố anh trong những năm cuối đời sửa đổi. Lại lấy ra cây cung, rồi nói:\n\"Chuyện này bắt đầu bởi hắc nham, hy vọng có thể dùng hắc nham để kết nối, nghe nói trưởng quầy Yun thích bắn cung, nếu không chê mời thử một chút\"\nHuang hướng mũi tên lên trời, tên bay như mũi giáo ngược chiều phóng vào trời sấm, còn tiếng động của dây cung vang vọng rất lâu trong cánh rừng.\nXa xa dưới ánh trăng, cô chỉ cảm thấy thời cơ đã đến...\n"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Thunder Summoner's Crown",
+        "de": "Donnerkrone",
+        "chs": "唤雷的头冠",
+        "cht": "喚雷的頭冠",
+        "es": "Corona del Invocador de Truenos",
+        "fr": "Diadème de l'Invocateur de tonnerre",
+        "id": "Thunder Summoner's Crown",
+        "jp": "雷を呼ぶ冠",
+        "kr": "번개를 부르는 모자",
+        "pt": "Coroa do Invocador do Trovão",
+        "ru": "Корона призывателя грома",
+        "th": "Thunder Summoner's Crown",
+        "vi": "Vương Miện Gọi Sét"
+    },
+    "id": 24753,
+    "setId": 15005,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

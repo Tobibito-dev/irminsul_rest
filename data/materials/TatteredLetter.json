@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tattered Letter",
+        "de": "Zerfledderter Brief",
+        "chs": "残破的信笺",
+        "cht": "殘破的信箋",
+        "es": "Carta deteriorada",
+        "fr": "Lettre en lambeaux",
+        "id": "Surat Usang",
+        "jp": "ボロボロな手紙",
+        "kr": "너덜너덜한 편지",
+        "pt": "Carta Deteriorada",
+        "ru": "Потрёпанное письмо",
+        "th": "จดหมายโทรม ๆ",
+        "vi": "Giấy Viết Thư Rách Nát"
+    },
+    "id": 100970,
+    "materialDesc": {
+        "en": "Someone's private thoughts are written in this tattered letter. Unfortunately, the years have eaten away at the words that were penned until they became blurred, and if not for someone having dug it up, these past events may have forever slept under the soil.",
+        "de": "Jemandes private Gedanken sind auf diesen zerfledderten Brief geschrieben. Unglücklicherweise haben die Jahre die Worte, die geschrieben wurden, erodieren lassen, bis sie verschwammen, und wenn ihn nicht jemand ausgegraben hätte, könnten diese vergangenen Ereignisse für immer unter der Erde geschlummert haben.",
+        "chs": "破破烂烂的信纸上，写有某人的心声。但纸张受到岁月侵蚀，字迹已经模糊不清，如果不是被人挖掘出来，某些往事大概会一直安眠在泥土中。",
+        "cht": "破破爛爛的信紙上，寫有某人的心聲。但紙張受到歲月侵蝕，字跡已經模糊不清，如果不是被人挖掘出來，某些往事大概會一直安眠在泥土中。",
+        "es": "Los pensamientos más profundos de alguien se encuentran escritos sobre el papel andrajoso de esta carta. No obstante, ya que el papel sufrió el desgaste del tiempo, los caracteres se ven borrosos e ininteligibles. Si no llega a ser porque alguien la desenterró, el pasado que revela probablemente habría permanecido dormido bajo tierra para siempre.",
+        "fr": "Quelqu'un a couché ses pensées personnelles dans cette lettre en lambeaux. Malheureusement, les années ont rongé les mots qui y étaient inscrits jusqu'à ce qu'ils deviennent flous. Si cette lettre n'avait pas été déterrée, ces événements du passé auraient probablement reposé là à tout jamais.",
+        "id": "Surat yang sudah usang ini berisi pikiran pribadi seseorang. Sayangnya, waktu bertahun-tahun telah membuat tulisan yang ada di surat itu menjadi sulit dibaca. Kalau tidak ada orang yang menggali surat ini, mungkin semua kejadian di masa lampau ini akan terkubur dalam tanah selamanya.",
+        "jp": "このボロボロな手紙には、誰かの本音が書かれている。しかし、紙は経年劣化していて、筆跡もはっきりとしていない。もし掘り出すことができなかったら、秘められた過去は恐らく一生、土の中で眠っていただろう。",
+        "kr": "너덜너덜한 편지지에는 어떤 이의 마음이 적혀 있다. 하지만 세월의 침식으로 위에 적힌 글은 알아볼 수 없게 됐다. 누군가가 파내지 않았더라면, 어떤 과거들은 영원히 흙 속에 잠들어있었을 것이다",
+        "pt": "Os pensamentos privados de alguém estão escritos nesta carta envelhecida. Infelizmente, os anos consumiram as palavras que foram escritas até ficarem borradas e, se não fosse desenterrada por alguém, essas histórias permaneceriam para sempre sob o solo.",
+        "ru": "На этом потрепавшемся клочке бумаги записаны чьи-то сокровенные мысли. К сожалению, с годами слова размылись, и если бы его не выкопали, этот кусочек прошлого и дальше покоился бы в земле.",
+        "th": "เสียงในใจของใครบางคนถูกเขียนลงบนกระดาษจดหมายที่ขาดรุ่งริ่ง แต่กระดาษได้ผุพังไปตามกาลเวลาไป ลายมือก็เลอะเลือน หากไม่ขุดค้นขึ้นมา เรื่องราวในอดีตบางส่วนคงหลับใหลอยู่ในโคลนอย่างสงบสุข",
+        "vi": "Trên mảnh giấy rách nát là tiếng lòng của một ai đó. Nhưng qua bao năm tháng, chữ viết đã phai mờ không còn nhìn rõ nữa, nếu không bị ai đó đào lên thì có lẽ những chuyện cũ sẽ luôn ngủ yên trong lớp bùn đất."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

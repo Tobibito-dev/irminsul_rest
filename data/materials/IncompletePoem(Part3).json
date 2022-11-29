@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Incomplete Poem (Part 3)",
+        "de": "Unvollständiges Gedicht (Teil 3)",
+        "chs": "诗篇断章（下）",
+        "cht": "詩篇斷章（下）",
+        "es": "Poema incompleto (Parte 3)",
+        "fr": "Poème incomplet (partie 3)",
+        "id": "Robekan Puisi (Akhir)",
+        "jp": "詩の断章（下）",
+        "kr": "시의 단편(하)",
+        "pt": "Poema Incompleto (Parte 3)",
+        "ru": "Незаконченная поэма (Часть 3)",
+        "th": "บทกวีที่ไม่สมบูรณ์ (III)",
+        "vi": "Đoạn thơ (III)"
+    },
+    "id": 100112,
+    "materialDesc": {
+        "en": "The poem Venti asked you to look for, piece the three pages together to reveal a love verselet.",
+        "de": "Der letzte Teil des Gedichts, das du für Venti finden solltest. Zusammen ergeben die Teile ein Liebesgedicht.",
+        "chs": "温迪拜托寻找的诗篇，和前面两页一起构成一首小情诗",
+        "cht": "溫迪拜託尋找的詩篇，和前面兩頁一起構成一首小情詩。",
+        "es": "El poema que Venti te pidió que buscaras. Une las tres páginas para componer un pequeño poema de amor.",
+        "fr": "Le poème que Venti vous a demandé de trouver. Les trois pages réunies forment un poème d'amour.",
+        "id": "Puisi yang dicari Venti, gabungkan ketiga halamannya agar menjadi sebuah puisi cinta.",
+        "jp": "探してきてほしいとウェンティに頼まれた詩編。前の2ページと合わせると愛を語る詩になる",
+        "kr": "벤티가 찾아달라고 부탁했던 시편. 앞의 2편과 합치면 연애시가 된다.",
+        "pt": "O poema que Venti pediu para você procurar, junte as três páginas para revelar um versículo de amor.",
+        "ru": "Поэма, которую Венти попросил вас найти. Вместе три части складываются в любовное стихотворение.",
+        "th": "บทกวีที่ Venti ขอให้ช่วยหานั้น เมื่อรวมกับสองหน้าแรกแล้วได้เป็นบทกวีความรักบทหนึ่ง",
+        "vi": "Bài thơ Venti ủy thác đi tìm cùng hai trang trước đó có thể ghép thành một bài thơ tình"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

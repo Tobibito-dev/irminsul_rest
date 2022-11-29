@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Jueyun Chili Chicken",
+        "de": "Rezept: Kalte Geflügelhäppchen",
+        "chs": "食谱：香嫩椒椒鸡",
+        "cht": "食譜：香嫩椒椒雞",
+        "es": "Receta: Pollo al chile Jueyun",
+        "fr": "Recette : Poulet pimenté de Jueyun",
+        "id": "Resep: Jueyun Chili Chicken",
+        "jp": "レシピ：椒椒鶏",
+        "kr": "레시피: 절운고추 치킨",
+        "pt": "Receita: Frango de Pimenta de Jueyun",
+        "ru": "Рецепт: Острая курица на пару",
+        "th": "สูตรอาหาร: Jueyun Chili Chicken",
+        "vi": "Công thức: Gà Cay Thơm Mềm"
+    },
+    "id": 109409,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Jueyun Chili Chicken.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Kalte Geflügelhäppchen“.",
+        "chs": "步骤详实的食谱，记载着「香嫩椒椒鸡」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「香嫩椒椒雞」的製作方法。",
+        "es": "Receta paso a paso para hacer un pollo al chile Jueyun.",
+        "fr": "Étapes de préparation du poulet pimenté de Jueyun.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Jueyun Chili Chicken.",
+        "jp": "「椒椒鶏」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「절운고추 치킨」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo do \"Frango de Pimenta de Jueyun\".",
+        "ru": "Подробный рецепт приготовления блюда «Острая курица на пару».",
+        "th": "สูตรอธิบายวิธีทำ \"Jueyun Chili Chicken\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Gà Cay Thơm Mềm\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

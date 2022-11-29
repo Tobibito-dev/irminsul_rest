@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuman Home: Stormhouse",
+        "de": "Wohnhaus (Inazuma) – „Sturmhaus“",
+        "chs": "稻妻民居-「风沫之屋」",
+        "cht": "稻妻民居-「風沫之屋」",
+        "es": "Casa de Inazuma: Residencia tempestuosa",
+        "fr": "Maison inazumienne « Gîte de tempête »",
+        "id": "Rumah Rakyat Inazuma: Rumah Badai",
+        "jp": "稲妻民居-「風浪の屋舎」",
+        "kr": "이나즈마 민가-「바람의 방」",
+        "pt": "Residência de Inazuma: Casa Tempestuosa",
+        "ru": "Инадзумский дом: Дом бури",
+        "th": "บ้านของชาว Inazuma - \"บ้านแห่งพายุ\"",
+        "vi": "Nhà Dân Inazuma - Ngôi Nhà Sóng Gió"
+    },
+    "id": 390630,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Inazuman Home: Stormhouse.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Wohnhaus (Inazuma) – Sturmhaus“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「稻妻民居-『风沫之屋』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「稻妻民居-『風沫之屋』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Casa de Inazuma: Residencia tempestuosa.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la maison inazumienne « Gîte de tempête ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Rumah Rakyat Inazuma: Rumah Badai.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「稲妻民居-『風浪の屋舎』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「이나즈마 민가-『바람의 방』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Residência de Inazuma: Casa Tempestuosa\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Инадзумский дом: Дом бури».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างบ้านของชาว Inazuma - \"บ้านแห่งพายุ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nhà Dân Inazuma - Ngôi Nhà Sóng Gió\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

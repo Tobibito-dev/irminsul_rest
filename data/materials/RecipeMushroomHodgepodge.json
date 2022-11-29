@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Mushroom Hodgepodge",
+        "de": "Rezept: Gemischte Pilzplatte",
+        "chs": "食谱：杂菇荟萃",
+        "cht": "食譜：雜菇薈萃",
+        "es": "Receta: Surtido de champiñones",
+        "fr": "Recette : Mélangé de champignons",
+        "id": "Resep: Mushroom Hodgepodge",
+        "jp": "レシピ：山盛りキノコ",
+        "kr": "레시피: 모둠 버섯",
+        "pt": "Receita: Panelão de Cogumelos",
+        "ru": "Рецепт: Грибное ассорти",
+        "th": "สูตรอาหาร: Mushroom Hodgepodge",
+        "vi": "Công Thức: Nấm Thập Cẩm"
+    },
+    "id": 109497,
+    "materialDesc": {
+        "en": "A recipe for making Mushroom Hodgepodge that you found during your adventure. It has been further refined by Paimon.",
+        "de": "Ein auf Abenteuern erhaltenes, durch Paimon verfeinertes Rezept zur Zubereitung von „gemischte Pilzplatte“.",
+        "chs": "在冒险中获得，经由派蒙改良后的食谱，记载着「杂菇荟萃」的制作方法。",
+        "cht": "在冒險中獲得，經由派蒙改良後的食譜，記載著「雜菇薈萃」的製作方法。",
+        "es": "Una receta paso a paso que obtuviste durante tu aventura y mejorada por la chef Paimon para hacer un surtido de champiñones.",
+        "fr": "Étapes de préparation du mélangé de champignons, optimisé par Paimon.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Mushroom Hodgepodge yang kamu temukan selama petualanganmu. Sudah disempurnakan lebih lanjut oleh Paimon.",
+        "jp": "冒険で獲得し、パイモンが改良したレシピ。「山盛りキノコ」の詳しい作り方が載っている。",
+        "kr": "모험 중 획득하고, 페이몬이 개량한 레시피. 「모둠 버섯」의 조리 방법이 적혀있다",
+        "pt": "Uma receita para cozinhar Panelão de Cogumelos que você encontrou em suas aventuras. Ela foi melhorada por Paimon.",
+        "ru": "Полученный в приключении и улучшенный Паймон рецепт приготовления блюда «Грибное ассорти».",
+        "th": "สูตรอธิบายวิธีทำ \"Mushroom Hodgepodge\" โดยละเอียด ที่คุณได้รับจากการผจญภัย ซึ่งได้ผ่านการปรับปรุงสูตรโดย Paimon",
+        "vi": "Công thức món ăn nhận được trong khi mạo hiểm và đã được Paimon cải tiến, ghi lại cách làm món \"Nấm Thập Cẩm\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thundering Dance",
+        "de": "Tanz der Blitze",
+        "chs": "疾雷之舞",
+        "cht": "疾雷之舞",
+        "es": "Danza del trueno",
+        "fr": "Danse du tonnerre",
+        "id": "Thundering Dance",
+        "jp": "疾雷の舞",
+        "kr": "질뢰의 춤",
+        "pt": "Dança Trovejante",
+        "ru": "Танец грома",
+        "th": "Thundering Dance",
+        "vi": "Vũ Điệu Sấm Sét"
+    },
+    "id": 200222,
+    "materialDesc": {
+        "en": "When a character causes opponents to be Electro-Charged, there is a 50% chance to trigger a lightning strike that deals 500% of the triggering character's ATK as DMG and decreases the opponent's Electro RES by 25%. This effect can be triggered once every 5s and this CD is shared between all party members.",
+        "de": "Ruft beim Auslösen von Unter Strom bei Gegnern mit einer Wahrscheinlichkeit von 50 % einen Blitz hervor, der Schaden basierend auf 500 % des ANG der den Effekt Unter Strom auslösenden Figur verursacht und den Elektro-WDS des betroffenen Gegners um 25 % verringert. 5 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色使敌人感电时，有50%几率引发落雷，基于触发感电效果的角色的攻击力的500%造成伤害，并使敌人的雷元素抗性降低25%。该效果每5秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色使敵人感電時，有50%幾率引發落雷，造成相當於觸發感電效果的角色攻擊力500%的傷害，並使敵人的雷元素抗性降低25%。該效果每5秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Cuando un personaje provoca la reacción de Electrocargado contra un enemigo, hay un 50% de probabilidad de descargar un rayo que inflige daño basado en el 500% del ATQ del personaje que causó la reacción, y disminuye la RES Electro del enemigo en un 25%. Este efecto puede activarse una vez cada 5 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'un personnage déclenche une réaction d'Électrocution sur un ennemi, il a 50 % de chances de provoquer un éclair qui inflige des DGT équivalant à 500 % de son ATQ et diminue la RÉS Électro de 25 %. Cet effet peut être déclenché une fois toutes les 5 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Ketika Karakter memicu reaksi Electro-Charged pada musuh, ada 50% kemungkinan untuk menciptakan sambaran petir dengan DMG sebesar 500% ATK Karakter yang memicu, serta mengurangi 25% Electro RES musuh. Efek dapat terpicu setiap 5 detik, dan CD efek ini berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターが敵を感電させた時、50%の確率で落雷が発生し、感電反応を起こしたキャラクター攻撃力の500%分ダメージを与え、敵の雷元素耐性-25%。この効果は5秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 적을 감전시킬 시 50%의 확률로 낙뢰를 발동하며 시전 캐릭터 공격력 500%의 피해를 입히고 적의 번개 원소 내성을 25% 감소시킨다. 해당 효과는 5초마다 1회 발동되며 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Quando o Personagem fizer os inimigos serem afetados por Eletricamente Carregado, há uma chance de 50% de desencadear Eletrocutamento baseado em 500% do Ataque do Personagem e que reduzirá a RES Electro dos inimigos em 25%. Esse efeito pode ocorrer uma vez a cada 5s e todos os Personagens compartilham o mesmo Tempo de Recarga.",
+        "ru": "Когда персонаж накладывает на врага статус Заряжен, есть 50% шанс, что его ударит молния. Она наносит врагу урон в 500% от силы атаки персонажа, который наложил статус, и снижает Электро сопротивление врага на 25%. Эффект возникает раз в 5 сек. Время отката общее для всех членов отряда.",
+        "th": "เมื่อตัวละครทำให้ศัตรูชาร์จไฟฟ้า มีโอกาส 50% ของโอกาสที่จะทำให้เกิดสายฟ้าฟาด ความเสียหาย 500% ของพลังโจมตีของตัวละครที่กระตุ้นการชาร์จไฟฟ้า และทำให้ความต้านทานต่อธาตุไฟฟ้าของศัตรูลดลง 25% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 5 วินาที และตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Khi tạo hiệu ứng điện cảm cho kẻ địch, có 50% khả năng tạo sấm sét, gây 500% sát thương dựa theo tấn công của nhân vật gây hiệu ứng điện cảm, đồng thời giảm 25% kháng nguyên tố lôi của mục tiêu. Hiệu ứng này mỗi 5s kích hoạt một lần, tất cả nhân vật đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

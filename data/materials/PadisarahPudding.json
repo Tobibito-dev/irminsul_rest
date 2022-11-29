@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Padisarah Pudding",
+        "de": "Padisarah-Pudding",
+        "chs": "帕蒂沙兰布丁",
+        "cht": "帕蒂沙蘭布丁",
+        "es": "Pudín de orquídea padishá",
+        "fr": "Pudding de padisachidées",
+        "id": "Padisarah Pudding",
+        "jp": "パティサラプリン",
+        "kr": "파디사라 푸딩",
+        "pt": "Pudim de Padisarah",
+        "ru": "Падисаровый пудинг",
+        "th": "Padisarah Pudding",
+        "vi": "Pudding Padisarah"
+    },
+    "id": 108458,
+    "materialDesc": {
+        "en": "A popular dessert in Sumeru. Juices are squeezed from the petals of Padisarahs and Sumeru Roses before being mixed with milk, gelatin, sugar, and other ingredients, and then left to solidify. Cute appearance and sweet flavor make it a common sight at celebratory events in Sumeru.",
+        "de": "Ein in Sumeru beliebtes Dessert. Zuerst werden Blütenblätter von Padisarah und Sumeru-Rose ausgepresst, dann mit Milch vermischt, Gelatine, Zucker und andere Zutaten hinzugegeben, bis sich die Mischung verfestigt. Süßes Aussehen und süßer Geschmack, auf allen Festen Sumerus gern gesehen.",
+        "chs": "须弥流行的甜点。将帕蒂沙兰和须弥蔷薇的花瓣捣出汁液，混合入牛奶、明胶、糖等材料凝固成固状。外表可爱，口味香甜，在须弥的庆典里十分常见。",
+        "cht": "須彌流行的甜點。將帕蒂沙蘭和須彌薔薇的花瓣搗出汁液，混合入牛奶、明膠、糖等材料凝固成固狀。外表可愛、口味香甜，在須彌的慶典裡十分常見。",
+        "es": "Un postre popular en Sumeru. Se extrae el jugo de los pétalos de orquídeas padishá y de las rosas de Sumeru para mezclarlo con leche, gelatina, azúcar y otros ingredientes y obtener una forma sólida. Tiene un aspecto agradable y un sabor dulce, y es muy común encontrarlo en los festivales de Sumeru.",
+        "fr": "Un dessert populaire à Sumeru. Du jus est extrait de pétales de padisachidées et de roses sumériennes avant d'être mélangé avec du lait, de la gélatine, du sucre et d'autres ingrédients, pour enfin se solidifier une fois au repos. Son apparence mignonne et sa saveur sucrée en font un spectacle incontournable lors des événements festifs de Sumeru.",
+        "id": "Hidangan pencuci mulut yang populer di Sumeru. Sari kelopak bunga Padisarah dan Sumeru Rose akan diperas, lalu dicampur dengan susu, gelatin, gula, dan bahan lainnya, kemudian dibiarkan agar mengeras. Bentuknya yang lucu dan rasanya yang manis membuat makanan ini sering muncul di acara-acara perayaan di Sumeru.",
+        "jp": "スメールの人気デザート。パティサラとスメールローズの花びらを絞り、牛乳、ゼラチン、砂糖などと混ぜて固形状にしたもの。見た目が可愛らしく、口当たりも甘い。スメールのお祭りでよく見かける。",
+        "kr": "수메르의 인기 디저트. 파디사라와 수메르 장미의 꽃잎을 빻아 즙을 내고 우유, 젤라틴, 설탕 등의 재료를 섞어 굳힌다. 모양이 귀엽고 맛도 달콤해 수메르의 축제에서 흔히 볼 수 있다",
+        "pt": "Uma sobremesa popular em Sumeru. Suco é espremido das pétalas de Padisarah e Rosas de Sumeru antes de ser misturado com leite, gelatina, açúcar e outros ingredientes, e então descansa até solidificar. A adorável aparência e o sabor doce fazem com que sua presença seja garantida em eventos de celebração de Sumeru.",
+        "ru": "Популярный десерт в Сумеру. Сок из лепестков падисары и сумерской розы смешивают с молоком, желатином, сахаром и другими ингредиентами и дают застыть. Красивое и вкусное блюдо, которое часто можно увидеть на праздниках Сумеру.",
+        "th": "ขนมหวานยอดฮิตของ Sumeru สกัดน้ำ Padisarah และ Sumeru Rose ผสมเข้ากับนม, เจลาติน, น้ำตาล และรอให้ส่วนผสมทุกอย่างแข็งตัว ลักษณะภายนอกดูน่ารัก รสชาติก็หอมหวาน เป็นสิ่งที่พบเห็นได้บ่อยตามงานเลี้ยงต่าง ๆ ของชาว Sumeru",
+        "vi": "Món tráng miệng phổ biến của Sumeru. Giã nát cánh hoa Padisarah và Tường Vi Sumeru lấy nước, trộn với sữa, đường và các nguyên liệu khác để đông đặc. Bên ngoài trông đáng yêu, hương vị ngọt ngào, và nó rất phổ biến trong các ngày lễ của Sumeru."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

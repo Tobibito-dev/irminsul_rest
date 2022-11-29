@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Tonkotsu Ramen",
+        "de": "Rezept: Tonkotsu-Ramen",
+        "chs": "食谱：兽骨拉面",
+        "cht": "食譜：獸骨拉麵",
+        "es": "Receta: Ramen de carne",
+        "fr": "Recette : Tonkotsu ramen",
+        "id": "Resep: Tonkotsu Ramen",
+        "jp": "レシピ：獣骨ラーメン",
+        "kr": "레시피: 사골 라멘",
+        "pt": "Receita: Ramen Tonkotsu",
+        "ru": "Рецепт: Тонкоцу рамэн",
+        "th": "สูตรอาหาร: Tonkotsu Ramen",
+        "vi": "Công Thức: Ramen Xương Hầm"
+    },
+    "id": 109456,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Tonkotsu Ramen.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Tonkotsu-Ramen“.",
+        "chs": "步骤详实的食谱，记载着「兽骨拉面」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「獸骨拉麵」的製作方法。",
+        "es": "Receta paso a paso para hacer ramen de carne.",
+        "fr": "Étapes de préparation du tonkotsu ramen.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Tonkotsu Ramen.",
+        "jp": "「獣骨ラーメン」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「사골 라멘」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Ramen Tonkotsu.",
+        "ru": "Подробный рецепт приготовления блюда «Тонкоцу рамэн».",
+        "th": "สูตรอธิบายวิธีทำ \"Tonkotsu Ramen\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Ramen Xương Hầm\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

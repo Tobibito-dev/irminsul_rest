@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tattered Paper",
+        "de": "Beschädigtes Papier",
+        "chs": "残破的纸片",
+        "cht": "殘破的紙片",
+        "es": "Hoja de papel rota",
+        "fr": "Papier déchiré",
+        "id": "Sobekan Kertas",
+        "jp": "ボロボロな紙切れ",
+        "kr": "너덜너덜한 종잇조각",
+        "pt": "Folha de Papel Amassada",
+        "ru": "Потрёпанный клочок бумаги",
+        "th": "เศษกระดาษ",
+        "vi": "Mảnh Giấy Nát"
+    },
+    "id": 120017,
+    "materialDesc": {
+        "en": "A tattered piece of paper left by someone. It seems to be torn from some sheet music and has become rather brittle with the passing of years.",
+        "de": "Ein zerfleddertes Papier, das von jemandem hinterlassen wurde. Es scheint von einem Notenblatt abgerissen zu sein und ist im Laufe der Jahre ziemlich brüchig geworden.",
+        "chs": "谁人落下的残破纸张。似乎是从乐谱上撕下来的一页。看上去经历了一些年月，已经变得非常脆弱。",
+        "cht": "誰人落下的殘破紙張。似乎是從樂譜上撕下來的一頁。看起來經歷了一些年月，已經變得非常脆弱。",
+        "es": "Una hoja de papel rota que alguien dejó. Parece que la arrancaron de una partitura musical y se ha ido deteriorando con el tiempo.",
+        "fr": "Un morceau de papier en lambeaux laissé par quelqu'un. Il semble avoir été déchiré d'une partition de musique. Il semble avoir vu passer de nombreuses années tant il a l'air fragile.",
+        "id": "Sobekan kertas yang entah ditinggalkan oleh siapa. Sepertinya halaman yang disobek dari partitur musik dan umurnya sudah lama sekali, sehingga kertas ini menjadi sangat tipis.",
+        "jp": "誰かが残したボロボロな紙切れ。楽譜から破り取られた一ページに見える。経年劣化でとても破れやすくなっていたのだろう。",
+        "kr": "누군가 떨어뜨린 너덜너덜한 종잇조각. 악보에서 한 페이지를 찢어낸 듯하며 꽤 많은 세월을 겪어 닳고 닳은 듯하다",
+        "pt": "Uma folha de papel amassada deixada por alguém. Parece ter sido arrancada de uma partitura e a passagem dos anos a deixaram quebradiça.",
+        "ru": "Брошенный клочок бумаги. Кажется, его вырвали из какой-то партитуры. Клочок такой старый, что того и гляди рассыплется.",
+        "th": "เศษกระดาษที่ถูกทิ้งเอาไว้โดยใครบางคน คล้ายจะเป็นหน้าที่ถูกฉีกออกมาจากโน้ตเพลง มีสภาพเปราะบางหลังจากผ่านเวลามานาน",
+        "vi": "Mảnh giấy cũ rách của ai đó đánh rơi. Hình như là xé ra từ nhạc phổ. Dường như đã trải qua một thời gian dài nên trông rất mong manh."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

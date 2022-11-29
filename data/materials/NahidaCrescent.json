@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nahida: Crescent",
+        "de": "Nahida – Sichelmond",
+        "chs": "纳西妲·仰月",
+        "cht": "納西妲·仰月",
+        "es": "Nahida - Cuarto creciente",
+        "fr": "Nahida - Croissant",
+        "id": "Nahida: Crescent",
+        "jp": "ナヒーダ·月を仰ぐ",
+        "kr": "나히다·초승달",
+        "pt": "Nahida: Contemplando o Luar",
+        "ru": "Полумесяц",
+        "th": "Nahida - จันทร์เสี้ยว",
+        "vi": "Nahida - Ngắm Trăng"
+    },
+    "id": 210140,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe rising moon admires the sun, because her light can shine all over the earth. On the other hand, the setting sun is envious of the moon, for she can be accompanied by the sweetest of dreams.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDer aufgehende Mond bewundert die Sonne, weil ihr Licht die ganze Erde erleuchten kann. Die untergehende Sonne ist jedoch neidisch auf die Mondsichel, weil sie von unzähligen Träumen begleitet wird.",
+        "chs": "名片纹饰。\\n初升的新月将日景仰羡，因为她的光芒遍照世间；沉落的暮日却向往月弦，因为她有万千美梦作伴。",
+        "cht": "名片紋飾。\\n初升的新月將日景仰羨，因為她的光芒遍照世間；沉落的暮日卻嚮往月弦，因為她有萬千美夢作伴。",
+        "es": "Diseño de tarjeta de presentación.\\nUna nueva luna se alza en el cielo para admirar el sol, pues su luz ilumina cada confín de este mundo. Mientras, el sol se retira, envidioso al ver cómo unos dulces sueños acompañan al destello argénteo de la luna que lo sustituye en los cielos cada anochecer.",
+        "fr": "Thème.\\nLa lune montante admire le soleil, car sa lumière illumine le monde, tandis que le soleil couchant envie la lune, car elle est toujours accompagnée par les plus beaux des rêves.",
+        "id": "Style Kartu Nama.\\nRembulan yang naik mengagumi sang surya, karena cahayanya mampu menerangi seluruh bumi. Tapi di sisi lain, surya yang terbenam iri kepada rembulan, karena mimpi yang paling indah selalu menyertainya.",
+        "jp": "名刺の飾り紋。\\n初めて上る月は日を羨む。なぜならその光は、世をあまねく照らすから。沈み行く夕日は月に憧れる。なぜなら彼女には、幾千もの夢が伴となるから。",
+        "kr": "명함 스킨.\\n떠오르는 초승달은 태양의 빛이 세상을 비추는 걸 부러워했고, 지는 석양은 수많은 꿈과 함께하는 달을 동경했다",
+        "pt": "Estilo de cartão de visita.\\nA lua nova que se ergue no céu admirará a paisagem do crepúsculo, porque sua luz brilha por todo o mundo; O sol crepuscular sente inveja da lua, porque ela tem milhares de sonhos a lhe fazerem companhia.",
+        "ru": "Именная карта.\\n Восходящая луна восхищается солнцем, потому что его свет сияет по всей земле. Заходящее солнце завидует луне, потому что её сопровождают самые сладкие сны.",
+        "th": "ลายนามบัตร\\nจันทร์ดวงใหม่ที่ประดับฟ้าครั้งแรก แสนชื่นชมดวงอาทิตย์ เพราะเธอคนนั้นสาดส่องแสงสว่างไปทั่วโลกา ทว่าดวงตะวันที่ลาลับขอบฟ้ากลับอิจฉาดวงจันทรา เพราะเธอนั้นมีฝันอันแสนหวานนับหมื่นพันอยู่เคียงข้าง",
+        "vi": "Hoa văn danh thiếp.\\nTrăng non ngưỡng mộ mặt trời, vì ánh sáng đó có thể chiếu rọi khắp vùng đất. Mặt khác, mặt trời lặn lại ghen tị với mặt trăng, vì mặt trăng sẽ đi kèm với những giấc mơ ngọt ngào nhất."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

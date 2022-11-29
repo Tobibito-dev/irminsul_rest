@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Berry Mizu Manjuu",
+        "de": "Leckere Beeren-Mizu-Dampfbrötchen",
+        "chs": "美味的树莓水馒头",
+        "cht": "美味的樹莓水饅頭",
+        "es": "Pastelillos de bayas acuosos deliciosos",
+        "fr": "Mizu manju aux baies (délicieux)",
+        "id": "Delicious Berry Mizu Manjuu",
+        "jp": "美味しそうなラズベリー水まんじゅう",
+        "kr": "맛있는 라즈베리 물방울 떡",
+        "pt": "Mizu Manjuu de Baga Delicioso",
+        "ru": "Вкусный ягодный мидзу мандзю",
+        "th": "Berry Mizu Manjuu แสนอร่อย",
+        "vi": "Mochi Mâm Xôi Ngon"
+    },
+    "id": 108350,
+    "materialDesc": {
+        "en": "A crystal-clear snack. The regular, round balls sit upon the plate like coalesced flowing water, and their fillings glisten like pearls. During warm seasons, the very sight of this dish is a balm to the soul, and when it enters your mouth, the mild sweetness that flows out from within causes all your frustrations to vanish without a trace.",
+        "de": "Ein kristallklarer Leckerbissen. Die gleichmäßigen, runden Kugeln sitzen auf dem Teller wie zusammenfließendes Wasser, und ihre Füllungen glitzern wie Perlen. In der warmen Jahreszeit ist allein der Anblick dieses Gerichts Balsam für die Seele, und wenn es in den Mund gelangt, lässt die milde Süße, die aus dem Inneren strömt, all deine Frustrationen spurlos verschwinden.",
+        "chs": "晶莹剔透的点心。规整的球型，如同流水凝形端坐于盘中，清澈的表皮下，透亮的内馅仿佛水中珠贝。在炎热的时节，单是看到这一幕光景就可谓是享受。入口后，唇齿间的微甜，让所有的焦躁都消失得无影无踪。",
+        "cht": "晶瑩剔透的點心。規整的球型，如同流水凝形端坐於盤中，清澈的表皮下，透亮的內餡彷彿水中珠貝。在炎熱的時節，單是看到這一幕光景就可謂是享受。入口後，唇齒間的微甜，讓所有的焦躁都消失得無影無蹤。",
+        "es": "Un postre de aspecto brillante y traslúcido. Su perfecta forma redonda es como un arroyo solidificado acurrucado en un plato. Cubierto por una cristalina capa exterior se esconde un relleno brillante como una perla dentro del agua. En un caluroso día de verano, el simple hecho de ver esta hermosa creación ya te permite casi degustarla. Al comerlo, una sutil dulzura acaricia tus labios y hace que cualquier preocupación se desvanezca.",
+        "fr": "Un encas clair comme du cristal. Les boules régulières sont disposées sur l'assiette comme de l'eau condensée. La simple vue de ce mets suffit à donner du baume au cœur quand il fait chaud. Lorsque vous croquez dedans, le goût légèrement sucré qui s'en dégage fait s'évaporer toutes vos frustrations.",
+        "id": "Camilan sebening kristal. Bola bundar biasa duduk di atas piring seperti air mengalir yang menyatu, dan isinya berkilau seperti mutiara. Selama musim hangat, menatap hidangan ini saja sudah dapat menenangkan jiwa. Dan kalau makanan ini sudah hinggap ke dalam mulut, rasa manis ringan yang mengalir keluar dari dalamnya akan langsung meluluhlantakkan rasa frustasi akibat apa pun.",
+        "jp": "透き通ったお菓子。きれいな球形、まるで凝縮した水が皿にあるようだ。澄んだ皮の下に、真珠のように輝いている餡がある。暑い日にこの光景を見るのも楽しみの一つ。口に入れると、ほんのりとした甘みが広がり、全ての焦燥感を取り除く。",
+        "kr": "반짝이고 투명한 후식. 완벽한 구형을 띄며, 흐르는 물이 모여 접시 위에 앉아 있는 것처럼 보인다. 투명한 외피 아래 투명하게 비치는 소는 꼭 물속의 진주 같다. 무더운 날씨에는 이 모습을 보는 것만으로도 즐겁다. 입에 넣으면 입술과 이 사이에 퍼지는 달달함이 사람들의 모든 초조함을 흔적도 없이 지워준다",
+        "pt": "Um lanche cristalino. As bolas regulares e arredondadas se assentam sobre o prato como água corrente coalescida, e seus recheios brilham como pérolas. Durante as estações quentes, só a visão deste prato é um bálsamo para a alma, e quando ele entra em sua boca, a doçura suave que flui de dentro para fora faz com que todas as frustrações desapareçam sem deixar rastros.",
+        "ru": "Блестящий полупрозрачный десерт. Его идеальная круглая форма напоминает ручей, свернувшийся на тарелке. Под прозрачным внешним слоем лежит мерцающая начинка, словно жемчужина в воде. В жаркий летний день один только вид этого прекрасного творения позволяет почти почувствовать его вкус. Когда вы едите его, тонкая сладость обволакивает ваш рот и прогоняет все заботы без следа.",
+        "th": "ขนมสีโปร่งใส รูปร่างกลมมนวางอยู่บนจานเหมือนหยดน้ำ ภายใต้เปลือกหุ้มโปร่งใส ที่มีไส้โปร่งแสงที่มีลักษณะคล้ายเปลือกหอยไข่มุกในน้ำ ในหน้าร้อนอันร้อนระอุ แค่ได้เห็นสิ่งที่บรรยายไปนี้ก็รู้สึกเพลิดเพลินแล้ว หลังจากที่กินเข้าไป จะให้ความรู้สึกหวานเล็กน้อยในขณะที่กัดลงไป ทำให้ความรู้สึกกังวลทั้งหมดหายไปเป็นปลิดทิ้ง",
+        "vi": "Món ăn có màu sắc trong trẻo lung linh. Có hình cầu, trông giống như giọt nước ngưng đọng, bên dưới lớp vỏ trong suốt, phần nhân lung linh giống như ngọc trai lấp lánh trong nước. Vào mùa hè oi bức, chỉ cần nhìn thôi đã thấy tươi mát. Sau khi cho vào miệng, vị ngọt nhẹ lan tỏa giữa bờ môi, bao cảm giác mệt mỏi lo âu phút chốc chợt tan biến."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

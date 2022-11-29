@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wondrous Talisman",
+        "de": "Wundersamer Talisman",
+        "chs": "灵妙玉符",
+        "cht": "靈妙玉符",
+        "es": "Talismán del ingenio",
+        "fr": "Talisman des merveilles",
+        "id": "Wondrous Talisman",
+        "jp": "霊妙玉佩",
+        "kr": "신묘한 옥 장신구",
+        "pt": "Talismã Maravilhoso",
+        "ru": "Чудесный талисман",
+        "th": "Wondrous Talisman",
+        "vi": "Bùa Diệu Kỳ"
+    },
+    "id": 130,
+    "materialDesc": {
+        "en": "A mysterious talisman obtained by playing Theater Mechanicus: Stage of Wonders. Exchange them with Komakata for some precious items.",
+        "de": "Ein geheimnisvoller Talisman, den du durch das Spielen von „Theater der Vorrichtungen – Bühne der Wunder“ erhältst. Tausche sie bei Komakata gegen einige wertvolle Objekte.",
+        "chs": "游玩「机关棋谭·灵妙之局」后可以获得的奇妙玉符。可以在驹形处以此玉符交换一些东西。",
+        "cht": "遊玩「機關棋譚·靈妙之局」後可以獲得的奇妙玉符。可以在駒形處以此玉符交換一些東西。",
+        "es": "Un talismán obtenible al jugar en la Arena mecánica: Juego del ingenio. Puedes intercambiárselo a Komakata por otros objetos.",
+        "fr": "Un mystérieux talisman obtenu en jouant à la Scène des merveilles du Théâtre mécanique. Échangez-les avec Komakata contre des objets précieux.",
+        "id": "Jimat misterius yang diperoleh dengan memainkan Theater Mechanicus: Permainan Penuh Keajaiban. Tukarkan dengan Komakata untuk mendapatkan beberapa barang berharga.",
+        "jp": "「機関棋譚·霊妙の陣」に挑戦することで獲得できる玉石のお守り。これを使って駒形のところで何かと交換できるかも…",
+        "kr": "「기관 디펜스·신묘한 국면」을 플레이하면 신묘한 옥 장신구를 획득할 수 있다. 코마가타에서 이 장신구로 어떤 물건들을 교환할 수 있다",
+        "pt": "Jogue o Teatro Mechanicus - Jogo Engenhoso para obter Talismãs Fantásticos de Jade. Você pode trocar eles com Komakata por outros itens.",
+        "ru": "Таинственный талисман, который можно получить в «Театре Механикус: Этап чудес». Обменивайте их у Комакаты на ценные предметы.",
+        "th": "เมื่อเล่น \"Theater Mechanicus - Stage of Wonders\" จะได้รับเครื่องรางวิเศษ โดยจะสามารถใช้เครื่องรางวิเศษนี้ เพื่อแลกของบางอย่างได้ที่ Komakata",
+        "vi": "Sau khi chơi \"Cờ Cơ Quan - Thế Trận Linh Diệu\" có thể nhận Bùa Diệu Kỳ. Có thể dùng bùa này để đổi một số vật phẩm ở chỗ Komakata."
+    },
+    "materialType": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Goblet of Aquilo",
+        "de": "Kelch des Aquilo",
+        "chs": "北风之盏",
+        "cht": "北風之盞",
+        "es": "Cáliz de Aquilo",
+        "fr": "Coupe aquilon",
+        "id": "Goblet of Aquilo",
+        "jp": "北風のコップ",
+        "kr": "북풍의 잔",
+        "pt": "Cálice do Vento do Norte",
+        "ru": "Кубок северных ветров",
+        "th": "Goblet of Aquilo",
+        "vi": "Ly Bắc Phong"
+    },
+    "id": 23386,
+    "setId": 15004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

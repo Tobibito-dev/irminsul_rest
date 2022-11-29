@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Golden Chicken Burger",
+        "de": "Knuspriges Hühnerfilet auf Brot",
+        "chs": "脆脆鸡腿堡",
+        "cht": "脆脆雞腿堡",
+        "es": "Hamburguesa de pollo crujiente",
+        "fr": "Burger de poulet",
+        "id": "Golden Chicken Burger",
+        "jp": "カリカリチキンバーガー",
+        "kr": "바삭바삭 치킨버거",
+        "pt": "Hambúrguer de Frango Dourado",
+        "ru": "Гамбургер с хрустящей курицей",
+        "th": "Golden Chicken Burger",
+        "vi": "Burger Gà Giòn"
+    },
+    "id": 108239,
+    "materialDesc": {
+        "en": "A hamburger in which the fowl meat is the main star. The fluffy bread sandwiches slices of fresh vegetables and a flavorful, crispy fowl fillet. No utensils required here: Just grab it in your hands and bite down on that bundle of rich, satisfying succulence with a hearty \"ker-runch!\"",
+        "de": "Ein Hamburger, bei dem das Geflügelfleisch der Hauptdarsteller ist. Auf dem fluffigen Brot liegen Scheiben von frischem Gemüse und ein würziges, knuspriges Geflügelfilet. Hier wird kein Besteck benötigt: Nimm ihn einfach in die Hand und beiße mit einem herzhaften Knuspererlebnis in dieses Bündel vollmundiger, befriedigender Saftigkeit.",
+        "chs": "以禽肉为主体制作的汉堡。松软的面包胚中间夹上香脆禽腿排和新鲜蔬菜。无需使用餐具切割，只需直接用手捧起，「咔嚓」咬下的丰富口感最令人满足。",
+        "cht": "以禽肉為主角製作的漢堡。鬆軟的麵包中間夾上香脆禽腿排和新鮮蔬菜。無需使用餐具切割，只要直接用手捧起，「咔嚓」咬下的豐富口感最令人滿足。",
+        "es": "Una hamburguesa hecha con carne de ave como protagonista. Dentro del pan, bien blandito, se han colocado una crujiente pechuga de pollo y unas verduras frescas. No es necesario comerla con cubiertos, sino que puedes hacerlo directamente con las manos. El increíble crujido del pollo al darle el primer bocado —“¡crac!”— es lo más satisfactorio de este plato.",
+        "fr": "Burger de poitrine de poulet. Les deux pains moelleux contiennent la viande croustillante assortie de plusieurs légumes frais. Nul besoin de couverts pour le déguster : ouvrez la bouche, mordez directement, et laissez-vous envahir par le plaisir simple de la viande craquant sous les dents.",
+        "id": "Burger yang menggunakan Fowl sebagai bahan utama. Roti yang empuk menjepit sayuran segar dan daging Fowl yang renyah. Tidak perlu alat makan: cukup genggam dengan tanganmu dan nikmati kelezatannya yang dilengkapi dengan suara \"kriuk\" di setiap gigitan.",
+        "jp": "主に鳥肉を使ったハンバーガー。やわらかいパンにサクサクの鳥もも肉と新鮮野菜を挟んだ料理。ナイフで切る必要はなく、手で直接持ち「ガブッ」と豪快に噛むのが一番だ。",
+        "kr": "새고기로 만든 햄버거. 부드러운 빵 속에 바삭한 새 다리 구이와 신선한 야채가 들어있다. 식기를 사용해 자를 필요 없이 바로 손으로 들고 한입 베어 물 때 느껴지는 「바삭」한 식감이 사람들을 가장 만족시키는 포인트다",
+        "pt": "Um hambúrguer em que a Carne de Ave é a estrela principal. Legumes frescos e um filé de Carne de Ave crocante e saboroso são colocados entre duas fatias de pão macio. Não são necessários talheres: basta pegá-lo e dar uma mordida para sentir o sabor intenso e satisfatório acompanhado da crocância em um sonoro \"crunch\"!",
+        "ru": "Гамбургер, основной ингредиент которого - мясо птицы. Между мягкими булочками помещены овощи и ароматный и хрустящий птичий окорок. Не нужно резать это блюдо и пользоваться столовыми приборами, просто берите в руки - и кусь! Богатый вкус блюда доставляет истинное удовольствие.",
+        "th": "เบอร์เกอร์ที่ใช้เนื้อสัตว์ปีกเป็นส่วนประกอบหลัก ขนมปังนุ่ม ๆ สอดไส้ด้วยเนื้อกรอบ ๆ และผักสด คุณไม่จำเป็นต้องใช้ช้อนส้อมในการทานเลย เพียงแค่ถือไว้ในมือและเพลิดเพลินไปกับรสชาติแสนอร่อยที่มาพร้อมกับเสียง \"กรุบ\" ในทุกคำที่กัด",
+        "vi": "Một chiếc bánh mì kẹp thịt được làm chủ yếu từ thịt gia cầm. Miếng thịt đùi gia cầm giòn và rau tươi được kẹp giữa lớp bột bánh mì mềm. Bạn không cần phải cắt ra, chỉ cần dùng tay nhấc trực tiếp lên, hương vị đậm đà dưới một lần cắn là đã cảm thấy thỏa mãn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

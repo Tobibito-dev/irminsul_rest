@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yoimiya",
+        "de": "Yoimiya",
+        "chs": "宵宫",
+        "cht": "宵宮",
+        "es": "Yoimiya",
+        "fr": "Yoimiya",
+        "id": "Yoimiya",
+        "jp": "宵宮",
+        "kr": "요이미야",
+        "pt": "Yoimiya",
+        "ru": "Ёимия",
+        "th": "Yoimiya",
+        "vi": "Yoimiya"
+    },
+    "id": 1049,
+    "materialDesc": {
+        "en": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+        "de": "Besitzerin von „Naganoharas Feuerwerksartikel“ und bekannt als die Königin des Sommerfests. Sie ist eine gelernte Handwerkerin, die die Wünsche der Menschen mit Feuerwerkskörpern ausdrückt.",
+        "chs": "「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。",
+        "cht": "「長野原煙花店」店長、「夏祭的女王」，將人們的願望寄託於煙花中的能工巧匠。",
+        "es": "La dueña de la tienda Pirotecnia Naganohara y Reina del Festival de Verano. Deposita los deseos de la gente en sus artesanales fuegos artificiales.",
+        "fr": "Propriétaire des « Feux de Naganohara ». Connue sous le nom de « Reine du festival d'été », elle excelle dans son art de créer des feux d'artifice qui symbolisent les espoirs et les rêves des gens.",
+        "id": "Pemilik Naganohara Fireworks. Juga dikenal sebagai \"Ratu Festival Musim Panas\", dia mahir membuat kembang api yang melambangkan harapan dan impian semua orang.",
+        "jp": "「長野原花火屋」の店主。才ある花火職人で、人々の願いを花火へと託す。「夏祭りの女王」と呼ばれている。",
+        "kr": "「나가노하라 폭죽가게」의 점장이자 「여름 축제의 여왕」. 사람들의 염원을 폭죽에 담을 수 있는 뛰어난 장인이다",
+        "pt": "Dona da Fogos de Artifício Naganohara. Conhecida como \"Rainha do Festival de Verão\", ela é excelente na criação de fogos de artifício que simbolizam a esperança e sonhos das pessoas.",
+        "ru": "Владелица «Фейерверков Наганохары», также известна как «Королева праздника лета». Будучи мастером своего дела, она воплощает надежды и мечты людей в своих фейерверках.",
+        "th": "เจ้าของร้านดอกไม้ไฟ Naganohara \"ราชินีแห่งเทศกาลฤดูร้อน\" ช่างฝีมือมากความสามารถ ผู้ส่งความปรารถนาของผู้คนผ่านการทำดอกไม้ไฟ",
+        "vi": "Chủ tiệm Pháo Hoa Naganohara, Nữ Hoàng Lễ Hội Hè, là người thợ tài năng gửi gắm nguyện vọng của mọi người vào pháo hoa."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

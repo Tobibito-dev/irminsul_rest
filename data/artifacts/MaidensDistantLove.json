@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Maiden's Distant Love",
+        "de": "Kindlichkeit der Maid",
+        "chs": "远方的少女之心",
+        "cht": "遠方的少女之心",
+        "es": "Corazón Distante de la Doncella",
+        "fr": "Cœur lointain de la Demoiselle",
+        "id": "Maiden's Distant Love",
+        "jp": "彼方にある少女の心",
+        "kr": "먼 곳에 있는 소녀의 마음",
+        "pt": "Amor Distante da Donzela",
+        "ru": "Далёкая душа юной девы",
+        "th": "Maiden's Distant Love",
+        "vi": "Trái Tim Thiếu Nữ Phương Xa"
+    },
+    "id": 24794,
+    "setId": 14004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

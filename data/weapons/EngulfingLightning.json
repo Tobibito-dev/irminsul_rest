@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Engulfing Lightning",
+        "de": "Grasschnittstrahl",
+        "chs": "薙草之稻光",
+        "cht": "薙草之稻光",
+        "es": "Luz del Segador",
+        "fr": "Lumière du faucheur",
+        "id": "Engulfing Lightning",
+        "jp": "草薙の稲光",
+        "kr": "예초의 번개",
+        "pt": "Luz do Cortador de Grama",
+        "ru": "Сияющая жатва",
+        "th": "Engulfing Lightning",
+        "vi": "Đoạn Thảo Trường Đao"
+    },
+    "id": 13509,
+    "type": "WEAPON_POLE",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 45.9364013671875
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "value": 0.11999999731779099
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0859999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.343000054359436,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4290000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5160000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6019999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.774999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2109999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2990000247955322,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.385999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4739999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6500000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.73799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8269999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9149999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.003999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.181999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2709999084472656,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.359999895095825,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.450000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5390000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.628999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7190001010894775,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.809000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.989000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.261000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.3520002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.442999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.533999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.808000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.900000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.992000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.084000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.176000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.26800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.638000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.730999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.824999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.918000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.011000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.105000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.197999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.291999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.386000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.669000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.763000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.857999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.953000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.047999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.14300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.23799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.334000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.428999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.525000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.620999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.813000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.908999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10200023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.199000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.295000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.392000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.48900032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.586999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.684000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.781999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.878999710083008,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.97700023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.074999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.17300033569336,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.270999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.369999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.468000411987305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.567000389099121,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.666000366210938,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.765000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.86400032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.963000297546387,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.062000274658203,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.161999702453613,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 13509,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114033,
+                    "count": 5
+                },
+                {
+                    "id": 112047,
+                    "count": 5
+                },
+                {
+                    "id": 112044,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114034,
+                    "count": 5
+                },
+                {
+                    "id": 112047,
+                    "count": 18
+                },
+                {
+                    "id": 112044,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114034,
+                    "count": 9
+                },
+                {
+                    "id": 112048,
+                    "count": 9
+                },
+                {
+                    "id": 112045,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114035,
+                    "count": 5
+                },
+                {
+                    "id": 112048,
+                    "count": 18
+                },
+                {
+                    "id": 112045,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114035,
+                    "count": 9
+                },
+                {
+                    "id": 112049,
+                    "count": 14
+                },
+                {
+                    "id": 112046,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 13509,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114036,
+                    "count": 6
+                },
+                {
+                    "id": 112049,
+                    "count": 27
+                },
+                {
+                    "id": 112046,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
+        "de": "Ein Naginata, das zum „Grasschneiden“ verwendet wird. Jede Armee, die vor dieser Waffe steht, wird wahrscheinlich ebenfalls niedergemäht ...",
+        "chs": "用于「斩草」的薙刀。对向此物之军势，也会如苇草般倒下吧…",
+        "cht": "用於「斬草」的薙刀。對向此物之軍勢，也會如葦草般倒下吧…",
+        "es": "Una naginata que se usa para cortar hierba. Cualquier ejército que se enfrente a esta arma también se verá arrancado del suelo.",
+        "fr": "#Une naginata utilisée pour «{NON_BREAK_SPACE}faucher les mauvaises herbes ». Tout soldat se tenant devant sa lame sera probablement également taillé d'un peu trop près...",
+        "id": "Naginata yang digunakan untuk \"memotong rumput\". Pasukan yang berani berdiri di hadapan senjata ini pasti akan tertebas seperti rumput liar...",
+        "jp": "「草斬り」に使われる薙刀。この武器の前に立ちはだかる軍隊は、草のように刈られるだろう…",
+        "kr": "「절초」에 사용되는 치도. 이에 대항하려는 적군 역시 갈대처럼 쓰러질 것이다…",
+        "pt": "Uma naginata usada para \"cortar grama\". Qualquer exército que esteja diante desta arma provavelmente será igualmente cortado...",
+        "ru": "Нагината для лёгкого «срезания травы». С такой же лёгкостью соберёт свою жатву с вражеской армии.",
+        "th": "ง้าวนางินาตะที่ใช้ในการ \"ตัดหญ้า\" กองทัพที่เผชิญหน้ากับสิ่งนี้ ก็คงจะล้มลงราวกับต้นหญ้าเหล่านั้นล่ะนะ...",
+        "vi": "Trảm thảo trường đao, kẻ đối mặt với thanh đao này cũng sẽ như ngọn cỏ ngã xuống."
+    },
+    "flavor": {
+        "en": "\nThe naginata was a lethal weapon by which scattered dross might be cut away.\nAnd the one who wielded that naginata was one who guarded the path to eternity.\n\nWhen the one who stood high above the storm clouds looked upon the mortal world, which she so loved,\nSeeing their shallow disputes and transient obsessions...\nSuch contentions stemmed from needless attachments and unchecked desire — both enemies of eternity.\nThe wild weeds that disturbed the unchanging world would be swept away by the lightning.\n\n\"Well then — what sort of Eternity would ███'s eyes reflect?\"\nSo asked the clergyperson who sloshed and drank wine with her under the sakura tree in that still-clear memory.\n\nWhat a pointless question.\nThough the answer she gave them was lost to the alcohol,\nShe had gained the answer countless times in those memories.\nOne must thin fruits to improve their quality, and plants used in dyes must have their flowers pruned.\nNot a single speck of dross could be permitted in an eternal paradise.\n\n\"Ah, but even so...\"\n\"Using that great blade of light to uproot all obsession and to eliminate the possibility for dreams to take root and wither by themselves...\"\n\"A tranquil world that brooks no dispute, no gain, or no loss... It shall be an amnesiac world, lost to itself.\"\nIn the heart of eternity, those old friends still appear so clear and the scent of the sakura remains so fresh.\n\nBut I will never forget you, just as I will not forget the things that were lost across the years.\nAfter all...\n\nHaving witnessed the pitch-dark annihilation consume those precious to her,\nHow could she not see the absurd nature of life and death, yes, incomprehensible destiny itself, as her mortal foe?\nBut since no one can overturn the impermanence of the world, and the barren nature of this game,\nThen let the eternal euthymia within her heart carry forth into the nation she loves.",
+        "de": "\nEin Naginata ist eine mächtige Waffe zum Vertilgen von Unkräuter.\nDer, der das Naginata hält, ist dazu bestimmt, den Weg der Beständigkeit zu bewachen.\n\nWenn sie, die hoch über den Gewitterwolken ist, auf die sterbliche Welt herabschaut, die ihr ergeben ist,\nsind alles, was sie sieht, lauter oberflächliche Streite, zerbrechliche Illusionen, zwanghafte und vergängliche Heißgier ...\nStreite, geboren aus unnötiger Liebe und Wahnsinn, sind die Feinde der Beständigkeit und Unbeweglichkeit.\nDie Unkräuter, die die unveränderliche, ewige Welt aufwühlt, werden vom Blitzschlag ausgerottet.\n\n„Also, welche Ewigkeit wird sich in den Augen von ███ spiegeln?“\nIn der noch klaren und stillen Erinnerung fragte der namenlose Unsterbliche, der unter dem Kirschbaum trank.\n\nWas für eine sinnlose Frage.\nObwohl die damalige Antwort darauf wegen des Weins vergessen wurde.\nDoch nun hat der einsame Mann seine Antwort in unzähligen Reminiszenzen erhalten.\nDie Früchte der Süße müssen ausgedünnt werden, und die Blüten des Zyanids müssen am Ende gepflückt werden.\nIm ewigen Land der immerwährenden Stille und des Lichts sollte kein Platz für irgendwelche Unordnung sein.\n\n„Trotzdem, trotzdem ...“\n„Mit dem Schwert der Macht die Möglichkeit auszulöschen, dass die Träume der normalen Menschen entstehen und zerplatzen können ...“\n„Die stille Welt, die so frei von Streit und Gewinn und Verlust ist, wäre eine verlorene Odyssee der Amnesie.“\nIm Herzen der Ewigkeit sind Freunde der früheren Zeiten wie der widerhallende Klang im Echokammer und der Duft der scharlachenen Kirschblüten von gestern.\n\nAber ich werde dich nie vergessen. Genauso wie ich nicht alles vergessen werde, was im Laufe der Jahrhunderte passiert ist.\nImmerhin ...\n\nImmerhin habe ich den Anblick der stockdunklen Vernichtung erlebt,\nUnd wie kann man die unendlichen Geburten und Tode und die ungelösten Bindungen nicht als Todfeinde betrachten?\nDa niemand die Vergänglichkeit der gegenwärtigen Welt wieder ungeschehen machen kann, ist die Einsamkeit unvermeidbar.\nDann bringe die ewige Reinheit deines Herzens in das Land, das sie liebt.",
+        "chs": null,
+        "cht": "\n所謂薙刀，乃是斬除蕪雜之利器。\n秉薙刀之人，意在守護恒常之道。\n\n當高踞雷雲之上者俯視她所傾心的凡世，\n所見無不淺薄的爭端，閃滅的執欲泡影…\n爭奪源於無謂愛執與狂欲，乃恆世之敵。\n攪擾不變恆世的雜草，將交由雷光殛滅。\n\n「那麼——在███的瞳仁裡，又會映出怎樣的永恆呢？」\n依然清晰靜滯的回想中，櫻樹下把酒對飲的那位神人問道，\n\n真是無謂的問題啊。\n雖然彼時給出的答案因為酒已經不記得了，\n但如今孤孑者在無數次追憶中得到了答案。\n甘美之實需要疏果，紺染之物需要末摘花。\n在永恆的常寂光土，任何蕪雜都不應容赦。\n\n「儘管如此呀，儘管如此…」\n「以威權刃光薙除蔓生的執妄，消滅夢想從容生滅的可能…」\n「如此不容爭端、無所得失的寂靜之世，將是失憶的迷途。」\n在永恆的心臟之中，昔日友人如是叮嚀，緋櫻氣息恍如今日。\n\n但我永遠不會忘記妳。正如我不會忘記千百年來逝去的一切。\n畢竟哪…\n\n畢竟目睹了深黑的湮滅將珍重之人淹沒的景象，\n又如何不視理不盡的生滅、無解的羈緣為死仇。\n既然誰人都無法逆轉現世之無常、緒絕的獨樂，\n那就將心中的常世淨土帶到她所珍愛的國度吧。",
+        "es": "\nLa naginata era un arma letal con la que se podía cortar la suciedad dispersa.\nY quien empuñaba esa naginata era quien protegía el camino hacia la eternidad.\n\nCuando la que se alzaba por encima de las nubes de tormenta miraba al mundo mortal que tanto amaba,\nveía sus disputas superficiales y sus obsesiones pasajeras.\nTales contenciones provenían de apegos innecesarios y de deseos incontrolados, ambos enemigos de la eternidad.\nLa maleza salvaje que perturbaba al inmutable mundo sería barrida por el rayo.\n\n“Entonces, ¿qué clase de eternidad se reflejaría en los ojos de ███?”,\npreguntó el ser divino que bebía vino con ella bajo los cerezos en aquel recuerdo todavía claro.\n\nQué pregunta tan tonta.\nNo recordaba la respuesta que le dio debido a su estado de embriaguez.\nPero ella ya había obtenido la respuesta innumerables veces en esos recuerdos.\nHay que limpiar los frutos para mejorar su calidad, y las plantas que se utilizan en los tintes deben tener sus flores podadas.\nNo se podía permitir ni una pizca de suciedad en un paraíso eterno.\n\n“Ah, pero aun así...\nAunque se use ese gran filo luminoso para arrancar de raíz toda obsesión y eliminar la posibilidad de que los sueños echen raíces y se marchiten por sí mismos...\nUn mundo tranquilo que no admite disputas, ni ganancias, ni pérdidas... Será un mundo amnésico y perdido”.\nEn el corazón de la eternidad, el recuerdo de esa vieja amiga sigue siendo igual de claro y el aroma del cerezo, igual de fresco, como si aún estuvieran en el presente.\n\n“Pero nunca te olvidaré, como tampoco olvidaré las cosas que se perdieron a lo largo de los años”.\nDespués de todo...\n\nHabiendo sido testigo de cómo la aniquilación de la oscuridad consumió a las personas que más le importaban,\n¿cómo no iba a ver como enemigos mortales lo absurdo de la vida y la muerte y lo incomprensible del destino?\nYa que nadie puede anular la impermanencia del mundo y la naturaleza estéril de este juego,\nentonces deja que la eutimia eterna de su corazón entre en la nación que ama.",
+        "fr": "\nLa naginata était une arme mortelle capable de trancher les impuretés.\nCelui qui maniait cette arme était celui qui protégeait le chemin vers l'éternité.\n\nLorsque celle qui se tenait au-dessus des nuages de tempête regarda vers le monde des mortels qu'elle aimait tant,\nelle constata leurs querelles sans fondement et leur obsession pour l'éphémère...\nDe telles disputes puisaient leur source dans des liens inutiles et des désirs incontrôlés, tous deux ennemis de l'éternité.\nLes mauvaises herbes qui perturbaient le monde immuable seraient emportées par la foudre.\n\n« Alors, quelle sorte d'éternité se refléterait dans les yeux de ███ ? »\nTelle était la question de l'être divin.\n\nQuelle question inutile.\nLa réponse qu'elle prononça s'était perdue dans les effluves d'alcool,\nMais elle avait déjà obtenu cette réponse un nombre incalculable de fois dans ces souvenirs.\nLes fruits doivent être éclaircis pour en améliorer la qualité et les fleurs des plantes utilisées pour la teinture doivent être taillées.\nPas une seule poussière d'impureté ne pouvait être admise dans le paradis éternel.\n\n« Quand bien même... »\n« Déraciner toute obsession grâce à cette lame de foudre, éliminer toute chance pour les rêves de prendre racine et les laisser flétrir d'eux-mêmes... »\n« Un monde tranquille qui ne tolère ni conflit, ni gain, ni perte... Un monde amnésique, perdu en lui-même. »\nAu cœur de l'éternité, les vieux amis sont toujours si paisibles, l'odeur du cerisier si douce, comme dans le présent.\n\nMais je ne t'oublierai jamais, tout comme je n'oublierai jamais tout ce que j'ai perdu au fil des années.\nAprès tout...\n\nElle qui fut témoin de l'annihilation par les ténèbres de ceux qui lui étaient chers,\ncomment ne pourrait-elle pas considérer l'absurde nature de la vie et de la mort, le destin incompréhensible, comme son ennemi mortel ?\nPuisque personne ne peut renverser le caractère éphémère du monde et la nature stérile de ce jeu, \nelle poursuit alors l'euthymie éternelle de son cœur jusque dans cette nation qu'elle aime tant.",
+        "id": "\nNaginata adalah senjata mematikan yang dengannya sampah yang berserakan dapat dipotong.\nDan orang yang menggenggam naginata itu adalah orang yang menjaga jalan menuju keabadian.\n\nKetika seorang yang berdiri tinggi di atas awan badai memandang dunia fana yang sangat dia cintai,\nMelihat perselisihan sepele beserta obsesi sesaatnya...\nPerselisihan seperti itu berasal dari keterikatan yang tidak perlu dan nafsu yang tidak terkendali — keduanya jelas merupakan musuh dari keabadian.\nBenalu liar yang mengganggu dunia yang tidak berubah akan dibasmi oleh kilat.\n\n\"Kalau begitu — Keabadian macam apa yang dipantulkan dari mata ███?\"\nJadi tanyalah pendeta yang minum dan mabuk anggur dengannya di bawah pohon sakura dalam ingatan yang masih jelas itu.\n\nSungguh pertanyaan yang tidak berguna.\nMeskipun jawaban yang dia berikan kepada mereka terlupakan karena tegukan alkohol,\nDia telah mendapatkan jawabannya berkali-kali melalui ingatan itu.\nBuah harus ditipiskan agar meningkat kualitasnya, dan tanaman yang digunakan dalam pewarna harus dipangkas bunganya.\nTidak ada setitik kotoran pun yang diizinkan di dalam surga yang abadi.\n\n\"Ah, tapi meski begitu...\"\n\"Menggunakan sinar dari pedang besar itu untuk mencabut semua obsesi dan melucuti semua kemungkinan bagi mimpi-mimpi untuk berakar dan layu secara alami...\"\n\"Dunia yang tenang di mana tidak ada perselisihan, tidak ada keuntungan, maupun kerugian... Ini akan menjadi dunia yang terlupakan, yang akan menghilang dengan sendirinya.\"\nDi jantung keabadian, teman lama masih tergambar dengan jelas, aroma sakura masih tercium begitu segar, seolah-olah mereka semua masih bersama dengan diri sendiri di masa kini.\n\nTapi aku tidak akan pernah melupakanmu, sama seperti aku tidak akan melupakan hal-hal yang hilang selama ribuan tahun.\nMeski begitu...\n\nAku telah menyaksikan penghancuran gelap gulita yang menghabisi orang-orang yang berharga baginya,\nBagaimana mungkin dia tidak melihat natur dari hidup dan mati yang tidak dapat dipahami itu sendiri, sebagai musuh bebuyutannya?\nTapi karena tidak ada yang bisa mengubah dunia menjadi kekal, dan tandusnya permainan ini,\nMaka biarlah euthymia abadi di dalam hatinya dia bawa menuju bangsa yang dia cintai.",
+        "jp": "\n薙刀は、穢れを除伐するための武器である。\n薙刀を振るう者は、恒常の道を守っている。\n\n雷雲の上に立つ者が大切にしている俗世を俯瞰する時、\n目に映るのは浅はかな争い、そして閃滅する泡影…\nそのような争いは、恒世の敵である無謀な愛執と狂欲に起因するものだ。\n不変の恒世を乱す雑草は、雷光により殲滅されるだろう。\n\n「であれば——███の瞳に映るのは、どのような永遠なのでしょう？」\n鮮明な記憶の中、櫻の下で彼女と一緒に酒を飲んだ神人は、このように尋ねた。\n\n実にくだらない質問だ。\n酒のせいで、その答えを思い出すのはもう不可能。\nしかし、彼女は無数の追憶の中から、その答えを導き出した。\n甘美の実には青果、染料には花が必要。\n永遠なる静寂の地では、一点の曇りも許されない。\n\n「それでも、それでも…」\n「その尊き薙刀で妄念を根絶し、夢想が生滅を許容する可能性を無くす…」\n「争うこともなく、得失することもない静寂な世界。それが記憶を失った謎い道となるでしょう。」\n永遠なる心の中、旧友は今でも鮮明で、緋櫻の香りも新鮮なまま。\n\n年月を経ても記憶は残るように、あなたのことも決して忘れない。\n何故なら…\n\n何故なら暗闇の中で大切な人が犠牲になるのを目の当たりにしたから。\n理不尽な生と死、そして避けられない運命を、なぜ仇として見ないのか。\n誰にも世の無常と緒絶の独楽を覆せないのであれば、\n心の中の常世の浄土を、彼女の愛する国に送り届けてあげよう。",
+        "kr": "\n치도라고 하는 것은, 번잡함을 베어버리는 무기다.\n치도를 지닌 자는, 영원함을 수호한다는 의미를 가졌다.\n\n천둥 구름 위에 군림하는 자가 그녀가 사모하는 속세를 굽어볼 때\n천박한 분쟁과 번뜩이는 집욕은 물거품이 된다….\n쟁탈이란, 무의미한 애착과 광욕에서 비롯되는 것으로, 영원함의 세상의 적이다.\n영원불변의 세상을 교란시키는 잡초는 천둥번개에 의해 죽게 될 것이다.\n\n「그렇다면——███의 눈동자에는, 또 어떠한 영원이 비춰질까?」\n여전히 또렷한 기억 속, 앵두나무 아래서 술을 마시던 그 신이 물었다.\n\n정말 의미 없는 질문이군.\n그때 주었던 답은 술 때문에 기억나지 않지만\n그러나 이 외로운 사람은 이제 수많은 추억 속에서 답을 얻었다.\n감미로운 과실을 얻기 위해서는 과실을 솎아내야 하고, 최고의 도료를 얻기 위해서는 색이 바랜 꽃을 따내야 한다.\n영원함이 깃든 적막한 광토에는, 그 어떤 번잡함도 용납할 수 없다.\n\n「그렇지만 말이야, 그렇지만…」\n「권위의 칼날로 만생의 집착을 베는 것도, 자유로운 생멸을 꿈꾸는 것을 멸하는 것도…」\n「이렇게나 논쟁을 받아들이지 않고, 득실을 따지지 않는 조용한 세상은, 기억을 잃는 미로일지도.」\n영원함의 심장 속에, 과거의 벗이 당부했던 것과 같이, 앵두의 향기은 마치 오늘의 것과 같다.\n\n하지만 나는 너를 영원히 잊지 않을 거야. 내가 천백 년간 사라져간 모든 것을 잊지 않은 것처럼.\n결국…\n\n결국에 깊은 어둠이 소중한 사람을 삼켜버리는 광경을 목격하고서\n어찌 끝나지 않는 생멸과 풀리지 않는 숙명을 원수로 보지 아니하겠나.\n누구도 현세의 덧없음과 뒤에 없을 독락을 거스를 수 없다면,\n마음속 속세의 정토를 그녀가 사랑하는 나라로 가져가게 하자.",
+        "pt": "\nA naginata era uma arma letal pela qual a impureza dispersa poderia ser cortada.\nE quem usou essa naginata foi quem guardou o caminho para a eternidade.\n\nQuando aquele que estava bem acima das nuvens da tempestade olhou para o mundo mortal, que ela tanto amava,\nVendo suas disputas superficiais e obsessões transitórias...\nEssas contendas originavam-se de apegos desnecessários e desejos desenfreados - ambos inimigos da eternidade.\nAs ervas daninhas que perturbavam o mundo imutável seriam varridas pelo raio.\n\n\"Bem, então - que tipo de Eternidade refletiria nos olhos de ███?\"\nEntão perguntou o clérigo que bebeu vinho com ela sob a árvore sakura naquela memória ainda clara.\n\nQue pergunta sem sentido.\nEmbora tenha esquecido devido à embriaguez\nEla tinha relembrado da resposta inúmeras vezes nessas memórias.\nÉ preciso desbastar os frutos para melhorar sua qualidade, e as plantas utilizadas nos corantes devem ter suas flores podadas.\nNem um único grão de impureza poderia ser permitido em um paraíso eterno.\n\n\"Ah, mesmo assim...\"\n\"Usando aquela grande lâmina de luz para extirpar toda obsessão e eliminar a possibilidade de os sonhos se enraizarem e murcharem por si mesmos...\"\n\"Um mundo tranquilo que não tolera disputas, ganhos ou perdas... Será um mundo amnésico, perdido para si mesmo.\"\nNo coração da eternidade, aquele velho amigo ainda é tão claro, o cheiro da sakura tão fresco, como se estivesse no presente.\n\nMas nunca vou te esquecer, assim como não vou esquecer as coisas que foram perdidas ao longo dos anos.\nAfinal de contas...\n\nTendo testemunhado a aniquilação sombria consumir aqueles que eram preciosos para ela,\nComo ela poderia não ver a natureza absurda da vida e da morte, o próprio destino incompreensível, como seu inimigo mortal?\nMas como ninguém pode reverter a impermanência do mundo, e a natureza estéril disso tudo,\nEntão, deixe a eutimia eterna em seu coração ser levada para a nação que ela ama.",
+        "ru": "\nНагината - острый клинок, что несёт безупречный порядок среди хаоса разнотравья.\nКто держит нагинату - охраняет незыблемость порядка.\n\nС небес взирая грозовых на бренный мир любимый,\nОна увидеть может лишь раздоры и игру страстей.\nПустые споры и желанья угрожают безупречному порядку.\nПусть выжжет молния дурные травы с вечности полей.\n\n«И что за вечность отразится в глазах ████?»\n- я помню тот вопрос под сакурой за чаркой.\n\nКакой бессмысленный вопрос.\nЧто мне тогда пришло на ум, не в силах я упомнить.\nНо после долгих размышлений одиноких мой готов ответ.\nКому нужны плоды - тот должен проредить цветы. Коль хочешь пурпура - сафлор собрать придётся.\nВ краю блаженства вечном беспорядку места нет.\n\nИ всё же, всё же...\nКлинок способен уничтожить иллюзии и глупые мечты.\nНо в этом мире без изъянов для памяти закрылись бы пути.\nИ в вечном сердце навсегда остался бы друг искренним и верным, и запах сакуры казался б настоящим.\n\nНо я забыть тебя не в силах. И не в силах прочее забыть.\nВ конце концов...\n\nУвидев, как погибельная тьма уносит жизни близких,\nКак не считать врагом судьбу, что жизнь и смерть тасует?\nПусть спор с непостоянством не во власти человека,\nСпособны люди принести покой и мир в страну свою родную.",
+        "th": "\nสิ่งที่ถูกเรียกว่านางินาตะนั้น คืออาวุธอันแหลมคมที่สามารถตัดสิ่งปลอมปนให้ขาดสะบั้น\nผู้ที่ถือนางินาตะ ก็คือผู้ที่ต้องการจะปกป้องเส้นทางสู่ความเป็นนิรันดร์\n\nเมื่อผู้ที่ยืนอยู่เหนือเมฆฝนฟ้าคะนอง จ้องมองดูโลกมนุษย์ที่เธอรัก\nมองเห็นความขัดแย้งอันตื้นเขิน และความลุ่มหลงเพียงชั่วครู่...\nการต่อสู้ที่เกิดขึ้นจากความผูกพันและความลุ่มหลงที่ไม่จำเป็น คือศัตรูของโลกแห่งความนิรันดร์\nเหล่าวัชพืชที่ก่อกวนโลกแห่งความนิรันดร์ที่ไม่เปลี่ยนแปลง จะต้องถูกสายฟ้าทำลายสิ้น\n\n\"ถ้าอย่างนั้น... ในสายตาของ███ จะสะท้อนความเป็นนิรันดร์แบบไหนกันนะ?\"\nภายในความทรงจำที่ยังคงกระจ่างแจ้งชัดเจน เทพตนหนึ่งซึ่งร่วมดื่มสุราด้วยกันใต้ต้นซากุระ ยกแก้วขึ้นมาและถามขึ้นว่า...\n\nเป็นปัญหาที่ไร้สาระอะไรอย่างนี้\nถึงแม้ว่าคำตอบที่ให้ไปในตอนนั้น จะถูกลืมเลือนไปเพราะเหล้าแล้วก็ตาม\nแต่ตอนนี้ผู้ซึ่งเต็มไปด้วยความอ้างว้างได้คำตอบแล้ว หลังจากการทบทวนความทรงจำนับครั้งไม่ถ้วน\nผลไม้จะหวานต้องอย่าปล่อยให้ดกเกินไป พืชที่ใช้ย้อมสีก็ควรจะเด็ดดอกออกเสีย\nในดินแดนเวิ้งว้างอันเป็นนิรันดร์ ไม่ควรปล่อยให้สิ่งปลอมปนอื่นใดมาปะปนได้\n\n\"แต่ไม่ว่าอย่างไร ไม่ว่าอย่างไรก็ตาม...\"\n\"การใช้แสงแห่งคมดาบขจัดความลุ่มหลง และทำลายความเป็นไปได้ที่ความฝันจะตั้งอยู่และดับไปอย่างสงบ...\"\n\"ในโลกอันเงียบสงบ ที่ไร้ซึ่งความขัดแย้ง และไร้ซึ่งผลประโยชน์ ก็คงจะถูกลืมเลือนไป\"\nเพื่อนเก่าคนนั้นยังคงชัดเจนในใจอันเป็นนิรันดร์ และกลิ่นหอมของดอกซากุระยังคงเป็นเช่นเดิม\n\nแต่ฉันจะไม่ลืมเธอ เช่นเดียวกับที่ฉันจะไม่มีวันลืมทุกสิ่งที่ได้ผ่านไปนับพันปี\nหลังจากนั้น...\n\nเมื่อได้เห็นภาพความหายนะอันมืดมิดที่กลืนกินผู้เป็นที่รัก\nแล้วจะเมินเฉยต่อความเป็นความตายที่ไม่รู้จบนี้ได้อย่างไร ชะตากรรมที่แก้ไม่ตกเฉกเช่นศัตรูผู้อาฆาต\nไม่มีผู้ใดสามารถย้อนคืนความไม่เที่ยงและความสันโดษของโลกนี้ได้\nดังนั้นจงนำดินแดนบริสุทธิ์ที่อยู่ในใจ มาสู่ประเทศที่เธอรักเสียเถอะ",
+        "vi": "\nTrường đao là vũ khí dùng để cắt đứt hỗn loạn.\nNgười cầm trường đao sẽ bảo vệ sự vĩnh hằng.\n\nKhi cô ấy nhìn xuống phàm trần mà cô ấy luôn muốn hướng đến,\nNhìn thấy cuộc tranh chấp nông cạn, chấp niệm bỗng chốc tan biến...\nSự tranh chấp bắt nguồn từ chấp niệm và ham muốn không cần thiết, chính là kẻ thù của sự vĩnh hằng.\nNhững sự quấy nhiễu vĩnh hằng sẽ bị sấm sét thiêu hủy.\n\n\"Vậy trong đôi mắt đó sẽ phản chiếu sự vĩnh hằng như thế nào?\"\nVẫn còn trong hồi ức rõ rệt ấy, vị thần cùng uống rượu dưới cây anh đào đã nói rằng,\n\nThật là vấn đề vô vị.\nTuy đã quên mất đáp án khi đó,\nNhưng hiện đã tìm được đáp án trong vô số hồi ức đó.\nQuả ngọt thì cần bỏ quả non, quả tươi thì không nên hái hoa.\nTrên mảnh đất vĩnh hằng, không nên xen lẫn bất kỳ hỗn tạp nào.\n\n\"Cho dù là vậy...\"\n\"Dùng ánh đao sắc bén để chặt đứt chấp niệm và thiêu hủy giấc mơ sinh sôi...\"\n\"Trong một thế giới không có tranh chấp và mất mát như vậy, sẽ mất đi ký ức.\nTrong trái tim vĩnh hằng, bằng hữu năm đó vẫn như xưa, hoa anh đào vẫn tựa như ngày nào.\n\nNhưng tôi sẽ mãi không quên bạn. Cũng như tôi sẽ mãi không quên mọi thứ đã mất đi trong ngàn năm nay.\nDù sao thì....\n\nDù sao thì đã tận mắt chứng kiến cảnh khói đen dìm chết những người quan trọng,\nSao có thể bỏ qua sự sinh tồn bất tận, sự trói buộc không thể giải như kẻ thù không đội trời chung.\nNếu đã không ai có thể nghịch chuyển được thế sự vô thường,\nVậy hãy đem tấm lòng thanh tịnh đến nơi mà cô ấy yêu mến."
+    }
+}

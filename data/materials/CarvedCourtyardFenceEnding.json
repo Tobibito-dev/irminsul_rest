@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Carved Courtyard Fence Ending",
+        "de": "Hofmauerende mit Schnitzerei",
+        "chs": "雕花庭院墙尾",
+        "cht": "雕花庭院牆尾",
+        "es": "Extremo de valla de patio con adornos",
+        "fr": "Fin de clôture de cour sculptée",
+        "id": "Ujung Pagar Halaman Utama dengan Ukiran",
+        "jp": "模様が彫られた庭園の壁隅",
+        "kr": "조각문양 정원 담장끝",
+        "pt": "Extremidade de Parede do Pátio Esculpida",
+        "ru": "Резная садовая ограда (Край)",
+        "th": "กำแพงสวนแกะสลัก",
+        "vi": "Chân Tường Đình Viện Khắc Hoa"
+    },
+    "id": 391203,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Carved Courtyard Fence Ending.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Hofmauerende mit Schnitzerei“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「雕花庭院墙尾」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「雕花庭院牆尾」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Extremo de valla de patio con adornos.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la fin de clôture de cour sculptée.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Gerbang Halaman Utama dari Kayu Birch\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「模様が彫られた庭園の壁隅」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「조각문양 정원 담장끝」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Extremidade de Parede do Pátio Esculpida\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Резная садовая ограда (Край)».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"กำแพงสวนแกะสลัก\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Chân Tường Đình Viện Khắc Hoa\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

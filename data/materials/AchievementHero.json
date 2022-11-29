@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Hero",
+        "de": "Errungenschaft – Heldentum",
+        "chs": "成就·侠行",
+        "cht": "成就·俠行",
+        "es": "Logro - Héroe",
+        "fr": "Succès - Héroïque périple",
+        "id": "Achievement: Pahlawan",
+        "jp": "アチーブメント·侠行",
+        "kr": "업적·협행",
+        "pt": "Conquista - Herói",
+        "ru": "Герой",
+        "th": "ความสำเร็จ - ฮีโร่",
+        "vi": "Thành tựu - Hành hiệp"
+    },
+    "id": 210023,
+    "materialDesc": {
+        "en": "Namecard style.\\nYour hero's journey began before you knew it, but it's the experiences that really made it special.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDie Reise eines Helden beginnt bereits mit dem Gedanken daran. Am wichtigsten sind aber die Dinge, die er auf dieser Reise erlebt.",
+        "chs": "名片纹饰。\\n英雄的旅程在一念之间就开始了。重要的还是旅程中途经历了多少事情。",
+        "cht": "名片紋飾。\\n英雄的旅程在一念之間就開始了。重要的還是旅程中途經歷了多少事情。",
+        "es": "Diseño de tarjeta de presentación.\\nEl heroico viaje comenzó antes de que lo supieras, pero son las experiencias las que realmente lo hicieron especial.",
+        "fr": "Thème.\\nLe périple du héros importe autant que sa destination.",
+        "id": "Style kartu nama.\\nPerjalananmu sebagai seorang pahlawan dimulai bahkan sebelum kamu menyadarinya, tapi tentu saja yang membuatnya menjadi istimewa adalah pengalaman.",
+        "jp": "名刺の飾り紋。\\n英雄の旅の一念の間に始まる。大事なのは旅で得た経験だ。",
+        "kr": "명함 스킨.\\n영웅의 여정은 생각에서 비롯된다. 얼마나 많은 경험을 했느냐가 중요하다",
+        "pt": "Estilo de Cartão de Visita.\\nPara os heróis, basta apenas uma ideia num instante para começar a jornada. O que conta mais é a experiência da jornada.",
+        "ru": "Именная карта.\\nВ каждом путешествии есть начало и конец, но главное - это то, что происходит между ними.",
+        "th": "ลายนามบัตร\\nเส้นทางของฮีโร่นั้นได้เริ่มขึ้นตั้งแต่จำความได้แล้ว สิ่งสำคัญคือคุณได้เจอกับเรื่องราวอะไรบ้างระหว่างการเดินทางนั้น",
+        "vi": "Hoa văn danh thiếp.\\nCuộc hành trình của người anh hùng bắt đầu ngay lúc vừa nghĩ đến. Điều quan trọng là đã trải nghiệm được những gì trong cuộc hành trình."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

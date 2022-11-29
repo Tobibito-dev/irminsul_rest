@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guiding Parchment",
+        "de": "Wegweisendes Pergament",
+        "chs": "引路的羊皮卷",
+        "cht": "引路的羊皮卷",
+        "es": "Pergamino con direcciones",
+        "fr": "Vélin de guidage",
+        "id": "Perkamen yang Memberikan Tuntunan",
+        "jp": "道しるべの羊皮紙",
+        "kr": "길을 인도하는 양피지",
+        "pt": "Pergaminho Guia",
+        "ru": "Указующий пергамент",
+        "th": "ม้วนหนังนำทาง",
+        "vi": "Cuộn Giấy Da Dẫn Đường"
+    },
+    "id": 120033,
+    "materialDesc": {
+        "en": "An ancient and mysterious roll of parchment. It looks like a note left by an adventurer. New words keep appearing on it.",
+        "de": "Eine rätselhafte antike Pergamentrolle. Es scheinen die von einem Abenteurer hinterlassenen Notizen zu sein. Es sieht so aus, als würden immer wieder neue Worte darauf erscheinen.",
+        "chs": "一卷古老而神秘的羊皮纸，看上去是某个冒险家留下来的笔记。似乎不断有新的文字出现。",
+        "cht": "一卷古老而神秘的羊皮紙，看起來是某個冒險家留下來的筆記。似乎不斷有新的文字出現。",
+        "es": "Un antiguo y misterioso pergamino. Parece una nota que dejó algún aventurero. En él aparecen palabras nuevas continuamente.",
+        "fr": "Un rouleau de parchemin ancien et mystérieux en peau de veau qui ressemble à une note laissée par un aventurier. On a l'impression que des mots ne cessent d'apparaître quand on le déroule.",
+        "id": "Gulungan perkamen kuno dan misterius tampak seperti catatan yang ditinggalkan oleh seorang petualang. Kelihatannya, ada huruf-huruf baru yang terus bermunculan tanpa henti.",
+        "jp": "古くて不思議な羊皮紙。とある冒険者が残したノートのようだ。文字が果てしなく続く。",
+        "kr": "신비함을 간직한 오래된 양피지. 어떤 모험가가 남긴 메모인 듯하다. 계속해서 새로운 문자가 출현하는 것 같다",
+        "pt": "Um antigo e misterioso pergaminho que parece como uma nota deixada por um aventureiro. Palavras novas continuam aparecendo nele.",
+        "ru": "Таинственный древний пергамент. Скорее всего, это записки некого искателя приключений. На пергаменте постоянно появляются новые письмена.",
+        "th": "แผ่นหนังโบราณลึกลับ ดูแล้วเหมือนจะเป็นบันทึกที่นักผจญภัยสักคนทิ้งเอาไว้ เอาแต่มีข้อความใหม่ผุดขึ้นบนนั้น",
+        "vi": "Một cuộn giấy da cổ xưa và bí ẩn, dường như là nhật ký của một nhà mạo hiểm nào đó để lại. Hình như không ngừng có ký tự mới xuất hiện."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

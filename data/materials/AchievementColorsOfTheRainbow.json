@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Colors of the Rainbow",
+        "de": "Errungenschaft – Bunte Farben",
+        "chs": "成就·虹色",
+        "cht": "成就·虹色",
+        "es": "Logro - Los colores del arcoíris",
+        "fr": "Succès - Prisme",
+        "id": "Achievement: Warna Warni Pelangi",
+        "jp": "アチーブメント·虹色",
+        "kr": "업적·무지개색",
+        "pt": "Conquista - Cores do Arco-Íris",
+        "ru": "Цвета радуги",
+        "th": "ความสำเร็จ - สีรุ้ง",
+        "vi": "Thành tựu - Màu sắc cầu vồng"
+    },
+    "id": 210026,
+    "materialDesc": {
+        "en": "Namecard style.\\nLight can refract into countless colors, but people stop at seven because they're lazy to count. Perhaps the elements are like that, too.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDas helle Licht des Tages kann in viele Farben gebrochen werden. Die Menschen sind lediglich zu faul sie zu zählen. Vielleicht zählt man auch nur deswegen sieben Elemente?",
+        "chs": "名片纹饰。\\n其实白昼之光，可以被色散成为无数种颜色。但是人们懒得数了，就简单分了七种。元素，大概也一样吧。",
+        "cht": "名片紋飾。\\n其實白晝之光，可以被色散成為無數種顏色。但是人們懶得數了，就簡單分了七種。元素，大概也一樣吧。",
+        "es": "Diseño de tarjeta de presentación.\\nLa luz puede descomponerse en innumerables colores, pero las personas se detienen en los primeros siete porque son perezosas para contar. Quizás los elementos también sean así.",
+        "fr": "Thème.\\nLa lumière du jour peut être fractionnée en une multitude de couleurs ; mais par commodité (ou fainéantise), il fut décidé de n'en compter que sept. Peut-être en va-t-il de même pour les éléments ?",
+        "id": "Style kartu nama.\\nNyatanya, cahaya bisa membias menjadi warna yang tak terhitung jumlahnya, tetapi orang berhenti pada tujuh karena mereka malas menghitung. Mungkin elemen juga seperti itu.",
+        "jp": "名刺の飾り紋。\\n白昼の光は無数の色でできている。しかし一々数えるのが面倒くさいから、人間は7色と決めつけた。元素もきっと同じだろう。",
+        "kr": "명함 스킨.\\n빛은 무수히 많은 색으로 분산된다. 하지만 사람들은 간단히 일곱 빛깔로 나눴고 원소도 이와 같다",
+        "pt": "Estilo de Cartão de visita.\\nDe facto, a luz do dia pode se refratar em várias cores. Só que as pessoas estão com preguiça de contar, e simplesmente o dividem em sete tipos, e dão a origem aos sete elementos.",
+        "ru": "Именная карта.\\nЛуч света распадается на несметное количество цветов, но люди поленились и насчитали всего семь. Видимо, та же участь постигла и стихии.",
+        "th": "ลายนามบัตร\\nความจริงแล้วแสงในเวลากลางวันนั้นสามารถถูกแยกออกเป็นสีสันต่าง ๆ ได้นับไม่ถ้วน แต่เมื่อผู้คนขี้เกียจนับจึงได้เหมารวมว่ามีอยู่ทั้งหมดเจ็ดสี บางทีเรื่องของพลังธาตุก็น่าจะเป็นอย่างนี้เช่นกัน",
+        "vi": "Hoa văn danh thiếp.\\nThật ra ánh sáng ban ngày có thể bị phân tán thành vô số màu sắc. Nhưng người ta lười đếm, nên chỉ chia thành 7 màu. Nguyên tố đại khái cũng như vậy."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

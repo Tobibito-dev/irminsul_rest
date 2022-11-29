@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jueyun Chili Chicken",
+        "de": "Kalte Geflügelhäppchen",
+        "chs": "香嫩椒椒鸡",
+        "cht": "香嫩椒椒雞",
+        "es": "Pollo al chile Jueyun",
+        "fr": "Poulet pimenté de Jueyun",
+        "id": "Jueyun Chili Chicken",
+        "jp": "椒椒鶏",
+        "kr": "절운고추 치킨",
+        "pt": "Frango de Pimenta de Jueyun",
+        "ru": "Острая курица на пару",
+        "th": "Jueyun Chili Chicken",
+        "vi": "Gà Cay Thơm Mềm"
+    },
+    "id": 108084,
+    "materialDesc": {
+        "en": "Chicken in a dressing, served cold. The way the dish has been prepared captures the succulence of the chicken perfectly. Beneath the glowing gold skin, the meat has a mildly hot flavor.",
+        "de": "Ein kaltes Geflügelgericht. Das zarte Geflügelfleisch behält bei dieser Zubereitungsart seinen ursprünglichen Geschmack bei. Die goldgelb leuchtende Haut umhüllt das weiche Fleisch.",
+        "chs": "凉拌的禽肉。凉拌的技法充分保留住了禽肉鲜美多汁的特点。金黄晶莹的外皮之下，有着微辣的回味。",
+        "cht": "涼拌的禽肉。涼拌的技法充分保留住了禽肉鮮美多汁的特點。金黃晶瑩的外皮之下，有著微辣的回味。",
+        "es": "Un plato de pollo frío. Su forma de elaboración permite que el sabor y el jugo del pollo se conserven a la perfección. Bajo su dorada piel se esconde un sabor ligeramente picante.",
+        "fr": "Poulet froid en sauce. La délicieuse saveur du poulet a été conservée grâce à une technique et une exécution hors-pair. La peau croustillante possède un goût légèrement épicé.",
+        "id": "Ayam dingin dicampur dengan saus. Teknik mahir yang digunakan untuk mencampur hidangannya mempertahankan kesegaran ayamnya. Kulit ayamnya yang keemasan menyembunyikan rasa yang agak pedas di dalamnya.",
+        "jp": "鳥肉の和え物。鳥肉のジューシさをそのままキープされ、金色の皮の下にあるピリ辛の味わいが魅力的である。",
+        "kr": "새고기냉채. 새고기를 무쳐서 재료의 신선함과 풍부한 육즙을 잘 담아냈다. 금빛으로 반짝이는 껍질에는 매콤한 뒷맛이 숨어있다",
+        "pt": "Frango frio misturado em molhos. A técnica usada na mistura do prato manteve o frescor da suculência da carne. A brilhante pele de galinha dourada esconde um sabor levemente picante.",
+        "ru": "Холодная закуска из мяса птицы. Уникальный метод приготовления позволяет курице оставаться сочной. Её золотистая кожица скрывает под собой жар острого перца.",
+        "th": "เนื้อไก่เย็น ๆ คลุกกับซอส เทคนิคการคลุกเย็นคงไว้ซึ่งลักษณะที่อร่อยและความฉ่ำของเนื้อไก่ ซึ่งภายใต้หนังสีทองวาวนั้นจะให้รส เผ็ดเล็กน้อยติดปลายลิ้น",
+        "vi": "Thịt gia cầm trộn gỏi. Kỹ thuật trộn gỏi đã giữ được độ tươi ngon mọng nước của thịt. Dưới lớp da vàng óng là một mùi vị cay nhẹ thơm ngon."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

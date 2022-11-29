@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rex Incognito (III)",
+        "de": "Rex Incognitus III",
+        "chs": "帝君尘游记·三",
+        "cht": "帝君塵遊記·三",
+        "es": "Rex Incognito (III)",
+        "fr": "L'Archon invisible - III",
+        "id": "Penyamaran Rex (III)",
+        "jp": "帝君遊塵記·三",
+        "kr": "제군의 속세 여행기·Ⅲ",
+        "pt": "Rex Incognito (III)",
+        "ru": "Властелин Инкогнито. Том III",
+        "th": "บันทึกการเดินทางราชาแห่งหิน III",
+        "vi": "Đế Quân Vi Hành III"
+    },
+    "id": 100588,
+    "materialDesc": {
+        "en": "A Liyue fantasy novel that tells the tales of Rex Lapis' incognito excursions in the mortal realm. Iron-clad concepts of rules or equity fade into nothingness in this fantastical tale.",
+        "de": "Ein Fantasieroman über Liyue. Erzählt wird von Rex Lapis, der sich in menschlicher Gestalt auf die Erde begibt. Festgefahrene Begriffe von Regeln und Gerechtigkeit lösen sich in dieser fantastischen Geschichte gleichermaßen auf.",
+        "chs": "璃月的幻想小说，讲述了岩王帝君化为凡形行走人间的故事。规则与公平的刻板含义，同样会在虚幻的故事中消解。",
+        "cht": "璃月的幻想小說，講述了岩王帝君化為凡形行走人間的故事。規則與公平的刻板含義，同樣會在虛幻的故事中消解。",
+        "es": "Una novela fantástica de Liyue en la que se relatan las visitas de Rex Lapis al reino de los mortales en una de sus formas reencarnadas. Las ideas preconcebidas sobre las leyes y la igualdad se derrumban en este cuento fantástico.",
+        "fr": "Un roman fantastique populaire à Liyue qui raconte les voyages incognito du Souverain de la Roche dans le monde les mortels. Les notions rigides de loi et de justice disparaissent au fil de cette histoire extraordinaire.",
+        "id": "Novel fantasi Liyue menceritakan kisah tentang Rex Lapis yang turun ke dunia fana dan menjadi manusia. Konsep aturan atau ekuitas yang berlapis besi memudar menjadi ketiadaan dalam kisah fantastis ini.",
+        "jp": "璃月のファンタジー小説。岩王帝君が凡人の姿になり、人間の世界を旅したことを描写する小説。ルールや公平の固いイメージもファンタジー世界で和らぐ。",
+        "kr": "리월의 판타지 소설, 암왕제군이 평범한 사람으로 변해 속세를 활보하던 옛이야기이다. 규칙과 공평함은 비현실적인 이야기 속에서 사그라진다",
+        "pt": "Um romance de fantasia de Liyue que conta as excursões incógnitas no reino mortal do Rex Lapis em forma humana. O preconceito de regra e justiça está dissipado entre as histórias imaginárias.",
+        "ru": "Фантастический роман Ли Юэ, повествующий о хождениях Властелина Камня в человеческом обличье среди смертных. В этой необыкновенной истории запечатлённые в камне понятия о законе и справедливости рассеиваются в небытие.",
+        "th": "นิยายแฟนตาซีของ Liyue ที่บอกเล่าเรื่องราวในอดีตของราชาแห่งหินที่ได้แปลงกายเป็นคนธรรมดาในโลกมนุษย์ กฎและความยุติธรรมนั้นก็เป็นเฉกเช่นเดียวกับเรื่องราวลวงตาที่สุดท้ายก็มลายหายไป",
+        "vi": "Tiểu thuyết viễn tưởng Liyue, kể lại câu chuyện Nham Vương Đế Quân hóa thành thường dân du hành khắp thế gian. Nguyên tắc thì vẫn luôn khô khan, cứng nhắc, thế nhưng điều đó lại được thể hiện hoàn toàn khác trong các câu chuyện viễn tưởng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

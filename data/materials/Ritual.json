@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ritual",
+        "de": "Ritual",
+        "chs": "祭仪",
+        "cht": "祭儀",
+        "es": "Ritual",
+        "fr": "Restauration rituelle",
+        "id": "Ritual",
+        "jp": "祭儀",
+        "kr": "제례",
+        "pt": "Rituais de Sacrifício",
+        "ru": "Ритуал",
+        "th": "Ritual",
+        "vi": "Nghi Lễ"
+    },
+    "id": 200215,
+    "materialDesc": {
+        "en": "When Normal Attacks hit opponents, they have a 50% chance to regenerate 5 Energy for themselves. This effect can be triggered once every 4s per character.",
+        "de": "Stellt sich selbst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 50 % 5 Punkte Elementarenergie wieder her. 4 s Abklingzeit für die auslösende Figur.",
+        "chs": "普通攻击命中后，有50%几率为自己恢复5点元素能量。该效果每个角色每4秒至多触发一次。",
+        "cht": "普通攻擊命中後，有50%機率為自己恢復5點元素能量。該效果每個角色每4秒至多觸發一次。",
+        "es": "Al golpear a un enemigo con un Ataque Normal, hay un 50% de probabilidad de restaurar 5 pts. de Energía Elemental. Cada personaje solo puede activar este efecto una vez cada 3 s.",
+        "fr": "Lorsque les personnages déployés touchent des ennemis avec des attaques normales, ils ont 50 % de chances de restaurer 5 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 4 s par personnage.",
+        "id": "Normal Attack yang mengenai musuh memiliki 50% kemungkinan untuk memulihkan 5 Energy Karakter yang sedang digunakan. Setiap Karakter dapat memicu efek ini setiap 4 detik.",
+        "jp": "通常攻撃が命中すると、50%の確率で元素エネルギーを5回復する。この効果は各キャラクターごとに4秒毎に1回のみ発動可能。",
+        "kr": "일반 공격 명중 시 50%의 확률로 자신의 원소 에너지를 5pt 회복한다. 모든 캐릭터는 해당 효과를 4초마다 1회 발동한다",
+        "pt": "Depois de acertar um Ataque Normal, há 50% de chance de regenerar 5 Pontos de sua própria Energia Elemental. Esse efeito pode ocorrer uma vez por Personagem a cada 4s.",
+        "ru": "При попадании обычной атаки по врагу у персонажа есть 50% шанс восстановить 5 ед. своей элементальной энергии. Этот эффект может возникнуть один раз в 4 сек. для каждого персонажа.",
+        "th": "หลังจากที่การโจมตีปกติถูกเป้าหมาย มีโอกาส 50% จะทำการฟื้นฟูพลังงานธาตุ 5 หน่วยให้ตัวเอง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 4 วินาที",
+        "vi": "Sau khi tấn công thường chính xác có 50% tỷ lệ hồi phục 5 điểm Năng Lượng Nguyên Tố cho bản thân. Hiệu quả này mỗi nhân vật mỗi 4s tối đa kích hoạt 1 lần."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

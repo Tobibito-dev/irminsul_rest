@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Reins of Revival Fragment (The Narrows)",
+        "de": "Fragment der Zügel der Auferstehung in der Schlucht",
+        "chs": "狭间的苏生之辔碎片",
+        "cht": "狹間的蘇生之轡碎片",
+        "es": "Fragmento de Riendas del resurgimiento del Desfiladero",
+        "fr": "Fragment des rênes du renouveau (Gorges)",
+        "id": "Pecahan Kendali Kebangkitan (The Narrows)",
+        "jp": "狭間の「蘇生手綱」の破片",
+        "kr": "협곡의 소생의 고삐 조각",
+        "pt": "Fragmento da Rédea da Ressurreição do Estreito",
+        "ru": "Фрагмент Поводьев воскрешения (Теснина)",
+        "th": "ชิ้นส่วน Reins of Revival จาก The Narrows",
+        "vi": "Mảnh Dây Cương Hồi Sinh Lối Mòn Khe Núi"
+    },
+    "id": 100922,
+    "materialDesc": {
+        "en": "A fragment of the Reins of Revival. It is made from a special material.",
+        "de": "Ein Fragment der Zügel der Auferstehung. Es ist aus einem besonderen Material gefertigt.",
+        "chs": "苏生之辔的碎片，使用了特殊的材料制成。",
+        "cht": "蘇生之轡的碎片，使用了特殊的材料製成。",
+        "es": "Un fragmento de las Riendas del resurgimiento hecho con unos materiales especiales.",
+        "fr": "Un fragment des rênes du renouveau. Il est fabriqué à partir d'un matériau spécial.",
+        "id": "Pecahan dari Kendali Kebangkitan. Dibuat dari material khusus.",
+        "jp": "蘇生手綱の破片、特殊な材料で作られている。",
+        "kr": "소생의 고삐 조각. 특수한 재료로 제작되었다",
+        "pt": "Um fragmento da Rédea da Ressurreição. É feito de um material especial.",
+        "ru": "Фрагмент Поводьев воскрешения. Изготовлен из особого материала.",
+        "th": "ชิ้นส่วน Reins of Revival ที่ทำมาจากวัสดุพิเศษ",
+        "vi": "Mảnh vỡ của Dây Cương Hồi Sinh, được chế tạo bởi những nguyên liệu đặc biệt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

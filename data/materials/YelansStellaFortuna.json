@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yelan's Stella Fortuna",
+        "de": "Stella Fortuna von Yelan",
+        "chs": "夜兰的命星",
+        "cht": "夜蘭的命星",
+        "es": "Stella Fortuna de Yelan",
+        "fr": "Stella Fortuna de Yelan",
+        "id": "Stella Fortuna Yelan",
+        "jp": "夜蘭の星屑",
+        "kr": "야란의 운명의 별",
+        "pt": "Stella Fortuna de Yelan",
+        "ru": "Удача Е Лань",
+        "th": "ดวงดาวแห่งชีวิตของ Yelan",
+        "vi": "Chòm Sao Của Yelan"
+    },
+    "id": 1160,
+    "materialDesc": {
+        "en": "Yelan's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Yelans Sternbild",
+        "chs": "夜兰的命之座激活素材",
+        "cht": "夜蘭的命之座啟用素材",
+        "es": "Material de activación de constelación de Yelan",
+        "fr": "Matériau d'activation de la constellation de Yelan.",
+        "id": "Material aktivasi untuk Konstelasi Yelan",
+        "jp": "夜蘭の命ノ星座アンロック用素材",
+        "kr": "야란의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Yelan",
+        "ru": "Материал для активации созвездия Е Лань.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Yelan",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Yelan"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

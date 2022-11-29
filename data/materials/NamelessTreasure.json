@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nameless Treasure",
+        "de": "Namenloser Schatz",
+        "chs": "无名的宝藏",
+        "cht": "無名的寶藏",
+        "es": "Tesoro sin nombre",
+        "fr": "Trésor anonyme",
+        "id": "Harta Tanpa Nama",
+        "jp": "無名の宝蔵",
+        "kr": "무명의 보물",
+        "pt": "Tesouro Sem Nome",
+        "ru": "Безымянное сокровище",
+        "th": "สมบัตินิรนาม",
+        "vi": "Kho báu vô danh"
+    },
+    "id": 100532,
+    "materialDesc": {
+        "en": "Anonymous treasure acquired at Dunyu Ruins. There is a pattern of unknown significance on the outside. Perhaps you could get someone in Liyue Harbor with an interest in antiques to take a look at it.",
+        "de": "Ein namenloser Schatz vom Dunyu-Mausoleum. Darauf sind unbekannte Muster zu erkennen. Vielleicht weiß ja jemand in Liyue, der sich für Antiquitäten interessiert, etwas damit anzufangen.",
+        "chs": "从遁玉陵处得到的无名宝藏，表面有着不明意义的纹饰。或许可以拿给璃月港里懂古玩的人看看…",
+        "cht": "從遁玉陵處得到的無名寶藏，表面有著意義不明的紋飾。或許可以拿給璃月港裡懂古玩的人看看…",
+        "es": "Tesoro sin nombre adquirido en las Ruinas de Dunyu. Hay un patrón con un significado desconocido en su exterior. Tal vez podrías conseguir que alguien en Liyue interesado en antigüedades lo vea...",
+        "fr": "Un trésor anonyme découvert aux Ruines de Dunyu qui est orné d'un symbole inconnu. Quelqu'un qui s'y connaît en antiquités au Port de Liyue serait en mesure de vous en dire davantage à son sujet.",
+        "id": "Harta karun misterius yang ditemukan di Dunyu Ruins. Memiliki pola yang tidak dikenal pada permukaannya. Mungkin kamu bisa menunjukkannya pada seseorang yang mengetahui tentang barang antik di Liyue Harbor...",
+        "jp": "遁玉の丘で発見した無名の宝物、表面には謎の飾り紋がついている。璃月港の骨董屋に鑑定してもらうのも良い方法かもしれない…",
+        "kr": "둔옥릉에서 획득한 이름 없는 보물. 겉에 알 수 없는 무늬 장식이 있다. 리월항의 골동품 전문가가 뭔가 알지도…",
+        "pt": "Tesouro anônimo adquirido nas Ruínas de Dunyu. Existe um padrão com significado desconhecido em seu exterior. Talvez você possa contratar alguém em Liyue com interesse em antiguidades para dar uma olhada.",
+        "ru": "Сокровище, найденное в гробнице Дуньюй. На внешней стороне изображён орнамент неизвестного происхождения. Возможно, стоит показать кому-нибудь в Ли Юэ, кто увлекается антиквариатом.",
+        "th": "สมบัติไร้ชื่อซึ่งได้รับจาก Dunyu Ruins ภายนอกถูกตกแต่งด้วยตัวอักษรที่ไม่รู้จัก บางทีคุณน่าจะนำไปให้คนที่รู้จักของโบราณในท่าเรือ Liyue ดูนะ...",
+        "vi": "Báu vật vô danh lấy từ Tuần Ngọc Lăng, phía trên có những họa tiết khó hiểu. Có lẽ nên đưa nó cho những người đam mê cổ vật ở Liyue tìm hiểu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Staff of Homa",
+        "de": "Homa-Stab",
+        "chs": "护摩之杖",
+        "cht": "護摩之杖",
+        "es": "Báculo de Homa",
+        "fr": "Bâton de Homa",
+        "id": "Staff of Homa",
+        "jp": "護摩の杖",
+        "kr": "호마의 지팡이",
+        "pt": "Báculo de Homa",
+        "ru": "Посох Хомы",
+        "th": "Staff of Homa",
+        "vi": "Trượng Hộ Ma"
+    },
+    "id": 13501,
+    "type": "WEAPON_POLE",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 45.9364013671875
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL_HURT",
+            "value": 0.14399999380111694
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0859999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.343000054359436,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4290000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5160000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6019999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.774999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2109999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2990000247955322,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.385999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4739999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6500000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.73799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8269999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9149999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.003999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.181999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2709999084472656,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.359999895095825,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.450000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5390000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.628999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7190001010894775,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.809000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.989000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.261000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.3520002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.442999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.533999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.808000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.900000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.992000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.084000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.176000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.26800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.638000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.730999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.824999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.918000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.011000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.105000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.197999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.291999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.386000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.669000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.763000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.857999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.953000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.047999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.14300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.23799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.334000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.428999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.525000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.620999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.813000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.908999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10200023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.199000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.295000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.392000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.48900032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.586999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.684000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.781999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.878999710083008,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.97700023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.074999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.17300033569336,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.270999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.369999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.468000411987305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.567000389099121,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.666000366210938,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.765000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.86400032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.963000297546387,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.062000274658203,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.161999702453613,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL_HURT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 13501,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114021,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 5
+                },
+                {
+                    "id": 112002,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 18
+                },
+                {
+                    "id": 112002,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 9
+                },
+                {
+                    "id": 112021,
+                    "count": 9
+                },
+                {
+                    "id": 112003,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 5
+                },
+                {
+                    "id": 112021,
+                    "count": 18
+                },
+                {
+                    "id": 112003,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 9
+                },
+                {
+                    "id": 112022,
+                    "count": 14
+                },
+                {
+                    "id": 112004,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 13501,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114024,
+                    "count": 6
+                },
+                {
+                    "id": 112022,
+                    "count": 27
+                },
+                {
+                    "id": 112004,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
+        "de": "Ein sogenannter roter Brennholzstab, der in alten, mittlerweile vergessenen Ritualen verwendet wurde.",
+        "chs": "在早已失落的古老祭仪中，使用的朱赤「柴火杖」。",
+        "cht": "在早已失落的古老祭儀中，使用的朱赤「柴火杖」。",
+        "es": "Un bastón de color bermellón utilizado en un antiguo ritual que hace mucho tiempo que no se practica.",
+        "fr": "Un « bâton de feu » utilisé il y a bien longtemps dans quelque rituel ancien aujourd'hui disparu.",
+        "id": "Sebuah \"tongkat kayu bakar\" yang pernah digunakan dalam ritual kuno dan telah lama hilang.",
+        "jp": "既に廃れた過去の祭儀で使われていた朱色の杖。",
+        "kr": "오래전에 사라져버린 옛 제사 의식에 사용됐던 적색의 지팡이",
+        "pt": "Um bastão vermelho utilizado em um antigo ritual que não se pratica há muito tempo.",
+        "ru": "Алый посох, использовавшийся в давно утраченном древнем ритуале.",
+        "th": "\"หอกแห่งไฟ\" ที่ใช้ในพิธีกรรมโบราณซึ่งได้สูญหายไปเป็นเวลานาน",
+        "vi": "\"Trượng Lửa\" màu đỏ sử dụng trong nghi lễ cổ xưa, đã thất truyền từ lâu."
+    },
+    "flavor": {
+        "en": "\nTo cleanse by fire all that is impure, to allow the impurities to rise with the flames unto the all-accommodating high heavens.\nThese rites would see fresh tinder lit during the rainy seasons, and wolf smoke would arise from those fires as prayers for blessings and the defeat of evil.\n\nThese blazing rituals were especially commonplace during that ancient period of strife.\nFor the dreams and delusions of the silent corpses of gods would produce evil miasmas,\nSnatching away the citizens who were no longer theirs, and those who never were theirs also.\n\nThen, a merciful doctor heard a whisper from within the flame as fierce as the red sunset,\nFrom within the crackling and snapping of withered grass.\n\"Only an unbound flame can purify the filth of this world.\"\n\"Lift up this scarlet firewood. With it, you shall repel every demon.\"\n\nSo the doctor took up that devilishly red staff, igniting all that was impure.\nThose who have passed, unable to bear deep sadness, but who have since become shrouded by ill karma and calamity,\nThey shall be reduced to ashen butterflies in this flame, and receive relief from their misfortunes and hurts.\nAs for the doctor who lit those countless flames, legend has it that they, too, were reduced to smoke in the shape of a lovely butterfly.\n\nThough these rites have been forgotten over time and with the coming of peace,\nThose with fire in their hearts can still hear these whispered words from flickering flames when they find themselves faced with an imposing darkness:\n\"Only an unbound flame can purify this world.\"\n",
+        "de": "\nReinige alle Unreinheiten mit Feuer und lass den Schmutz mit dem Feuer hinaufsteigen in den höchsten Himmel, wo alle Dinge sein mögen:\nBei diesen Riten wurde während der Regenzeit auch noch frischer Zunder angezündet und aus diesen Feuern stieg dann Wolfsrauch auf, im Gebet für Segen und den Sieg über das Böse.\n\nDiese flammenden Rituale waren besonders in jener alten Zeit des Unfriedens üblich.\nDenn die Träume und Wahnvorstellungen der stummen Götterleichen würden böse Seuchen erzeugen,\nwelche die Bürger wegrissen, die nicht mehr die ihren waren, und auch solche, die nie die ihren waren.\n\nDann hörte ein barmherziger Arzt ein Flüstern aus dem Inneren der brennend roten Flamme,\naus dem Knistern und Brechen von vertrocknetem Gras.\n„Nur unbändiges Feuer kann den Schmutz von Himmel und Erde reinigen.“\n„Hebe dieses scharlachrote Brennholz auf. Mit ihm sollst du jeden Dämon abwehren.“\n\nAlso nahm der Arzt den teuflisch roten Stab in seine Hand und entzündete alles, was unrein war.\nDiejenigen, die bereits gegangen sind, unfähig, tiefe Traurigkeit zu ertragen, die aber inzwischen von schlechtem Karma und Unglück umhüllt sind,\nSie sollen in dieser Flamme zu kreidebleichen Schmetterlingen werden und endlich Erleichterung von ihrem Unglück und ihren Verletzungen erhalten.\nDer Arzt, der jene endlosen Feuer entfacht hatte, ist der Legende nach letztendlich selbst zu einem Ascheschmetterling geworden.\n\nAuch wenn viele dieser Rituale über die Zeit und den Frieden hindurch vergessen wurden,\njene, die das Feuer in ihrem Herzen tragen, können noch heute das Flüstern der knisternden Flammen hören, wenn sie sich von aufsteigender Dunkelheit bedroht sehen.\nSo tanzt das Feuer und knistert, da sonst nichts als seine Flammen die Welt zu reinigen vermag.\n",
+        "chs": null,
+        "cht": "\n以熾焰洗淨一切不潔之物，讓污穢與火光一同升向可容納一切的高天：\n這種祭儀曾在澆季中，點亮過大陸各處的薪柴，升起求福退邪的狼煙。\n\n這種熾熱的祭儀在悠古的紛爭高揚的時代一度盛行。\n因為靜默神骸的妄念與夢想會化為憑附的惡瘴菑癘，\n將不再屬於他們的子民與不曾屬於他們的人子帶走。\n\n彼時，救死的醫者從耀若黃昏的烈火中聽見，\n油脂沸騰枯草崩裂的響聲中的低吟。\n「只有無羈之火能淨化天地的污濁」\n「升起朱赤的柴禾，摒退一切妖邪」\n\n醫者持妖紅的手杖，引燃沾染了邪汙的事物。\n那些被惡業與災殃纏上的往者，未能承受深重哀傷的逝者，\n將在火中化作灰之蛺蝶，自濁世的一切不幸與嗟傷中解脫。\n而點燃無數柴禾堆的醫者，傳說也最終化成了飛蝶般的煙。\n\n即使這種祭儀隨著和平與歲月被遺忘，\n漆黑的明威面前中，心中懷著烈火的人總能聽見，\n炫惑的火之舞低吟，只有無羈的熾焰能淨化天地…\n",
+        "es": "\nQue el fuego purifique lo impuro y que la corrupción y las llamas asciendan al grandioso cielo.\nEste era un tipo de ritual que se llevaba a cabo en un periodo en el que reinaba la maldad. Con él, se prendía en llamas la leña de todo el continente, de la cual emanaba el humo de las bendiciones y la protección.\n\nEste ritual del fuego estuvo muy extendido durante una antigua época en la que imperaba la guerra.\nEn aquel entonces, los delirios y los sueños de los dioses muertos devinieron en plagas y pestes.\nEstas se llevaron injustamente las vidas de muchos hombres y mujeres, así como las de sus hijos, las cuales nunca les pertenecieron.\n\nEn aquella época, un curandero que salvaba vidas escuchó en el radiante fuego\nel leve susurro del resquebrajamiento de los árboles en llamas.\n“Solo el fuego incontrolado puede purificar la suciedad de este mundo.\nSolo él puede tornar la leña de color bermellón para expulsar al mal”.\n\nEl curandero llevaba un bastón de color bermellón con el que incendiaba todo aquello que había sido contaminado.\nEl pasado, enmarañado en una infinidad de malas acciones y desastres, y aquellos que murieron por no poder soportar su\nprofundo dolor, arderán y se convertirán en mariposas hechas de cenizas para liberarse de toda la desdicha y el dolor de este mundo corrupto.\nCuenta la leyenda que el curandero que incendió innumerables pilas de leña también acabó transformándose en un humo con forma de mariposa.\n\nCon los años y la paz, el ritual cayó en el olvido.\nSin embargo, las personas que abrazaron el calor de las llamas nunca dejaron de oír el susurro del fuego cegador en la imponente oscuridad diciendo:\n“Solo el fuego incontrolado puede purificar este mundo”.\n",
+        "fr": "\nPurifier par le feu tout ce qui est impur pour permettre aux impuretés de monter avec les flammes vers les cieux.\nCe type de rite autrefois utilisé dans les temps décadents voyait brûler du bois sur tout le continent, et s'élevait alors la flamme qui viendrait faire don de ses bénédictions et repousser le mal.\n\nCes rituels fleurirent durant les périodes de conflit.\nLes rêves et les illusions des dépouilles silencieuses des dieux se changeaient en ces temps en miasmes maléfiques,\nvenant prendre les peuples qui ne leur appartenaient plus, ainsi que ceux qui ne leur avaient jamais appartenus.\n\nOr vint un médecin qui sauvait des vies. Et ce dernier entendit un murmure de l'intérieur de la flamme, aussi féroce qu'un coucher du soleil rouge,\nun murmure provenant du crépitement et du claquement de l'herbe séchée.\n« Seule une flamme sans entraves peut purifier la corruption de ce monde. »\n« Seul ce bois écarlate pourra repousser les démons. »\n\nEt le docteur prit le bâton d'un rouge diabolique, enflammant tout ce qui était impur.\nEt tous ceux emprisonnés par les pensées impures et la souffrance, tous les disparus ne pouvant supporter une telle douleur,\nfurent transformés par le feu en papillons cendrés et soulagés de leur malheur et leurs souffrances.\nQuant au docteur qui alluma ces innombrables flammes, la légende raconte que lui aussi finit réduit en fumée, sous la forme d'un joli papillon.\n\nCes rites furent oubliés avec les années et l'avènement de la paix.\nMais ceux dans le cœur desquels brûle encore le feu sacré peuvent parfois entendre le murmure des flammes tremblantes lorsqu'ils doivent faire face aux ténèbres :\n« Seul le feu sans entraves peut purifier ce monde. »\n",
+        "id": "\nDengan api, semua ketidakmurnian dibersihkan. Bersama-sama dengan kobaran api, sisa-sisa ketidakmurnian tersebut naik perlahan ke angkasa.\nMelalui ritual ini, bahkan kayu pun bisa terbakar di musim hujan, menciptakan asap serigala sebagai berkat yang bisa mengusir iblis.\n\nRitual api seperti ini umum dilakukan pada zaman peperangan dahulu kala.\nKarena mimpi dan khayalan dari jasad dewa-dewa akan menghasilkan asap beracun yang jahat,\nmereka akan merenggut orang yang sudah bukan milik mereka, dan yang memang bukan milik mereka.\n\nKemudian, seorang dokter yang menyelamatkan orang dari kematian tiba-tiba mendengar suara bisikan dari api yang berkobar,\nSebuah suara halus terdengar di antara ranting dan daun yang terbakar.\n\"Hanya api yang tidak terkekang yang dapat memurnikan dunia kotor ini.\"\n\"Ambillah kayu yang merah membara ini, usirlah semua iblis dengan kayu ini.\"\n\nMaka dokter itu pun mengambil tongkat merah itu dan membakar segala hal yang tercemar.\nMereka yang telah meninggal dan tidak sanggup menanggung kesedihan mendalam, dan mereka yang dihantui oleh karma buruk dan bencana,\nMereka semua akan terbakar menjadi abu dengan api ini, dan terselamatkan dari semua kemalangan dan kepedihan yang menyiksa mereka.\nDan dokter yang menyalakan api-api tersebut? Konon dia juga telah berubah menjadi kupu-kupu dari abu yang indah.\n\nMeski ritual ini telah terlupakan oleh waktu dan masa kedamaian,\nOrang-orang yang memiliki api dalam hatinya tetap bisa mendengar suara bisikan tersebut saat menghadapi kegelapan,\n\"Hanya api yang tidak terkekang yang dapat memurnikan dunia kotor ini.\"\n",
+        "jp": "\n炎ですべての不純を払い、穢れを炎の光と共に、全てを受け入れる中天へと。\nこの祭儀はかつて世の末時に存在し、各地の薪火を照らし、祝福と退悪の狼煙を起こした。\n\nこの灼熱の祭儀は遥か昔、争いの絶えない時代に流行した。\n静寂な神骸の妄念と夢は、いずれ疫病や瘴気と化し、\n彼らの物で無くなった民と元から属さない人々を連れ去る。\n\nその際、死を救う医者は夕暮れの如き焔からそれを聞いた、\n油が沸き、薪が破裂する音に隠れた囁きを。\n「縛り無き焔のみが天地の穢れを浄化する」\n「緋色の薪火を上げ、妖魔ども撃退せよ。」\n\n医者は赤い杖を持ち、悪で穢れた物を燃やした。\n悪事と災難に巻き込まれた往者と深い悲しみに耐えれぬ死者は、\n火の中で塵の蝶に変わり、濁った世界の不幸と傷から解放される。\n無数の薪を燃やしてきた医者も、いずれ蝶の如く煙へと変わっていくだろう。\n\n平和と年月とともに祭儀は忘れ去られたが、\n暗闇の神の威厳と対面し、心に焔を抱えた者はきっと聞こえるだろう。\n煌めく焔の舞が囁き、縛り無き炎のみが天地を浄化すると…\n",
+        "kr": "\n맹렬한 불꽃으로 모든 더러운 것들을 씻어내어 화광과 함께 만물을 포용하는 높은 하늘로 올려보낸다.\n이러한 제사 의식은 말세에 대륙 각지의 장작불을 밝혀 복을 기원하고 사악한 기운을 내쫓는 봉화를 올렸다.\n\n이 뜨거운 제사 의식은 아주 먼 옛날 분쟁이 잦던 시대에 성행했었다.\n침묵하는 신해의 망념과 꿈은 독을 품은 역병이 되어\n더 이상 그들의 백성이 아닌 자들과 원래부터 그들의 백성이 아니었던 이들을 데려갔다.\n\n이때 사람을 구하는 의사는 황혼처럼 타오르는 불길 속에서\n기름이 끓고 마른 나무가 갈라지는 소리에 숨은 속삭임을 들었다.\n「오직 얽매임 없는 불꽃만이 천지의 더러움을 정화할 수 있다」\n「주홍빛 장작불을 피워 모든 요마를 물리쳐라」\n\n의사는 붉은 지팡이를 들고 사악함과 더러움에 오염된 것들을 불태웠다.\n악행과 재난에 휘말린 고인과 깊은 슬픔을 이기지 못한 망자는\n불길 속에서 재의 나비가 되어 속세의 모든 불행과 상처로부터 해방됐다.\n수많은 장작불을 피운 의사도 결국 나비 같은 한 줌의 연기가 됐다고 한다.\n\n이러한 제사 의식은 평화와 세월에 의해 잊혔지만,\n거대한 어둠에 직면했을 때 마음속에 불길을 품은 사람들은 들을 것이다.\n오직 얽매임 없는 불꽃만이 천지의 더러움을 정화할 수 있다는 눈부신 불꽃의 속삭임을…\n",
+        "pt": "\nPurificar com fogo tudo que é impuro, deixar que as impurezas subam com as chamas para os céus acomodadores:\nEsses tipos de rituais viam novas madeiras acesas, e que a fumaça subia dessas chamas como orações para bênçãos e pela derrota do mal.\n\nEsses rituais flamejantes eram comuns especialmente durante períodos de guerra.\nMas os sonhos e desilusões dos corpos silenciosos dos deuses produziram terríveis miasmas,\nLevando cidadãos que não eram mais seus, e aqueles que também nunca foram.\n\nNaquela época, um doutor misericordioso ouviu um sussurro das chamas forte como o sol poente,\nDe dentro da grama queimando.\n\"Somente uma chama descontrolada pode purificar esse mundo.\"\n\"Levante essa lenha escarlate. Com ela você conseguirá repelir todos os demônios\".\n\nEntão o médico pegou aquele cajado diabolicamente vermelho e queimou tudo o que era impuro.\nAqueles que faleceram, incapazes de suportar a profunda tristeza e desde então envoltos em carma e calamidade,\nForam reduzidos a borboletas cinzentas nessa chama e aliviados de seus infortúnios e mágoas.\nQuanto ao médico que acendeu aquelas chamas incontáveis, diz a lenda que ele também foi reduzido a uma fumaça em forma de borboleta.\n\nEsses ritos foram esquecidos com o tempo e após a chegada da paz.\nAqueles com fogo em seus corações ainda podem ouvir as seguintes palavras sussurradas nas chamas bruxuleantes ao se deparar com a imponente escuridão:\n\"Somente as chamas livres podem purificar este mundo.\"\n",
+        "ru": "\nПламенем выжги нечистое, пусть грязь и пороки с сиянием огня взметнутся к небесам, что выдержат всё.\nНекогда, во времена упадка и пороков, огонь этого ритуала вспыхивал всюду на континенте, и то были огни моления о благословении и об изгнании зла.\n\nТакой огненный ритуал был популярен в далёкой древности в эпоху скандалов и распрей.\nФантазии и несбыточные мечты мёртвых божеств могли превращаться в эпидемии, подпитываемые злобой и ядом,\nИ они забирали с собой ушедших от них людей и не успевших последовать за ними детей.\n\nВ то время доктор, спасавший от смерти, услышал в подобном багровому закату пламени\nТихое пение бурлящего масла и трещащего сена.\n«Лишь необузданное пламя может очистить небо и землю».\n«Ярко-алым светом полыхает хворост, прочь уходят от его огня злые силы».\n\nДоктор, держа в руках испачканный красным посох, жёг загрязнённые, злые вещи.\nВ прошлом, окутанном злом и несчастьем, покойник, не вынесший бремени глубокой скорби,\nПревращался в огне в пепельно-серых бабочек, сбросив путы страданий и несчастий, что принесло смутное время.\nИ доктор, что зажёг бессчётное количество хвороста, масла и сена, говорят, в конце концов стал дымом, подобно витающим над пеплом бабочкам.\n\nПусть даже этот ритуал вслед за течением времени и приходом мира был предан забвению,\nПри встрече с чёрным, как смоль, божеством, что несёт угрозу, человек с огнём в сердце всегда услышит,\nКак тихо поёт пленяющий своей красотой огонь: «лишь необузданное пламя может очистить небо и землю...»\n",
+        "th": "\nชะล้างสิ่งที่ไม่บริสุทธิ์ด้วยเปลวไฟ ปล่อยให้สิ่งที่แปดเปื้อนลอยไปสู่สวรรค์พร้อมกันกับเปลวเพลิง\nพิธีกรรมแบบนี้จะเริ่มขึ้นในฤดูฝน กองฟืนใหม่จะถูกจุดขึ้นและส่องสว่างไปทั่วแผ่นดิน ควันแห่งการขอพรและขับไล่ความชั่วร้ายพวยพุ่งขึ้นมา\n\nพิธีกรรมอันร้อนแรงเหล่านี้พบได้ทั่วไป โดยเฉพาะอย่างยิ่งในช่วงเวลาแห่งความขัดแย้งในสมัยโบราณ\nเพราะความหลงผิดและความฝันของร่างเทพเจ้าที่เงียบงันจะกลายเป็นบรรยากาศที่ชั่วร้าย\nนำตัวชาวเมืองผู้ที่ไม่ใช่ของพวกเขาอีกต่อไป และชาวเมืองผู้ที่ไม่เคยเป็นของพวกเขาไปด้วย\n\nในเวลานั้น หมอผู้เปี่ยมเมตตาได้ยินเสียงกระซิบจากกองไฟที่ลุกโชนในตอนพลบค่ำ\nเสียงทุ้มต่ำที่ดังมาจากเสียงของหญ้าแห้งเหี่ยวที่กำลังถูกเผาไหม้\n\"มีเพียงเปลวไฟที่ไม่ถูกพันธนาการเท่านั้นจึงจะสามารถชะล้างสิ่งแปดเปื้อนของโลกได้\"\n\"จงยกฟืนสีแดงนี้ขึ้นมา แล้วใช้มันขับไล่ปีศาจให้หมดสิ้น\"\n\nหมอจึงหยิบไม้เท้าสีแดงดุจปีศาจขึ้นมา และจุดไฟเผาสิ่งที่ไม่บริสุทธิ์ทั้งหลาย\nผู้ที่ติดอยู่ในบาปที่ชั่วร้ายและภัยพิบัติ ผู้ที่ไม่สามารถทนต่อความเศร้าโศก\nจะกลายเป็นผีเสื้อที่เกิดจากเถ้าถ่านในกองไฟ เป็นอิสระจากความโชคร้ายและความเจ็บปวดทั้งหลาย\nสำหรับหมอผู้ที่จุดไฟที่นับไม่ถ้วนเหล่านี้ ตำนานกล่าวไว้ว่า หมอผู้นั้นก็ได้กลายเป็นควันที่มีรูปร่างคล้ายผีเสื้อ\n\nถึงแม้พิธีกรรมนี้จะถูกลืมไปนานแล้วตามกาลเวลาและความสงบสุขที่มาถึง\nเมื่อเผชิญหน้ากับความมืดมิด ผู้ที่มีไฟอยู่ในหัวใจยังคงได้ยิน\nเสียงกระซิบจากกองไฟที่ลุกโชน \"มีเพียงเปลวไฟที่ไม่ถูกพันธนาการเท่านั้นจึงจะสามารถชะล้างสิ่งแปดเปื้อนของโลกได้\"\n",
+        "vi": "\nHãy rửa sạch mọi thứ ô uế bằng ngọn lửa rực cháy, để cho những thứ dơ bẩn và ánh lửa cùng bay lên bầu trời cao:\nNghi lễ này đã từng thắp sáng nhiều nơi trên đất liền vào mùa nước đổ, bốc lên làn khói của hy vọng và diệt trừ cái ác.\n\nNghi lễ rực lửa này từng phổ biến trong thời đại tranh chấp cổ xưa.\nBởi vì những ảo tưởng và giấc mơ thầm lặng sẽ biến thành chướng khí ma quỷ đeo bám, \nLấy đi những con dân không còn thuộc về họ và những người con chưa từng thuộc về họ.\n\nLúc đó, thầy thuốc nghe thấy tiếng lửa dữ dội lúc chạng vạng,\nTiếng rên rỉ trầm thấp trong âm thanh của đám cỏ khô héo đang cháy như tiếng dầu mỡ đang sôi.\n\"Chỉ có ngọn lửa tự do mới có thể tẩy sạch bụi bẩn của trời đất\"\n\"Giương cao bó củi đỏ rực, đẩy lùi mọi yêu tà\"\n\nThầy thuốc cầm gậy đỏ, đốt cháy những thứ bị ô nhiễm bởi cái ác.\nNhững người đã vướng vào ác nghiệp và tai họa, những người không thể chịu đựng nỗi buồn sâu thẳm,\nSẽ biến thành tro trong lửa, thoát khỏi mọi bất hạnh và tổn thương trong thế giới bùn lầy.\nCòn thầy thuốc đã đốt cháy vô số đống củi kia, truyền thuyết kể rằng cuối cùng cũng tan thành mây khói.\n\nNgay cả khi nghi lễ này bị lãng quên với hòa bình và thời gian,\nBất cứ ai có ngọn lửa trong tim, khi đối mặt với uy nghiêm của thần bóng tối, chắc chắn sẽ nghe thấy.\nVũ điệu rực rỡ của ngọn lửa thì thầm, chỉ có ngọn lửa không bị dập tắt mới có thể thanh tẩy thế giới ...\n"
+    }
+}

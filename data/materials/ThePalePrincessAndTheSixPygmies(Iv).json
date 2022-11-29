@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Pale Princess and the Six Pygmies (IV)",
+        "de": "Schneemädchen und die sechs Winzlinge – Band IV",
+        "chs": "白之公主与六侏儒·卷四",
+        "cht": "白之公主與六侏儒·卷四",
+        "es": "La Princesa de las Nieves y los seis enanos (IV)",
+        "fr": "Princesse Neige et les Six Nains - Tome IV",
+        "id": "Putri Putih dan Enam Kurcaci (IV)",
+        "jp": "白姫と六人の小人·4",
+        "kr": "하얀 공주와 여섯 난쟁이·권4",
+        "pt": "A Branca de Neve e os 6 Anões (IV)",
+        "ru": "Снежная принцесса и шесть карликов. Том IV",
+        "th": "เจ้าหญิงหิมะกับคนแคระทั้งหก (IV)",
+        "vi": "Công Chúa Bạch Chi và 6 Chú Lùn (IV)"
+    },
+    "id": 100218,
+    "materialDesc": {
+        "en": "A fairytale story that has been told throughout Teyvat for ages. Installment four describes the meeting between the Pale Princess, the Light Prince, and the Six Pygmies.",
+        "de": "Ein Märchen, das man sich schon lange überall in Teyvat erzählt. In diesem Band geht es um die Begegnung von Schneemädchen, dem Prinzen des Lichts und den sechs Winzlingen.",
+        "chs": "在提瓦特大陆各地流传已久的童话，该册讲述了白之公主与光之王子与六侏儒的相遇。",
+        "cht": "在提瓦特大陸各地流傳已久的童話，該冊講述了白之公主和光之王子與六侏儒的相遇。",
+        "es": "Un cuento muy conocido en Teyvat. Este volumen cuenta la historia del encuentro entre la Princesa de las Nieves y los seis enanos.",
+        "fr": "Un conte traditionnel populaire en Teyvat. Dans ce quatrième tome, la princesse Neige et le prince rencontrent les six nains.",
+        "id": "Dongeng yang terkenal di seluruh Teyvat sejak zaman dahulu. Jilid ini mengisahkan tentang pertemuan Putri Putih, Pangeran Cahaya, dan 6 kurcaci.",
+        "jp": "テイワット各地に古くから伝わってきた童話。白の姫と光の王子が六人の小人との遭遇を語る一冊。",
+        "kr": "티바트 대륙 전역에서 오랫동안 전해져 온 동화. 하얀 공주와 빛의 왕자, 그리고 여섯 난쟁이의 만남에 대한 이야기가 적혀있다",
+        "pt": "Um conto muito conhecido em Teyvat. Este volume conta a história sobre o encontro da Branca de Neve com os seus 6 anões.",
+        "ru": "Сказка, которую рассказывали взрослые своим детям по всему Тейвату. Четвёртая часть описывает встречу Снежной принцессы и принца Света с шестью карликами.",
+        "th": "เทพนิยายที่เล่าขานกันมานานใน Teyvat ในเล่มนี้จะเล่มถึงการพบกันระหว่างองค์หญิงหิมะ กับองค์ชายแห่งแสงและคนแคระทั้งหก",
+        "vi": "Là câu chuyện cổ tích được lưu truyền từ rất lâu ở Teyvat, kể về cuộc gặp gỡ của công chúa Bạch Chi và hoàng tử Ánh Sáng với 6 chú lùn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Potato Boat",
+        "de": "Leckeres Kartoffelboot",
+        "chs": "美味的土豆船",
+        "cht": "美味的馬鈴薯船",
+        "es": "Barco de papa delicioso",
+        "fr": "Bateau-patate (délicieux)",
+        "id": "Delicious Potato Boat",
+        "jp": "美味しそうなポテトボート",
+        "kr": "맛있는 감자 보트",
+        "pt": "Navio de Batata Delicioso",
+        "ru": "Вкусная картофельная лодочка",
+        "th": "Potato Boat แสนอร่อย",
+        "vi": "Thuyền Khoai Tây Ngon"
+    },
+    "id": 108432,
+    "materialDesc": {
+        "en": "A baked appetizer. The oozing cheese flows forth like a golden river, carrying an alluring aroma into your mouth. Soon, you will be amazed by the freshness of the Rukkhashava Mushrooms and the softness of the potato. You can't help but wish that this leisurely and savory tour might last a little longer...",
+        "de": "Eine gebackene Vorspeise. Die triefende Sahne fließt wie ein goldener Fluss und trägt ihr verführerisches Aroma in deinen Mund, zusammen mit der Frische der Rukkhashava-Pilze und der Weichheit der Kartoffeln. Du kannst nicht anders, als dir zu wünschen, dass diese gemütliche und schmackhafte Tour länger dauert ...",
+        "chs": "烤制而成的小吃。奶酪浓缩着迷人香气，宛如一条流金之河，载着鲜美的树王圣体菇，携着细腻绵软的土豆，一并入口，让人仿佛乘着船在河上悠闲飘荡，希望这段纵享美味之旅能够再长一些…",
+        "cht": "烤製而成的小吃。乳酪濃縮著迷人香氣，宛如一條流金之河，載著鮮美的樹王聖體菇，攜著細膩綿軟的馬鈴薯，一併入口，讓人彷彿乘著船在河上悠閒飄蕩，希望這段縱享美味之旅能夠再長一些…",
+        "es": "Un aperitivo horneado. El queso rezumante, con su seductor aroma, es como un río de oro cargado de deliciosos champiñones rukkhashava que navega por una exquisita papa. Con un solo bocado, sentirás como si estuvieras flotando en un barco en el que emprendes una travesía que desearías que nunca acabara.",
+        "fr": "Une collation préparée au four. Le fromage coulant dégage une odeur envoûtante et ressemble à une rivière dorée transportant de délicieux champignons sacramentaux et de succulentes pommes de terre fines. Une fois en bouche, on se sent flotter librement comme si l'on était à bord d'un bateau naviguant sur cette fameuse rivière. Si seulement ce voyage aux délices pouvait durer un peu plus longtemps...",
+        "id": "Makanan ringan yang dipanggang. Keju dipadatkan dengan aroma yang menawan, seperti sebuah alirang sungai yang berwarna emas. Campurannya berisi Rukkhashava Mushroom yang lezat dan kentang yang lembut. Keduanya berpadu bersama, sehingga membuat orang yang memakannya merasakan seolah-olah mereka sedang mengambang santai di sungai di atas perahu. Semoga perjalanan menikmati makanan lezat ini bisa berlangsung lebih lama ....",
+        "jp": "焼き上げたお菓子。砂金の川のように流れ出す魅力的なチーズが香りを凝縮し、美味しいルッカデヴァータダケと繊細で柔らかいジャガイモを運んでくれる。口に入れれば、まるで船に乗って、川をのんびり漂っているかのような気分に。この美食の旅が少しでも長く続きますように…",
+        "kr": "구워서 만든 간식. 군침 도는 향기를 풍기는 농축된 치즈는 마치 금빛의 강처럼 신선한 룩카데바타 성체 버섯을 싣고 있다. 부드럽고 말랑한 감자와 함께 한입 베어 물면 강에서 나룻배를 타고 여유롭게 노니는 듯한 착각마저 든다. 이 미식 여행을 조금 더 오래 즐길 수 있기를…",
+        "pt": "Um aperitivo assado. O queijo escorrendo, com seu aroma sedutor, é como um rio de ouro carregado com deliciosos Cogumelos Rukkhashava e batatas deliciosas e finas que farão você se sentir como se estivesse flutuando em um navio.",
+        "ru": "Закуска, приготовленная на огне. Ароматный густой сыр напоминает золотистую реку, по которой плывут сочные грибы руккхашава и мягкий рассыпчатый картофель. Такая закуска словно переносит вас на лодку, что беззаботно скользит по тихой речной воде. Хоть бы это путешествие никогда не кончалось...",
+        "th": "ขนมอบสำหรับทานเล่น กลิ่น Cheese เข้มข้นชวนให้หลงใหล ราวกับแม่น้ำทองคำที่ไหลหลาก ที่มาพร้อมกับ Rukkhashava Mushroom ที่หอมหวาน กับมันฝรั่งที่นุ่มละมุน เมื่อทานเข้าไปพร้อมกัน ความรู้สึกลอยละล่องราวกับกำลังล่องเรืออยู่กลางแม่น้ำ จะทำให้คุณดื่มด่ำกับการเดินทางนี้ จนอยากให้เวลายืดยาวออกไปกว่านี้อีกสักหน่อย...",
+        "vi": "Món nướng ăn vặt. Phô mai cô đặc với hương thơm quyến rũ như dòng sông vàng, kèm theo những viên Nấm Thánh Rukkhashava tươi ngon và những củ khoai tây mềm dẻo, vừa cho vào miệng đã khiến người ta có cảm giác như đang ngồi thuyền thả mình trên sông, hy vọng chuyến hành trình đắm chìm trong những món ăn ngon này có thể kéo dài thêm một chút..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

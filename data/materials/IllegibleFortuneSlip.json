@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Illegible Fortune Slip",
+        "de": "Unleserliches Orakelstäbchen",
+        "chs": "字迹模糊的签",
+        "cht": "字跡模糊的籤",
+        "es": "Papel de la fortuna ilegible",
+        "fr": "Omikuji illisible",
+        "id": "Slip Keberuntungan Tak Terbaca",
+        "jp": "字がかすれているおみくじ",
+        "kr": "글씨가 흐릿해진 점괘",
+        "pt": "Assinatura Indistinta",
+        "ru": "Нечитаемая гадальная палочка",
+        "th": "ใบเซียมซีที่ตัวอักษรเลือนราง",
+        "vi": "Thẻ Phai Mờ"
+    },
+    "id": 100883,
+    "materialDesc": {
+        "en": "A fortune slip on which the wording has become all but illegible. But considering that it was chucked up to such a high spot, it can't have boded particularly well...",
+        "de": "Ein Orakelstäbchen, auf dem die Aufschrift fast unleserlich geworden ist. Aber wenn man bedenkt, dass es an einer so hohen Stelle aufgehängt wurde, kann das nicht besonders gut sein ...",
+        "chs": "字迹已经很模糊的签。虽然看不清上面的签文，但既然这根签被丢到了这么高的地方，应该也不会昭示着好运吧…",
+        "cht": "字跡已經很模糊的籤。雖然看不清上面的籤文，但既然這根籤被丟到了這麼高的地方，昭示的應該也不會是什麼好運吧…",
+        "es": "Un papel de la fortuna cuyo mensaje es prácticamente ilegible. Aunque es imposible saber qué pone en él, lo más probable es que no fuera algo bueno, ya que alguien lo lanzó a un lugar muy alto.",
+        "fr": "Un omikuji dont le libellé est devenu presque illisible. Vu comme il était haut placé, il ne pouvait pas être de bon augure...",
+        "id": "Sebuah slip keberuntungan yang kata-katanya sudah buram tak terbaca. Tapi mengingat slip ini dibuang ke tempat yang begitu tinggi, sepertinya slip ini tidak berisi nasib yang baik...",
+        "jp": "字がかすれて読めないおみくじ。内容は読めないが、あんな高いところに抛られたことを考えると、きっと悪い運勢が書かれているに違いない…",
+        "kr": "글씨가 흐릿해진 점괘. 점괘의 내용을 알아볼 수 없지만, 이렇게 높은 곳에 던져진 상황으로 추정컨대 그다지 길한 점괘는 아닌 것 같다…",
+        "pt": "Uma assinatura indistinta. Apesar de não se ver claramente a assinatura que está escrita, como ela foi perdida em um local tão alto, não deve ser um sinal de boa sorte...",
+        "ru": "Гадальная палочка с неразличимыми письменами. Учитывая то, как высоко её забросили, вряд ли она сулила удачу...",
+        "th": "ใบเซียมซีที่ตัวอักษรเลือนราง ถึงแม้ว่าตัวอักษรด้านบนจะเห็นได้ไม่ชัดเจน แต่ในเมื่อมันถูกทิ้งไว้บนที่สูงขนาดนี้ ก็น่าจะไม่ได้บอกถึงโชคดีเท่าไหร่ล่ะนะ...",
+        "vi": "Chữ viết trên đó đã phai mờ. Tuy không còn nhìn thấy rõ chữ, nhưng chiếc thẻ này bị vứt ở nơi cao như vậy hẳn không phải là một dấu hiệu của sự may mắn, phải không?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

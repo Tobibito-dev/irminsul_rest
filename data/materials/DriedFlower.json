@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dried Flower",
+        "de": "Getrocknete Blume",
+        "chs": "风干的花朵",
+        "cht": "風乾的花朵",
+        "es": "Flor seca",
+        "fr": "Fleur séchée",
+        "id": "Bunga Kering",
+        "jp": "風に乾いた花",
+        "kr": "바람에 말린 꽃",
+        "pt": "Flor Seca",
+        "ru": "Засохший цветок",
+        "th": "ดอกไม้แห้ง",
+        "vi": "Hoa Khô"
+    },
+    "id": 120002,
+    "materialDesc": {
+        "en": "A flower pressed inside the Adventure Handbook. It seems to have preserved someone's lost memories...",
+        "de": "Eine in das Abenteuerhandbuch hineingepresste Blume. Darin scheint die verlorene Erinnerung irgendeines Menschen erhalten worden zu sein ...",
+        "chs": "夹在冒险手册里的花朵，其中似乎凝结着某人遗失的记忆…",
+        "cht": "夾在冒險手冊裡的花朵，其中似乎凝結著某人遺失的記憶…",
+        "es": "Una flor intercalada en el manual del aventurero. Parece contener los recuerdos perdidos de alguien...",
+        "fr": "Une fleur pressée dans un manuel d'aventure. Elle semble avoir préservé les souvenirs perdus de quelqu'un...",
+        "id": "Bunga yang dijepit di dalam Buku Petualangan, sepertinya mengandung ingatan seseorang yang sudah hilang ....",
+        "jp": "冒険手帳に挟まれた花。誰かの失った記憶が凝縮されているみたいだ…",
+        "kr": "모험 핸드북에 끼워진 꽃. 누군가가 잃어버린 기억이 그 안에 응결된 듯하다…",
+        "pt": "Uma flor imprensada dentro de um Manual de Aventura. Parece ter preservado as memórias perdidas de alguém...",
+        "ru": "Сухой цветок, заложенный между страниц справочника приключений. Он хранит чьи-то потерянные воспоминания...",
+        "th": "ดอกไม้ที่ถูกเสียบคาอยู่ในคู่มือการผจญภัย มันคล้ายกับเก็บความทรงจำที่หายไปของใครบางคนเอาไว้...",
+        "vi": "Bông hoa kẹp trong sổ tay mạo hiểm, trong đó dường như cô đọng ký ức đã mất của một ai đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

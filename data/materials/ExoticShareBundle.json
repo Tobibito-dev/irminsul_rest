@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Exotic Share Bundle",
+        "de": "Kuriositätenpaket",
+        "chs": "奇珍分享包",
+        "cht": "奇珍分享包",
+        "es": "Paquete de curiosidades",
+        "fr": "Pack de partage exotique",
+        "id": "Exotic Share Bundle",
+        "jp": "奇珍シェアパック",
+        "kr": "진귀한 공유 패키지",
+        "pt": "Pacote de Compartilhamento Exótico",
+        "ru": "Экзотический набор",
+        "th": "แพ็กแบ่งปันไอเทมต่างแดน",
+        "vi": "Gói Chia Sẻ Kỳ Trân"
+    },
+    "id": 115013,
+    "materialDesc": {
+        "en": "Strange gems that the Guild routinely gives out, and which contain elemental power.\\n\\nYou may select and obtain one of the following upon using this item:\\n·Agnidus Agate Fragment\\n·Varunada Lazurite Fragment\\n·Nagadus Emerald Fragment\\n·Vajrada Amethyst Fragment\\n·Vayuda Turquoise Fragment\\n·Shivada Jade Fragment\\n·Prithiva Topaz Fragment",
+        "de": "Merkwürdige Steine, die die Gilde regelmäßig herausgibt. Einige davon enthalten sogar Elementarkräfte.\\n\\nWähle beim Anwenden eins der folgenden Objekte:\\n· Agnidus-Achat-Bruchstück\\n· Varunada-Lasurit-Bruchstück\\n· Nagadus-Smaragd-Bruchstück\\n· Vajrada-Amethyst-Bruchstück\\n· Vayuda-Türkis-Bruchstück\\n· Shivada-Jade-Bruchstück\\n· Prithiva-Topas-Bruchstück",
+        "chs": "协会例行分享的一些奇珍异石，其中有一些蕴藏着元素之力。\\n\\n使用后可从以下选项中选择一项获取:\\n·燃愿玛瑙断片\\n·涤净青金断片\\n·生长碧翡断片\\n·最胜紫晶断片\\n·自在松石断片\\n·哀叙冰玉断片\\n·坚牢黄玉断片",
+        "cht": "協會例行分享的一些奇珍異石，其中有一些蘊藏著元素之力。\\n\\n使用後可從以下選項中選擇一項獲得:\\n·燃願瑪瑙斷片\\n·滌淨青金斷片\\n·生長碧翡斷片\\n·最勝紫晶斷片\\n·自在松石斷片\\n·哀敘冰玉斷片\\n·堅牢黃玉斷片",
+        "es": "Unas valiosas piedras preciosas entregadas por el Gremio de Aventureros. Algunas esconden un gran poder elemental.\\n\\nAl utilizarlo, podrás escoger una de las siguientes recompensas:\\n·Fragmento de ágata agnidus\\n·Fragmento de lazurita varunada\\n·Fragmento de esmeralda nagadus\\n·Fragmento de amatista vajrada\\n·Fragmento de turquesa vayuda\\n·Fragmento de jade shivada\\n·Fragmento de topacio prithiva",
+        "fr": "Des gemmes étranges que la Guilde distribue régulièrement et qui contiennent un pouvoir élémentaire.\\n\\nVous pouvez sélectionner et obtenir l'une des options suivantes en utilisant cet objet :\\n· Fragment d'agate agnidus\\n· Fragment de lazurite varunada\\n· Fragment d'émeraude nagadus\\n· Fragment d'améthyste vajrada\\n· Fragment de turquoise vayuda\\n· Fragment de jade shivada\\n· Fragment de topaze prithiva",
+        "id": "Batu-batuan misterius yang sering diberikan oleh Guild, berisi kekuatan elemental.\\n\\nKamu bisa memilih salah satu dari item berikut saat digunakan:\\n·Agnidus Agate Fragment\\n·Varunada Lazurite Fragment\\n·Nagadus Emerald Fragment\\n·Vajrada Amethyst Fragment\\n·Vayuda Turquoise Fragment\\n·Shivada Jade Fragment\\n·Prithiva Topaz Fragment",
+        "jp": "協会からもらえる奇妙な石。元素の力が入っているものもある。\\n\\n使用すると以下から1つ獲得できる:\\n·炎願のアゲート·欠片\\n·澄明なラピスラズリ·欠片\\n·最勝のアメシスト·欠片\\n·成長のエメラルド·欠片\\n·自由のターコイズ·欠片\\n·哀切なアイスクリスタル·欠片\\n·堅牢なトパーズ·欠片",
+        "kr": "길드는 관례대로 진귀한 이석들을 공유하는데, 그중 원소의 힘이 담긴 것들도 있다.\\n\\n사용 후 아래 항목 중 한 가지를 획득할 수 있다:\\n·불타오르는 마노 조각\\n·순수한 청금석 조각\\n·자라나는 비취 조각\\n·승리의 자수정 조각\\n·자유로운 터키석 조각\\n·서늘한 빙옥 조각\\n·단단한 황옥 조각",
+        "pt": "Gemas valiosas que a Guilda entrega periodicamente e que contêm poder elemental.\\n\\nVocê pode selecionar uma das seguintes recompensas:\\nFragmento de Ágata Agnidus\\nFragmento de Esmeralda Nagadus\\n Lazurita Varunada\\nFragmento de Fragmento de Ametista Vajrada\\nFragmento de Turquesa Vayuda \\nFragmento de Jade Shivada\\nFragmento de Topázio Prithiva.",
+        "ru": "Набор из наполненных элементальной энергией драгоценных камней, которые раздаёт Гильдия искателей приключений.\\n\\nПосле использования этой вещи вы можете выбрать и получить один из следующих предметов:\\n· Фрагмент агата Агнидус\\n· Фрагмент лазурита Варунада\\n· Фрагмент изумруда Нагадус\\n· Фрагмент аметиста Ваджрада\\n· Фрагмент бирюзы Вайюда\\n· Фрагмент нефрита Шивада\\n· Фрагмент топаза Притхива",
+        "th": "หินแปลกประหลาดที่กิลด์มอบให้เป็นประจำ ซึ่งภายในมีพลังงานธาตุแฝงอยู่\\n\\nหลังจากที่ใช้แล้ว สามารถเลือกรับหนึ่งในตัวเลือกต่อไปนี้ได้:\\n-Agnidus Agate Fragment\\n-Varunada Lazurite Fragment\\n-Nagadus Emerald Fragment\\n-Vajrada Amethyst Fragment\\n-Vayuda Turquoise Fragment\\n-Shivada Jade Fragment\\n-Prithiva Topaz Fragment",
+        "vi": "Một số loại đá hiếm và kỳ lạ được hiệp hội chia sẻ thường xuyên, một vài trong số đó chứa sức mạnh nguyên tố.\\n\\nSau khi sử dụng, bạn có thể chọn một trong các tùy chọn sau:\\n·Mảnh Mã Não Cháy\\n·Mảnh Thanh Kim Sạch\\n·Mảnh Ngọc Bích Sinh Trưởng\\n·Mảnh Tử Tinh Thắng Lợi\\n·Mảnh Tùng Thạch Tự Tại\\n·Mảnh Ngọc Băng Vỡ\\n·Mảnh Hoàng Ngọc Cứng"
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

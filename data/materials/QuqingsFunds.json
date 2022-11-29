@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Quqing's Funds",
+        "de": "Quqings „Beschaffungsmittel“",
+        "chs": "曲清的「采购资金」",
+        "cht": "曲清的「採購資金」",
+        "es": "Fondos de Chuching",
+        "fr": "Budget de Quqing",
+        "id": "Dana Quqing",
+        "jp": "曲清の「仕入れ資金」",
+        "kr": "청경의 「구매 자금」",
+        "pt": "Fundos de Quqing",
+        "ru": "Средства Цюй Цин",
+        "th": "\"เงินทุนซื้อของ\" ของ Quqing",
+        "vi": "Tiền Vốn Của Quqing"
+    },
+    "id": 120050,
+    "materialDesc": {
+        "en": "The funds possessed by the shop owner named Quqing. The Fairbrew Jelly within is meant to be used to purchase 65 boxes of Mintberries from The Cat's Tail.",
+        "de": "„Beschaffungsmittel“ der Geschäftsinhaberin Quqing. In einen feinen Geldbeutel gestecktes „Weingelee“, zum Kauf von fünfundsechzig Kisten „Minzbeere“ beim Stand der „Taverne Zum Katzenschwanz“.",
+        "chs": "店主曲清的「采购资金」，装在精致钱袋内的「佳酿晶冻」，用于向「猫尾酒馆」摊位订购65箱「薄荷莓果」。",
+        "cht": "店主曲清的「採購資金」，裝在精緻錢袋內的「佳釀晶凍」，用於向「貓尾酒館」攤位訂購65箱「薄荷莓果」。",
+        "es": "Fondos que pertenecen a la tendera Chuching. Los néctares cristalizados que contiene la refinada bolsa están destinados a comprar 65 cajas de bayamentas en la taberna Cola de Gato.",
+        "fr": "Fonds possédés par Quqing, la gérante de boutique. Les gelées de cru à l'intérieur sont destinées à être utilisées pour acheter 65 cartons de boissons aux baies et à la menthe au stand de La Queue de Chat.",
+        "id": "Dana ini milik pemilik toko bernama Quqing. Fairbrew Jelly di dalamnya digunakan untuk membeli 65 kotak Mintberry dari Cat's Tail.",
+        "jp": "店のオーナー、曲清の「仕入れ資金」。「ブリューゼリー」が、丁寧に作られた袋に入っている。「キャッツテール」のブースで六十五箱の「ベリーミンツ」を注文するために使う予定。",
+        "kr": "점주 청경의 「구매 자금」. 정교한 돈주머니에 들어 있는 이 「와인 젤리」로 「캣테일 술집」 노점에서 「민트베리」 65상자를 주문할 수 있다",
+        "pt": "Os Fundos da loja de Quqing. A Geleia de Vinho de dentro deve ser utilizada para comprar 50 caixas de Baga de Menta da Cauda do Gato.",
+        "ru": "Средства владелицы лавки по имени Цюй Цин. Винный студень предназначен для покупки 65 ящиков «Мятных ягод» в киоске «Кошкин хвост».",
+        "th": "\"เงินทุนซื้อของ\" ของเจ้าของร้าน Quqing \"Fairbrew Jelly\" ที่อยู่ในถุงสุดประณีต ถูกเตรียมไว้เพื่อซื้อ \"Mintberry\" 65 ลังจากแผงของร้าน Cat's Tail",
+        "vi": "Tiền vốn của chủ tiệm Quqing, \"Pha Lê Fairbrew\" đựng trong chiếc túi tinh tế, dùng để đặt 65 thùng \"Mâm Xôi Bạc Hà\" từ \"Quán Rượu Đuôi Mèo\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inferior Starsilver",
+        "de": "Minderwertiges Sternsilbererz",
+        "chs": "成色较差的星银矿石",
+        "cht": "成色較差的星銀礦石",
+        "es": "Argento estelar de baja pureza",
+        "fr": "Minerai d'argétoile inférieur",
+        "id": "Inferior Starsilver",
+        "jp": "粗悪な星銀鉱石",
+        "kr": "품질이 떨어지는 성은 광석",
+        "pt": "Minério de Prata Estrelada Inferior",
+        "ru": "Низкопробное звёздное серебро",
+        "th": "Starsilver คุณภาพค่อนข้างแย่",
+        "vi": "Quặng Tinh Ngân Chất Lượng Thấp"
+    },
+    "id": 100997,
+    "materialDesc": {
+        "en": "Starsilver with low luster and dull coloration. It will most likely not sell for a high price.",
+        "de": "Sternsilbererz mit geringem Glanz und stumpfer Färbung. Es wird wahrscheinlich nicht für einen hohen Preis verkauft.",
+        "chs": "光泽度低，颜色也很黯淡的星银矿石。似乎卖不出高价。",
+        "cht": "光澤度低，顏色也很黯淡的星銀礦石。似乎賣不出高價。",
+        "es": "Un mineral de argento estelar con poco brillo y un color apagado. No debe poder venderse por un buen precio...",
+        "fr": "Un minerai d'argétoile à la faible brillance et à la coloration terne. Il ne se vendra probablement pas pour un bon prix.",
+        "id": "Starsilver dengan kilau dan warna kusam. Kemungkinan besar tidak bisa dijual dengan harga tinggi.",
+        "jp": "光沢が少なく、色付きも悪い星銀鉱石。高くは売れないようだ。",
+        "kr": "광택이 떨어지고, 색도 어두운 성은 광석. 높은 가격을 매길 수 없다",
+        "pt": "Um Minério de Prata Estrelada de pouco brilho e cor apagada. Muito provavelmente não irá vender por um preço alto...",
+        "ru": "Звёздное серебро с тусклым блеском и цветом. Скорее всего, довольно дешёвое.",
+        "th": "Starsilver ที่มีความแวววาวต่ำและมีสีหม่นหมอง ไม่น่าจะขายได้ราคาสูง",
+        "vi": "Quặng Tinh Ngân với độ óng ánh kém, màu nhạt, có lẽ giá thành sẽ không cao."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

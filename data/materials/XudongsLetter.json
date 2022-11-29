@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xudong's Letter",
+        "de": "Xudongs Brief",
+        "chs": "旭东的信",
+        "cht": "旭東的信",
+        "es": "Carta de Xu Dong",
+        "fr": "Lettre de Xudong",
+        "id": "Surat Xudong",
+        "jp": "旭東の手紙",
+        "kr": "동욱의 편지",
+        "pt": "Carta de Xudong",
+        "ru": "Письмо Сюй Дуна",
+        "th": "จดหมายของ Xudong",
+        "vi": "Thư Của Xudong"
+    },
+    "id": 120181,
+    "materialDesc": {
+        "en": "A letter left by Xudong. There seems to be something else clipped in there as well...",
+        "de": "Ein Brief von Xudong. Es scheint auch noch etwas anderes darin zu sein ...",
+        "chs": "旭东所留下的信，信封里似乎还夹着什么东西…",
+        "cht": "旭東所留下的信，信封裡似乎還夾著什麼東西…",
+        "es": "Una carta que dejó Xu Dong. Parece que también hay algo escondido en el sobre...",
+        "fr": "Une lettre que Xudong vous a laissée. Elle comporte une pièce jointe...",
+        "id": "Surat yang ditinggalkan oleh Xudong. Sepertinya ada sesuatu yang melekat di dalamnya ....",
+        "jp": "旭東が残した手紙。封筒に何か別のものが挟まっているようだ…",
+        "kr": "동욱이 남긴 편지. 봉투 속에 뭔가 껴 있는 것 같다",
+        "pt": "Uma carta deixada por Xudong. Parece haver algo pressionado dentro dela...",
+        "ru": "Письмо, оставленное Сюй Дуном. Кажется, к нему было прикреплено что-то ещё...",
+        "th": "จดหมายที่ Xudong ทิ้งเอาไว้ และดูเหมือนว่าด้านในจะมีของบางอย่างแนบอยู่ด้วย...",
+        "vi": "Thư do Xudong để lại, trong phong thư hình như còn kẹp theo thứ gì đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

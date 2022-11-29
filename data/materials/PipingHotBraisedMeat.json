@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Piping-Hot Braised Meat",
+        "de": "Kochendheißer Fleischeintopf",
+        "chs": "热腾腾的红烩兽肉",
+        "cht": "熱騰騰的紅燴獸肉",
+        "es": "Carne estofada muy caliente",
+        "fr": "Viande braisée bien chaude",
+        "id": "Braised Meat Panas",
+        "jp": "熱々の獣肉シチュー",
+        "kr": "따끈따끈한 걸쭉 짐승고기탕",
+        "pt": "Carne Bestial Refogada Muito Quente",
+        "ru": "Мясной гуляш с пылу с жару",
+        "th": "Red Braised Beast Meat ร้อน ๆ",
+        "vi": "Thịt Rừng Kho Tàu Nóng Hổi"
+    },
+    "id": 100968,
+    "materialDesc": {
+        "en": "Braised Meat made using the Supreme Cuisine Machine. Fresh and steaming hot.",
+        "de": "Fleischeintopf, zubereitet mit der Edlen Küchenmaschine. Frisch und dampfend heiß.",
+        "chs": "用「机关烹饪神机」烹饪出的「红烩兽肉」。刚刚出锅，热气腾腾。",
+        "cht": "用「機關烹飪神機」烹飪出的「紅燴獸肉」。剛剛出鍋，熱氣騰騰。",
+        "es": "Carne estofada hecha con la cocinadora mecánica suprema. Muy caliente y recién hecha.",
+        "fr": "De la viande braisée cuisinée avec le cuiseur suprême de Souffle-Nuages. Elle est toute chaude, car elle vient d'en être sortie.",
+        "id": "Braised Meat yang dibuat dengan menggunakan Supreme Cuisine Machine. Masakannya masih segar dan panasnya masih mengepul.",
+        "jp": "「からくり調理神器」で作った「獣肉シチュー」。出来立てほやほやだ。",
+        "kr": "「요리 기계장치」로 요리한 「걸쭉 짐승고기탕」. 금방 나온 요리라 김이 모락모락 피어오르고 있다",
+        "pt": "Carne Bestial Refogada feita utilizando a Máquina de Culinária Suprema. Está fresca e muito quente.",
+        "ru": "Мясной гуляш, приготовленный с помощью Чуда кулинарной машинерии. С пылу с жару.",
+        "th": "Red Braised Beast Meat ที่ทำด้วย \"กลไกทำอาหารมหัศจรรย์\" เพิ่งออกจากเตาร้อน ๆ",
+        "vi": "Thịt Rừng Kho Tàu nấu từ Cơ Quan Nấu Nướng Thần Kỳ. Vừa ra lò nên còn nóng hổi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

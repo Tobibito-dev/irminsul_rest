@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Snowstrider Seal",
+        "de": "Schneegleitabzeichen",
+        "chs": "踏雪章",
+        "cht": "踏雪章",
+        "es": "Insignia pisanieves",
+        "fr": "Médaille de foule-neige",
+        "id": "Snowstrider Seal",
+        "jp": "スノースタンプメダル",
+        "kr": "답설 휘장",
+        "pt": "Insígnia Congelante",
+        "ru": "Печать снегоходца",
+        "th": "Snowstrider Emblem",
+        "vi": "Huy Hiệu Tuyết"
+    },
+    "id": 135,
+    "materialDesc": {
+        "en": "An insignia given to those who complete the special training conducted by the Adventurers' Guild. It can be considered a symbol of one's strength.",
+        "de": "Ein Abzeichen, das denjenigen verliehen wird, die die spezielle Ausbildung der Abenteurergilde absolvieren. Es kann als Symbol für die eigene Stärke betrachtet werden.",
+        "chs": "完成冒险家协会特训后获得的纹章。也可以看作是一种实力的证明。",
+        "cht": "完成冒險家協會特訓後獲得的紋章。也可以看作是一種實力的證明。",
+        "es": "Una insignia conseguida al completar el entrenamiento especial del Gremio de Aventureros. Considéralo una prueba de tu fuerza.",
+        "fr": "Un insigne accordé à ceux qui terminent l'entraînement spécial proposé par la Guilde des aventuriers. Il peut être considéré comme un symbole de force.",
+        "id": "Sebuah lencana yang diberikan kepada mereka yang sudah menyelesaikan pelatihan khusus yang diadakan oleh Adventurers' Guild. Benda ini bisa dianggap sebagai simbol kekuatan seseorang.",
+        "jp": "冒険者協会の特訓をクリアすると獲得できるメダル。実力の証でもある。",
+        "kr": "모험가 길드의 특훈을 완료하고 획득한 휘장. 실력의 증명이라고 할 수 있다",
+        "pt": "Uma insígnia dada àqueles que completaram o treinamento especial conduzido pela Guilda de Aventureiros. Pode ser considerada um símbolo da força de uma pessoa.",
+        "ru": "Эмблема, выдаваемая тем, кто прошёл специальную подготовку Гильдии искателей приключений. Её можно считать символом силы.",
+        "th": "ตราสัญลักษณ์ที่ได้รับหลังจากเสร็จสิ้นการฝึกพิเศษของทางกิลด์นักผจญภัย และยังสามารถถือเป็นสิ่งพิสูจน์ความแข็งแกร่งได้อีกด้วย",
+        "vi": "Huy hiệu chứng nhận năng lực sau khi hoàn thành huấn luyện của Hiệp Hội Nhà Mạo Hiểm."
+    },
+    "materialType": false
+}

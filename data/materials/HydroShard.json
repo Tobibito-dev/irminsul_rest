@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hydro Shard",
+        "de": "Hydro-Kristallsplitter",
+        "chs": "水元素晶片",
+        "cht": "水元素晶片",
+        "es": "Fragmento Hydro",
+        "fr": "Frament Hydro",
+        "id": "Hydro Shard",
+        "jp": "水元素結晶の欠片",
+        "kr": "물 원소 결정 조각",
+        "pt": "Fragmento Hydro",
+        "ru": "Осколок Гидро",
+        "th": "Hydro Shard",
+        "vi": "Mảnh Nguyên Tố Thủy"
+    },
+    "id": 102002,
+    "materialDesc": {
+        "en": "A shard that broke off a larger Hydro Crystal. Gives 50 Hydro Energy when absorbed.",
+        "de": "Der Splitter eines Hydro-Kristalls. Bringt 50 Punkte Hydro-Energie.",
+        "chs": "从水元素结晶上剥落下来的晶片，吸收后可获得50点水元素能量",
+        "cht": "從水元素結晶上剝落下來的晶片，吸收後可獲得50點水元素能量。",
+        "es": "Un fragmento que se desprendió de un Cristal Hydro más grande. Puede ser absorbido para obtener 50 Energía Hydro.",
+        "fr": "Un fragment de cristal Hydro. Confère 50 pts d'énergie Hydro après absorption.",
+        "id": "Pecahan dari Hydro Crystal besar, memberikan 50 Hydro Energy saat dihisap.",
+        "jp": "水元素結晶から剥がれ落ちた結晶の欠片。吸収すると、水元素エネルギー50を獲得できる",
+        "kr": "물 원소 결정에서 떨어져나온 조각. 흡수 후 물 원소 에너지를 50pt 획득한다",
+        "pt": "Um fragmento de um Cristal Hydro. Pode ser absorvido por 50 pontos de Energia Hydro.",
+        "ru": "Осколок большого Гидро Кристалла. Даёт 50 Энергии Гидро.",
+        "th": "เศษเสี้ยวที่แตกออกมาจาก Hydro Crystal มันได้ดูดซับพลังงานธาตุน้ำไว้ 50 หน่วย",
+        "vi": "Mảnh lấy từ kết tinh Nguyên Tố Thủy, sau khi hấp thụ nhận được 50 điểm năng lượng Nguyên Tố Thủy."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

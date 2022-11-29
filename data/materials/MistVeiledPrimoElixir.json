@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Veiled Primo Elixir",
+        "de": "Wunderkugel des Nebelschleiers",
+        "chs": "雾海云间的转还",
+        "cht": "霧海雲間的轉還",
+        "es": "Perdigones primordiales",
+        "fr": "Or karstique",
+        "id": "Mist Veiled Primo Elixir",
+        "jp": "霧海雲間の転還",
+        "kr": "안개구름 속의 전환",
+        "pt": "Alternação das Nuvens e o Mar",
+        "ru": "Примо эликсир Заоблачного моря",
+        "th": "Mist Veiled Primo Elixir",
+        "vi": "Sự Chuyển Dời Của Biển Sương Mù"
+    },
+    "id": 114020,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nAn elixir of the highest quality. It embodies a state of intertwining order and chaos, and is said to mirror how the world was when it was first created. Of course, a certain someone knows that this was not the case.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nDiese edelste Form der Goldkugel bildet das ursprüngliche Chaos, die Zeit, in der alles eins war und Himmel und Erde noch nicht getrennt waren, nach. Es ist wie eine Miniatur von der Schaffung der Welt. Natürlich wissen nur wenige, dass die Wiedererschaffung der Welt anders abgelaufen ist.",
+        "chs": "赋予武器突破之力的材料。\\n这是金丹的最高品质，它模拟了混沌初开、清浊不分、天地一体的状态。据说这个是天地创世的缩影。当然，那位是知道的，世界的重现不是这样的。",
+        "cht": "賦予武器突破之力的材料。\\n這是金丹的最高品質，它模擬了混沌初開、清濁不分、天地一體的狀態。據說這個是天地創世的縮影。當然，那位是知道的，世界的重現不是這樣的。",
+        "es": "Material de ascensión de arma.\\nUna cápsula de metal de la más alta calidad. Encarna un estado de orden y caos entrelazados. Se dice que el mundo tenía esta forma antes de su creación. Sin embargo, cierta persona sabe que, en realidad, no fue así como se creó.",
+        "fr": "Matériau d'élévation d'arme.\\nUne pilule en métal d'une qualité exceptionnelle qui simule un état où l'ordre et le chaos s'entremêlent, et qui aurait été à l'origine du monde. Hélas, les choses ne sont pas aussi simples en réalité.",
+        "id": "Material Ascension Senjata.\\nElixir berkualitas tinggi. Menggambarkan keadaan tenang dan kacau yang saling berkaitan, dan dikatakan ini mencerminkan bagaimana dunia saat pertama kali diciptakan. Tentu saja, beberapa orang tertentu tahu bahwa ini tidak ada hubungannya.",
+        "jp": "武器に突破の力を付与する材料。\\n最高品質の金丹、この世のはじめ、天地一体の状態を再現し、天地創世の縮図だと言われている。もちろん、世界の再現はこんなものではないのは分かっている。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n이건 금단의 최고급 품질로 천지개벽, 청탁불분, 천지일체의 상태를 모방했다. 이는 천지창조의 축소판이라고 한다. 하지만 세계가 재현된 건 이런 것이 아니라는 걸 그분은 당연히 알고 있다",
+        "pt": "Material de Ascensão de Armas.\\nEssencialmente, é uma pílula de metal da mais alta qualidade. Ele encarna um estado de ordem e caos entrelaçados, e foi dito que era como o mundo era quando foi criado. É claro que alguém sabia que não era o caso.",
+        "ru": "Материал возвышения оружия.\\nЭликсир высочайшего качества. Он воплощает состояние переплетающегося порядка и хаоса и, как говорят, отражает то, каким был мир сразу после его сотворения. Но, конечно, некая личность прекрасно знает, что всё было не так.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nโดยพื้นฐานแล้วเป็นผงโลหะที่มีคุณภาพสูงสุด มันแสดงให้เห็นถึงภาพลักษณ์ของความสงบเรียบร้อยและความวุ่นวาย ว่ากันว่าโลกเป็นแบบนี้เมื่อถูกสร้างขึ้นในตอนแรก แน่นอนว่ามีบางคนรู้ว่ามันไม่ใช่อย่างนั้น",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nĐây là phẩm chất cao nhất của kim đơn, nó thể hiện thời hỗn độn sơ khai, thiên địa bất phân. Nghe nói đây là bóng hình của đấng sáng thế. Đương nhiên, người đó cũng biết, sự tái hiện của thế giới không phải như vậy."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

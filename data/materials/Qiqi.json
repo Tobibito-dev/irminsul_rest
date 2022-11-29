@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Qiqi",
+        "de": "Qiqi",
+        "chs": "七七",
+        "cht": "七七",
+        "es": "Qiqi",
+        "fr": "Qiqi",
+        "id": "Qiqi",
+        "jp": "七七",
+        "kr": "치치",
+        "pt": "Qiqi",
+        "ru": "Ци Ци",
+        "th": "Qiqi",
+        "vi": "Qiqi"
+    },
+    "id": 1035,
+    "materialDesc": {
+        "en": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+        "de": "Schülerin in der Bubu-Hütte und Kräutersammlerin. Sie ist leichenblass und redet nur sehr wenig. Ihr Miene verzieht sie kein einziges Mal.",
+        "chs": "药庐「不卜庐」的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。",
+        "cht": "藥廬「不卜廬」的採藥姑娘兼學徒，面色蒼白如紙的不死之人。話很少，也沒有什麼表情。",
+        "es": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+        "fr": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+        "id": "Seorang murid di Bubu Pharmacy yang bertugas untuk memetik tanaman obat-obatan. Seorang zombie yang kulitnya teramat putih dan pucat, dia teramat pendiam, dan jarang menunjukkan ekspresi apa pun.",
+        "jp": "薬舗「不卜廬」の薬採り兼弟子、紙のように白い顔色で不死身。口数が少なく、あまり表情がない。",
+        "kr": "약방 「불복려」의 약초꾼이자 제자. 안색이 종이처럼 창백하다. 말수가 적고 무표정하다",
+        "pt": "Uma aprendiz e colhedora de ervas no Chalé de Bubu. Uma morta-viva com pele branca como osso, ela raramente tem muitas palavras ou emoções.",
+        "ru": "Ученица и сборщица трав из хижины «Бубу». Зомби с бледным лицом, разговаривает или проявляет эмоции очень редко...",
+        "th": "คนเก็บสมุนไพรและเด็กฝึกงานของร้านยา \"Bubu Pharmacy\" ซอมบี้ผู้มีผิวขาวซีดราวกับกระดาษ ไม่ค่อยพูดไม่ค่อยจาและไม่ค่อยแสดงอารมณ์",
+        "vi": "Một cô nương hái thuốc kiêm học đồ tại lò thuốc, sắc mặt trắng toát như cương thi. Rất ít nói chuyện, cũng không có biểu cảm gì."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

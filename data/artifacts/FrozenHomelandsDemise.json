@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Frozen Homeland's Demise",
+        "de": "Niedergang der eisigen Heimat",
+        "chs": "冰雪故园的终期",
+        "cht": "冰雪故國的終期",
+        "es": "Retorno a las Tierras del Hielo",
+        "fr": "Fin du pays des glaces",
+        "id": "Frozen Homeland's Demise",
+        "jp": "雪覆う故郷の最後",
+        "kr": "눈 덮인 고향의 최후",
+        "pt": "Fim da Terra Natal Gelada",
+        "ru": "Гибель замёрзшей родины",
+        "th": "Frozen Homeland's Demise",
+        "vi": "Hồi Kết Của Miền Quê Băng Giá"
+    },
+    "id": 24185,
+    "setId": 14001,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kalpalata Lotus",
+        "de": "Kalpalata-Lotos",
+        "chs": "劫波莲",
+        "cht": "劫波蓮",
+        "es": "Loto kalpa",
+        "fr": "Kalpalotus",
+        "id": "Kalpalata Lotus",
+        "jp": "カルパラタ蓮",
+        "kr": "겁의 연꽃",
+        "pt": "Lótus Kalpalata",
+        "ru": "Лотос кальпалата",
+        "th": "Kalpalata Lotus",
+        "vi": "Sen Kalpalata"
+    },
+    "id": 101217,
+    "materialDesc": {
+        "en": "Flowers from vines that grow on cliff sides. It is called a lotus only because it has a similar appearance to one. Aside from that, it bears no other similar properties to the lotus.",
+        "de": "Blüte am Kliff wachsender Kletterpflanze. Aufgrund ihres Aussehens wird sie als Lotos bezeichnet, auch wenn sie mit diesem nicht näher verwandt ist.",
+        "chs": "生长在山崖峭壁之上的攀援植物开出的花朵。被称为莲只是因为外形相似，本身和莲花并没有什么关系。",
+        "cht": "生長在山崖峭壁之上的攀援植物開出的花朵。被稱為蓮只是因為外形相似，本身和蓮花並沒有什麼關係。",
+        "es": "La flor de una planta enredadera que crece en los peñascos más escarpados. La gente la llama “loto” por su apariencia, pero en realidad no tienen nada en común.",
+        "fr": "La fleur produite par une liane poussant sur les falaises. On l'appelle lotus uniquement parce qu'elle en a l'apparence, mais en dehors de cela, ces deux plantes ne partagent aucune similitude.",
+        "id": "Bunga dari tanaman merambat yang tumbuh di sisi tebing. Disebut teratai karena tampilannya yang mirip. Selain itu, tidak ada sifat lainnya yang mirip dengan teratai.",
+        "jp": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
+        "kr": "절벽 위에서 자라는 덩굴 식물의 꽃. 연꽃과 비슷한 외형 때문에 겁의 연꽃이라 불리지만 사실 연꽃과는 아무런 관련도 없다",
+        "pt": "Flor de videiras que crescem no topo das falésias das montanhas. É chamada de lótus apenas por causa de sua aparência, mas o fato é que elas duas não têm relação nenhuma.",
+        "ru": "Цветы вьющегося растения, произрастающего на скалах и валунах. Хоть эти растения и называются «лотосами», но, кроме внешнего вида, не имеют с ними ничего общего.",
+        "th": "ดอกไม้จากพืชไม้เลื้อยที่มักเติบโตอยู่บริเวณหน้าผา ที่ได้ชื่อว่าดอกบัวเป็นเพราะว่ามีรูปลักษณ์ที่คล้ายคลึงกันเท่านั้น ไม่ได้มีความเกี่ยวข้องกันแต่อย่างใด",
+        "vi": "Hoa của cây leo mọc trên các vách đá. Được gọi là hoa sen chỉ vì vẻ ngoài giống nhau chứ bản thân nó không liên quan gì đến hoa sen cả."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

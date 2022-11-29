@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bag of Ornaments",
+        "de": "Schmucktasche",
+        "chs": "一包首饰",
+        "cht": "一包首飾",
+        "es": "Bolsa de joyas",
+        "fr": "Sac de bijoux",
+        "id": "Sekantong Ornamen",
+        "jp": "一袋の装飾品",
+        "kr": "장신구 한 주머니",
+        "pt": "Bolsa de Joias",
+        "ru": "Сумка с украшениями",
+        "th": "ถุงเครื่องประดับ",
+        "vi": "Một Túi Trang Sức"
+    },
+    "id": 101795,
+    "materialDesc": {
+        "en": "A bag of decorations that Old Chou gave you as compensation for Tang Wuchou's misfortunes. They are very roughly made, owing to having been manufactured by the Treasure Hoarders within The Chasm using smuggled ore, and can barely be considered to possess any aesthetic qualities at all. As such, there is no hope at all of them selling well in Liyue. The only thing good you could say about these ornaments is that they are at least made using the right materials...",
+        "de": "Ein Beutel mit Juwelen, den du vom alten Chou als Entschädigung für Tang den Unbesiegbaren erhalten hast. Die Juwelen wurden von den Schatzräubern hergestellt, die Erze aus der Großen Kluft schmuggeln. Aufgrund der groben und einfachen Technik, die bei der Herstellung dieser Juwelen angewandt wurde, sowie ihres eher schlichten Aussehens hätten sie in Liyue keine Chance, verkauft zu werden. Das einzig Positive, was man über sie sagen kann, ist, dass sie echte Juwelen sind ...",
+        "chs": "自老臭处得来的一包首饰，以作唐无仇的补偿。为在层岩巨渊走私宝石矿材的盗宝团制作，其粗犷淳朴的宝石制作工艺，和勉强算得上有所设计的外观造型，断绝了这批首饰能够在璃月成功卖出的任何可能。唯一能为人称道的，恐怕就只有这批首饰确实是真材实料的这点了…",
+        "cht": "自老臭處得來的一包首飾，以作唐無仇的補償。為在層岩巨淵走私寶石礦材的盜寶團製作，其粗獷淳樸的寶石製作工藝，和只能勉強算得上有所設計的外觀造型，斷絕了這批首飾能夠在璃月成功賣出的任何可能。唯一能為人稱道的，恐怕就只有這批首飾確實是真材實料的這點了…",
+        "es": "Una bolsa de joyas que encontraste cerca de la tienda de Chou para compensar a Tang Wuchou. Las hicieron los ladrones de tesoros que hacen contrabando de minerales en la Sima. Debido a la burda y simple técnica de fabricación utilizada y a su aspecto bastante tosco, no cabría ninguna posibilidad de que se vendieran en Liyue. Lo único positivo que se puede decir de ellas es que los materiales utilizados parecen auténticos...",
+        "fr": "Un sac de bijoux que Chou vous a remis pour dédommager Tang Wuchou. Il est rempli de bijoux de facture grossière fabriqués par les Pilleurs de trésors à partir de minerai de contrebande. Ceux-ci, disposant de peu de qualités esthétiques, ne se vendront pas à Liyue. La seule chose positive que l'on puisse dire de ces accessoires est qu'ils ont au moins été fabriqués avec les bons matériaux...",
+        "id": "Kantong berisi ornamen yang diberikan Old Chou sebagai ganti rugi atas ulah Tang Wuchou. Buatannya sangat kasar, mengingat benda ini diproduksi oleh para Treasure Hoarder di dalam Chasm dengan menggunakan bijih selundupan, dan hampir tidak punya kualitas estetika sama sekali. Benda seperti ini tidak akan laku dijual di Liyue. Tapi setidaknya, material yang dipakai sudah benar ....",
+        "jp": "唐無仇への詫びとして、臭から受け取った一袋の装飾品。層岩巨淵で宝石鉱材を密輸していた宝盗団が作ったもの。雑な宝石加工の技法と、適当に設計されたであろう見た目は、璃月で流通する望みを自ら断ち切っている。これらの装飾品の唯一取り上げるべき点は恐らく、本物の宝石を使っているという点だけだろう…",
+        "kr": "취 씨가 당무적의 보상으로 준 장신구 한 주머니. 층암거연에서 보석, 광물을 밀매하던 보물 사냥단을 위해 만든 것이다. 거칠고 소박한 제작 방식과 그나마 설계의 흔적이 보이는 외관 디자인은 이 장신구들이 리월에서 팔릴 수 있는 모든 가능성을 차단했다. 그나마 양심적인 점은, 이 장신구들은 전부 진짜 재료들로 만들어졌다는 점이랄까…",
+        "pt": "Uma bolsa com joias que o Chou lhe deu como compensação por Tang Wuchou. Elas foram feitas de maneira rústica pelos Ladrões de Tesouro no Despenhadeiro com minérios contrabandeados, e mal se pode considerar possuidoras de qualidades estéticas. Por isso, não há chance alguma de serem vendidas em Liyue. A única coisa boa que pode ser dita sobre essas joias é que elas pelo menos foram feitas com os materiais certos.",
+        "ru": "Сумка с украшениями, которую вы получили от Старины Чоу в качестве возмещения Тан Учоу за его злоключения. Их изготовили для Похитителей сокровищ, которые промышляют в Разломе контрабандой руды. Из-за грубой обработки и неэстетичного вида сбыть их в Ли Юэ возможным не представляется. В этих украшениях хорошо только то, что они сделаны из подлинных материалов...",
+        "th": "ถุงเครื่องประดับที่ได้มาจาก Old Chou เพื่อชดเชยให้กับ Tang Wuchou สร้างขึ้นโดยโจรที่ลักลอบขนอัญมณีและแร่ใน Chasm ฝีมือการทำอัญมณีไม่มีความประณีต และรูปลักษณ์ภายนอกก็พอจะเรียกว่าได้ผ่านการออกแบบอยู่บ้าง แทบจะเป็นไปไม่ได้ที่เครื่องประดับนี้จะขายได้ใน Liyue เกรงว่าสิ่งเดียวที่ชื่นชมได้ก็คือเครื่องประดับนี้ทำมาจากวัสดุแท้เท่านั้นล่ะนะ...",
+        "vi": "Túi trang sức lấy được từ chỗ Lão Chou, dùng để bù đắp cho Tang Wuchou. Được chế tác bởi Đạo Bảo Đoàn buôn lậu nguyên liệu khoáng thạch của Vực Đá Sâu, thủ công đơn giản thô kệch, và miễn cưỡng được xem là có chút thiết kế kiểu dáng, chặn đứng mọi khả năng loạt trang sức này có thể tiếp tục bán ra ở Liyue. Chỉ có một điểm duy nhất có thể khẳng định, chính là loạt trang sức này được chế tạo từ nguyên liệu thật."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

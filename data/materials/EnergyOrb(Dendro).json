@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Energy Orb (Dendro)",
+        "de": "Elementarenergiekugel (Dendro)",
+        "chs": "元素能量球(草)",
+        "cht": "元素能量球(草)",
+        "es": "Orbe de energía (Dendro)",
+        "fr": "Orbe d'énergie (Dendro)",
+        "id": "Small Energy Orb (Dendro)",
+        "jp": "元素エネルギーボール(草)",
+        "kr": "원소 에너지 오브(풀)",
+        "pt": "Orbe de Energia (Dendro)",
+        "ru": "Сфера энергии (Дендро)",
+        "th": "Energy Orb (Dendro)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Thảo)"
+    },
+    "id": 2003,
+    "materialDesc": {
+        "en": "Energy Orb (Dendro)",
+        "de": "Elementarenergiekugel (Dendro)",
+        "chs": "元素能量球(草)",
+        "cht": "元素能量球(草)。",
+        "es": "Orbe de energía (Dendro)",
+        "fr": "Orbe d'énergie (Dendro)",
+        "id": "Small Energy Orb (Dendro)",
+        "jp": "元素エネルギーボール(草)",
+        "kr": "원소 에너지 오브(풀)",
+        "pt": "Orbe de Energia (Dendro)",
+        "ru": "Сфера энергии (Дендро)",
+        "th": "Energy Orb (Dendro)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Thảo)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

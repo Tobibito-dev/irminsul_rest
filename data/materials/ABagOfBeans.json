@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Bag of Beans",
+        "de": "Beutel voll Bohnen",
+        "chs": "一袋豆子",
+        "cht": "一袋豆子",
+        "es": "Bolsa de frijoles",
+        "fr": "Sac de haricots",
+        "id": "Sekantong Kacang",
+        "jp": "一袋の豆",
+        "kr": "콩 한 주머니",
+        "pt": "Saco de feijões",
+        "ru": "Пачка бобов",
+        "th": "ถุงถั่ว",
+        "vi": "Một Túi Đậu"
+    },
+    "id": 100993,
+    "materialDesc": {
+        "en": "Beans you got from Sango. Arataki Itto seems to be allergic to beans, so these may prove to be useful tools in stopping him from resisting too much.\\nSango says they're not free, though. Hopefully they don't cost too much...",
+        "de": "Bohnen, die du von Sango bekommen hast. Arataki Itto scheint allergisch gegen Bohnen zu sein, also könnten sie sich als nützliche Hilfsmittel erweisen, um ihn davon abzuhalten, sich zu sehr zu wehren.\\nSango sagt allerdings, dass sie nicht kostenlos sind. Hoffentlich kosten sie nicht zu viel ...",
+        "chs": "从珊瑚那里获得的豆子。据说荒泷一斗对豆子过敏，如果他打算反抗，这袋豆子会成为反制他最有用的道具。\\n珊瑚说这豆子是收费的，要价应该不会太过分吧…",
+        "cht": "從珊瑚那裡獲得的豆子。據說荒瀧一斗對豆子過敏，如果他打算反抗，這袋豆子會成為反制他最有用的道具。\\n珊瑚說這豆子是收費的，要價應該不會太過分吧…",
+        "es": "Unos frijoles que te dio Sango. Al parecer, Arataki Itto le tiene alergia a este alimento, así que si intenta resistirse, esta bolsa te resultará de lo más útil.\\nSegún Sango, estos frijoles tienen un precio, pero con suerte no será muy elevado...",
+        "fr": "Des haricots obtenus de la part de Sango. Arataki Itto a l'air d'être allergique aux haricots donc ce sera peut-être un moyen efficace pour l'empêcher de résister.\\nSango a dit qu'ils n'étaient pas gratuits cependant. En espérant qu'ils ne soient pas trop chers...",
+        "id": "Kacang yang kamu dapatkan dari Sango. Arataki Itto sepertinya alergi terhadap kacang, jadi benda ini mungkin bisa berguna agar dia tidak terlalu banyak berontak.\\nTapi Sango bilang ini tidak gratis. Semoga saja harganya tidak terlalu mahal ....",
+        "jp": "珊瑚からもらった豆。荒瀧一斗は豆アレルギーと言われている。もし彼が抵抗してきたら、この豆の袋は彼に対して最も有効な道具になるだろう。\\nこの豆は無料ではないと珊瑚が言っていたが、それほど高くないはずだ…",
+        "kr": "산고에게 받은 콩. 아라타키 이토는 콩 알레르기가 있다고 한다. 이토가 반항하면, 콩으로 제압할 수 있다.\\n산고가 무료가 아니라고 했는데 바가지를 씌우진 않겠지…",
+        "pt": "Feijões que Sango deu para você. Arataki Itto parece ser alérgico a feijão, então eles podem ser ferramentas úteis para impedi-lo de resistir demais.\\nNo entanto, Sango disse que não são de graça. Espero que não sejam muito caros...",
+        "ru": "Бобы, полученные от Санго. У Аратаки, похоже, аллергия на бобы, поэтому они могут оказаться полезными, если он начнёт сопротивляться.\\nОднако Санго говорит, что они не бесплатны. Надеюсь, они не будут стоить слишком дорого...",
+        "th": "ถั่วที่ได้มาจาก Sango ว่ากันว่า Arataki Itto นั้นแพ้ถั่ว ถ้าเขาคิดจะต่อต้านล่ะก็ ถั่วถุงนี้น่าจะเป็นสิ่งที่มีประโยชน์ที่สุดในการตอบโต้เขา\\nSango บอกว่าถั่วนี้ต้องจ่ายเงิน ส่วนราคานั้นคงจะไม่มากเกินไปหรอกนะ...",
+        "vi": "Đậu nhận được từ chỗ Sango. Nghe nói Arataki Itto bị dị ứng với đậu, nếu hắn định phản kháng thì túi đậu này là công cụ hữu hiệu nhất để khống chế hắn.\\nSango nói đậu này sẽ tính tiền, nhưng giá cả chắc không quá đáng lắm đâu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

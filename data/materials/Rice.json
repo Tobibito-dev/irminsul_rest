@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rice",
+        "de": "Reis",
+        "chs": "稻米",
+        "cht": "稻米",
+        "es": "Arroz",
+        "fr": "Riz",
+        "id": "Rice",
+        "jp": "米",
+        "kr": "쌀",
+        "pt": "Arroz",
+        "ru": "Рис",
+        "th": "Rice",
+        "vi": "Lúa Nước"
+    },
+    "id": 100092,
+    "materialDesc": {
+        "en": "A grain crop commonly found in Teyvat. People of all walks of life enjoy its distinct grainy texture. As the saying goes, \"The same kind of rice can feed one hundred kinds of people.\"",
+        "de": "Körner einer in Teyvat häufig aufzufindenden Getreideart. Die verschiedensten Menschen wissen diese sättigenden, weißen Körner zu schätzen. Daher sagt man auch, „Reis nährt alle Menschen.“",
+        "chs": "提瓦特常见的禾本作物。无论是什么样的人，都能欣赏这种颗粒分明的饱满口感，正所谓「一样米养百样人」。",
+        "cht": "提瓦特常見的禾本作物。無論是什麼樣的人，都能欣賞這種顆粒分明的飽滿口感，正所謂「一樣米養百樣人」。",
+        "es": "Un tipo de cereal muy común en Teyvat. A todo el mundo le agrada su distintiva textura. Como dice el dicho: “El mismo tipo de arroz puede alimentar a cien tipos de personas”.",
+        "fr": "Une céréale commune en Teyvat. Son goût et sa texture sont appréciés des masses.",
+        "id": "Sebuah tanaman biji-bijian yang biasa ditemukan di Teyvat. Orang-orang dari semua lapisan masyarakat menikmati tekstur butirannya yang berbeda, seperti kata pepatah \"Jenis beras yang sama dapat memberi makan 100 jenis orang.\"",
+        "jp": "テイワットで特に見られる作物。何度食べても飽きない、空腹を満たしてくれる最高の食材。",
+        "kr": "티바트에서 흔히 볼 수 있는 벼과 식물. 이런 한 올 한 올 씹히는 탱탱한 식감을 싫어하는 사람은 없을 것이다",
+        "pt": "Uma colheita de grãos comumente encontrada em Teyvat. Pessoas de todas as esferas da vida desfrutam de sua textura granulada distinta. Como diz o ditado, \"O mesmo tipo de arroz pode alimentar cem tipos de pessoas\".",
+        "ru": "Зерновая культура, широко распространённая в Тейвате. Нет человека, который не восхищался бы формой и питательностью рисовых зёрен. Вот почему часто говорят: «Один и тот же рис способен вскормить сотню разных людей»",
+        "th": "พืชที่พบได้ทั่วไปใน Teyvat ไม่ว่าจะเป็นคนประเภทไหนล้วนสามารถลิ้มลองรสสัมผัสเป็นเม็ดที่เต็มอิ่มนี้ได้ เหมือนกับคำที่ว่า \"ข้าวชนิดเดียวเลี้ยงคนได้ร้อยประเภท\"",
+        "vi": "Loài cây thân lúa thường được trồng trên đại lục Teyvat. Bất kỳ ai cũng yêu thích hương vị thơm ngon của chúng, cái tên \"hạt gạo nuôi trăm dân\" cũng từ đó mà ra."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

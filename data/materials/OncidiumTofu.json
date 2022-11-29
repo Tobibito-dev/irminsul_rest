@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Oncidium Tofu",
+        "de": "Oncidium-Tofu",
+        "chs": "文心豆腐",
+        "cht": "文心豆腐",
+        "es": "Tofu oncidium",
+        "fr": "Tofu oncidium",
+        "id": "Oncidium Tofu",
+        "jp": "文心豆腐",
+        "kr": "문심 두부",
+        "pt": "Tofu de Oncidium",
+        "ru": "Тофу «Вэньсинь»",
+        "th": "Oncidium Tofu",
+        "vi": "Đậu Hũ Tâm Ý"
+    },
+    "id": 108313,
+    "materialDesc": {
+        "en": "A dish that is a test of one's knifework. All the ingredients were sliced into ribbons in a single go, and after being washed, they were placed into the broth and cooked till they floated. The resulting flavor is light and fresh, and would not be out of place as a chef's recommendation in a Liyue restaurant.",
+        "de": "Ein Gericht, das die Messerarbeit auf die Probe stellt. Alle Zutaten wurden in einem Zug in Streifen geschnitten und nach dem Waschen in die Brühe gelegt und gekocht, bis sie darin schwimmen. Der resultierende Geschmack ist leicht und frisch und wäre als Empfehlung des Küchenchefs in einem Liyue-Restaurant nicht fehl am Platz.",
+        "chs": "颇为考较刀工的菜肴。一气呵成将全部的食材切成细丝，过水后，入高汤煮沸。此番成品口味清润却不失鲜美，足以成为璃月饭馆里的招牌菜。",
+        "cht": "頗為考驗刀工的菜餚。一氣呵成將全部的食材切成細絲，過水後，入高湯煮沸。此番成品口味清潤卻不失鮮美，足以成為璃月飯館裡的招牌菜。",
+        "es": "Un plato que requiere un excelente manejo del cuchillo. Todos los ingredientes han sido cortados en hilos muy finos, lavados y hervidos en un caldo. El sabor resultante es ligero y fresco. Perfectamente podría ser el plato insignia de un restaurante de Liyue.",
+        "fr": "Mets requérant un certain savoir-faire pour être préparé. L'ingrédient principal, aussi tendre que possible, est finement émincé, lavé et cuit dans le bouillon, pour un plat à la fraîcheur et au goût inimitables ornant plus d'un menu à Liyue.",
+        "id": "Hidangan untuk menguji kemampuan memakai pisau seseorang. Semua bahan dipotong menjadi beberapa bagian tipis dalam satu sayatan, dan setelah dicuci, diletakkan di dalam kaldu dan dimasak sampai mengambang. Hasilnya adalah rasa yang ringan dan segar, dan tidak akan terlewatkan sebagai menu rekomendasi koki di restoran Liyue.",
+        "jp": "包丁技術を重んじる料理。全ての食材を糸のように細かく切り、水に通してから、スープに入れて煮立てる。デリケートな味わいとたっぷりな旨味は、璃月食堂の定番になるには十分だ。",
+        "kr": "칼 솜씨가 꽤 중요한 요리. 모든 재료를 막힘없이 곱게 채 썰어 물에 헹군 후, 육수를 넣고 끓인다. 이 완제품은 담백하면서 신선한 식감만으로 리월 식당의 대표 메뉴가 되기에 충분하다",
+        "pt": "Um prato que é um teste ao próprio trabalho com facas. Todos os ingredientes foram cortados em tiras de uma só vez e, após serem lavados, foram colocados no caldo e cozidos até flutuarem. O sabor resultante é leve e fresco, e não estaria fora de lugar ao ser recomendação de um chef de um restaurante de Liyue.",
+        "ru": "Блюдо, которое является настоящей проверкой мастерства владения ножом. Все ингредиенты измельчаются в один прием, затем варятся в большом количестве бульона. Готовое блюдо получилось лёгким, но достаточно вкусным, чтобы стать фирменным блюдом в ресторане Ли Юэ.",
+        "th": "เมนูที่ทดสอบทักษะการใช้มีด ส่วนผสมทั้งหมดถูกซอยเป็นเส้นในครั้งเดียว หลังจากนั้นนำไปล้างน้ำ แล้วก็นำลงไปต้มในซุป ทำให้มีรสชาติที่อร่อยสดชื่น เพียงพอที่จะกลายเป็นเมนูแนะนำของร้านอาหารใน Liyue",
+        "vi": "Món ăn thử thách tài nghệ dùng dao. Một hơi cắt hết tất cả nguyên liệu thành sợi, nhúng vào nước rồi cho vào nồi nước đang sôi. Thành phẩm có hương vị thanh đạm, nhưng không kém phần tươi ngon, đủ để trở thành món chủ đạo trong các nhà hàng ở Liyue."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Masala Cheese Balls",
+        "de": "Misslungene Masala-Käsebällchen",
+        "chs": "奇怪的马萨拉芝士球",
+        "cht": "奇怪的馬薩拉起司球",
+        "es": "Bolitas de queso con masala extrañas",
+        "fr": "Boules de fromage au masala (suspectes)",
+        "id": "Suspicious Masala Cheese Balls",
+        "jp": "微妙なマサラチーズボール",
+        "kr": "이상한 마살라 치즈볼",
+        "pt": "Bolinhas de Queijo ao Masala Estranhas",
+        "ru": "Странные сырные шарики масала",
+        "th": "Masala Cheese Balls รสประหลาด",
+        "vi": "Viên Phô Mai Masala Kỳ Lạ"
+    },
+    "id": 108400,
+    "materialDesc": {
+        "en": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The cheese balls are under-cooked, and as a result, you got a mouthful of half-melted cheese and coarse potato chunks. Fry it for a while longer next time, would you?",
+        "de": "Ein Aranara-Gericht, dessen Rezept Paimon nach vielen Gedanken verfeinert hat. Ähnliche Rezepte sind in Sumeru jedoch schon lange verbreitet. Die Käsebällchen sind zu kurz gebraten, sodass du einen Mund voll halb geschmolzenen Käse und harte Kartoffelstücke bekommst. Brate sie beim nächsten Mal etwas länger.",
+        "chs": "经过派蒙苦思冥想改良后的兰那罗料理，但其做法在须弥本地其实早有流传。芝士球没有炸透，咬进去的时候品尝到的是夹生芝士的口感，土豆也脆生生的，下次再炸久一点吧…",
+        "cht": "經過派蒙苦思冥想改良後的蘭那羅料理，但其做法在須彌本地其實早有流傳。起司球沒有炸透，咬進去的時候品嚐到的是夾生起司的口感，馬鈴薯也脆生生的，下次再炸久一點吧…",
+        "es": "Un plato típico aranara que Paimon ha refinado minuciosamente, pero cuya preparación en realidad se remonta a muchos años atrás en Sumeru. Las bolas de queso no están bien fritas y al morderlas se nota la textura del queso crudo. Las papas también están duras. La próxima vez convendría cocinarlas un poco más...",
+        "fr": "Un plat aranarien typique. Paimon s'est creusé la tête pour essayer de l'améliorer en dépit du fait que la recette d'origine soit utilisée depuis longtemps à Sumeru. Les boulettes de fromage ne sont pas assez cuites, et par conséquent, elles ont une texture rigide au lieu d'être fondantes. Quant aux pommes de terre, elles sont pratiquement crues. Il faudra veiller à cuire le plat plus longtemps la prochaine fois...",
+        "id": "Hidangan bergaya Aranara yang dikembangkan mati-matian oleh Paimon. Tapi sebenarnya cara membuat hidangan ini sudah lama tersebar di Sumeru. Cheese Ball-nya kurang matang, sehingga kejunya tidak meleleh dan kentangnya masih keras. Lain kali harus digoreng lebih lama ya ....",
+        "jp": "パイモンが目を瞑り、長いこと思い悩んだ末に改良したアランナラ料理だが——実はスメールで古くから流行していた調理法。しかし、チーズボールはしっかり揚がっておらず、噛むと生チーズの食感がしてしまう。それに、ポテトにも火が通っていないようだ。次は揚げ時間を伸ばそう…",
+        "kr": "페이몬이 고심 끝에 개량한 아란나라의 요리. 하지만 수메르 현지에는 똑같은 레시피의 요리가 이미 오래전부터 있었다. 치즈볼이 제대로 튀겨지지 않은 탓에 한입 베어 물면 생치즈의 맛이 느껴지며 감자도 딱딱한 게 아직 덜 익은 듯하다. 다음에는 조금 더 오래 튀기는 게 좋겠다…",
+        "pt": "Um prato típico Aranara que Paimon quebrou a cabeça para melhorar. É, na verdade, uma receita bastante tradicional em Sumeru. As bolas de queijo estão mal passadas e, como resultado, você tem uma porção de queijo meio derretido e pedaços de grossos de batata. Não seria melhor cozinhar por mais tempo da próxima vez?",
+        "ru": "Блюдо аранар, улучшенное стараниями Паймон. Хотя на самом деле жители Сумеру давно знакомы с таким рецептом. Сырные шарики плохо прожарились, вместо расплавленного сыра внутри у них обычный твёрдый сыр. И картофель хрустит на зубах. Стоило подержать это блюдо на огне ещё немного...",
+        "th": "อาหาร Aranara ที่ Paimon ทุ่มเทมันสมองปรับปรุงขึ้นมา แต่สูตรการทำกลับเป็นสิ่งที่มีการสืบทอดกันใน Sumeru มาแต่เนิ่นนานแล้ว เมื่อกัดเข้าไปจะสัมผัสได้ถึงชีสและมันฝรั่งดิบ ๆ ครั้งต่อไปลองทอดให้นานกว่านี้อีกหน่อยดีกว่า...",
+        "vi": "Một món ăn kiểu Aranara đã được Paimon vắt óc suy nghĩ để cải thiện, nhưng thật ra công thức này khá truyền thống ở Sumeru. Viên phô mai chưa được chiên chín hoàn toàn, khi cắn vào có thể cảm nhận được vị của phô mai sống, khoai tây cũng giòn, lần sau nên chiên lâu hơn một chút..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

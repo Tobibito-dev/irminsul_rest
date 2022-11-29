@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Aralila and Aranishat's Flowers",
+        "de": "Blumen von Aralila und Aranishat",
+        "chs": "兰梨娄与兰难世的花",
+        "cht": "蘭梨婁與蘭難世的花",
+        "es": "Flor de Aralila y Aranishat",
+        "fr": "Fleur d'Aralila et Aranishat",
+        "id": "Bunga Aralila dan Aranishat",
+        "jp": "アランリラとアランニシャットの花",
+        "kr": "아란릴라와 아란니샤트의 꽃",
+        "pt": "Flor de Aralila e Aranishat",
+        "ru": "Цветок Аралилы и Аранишата",
+        "th": "ดอกไม้ของ Aralila และ Aranishat",
+        "vi": "Hoa Aralila Và Aranishat"
+    },
+    "id": 101829,
+    "materialDesc": {
+        "en": "Flowers gifted by Aralila and Aranishat.\\nWe ourselves are the strongest. Of that, there is no doubt!",
+        "de": "Die von Aralila und Aranishat geschenkten Blumen.\\nAm stärksten sind wir selbst.",
+        "chs": "兰梨娄与兰难世赠送的花儿。\\n最强的果然还是自己！",
+        "cht": "蘭梨婁與蘭難世贈送的花朵。\\n最強的果然還是自己！",
+        "es": "Una flor que te dieron Aralila y Aranishat.\\n¡Está claro que nosotros mismos somos los más fuertes!",
+        "fr": "Une fleur offerte par Aralila et Aranishat.\\nEn fin de compte, il n'y a personne de plus fort que soi-même !",
+        "id": "Bunga yang diberikan oleh Aralila dan Aranishat.\\nKami adalah yang terkuat. Itu sudah pasti!",
+        "jp": "アランリラとアランニシャットから貰った花。\\n最強なのはやっぱり自分！",
+        "kr": "아란릴라와 아란니샤트가 선물한 꽃.\\n최강자는 역시 나야!",
+        "pt": "Flor dada por Aralila e Aranishat.\\nAfinal, nós que somos mais fortes, sem dúvida!",
+        "ru": "Цветок, подаренный Аралилой и Аранишатом.\\nСильнее всех - ты сам, а кто же ещё?",
+        "th": "ดอกไม้ที่ Aralila และ Aranishat มอบให้\\nผู้ที่แข็งแกร่งที่สุดก็คือตนเอง!",
+        "vi": "Hoa Aralila và Aranishat tặng.\\nMạnh nhất vẫn là chính mình!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

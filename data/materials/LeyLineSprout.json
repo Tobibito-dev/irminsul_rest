@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ley Line Sprout",
+        "de": "Frische Triebe des Flusses der Elemente",
+        "chs": "地脉的新芽",
+        "cht": "地脈的新芽",
+        "es": "Brotes de líneas ley",
+        "fr": "Pousse des lignes énergétiques",
+        "id": "Ley Lines Sprouts",
+        "jp": "地脈の新芽",
+        "kr": "지맥의 새싹",
+        "pt": "Broto de Linha Ley",
+        "ru": "Ростки артерий земли",
+        "th": "Ley Line Sprout",
+        "vi": "Chồi Non Địa Mạch"
+    },
+    "id": 112022,
+    "materialDesc": {
+        "en": "It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it. It is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.",
+        "de": "Man erzählt sich, dass es einen Baum gegeben hat, der so groß war, dass seine Wurzeln durch die gesamte Erde reichten. Diese Triebe sollen zu ihm gehören. In all der Zeit hat sie wohl niemand aus ihrer Heimat entfernt. Sie strotzen noch vor Lebenskraft und haben sogar junge Blätter.",
+        "chs": "据说有一株巨木曾经贯彻了世界的各处；据说这枝是它的一部分。仿佛从未被人折下带到遥远的地表，仍然充满了勃发的生机，长出了新叶。",
+        "cht": "據說有一株巨木曾經貫徹了世界的各處；據說這枝是它的一部分。仿佛從未被人折下帶到遙遠的地表，仍然充滿了勃發的生機，長出了新吐。",
+        "es": "Se dice que había un gran árbol con raíces esparcidas por todos los rincones del mundo, y que esta era una de sus ramas. Parece como si nunca hubiera sido talada o alejada de ese árbol, ya que aún conserva una fuerte vitalidad, con hojas nuevas que no paran de crecer.",
+        "fr": "Cette pousse a été extraite à partir d'énormes racines qui poussent sous terre. Elle déborde de vitalité comme si elle était encore rattachée à la racine mère et déploie de nouvelles feuilles.",
+        "id": "Legenda mengatakan ada pohon besar dengan akar yang menyebar ke setiap sudut dunia, dan cabang ini katanya bagian dari itu. Benda ini seolah-olah tidak pernah ditebang dan masih memiliki vitalitas yang kuat.",
+        "jp": "遥か昔、世界各地を貫通したある巨木があり、この枝はまさにその一部らしい。誰かに折られて地表に持っていかれたが、その痕跡は全く感じられなく、今でも生気に満ちていて、若葉が生えてくる。",
+        "kr": "세계 각지에 뿌리를 내린 거목이 있다고 한다.\\n이 가지는 그 거목의 일부라고 한다. 누군가에게 꺾여 멀리 이동한 적이 없는 듯하며, 왕성한 생명력으로 새잎이 자랐다",
+        "pt": "Diz-se que havia uma grande árvore cujas raízes outrora se espalhavam por todos os cantos do mundo, e diz-se que este broto fazia parte dela. É quase como se nunca tivesse sido quebrado e levado para longe, pois sua vitalidade é tal que ainda hoje brota novas folhas.",
+        "ru": "Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью. Он полон жизненной силы, как будто всё ещё связан со своими материнскими корнями.",
+        "th": "ได้ยินมาว่าต้นไม้ยักษ์ได้ถูกตัดเพื่อไปใช้ตามส่วนต่างๆของโลก ว่ากันว่านี่ก็เป็นส่วนหนึ่งของมัน ราวกับว่ามันยังไม่เคยถูกผู้คนพาไปที่ไหน ซึ่งทำให้มันมีพลังอยู่อย่างเต็มเปี่ยมและแตกใบออกมาใหม่แล้ว",
+        "vi": "Nghe nói có một khúc cây khổng lồ vươn ra khắp thế giới; Nghe nói chồi non này là một phần của nó. Như là chưa từng bị người ta hái xuống đem đến nơi xa, vẫn còn sức sống mạnh mẽ, đâm chồi nảy lộc."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

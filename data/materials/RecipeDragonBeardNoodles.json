@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Dragon Beard Noodles",
+        "de": "Rezept: Drachenbartnudeln",
+        "chs": "食谱：龙须面",
+        "cht": "食譜：龍鬚麵",
+        "es": "Receta: Fideos barba de dragón",
+        "fr": "Recette : Barbe à dragon",
+        "id": "Resep: Dragon Beard Noodles",
+        "jp": "レシピ：龍髭麺",
+        "kr": "레시피: 용수면",
+        "pt": "Receita: Macarrão Barba de Dragão",
+        "ru": "Рецепт: Лапша «Борода дракона»",
+        "th": "สูตรอาหาร: Dragon Beard Noodles",
+        "vi": "Công Thức: Mì Râu Rồng"
+    },
+    "id": 109488,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Dragon Beard Noodles.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Drachenbartnudeln“.",
+        "chs": "步骤详实的食谱，记载着「龙须面」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「龍鬚麵」的製作方法。",
+        "es": "Receta paso a paso para hacer fideos barba de dragón.",
+        "fr": "Étapes de préparation de la barbe à dragon.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Dragon Beard Noodles.",
+        "jp": "「龍髭麺」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「용수면」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Macarrão Barba de Dragão.",
+        "ru": "Подробный рецепт приготовления блюда «Лапша \"Борода дракона\"».",
+        "th": "สูตรอธิบายวิธีทำ \"Dragon Beard Noodles\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Mì Râu Rồng\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

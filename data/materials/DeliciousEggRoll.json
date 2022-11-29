@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Egg Roll",
+        "de": "Leckere Eierrolle",
+        "chs": "美味的鸟蛋烧",
+        "cht": "美味的鳥蛋燒",
+        "es": "Rollitos de huevo deliciosos",
+        "fr": "Omelette roulée (délicieuse)",
+        "id": "Delicious Egg Roll",
+        "jp": "美味しそうな鳥卵の玉子焼き",
+        "kr": "맛있는 새알말이",
+        "pt": "Rolinho de Ovo de Pássaro Delicioso",
+        "ru": "Вкусный яичный рулет",
+        "th": "Egg Roll แสนอร่อย",
+        "vi": "Trứng Cuộn Ngon"
+    },
+    "id": 108266,
+    "materialDesc": {
+        "en": "A fried egg dish. The shape of the dish as a whole, the golden color, the fluffy mouthfeel... a small piece of this may not fill your stomach, but it will fill you with warmth. Not to mention that sweetness that you can almost reach out and touch — simply irresistible.",
+        "de": "Ein Eiergericht. Die Form des Gerichts als Ganzes, die goldene Farbe, das fluffige Mundgefühl ... ein kleines Stück davon füllt vielleicht nicht deinen Magen, aber es wird dich mit Wärme erfüllen. Ganz zu schweigen von dieser Süße, die du fast greifen kannst – einfach unwiderstehlich.",
+        "chs": "煎制而成的蛋料理。规整的造型、金黄的色泽、松软的口感…小小一块，虽不及填饱肚子，却足以品出温馨。这一份唾手可得的香甜，惹人迷恋。",
+        "cht": "煎製而成的蛋料理。整齊的造型、金黃的色澤、鬆軟的口感…小小一塊，雖不及填飽肚子，卻足以品出溫馨。這一份唾手可得的香甜，惹人迷戀。",
+        "es": "Un plato hecho con huevo. Con su forma perfecta, su color dorado y su esponjosa textura... si solo comes un pequeño bocado, aunque no te llene el estómago, te hará sentir como en casa. Su sencillo sabor es algo absolutamente cautivador.",
+        "fr": "Un plat à base d'œufs frits. La forme du plat dans son ensemble, la couleur dorée, la sensation moelleuse en bouche... un petit morceau de celui-ci ne remplira peut-être pas votre estomac, mais il vous remplira de bonheur. Sans parler de cette douceur, vous pouvez presque tendre la main et la toucher, tout simplement irrésistible.",
+        "id": "Hidangan telur goreng. Bentuknya yang rapi, warna kuning keemasan dan rasanya yang lembut di mulut... potongan kecil hidangan ini mungkin tidak mengenyangkan, namun cukup untuk memberikanmu rasa kehangatan. Rasa manis yang seperti belaian hangat — sungguh tidak tertahankan.",
+        "jp": "油で焼き上げた卵料理。しっかりとした形、黄金の色でふっくらとした食感…一口ではお腹いっぱいにはならないが、心を落ち着かせる。容易に手に入れられるのも魅力の一つ。",
+        "kr": "구운 새알 요리. 정갈한 모양, 금빛 윤기, 말캉한 식감… 자그마한 새알말이로 배를 채우기엔 역부족이지만 어쩐지 따뜻함이 느껴진다. 쉽게 얻을 수 있는 달콤함이어서 더욱 매력적이다",
+        "pt": "Um prato de ovo frito. A forma do prato como um todo, a cor dourada, a maciez na boca... Um pequeno pedaço pode não encher seu estômago, mas vai encher você de calor. Sem falar da doçura que você quase pode tocar — simplesmente irresistível.",
+        "ru": "Блюдо из жареных яиц. Его форма, золотистый цвет, пышная текстура... Маленький кусочек не насытит, но наполнит вас теплом. Не говоря уже о том, что к его вкусу несложно пристраститься.",
+        "th": "เมนูไข่ม้วน รูปร่างได้มาตรฐาน สีเหลืองทอง รสสัมผัสนุ่มนวล... แม้จะเป็นเพียงชิ้นเล็ก ๆ ไม่อิ่มท้อง แต่เพียงพอที่จะมอบความอบอุ่นให้คุณ มันยังมีความหอมหวานที่น่าหลงใหลอีกด้วย",
+        "vi": "Món trứng được chế biến từ cách đem đi chiên. Tạo hình ngay ngắn, vàng đều, mềm mịn...một miếng nhỏ tuy không đủ no nhưng cũng đủ ấm lòng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "No Tomorrow",
+        "de": "Mahlzeit ohne Zukunft",
+        "chs": "没有未来菜",
+        "cht": "沒有未來菜",
+        "es": "Sin futuro",
+        "fr": "Sansespoir",
+        "id": "No Tomorrow",
+        "jp": "アシタナシ",
+        "kr": "암울한 미래",
+        "pt": "Sem Futuro",
+        "ru": "Блюдо без будущего",
+        "th": "No Tomorrow",
+        "vi": "Món Không Tương Lai"
+    },
+    "id": 108140,
+    "materialDesc": {
+        "en": "Qiqi's specialty. The neat rows of ingredients seem at once exotic and delicious, and Baizhu says that Qiqi has spent a long time creating this dish. Still, once one considers that Qiqi has no sense of taste, just putting chopsticks to the food is going to take some courage.",
+        "de": "Qiqis Spezialzubereitung. Die Zutaten sind perfekt und sauber angeordnet, was bereits den Eindruck guten Geschmacks vermittelt. Baizhu sagt schließlich, Qiqi habe sehr viel Zeit darauf verwendet, sich dieses Gericht auszudenken. Wenn man aber bedenkt, dass Qiqi nichts schmecken kann, überlegt man es sich schon zweimal, bevor man zuschlägt.",
+        "chs": "七七的特色料理。整齐排列的食材，看上去异常美味，难怪白术说七七花了很长时间才做出来这道菜。呃…但是考虑到七七没有味觉，下筷子真的需要勇气。",
+        "cht": "七七的特色料理。整齊排列的食材，看起來異常美味，難怪白朮說七七花了很長時間才做出來這道菜。呃…但是考慮到七七沒有味覺，下筷子真的需要勇氣。",
+        "es": "La especialidad de Qiqi. Los ingredientes, ordenados en fila, parecen exóticos y deliciosos al mismo tiempo. Baizhu dice que Qiqi ha pasado mucho tiempo creando este plato. Aun así, cuando uno recuerda que Qiqi no tiene sentido del gusto, el simple hecho de poner unos palillos sobre el tazón requiere mucho valor.",
+        "fr": "Spécialité culinaire de Qiqi. Les ingrédients de ce plat ont été soigneusement arrangés. D'après Baizhu, Qiqi a mis beaucoup de temps à le préparer, mais une fois qu'on connaît les goûts de la jeune fille, il est difficile de vouloir en manger.",
+        "id": "Spesialisasi Qiqi. Barisan bahan makanan yang tertata rapi tampak sangat eksotis sekaligus lezat, dan Baizhu mengatakan bahwa Qiqi telah menghabiskan waktu yang lama untuk menciptakan hidangan ini. Tapi, mengingat bahwa Qiqi tidak punya indra perasa, membuatmu membutuhkan keberanian yang sangat tinggi untuk sekadar mencicipinya.",
+        "jp": "七七のオリジナル料理。綺麗に並べられた食材はとても美味しそうに見える。白朮曰く、この料理は七七がかなり時間をかけた成果らしい…しかし七七は味覚がないから、食べるのにかなり勇気がいる。",
+        "kr": "치치의 특제 요리. 식재료가 가지런하게 놓여서 보기엔 아주 맛있어 보인다. 어쩐지 치치가 이 요리를 만드는데 시간이 많이 걸렸다고 백출이 말하더라…. 하지만 미각이 없는 치치를 생각하면 용기 없인 먹지 못할 것 같다",
+        "pt": "Especialidade de Qiqi. As filas ordenadas de ingredientes parecem ao mesmo tempo exóticas e deliciosas, e Baizhu diz que o Qiqi passou muito tempo criando esse prato. Ainda assim, uma vez que se considere que Qiqi não tem senso de paladar, apenas o fato de pegar na comida vai exigir um pouco de coragem.",
+        "ru": "Особое блюдо Ци Ци. Ряды аккуратно нарезанных овощей выглядят вкусно и экзотично. Как рассказывает господин Бай Чжу, Ци Ци потратила немало времени на приготовление этого блюда. Но всё же вы боитесь прикасаться к нему палочками, поскольку помните что вкусовые рецепторы Ци Ци не работают.",
+        "th": "เมนูพิเศษของ Qiqi วัตถุดิบที่จัดเรียงอย่างเป็นระเบียบ ดูแล้วน่าอร่อยเป็นอย่างยิ่ง ไม่แปลกเลยที่ Baizhu บอกว่า Qiqi ใช้เวลานานมากถึงจะทำอาหารจานนี้ออกมาได้สำเร็จ เอ่...แต่พอคิดถึงเรื่องที่ Qiqi ไม่รู้รสชาติแล้ว การลงมือคงต้องใช้ความกล้าหาญ เป็นอย่างมาก",
+        "vi": "Món ăn đặc biệt của Qiqi. Nguyên liệu được bày ngay ngắn kèm theo cảm giác kỳ lạ, chẳng trách Baizhu nói Qiqi dành rất nhiều tâm huyết để tạo ra món này. Í... Thế nhưng Qiqi vốn là người không có vị giác, dám ăn thứ này cũng cần sự dũng cảm không kém."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diary of Roald the Adventurer: Yaoguang Shoal",
+        "de": "Tagebuch des Abenteurers Roald – Yaoguang-Untiefe",
+        "chs": "冒险家罗尔德的日志·瑶光滩",
+        "cht": "冒險家羅爾德的日誌·瑤光灘",
+        "es": "Diario del aventurero Roald: Costa Yaoguang",
+        "fr": "Journal de l'aventurier Roald - Bancs de Yaoguang",
+        "id": "Jurnal Roald sang Petualang: Yaoguang Shoal",
+        "jp": "冒険者ロアルドの日誌·瑶光の浜",
+        "kr": "모험가 로알드의 일지·요광 해안",
+        "pt": "Diário do Aventureiro Roald - Costa de Yaoguang",
+        "ru": "Дневники Роальда, искателя приключений: Отмель Яогуан",
+        "th": "บันทึกของนักผจญภัย Roald - Yaoguang Shoal",
+        "vi": "Nhật Ký Nhà Mạo Hiểm Roald - Dao Quang Đàm"
+    },
+    "id": 100228,
+    "materialDesc": {
+        "en": "A diary left behind by the famed adventurer, Roald. The pages smell like the sea breeze.",
+        "de": "Ein vom berühmten Abenteurer Roald zurückgelassenes Tagebuch. Die Seiten riechen nach Meerwasser.",
+        "chs": "著名冒险家罗尔德留下的日志，纸上有海风的味道。",
+        "cht": "著名冒險家羅爾德留下的日誌，紙上有海風的味道。",
+        "es": "Un diario escrito por el famoso aventurero Roald. Las páginas huelen a brisa marina.",
+        "fr": "Un journal laissé par le célèbre aventurier Roald. Les pages renvoient une odeur rappelant la brise marine.",
+        "id": "Buku harian peninggalan seorang petualang terkenal bernama Roald. Dari halamannya bisa tercium bau angin laut.",
+        "jp": "有名な冒険者ロアルドが残した日誌。海風の匂いがする。",
+        "kr": "유명 모험가 로알드가 남긴 일지. 종이에서 바다 내음이 난다",
+        "pt": "Um diário deixado para trás por um aventureiro, Roald. As páginas possuem o cheiro da brisa do mar.",
+        "ru": "Дневник искателя приключений Роальда, оставленный в походном лагере. Страницы пахнут морем.",
+        "th": "บันทึกประจำวันของนักผจญภัยผู้โด่งดัง Roald กระดาษมีกลิ่นเหมือนลมทะเล",
+        "vi": "Nhật ký được Nhà Mạo Hiểm nổi tiếng Roald để lại, trên giấy có mùi vị của gió biển."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heavy Key",
+        "de": "Schwerer Schlüssel",
+        "chs": "沉重的钥匙",
+        "cht": "沉重的鑰匙",
+        "es": "Llave pesada",
+        "fr": "Clé lourde",
+        "id": "Kunci yang Berat",
+        "jp": "重い鍵",
+        "kr": "묵직한 열쇠",
+        "pt": "Chave Pesada",
+        "ru": "Тяжёлый ключ",
+        "th": "กุญแจที่หนักอึ้ง",
+        "vi": "Chìa Khóa Nặng Nề"
+    },
+    "id": 101584,
+    "materialDesc": {
+        "en": "A key that feels heavy in your hand. What door will it open?",
+        "de": "Ein Schlüssel, der sich ein bisschen schwer anfühlt. Welche Tür kann er öffnen?",
+        "chs": "入手感觉有些沉重的钥匙。不知道能用来开哪一扇门…",
+        "cht": "入手感覺有些沉重的鑰匙。不知道能用來開哪一扇門…",
+        "es": "Una llave que resulta algo pesada al levantarla. ¿Qué puerta abrirá?",
+        "fr": "Une clé qui pèse lourd. Quelle porte ouvre-t-elle ?",
+        "id": "Kunci yang terasa berat saat dipegang. Entah kunci ini bisa membuka pintu di mana...",
+        "jp": "手に持った時少し重く感じる鍵。どの扉に使えるかは分からない…",
+        "kr": "손 위에 올려두니 묵직한 열쇠. 어떤 문을 열 수 있을까…",
+        "pt": "Uma chave pesada na mão. Não se sabe qual porta ela abre...",
+        "ru": "Ключ, который увесисто оттягивает руку. Какую дверь он откроет?",
+        "th": "กุญแจที่เมื่อถือแล้วรู้สึกหนักเล็กน้อย ไม่รู้ว่าจะใช้เปิดประตูบานไหนได้...",
+        "vi": "Chìa khóa cầm lên có vẻ hơi nặng. Không biết dùng để mở cánh cửa nào..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

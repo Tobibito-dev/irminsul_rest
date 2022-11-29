@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Adventurer's Special Supply Bundle",
+        "de": "Sonderhilfsgüterpaket",
+        "chs": "冒险特供补给包",
+        "cht": "冒險限定補給包",
+        "es": "Paquete especial de suministros del aventurero",
+        "fr": "Pack de ravitaillement spécial de l'aventurier",
+        "id": "Adventurer's Special Supply Bundle",
+        "jp": "冒険限定補給パック",
+        "kr": "모험 특별 보급 패키지",
+        "pt": "Pacote de Suprimentos Especial do Aventureiro",
+        "ru": "Специальный набор приключенца",
+        "th": "แพ็กเกจพิเศษสำหรับการผจญภัย",
+        "vi": "Túi Tiếp Tế Mạo Hiểm Đặc Biệt"
+    },
+    "id": 115030,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_CHEST"
+}

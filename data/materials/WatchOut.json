@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Watch Out!",
+        "de": "„Vorsicht!“",
+        "chs": "「小心！」",
+        "cht": "「小心！」",
+        "es": "Carta amenazante",
+        "fr": "Attention !",
+        "id": "Hati-hati!",
+        "jp": "「気をつけろ！」",
+        "kr": "「조심해!」",
+        "pt": "\"Cuidado!\"",
+        "ru": "«Осторожно!»",
+        "th": "\"ระวัง!\"",
+        "vi": "Cẩn thận!"
+    },
+    "id": 100763,
+    "materialDesc": {
+        "en": "A threatening letter of unknown origin. You can barely make heads or tails out of it, but yet it seems to also conceal some deeper meaning...",
+        "de": "Ein Drohbrief von unbekannter Herkunft. Man kann sich kaum einen Reim darauf machen, und doch scheint sich darin auch eine tiefere Bedeutung zu verbergen ...",
+        "chs": "来历不明的恐吓信。内容没头没尾，又似乎意有所指。",
+        "cht": "來歷不明的恐嚇信。內容沒頭沒尾，又似乎意有所指。",
+        "es": "Una carta amenazante de origen desconocido. El contenido es muy confuso, pero parece que oculta un significado más profundo.",
+        "fr": "Message d'avertissement à l'origine inconnue. Difficile d'en tirer quoi que ce soit, bien qu'il semble cacher un sens plus profond...",
+        "id": "Surat bernada ancaman yang tidak diketahui asalnya. Sulit ditemukan di manakah bagian awal dan ujungnya, tapi surat ini tampaknya menyembunyikan beberapa pesan yang lebih mendalam...",
+        "jp": "得体の知れない脅迫状。一見無意味な内容に見えるが、何か重要なことが隠されてるかも。",
+        "kr": "출처 불명의 협박장. 알 수 없는 내용 속에 또 다른 의미가 숨겨져 있는 듯하다",
+        "pt": "Uma carta ameaçadora de origem desconhecida. Você consegue entender o que ela quer dizer, mas ela também parece esconder algum significado mais profundo.",
+        "ru": "Письмо с угрозами неизвестного происхождения. Содержание очень сбивает с толку, но, кажется, скрывает более глубокий смысл.",
+        "th": "จดหมายขู่ที่ไม่ทราบที่มาชัดเจน เนื้อหาไม่มีขึ้นต้นลงท้าย แต่ดูเหมือนจะมีความหมายเจาะจงอยู่",
+        "vi": "Thư đe dọa nặc danh. Nội dung không đầu không đuôi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

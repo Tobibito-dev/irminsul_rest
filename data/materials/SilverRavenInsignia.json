@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Silver Raven Insignia",
+        "de": "Krähenwappen der Silberschätze",
+        "chs": "藏银鸦印",
+        "cht": "藏銀鴉印",
+        "es": "Insignia de cuervo plateada",
+        "fr": "Insigne de corbeau en argent",
+        "id": "Silver Raven Insignia",
+        "jp": "シルバーの鴉マーク",
+        "kr": "실버 까마귀 휘장",
+        "pt": "Insígnia do Corvo Prateado",
+        "ru": "Печать серебряного ворона",
+        "th": "Silver Raven Insignia",
+        "vi": "Ấn Quạ Bạc Ẩn"
+    },
+    "id": 112036,
+    "materialDesc": {
+        "en": "A raven insignia used by members of the Treasure Hoarders to identify each other. The Treasure Hoarders ask for no resume. Anyone who has an insatiable desire for treasure and is backed up by an equal amount of courage can become a worthy member.",
+        "de": "Ein Krähenwappen, mit dem sich die Schatzräuber gegenseitig erkennen. Bei den Schatzräubern ist es egal, wo man herkommt oder wer man ist, solange man mit ganzem Herzen bei der Sache ist. Wer bereit ist, alles dafür zu geben, an die Schätze dieser Welt zu gelangen, kann ein großartiger Schatzräuber werden.",
+        "chs": "盗宝团的成员用于相互辨识的乌鸦纹章。盗宝团不问出身，无论何者，只要怀着贪求宝藏的心，有铤而走险的胆识，都可以成为「优秀」的成员。",
+        "cht": "盜寶團的成員用於相互辨識的烏鴉紋章。盜寶團不問出身，無論何者，只要懷著貪求寶藏的心，有鋌而走險的膽識，都可以成為「優秀」的成員。",
+        "es": "Una insignia de cuervo utilizada por los miembros de los Ladrones de Tesoros para identificarse entre sí. Los Ladrones de Tesoros no preguntan por los orígenes de sus miembros. Cualquiera que tenga un deseo insaciable por encontrar tesoros y sea lo suficientemente audaz puede convertirse en un miembro digno.",
+        "fr": "Un insigne en forme de corbeau porté par les Pilleurs de trésors pour se reconnaître entre eux. Pas besoin d'entretien pour adhérer à leur groupe, tant qu'on est suffisamment motivé par le gain et que le courage ne nous fait pas défaut.",
+        "id": "Lencana gagak yang digunakan oleh anggota Treasure Hoarder untuk mengenali satu sama lain. Para Treasure Hoarder tidak memerlukan surat lamaran. Siapa pun yang memiliki hasrat untuk mendapatkan harta dan keberanian layak menjadi anggotanya.",
+        "jp": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
+        "kr": "보물 사냥단 멤버들이 서로를 식별하기 위해 사용하는 까마귀 문양. 출신에 상관없이, 보물을 탐하는 마음과 위험을 무릅쓸 담력이 있다면 누구나 보물 사냥단의 「우수」 멤버가 될 수 있다",
+        "pt": "Uma insígnia de corvo usada pelos membros dos Ladrões de Tesouro para se identificar. Os Ladrões de Tesouro não pedem currículo. Qualquer pessoa que tenha um desejo insaciável por tesouros e coragem equiparável pode se tornar um membro digno.",
+        "ru": "Символ ворона, используемый членами банды Похитителей сокровищ для идентификации друг друга. Похитители сокровищ не спрашивают резюме. Любой, у кого есть непреодолимая жажда сокровищ, подкреплённая не меньшим количеством храбрости, может стать достойным членом банды.",
+        "th": "ตราสัญลักษณ์ที่สมาชิกของกองโจรล่าสมบัติใช้เพื่อแสดงตัวซึ่งกันและกัน กองโจรล่าสมบัติไม่ถามถึงเรซูเม่ใดๆ ใครก็ตามที่มีความโลภและมีความกล้าหาญสามารถกลายเป็นสมาชิกที่คู่ควรได้",
+        "vi": "Huân chương quạ đen được thành viên của Đạo Bảo Đoàn sử dụng để nhận biết lẫn nhau. Đạo Bảo Đoàn không hỏi xuất thân, bất kể là ai chỉ cần có lòng ham tìm bảo vật, dám mạo hiểm, đều có thể trở thành thành viên \"ưu tú\"."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

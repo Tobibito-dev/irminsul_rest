@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kujou Sara",
+        "de": "Kujou Sara",
+        "chs": "九条裟罗",
+        "cht": "九條裟羅",
+        "es": "Kujou Sara",
+        "fr": "Kujou Sara",
+        "id": "Kujou Sara",
+        "jp": "九条裟羅",
+        "kr": "쿠죠 사라",
+        "pt": "Kujou Sara",
+        "ru": "Кудзё Сара",
+        "th": "Kujou Sara",
+        "vi": "Kujou Sara"
+    },
+    "id": 1056,
+    "materialDesc": {
+        "en": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+        "de": "Eine Generalin der „Tenryou-Verwaltung“, kühn, entschlossen und geschickt im Kampf.",
+        "chs": "「天领奉行」的大将，杀伐果断，骁勇善战。",
+        "cht": "「天領奉行」的大將，殺伐果斷，驍勇善戰。",
+        "es": "La general de la Comisión Tenryou. Es una persona audaz, firme y muy buena en combate.",
+        "fr": "Une générale de la Commission administrative. Audacieuse, décisive et habile au combat.",
+        "id": "Seorang jenderal di Tenryou Commission. Sifatnya berani, tegas, dan sangat pandai bertarung.",
+        "jp": "「天領奉行」の大将。果敢かつ勇猛である。",
+        "kr": "「텐료 봉행」의 대장. 대담하고 결단력 있으며 용맹하고 전투에 능하다",
+        "pt": "Um general da Comissão Tenryou. Audacioso, decisivo e habilidoso na batalha.",
+        "ru": "Действующий генерал комиссии Тэнрё. Сурова, решительна и отважна в бою.",
+        "th": "นายพลแห่งสำนัก Tenryou เด็ดเดี่ยว กล้าหาญ และเชี่ยวชาญในการต่อสู้",
+        "vi": "Đại tướng đương nhiệm của Hiệp Hội Tenryou. Sát phạt quyết đoán, anh dũng thiện chiến."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

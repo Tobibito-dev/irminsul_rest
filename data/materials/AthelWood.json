@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Athel Wood",
+        "de": "Athel-Holz",
+        "chs": "柽木",
+        "cht": "檉木",
+        "es": "Madera de tamarisco",
+        "fr": "Bois de tamaris Athel",
+        "id": "Athel Wood",
+        "jp": "タマリスク材",
+        "kr": "에셀나무 원목",
+        "pt": "Madeira de Tamarisco",
+        "ru": "Тамариск",
+        "th": "ไม้ Athel",
+        "vi": "Gỗ Sanh"
+    },
+    "id": 101317,
+    "materialDesc": {
+        "en": "Wood of the Athel Tree. It has a special texture and is resilient to both drought and humidity, making it very durable.\\nCan be used to create furnishings.",
+        "de": "Das Holz des Athel-Baums. Es hat eine besondere Textur, die ihm erlaubt, sowohl Trockenheit als auch Feuchtigkeit lange unbeschadet zu überstehen, es ist ausgesprochen langlebig.\\nKann zur Herstellung von Dekoration verwendet werden.",
+        "chs": "产自「柽树」的木材，质地特别，能够同时抵抗干旱和潮湿，极耐衰损。\\n可用于制作摆设。",
+        "cht": "產自「檉樹」的木材，質地特別，能夠同時抵抗乾旱和潮濕，極耐衰損。\\n可用於製作擺設。",
+        "es": "Madera obtenida de tamariscos. Posee una textura de lo más particular y puede resistir climas secos y húmedos, por lo que suele perdurar durante largos periodos de tiempo.\\nPuede utilizarse para fabricar decoraciones.",
+        "fr": "Bois obtenu à partir de tamaris Athel. Il a une texture particulière et résiste à la sécheresse et à l'humidité, ce qui le rend très durable.\\nPeut être utilisé pour fabriquer des décorations.",
+        "id": "Kayu Pohon Athel. Memiliki tekstur khusus dan tahan terhadap kekeringan dan kelembapan, sehingga menjadikannya sangat tahan lama.\\nDapat digunakan untuk membuat perabotan.",
+        "jp": "「タマリスク」から生産される木材。特別な質感がある。乾燥にも湿気にも強く、劣化に極めて強い。\\n調度品の製作に使うことができる。",
+        "kr": "「에셀나무」에서 얻어낸 목재. 재질이 특별하고 가뭄과 습기를 견딜 수 있어 쉽게 훼손되지 않는다.\\n장식 제작용으로 사용할 수 있다",
+        "pt": "Madeira da \"Árvore de Tamarisco\". Com uma textura especial, ela pode resistir tanto à seca como à umidade, e é extremamente resistente ao apodrecimento. \\nPode ser usada para fazer Decorações.",
+        "ru": "Древесина, полученная из тамариска. Материал, устойчивый одновременно к сухости и влаге, что делает его невероятно долговечным.\\nСлужит для изготовления декора.",
+        "th": "ไม้ที่ได้จาก \"ต้น Athel\" มีเนื้อสัมผัสที่ค่อนข้างพิเศษ ทนทานต่อความร้อนและความชื้น รวมถึงการผุกร่อนได้ดีมาก\\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+        "vi": "Gỗ từ Cây Sanh, kết cấu đặc biệt có thể chống cả khô và ẩm, chống mục nát cực kỳ tốt.\\nCó thể sử dụng để làm đồ trang trí."
+    },
+    "materialType": "MATERIAL_WOOD"
+}

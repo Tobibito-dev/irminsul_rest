@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Fish Scales",
+        "de": "Frische Fischschuppen",
+        "chs": "新鲜的鱼鳞",
+        "cht": "新鮮的魚鱗",
+        "es": "Escamas frescas",
+        "fr": "Écailles de poisson fraîches",
+        "id": "Sisik Ikan Segar",
+        "jp": "新鮮なうろこ",
+        "kr": "신선한 생선 비늘",
+        "pt": "Escamas Frescas de Peixe",
+        "ru": "Свежая чешуя",
+        "th": "เกล็ดปลาสด",
+        "vi": "Vảy Cá Tươi"
+    },
+    "id": 100828,
+    "materialDesc": {
+        "en": "The fresh scales of a fish. One wonders what Diona might do with it...",
+        "de": "Frische Fischschuppen. Wer weiß, was Diona damit vorhat ...",
+        "chs": "新鲜的鱼鳞。不知道迪奥娜会用来做什么…",
+        "cht": "新鮮的魚鱗。不知道迪奧娜會用來做什麼…",
+        "es": "Escamas frescas de pescado. ¿Para qué las querrá Diona?",
+        "fr": "Les écailles fraîches d'un poisson. C'est à se demander ce que Diona va faire avec...",
+        "id": "Sisik segar seekor ikan. Entah apa yang akan Diona lakukan dengan benda itu...",
+        "jp": "新鮮な魚のうろこ。ディオナが何に使うのかは分からない…",
+        "kr": "신선한 생선 비늘. 디오나가 이걸로 뭘 하려는 건지 모르겠다…",
+        "pt": "As escamas frescas de um peixe. Imagina-se o que Diona poderia fazer com elas...",
+        "ru": "Свежая рыбья чешуя. Интересно, на что она Дионе?..",
+        "th": "เกล็ดปลาสด ไม่รู้ว่า Diona จะเอามันมาทำอะไรกันนะ?",
+        "vi": "Vảy cá tươi roi rói, không biết Diona sẽ dùng để làm gì nhỉ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

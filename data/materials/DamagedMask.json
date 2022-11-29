@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Damaged Mask",
+        "de": "Zerbrochene Maske",
+        "chs": "破损的面具",
+        "cht": "破損的面具",
+        "es": "Máscara dañada",
+        "fr": "Masque endommagé",
+        "id": "Damaged Mask",
+        "jp": "破損した仮面",
+        "kr": "부서진 가면",
+        "pt": "Máscara Danificada",
+        "ru": "Разбитая маска",
+        "th": "Damaged Mask",
+        "vi": "Mặt Nạ Vỡ"
+    },
+    "id": 112005,
+    "materialDesc": {
+        "en": "A broken bone mask that once belonged to some hilichurl.\\nNow more broken than complete, it can no longer perform its primary function.",
+        "de": "Eine zerbrochene Maske von Hilichurlen, gemacht aus Knochen.\\nKaum etwas an ihr ist noch ganz, sodass sie ihren Zweck nicht mehr erfüllen kann.",
+        "chs": "破碎的骨质面具，曾经属于某个丘丘人。\\n破损的部分比完整的部分更多，已经失去了假面应有的功能。",
+        "cht": "破碎的骨質面具，曾經屬於某個丘丘人。\\n破損的部分比完整的部分更多，已經失去了假面應有的功能。",
+        "es": "Máscara de huesos dañada que perteneció a algún Hilichurl.\\nHay más piezas dañadas que intactas, por lo que ha perdido totalmente su utilidad.",
+        "fr": "Un masque en os fissuré qui a appartenu à un Brutocollinus.\\nIl est tellement endommagé qu'on ne peut plus vraiment appeler ça un masque.",
+        "id": "Topeng tulang retak yang tadinya milik seorang Hilichurl.\\nLebih banyak retaknya daripada tidak, yang berarti sudah tidak berguna untuk fungsi utamanya.",
+        "jp": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
+        "kr": "부서진 골질 마스크. 예전부터 츄츄족이 써오던 마스크.\\n부서진 곳이 멀쩡한 곳보다 많아 가면의 기능을 거의 상실했다",
+        "pt": "Máscara de Ossos quebrada que pertencia a algum Hilichurl.\\nHá mais partes danificadas do que intactas, perdendo totalmente a sua utilidade.",
+        "ru": "Разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. Разбита на мелкие осколки, поэтому не может выполнять свою основную функцию.",
+        "th": "หน้ากากที่ทำจากกระดูกชิ้นนี้ เดิมทีเป็นของพวก Hilichurl \\nแต่เนื่องจากได้รับความเสียหาย จำนวนมาก เลยทำให้ไม่สามารถใช้งานตามหน้าที่ของมันได้อีก",
+        "vi": "Mặt nạ từ xương bị vỡ, từng thuộc về Hilichurl.\\nPhần bị hỏng nhiều hơn phần còn nguyên, đã mất đi tính năng vốn có của mặt nạ."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

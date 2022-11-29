@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Almond Tofu",
+        "de": "Besonderer Mandeltofu",
+        "chs": "特制的杏仁豆腐",
+        "cht": "特製的杏仁豆腐",
+        "es": "Tofu de almendras especial",
+        "fr": "Tofu aux amandes spécial",
+        "id": "Almond Tofu Spesial",
+        "jp": "特製杏仁豆腐",
+        "kr": "특제 행인두부",
+        "pt": "Tofu de Amêndoas Especial",
+        "ru": "Особый миндальный тофу",
+        "th": "Almond Tofu สูตรพิเศษ",
+        "vi": "Đậu Hũ Hạnh Nhân Đặc Biệt"
+    },
+    "id": 100665,
+    "materialDesc": {
+        "en": "A newly-made serving of Almond Tofu. It looks very delicious indeed.",
+        "de": "Frisch zubereiteter Mandeltofu. Sieht wirklich richtig gut aus ...",
+        "chs": "刚刚做好的杏仁豆腐。看上去非常不错…",
+        "cht": "剛剛做好的杏仁豆腐。看上去非常不錯…",
+        "es": "Un tofu de almendras recién hecho. ¡Qué buena pinta!",
+        "fr": "Un tofu aux amandes fraîchement préparé. Un délice ! Et pas seulement pour les yeux...",
+        "id": "Seporsi Almond Tofu yang baru dibuat. Memang terlihat sangat lezat.",
+        "jp": "完成したばかりの杏仁豆腐。美味しそうな見た目だ…",
+        "kr": "방금 만든 행인두부, 아주 맛있어 보인다…",
+        "pt": "Um Tofu de Amêndoa feito na hora. Parece muito bom...",
+        "ru": "Только что приготовленный миндальный тофу. Выглядит очень аппетитно...",
+        "th": "Almond Tofu ที่เพิ่งทำเสร็จ ดูแล้วไม่เลวเลยทีเดียว...",
+        "vi": "Đậu Hũ Hạnh Nhân vừa được làm xong. Trông khá bắt mắt..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

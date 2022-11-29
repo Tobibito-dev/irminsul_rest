@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Skyward Harp",
+        "de": "Himmelsflügel",
+        "chs": "天空之翼",
+        "cht": "天空之翼",
+        "es": "Alas Celestiales",
+        "fr": "Ailes de la Voûte d'Azur",
+        "id": "Skyward Harp",
+        "jp": "天空の翼",
+        "kr": "천공의 날개",
+        "pt": "Harpa Celestial",
+        "ru": "Небесное крыло",
+        "th": "Skyward Harp",
+        "vi": "Cánh Thiên Không"
+    },
+    "id": 15501,
+    "type": "WEAPON_BOW",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 47.5369987487793
+        },
+        {
+            "type": "FIGHT_PROP_CRITICAL",
+            "value": 0.04800000041723251
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.090999960899353,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1829999685287476,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.274999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3680000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4609999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5540000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7430000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8370000123977661,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9329999685287476,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0280001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2200000286102295,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.316999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4140000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.510999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6080000400543213,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7060000896453857,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.803999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9030001163482666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.002000093460083,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1010000705718994,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.200000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.299999952316284,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4000000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6010000705718994,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7009999752044678,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.802999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9040000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.10699987411499,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.209000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.311999797821045,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.414000034332275,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.517000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7230000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.827000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.931000232696533,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.034999847412109,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.138999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.243000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.3480000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.558000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.663000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.76800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.874000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.980000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.085999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.191999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.298999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.406000137329102,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.513000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.7270002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.835000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.941999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.050000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.1579999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.267000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.375,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.484000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.5920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.701000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.810999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.029999732971191,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.138999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.24899959564209,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.359000205993652,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.470000267028809,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.579999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.690999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.802000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.913000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.02400016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.135000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.246999740600586,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.357999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.470000267028809,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.581999778747559,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.694000244140625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.807000160217285,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.918999671936035,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.031999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.145000457763672,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.258000373840332,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.371000289916992,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.484999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.597999572753906,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.711999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.826000213623047,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.9399995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.053999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.168000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.282999992370605,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.397000312805176,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CRITICAL",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 15501,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114005,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 5
+                },
+                {
+                    "id": 112011,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 5
+                },
+                {
+                    "id": 112020,
+                    "count": 18
+                },
+                {
+                    "id": 112011,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114006,
+                    "count": 9
+                },
+                {
+                    "id": 112021,
+                    "count": 9
+                },
+                {
+                    "id": 112012,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 5
+                },
+                {
+                    "id": 112021,
+                    "count": 18
+                },
+                {
+                    "id": 112012,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114007,
+                    "count": 9
+                },
+                {
+                    "id": 112022,
+                    "count": 14
+                },
+                {
+                    "id": 112013,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 15501,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114008,
+                    "count": 6
+                },
+                {
+                    "id": 112022,
+                    "count": 27
+                },
+                {
+                    "id": 112013,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
+        "de": "Ein großer Bogen, der die Zusammengehörigkeit von Dvalin und dem Archon des Windes symbolisiert. Der Klang beim Loslassen der Sehne ist wie Musik in den Ohren des Archons und enthält die Kraft von Himmel und Wind.",
+        "chs": "象征风龙身为风之神眷属的大弓。释弦时的鸣声是风之神的偏爱，蕴含苍空与长风的力量。",
+        "cht": "象徵風龍身為風之神眷屬的大弓。釋弦時的鳴聲是風之神的偏愛，蘊含蒼空與長風的力量。",
+        "es": "Un gran arco que simboliza el vínculo entre Stormterror y Barbatos. El sonido del disparo del arco es música para los oídos del Dios del Viento. Contiene el poder del cielo y del viento en su interior.",
+        "fr": "Un grand arc qui symbolise l'affiliation de Dvalin à Barbatos. Fort de la puissance du ciel et du vent, le son qu'il produit lors de la libération de la flèche est une vraie musique aux oreilles de l'Archon Anémo.",
+        "id": "Busur besar yang melambangkan hubungan erat antara Dvalin dan Archon Anemo. Suara yang ditimbulkan busur ini bagaikan musik di telinga Archon Anemo, di dalamnya terdapat kekuatan angin dan angkasa.",
+        "jp": "風龍が風の神の眷属であることを象徴する大弓。矢を放つ音は風の神の偏愛であり、蒼空と長風の力が秘められている。",
+        "kr": "풍룡이 바르바토스의 권속임을 상징하는 큰 활. 바람의 신은 활시위를 놓을 때 울리는 소리를 아주 좋아한다. 푸른 하늘과 바람의 힘을 지니고 있다",
+        "pt": "Um grande arco que simboliza o vínculo entre Dvalin e o Arconte Anemo. O som do disparo das flechas é como música para os ouvidos do Arconte do Vento. Contém poderes dos céus e do vento.",
+        "ru": "Длинный лук, символ дружбы между Двалином и Анемо Архонтом. Звук спущенной тетивы исполнен любовью Анемо Архонта, питающей его силой небес и ветров.",
+        "th": "ธนูใหญ่ที่เป็นเหมือนตัวแทนของ Dvalin และเทพแห่งลมผู้เป็นเจ้าของเดิม เสียงที่เกิดขึ้นเมื่อยิงศรเป็นดั่งเสียงเพลงเมื่อเทพแห่งลมได้ฟัง มันมีพลังของท้องฟ้าและสายลมอยู่ด้วย",
+        "vi": "Cung tượng trưng cho Phong Long và Phong Thần. Âm thanh phát ra khi kéo dây cung giống như tình yêu của thần, ẩn chứa sức mạnh từ gió và bầu trời."
+    },
+    "flavor": {
+        "en": "\nThe sky-piercing lyre.\nThe clear tunes of this lyre still echo in the hearts of the people and in the winds.\nIt is said that the ancient evil dragon from the abyss was enticed here by its tunes.\n\nIn ancient times, Barbatos softly strummed his lyre and summoned the pure thousand winds and songs.\nCharmed by the free-spirited winds and songs, Dvalin the high dragon descended and swore loyalty to him.\nBarbatos rejoiced in making a new friend, and entrusted the people of Mondstadt to Dvalin.\nAnd so, the wandering Anemo Archon and the Wind Dragon forged Mondstadt's dawn with their friendship.\n\nThe flowing tunes of the lyre halted the shadow dragon's attack in the final battle,\nGranting Dvalin the chance to end the shadow dragon's poisonous reign.\n\nEons after the winds sang and the vicious battle ended, Dvalin awoke from his long slumber.\nBut gone was his master, and instead he was met by the poisonous whispers of the Abyss Order.\nUnseen pain. Unheard torture.\nAn all-engulfing sorrow crushed the poisoned Dvalin's spirit.\n\nDvalin turned on what he had vowed to protect,\nAnd accused the one to whom he had sworn loyalty:\n\"Indifferent is Barbatos to my pain! A careless friend is he!\"\n\"Curse you, Barbatos, cruelest of the Archons!\"\n\nThe furious friend knew not that Barbatos sought to save him.\nFor many fond memories may have been quashed by Dvalin's anguish, but not that of Barbatos' lyre. The Holy Lyre der Himmel.\nSoon, centuries of misunderstanding shall be gone.\nSoon, Dvalin shall hear once more his songs.\n",
+        "de": "\nHimmel durchbohrende Leier.\nDer klare Klang der Melodie seiner Leier hallt heute noch in den Herzen der Menschen und im Flüstern des Windes wider.\nMan erzählt, dass der böse Drache von dieser Musik angelockt wurde.\n\nIn der alten Welt spielte der Gott des Windes Barbatos die Leier, um die Winde zu steuern.\nAngetan von den freien Winden und Liedern stieg Dvalin herab und schwor ihm seine Treue.\nBarbatos war glücklich über einen neu gefundenen Freund und vertraute den Schutz Mondstadts Dvalin an.\nUnd so formten der Anemo-Archon und der Winddrache nicht nur eine Freundschaft, sie sorgten für einen Neubeginn Mondstadts.\n\nAls der Kampf sich bereits in der Endphase befand, hielt der Klang der Leier den Angriff des bösen Drachen zurück.\nDvalins einmalige Gelegenheit, das Wirken des bösen Drachen zu beenden, war endlich gekommen.\n\nNach der Schlacht der Tausend Winde erwachte Dvalin endlich aus seinem langen Schlaf.\nSein alter Freund und Meister war jedoch verschwunden. Stattdessen empfing ihn das giftige Flüstern der Abgrundmagier.\nUnsichtbare Schmerzen und stille Folter musste er erleiden.\nDvalins Geist und Seele waren von unglaublicher Traurigkeit gebrochen worden.\n\nDvalin wandte sich gegen alles, das zu beschützen er einst geschworen hatte.\nEinen Schuldigen fand er in dem, dem er einst die Treue schwor.\nEr klagte ihn an, sein Leid tatenlos angesehen zu haben,\nein Gott, der seine eigene Familie vernachlässigt und betrogen hat.\n\nBarbatos wusste jedoch nicht vom Schmerz seines Freundes und eilte trotzdem zu seiner Rettung.\nViele Erinnerungen wurden von dem aufkommenden Hass erschüttert, nicht jedoch die an den Klang der heiligen Leier.\nJahrhunderte alte Missverständnisse werden bald beseitigt sein.\nEr soll bald wieder seine Lieder hören.\n",
+        "chs": null,
+        "cht": "\n通透高天之琴。\n據說，如今的風與人們的心中，仍迴響著無比清澈的琴聲。\n傳說深邃古國的魔龍來到風之國，是因為憧憬這樣的樂聲。\n\n在古時，風之神巴巴托斯輕撫豎琴，喚來純淨的千風與歌。\n為不羈的風與歌所沉醉，巨龍特瓦林降落大地，向他效忠。\n巴巴托斯為結交新的夥伴而喜悅，便委託他守護蒙德眾生。\n於是，流浪的風神與風之龍，在友誼中成就了蒙德的黎明。\n\n在過去，在戰鬥的最後，是顫動的琴聲讓魔龍停止了攻擊，\n高天的風之龍因此得到了一瞬的機會，終結了魔龍的流毒。\n\n千風流轉的惡戰後，高天之龍終從漫長的長眠醒轉。\n眼前不見往日眷主，耳中卻灌滿了深淵傳道者的毒。\n那是視而不見的痛苦，是聽而不聞的摧殘。\n毀滅一切的悲傷，壓垮了身染劇毒的風龍。\n\n風龍向自己曾經守護的一切發洩苦痛，\n也對曾效忠的風之神發出惡毒的控訴：\n控訴他對苦難的漠然，控訴他的無心，\n詛咒他身為神主，卻無情背叛了眷屬。\n\n但悲憤的眷屬並不明瞭，風神依舊為拯救他而奔走。\n仇怨壓倒了懷念之情，象徵主神的豎琴卻仍在思慕。\n百年的誤會終將消除。\n它終重又聽見他的歌。\n",
+        "es": "\nUna lira capaz de perforar el mismo firmamento.\nSus límpidas melodías aún resuenan en los vientos y los corazones de las personas.\nSe dice que sus canciones atrajeron al Reino del Viento al antiguo dragón malvado del abismo.\n\nEn la antigüedad, Barbatos tocó la lira e invocó a los inmaculados mil vientos y canciones.\nEncantado por ambos, Dvalin, el gran dragón, descendió y le juró lealtad.\nBarbatos se regocijó al hacer un nuevo amigo y encargó a Dvalin proteger al pueblo de Mondstadt.\nEntonces, el errante Arconte Anemo y el Dragón del Viento forjaron el amanecer de Mondstadt con su amistad.\n\nLas vibrantes melodías de la lira detuvieron el ataque del dragón de la sombra en la última batalla,\notorgando a Dvalin la oportunidad de poner fin a su terrible reinado.\n\nEones después del canto de los vientos y de la feroz batalla, Dvalin se despertó de su letargo.\nSu maestro ya no estaba, y sus oídos se llenaron de los tóxicos rumores de la Orden del Abismo.\nPara el dragón, esto era como un dolor invisible y una tortura que nadie escuchaba.\nEsta terrible tristeza fue lo que acabó con el envenenado Dvalin.\n\nDvalin descargó su dolor sobre aquello que prometió proteger\ny lanzó acusaciones al Arconte de los Vientos, a quien una vez juró lealtad.\nLo acusó por mostrarse indiferente ante su dolor y por descuidar su amistad.\nTambién lo injurió por haberlo traicionado con crueldad cuando debía haberse comportado como un verdadero Arconte.\n\nEl furioso dragón desconocía que Barbatos hizo todo lo que pudo para salvarlo.\nSu anhelo se sumergió en la sed de venganza, pero no en der Himmel, la lira de Barbatos.\nLos malentendidos de tantos siglos terminaron disipándose,\ny Dvalin volvió a escuchar las canciones del Arconte.\n",
+        "fr": "\nLa lyre qui transcende les cieux.\nLe son clair de cette lyre résonne encore dans le vent et dans le cœur des gens.\nOn raconte que même l'ancien et maléfique dragon fut attiré par ses mélodies.\n\nIl y a bien longtemps de cela, Barbatos, pinçant sa lyre, invoquait les mille vents et chansons.\nDvalin le dragon, charmé par les chansons libres comme la brise, descendit des cieux et lui jura fidélité.\nSe réjouissant de compter un nouvel ami, Barbatos confia le peuple de Mondstadt à Dvalin.\nEt c'est ainsi que dans l'amitié de l'Archon Anémo et du Dragon des Vents naquit l'aube pour Mondstadt.\n\nLes mélodies de la lyre harcelèrent le démon dragon lors du combat final ;\net ainsi Dvalin put-il mettre fin à son règne.\n\nBien des années après que le terrible combat soit oublié, Dvalin vint à s'éveiller de son long sommeil.\nMais son maître il ne trouva point ; à sa place l'accueillirent les murmures empoisonnés de l'Abîme.\nTrop forte fut la douleur, trop cruel était le sort.\nEt un sombre désespoir emplit l'esprit corrompu de Dvalin.\n\nDvalin se retourna contre ceux qu'il avait jadis juré de protéger ;\net accusant celui à qui il avait juré fidélité, en ces termes terribles il parla :\n« À ma douleur Barbatos est indifférent ; que tous voient sa vraie nature ! »\n« Qu'à jamais il soit maudit, lui le plus cruel des Archons ! »\n\nLas ! Le dragon ignore que son ancien ami cherche à le sauver.\nOr si nombre de souvenirs chéris ont péri sous les coups de l'aveugle colère de Dvalin, ceux de la mélodie de la lyre demeurent toujours.\nBientôt viendra l'heure de la fin des différends.\nBientôt Dvalin entendra à nouveau sa chanson.\n",
+        "id": "\nLira yang menembus angkasa.\nSuara jernih dari lira ini masih bergena di dalam hati orang-orang dan angin.\nLegenda mengatakan bahwa naga jahat dari kerajaan kuno di dalam jurang datang ke kerajaan angin karena terpikat oleh musiknya.\n\nPada zaman dahulu, Barbatos memetik liranya dan memanggil ribuan angin suci dan berbagai nyanyian.\nTerpesona oleh jiwa bebas dari angin dan nyanyian, Dvalin sang naga yang agung turun dan mengabdikan diri untuknya.\nBarbatos bahagia karena mendapat teman baru, dan memercayakan rakyat Mondstadt kepada Dvalin.\nSang Anemo Archon dan Naga Angin membentuk Mondstadt bersama seiring dengan persahabatan mereka.\n\nAliran melodi lira menghentikan serangan naga bayangan di pertarungan terakhir.\nMemberikan kesempatan kepada Dvalin untuk mengakhiri racun dari naga bayangan yang kejam itu.\n\nRibuan tahun setelah angin bernyanyi dan pertarungan sengit berakhir, Dvalin terbangun dari tidur panjangnya.\nNamun tuannya telah tiada, dan dia mendengar bisikan-bisikan jahat dari Abyss Order.\nSakit yang tak terlihat, siksaan yang tak terdengar.\nPenderitaan yang terus menyelimutinya menghancurkan jiwa Dvalin.\n\nDvalin melampiaskan rasa sakitnya kepada semua yang pernah dijaganya,\nDia juga menuduh Dewa Angin yang tadinya dia bersumpah untuk setia kepadanya:\nMenuduhnya tak peduli pada penderitaan, menuduhnya teman yang acuh.\nMengutuknya sebagai Dewa yang paling kejam daripada Archon.\n\nTeman yang penuh dengan amarah itu tidak tahu bahwa Barbatos berusaha menyelamatkannya.\nBanyak kenangan indah mungkin telah terhapus karena kesedihan Dvalin, namun tidak dengan lira milik Barbatos. The Holy Lyre der Himmel.\nKesalahpahaman seratus tahun pada akhirnya akan dihilangkan.\nSebentar lagi, Dvalin akan mendengar lagunya lagi.\n",
+        "jp": "\n天空を貫く琴。\nその透き通った琴の音は未だに風と人の心に響いている。\n伝説によれば、深邃古国の魔龍もその音に惹かれて風の国に来たらしい。\n\n昔、風の神バルバトスは竪琴を撫でるように奏で、無垢な千風と唄を唄った。\n不羈な風と歌に酔い、巨龍トワリンは大地に降り立ち、彼に忠誠を誓った。\nバルバトスは新しい仲間ができたことに喜び、モンドを護る使命をトワリンに託した。\n流れ者であった風神と風龍の絆により、黎明期のモンドを護った。\n\n伝説に残る一戦。最後は琴声によって魔龍の攻撃が一瞬止まった。\n風の龍はその一瞬の隙を狙い、魔龍を仕留めた。\n\n激闘の末、長い眠りについていた風龍が、ついに目を覚ました。\n風龍の前にバルバトスは現れず、龍の全身は毒に蝕まれていった。\nそれは見えない苦しみと聞こえない痛みだった。\n全てを壊せるほどの悲しみが、風龍を苦しめた。\n\n風龍は自分が護った人々に苦痛を告げた。\nかつて忠誠を誓った風の神に恨みを告げた。\n自分の苦しみを無視する冷酷さを、\n神でありながら、自らの眷属を容赦なく裏切ったことを。\n\n悲憤の眷属は知らなかった。風の神は未だ彼を救うために奔走していることを。\n憎しみの情に圧倒されたが、神の象徴である堅琴は未だに思慕の念を抱いている。\n百年の誤解は解ける。\n風龍は再び神の唄を聴ける日がやってくる。\n",
+        "kr": "\n하늘을 꿰뚫어 보는 하프\n바람과 사람들의 마음속에는 맑디 맑은 하프 소리가 여전히 울리고 있다고 한다.\n전설 속, 고대 국가의 마룡은 음악 소리를 동경해 바람의 나라에 왔다고 전해진다.\n\n먼 옛날, 바람 신 바르바토스는 부드러운 하프 연주로 깨끗한 바람과 노래를 불러왔다고 한다.\n자유로운 바람과 노래에 취해 땅으로 추락한 드래곤 드발린은 그에게 충성을 다했다고 한다.\n바르바토스는 새로운 친구가 생겨 기뻐했고 그에게 몬드의 백성들을 지켜달라 부탁했다.\n그리하여 방황하던 바람 신과 바람 드래곤은 우정 아래 몬드의 여명을 밝혔다.\n\n지난 최후의 전투에서 마룡의 공격을 멈추게 한 것은 떨리는 하프 소리였다.\n높은 하늘에 떠있는 바람 드래곤은 순간의 기회를 틈타 마룡을 멈추게 했다.\n\n폭풍이 불었던 치열한 전투에서 높은 하늘의 용은 마침내 긴 잠에서 깨어났다.\n그리운 주인은 보이지 않고, 귓속에는 심연 전도자의 독으로 가득 차 있었다.\n그건 보고도 알지 못하는 고통이자 듣도고 들리지 않는 타격이었다.\n이는 모든 슬픔을 억누르고 맹독에 잠식된 바람 드래곤을 쓰러뜨렸다.\n\n바람 드래곤은 자신이 수호했던 것들을 향해 괴로움을 표현했고\n충성을 바쳤던 바람 신을 향해 악을 호소했다.\n고난에 대한 그의 무관심과 무심함에 하소연했고\n자신의 권속을 무정하게 배반한 신을 저주했다.\n\n하지만 슬프고 분한 권속은 바람 신이 여전히 그를 구하기 위해 동분서주했다는 것을 이해하지 못한다.\n원한이 그리움을 억눌렀지만, 주신을 상징하는 하프를 여전히 그리워하고 있다.\n오랜 오해가 마침내 풀리고\n드래곤은 그의 노랫소리를 다시 들을 수 있게 되었다.\n",
+        "pt": "\nUma lira capaz de perfurar os céus.\nDiz-se que o som de lira ainda se ecoa nos ventos e nos corações do povo.\nDiz-se que o antigo dragão do mal do abismo foi atraído aqui por suas melodias.\n\nNo passado, Barbatos tocava a lira com muita suavidade, para chamar as brisas e canções.\nEncantado com os ventos e canções de espírito livre, Dvalin, o dragão gigante, desceu e jurou lealdade.\nBarbatos se alegrou por fazer um novo amigo, e lhe pediu para proteger o povo de Mondstadt.\nE assim, o errante Arconte Anemo e o Dragão do Vento forjaram o amanhecer de Mondstadt com sua amizade.\n\nNo final da batalha, foi o som flutuante que parou o dragão maligno.\nDvalin aproveitou a chance para pôr fim ao dragão do mal.\n\nMuitos anos depois que a terrível luta foi esquecida, Dvalin acordou de seu longo sono.\nMas ele não encontrou o seu mestre; em seu lugar o saudaram os murmúrios envenenados do Abismo.\nDor invisível. Tortura inaudita.\nUma tristeza envolvente esmagou o espírito envenenado de Dvalin.\n\nO Dvalin se voltou contra tudo que jurou proteger,\nE acusou aquele a quem tinha jurado lealdade:\nDenunciar a sua indiferença às dores, e impiedade para todos,\num deus que negligenciou e traiu sua própria família.\n\nO amigo furioso não sabia que Barbatos procurava salvá-lo.\nMuitas lembranças queridas morreram sob os golpes da raiva cega de Dvalin, entretanto, as da melodia da lira ainda permanecem.\nEm breve, séculos de mal-entendidos terão desaparecido.\nEm breve, Dvalin ouvirá novamente suas canções.\n",
+        "ru": "\nЛира, пронзающая небеса.\nЧистые мелодии этой лиры все ещё звучат в сердцах людей и на ветру.\nГоворят, что древний злой дракон бездны был соблазнён её мелодией.\n\nВ древние времена Барбатос нежно играл на своей лире, призывая чистоту тысячи ветров и песен.\nОчарованный свободными ветрами и песнями, Двалин, верховный дракон, спустился на землю и поклялся ему в верности.\nБарбатос был рад новому другу, и доверил ему народ Мондштадта.\nТак своей дружбой странствующий Анемо Архонт и дракон ветра заложили основные принципы Мондштадта.\n\nВ последней битве с теневым драконом льющаяся мелодия лиры остановила его атаки.\nДав шанс Двалину окончить отравляющую эпоху правления теневого дракона.\n\nСпустя века после окончания той великой битвы, Двалин наконец очнулся от своего многовекового сна.\nНо его хозяин пропал, и остался лишь предательский шёпот ордена Бездны.\nНеслыханная боль. Невиданные мучения.\nВсепожирающее отчаяние ослабило отравленную душу Двалина.\n\nДвалин обернулся против того, что поклялся защищать,\nИ осудил того, кому принёс клятву верности:\n«Безразличен Барбатос к моей боли! Нехороший он друг!»\n«Будь проклят, Барбатос, жесточайший из Архонтов!»\n\nРазгневанный друг не подозревал, что Барбатос искал способ спасти его.\nИзмученное сознание Двалина глубоко спрятало много приятных воспоминаний, но символ Анемо Архонта, Священная лира, не была забыта.\nСкоро века непонимания пройдут.\nСкоро Двалин снова услышит свои песни.\n",
+        "th": "\nThe sky-piercing lyre\nเสียงใส ๆ อันไพเราะของพิณยังคงสะท้อนอยู่ในใจของผู้คนและสายลม\nในตำนานเล่าว่ามังกรที่คุ้นเคยกับอาณาจักรโบราณมาถึงดินแดนแห่งสายลมเพราะถูกดึงดูดด้วยเพลงดังกล่าว\n\nในสมัยโบราณ Barbatos เทพเจ้าแห่งสายลมลูบพิณเรียกร้องสายลมบริสุทธิ์และเสียงเพลง\nได้รับมนต์เสน่ห์จากลมและเพลงที่ไม่หยุดยั้ง Dvalin มังกรที่สูงส่งก็ลงมาและสาบานว่าจะจงรักภักดีต่อเขา\nBarbatos ดีใจสำหรับคู่หูคนใหม่ของเขาและมอบหมายให้เขาดูแลผู้คนของ Mondstadt\nดังนั้นเทพแห่งสายลมที่ชอบเที่ยวเตร่และมังกรแห่งสายลมได้สร้างรุ่งอรุณของ Mondstadt ด้วยมิตรภาพของพวกเขา\n\nในอดีตเมื่อสิ้นสุดการต่อสู้เสียงพิณที่สั่นสะเทือนหยุดมังกรอสูรไม่ให้โจมตี\nมังกรแห่งสายลมของเทพเจ้าจึงมีโอกาสชั่วครู่และยุติพิษของมังกรอสูร\n\nมหายุคหลังจากที่ลมร้องและการต่อสู้ที่ดุเดือด Dvalin ตื่นขึ้นจากการหลับใหล\nแต่เจ้านายของเขาไปแล้วก็มีเพียงเสียงกระซิบพิษของ Abyss Order\nนั่นคือความเจ็บปวดที่มองไม่เห็น เป็นความทรมานที่ไม่อาจได้ยิน\nทำลายความโศกเศร้าทั้งหมดบดขยี้พิษของมังกรลม\n\nDvalin ระบายความเจ็บปวดของมันใส่สิ่งที่มันเคยปกป้อง\nกล่าวหาผู้ที่มันเคยสาบานว่าจะภักดีด้วย:\nกล่าวหาว่าเขาไม่แยแสต่อความทุกข์ทรมานและไร้ซึ่งจิตใจ\nสาปแช่งเขาในฐานะพระเจ้า แต่กลับทรยศต่อสมาชิกในครอบครัวของเขาอย่างโหดเหี้ยม\n\nแต่เพื่อนที่กำลังโกรธจัดนั้นไม่รู้ว่า Barbatos พยายามหาทางเพื่อช่วยเหลือมัน\nความปรารถนาของเขาจมอยู่ในความเจ็บปวด แต่ไม่ใช่พิณของ Barbatos ไม่ใช่ Lyre de Himmel\nหนึ่งศตวรรษแห่งความเข้าใจผิดจะหายไป\nDvalin จะได้ยินเพลงของเขาอีกครั้ง\n",
+        "vi": "\nTiếng đàn xuyên trời cao.\nTương truyền, trong trái tim của loài người và gió ngày nay vẫn luôn tồn tại tiếng đàn thuần khiết.\nMa long từ vùng cổ quốc xa xăm trong truyền thuyết xâm chiếm Phong quốc là vì yêu thích tiếng nhạc như vậy.\n\nThời cổ đại, Phong Thần Barbatos gẩy tiếng đàn hạc để đánh thức ngàn ngọn gió và bài ca thuần khiết.\nSay đắm trong tiếng gió và bài ca tự do, cự long Dvalin đã đáp xuống mặt đất, thực hiện nghĩa vụ của mình.\nBarbatos vui mừng vì kết giao với người bạn mới, bèn giao cho nó nhiệm vụ bảo vệ chúng sinh vùng Mondstadt.\nVậy là, Phong Thần lưu lạc cùng Phong Long, từ tình bạn đã trở thành ánh sáng hy vọng cho vùng Mondstadt.\n\nTrong quá khứ, trong trận chiến cuối cùng, chính tiếng đàn đã khiến ma long bị mê hoặc,\nPhong Long nhờ đó có được cơ hội ngàn vàng để kết liễu ma long.\n\nSau trận chiến kịch liệt làm rung chuyển trời đất, Phong Long thức tỉnh từ giấc ngủ dài.\nTrước mắt không còn là những ngày tháng năm xưa, vành tai đã rót đầy chất độc của kẻ hành đạo nơi vực sâu.\nĐó là nỗi đau, là sự tra tấn vô hình nhưng tàn khốc.\nNỗi đau đớn đã hủy hoại tất cả, đè nặng lên Phong Long bị nhiễm kịch độc.\n\nPhong Long oán hận tất cả những gì mình từng bảo vệ,\nTung ra lời cáo buộc cay nhiệt với Phong Thần mà mình từng trung thành;\nTố cáo sự thờ ơ trước đau khổ, khiển trách sự vô tâm của ngài.\nNguyền rủa ngài với thân phận là thần lại bỏ rơi thuộc hạ của mình.\n\nThế nhưng kẻ thuộc hạ đau đớn lại không hiểu rằng, Phong Thần vẫn nuôi hy vọng cứu giúp.\nThù hận lấn áp nỗi nhớ, cây đàn hạc biểu tượng của Chủ Thần vẫn chìm đắm trong suy tư.\nHiểu lầm trăm năm rồi cũng sẽ được hóa giải.\nPhong Long cuối cùng lại nghe thấy tiếng hát của ngài.\n"
+    }
+}

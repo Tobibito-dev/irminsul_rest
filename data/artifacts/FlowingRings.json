@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Flowing Rings",
+        "de": "Ring der Strömung",
+        "chs": "浮溯之珏",
+        "cht": "浮溯之玨",
+        "es": "Aretes Torrenciales",
+        "fr": "Anneaux de fluidité",
+        "id": "Flowing Rings",
+        "jp": "浮流の対玉",
+        "kr": "추억의 보옥",
+        "pt": "Jades da Torrente",
+        "ru": "Серьги текучести",
+        "th": "Flowing Rings",
+        "vi": "Khuyên Tai Trôi Nổi"
+    },
+    "id": 23618,
+    "setId": 15024,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heartstring Noodles",
+        "de": "Herznudeln",
+        "chs": "连心面",
+        "cht": "連心麵",
+        "es": "Fideos de la emoción",
+        "fr": "Nouilles du cœur",
+        "id": "Heartstring Noodles",
+        "jp": "連心麺",
+        "kr": "연심면",
+        "pt": "Macarrão Fios do Coração",
+        "ru": "Сердечная лапша",
+        "th": "Heartstring Noodles",
+        "vi": "Mì Liên Tâm"
+    },
+    "id": 108372,
+    "materialDesc": {
+        "en": "Shenhe's specialty. Perhaps this comes from her desire to recreate a flavor that lives only in her memories, but Shenhe has poured much time and effort into both making and plating this dish. The smooth noodles and delectable soup make a great impression indeed, but the most indelible aspects are the dedication and heart put into this dish...",
+        "de": "Shenhes Spezialzubereitung. Vielleicht kommt das von ihrem Wunsch, einen Geschmack nachzubilden, der nur in ihren Erinnerungen lebt, aber Shenhe hat viel Zeit und Mühe in die Zubereitung und Anrichtung dieses Gerichts gesteckt. Die weichen Nudeln und die köstliche Suppe machen in der Tat einen großartigen Eindruck, aber das Beste sind die Hingabe und das Engagement, die in dieses Gericht gesteckt werden ...",
+        "chs": "申鹤的特色料理。或许是为了还原她记忆中的味道，申鹤在制作和摆盘上都花费了不少时间。细滑的面条，鲜美的汤底，的确让人印象深刻。不过最难忘的，还数这一份付出与心意…",
+        "cht": "申鶴的特色料理。或許是為了還原她記憶中的味道，申鶴在製作和擺盤上都花費了不少時間。細滑的麵條，鮮美的湯底，的確讓人印象深刻。不過最難忘的，還數這一份付出與心意…",
+        "es": "La especialidad de Shenhe. Tal vez para recrear el sabor de sus recuerdos, invirtió mucho tiempo en el cocinado y la presentación de este plato. La tierna textura de los fideos y el delicioso sabor del caldo son verdaderamente difíciles de olvidar. Bueno, tal vez lo más inolvidable sea el tiempo y la buena intención con las que Shenhe cocinó este plato.",
+        "fr": "Spécialité culinaire de Shenhe. Cela vient peut-être de son désir de recréer une saveur qui n'existe que dans ses souvenirs, mais Shenhe a consacré beaucoup de temps et d'efforts à la préparation de ce plat. Les nouilles onctueuses et la soupe délicieuse font certes grande impression, mais l'aspect le plus marquant de ce plat est le dévouement et le cœur mis à l'ouvrage...",
+        "id": "Hidangan andalan Shenhe. Mungkin hidangan ini berasal dari keinginannya untuk membangkitkan kembali rasa dalam ingatan, sehingga Shenhe telah mencurahkan banyak waktu dan tenaga untuk membuat hidangan ini. Mi yang lembut dan kuah kaldu yang lezat memang luar biasa. Namun yang paling mengesankan adalah upaya dan niat yang dimasukkan ke dalam hidangan ini ....",
+        "jp": "申鶴のオリジナル料理。思い出の味を再現するためか、申鶴は調理と盛り付けに長い時間を費やした。なめらかな麺と舌を唸らせる出汁の組み合わせは、実に印象深い。しかし一番印象に残っているのは、やはりこの料理を作った者の気持ちである…",
+        "kr": "신학의 특제 요리. 추억의 맛을 재현하기 위해 요리와 플레이팅에 오랜 공을 들였다. 가는 면발과 개운한 국물이 인상적이다. 그래도 가장 인상적인 건 신학의 마음과 정성이다…",
+        "pt": "Especialidade de Shenhe. Talvez isso venha do desejo dela de recriar um sabor que vive apenas em suas memórias, mas Shenhe se esforçou muito para fazer este prato, bem como na sua apresentação. O macarrão liso e sopa gostosa dão uma ótima impressão, mas o aspecto mais notável é a dedicação e a emoção que ela colocou ao fazer tal prato...",
+        "ru": "Особое блюдо Шэнь Хэ. Шэнь Хэ потратила много времени и усилий на приготовление и сервировку этого блюда. Возможно, это связано с её желанием воссоздать вкус, который живёт в её воспоминаниях. Нежную текстуру лапши и восхитительный вкус бульона действительно трудно забыть. Ну а самым незабываемым, пожалуй, является забота и тёплые чувства, которые она вложила в приготовление этого блюда.",
+        "th": "เมนูพิเศษของ Shenhe บางทีอาจเพื่อหวนรำลึกถึงรสชาติในความทรงจำของเธอ Shenhe ใช้เวลามากทีเดียวในการทำและจัดเรียงจาน เส้นที่เรียวบางและนุ่มลื่น กับน้ำซุปที่แสนอร่อย ช่างสร้างความประทับใจให้ผู้ที่ได้ลิ้มลองเสียจริง ๆ อย่างไรก็ตาม สิ่งที่น่าจดจำที่สุด ก็คือความทุ่มเทและความใส่ใจของเธอ...",
+        "vi": "Món ăn đặc sắc của Shenhe. Có lẽ do muốn thưởng thức lại hương vị trong trí nhớ của mình, cho nên Shenhe đã dành rất nhiều thời gian vào việc sắp xếp và trang trí món ăn. Sợi mì mịn và nước súp ngon, thực sự rất ấn tượng. Nhưng điều đáng nhớ nhất chính là sự cống hiến hết mình của cô ấy..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

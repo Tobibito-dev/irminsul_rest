@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sashimi Platter",
+        "de": "Sashimi-Platte",
+        "chs": "刺身拼盘",
+        "cht": "刺身拼盤",
+        "es": "Surtido de sashimi",
+        "fr": "Assortiment de sashimis",
+        "id": "Sashimi Platter",
+        "jp": "刺身の盛り合わせ",
+        "kr": "모둠 회",
+        "pt": "Prato de Sashimi",
+        "ru": "Ассорти из сашими",
+        "th": "Sashimi Platter",
+        "vi": "Sashimi"
+    },
+    "id": 108259,
+    "materialDesc": {
+        "en": "A seafood dish made using fresh ingredients. The fish and shellfish are cut into pieces and arranged neatly. The slices have an elegant and tender taste, providing rich and high-quality nutrition. The lingering sweet aftertaste is derived fully from the ingredients' freshness, and every bite is an enjoyment worth closing one's eyes and savoring.",
+        "de": "Ein Gericht mit Meeresfrüchten, das aus frischen Zutaten zubereitet wird. Der Fisch und die Schalentiere werden in Stücke geschnitten und ordentlich angeordnet. Die Scheiben haben einen eleganten und zarten Geschmack und liefern reichhaltige und hochwertige Nährstoffe. Der anhaltende süße Nachgeschmack kommt ganz von der Frische der Zutaten und jeder Bissen ist ein Genuss, der es wert ist, die Augen zu schließen und zu genießen.",
+        "chs": "新鲜食材组成的水产料理。切成片状的鱼贝整齐排列，入口清雅柔润，能提供丰富而优质的营养。淡淡的回甘来自于食材本身的新鲜，每一口都是值得闭眼细品的享受。",
+        "cht": "新鮮食材組成的水產料理。切成片狀的魚貝整齊排列，入口清雅柔潤，能提供豐富而優質的營養。淡淡的回甘來自於食材本身的新鮮，每一口都是值得閉眼細品的享受。",
+        "es": "Un plato hecho con ingredientes de mar frescos. El pescado, cortado en láminas, y el marisco están colocados muy ordenadamente en el plato. Además de un exquisito y delicioso sabor, también aporta todos los nutrientes que el cuerpo necesita. El ligero regusto que deja al comerlo procede del propio producto en sí. Prueba a cerrar los ojos cada vez que le des un bocado para disfrutarlo aún más.",
+        "fr": "Un plat de fruits de mer à base d'ingrédients frais. Les poissons et crustacés sont coupés en morceaux et soigneusement disposés. Les tranches ont un goût raffiné et tendre, offrant une nutrition riche et de haute qualité. L'arrière-goût sucré persistant est entièrement dérivé de la fraîcheur des ingrédients, et chaque bouchée est un plaisir qui vaut la peine de fermer les yeux et de savourer.",
+        "id": "Masakan laut yang terbuat dari bahan-bahan segar. Potongan ikan dan kerang diatur dengan rapi. Setiap irisannya memberikan rasa yang lembut saat digigit, penuh dengan nutrisi yang berkualitas tinggi. Rasa manis yang tersisa setelahnya berasal dari kesegaran bahan-bahan yang dipakai. Setiap gigitannya layak untuk dinikmati perlahan sambil menutup mata.",
+        "jp": "新鮮な食材を組み合わせた海鮮料理。薄くさばかれ、キレイに並べられた魚と貝。軽くて柔らかな食感で、良質な栄養を与えてくれる。ほんのりとした後味は、食材自身の新鮮さによるもので、一口一口が極上の喜びとなる。",
+        "kr": "신선한 식자재로 구성된 해산물 요리. 가늘게 썰린 생선과 조개가 정갈하게 배열되어 있다. 청아하고 부드러운 입맛은 물론, 풍부한 양질의 영양까지 제공한다. 식자재 본연의 신선함에서 오는 은은한 뒷맛, 모든 과정이 눈을 감고 음미할만한 향수라고 봐도 무방할 것이다",
+        "pt": "Um prato de frutos do mar feito com ingredientes frescos. Os peixes e os mariscos são cortados em pedaços e dispostos ordenadamente. As fatias têm sabor requintado e são macias, proporcionando nutrientes variados e de alta qualidade. O sabor doce e persistente é derivado totalmente do frescor dos ingredientes, e cada mordida é um prazer de fechar os olhos ao saborear.",
+        "ru": "Блюдо из морепродуктов со свежими ингредиентами. Ломтики рыбы и моллюсков разложены в правильном порядке. Нежная мякоть обладает тонким вкусом и очень питательна. Исключительная свежесть даёт лёгкое сладкое послевкусие, и каждый кусочек стоит того, чтобы смаковать его с закрытыми глазами.",
+        "th": "อาหารทะเลประกอบด้วยวัตถุดิบสดใหม่ ปลาสไลซ์และหอยถูกจัดเรียงอย่างประณีต เมื่อเข้าปากดูรับรู้ได้ถึงความอ่อนนุ่มซึ่งสามารถให้คุณค่าทางโภชนาการที่เข้มข้นและมีคุณภาพสูง ความหวานจางๆ มาจากความสดของส่วนผสม ทุกคำที่กัดคุ้มค่าแก่การหลับตาเพื่อลิ้มลองรสชาติอย่างละเมียดละไม",
+        "vi": "Món thủy sản được kết hợp từ các nguyên vật liệu tươi. Cá và thủy sản được cắt thành lát rồi xếp thẳng ngay ngắn, cảm giác khi đưa vào miệng rất thanh ngọt mềm mịn, cung cấp nguồn dinh dưỡng tốt và phong phú. Vị ngọt bùi dư vị do sự tươi ngon của chính nguyên vật liệu chế biến, mỗi một ngụm đều đáng để nhắm mắt tận hưởng từ từ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

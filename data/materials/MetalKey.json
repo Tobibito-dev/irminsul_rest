@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Metal Key",
+        "de": "Eisenschlüssel",
+        "chs": "铁制的钥匙",
+        "cht": "鐵製的鑰匙",
+        "es": "Llave de hierro",
+        "fr": "Clé en métal",
+        "id": "Kunci Logam",
+        "jp": "鉄製の鍵",
+        "kr": "철제 열쇠",
+        "pt": "Chave de Ferro",
+        "ru": "Железный ключ",
+        "th": "กุญแจเหล็ก",
+        "vi": "Chìa Khóa Sắt"
+    },
+    "id": 101630,
+    "materialDesc": {
+        "en": "A key wrought of metal that has been worn down with rust accumulated over many years.",
+        "de": "Ein Schlüssel aus Eisen. Die unheimlich lange vergangene Zeit hat darauf ihre Spuren hinterlassen.",
+        "chs": "一柄铁制的钥匙，千百年的风霜在其上留下了锈蚀痕迹。",
+        "cht": "一柄鐵製的鑰匙，千百年的風霜在其上留下了鏽蝕痕跡。",
+        "es": "Una llave hecha de hierro. Se ha ido oxidando con el paso de los años.",
+        "fr": "Une clé forgée en métal qui a été usée par la rouille accumulée pendant de nombreuses années.",
+        "id": "Kunci yang ditempa dari logam dan telah aus karena karat yang terakumulasi selama bertahun-tahun.",
+        "jp": "数千年もの間、風雪にさらされて錆付いた鉄製の鍵。",
+        "kr": "철제 열쇠, 수천 년의 풍파를 겪어 녹이 슨 흔적이 남겨져 있다",
+        "pt": "Uma chave de ferro. A tormenta milenar a deixou enferrujada.",
+        "ru": "Ключ из железа. Тысячелетия оставили на нём след из ржавчины и каверн.",
+        "th": "กุญแจดอกหนึ่งที่ทำจากเหล็ก สายลมหยาดน้ำค้างร้อนพันปีได้ทิ้งรอยสนิมไว้บนกุญแจนั้น",
+        "vi": "Một chiếc chìa khóa bằng sắt, sương gió ngàn năm đã để lại dấu vết hoen gỉ trên nó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

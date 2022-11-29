@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scarlet Torii Gate: Way of Restoration",
+        "de": "Rotes Torii – „Weg der Restauration“",
+        "chs": "朱木鸟居-「安复之道」",
+        "cht": "朱木鳥居-「安復之道」",
+        "es": "Arco torii escarlata: Camino de la paz",
+        "fr": "Portail torii écarlate « Voie de restauration »",
+        "id": "Gerbang Torii Merah: Jalan Pemulihan",
+        "jp": "朱鳥居-「安定の道」",
+        "kr": "주홍 도리이-「안정의 길」",
+        "pt": "Portão Torii Escarlate: Caminho da Restauração",
+        "ru": "Алые ворота тории: Путь восстановления",
+        "th": "โทริอิไม้ - วิถีแห่งการฟื้นฟู",
+        "vi": "Cổng Torii - Tâm An Vạn Sự An"
+    },
+    "id": 391112,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Scarlet Torii Gate: Way of Restoration.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Rotes Torii – Weg der Restauration“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「朱木鸟居-『安复之道』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「朱木鳥居-『安復之道』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Arco torii escarlata: Camino de la paz.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du portail torii écarlate « Voie de restauration ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Gerbang Torii Merah: Jalan Pemulihan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「朱鳥居-『安定の道』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「주홍 도리이-『안정의 길』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Portão Torii Escarlate: Caminho da Restauração.\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Алые ворота тории: Путь восстановления».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างโทริอิไม้ - \"วิถีแห่งการฟื้นฟู\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cổng Torii - Tâm An Vạn Sự An\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

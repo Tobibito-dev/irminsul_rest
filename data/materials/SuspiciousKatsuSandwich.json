@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Katsu Sandwich",
+        "de": "Misslungenes Schnitzelbrötchen",
+        "chs": "奇怪的炸肉排三明治",
+        "cht": "奇怪的炸肉排三明治",
+        "es": "Sándwich de milanesa extraño",
+        "fr": "Sandwich à la viande (suspect)",
+        "id": "Suspicious Katsu Sandwich",
+        "jp": "微妙なカツサンド",
+        "kr": "이상한 돈가스 샌드위치",
+        "pt": "Sanduíche de Katsu Estranho",
+        "ru": "Странный кацу-сандо",
+        "th": "Katsu Sandwich รสประหลาด",
+        "vi": "Sandwich Katsu Kỳ Lạ"
+    },
+    "id": 108381,
+    "materialDesc": {
+        "en": "A nutritionally-balanced meal. Well, you say that, but vegetables are withered, the meat is dry and wooden, and the bread slices are way too firm... You know what? It doesn't matter. A person needs to fill their stomach and all...",
+        "de": "Eine ausgewogene und nahrhafte Mahlzeit. Das eher trockene Schnitzel wird durch die verwelkten Blätter des Gemüses und die zu dicken Brotscheiben ergänzt ... Vergiss es, du musst deinen Magen füllen, also ... Augen zu und runter damit.",
+        "chs": "营养均衡的餐点。枯蔫的菜叶配上又干又柴的肉排，再加上过于扎实的面包片…算了，填饱肚子要紧，还是吃了吧…",
+        "cht": "營養均衡的餐點。枯蔫的菜葉配上又乾又柴的肉排，再加上過於扎實的麵包片…算了，填飽肚子要緊，還是吃了吧…",
+        "es": "Una comida muy nutritiva. Un filete de carne, más bien seca y magra, acompañado con hojas pochas de verdura y rebanadas de pan demasiado duro. Olvídalo, hay que llenar el estómago, así que... habrá que comérselo.",
+        "fr": "Un repas équilibré. Un steak plutôt sec accompagné par des feuilles de légumes flétries et des tranches de pain trop épaisses... Mais il faut bien manger...",
+        "id": "Makanan dengan gizi seimbang. Yah harusnya sih begitu, tapi sayurnya sudah layu, dagingnya kelihatan kering kerontang, dan irisan rotinya terlalu keras ... Ah sudahlah, tidak masalah. Toh yang penting masih bisa makan ....",
+        "jp": "栄養バランスのとれた料理。しなびた野菜にパサパサの硬い肉、そして中身がぎっしり詰まった硬いパン…まあ、空腹を満たすのが優先だ。食べよう…",
+        "kr": "영양 밸런스가 좋은 한 끼 식사. 시든 채소 잎에 마르고 질긴 커틀릿, 게다가 과하게 딱딱한 빵조각까지… 어쩔 수 없지, 배를 채우는 게 중요하니까 그냥 먹자…",
+        "pt": "Uma refeição nutritiva balanceada. Os vegetais estão murchos, a carne está seca e as fatias de pão estão duras... Mas não importa, é necessário encher o estômago...",
+        "ru": "Сбалансированное блюдо. Между чёрствыми кусками хлеба всё ждут, но никак не дождутся своей участи вялая зелень с сухим и жёстким мясом. Но... голод не тётка, так что давайте есть.",
+        "th": "มื้ออาหารที่มีความสมดุลทางด้านโภชนาการ โดยมีใบผักที่แห้งเหี่ยวจับคู่กับเนื้อที่ทั้งแห้งทั้งแข็ง และแผ่นขนมปังที่แข็งกระด้าง... ช่างเถอะ อิ่มท้องนั้นสำคัญกว่า กิน ๆ เข้าไปเถอะ...",
+        "vi": "Bữa ăn cân bằng dinh dưỡng. Lá cải khô héo kết hợp với thịt chiên khô khan, kèm thêm miếng bánh mì cứng ngắc... Thôi vậy, quan trọng là no bụng, ăn đại đi..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

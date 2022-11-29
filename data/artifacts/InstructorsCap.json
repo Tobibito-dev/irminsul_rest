@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Instructor's Cap",
+        "de": "Ausbilderhut",
+        "chs": "教官的帽子",
+        "cht": "教官的帽子",
+        "es": "Gorra del Instructor",
+        "fr": "Chapeau de l'Instructeur",
+        "id": "Instructor's Cap",
+        "jp": "教官の帽子",
+        "kr": "교관의 모자",
+        "pt": "Chapéu de Instrutor",
+        "ru": "Кепка инструктора",
+        "th": "Instructor's Cap",
+        "vi": "Nón Giáo Quan"
+    },
+    "id": 23518,
+    "setId": 10007,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

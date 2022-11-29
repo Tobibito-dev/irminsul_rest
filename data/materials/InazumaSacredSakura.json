@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuma: Sacred Sakura",
+        "de": "Inazuma – Heilige Sakura",
+        "chs": "稻妻·神樱",
+        "cht": "稻妻·神櫻",
+        "es": "Inazuma - Cerezo Sagrado",
+        "fr": "Inazuma - Cerisier sacré",
+        "id": "Inazuma: Sacred Sakura",
+        "jp": "稲妻·神櫻",
+        "kr": "이나즈마·신성한 벚나무",
+        "pt": "Inazuma - Sakura Sagrada",
+        "ru": "Священная сакура",
+        "th": "Inazuma - Sacred Sakura",
+        "vi": "Inazuma - Anh Đào Thần"
+    },
+    "id": 210079,
+    "materialDesc": {
+        "en": "Namecard style.\\nWherever the sakura petals fall, there the protection of the sacred tree rests.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWo immer die Sakura-Blütenblätter fallen, dort ruht der Schutz des heiligen Baumes.",
+        "chs": "名片纹饰。\\n绯樱飘落之处，尽在神木的守护之下。",
+        "cht": "名片紋飾。\\n緋櫻飄落之處，盡在神木的守護之下。",
+        "es": "Diseño de tarjeta de presentación.\\nLas hojas de los cerezos flotan bajo la protección del árbol sagrado.",
+        "fr": "Thème.\\nPartout où tombent les pétales de cerisier, repose la protection de l'arbre sacré.",
+        "id": "Style Kartu Nama.\\nDi mana pun kelopak sakura jatuh, di sanalah perlindungan pohon suci berada.",
+        "jp": "名刺の飾り紋。\\n緋櫻が舞い落ちるところは、全て神樹に守護されている。",
+        "kr": "명함 스킨\\n벚나무 꽃잎이 떨어지는 곳, 그 모든 곳이 신목의 수호를 받으리.",
+        "pt": "Estilo de Cartão de Visita.\\nOnde quer que caiam as pétalas de sakura, ali estará a proteção da árvore sagrada.",
+        "ru": "Именная карта.\\nВсякое место, где упали лепестки сакуры, защищено священным древом.",
+        "th": "ลายนามบัตร \\nสถานที่ที่ดอกซากุระร่วงหล่น อยู่ภายใต้การคุ้มครองของต้นไม้ศักดิ์สิทธิ์",
+        "vi": "Hoa văn danh thiếp. \\nBất cứ nơi nào cánh hoa anh đào rơi xuống, thì ở đó có sự bảo vệ của cây thần."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

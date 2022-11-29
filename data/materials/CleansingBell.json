@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cleansing Bell",
+        "de": "Glocke der Reinigung",
+        "chs": "涤尘铃",
+        "cht": "滌塵鈴",
+        "es": "Campana purificadora",
+        "fr": "Cloche purificatrice",
+        "id": "Lonceng Penyuci",
+        "jp": "洗塵の鈴",
+        "kr": "척진령",
+        "pt": "Sino Purificador",
+        "ru": "Колокольчик очищения",
+        "th": "Cleansing Bell",
+        "vi": "Chuông Tẩy Trần"
+    },
+    "id": 100501,
+    "materialDesc": {
+        "en": "It is said that this magic bell was prepared specifically for adepti. Its sound rings through the air and does not fade quickly, and can be used to purify the mortal realm.\\nIt seems to have a life of its own, even as you hold it in your hand...",
+        "de": "Diese magische Glocke soll speziell für Adepten gefertigt worden sein. Ihr Klang dröhnt lange und hallt über weite Flächen. Damit kann die Welt der Sterblichen gereinigt werden.\\nWährend du sie in der Hand hältst, kommt es dir so vor, als wäre die Glocke mit Leben erfüllt.",
+        "chs": "据说这是专门为仙人准备的法铃，其音玲珑振振，回荡久长不散，能够涤净凡尘。\\n握在手中时，仿佛能感受其中有生命…",
+        "cht": "據說這是專門為仙人準備的法鈴，其音玲瓏振振，回盪久長不散，能夠滌淨凡塵。\\n握在手中時，仿佛能感受其中有生命…",
+        "es": "Se dice que esta campana mágica fue preparada específicamente para los Adeptus. Su sonido resuena en el aire y reverbera por mucho tiempo. Se usa para purificar el reino mortal.\\nParece tener vida propia, incluso cuando lo sostienes...",
+        "fr": "Une cloche spécialement créée pour les Adeptes. Le son qu'elle produit résonne longtemps et aurait le pouvoir de purifier le monde des mortels.\\nVous sentez qu'elle possède une forme de vie lorsque vous la prenez entre vos mains.",
+        "id": "Dikatakan bahwa lonceng magis ini disiapkan khusus untuk Adeptus. Bunyinya sangat nyaring dan tidak mudah memudar, dapat digunakan untuk menyucikan alam fana.\\nSaat kamu memegangnya kamu bisa merasakan adanya kehidupan di dalamnya...",
+        "jp": "仙人のために用意された鈴、その音はかわいらしく、長く響き渡り、俗塵を綺麗に洗えるらしい。\\n手に取ると、その命を感じられるようだ…",
+        "kr": "특별히 선인을 위해 만들어진 법령이라고 한다. 그 소리는 맑고 아름다워 아주 오랫동안 울려 속세의 더러운 것들을 정화시킨다.\\n손에 쥐고 있으면 그 안의 생명이 느껴지는 것 같다…",
+        "pt": "Dizem que este sino mágico foi preparado especificamente para Adeptus. Seu som soa no ar e não desaparece rapidamente, e pode ser usado para purificar o reino mortal.\\nParece ter uma vida própria, mesmo quando você o segura na mão...",
+        "ru": "Говорят, что этот волшебный колокольчик был приготовлен специально для Адептов. Его звон разносится по воздуху и долго не затухает, поэтому его можно использовать для очищения царства смертных.\\nДаже держа его в своих руках, вы чувствуете, что этот колокольчик живёт своей жизнью...",
+        "th": "ว่ากันว่านี่คือระฆังเวทมนตร์ที่เตรียม เอาไว้ให้เซียนโดยเฉพาะ เสียงระฆังดังเป็นระยะๆ แต่ก้องกังวานและเนิ่นนาน ซึ่งสามารถชะล้างโลกมนุษย์ได้\\nเมื่อถือไว้ในมือจะรู้สึกราวกับ มีสิ่งมีชีวิตอยู่ในนั้น...",
+        "vi": "Tương truyền đây là chuông phép được chuẩn bị cho tiên nhân, tiếng chuông vang vọng liên hồi có thể tẩy sạch bụi trần.\\nKhi cầm trong tay dường như cảm nhận được hơi thở sinh mệnh trong đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

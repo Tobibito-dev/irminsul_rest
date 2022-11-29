@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nephrite Ring",
+        "de": "Nephritring",
+        "chs": "玉石戒指",
+        "cht": "玉石戒指",
+        "es": "Anillo de nefrita",
+        "fr": "Bague",
+        "id": "Cincin Nephrite",
+        "jp": "玉石の指輪",
+        "kr": "옥석 반지",
+        "pt": "Anel de Jade",
+        "ru": "Нефритовое кольцо",
+        "th": "Nephrite Ring",
+        "vi": "Nhẫn ngọc"
+    },
+    "id": 100243,
+    "materialDesc": {
+        "en": "A Nephrite Ring obtained from a slime. Gorgeous color and clearly a top-quality item. This must be Mr. Zhu's lost property.",
+        "de": "Ein Nephritring, den du bei einem Schleim gefunden hast. Strahlende Farben und hohe Reinheit zeugen von höchster Qualität. Das wird wohl das sein, wonach Herr Zhu gesucht hat.",
+        "chs": "从史莱姆处获得的玉石戒指，色泽温润，品质上佳。看上去应该是朱老板的失物。",
+        "cht": "從史萊姆處獲得的玉石戒指，色澤溫潤，品質上佳。看上去應該是朱老闆的失物。",
+        "es": "Un anillo de nefrita de primera calidad obtenido de un Slime. Debe ser el objeto perdido del Sr. Zhu.",
+        "fr": "Une bague d'une grande valeur obtenue sur un Blob. On dirait bien qu'il s'agit de l'objet que monsieur Zhu a perdu.",
+        "id": "Cincin Nephrite yang didapat dari Slime, memiliki warna yang bagus dan kualitas yang baik. Sepertinya ini adalah barang berharga milik Tuan Zhu yang hilang.",
+        "jp": "スライムからドロップした玉石の指輪、光沢感がある高級品。どうやらこれが朱店主の落とし物らしい。",
+        "kr": "슬라임으로부터 얻은 옥 반지. 온화한 색에 뛰어난 품질까지! 주 사장이 잃어버린 물건인 듯하다",
+        "pt": "Um anel de jade obtido dos Slimes, com a textura suave e a qualidade altíssima. Parece ser perdido pelo Senhor Zhu.",
+        "ru": "Нефритовое кольцо, найденное в обиталище слаймов. Оно хорошего качества и имеет приятный цвет. Скорее всего, это потерянное кольцо мистера Чжу.",
+        "th": "แหวนหยกที่ได้มาจาก Slime มีสีอ่อนและคุณภาพดี ดูแล้วน่าจะเป็นของที่หายไปของเถ้าแก่ Zhu",
+        "vi": "Nhẫn ngọc thạch nhận được ở chỗ Slime, sắc màu trầm ấm, chất lượng thượng hạng. Xem ra là vật thất lạc của ông chủ Zhu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

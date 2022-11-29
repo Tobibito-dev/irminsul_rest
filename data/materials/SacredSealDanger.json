@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sacred Seal: Danger",
+        "de": "Heiliger Siegelstein – Gefahr",
+        "chs": "圣章石·危险",
+        "cht": "聖章石·危險",
+        "es": "Piedra sagrada: Peligro",
+        "fr": "Sceau sacré : Danger",
+        "id": "Segel Suci: Bahaya",
+        "jp": "ヒエログリフタブレット·危険",
+        "kr": "신성한 봉인석·위험",
+        "pt": "Selo Sagrado: Perigo",
+        "ru": "Скрижаль: Опасность",
+        "th": "ผนึกศักดิ์สิทธิ์ - อันตราย",
+        "vi": "Đá Thánh Chương - Nguy Hiểm"
+    },
+    "id": 101976,
+    "materialDesc": {
+        "en": "A stone plate with ancient text on it that seems to have once been part of a certain building. The desert sands play host to many an unknown wish. Who made them, and who carries them now? The symbol seems to indicate the hazardous circumstance of hanging a chisel hammer on a cliff, and is thought to have emerged at a later date.",
+        "de": "Eine Steinplatte, in die antike Zeichen eingraviert sind, die einst Teil eines Gebäudes gewesen zu sein scheint. Nachdem sie viele Jahre im Sandmeer geschlummert hat, weiß niemand mehr, wessen Wünsche sie trägt. Die Zeichen, die darauf eingemeißelt sind, zeigen die Gefahr durch einen über einer Klippe hängenden Hammer. Diese Zeichen sind erst etwas später entstanden.",
+        "chs": "刻有古老文字的石板，似乎原本是某种构筑物的一部分。在沙海中沉睡了不知几许，又不知承载了谁人的祈愿。其上的文字表达的应该是凿锤悬挂在悬崖之上的危险态势，是稍晚时代才出现的文字。",
+        "cht": "刻有古老文字的石板，似乎原本是某種構築物的一部分。在沙海中沉睡了不知幾許，又不知承載了誰人的祈願。其上的文字表達的應該是鑿錘懸掛在懸崖之上的危險態勢，是稍晚時代才出現的文字。",
+        "es": "Una placa de piedra con una inscripción antigua. Parece que originariamente formaba parte de algún tipo de estructura. No se sabe desde hace cuánto tiempo se encuentra inactiva en medio del mar de arena. Tampoco se sabe a quién pertenecen los deseos que contiene. La inscripción muestra el peligro de que un martillo y un cincel caigan de un acantilado. Se cree que este símbolo surgió en una era posterior.",
+        "fr": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Les mots ici semblent indiquer la dangerosité d'un marteau suspendu au-dessus d'une falaise. On pense que ce symbole est apparu à une date ultérieure...",
+        "id": "Batu yang ditulisi simbol kuno, tampaknya pernah menjadi bagian dari suatu bangunan. Entah berapa banyak harapan yang sudah terlelap di dalam padang pasir, entah berapa banyak pula mimpi yang telah diangkut olehnya. Tulisannya merujuk pada situasi berbahaya ketika pahat dan palu digantung di tebing. Sepertinya umur tulisan ini lebih muda dari yang lainnya.",
+        "jp": "古い文字が刻まれた石板。元はとある構築物の一部だったようだ。砂海に眠っていた時間は計り知れず、背負った祈りの主も今や知るすべがない。刻まれた文字は崖にぶら下がるハンマーのような、危険な態勢を表現していると思われる。これは比較的後の時代にできた文字である。",
+        "kr": "고대 문자가 새겨진 석판. 원래는 어떤 구조물의 일부였던 것 같다. 모래 바닷속에서 얼마나 오래 잠들어 있었는지, 또 누구의 염원을 담고 있는지는 알 수 없다. 해당 문자는 절벽에 매달려 있는 망치처럼 위험한 상황을 뜻한다고 여겨진다. 비교적 늦은 시기에 나타난 문자다",
+        "pt": "Uma Tabuleta de Pedra com um texto antigo que parece ter sido parte de alguma construção. Não se sabe há quanto tempo ela está perdida no mar de areia. Quem a criou e quem possui ela agora? A inscrição mostra o perigo de pendurar um cinzel martelo em um penhasco. Acredita-se que este símbolo surgiu em um momento posterior.",
+        "ru": "Каменная плита с древним символом, которая, похоже, когда-то была частью некоего здания. Сколько неизвестных мечтаний хранят в себе пески! Внешний вид этого символа напоминает долото и молоток, что должно означать опасность. Этот знак довольно поздней эпохи.",
+        "th": "แผ่นหินที่มีอักษรโบราณสลักอยู่ ดูเหมือนว่าเดิมทีมันจะเป็นส่วนหนึ่งของโครงสร้างบางอย่าง ไม่รู้ว่ามันหลับใหลอยู่ทะเลทรายมานานเท่าไหร่แล้ว และไม่รู้ว่ามันแบกรับแรงปรารถนาของใครเอาไว้บ้าง ตัวอักษรที่อยู่ด้านบน น่าจะแสดงถึงสถานการณ์อันตรายของการแขวนสิ่วไว้ริมหน้าผา ซึ่งเป็นตัวอักษรที่เพิ่งปรากฏในยุคหลัง",
+        "vi": "Phiến đá cổ có khắc văn tự, có vẻ như vốn là một bộ phận của kết cấu nào đó. Không biết đã ngủ trong biển cát bao lâu, cũng không biết chứa đựng ước nguyện của ai. Văn tự bên trên dường như chỉ ra sự nguy hiểm của việc treo một cái đục và một cái búa trên một vách đá, đó là những văn tự mới xuất hiện ở thời đại sau này."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

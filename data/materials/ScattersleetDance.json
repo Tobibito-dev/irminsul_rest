@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scattersleet Dance",
+        "de": "Graupeltanz",
+        "chs": "散霰之舞",
+        "cht": "散霰之舞",
+        "es": "Danza de cellisca",
+        "fr": "Danse de la grêle",
+        "id": "Scattersleet Dance",
+        "jp": "霰の舞",
+        "kr": "싸락눈의 춤",
+        "pt": "Dança de Granizo",
+        "ru": "Танец пурги",
+        "th": "Scattersleet Dance",
+        "vi": "Vũ Điệu Khuyếch Tán"
+    },
+    "id": 200225,
+    "materialDesc": {
+        "en": "When a character causes opponents to Superconduct, there is a 50% chance to trigger a falling icicle that deals 500% of the triggering character's ATK as DMG and decreases the opponent's Physical RES by 25% for 10s. This effect can be triggered once every 5s and this CD is shared between all party members.",
+        "de": "Ruft beim Auslösen von Supraleiter bei Gegnern mit einer Wahrscheinlichkeit von 50 % Eiszapfen hervor, die Schaden basierend auf 500 % des ANG der den Effekt Supraleiter auslösenden Figur verursachen und den physischen WDS des betroffenen Gegners 10 s lang um 25 % verringern. 5 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色使敌人超导时，有50%几率降下冰锥，基于触发超导效果的角色的攻击力的500%造成伤害，并使敌人的物理抗性降低25%，持续10秒。该效果每5秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色使敵人超導時，有50%幾率降下冰錐，造成相當於觸發超導效果的角色攻擊力500%的傷害，並使敵人的物理抗性降低25%，持續10秒。該效果每5秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Cuando un personaje provoca la reacción de Superconductor contra un enemigo, hay un 50% de probabilidad de que caiga un carámbano que inflige daño basado en el 500% del ATQ del personaje que causó la reacción, y disminuye la RES Física del enemigo en un 25% durante 10 s. Este efecto puede activarse una vez cada 5 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'un personnage déclenche une réaction de Supraconduction sur un ennemi, il a 50 % de chances de faire tomber une stalactite qui inflige des DGT équivalant à 500 % de son ATQ et de diminuer la RÉS physique de 25 % pendant 10 s. Cet effet peut être déclenché une fois toutes les 5 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Setelah Karakter memicu reaksi Superconduct pada musuh, ada 50% kemungkinan untuk menjatuhkan bongkahan es dengan DMG sebesar 500% ATK Karakter yang memicu, serta mengurangi 25% Physical RES musuh selama 10 detik. Efek ini dapat terpicu setiap 5 detik, dan CD efek berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターが敵に超電導反応を起こすと、50%の確率で氷柱を落下させ、超電導反応を起こしたキャラクター攻撃力の500%分のダメージ与え、敵の物理耐性-25%、持続時間10秒。この効果は5秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 적에게 초전도 효과 부여 시 50%의 확률로 얼음촉을 내리고, 적에게 초전도 효과를 부여한 캐릭터의 공격력의 500%만큼 피해를 주고 적의 물리 내성을 25% 감소시킨다. 지속 시간: 10초. 해당 효과는 5초마다 1회 발동되며 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Quando o Personagem fizer os inimigos serem afetados por Supercondução, há uma chance de 50% de que cones de gelo caiam e causem Dano baseado em 500% do ATQ do Personagem, os quais reduzirão a RES Física dos inimigos em 25% por 10s. Esse efeito pode ocorrer uma vez a cada 5s e todos os Personagens compartilham o Tempo de Recarga.",
+        "ru": "Когда персонаж накладывает на врага статус Сверхпроводник, есть 50% шанс, что на него упадёт сосулька. Она наносит врагу урон в 500% от силы атаки персонажа, который наложил статус, и снижает физическое сопротивление врага на 25% в течение 10 сек. Эффект возникает раз в 5 сек. Время отката общее для всех членов отряда.",
+        "th": "เมื่อตัวละครทำให้ศัตรูนำไฟฟ้า มีโอกาส 50% ที่แท่งน้ำแข็งจะตกลงมา สร้างความเสียหาย 500% ของพลังโจมตีของตัวละครที่ทำให้เกิดการนำไฟฟ้า และทำให้ความต้านทานกายภาพของศัตรูลดลง 25% เป็นเวลา 10 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 5 วินาที ตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Khi tạo hiệu ứng Siêu Dẫn cho kẻ địch, có 50% tạo nhũ băng giáng xuống, gây 500% sát thương dựa theo tấn công của nhân vật gây ra hiệu ứng Siêu Dẫn, đồng thời giảm 25% kháng vật lý của mục tiêu, duy trì 10s. Hiệu ứng này mỗi 5s tối đa kích hoạt một lần, tất cả nhân vật đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

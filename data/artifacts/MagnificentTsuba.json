@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Magnificent Tsuba",
+        "de": "Prunkvolles Stichblatt",
+        "chs": "明威之镡",
+        "cht": "明威之鐔",
+        "es": "Guardamano del Honor",
+        "fr": "Tsuba magnifique",
+        "id": "Magnificent Tsuba",
+        "jp": "威厳の鍔",
+        "kr": "위엄의 날밑",
+        "pt": "Pomo Poderoso",
+        "ru": "Великолепная цуба",
+        "th": "Magnificent Tsuba",
+        "vi": "Kiếm Cách Uy Vũ"
+    },
+    "id": 24804,
+    "setId": 15020,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Pita Pocket",
+        "de": "Rezept: Taschenfladen",
+        "chs": "食谱：口袋饼",
+        "cht": "食譜：口袋餅",
+        "es": "Receta: Döner kebab",
+        "fr": "Recette : Snack pita",
+        "id": "Resep: Pita Pocket",
+        "jp": "レシピ：ピタ",
+        "kr": "레시피: 포켓 피타",
+        "pt": "Receita: Pão Pita",
+        "ru": "Рецепт: Пита",
+        "th": "สูตรอาหาร: Pita Pocket",
+        "vi": "Công Thức: Bánh Túi"
+    },
+    "id": 109498,
+    "materialDesc": {
+        "en": "A handwritten Pita Pocket recipe, with detailed cooking tips in small letters. The writer's penmanship seems questionable. Some letters are shaky, perhaps due to the bad condition she was in. However, every word was written carefully.\\nIf you have learned how to cook it, don't forget to enjoy this delicious food together with her the next time you visit Gandharva Ville.",
+        "de": "Ein handgeschriebenes Rezept für „Taschenfladen“, bei dem mit kleiner Schrift alle wichtigen Einzelheiten der Zubereitung notiert sind. Am Schriftbild ist leicht erkennbar, dass die Verfasserin nicht allzu geübt im Schreiben ist, vielleicht aufgrund des Einflusses ihrer Krankheit, und einige Zeichen etwas verwackelt sind, allerdings ist jedes einzelne Zeichen sehr gewissenhaft geschrieben worden.\\nNach Lernen dieses Rezeptes kannst du diese Köstlichkeit mit ihr teilen, wenn du das nächste Mal nach Gandharva zurückkommst.",
+        "chs": "一份手抄的「口袋饼」菜谱，还用小字注明了详细的烹饪要点。从字迹来看作者并不怎么擅长书写，或许是因为受疾病影响，一些字迹还有些抖动，但纸上的每一笔都写得很认真。\\n如果学会了它，下次来化城郭的时候，再和她一起分享这种美味的食物吧。",
+        "cht": "一份手抄的「口袋餅」食譜，還用小字註明了詳細的烹飪要點。從字跡來看作者並不怎麼擅長書寫，或許是因為受疾病影響，某些字跡還有點抖動，但紙上的每一筆都寫得很認真。\\n如果學會了它，下次來化城郭的時候，再和她一起分享這種美味的食物吧。",
+        "es": "Una detallada receta escrita a mano para hacer döner kebab. La caligrafía empleada muestra que la autora no es muy buena escribiendo, ya que algunas de las letras están un poco borrosas, lo cual puede que se deba a alguna enfermedad. Sin embargo, escribió cada letra con mucho cuidado.\\nSi la aprendes, la próxima vez que visites la Villa Gandharva podrás compartir con ella este delicioso manjar.",
+        "fr": "Une recette de snack pita rédigée à la main avec des astuces de préparation détaillées en petites lettres. L'écriture est tremblotante à certains passages, sans doute car l'autrice n'était pas dans les bonnes conditions pour la rédaction. Ceci dit, chaque mot a été soigneusement écrit.\\nSi vous apprenez cette recette, n'oubliez pas de déguster le plat en sa compagnie la prochaine fois que vous vous rendrez à Gandharva.",
+        "id": "Resep \"Pita Pocket\" yang ditulis tangan. Poin penting memasak yang mendetail juga ditulis dengan tulisan kecil. Dilihat dari tulisan tangannya, penulis tidak terlalu pintar menulis, atau mungkin karena pengaruh penyakit, beberapa huruf terlihat berantakan tapi setiap guratannya ditulis dengan sangat hati-hati.\\nKalau sudah mempelajarinya, saat kembali ke Desa Gandharva lain kali jangan lupa untuk menikmati hidangan ini bersamanya ya.",
+        "jp": "「ピタ」の手書きレシピ。調理ポイントが小文字で細かく書かれている。筆跡を見ると、これを書いた人はあまり書き慣れていないのか、あるいは病気の影響なのか、字がぐちゃぐちゃだ。しかしそれでも、丁寧に書かれていることは分かる。\\nこの料理が作れるようになったら、またガンダルヴァー村で彼女とこの美味しいごはんを楽しもう。",
+        "kr": "손글씨로 정리한 「포켓 피타」 레시피. 작은 글씨로 요리의 요점을 자세히 명시했다. 필적을 보면 글쓴이는 글을 잘 쓰지 못하는 듯하다. 병 때문인지 일부 글씨는 약간 삐뚤빼뚤하지만 제법 또박또박 써놓았다.\\n레시피를 익히면 다음에 간다르바 성곽에 올 때 그녀와 함께 이 맛있는 음식을 맛볼 수 있다",
+        "pt": "Uma receita escrita à mão de Pão Pita, com dicas sobre como cozinhar numa letra menor. A caligrafia da autora não é boa. Algumas letras estão trêmulas, talvez devido à má condição em que ela estava. Entretanto, toda palavra foi escrita com cuidado.\\nSe você aprendeu a fazer essa comida, não se esqueça de dividir essa deliciosa refeição com ela na próxima vez que vier para a Vila Gandharva.",
+        "ru": "Написанный от руки рецепт изготовления питы, в котором мелкими буквами изложены подробные советы по её приготовлению. Почерк кажется неустойчивым, некоторые буквы выглядят неровно, как бывает при болезни. Однако все слова рецепта выписаны автором с аккуратностью.\\nЕсли научитесь готовить питу, не забудьте посетить Гандхарву и поделиться с ней этой прекрасной едой.",
+        "th": "สูตรการทำ \"Pita Pocket\" ที่เขียนด้วยลายมือ พร้อมเน้นจุดที่สำคัญเอาไว้ ดูจากตัวหนังสือแล้ว ดูเหมือนว่าผู้เขียนจะไม่ถนัดด้านการเขียนสักเท่าไหร่ หรือบางทีอาจเป็นเพราะอาการทางโรคบางอย่าง ตัวหนังสือบางส่วนจึงค่อนข้างบิดเบี้ยว แต่ตัวหนังสือทุกตัวกลับถูกบรรจงเขียนอย่างตั้งใจ\\nหากเรียนรู้วิธีการทำได้แล้ว ครั้งต่อไปที่มาเยือน Gandharva Ville ค่อยมาแบ่งปันอาหารสุดเลิศรสนี้กับเธอแล้วกันนะ",
+        "vi": "Một bản công thức \"Bánh Túi\" chép tay, còn dùng chữ nhỏ ghi chú những điểm chi tiết đáng chú ý khi làm. Từ nét chữ có thể thấy tác giả chẳng giỏi viết chữ, hoặc là do bị bệnh, nên nét chữ hơi run, nhưng mỗi một nét chữ trên giấy đều viết rất nắn nót.\\nNếu học được nó, sau này đến Làng Gandharva, sẽ chia sẻ với cô ấy món ngon này vậy."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cyno: Silence",
+        "de": "Cyno – Innere Ruhe",
+        "chs": "赛诺·幽缄",
+        "cht": "賽諾·幽緘",
+        "es": "Cyno - Taciturno",
+        "fr": "Cyno - Sérénité",
+        "id": "Cyno: Serenity",
+        "jp": "セノ·噤閉",
+        "kr": "사이노·침묵",
+        "pt": "Cyno — Serenidade",
+        "ru": "Сайно: Спокойствие",
+        "th": "Cyno - เงียบขรึม",
+        "vi": "Cyno - Yên Lặng"
+    },
+    "id": 210134,
+    "materialDesc": {
+        "en": "Namecard style.\\nWhenever Cyno falls into a profound silence, he must be considering some weighty judgment... Or perhaps he is simply considering something amusing.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWenn Cyno tief in sich gekehrt ist, fällt er nicht immer über gewichtige Urteile, manchmal denkt er stattdessen über lustige Dinge nach.",
+        "chs": "名片纹饰。\\n赛诺看上去幽沉而肃默的时候，未必总是在想着什么沉肃的审判，也有可能只是在思考幽默的笑点。",
+        "cht": "名片紋飾。\\n賽諾看上去幽沉而肅默的時候，未必總是在想著什麼沉肅的審判，也有可能只是在思考幽默的笑點。",
+        "es": "Diseño de tarjeta de presentación.\\nCuando Cyno se encuentra sumergido en un profundo silencio, puede significar que esté reflexionando sobre algún veredicto importante... O que simplemente esté pensando en un chiste.",
+        "fr": "Thème.\\nChaque fois que Cyno tombe dans un silence serein, il envisage un jugement de poids... Ou peut-être envisage-t-il simplement quelque chose d'amusant...",
+        "id": "Style kartu nama.\\nSetiap kali Cyno terhening dalam diam, dia pasti sedang mempertimbangkan suatu keputusan yang berat ... Atau mungkin dia hanya sekedar memikirkan sesuatu yang lucu saja.",
+        "jp": "名刺の飾り紋。\\nセノが暗い顔で黙っている時、必ずしも真面目に審判のことを考えているとは限らない。うける冗談を考えているだけかもしれない…",
+        "kr": "명함 스킨.\\n사이노의 표정이 어둡고 정중해 보이지만, 항상 엄숙한 재판만을 생각하는 것은 아닐 것이다. 어쩌면 웃음 포인트를 생각하고 있을지도 모른다",
+        "pt": "Estilo de Cartão de Visita.\\nQuando Cyno está serenamente silencioso, ele deve estar pensando em algum julgamento severo... Ou talvez esteja apenas pensando em algo engraçado.",
+        "ru": "Именная карта.\\nКогда Сайно погружается в спокойное молчание, он, должно быть, обдумывает какое-то серьёзное решение... Или же просто думает о чём-то забавном.",
+        "th": "ลวดลายนามบัตร\\nในเวลาที่ Cyno ดูนิ่งเงียบและเคร่งขรึม ก็ใช่ว่าเขาจะกำลังคิดถึงเรื่องที่เคร่งเครียดเสมอไป บางทีเขาอาจจะกำลังคิดถึงเรื่องตลกขบขันอยู่ก็เป็นได้",
+        "vi": "Hoa văn danh thiếp.\\nKhi Cyno trông trầm tư và im lặng, chưa chắc là đang nghĩ về một sự phán xét nghiêm túc, cũng có thể là chỉ đang nghĩ về những trò đùa hài hước thôi."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

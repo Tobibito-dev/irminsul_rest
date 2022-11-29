@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mysterious Stone",
+        "de": "Geheimnisvoller Stein",
+        "chs": "神秘的石块",
+        "cht": "神秘的石塊",
+        "es": "Piedra misteriosa",
+        "fr": "Pierre mystérieuse",
+        "id": "Mysterious Stone",
+        "jp": "不思議な石",
+        "kr": "신비로운 돌덩이",
+        "pt": "Pedra Misteriosa",
+        "ru": "Таинственная каменная табличка",
+        "th": "ก้อนหินลึกลับ",
+        "vi": "Tảng Đá Thần Bí"
+    },
+    "id": 101600,
+    "materialDesc": {
+        "en": "This object seems to carry the Ishine Script that was once used on Tsurumi Island.\\nBring this stone back to its rightful place.",
+        "de": "Dieser Gegenstand scheint die Ishine-Schrift zu tragen, die einst auf der Insel Tsurumi verwendet wurde.\\nBring diesen Stein zurück an seinen rechtmäßigen Platz.",
+        "chs": "似乎是鹤观文明的「石根文字」的载体。\\n将这种石块归还至合适的地方吧。",
+        "cht": "似乎是鶴觀文明的「石根文字」的載體。\\n將這種石塊歸還至合適的地方吧。",
+        "es": "Uno de los objetos en los que se inscribe la lengua Ishine de la civilización de la Isla Tsurumi.\\nDeberías devolver esta piedra a un lugar adecuado.",
+        "fr": "Du script Ishine qui était autrefois utilisé sur l'Île de Tsurumi figure sur cet objet.\\nRemettez cette pierre à sa place.",
+        "id": "Sepertinya benda ini bertuliskan Aksara Ishine yang pernah digunakan di Pulau Tsurumi.\\nKembalikan batu ini ke tempat asalnya.",
+        "jp": "鶴観文明の「イシネ文字」の運び手らしい。\\nこの石を適切な場所に戻そう。",
+        "kr": "츠루미 문명 「이시네 문자」의 매체.\\n이 돌을 적당한 곳에 되돌려 놓자",
+        "pt": "Um objeto que foi utilizado pela civilização da Ilha Tsurumi para escrever com a Escritura Ishine.\\nVamos levar essa pedra de volta para o seu local adequado.",
+        "ru": "Похоже, на ней начертаны письмена Исинэ, которые когда-то использовались на острове Цуруми.\\nВерните эту табличку на её законное место.",
+        "th": "ดูเหมือนจะเป็นสื่อกลางของ \"อักษร Ishine\" ซึ่งเป็นอารยธรรมบนเกาะ Tsurumi\\nนำก้อนหินนี้กลับไปยังสถานที่ที่เหมาะสมกันเถอะ",
+        "vi": "Hình như là vật thể khắc \"Văn Tự Ishine\" của nền văn minh Đảo Tsurumi.\\nHãy đưa tảng đá này về nơi thích hợp đi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

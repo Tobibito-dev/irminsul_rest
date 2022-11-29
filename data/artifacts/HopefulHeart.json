@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Hopeful Heart",
+        "de": "Herz voller Hoffnung",
+        "chs": "祈望之心",
+        "cht": "祈望之心",
+        "es": "Corazón de la Esperanza",
+        "fr": "Cœur plein d'espoir",
+        "id": "Hopeful Heart",
+        "jp": "祈望の心",
+        "kr": "기도하는 마음",
+        "pt": "Coração da Esperança",
+        "ru": "Полное надежд сердце",
+        "th": "Hopeful Heart",
+        "vi": "Trái Tim Cầu Nguyện"
+    },
+    "id": 24191,
+    "setId": 15019,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

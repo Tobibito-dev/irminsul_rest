@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ominous Dish",
+        "de": "Pech bringendes Gericht",
+        "chs": "散发不幸的一道菜",
+        "cht": "散發不幸的一道菜",
+        "es": "Comida que emana mala suerte",
+        "fr": "Plat porte-malheur",
+        "id": "Hidangan Ketidakberuntungan",
+        "jp": "不幸が漂う料理",
+        "kr": "불행의 기운을 내뿜는 요리",
+        "pt": "Prato que Emana Má Sorte",
+        "ru": "Несчастное блюдо",
+        "th": "อาหารที่ปล่อยกลิ่นอายแห่งลางร้าย",
+        "vi": "Tỏa Ra Mùi Vị Của Sự Bất Hạnh"
+    },
+    "id": 100739,
+    "materialDesc": {
+        "en": "This is supposed to be Bennett's specialty dish, but you can sense that this dish emanates a strange feeling of... misfortune?",
+        "de": "Dies soll Bennetts Spezialgericht sein, aber man spürt, dass dieses Gericht ein seltsames Gefühl von ... Unglück ausstrahlt?",
+        "chs": "虽说是班尼特的得意之作，但这道菜从气氛上就有一股微妙的感觉…是不幸吗？",
+        "cht": "雖說是班尼特的得意之作，但這道菜從氣氛上就有一股微妙的感覺…是不幸嗎？",
+        "es": "Supuestamente es el plato especial de Bennett, pero irradia una extraña sensación de... ¿infortunio?",
+        "fr": "Bien qu'il s'agisse là d'une confection dont Bennett est particulièrement fier, ce plat dégage comme une impression étrange de... malchance ?",
+        "id": "Ini seharusnya menjadi masakan spesialisasi Bennett, tetapi kamu dapat merasakan bahwa hidangan ini menimbulkan perasaan yang ganjil... semacam ketidakberuntungan, barangkali?",
+        "jp": "ベネットのお得意料理とはいえ、なぜかおかしな感覚がする…漂うのは…不幸か？",
+        "kr": "베넷이 만든 회심작이지만 이 요리에선 미묘한 아우라가 느껴진다… 불행일까?",
+        "pt": "Isso deveria ser a especialidade de Bennett, mas você é capaz de sentir que esse prato emite uma sensação estranha de... Azar?",
+        "ru": "Это должно было быть фирменным блюдом Беннета, но оно вызывает странное предчувствие... Может быть, это предчувствие несчастья?",
+        "th": "นี่น่าจะเป็นเมนูพิเศษของ Bennett เพราะคุณสามารถสัมผัสได้ว่าอาหารจานนี้ให้ความรู้สึกแปลก ๆ... หรือจะเป็นความโชคร้ายกันนะ?",
+        "vi": "Mặc dù là tác phẩm đáng tự hào của Bennett, món ăn này lại phảng phất một bầu không khí... thật bất hạnh phải không?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

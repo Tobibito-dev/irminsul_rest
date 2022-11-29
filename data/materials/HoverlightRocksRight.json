@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hoverlight Rocks: Right",
+        "de": "Leuchtender Felsen – Rechts",
+        "chs": "浮光山石·右",
+        "cht": "浮光山石·右",
+        "es": "Roca luminiscente (derecha)",
+        "fr": "Rocaille lumineuse : Droite",
+        "id": "Batu Bercahaya: Kanan",
+        "jp": "浮光山石·右",
+        "kr": "빛나는 산석·우",
+        "pt": "Rocha Luminescente: Direita",
+        "ru": "Светящийся камень (правый)",
+        "th": "หินเรืองแสง - ขวา",
+        "vi": "Đá Phù Quang - Phải"
+    },
+    "id": 101857,
+    "materialDesc": {
+        "en": "Bonsai rocks of moderate hardness. It is said that a glimmer will dance across the surface of these rocks during stormy weather. These can be placed on the right side of the bonsai.",
+        "de": "Ein Felsen mittlerer Härte für die Miniaturlandschaft, es heißt, bei Gewittersturm und Regen würde die Oberfläche des Felsens aufleuchten. Er kann die Miniaturlandschaft auf der rechten Seite flankieren.",
+        "chs": "硬度适中的盆景山石，据说在雷雨天气时，岩石表层将有光芒浮烁，可以摆放为盆景右侧的假山。",
+        "cht": "硬度適中的盆景山石，據說在雷雨天氣時，岩石表層將有光芒浮爍，可以擺放為盆景右側的假山。",
+        "es": "Una roca para bonsái moderadamente dura. Se dice que en su superficie bailan rayos de luz en días de tormenta. Se puede colocar en el lado derecho del macetero.",
+        "fr": "Des cailloux pour bonsaï d'une dureté modérée. Leur surface miroite lorsqu'il pleut. Ils peuvent être placés sur le côté droit de votre bonsaï.",
+        "id": "Bebatuan bonsai yang agak keras dikatakan bahwa permukaannya dapat memancarkan cuaca pada cuaca badai berpetir. Bebatuan ini dapat ditempatkan di sisi kanan bonsai.",
+        "jp": "硬い質感をした盆景山石。雷雨の日には、表面がキラキラ光ると言われている。盆景の右側に配置することができる。",
+        "kr": "적당한 경도의 분재 산석. 천둥번개가 치는 날씨에는 암석의 표면에 빛이 반짝인다. 분재 오른쪽에 배치할 수 있다",
+        "pt": "Rocha de bonsai moderadamente dura. Dizem que raios de luz dançam em sua superfície quando há uma tempestade. Pode ser colocada no lado direito do bonsai.",
+        "ru": "Камень для бонсая с довольно твёрдой текстурой. Говорят, что в грозу на его поверхности танцуют блики. Его можно поместить в правой части рокария.",
+        "th": "หินบอนไซที่มีความแข็งปานกลาง ว่ากันว่าในสภาพอากาศที่มีพายุฝนฟ้าคะนองพื้นผิวของหินจะเรืองแสงออกมา สามารถวางเป็นหินฝั่งด้านขวาของกระถางบอนไซได้",
+        "vi": "Những tảng đá bonsai hơi cứng, nghe nói trong thời tiết mưa giông, bề mặt của đá sẽ phát sáng, có thể đặt làm hòn non bộ bên phải chậu bonsai."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

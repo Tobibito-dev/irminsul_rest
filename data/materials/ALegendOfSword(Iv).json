@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Legend of Sword (IV)",
+        "de": "Vom Schwert gefunden im Herbst IV",
+        "chs": "沉秋拾剑录·四",
+        "cht": "沉秋拾劍錄·四",
+        "es": "Una leyenda de espadas (IV)",
+        "fr": "Une légende d'épée - IV",
+        "id": "Legenda Pedang (IV)",
+        "jp": "沈秋拾剣録·四",
+        "kr": "침추습검록·Ⅳ",
+        "pt": "A Lenda da Espada (IV)",
+        "ru": "Легенда о клинке (IV)",
+        "th": "ตำนานของดาบ (IV)",
+        "vi": "Trầm Thu Thập Kiếm Lục IV"
+    },
+    "id": 101535,
+    "materialDesc": {
+        "en": "There is a saying in Inazuma: \"What are bandits but the children of war?\" In times of tumult, even the harvest is a battlefield... See how this unfolds in the latest volume of \"A Legend of Sword\"!",
+        "de": "In Inazuma gibt es dieses Sprichwort: „Was sind Banditen anderes als Kinder des Krieges?“ In Zeiten des Tumults ist die Ernte auch ein Krieg! Der nächste Band von „Vom Schwert gefunden im Herbst“ ist schon da!",
+        "chs": "「所谓山贼，乃是战争之子女。」稻妻曾有如此名言…战乱年代，收割米粮亦是战争！《沉秋拾剑录》，第一剑，徐徐而出！",
+        "cht": "「所謂山賊，乃是戰爭之子女。」稻妻曾有如此名言…戰亂年代，收割米糧亦是戰爭！《沉秋拾劍錄》，第一劍，徐徐而出！",
+        "es": "Hay un proverbio de Inazuma que dice así: “los ladrones son los hijos y las hijas de la guerra”. En una época sumida en el caos de la guerra, la cosecha de arroz también está en conflicto. ¡Aquí se desenvaina la primera espada de «Una leyenda de espadas»!",
+        "fr": "Il y a un dicton à Inazuma qui dit : « Que sont les bandits si ce n'est les enfants de la guerre ? » À une époque plongée dans le chaos, même la récolte du riz est source de conflit. Le prochain volume d'« Une légende d'épée » est arrivé !",
+        "id": "Ada sebuah pepatah di Inazuma: \"Siapa itu bandit? Mereka tak lebih dari sekadar anak-anak dari medan perang?\" Di masa-masa kekacauan, panen juga *adalah* perang! Volume selanjutnya dari \"Legenda Pedang\" telah tiba!",
+        "jp": "「山賊とは戦争の子供」かつて、稲妻にはこのような言葉があった……乱世においては、粮米の刈り入れもまた戦！『沈秋拾剣録』の初太刀が今、振り下ろされる！",
+        "kr": "「무릇 산적이란, 전쟁의 자손들이다.」 이나즈마에는 이러한 명언이 전해져 내려온다… 전란의 시대에는, 쌀과 곡식을 수확하는 것 또한 전쟁이다! 《침추습검록》, 제1검, 돌격!",
+        "pt": "Existe um ditado em Inazuma: \"O que são bandidos senão filhos da guerra?\" Em tempos de revolta, uma colheita *é* a guerra! O próximo volume de \"A Lenda da Espada\" chegou!",
+        "ru": "В Инадзуме есть поговорка: «Все разбойники - дети войны». Жатва во времена войн тоже битва! Вышел новый том «Легенды о клинке»!",
+        "th": "Inazuma เคยมีคำกล่าวที่โด่งดังว่า \"สิ่งที่เรียกว่าโจรภูเขา ก็คือลูกหลานของสงคราม\"... ในปีสงคราม การเกี่ยวข้าวก็เป็นสงครามเช่นกัน! \"ตำนานของดาบ\" ดาบเล่มแรก ค่อย ๆ ปรากฏออกมาอย่างช้า ๆ!",
+        "vi": "Inazuma từng có câu \"Sơn tặc, chính là con cháu sinh ra trong chiến tranh\"...Trong những năm tháng chiến loạn, việc thu hoạch lúa cũng là một cuộc chiến! Tập tiếp theo của \"Trầm Thu Thập Kiếm Lục\", bắt đầu!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

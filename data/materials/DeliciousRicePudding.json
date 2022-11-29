@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Rice Pudding",
+        "de": "Leckerer Reispudding",
+        "chs": "美味的米饭布丁",
+        "cht": "美味的米飯布丁",
+        "es": "Pudín de arroz delicioso",
+        "fr": "Pudding de riz (delicieux)",
+        "id": "Delicious Rice Pudding",
+        "jp": "美味しそうなお米プリン",
+        "kr": "맛있는 쌀 푸딩",
+        "pt": "Pudim de Arroz Delicioso",
+        "ru": "Вкусный рисовый пудинг",
+        "th": "Rice Pudding แสนอร่อย",
+        "vi": "Pudding Gạo Ngon"
+    },
+    "id": 108308,
+    "materialDesc": {
+        "en": "A dessert made from rice. The soft, sticky rice and the sweet milk have melded together perfectly, their tastes complementing each other. If you eat it hot, you can enjoy the dense rice grains, and if you leave it till it's cold, you can savor the gentle fragrance of milk — each possessing its own beauty. People who eat such a dish cannot help but wonder: how many experiments led up to this moment?",
+        "de": "Eine Nachspeise aus Reis. Der weiche, klebrige Reis und die süße Milch sind perfekt miteinander verschmolzen, ihre Geschmäcker ergänzen sich gegenseitig. Wenn du ihn heiß isst, kannst du die dichten Reiskörner genießen, und wenn du ihn kalt werden lässt, kannst du den sanften Duft der Milch genießen. Beides hat seine eigene Schönheit. Wer ein solches Gericht isst, kann nicht anders, als sich zu fragen: Wie viele Experimente haben zu diesem Moment geführt?",
+        "chs": "由稻米制成的甜点。软糯的米饭和甘甜的牛奶均匀融合，味道相得益彰。趁热享用可以感受绵密的米粒，放冷后能品味柔滑的奶香，可谓是各有趣味。让人不禁好奇，如此完美的配比，究竟是实验过多少次才得出的呢？",
+        "cht": "由稻米製成的甜點。軟糯的米飯和甘甜的牛奶均勻融合，味道相得益彰。趁熱享用可以感受綿密的米粒，放冷後能品味柔滑的奶香，可謂是各有趣味。讓人不禁好奇，如此完美的配比，究竟是實驗過多少次才得出的呢？",
+        "es": "Un postre hecho con arroz. La textura glutinosa del cereal combina a la perfección con el sabor dulce de la leche. Si lo comes cuando está caliente, sentirás la delicada textura de cada uno de los granos de arroz, y si lo dejas enfriar, degustarás el suave sabor de la leche. ¿Cuántas veces se habrá cocinado esto para conseguir que ambas cosas se puedan saborear?",
+        "fr": "Un dessert à base de riz. Le riz doux et le lait sucré se mélangent de façon homogène et se complémentent. Lorsque vous le mangez chaud, il est possible de sentir la texture des grains de riz sur votre langue, alors qu'un doux goût laiteux s'en dégage quand il est consommé froid. Chacun y trouve son bonheur. On ne peut s'empêcher de se demander combien de fois la recette a été effectuée pour en arriver à un tel résultat.",
+        "id": "Makanan penutup yang dibuat dari nasi. Nasi ketan yang lembut dan susu yang manis telah menyatu dengan sempurna, sehingga rasanya saling melengkapi. Jika kamu memakannya selagi masih panas, kamu bisa menikmati butiran nasi yang padat tersebut, dan jika kamu membiarkannya sampai dingin, kamu bisa menikmati aroma lembut susu — masing-masing mempunyai keunggulannya tersendiri. Orang yang memakannya tidak habis pikir: berapa banyak percobaan yang dilakukan untuk bisa mendapatkan hasil yang seperti ini?",
+        "jp": "米で作られた甘味。モチモチした米と甘い牛乳が溶け合い、味が絶妙にマッチしている。熱いうちに食べると、クリーミーな米粒を楽しむことができ、冷ましてから食べると、滑らかな牛乳の香りを味わうことができる。それぞれの楽しみがあるとも言える。このような完璧な配合は、一体どれほどの試行錯誤をして得た結論なのだろう？",
+        "kr": "쌀로 제작된 디저트. 포슬포슬한 밥과 달콤한 우유가 어우러져 감칠맛을 더해준다. 따끈할 때 먹으면 알알이 촘촘한 쌀알을 느낄 수 있고, 식혀서 먹으면 부드러운 우유 향을 즐기는 재미가 쏠쏠하다. 이 완벽한 궁합은 과연 몇 번의 실험을 거쳐서 얻어졌을까?",
+        "pt": "Uma sobremesa feita de arroz. O macio e grudento arroz se misturou perfeitamente com o leite doce, com seus gostos se complementando. Se você comer quente, poderá degustar dos densos grãos de arroz, e se deixar esfriar, poderá saborear a fragrância gentil do leite, com cada uma possuindo sua beleza. Pessoas que comem tal prato não conseguem evitar de pensar: quantos experimentos foram necessários para chegar a esse momento?",
+        "ru": "Десерт из риса. Мягкий клейкий рис и сладкое молоко прекрасно дополняют друг друга. Если есть его горячим, то можно насладиться плотными рисовыми зёрнами, а если остудить, то ощутите нежный аромат молока - каждый из ингредиентов обладает своей собственной красотой. Люди, которым довелось попробовать это блюдо, не могут не задаваться вопросом: сколько экспериментов предшествовало этому моменту?",
+        "th": "ของหวานที่ทำมาจากข้าว ข้าวที่นุ่มและเหนียวผสมเป็นเนื้อเดียวกับนมรสหวาน รสชาติของมันเข้ากันได้อย่างดี เมื่อทานขณะร้อน ๆ จะรู้สึกได้ถึงเม็ดข้าวแน่น ๆ และเมื่อทานขณะเย็นจะได้รสชาติของนมที่หอมนวล ไม่ว่าจะทานร้อนหรือเย็นต่างก็มีรสชาติที่เป็นเอกลักษณ์ ทำให้ผู้คนอดไม่ได้ที่จะสงสัยว่า การจับคู่วัตถุดิบที่สมบูรณ์แบบนี้ ต้องผ่านการทดลองมากี่ครั้ง?",
+        "vi": "Món điểm tâm được làm từ gạo lúa mạch. Nếp dẻo và sữa ngọt quyện đều, hương vị bổ sung cho nhau. Thưởng thức khi còn nóng sẽ có thể cảm nhận được những hạt cơm dẻo, còn khi nguội thì có thể cảm nhận được vị sữa thơm thơm, hấp dẫn vô cùng. Mọi người không khỏi thắc mắc, rốt cuộc phải thử nghiệm bao nhiêu lần mới có được sự kết hợp hoàn hảo như vậy?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

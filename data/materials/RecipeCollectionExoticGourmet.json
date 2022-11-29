@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe Collection: Exotic Gourmet",
+        "de": "Rezeptsammlung „Geschmack anderer Welten“",
+        "chs": "食谱集·「异世寻味」",
+        "cht": "食譜集·「異世尋味」",
+        "es": "Recetario: Sabores de otros mundos",
+        "fr": "Collection de recettes « Goût d'un autre monde »",
+        "id": "Kumpulan Resep: Exotic Gourmet",
+        "jp": "レシピ集·「異世界グルメ」",
+        "kr": "레시피집·「미식 탐방」",
+        "pt": "Receita: Sabores de Outro Mundo",
+        "ru": "Сборник рецептов: Экзотичные угощения",
+        "th": "รวมสูตรอาหาร: Exotic Gourmet",
+        "vi": "Quyển Sách Nấu Ăn - Vị Ngon Dị Thế"
+    },
+    "id": 115028,
+    "materialDesc": {
+        "en": "A collection of detailed, step-by-step recipes. Will be converted into multiple recipes once obtained.",
+        "de": "Eine Sammlung von detaillierten, Schritt-für-Schritt-Rezepten. Wird nach Erhalt in mehrere Rezepte umgewandelt.",
+        "chs": "详尽记载着食物做法的书籍，获得后将转化为数个食谱。",
+        "cht": "詳盡記載著食物做法的書籍，獲得後將轉化為數個食譜。",
+        "es": "Una colección de recetas detalladas. Se convierte en varias recetas tras obtenerlo.",
+        "fr": "Un recueil de recettes détaillées étape par étape. Il se transformera en plusieurs recettes individuelles après obtention.",
+        "id": "Kumpulan resep masakan yang sangat mendetail dan terperinci. Akan terbagi menjadi beberapa resep saat didapatkan.",
+        "jp": "料理の作り方が詳しく記載されている本。入手すると複数のレシピを獲得できる。",
+        "kr": "요리 방법이 자세히 기록돼 있는 책. 획득 후 레시피 여러 개로 전환된다",
+        "pt": "Uma coleção de receitas detalhadas, passo a passo. Uma vez obtidas, serão convertidas em múltiplas receitas.",
+        "ru": "Подробное собрание кулинарных рецептов. После получения конвертируется в несколько рецептов.",
+        "th": "ชุดตำราที่บันทึกสูตรอาหารเอาไว้อย่างละเอียด เมื่อได้รับจะกลายเป็นสูตรอาหารมากมาย",
+        "vi": "Sách hướng dẫn nấu ăn, khi nhận sẽ chuyển thành một số công thức."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

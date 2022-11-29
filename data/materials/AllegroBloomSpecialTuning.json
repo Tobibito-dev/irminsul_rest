@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Allegro Bloom: Special Tuning",
+        "de": "#„Allegro-Blume – Besondere{NON_BREAK_SPACE}Stimmung“",
+        "chs": "「疾奏音律花·特殊调弦」",
+        "cht": "「疾奏音律花·特殊調弦」",
+        "es": "Flor de allegro: Afinamiento especial",
+        "fr": "Fleuron d'allegro « Accord spécial »",
+        "id": "\"Allegro Bloom: Seteman Istimewa\"",
+        "jp": "「疾奏音律花·変則チューニング」",
+        "kr": "「빠른 연주의 음률꽃·특수 조율」",
+        "pt": "Flor Allegro: Afinação Especial",
+        "ru": "Цветок аллегро: Специальная настройка",
+        "th": "\"ดอกไม้จังหวะรีบเร่ง - โทนพิเศษ\"",
+        "vi": "Hoa Tốc Âm - Giai Điệu Đặc Biệt"
+    },
+    "id": 393141,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Allegro Bloom: Special Tuning.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Allegro-Blume – Besondere Stimmung“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『疾奏音律花·特殊调弦』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『疾奏音律花·特殊調弦』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Flor de allegro: Afinamiento especial.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du fleuron d'allegro « Accord spécial ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Allegro Bloom: Seteman Istimewa\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『疾奏音律花·変則チューニング』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「『빠른 연주의 음률꽃·특수 조율』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Flor Allegro: Afinação Especial\".\\nDepois de usar, você pode entrar na interface de produção para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Цветок аллегро: Специальная настройка».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"Allegro Bloom - โทนพิเศษ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Hoa Tốc Âm - Giai Điệu Đặc Biệt\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

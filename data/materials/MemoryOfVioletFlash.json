@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Memory of Violet Flash",
+        "de": "Erinnerung des krachenden Gewitters",
+        "chs": "苍雷紫电的记忆",
+        "cht": "蒼雷紫電的記憶",
+        "es": "Recuerdo del destello violeta",
+        "fr": "Souvenir de foudre violette",
+        "id": "Memory of Violet Flash",
+        "jp": "蒼雷紫電の記憶",
+        "kr": "창뢰자전의 기억",
+        "pt": "Lembrança do Flash Violeta",
+        "ru": "Память о пурпурной молнии",
+        "th": "Memory of Violet Flash",
+        "vi": "Ký Ức Thương Lôi Tử Điện"
+    },
+    "id": 914,
+    "materialDesc": {
+        "en": "The missing star from the Talents of an Electro-aligned Traveler.",
+        "de": "Ein fehlender Stern im Elektro-Sternbild von Reisenden.",
+        "chs": "雷元素旅行者的命之座当中，缺失的星辰。",
+        "cht": "雷元素旅行者的命之座當中，缺失的星辰。",
+        "es": "Una estrella perdida en la constelación Electro del Viajero.",
+        "fr": "Une étoile manquante dans la constellation du voyageur Électro.",
+        "id": "Konstelasi yang hilang dari gugusan Talenta seorang Pengembara berelemen Electro.",
+        "jp": "雷元素を持つ旅人の命ノ星座が欠けた星屑。",
+        "kr": "번개 원소 여행자의 운명의 자리에서 사라진 별",
+        "pt": "A estrela perdida na constelação Electro do Viajante.",
+        "ru": "Недостающая звезда в созвездии Электро Путешественника.",
+        "th": "ดวงดาวที่หายไปในกลุ่มดาวของ นักเดินทางธาตุไฟฟ้า",
+        "vi": "Ngôi sao bị thiếu trong cung mệnh của Nhà Lữ Hành Nguyên Tố Lôi."
+    },
+    "materialType": "MATERIAL_TALENT"
+}

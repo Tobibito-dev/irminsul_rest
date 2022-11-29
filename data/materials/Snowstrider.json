@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Snowstrider",
+        "de": "Schneekönig",
+        "chs": "雪中君",
+        "cht": "雪中君",
+        "es": "Pisanieves",
+        "fr": "Arpente-neige",
+        "id": "Snowstrider",
+        "jp": "雪ノ君",
+        "kr": "흰눈 가시고기",
+        "pt": "Rei da Neve",
+        "ru": "Снежный странник",
+        "th": "Snowstrider",
+        "vi": "Tuyết Quân Tử"
+    },
+    "id": 131010,
+    "materialDesc": {
+        "en": "A rare stickleback that only dwells in snowy, mountainous regions. It is quite possibly due to this that it has a much cooler temperament as compared to other sticklebacks. This species has a unusually great love for the bitter cold, almost as if they were parent and child. Though they can live in warmer waters, but any removal from such conditions is like striking a spiritual blow to them, and they will become depressed and refuse to multiply.\\n\"Not a recommended catch.\" — Angler's Atlas, Snowstrider Chapter",
+        "de": "Ein seltener Stichling, der nur in verschneiten, gebirgigen Regionen lebt. Es ist gut möglich, dass dies der Grund dafür ist, dass er im Vergleich zu anderen Stichlingen ein viel kühleres Temperament hat. Diese Art hat eine ungewöhnlich große Liebe für die bittere Kälte, fast so, als könnten sie ohne die Kälte gar nicht weiterleben. Sie können zwar in wärmeren Gewässern leben, aber jede Entfernung von solchen Bedingungen ist wie ein geistiger Schlag für sie und sie werden depressiv und weigern sich, sich fortzupflanzen.\\n„Kein empfohlener Fang.“ – Angleratlas, Kapitel Schneekönig",
+        "chs": "祖祖辈辈都生活在雪山地区的珍稀棘鱼，或许正因如此。其性格意外的冷静，远不如同类那样凶狠暴躁。这种棘鱼对寒冷有着非同寻常的依恋，像父母之于孩子。虽然它们的确能在温暖水域存活，但远离寒冷似乎会让它们遭受某种心理上的重创，进而郁郁寡欢，停止繁衍。\\n「不建议捕捉它们。」——《野钓手册·雪中君篇》",
+        "cht": "祖祖輩輩都生活在雪山地區的珍稀棘魚，或許正因如此。其性格意外的冷靜，遠不如同類那樣兇狠暴躁。這種棘魚對寒冷有著非同尋常的依戀，像父母之於孩子。雖然牠們的確能在溫暖水域存活，但遠離寒冷似乎會讓牠們遭受某種心理上的重創，進而鬱鬱寡歡，停止繁衍。\\n「不建議捕捉牠們。」——《野釣手冊·雪中君篇》",
+        "es": "Un espinoso poco común que habita en regiones frías y montañosas. Quizás las bajas temperaturas son el motivo de que estos espinosos tengan un temperamento más calmado que sus parientes. Esta especie adora el frío y, aunque puede sobrevivir en aguas más cálidas, alejarse de las aguas gélidas supone un duro golpe: se deprime y se niegan a reproducirse.\\n“No son una captura recomendable”, dice el capítulo de los pisanieves del «Manual de pesca con caña».",
+        "fr": "Épinoche vivant depuis des générations dans les Monts Dosdragon, ce qui explique peut-être son caractère étonnamment posé qui le distingue de ses excités congénères. Cette créature est aussi attachée aux faibles températures qu'une mère l'est à son enfant. Bien que capables de survivre dans des températures plus modérées, les arpente-neige tombent dans un état catatonique lorsqu'ils restent trop longtemps séparés de l'environnement glacial qu'ils affectionnent et finissent par dépérir, triste conséquence du choc psychologique.\\n« Il n'est pas conseillé de les attraper. » – « Guide de la pêche sauvage - Arpente-neige »",
+        "id": "Seekor stickleback langka yang hanya tinggal di daerah pegunungan yang bersalju. Kemungkinan besar karena hal ini mereka memiliki temperamen yang jauh lebih dingin dibandingkan dengan stickleback lainnya. Spesies ini sangat mencintai dingin yang menusuk, bagaikan orang tua yang mencintai anaknya. Meskipun mereka sebenarnya dapat hidup di perairan yang lebih hangat, tapi perpindahan dan perubahan apa pun dari kondisi awal yang dingin seperti itu adalah pukulan berat terhadap kejiwaan mereka, ini bisa menyebabkan mereka tertekan dan enggan untuk berkembang biak.\\n\"Tidak disarankan untuk menangkap ikan jenis ini.\" — Angler's Atlas, Chapter Snowstrider",
+        "jp": "何世代にもわたって雪山に生息している珍しいトゲウオ。そのせいか、他のトゲウオの狂暴さとは異なり、穏やかな性格を持つ。彼らは、子供に対しての親のように、寒さに異常なる執着心を持つ。暖水でも生存できるが、寒さから遠ざかると何らかの心の傷を負い、落ち込んで繁殖しなくなってしまう。\\n「彼らを捕獲することはおすすめしない。」——『釣りガイド·雪ノ君編』",
+        "kr": "대대손손 설산 지역에 사는 진귀한 가시고기. 그래서일까, 포악한 동족과는 달리 유난히 침착하다. 이 가시고기는 자식을 향한 부모의 마음처럼 추위에 남다른 애착을 가진다. 따뜻한 수역에서도 살 수 있지만, 추위와 멀어지면 심리적 타격을 입은 듯 우울해하다 번식을 멈춘다.\\n「웬만하면 그들을 포획하지 마시오」——《민물낚시 핸드북·흰눈 가시고기 편》",
+        "pt": "Um Esgana-Gato raro que só habita em regiões nevadas e montanhosas. É bem possível que isto se deva ao seu temperamento muito mais frio em comparação com outros Esgana-Gatos. Esta espécie tem um grande amor pelo frio cruel, quase como se eles fossem pais e filhos. Embora possam viver em águas mais quentes, mas qualquer remoção de tais condições é como dar um golpe espiritual neles, e eles ficarão deprimidos e se recusarão a se multiplicar.\\n\"Não é uma captura recomendada\". - Guia de Pesca Selvagem, Capítulo das Neves",
+        "ru": "Редкая колюшка, обитающая на Драконьем хребте. Характер спокойный, нордический. Эта рыба не может жить без холода, как родитель не может жить без своего дитя. Несмотря на то, что она может выживать в тёплой воде, пребывание вдали от холода плохо влияет на её психику - она впадает в уныние и прекращает размножаться. \\n«Не рекомендуется к ловле». - «Руководство по дикой рыбалке. Глава \"Снежный странник\"»",
+        "th": "Stickleback หายากที่อาศัยอยู่เฉพาะในภูเขาที่มีหิมะปกคลุมมาหลายชั่วอายุ อาจเป็นเพราะเหตุนี้จึงทำให้พวกมันมีบุคลิกที่เยือกเย็นและไม่ดุร้ายเมื่อเทียบกับปลา Stickleback สายพันธุ์อื่น พวกมันผูกพันกับความหนาวเย็นราวกับว่าเป็นพ่อแม่และลูก แม้ว่าพวกมันจะสามารถอาศัยอยู่ในน่านน้ำที่อุ่นกว่าได้ แต่การที่ต้องอยู่ห่างจากความหนาวเย็นเป็นเรื่องที่กระทบกระเทือนจิตใจของพวกมัน พวกมันจะหดหู่และไม่ยอมขยายพันธุ์\\n\"ไม่แนะนำให้จับปลาประเภทนี้\"—— \"คู่มือนักตกปลา: ตอน Snowstrider\"",
+        "vi": "Loài cá gai quý hiếm sống ở vùng núi tuyết trắng, sinh trưởng trong băng tuyết qua nhiều thế hệ, chính vì vậy mà tính cách của chúng điềm đạm đến không ngờ, không hung dữ và bạo lực như đồng loại. Loài cá này có một sự gắn bó phi thường với cái lạnh, giống như cha mẹ với con cái. Mặc dù chúng có thể sống sót ở vùng nước ấm, nhưng việc tránh xa cái lạnh dường như khiến chúng bị tổn thương tâm lý, sau đó trở nên trầm cảm và ngừng sinh sản.\\n\"Không đề xuất bắt chúng\" - \"Sổ Tay Câu Cá - Tuyết Quân Tử\""
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

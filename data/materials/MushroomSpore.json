@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mushroom Spore",
+        "de": "Champignonsporen",
+        "chs": "「蘑菇」的孢子",
+        "cht": "「蘑菇」的孢子",
+        "es": "Espora de champiñón",
+        "fr": "Spore de champignon",
+        "id": "Mushroom Spore",
+        "jp": "「キノコ」の胞子",
+        "kr": "「버섯」 포자",
+        "pt": "Esporo de Cogumelo",
+        "ru": "Споры гриба",
+        "th": "Mushroom Spore",
+        "vi": "Bào Tử Nấm Rơm"
+    },
+    "id": 130014,
+    "materialDesc": {
+        "en": "A spore obtained from the Seed Dispensary. A quality spore full of life, just waiting to be planted in the Realm Within's fields. After some time it will grow into a Mushroom.",
+        "de": "Eine Spore, die du der Saatschachtel entnommen hast. Eine Qualitätsspore voller Leben, die nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus ein Champignon.",
+        "chs": "通过「化种匣」获取的孢子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「蘑菇」。",
+        "cht": "透過「化種匣」獲得的孢子，富有活力，品質上佳，種植於壺中洞天的田畝後，可在一段時間後生長為「蘑菇」。",
+        "es": "Una espora de buena calidad y llena de vitalidad obtenida del Semillero. Si la plantas en los campos del mundo interior de tu Relajatetera, tras cierto tiempo brotará un champiñón.",
+        "fr": "Un spore obtenu dans la boîte à graines. Un spore de qualité, plein de vie, qui n'attend qu'à être planté dans les champs de votre royaume intérieur. Après un certain temps, il deviendra un champignon.",
+        "id": "Spora yang didapatkan dari Seed Dispensary. Benih yang berkualitas dan penuh vitalitas sedang menantikan dirinya untuk ditanam di ladang di dalam Alam Poci. Setelah beberapa waktu, benih ini akan tumbuh menjadi \"Mushroom\".",
+        "jp": "「種の匣」で入手した胞子。生命力が強く品質も高い。「壺洞天」の田んぼに植え、時間が経つと「キノコ」に成長する。",
+        "kr": "「씨앗 함」을 통해 획득한 포자. 생명력이 넘치며 품질이 우수하다. 주전자 속 선계의 논밭에 재배하면 일정 시간 후 「버섯」으로 성장한다",
+        "pt": "Uma semente obtida pela Caixa de Sementificação. Está cheia de vida e é de excelente qualidade. Depois de ser plantada no Bule de Relachá e esperar um certo tempo, crescerá em um Cogumelo.",
+        "ru": "Споры из сундука семян. Эти превосходные споры полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос гриб.",
+        "th": "สปอร์ที่ได้จาก \"Seed Dispensary\" ที่เต็มไปด้วยความมีชีวิตชีวาและมีคุณภาพดี หลังจากที่ปลูกบนทุ่งกว้างของอาณาจักรในกาน้ำชาแล้ว ก็สามารถเติบโตเป็น Mushroom ได้ หลังจากเวลาผ่านไประยะหนึ่ง",
+        "vi": "Bào tử nhận từ Hộp Hạt Giống, đầy sức sống, chất lượng tốt, sau khi trồng ở Thế Giới Trong Ấm, sẽ mọc thành \"Nấm Rơm\"."
+    },
+    "materialType": "MATERIAL_HOME_SEED"
+}

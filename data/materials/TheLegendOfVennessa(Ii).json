@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Legend of Vennessa (II)",
+        "de": "Die Sage von Vennessa – Band II",
+        "chs": "温妮莎传奇·下篇",
+        "cht": "溫妮莎傳奇·下篇",
+        "es": "La leyenda de Vennessa (II)",
+        "fr": "La Légende de Vennessa - Partie II",
+        "id": "Legenda Vennessa (II)",
+        "jp": "ヴァネッサの物語·後編",
+        "kr": "바네사 전기·하편",
+        "pt": "A Lenda de Vennessa (II)",
+        "ru": "Легенда о Веннессе. Том II",
+        "th": "ตำนานของ Vennessa (II)",
+        "vi": "Truyền Thuyết Về Vennessa (II)"
+    },
+    "id": 100183,
+    "materialDesc": {
+        "en": "A popular song since the reconstruction of Mondstadt. It tells the story of Vennessa, the founder of the Knights of Favonius, in her early years when she met Barbatos, the Anemo Archon, as well as how she defeated the drake and overthrew the Aristocrats.",
+        "de": "Die seit dem Wiederaufbau von Mondstadt verbreiteten Geschichten erzählen von den frühen Jahren der Gründerin des Ordo Favonius Vennessa, wie sie den Anemo-Archon Barbatos kennenlernte, einen Drachen besiegte und die Aristokraten stürzte.",
+        "chs": "自蒙德城重建，就广为传唱的歌谣，讲述了西风骑士团创始者温妮莎早年，与风神巴巴托斯相识，战败魔龙，推翻贵族的传奇故事。",
+        "cht": "自蒙德城重建後就廣為傳唱的歌謠，講述了西風騎士團創立者溫妮莎早年與風神巴巴托斯相識，戰敗魔龍，推翻貴族的傳奇故事。",
+        "es": "Una canción popular que se remonta a los inicios de Mondstadt y que cuenta la historia de Vennessa, la fundadora de los Caballeros de Favonius, en sus primeros años cuando conoció a Barbatos, el Arconte de Anemo, y cómo derrotó al Dragón y derrocó a los Aristócratas.",
+        "fr": "Une chanson épique populaire à Mondstadt qui relate l'histoire de Vennessa, la fondatrice de l'Ordre de Favonius, de sa rencontre avec Barbatos à sa revanche contre les aristocrates de la cité.",
+        "id": "Lagu yang terkenal sejak pembangunan kembali Kota Mondstadt. Liriknya menceritakan kisah tentang Vennessa, sang pendiri Knights of Favonius, bagaimana dia bertemu dengan Archon Anemo Barbatos, bagaimana dia mengalahkan seekor naga dan menumbangkan pemerintahan yang korup.",
+        "jp": "モンド城が建てられて以来、広く歌われている歌。西風騎士団の創設者ヴァネッサが若い頃、風神バルバトスと知り合い、魔龍を破り、貴族を倒した伝説の物語が記されている。",
+        "kr": "몬드성이 재건된 후부터 전해져 내려온 민요. 페보니우스 기사단의 창시자인 바네사가 바람의 신 바르바토스와 만나 마룡을 물리치고 귀족을 무너뜨린 기적 같은 이야기를 노래하고 있다",
+        "pt": "Uma música popular desde o início de Mondstadt que conta a história de Vennessa, a fundadora dos Cavaleiros de Favonius, quando ainda era jovem e conheceu Barbatos, o Arconte Anemo, assim como derrotou o Dragão e expulsou os Aristocratas.",
+        "ru": "Песнь, известная с первых дней основания Мондштадта, рассказывающая о встрече Веннессы, основательницы Ордо Фавониус, и Барбатоса, Анемо Архонта, и о том, как она победила Дракона и свергла правление Аристократов.",
+        "th": "เพลงที่รู้จักกันดีตั้งแต่ Mondstadt ได้ก่อตั้งขึ้น มันบอกเล่าเรื่องราวของ Vennessa ผู้ก่อตั้งอัศวินแห่ง Favonius ในช่วงต้นของชีวิตที่เธอได้พบกับ Barbatos ผู้เป็นเทพแห่งลม รวมถึงเรื่องราวที่เธอกำจัดมังกร และโค่นล้มพวกชนชั้นสูงลงได้สำเร็จ",
+        "vi": "Từ khi xây lại thành Mondstadt,bài ca được truyền khắp nơi, kể về người sáng lập Đội Kỵ Sĩ Tây Phong Vennessa, người đã từng quen biết với Phong Thần Barbatos, đánh bại Ma Long, lật đổ quý tộc."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

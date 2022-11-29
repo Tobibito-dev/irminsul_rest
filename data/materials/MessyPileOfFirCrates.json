@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Messy Pile of Fir Crates",
+        "de": "Durcheinander gestapelte Tannen-Frachtkisten",
+        "chs": "交错放置的杉木货箱",
+        "cht": "交錯放置的杉木貨箱",
+        "es": "Cajas de abeto desordenadas",
+        "fr": "Pile désordonnée de caisses en épicéa",
+        "id": "Tumpukan Kotak Kayu Fir yang Berserakan",
+        "jp": "交差して置かれた杉の貨物箱",
+        "kr": "어지럽게 쌓여있는 삼나무 상자",
+        "pt": "Pilha Bagunçada de Caixotes de Abeto",
+        "ru": "Груда ящиков из пихты",
+        "th": "ตู้ขนส่งสินค้าแบบเคลื่อนย้ายได้",
+        "vi": "Rương Hàng Gỗ Sam Chất Chồng"
+    },
+    "id": 393101,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Messy Pile of Fir Crates.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Durcheinander gestapelte Tannen-Frachtkisten“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「交错放置的杉木货箱」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「交錯放置的杉木貨箱」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Cajas de abeto desordenadas.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la pile désordonnée de caisses en épicéa.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Tumpukan Kotak Kayu Fir yang Berserakan\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「交差して置かれた杉の貨物箱」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「어지럽게 쌓여있는 삼나무 상자」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Pilha Bagunçada de Caixotes de Abeto\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Груда ящиков из пихты».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ตู้ขนส่งสินค้าแบบเคลื่อนย้ายได้\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Rương Hàng Gỗ Sam Chất Chồng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

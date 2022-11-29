@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toki Alley Tales (I)",
+        "de": "Geschichten aus der Tokigasse – Teil I",
+        "chs": "鹮巷物语·一",
+        "cht": "䴉巷物語·一",
+        "es": "La novela de la Calle del Ibis (I)",
+        "fr": "Contes de l'Allée Toki - I",
+        "id": "Kisah Gang Toki (I)",
+        "jp": "朱鷺町物語·一",
+        "kr": "따오기 골목 모노가타리·I",
+        "pt": "Contos da Rua Toki (I)",
+        "ru": "Рассказы улицы Токи (I)",
+        "th": "เรื่องราวแห่งตรอก Toki (I)",
+        "vi": "Câu Chuyện Hẻm Ibis 1"
+    },
+    "id": 101508,
+    "materialDesc": {
+        "en": "The great tengu are naught but brutal braggarts, and especially when drunk! — Tanuki Historical Commentary",
+        "de": "Die großen Tengu sind nichts weiter als brutale Angeber, vor allem wenn sie betrunken sind! – Überlieferte Weisheit der Tanuki",
+        "chs": "大天狗者，乃凶残暴戾的自大狂也。酒后尤如是。——狸史氏评",
+        "cht": "大天狗者，乃兇殘暴戾的自大狂也。酒後尤如是。——狸史氏評",
+        "es": "Los grandes tengu son unos crueles y despiadados megalómanos, y más aún cuando están borrachos —comentario histórico de un tanuki.",
+        "fr": "Les grands Tengu sont brutaux et arrogants, surtout lorsqu'ils ont bu ! — Commentaire historique d'un Tanuki",
+        "id": "Tengu besar hanyalah pembual nakal dan brutal, apalagi saat sedang mabuk! — Tafsiran Sejarah Tanuki",
+        "jp": "大天狗なるもの、うぬぼれた、険悪な暴徒なり。酒を飲んだ後は、特にひどい。——狸歴史家より",
+        "kr": "텐구라는 놈은, 포악하고 잔인하며 자만심이 하늘을 찌른다. 술을 마시면 더더욱 그렇고. ㅡ너구리 사씨 평",
+        "pt": "Os grandes Tengu são cruéis e brutais, especialmente quando bêbados! Comentário Histórico Tanuki",
+        "ru": "Эти здоровяки тэнгу всего лишь жестокие и хвастливые злодеи, особенно когда напьются! - Исторический комментарий тануки",
+        "th": "Tengu ผู้ยิ่งใหญ่เป็นคนที่โหดเหี้ยมและเย่อหยิ่งจองหอง โดยเฉพาะอย่างยิ่งหลังจากดื่มเหล้า —— คำอธิบายทางประวัติศาสตร์ของทานูกิ",
+        "vi": "Tengu rất hung dữ và kiêu ngạo. Điều này đặc biệt đúng sau khi uống rượu. - Tanuki"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

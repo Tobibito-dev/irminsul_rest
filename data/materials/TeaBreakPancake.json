@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tea Break Pancake",
+        "de": "Landeierkuchen",
+        "chs": "庄园烤松饼",
+        "cht": "莊園烤鬆餅",
+        "es": "Panqueques",
+        "fr": "Pancakes",
+        "id": "Tea Break Pancake",
+        "jp": "午後のパンケーキ",
+        "kr": "장원 팬케익",
+        "pt": "Panqueca do Chá da Tarde",
+        "ru": "Блинчики к чаю",
+        "th": "Tea Break Pancake",
+        "vi": "Bánh Xốp"
+    },
+    "id": 108023,
+    "materialDesc": {
+        "en": "A stack of round pancakes. A staple originating from afternoon tea in manors. Only the best berries should be picked for this dish.",
+        "de": "Dicke, runde Eierkuchen. Früher eine Kleinigkeit für den Nachmittag, jetzt ein ganzes Hauptgericht. Hier werden nur die besten Beeren verwendet.",
+        "chs": "圆形的烤饼。从庄园的午后点心逐渐演变成为寻常主食，会用最好的树莓进行点缀。",
+        "cht": "圓形的烤餅。從莊園的午後點心逐漸演變成為尋常主食，會用最好的樹莓進行點綴。",
+        "es": "Un montón de panqueques. Un dulce imprescindible para las mejores meriendas. La esponjosa masa y las bayas dulces convierten una tarde cualquiera en una muy alegre.",
+        "fr": "Une pile de pancakes servis à l'heure du thé chez les bourgeois. Seules les meilleures baies sont sélectionnées pour agrémenter ce plat.",
+        "id": "Tumpukan panekuk berbentuk bulat. Makanan yang biasa disajikan di istana-istana sebagai pendamping teh hangat di sore hari. Hanya dapat dibuat menggunakan buah beri kualitas terbaik.",
+        "jp": "丸いパンケーキ。最初はアフタヌーンティーのおやつだったが、今は普通の主食になっている。飾りとして最高のラズベリーを使っている。",
+        "kr": "동그란 팬케익. 장원에서 오후에 먹던 디저트가 점점 주식으로 변했다. 최상의 라즈베리를 곁들였다",
+        "pt": "Uma pilha de panquecas. Prato originado nos chás da tarde das mansões. Para este prato, são escolhidas apenas as melhores frutas para serem usadas.",
+        "ru": "Стопка круглых блинчиков. Это блюдо появилось благодаря аристократам, которые любили послеобеденный чай. Для него собирают только лучшие ягоды.",
+        "th": "แพนเค้กที่จัดวางซ้อนกันอยู่ วัตถุดิบดั้งเดิมจากน้ำชายามบ่ายใน คฤหาสน์ จะใช้เฉพาะผลเบอร์รีที่ดีที่สุดสำหรับจานนี้",
+        "vi": "Bánh nướng hình tròn. Từ món ăn vặt buổi chiều nay đã trở thành món chính, dùng quả mâm xôi ngon nhất để điểm xuyết thêm cho bánh."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

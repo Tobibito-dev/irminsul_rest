@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sundial of Ages",
+        "de": "Sonnenuhr der langen Jahre",
+        "chs": "岁时之晷",
+        "cht": "歲時之晷",
+        "es": "Reloj de sol del tiempo",
+        "fr": "Cadran solaire des âges",
+        "id": "Jam Matahari Penghitung Waktu",
+        "jp": "歳時の日時計",
+        "kr": "세월의 해시계",
+        "pt": "Relógio Solar de Eras",
+        "ru": "Солнечные часы эпох",
+        "th": "นาฬิกาแดดแห่งช่วงวัย",
+        "vi": "Đồng Hồ Thời Gian"
+    },
+    "id": 101637,
+    "materialDesc": {
+        "en": "One of the six lost offerings scattered throughout The Chasm. It seems quite old now, but the etchings are still very clear, and so it can still be used.\\nThe sun is a rare sight down in The Chasm, and it is easy to lose track of time. But someday, this sundial will once again track the passage of years.",
+        "de": "Eine der sechs legendären Opfergaben, die in der Großen Kluft verstreut sind. Sie ist etwas alt, aber die Skala ist immer noch klar. Vielleicht könnte sie jetzt noch verwendet werden.\\nObwohl es schwierig ist, die Sonne in der Großen Kluft zu sehen, und sogar der Lauf der Zeit verwässert wird, wird die Sonnenuhr eines Tages wieder beginnen, die Spur der Zeit aufzuzeigen.",
+        "chs": "传说中散落在层岩巨渊的六件供物之一，已经略显老旧，但刻度依旧清晰，想必现在也能使用。\\n虽然巨渊之下难见天日，就连时间的流逝都会被稀释，但是总有一天，日晷会重新开始记录岁月的印痕。",
+        "cht": "傳說中散落在層岩巨淵的六件供物之一，已經略顯老舊，但刻度依舊清晰，想必現在也能使用。\\n雖然巨淵之下難見天日，就連時間的流逝都會被稀釋，但是總有一天，日晷會重新開始記錄歲月的印痕。",
+        "es": "Una de las seis ofrendas esparcidas por la Sima que se mencionan en las leyendas. Aunque se nota que tiene sus años, parece contar con un buen estado de conservación. Seguro que todavía se puede utilizar.\\nAunque en las profundidades de la Sima rara vez se ve el sol, el paso del tiempo no perdona en ningún lugar. No obstante, algún día, este reloj de sol volverá a registrar las cicatrices del tiempo.",
+        "fr": "L'une des six offrandes légendaires dispersées dans le Gouffre. Ce cadran semble avoir vieilli, mais ses gravures encore très claires font qu'il peut toujours être utilisé aujourd'hui.\\nLe soleil est rarement visible dans le Gouffre, il est donc facile de perdre la notion du temps. Mais un jour viendra où ce cadran solaire pourra à nouveau mesurer le passage des années.",
+        "id": "Satu dari enam benda pemberian yang hilang dan tersebar di seluruh Chasm. Benda ini sudah cukup tua, tapi ukiran penandanya masih sangat jelas, sehingga masih bisa digunakan.\\nCahaya mentari adalah pemandangan langka di dalam Chasm, sehingga orang yang hidup di sana mudah lupa waktu. Namun suatu hari nanti, jam ini akan dapat kembali menandakan berlalunya aliran waktu.",
+        "jp": "伝説によると、層岩巨淵には六つの供物が散らばっていると言う——そのうちの一つ。古いもののようだが、目盛りははっきりしていて今でも使えそうだ。\\n巨淵の下では空が見えず、時間の流れさえも薄まってしまうが、いつかまた、日時計が年月を刻み始めるだろう。",
+        "kr": "층암거연에 흩어져 있다고 전해지는 여섯 가지 공물 중 하나. 다소 낡긴 했지만, 눈금은 여전히 뚜렷해 사용에 무리는 없어 보인다.\\n거연의 아래에서는 해를 볼 수 없어 시간의 흐름마저 무뎌진다. 하지만 이 해시계도 언젠가는 세월의 흔적을 다시 기록하기 시작할 것이다",
+        "pt": "Uma das seis oferendas perdidas espalhadas pelo Despenhadeiro. Agora parece velho, mas suas marcas ainda são claras, por isso ainda pode ser utilizado.\\nO sol não é uma vista comum nos subterrâneos do Despenhadeiro, e é fácil perder a noção do tempo, mas algum dia esse relógio irá novamente marcar a passagem do tempo.",
+        "ru": "Один из шести легендарных даров, разбросанных по Разлому. Время не прошло для этих часов бесследно, но циферблат их чист, и их всё ещё можно использовать.\\nПод Разломом солнца не найти и легко потерять счёт времени. Но однажды эти солнечные часы начнут отсчёт вновь.",
+        "th": "หนึ่งในหกของสักการะที่กล่าวกันว่ากระจัดกระจายอยู่ใน Chasm เห็นได้ชัดว่ามันเก่ามากแล้ว แต่ขอบสเกลยังดูชัดเจนอยู่ คิดว่าในตอนนี้ก็ยังใช้ได้อยู่\\nแม้ว่าภายใต้ Chasm ยากที่จะได้เห็นดวงตะวัน จนแม้แต่การเคลื่อนที่กาลเวลาก็เลือนราง แต่จะต้องมีสักวันหนึ่งที่นาฬิกาแดดนี้จะได้กลับมาบันทึกร่องรอยของวันเวลาอีกครั้ง",
+        "vi": "Một trong 6 món vật phẩm hiến tế trong truyền thuyết, rải rác ở Vực Đá Sâu, đã hơi cũ kỹ, nhưng vẫn nhìn được rõ ràng, chắc là vẫn còn dùng được.\\nTuy rằng bên dưới Vực Đá Sâu khó thấy mặt trời, ngay cả dòng chảy của thời gian cũng bị hòa tan, nhưng sẽ có một ngày, thời gian sẽ lại bắt đầu ghi nhận dấu ấn mới."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

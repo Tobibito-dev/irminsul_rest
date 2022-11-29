@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sanctifying Essence",
+        "de": "Heilige Essenz",
+        "chs": "（废弃）祝圣之精华",
+        "cht": "祝聖之精華",
+        "es": "Esencia Bendita",
+        "fr": "Essence sanctifiante",
+        "id": "Sanctifying Essence",
+        "jp": "祝福の精髄",
+        "kr": "축성의 정수",
+        "pt": "Essência da Consagração",
+        "ru": "Священная Эссенция",
+        "th": "Sanctifying Essence",
+        "vi": "Tinh Hoa Chúc Phúc"
+    },
+    "id": 105004,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_RELIQUARY_MATERIAL"
+}

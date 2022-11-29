@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Abiding Angelfish",
+        "de": "Langlebiger Kaiserfisch",
+        "chs": "长生仙",
+        "cht": "長生仙",
+        "es": "Pez ángel",
+        "fr": "Scalaire chousei",
+        "id": "Abiding Angelfish",
+        "jp": "長寿仙",
+        "kr": "장수 나비 고기",
+        "pt": "Acará Devoto",
+        "ru": "Вечная рыба-ангел",
+        "th": "Abiding Angelfish",
+        "vi": "Trường Sinh Tiên"
+    },
+    "id": 131016,
+    "materialDesc": {
+        "en": "A rare and valuable butterflyfish variant from Liyue. At present, it can only be found near water bodies around the abodes of the adepti. Its pale white lines are very striking, and it has greater longevity than other members of the species and is thus regarded to be a lucky fish blessed by the adepti.\\nMost people from Liyue will refuse to eat this fish on principle, given the common respect for the adepti, but some fear no such superstition and claim that eating these fish can help one extend one's years.",
+        "de": "Eine seltene und wertvolle Schmetterlingsfisch-Variante aus Liyue. Derzeit kann man ihn nur in der Nähe von Gewässern rund um die Wohnstätten der Adepten finden. Seine blassen weißen Linien sind sehr auffällig und er hat eine größere Langlebigkeit als andere Mitglieder der Art und gilt daher als Glücksfisch, der von den Adepten gesegnet wurde.\\nDie meisten Menschen aus Liyue werden sich aufgrund des allgemeinen Respekts vor den Adepten prinzipiell weigern, diesen Fisch zu essen, aber einige fürchten keinen solchen Aberglauben und behaupten, dass der Verzehr dieser Fische einem helfen kann, seine Lebenserwartung zu verlängern.",
+        "chs": "生活在璃月的珍稀蝶鱼，如今只在仙家之所附近的水域中出没，体表的妃白色纹路轻逸出尘，相较于其他同类而言，寿命也更为悠长，因此又被认为是受仙人恩赐的祥瑞之鱼。\\n出于敬仙的朴素观念，多数璃月人拒绝食用这种蝶鱼，但也有不信邪的少数派坚信吃了它们可以延年益寿。",
+        "cht": "生活在璃月的珍稀蝶魚，如今只在仙家之所附近的水域中出沒，體表的妃白色紋路輕逸出塵，相較於其他同類而言，壽命也更為悠長，因此又被認為是受仙人恩賜的祥瑞之魚。\\n出於敬仙的樸素觀念，多數璃月人拒絕食用這種蝶魚，但也有不信邪的少數派堅信吃了牠們可以延年益壽。",
+        "es": "Una subespecie de pez mariposa muy poco común y apreciada. En la actualidad solo se puede encontrar en masas de agua cercanas a las moradas de los Adeptus. Tiene unas rayas blancas muy hermosas y vive más tiempo que sus parientes de otras especies, por lo que se considera un pez de la suerte bendecido por los Adeptus.\\nMucha gente de Liyue se niega a comer este pez por principios, debido al respeto que inspiran los Adeptus, pero otros no creen en las supersticiones y aseguran que comer este pez alarga la esperanza de vida.",
+        "fr": "Poisson-papillon rare, endémique de la région de Liyue, que l'on ne voit aujourd'hui plus qu'à proximité des demeures des Adeptes. Affichant des tons pâles d'un autre monde, il jouit d'une espérance de vie supérieure à celle de ses congénères, raison pour laquelle on le considère comme signe de bonne fortune, béni par les Adeptes.\\nLa croyance populaire et la vénération portée par les Liyuéens aux Adeptes expliquent ainsi le refus de ces derniers à l'utiliser en cuisine, bien qu'une minorité de superstitieux croient fermement que le manger soit synonyme de longévité.",
+        "id": "Varian ikan kupu-kupu yang langka dan berharga dari Liyue. Saat ini, hanya dapat ditemukan di dekat permukaan air di sekitar tempat tinggal para Adeptus. Warna garis putih pucatnya sangat mencolok, dan memiliki umur lebih panjang daripada anggota spesies lainnya, dan karena itu juga mereka dianggap sebagai ikan keberuntungan yang diberkati oleh Adeptus.\\nSebagian besar orang Liyue pada dasarnya akan menolak untuk memakan ikan ini atas dasar penghormatan mereka terhadap Adeptus. Tetapi sebagian orang lainnya lagi sudah tidak memercayai takhayul semacam itu dan mengklaim bahwa memakan ikan ini dapat membuat orang berumur panjang.",
+        "jp": "璃月で生息している珍しいチョウチョウウオ。今は仙人の住む場所に近い水域でのみ出現している。体の表面の白い桜色の模様が閑雅で、他の同類より寿命も長いため、仙人の恩恵を受けた縁起の良い魚だと思われている。\\n仙人を敬うという素朴な考えがあるため、多くの璃月人はこのチョウチョウウオを食べないが、食べると寿命を延ばせると信じている少数派もいる。",
+        "kr": "리월에 서식하는 희귀한 나비고기. 현재는 선가의 거처 근처의 수역에서만 출몰한다. 외피는 흰색의 은은한 무늬로 되어있으며 다른 동류에 비해 수명이 긴 편이다. 이로 인해 선인의 은총을 받는 상서로운 물고기로도 여겨진다.\\n신선에 대한 숭배의 이념에서 비롯되어, 대부분의 리월 사람들은 이 나비고기를 먹지 않는다. 반면, 신앙심이 결여된 몇몇 사람들은 이 나비고기를 먹으면 장수할 수 있다고 굳게 믿는다",
+        "pt": "Um peixe borboleta raro e valiosa de Liyue. No momento, só pode ser encontrado em locais próximos as moradas dos Adepti. Suas linhas pálidas brancas saltam aos olhos, e tem maior longevidade que outros peixes da mesma espécie, dessa forma, é considerado um peixe da sorte abençoado pelos Adepti.\\nDevido ao seu respeito pelos Adepti, a maioria das pessoas de Liyue se recusa a comer esse peixe por causa disso, mas alguns não temem essa superstição e dizem que comer esse peixe pode prolongar sua própria vida.",
+        "ru": "Редкий вид рыб-бабочек, обитающий в Ли Юэ. Их можно встретить только в водах рядом с обителями Адептов. Их туловище покрыто белыми прожилками. Продолжительность жизни больше, чем у других видов, поэтому считается, будто они благословлены Адептами. \\nИз-за священного образа Адептов большинство жителей Ли Юэ отказывается употреблять эту рыбу-бабочку в пищу, но всё же некоторые считают, что, съев её, они смогут обрести долголетие.",
+        "th": "ปลาผีเสื้อหายากสุดล้ำค่าที่อาศัยอยู่ใน Liyue ปัจจุบันพบได้เฉพาะในแหล่งน้ำใกล้ที่พำนักของเซียนเท่านั้น ลายเส้นสีขาวบนผิวของมันโดดเด่นเป็นอย่างมาก เมื่อเทียบกับสายพันธุ์อื่น ๆ ที่คล้ายคลึงกันพวกมันมีช่วงชีวิตที่ยาวกว่า ถือได้ว่าเป็นปลานำโชคที่ได้รับพรจากเซียน\\nเนื่องจากความเคารพที่มีต่อเหล่าเซียน ทำให้ชาว Liyue ส่วนใหญ่ปฏิเสธที่จะกินปลาผีเสื้อชนิดนี้ แต่ก็มีคนส่วนน้อยที่ไม่เชื่อเรื่องโชคลาง และอ้างว่าการกินปลาผีเสื้อชนิดนี้สามารถทำให้อายุยืนได้",
+        "vi": "Loài cá bướm quý hiếm ở Liyue, sinh sôi ở những vùng nước gần với tiên khí, bề mặt thân có vân trắng nhẹ nhàng thoát tục. So với các loại cá bướm khác, chúng có tuổi thọ cao hơn, chính vì vậy nên chúng được cho rằng đã nhận được ơn huệ của tiên nhân.\\nTừ quan niệm tôn trọng tiên nhân, đa số người dân Liyue từ chối ăn loại cá này, tuy nhiên lại có một số ít người tin rằng ăn chúng vào sẽ có thể kéo dài tuổi thọ."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

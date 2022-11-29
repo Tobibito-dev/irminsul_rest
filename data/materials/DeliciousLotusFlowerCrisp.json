@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Lotus Flower Crisp",
+        "de": "Leckerer Knusperlotos",
+        "chs": "美味的莲花酥",
+        "cht": "美味的蓮花酥",
+        "es": "Estrellitas de loto deliciosas",
+        "fr": "Beignets lotus (délicieux)",
+        "id": "Delicious Lotus Flower Crisp",
+        "jp": "美味しそうなハスの花パイ",
+        "kr": "맛있는 연꽃 파이",
+        "pt": "Bolinho de Flor de Lótus Delicioso",
+        "ru": "Вкусное печенье лотоса",
+        "th": "Lotus Flower Crisp แสนอร่อย",
+        "vi": "Bánh Hoa Sen Ngon"
+    },
+    "id": 108163,
+    "materialDesc": {
+        "en": "One of Liyue's traditional snacks. The flower petals waver to life if you gently blow on them. As you close your eyes and take a bite, a luscious flavor covers your tastebuds like a sweet harmony of blooming flowers and fluttering birds in the breeze.",
+        "de": "Eines der traditionellen Gebäcke von Liyue. Leichtes Pusten genügt, um die Blütenblätter flattern zu lassen, als wären sie lebendig. Schließ deine Augen und nimm einen Bissen. Die Wonne zwischen deinen Zähnen ist wie eine leichte Brise, die den Duft frischer Blüten mit sich bringt.",
+        "chs": "璃月的传统点心之一。小心地吹一口气，看那花瓣轻动，仿佛有了自己的生命；闭上眼睛轻咬，甜香化满唇齿。仿佛风动，花开，笛扬，鸟起。",
+        "cht": "璃月的傳統點心之一。小心地吹一口氣，看那花瓣輕動，仿佛有了自己的生命；閉上眼睛輕咬，甜香化滿唇齒。仿佛風動，花開，笛揚，鳥起。",
+        "es": "Uno de los dulces típicos de Liyue. Espira con cuidado y observa cómo los pétalos se mueven ligeramente, como si tuvieran vida propia. Al cerrar los ojos y probarlo, un dulce sabor inundará tu paladar. Es como si soplara el viento, las flores se abrieran y los pájaros alzaran el vuelo.",
+        "fr": "L'une des spécialités de Liyue. Les pétales de fleurs s'animent si vous soufflez doucement dessus. Lorsque vous fermez les yeux et que vous prenez une bouchée, une saveur succulente s'empare de vos papilles, comme une douce harmonie de fleurs épanouies et d'oiseaux flottant dans la brise.",
+        "id": "Salah satu hidangan penutup tradisional Liyue. Tarik napas dan tiuplah dengan perlahan-lahan, lihat kelopak bunganya yang bergerak dengan lembut, seolah memiliki jiwanya sendiri. Saat kamu menutup mata dan menggigitnya, rasa manis dan aroma sedapnya begitu terasa di mulut. Seakan-akan angin bertiup, bunga bermekaran, seruling berbunyi, dan burung beterbangan.",
+        "jp": "璃月の伝統点心の1つ。そっと息を吹きかけると、生命を吹き込まれたかのように花びらが揺れる。目をつむって一口かじれば、甘さが口に広がり、まるで風が吹き、花が咲き、鳥が歌い出すよう。",
+        "kr": "리월의 전통 디저트. 조심스럽게 입김을 불면 꽃잎은 마치 살아있는 듯 가볍게 떨린다. 눈을 갑고 한입 베어물면 달달한 향이 입안에 가득 퍼진다",
+        "pt": "Um dos lanches de Liyue. Olhe como as pétalas se movem quando são delicadamente sopradas, como se tivessem vida própria; ao fechar os olhos e morder, o cheiro doce preenche sua boca. Como se o vento soprasse, as flores desabrochassem e os pássaros voassem.",
+        "ru": "Традиционная закуска из Ли Юэ. Если нежно подуть, то лепестки начнут едва трепетать, как будто они живые. Закройте глаза и откусите кусочек, и нежная сладость наполнит ваш рот. Этот вкус вызывает мысли о ласковом дуновении ветерка, пении птиц и распускающихся цветах.",
+        "th": "หนึ่งในขนมที่สืบทอดกันมาของ Liyue หากเป่าเพียงเบา ๆ กลีบดอกไม้ที่พลิ้วไหวราวกับมีชีวิต เมื่อหลับตาแล้วกัดกินเข้าไป รสหวานหอมฟุ้งกระจายไปในทั่วปาก ราวกับลมพัด ดอกไม้ผลิบาน และนกที่โผบิน",
+        "vi": "Một trong những món điểm tâm truyền thống ở Liyue. Thổi nhẹ một hơi khẽ nhìn những cánh hoa rung động, dường như chúng cũng có sức sống vậy; Nhắm mặt lại rồi cắn một miếng, hương thơm ngọt ngào lan tỏa trong miệng. Làn gió, cánh hoa, tiếng sáo và cả tiếng chim dần bay lượn trong đầu."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

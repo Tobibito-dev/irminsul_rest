@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fortune Slip",
+        "de": "Orakelzettel",
+        "chs": "「御神签」",
+        "cht": "「御神籤」",
+        "es": "Papel de la fortuna",
+        "fr": "Omikuji",
+        "id": "Slip Keberuntungan",
+        "jp": "「おみくじ」",
+        "kr": "「점괘」",
+        "pt": "Rolinho da Sorte",
+        "ru": "Гадальный листок",
+        "th": "[ใบเซียมซี]",
+        "vi": "\"Thẻ Ngự Thần\""
+    },
+    "id": 100874,
+    "materialDesc": {
+        "en": "A special slip of paper that can illuminate one's fortune. Also known to a certain someone as \"strips of paper.\"\\nYou can only get one of these per day, which will cause the previous day's fortune slip to lose meaning and disappear.\\nThey say that slips that portend ill luck such as \"Misfortune\" and \"Great Misfortune\" can be tied to the Fortune Slip Hanger as a prayer for a turnaround.\\nRegardless, \"fate\" and \"destiny\" are things best grasped and forged in one's own hands.",
+        "de": "Ein spezieller Zettel, der die Vorhersagen darüber enthält, was dich heute erwarten wird. Für einen gewissen jemand sind diese Zettel nur ein paar Papierstückchen.\\nDu kannst nur einen davon pro Tag bekommen. Und die anderen Zettel, die du vorher bekommen hast, werden ihre Bedeutung verlieren und daher verschwinden.\\nMan sagt, dass die Zettel, die Unglück verheißen, wie die Zettel „Unglück“ und „Großes Unglück“, an den Orakelzettelanhänger angeknotet werden können. Auf diese Weise folgt das Pech dir nicht mehr, sondern bleibt dort zurück.\\nAber wie dem auch sei, wir alle selbst sind unseres eigenen Schicksals Schmied.",
+        "chs": "昭明今日运势的特制纸签，也被某人称为「纸片儿」。\\n每天只能求得一次签文，昨日的签也会因为不再具有意义而消失。\\n据说，「凶」和「大凶」这类不吉祥的签条，可以结在「御签挂」上，以求转运。\\n但无论如何，「命」与「运」都应该自己掌握、自己开拓吧。",
+        "cht": "昭明今日運勢的特製紙籤，也被某人稱為「紙片」。\\n每天只能求得一次籤文，昨日的籤也會因為不再具有意義而消失。\\n據說，「凶」和「大凶」這類不吉祥的籤條，可以結在「御籤掛」上，以求轉運。\\n但無論如何，「命」與「運」都應該自己掌握、自己開拓吧。",
+        "es": "Estas láminas de papel elaboradas para revelar tu fortuna del día también son conocidas por algunos como “papelitos de la fortuna”.\\nSolo es posible recibir una predicción al día. La del día anterior perderá su significado y desaparecerá.\\nLas predicciones más desafortunadas son “Infortunio” e “Infortunio mayor”. Sin embargo, puedes colgar estos papelitos para pedir que tu fortuna dé un giro en pos de la buena suerte.\\nA pesar de todo, la suerte y el destino solo están en tus manos, y debes ser tú quien los forje.",
+        "fr": "Un bout de papier spécial qui peut raviver la prospérité, aussi connu par une certaine personne sous le nom de « bande de papier ».\\nVous ne pouvez en obtenir qu'un seul par jour, car en ce faisant, celui de la veille perdra son sens et disparaîtra.\\nIl est dit que les bandes qui laissent présager de la malchance, telles que « infortune » et « grande infortune », peuvent être attachées à un portique d'omikuji, comme une prière de conjuration du mauvais sort.\\nQuoi qu'il en soit, le « destin » et la « fortune » sont des choses qu'il est préférable de saisir et de forger de ses propres mains.",
+        "id": "Selembar kertas khusus yang dapat meramal keberuntungan orang. Beberapa orang menyebutnya sebagai \"sobekan kertas\".\\nKamu hanya bisa mendapatkan benda ini 1 kali saja dalam sehari, dan hal ini akan menyebabkan slip keberuntungan di hari sebelumnya kehilangan maknanya dan menghilang.\\nOrang-orang mengatakan bahwa slip yang meramalkan nasib buruk misalnya \"Sial\" dan \"Sangat Sial\" dapat diikatkan ke Gantungan Slip Keberuntungan sebagai doa untuk merubah nasibmu.\\nNamun bagaimanapun juga, bukankah sebenarnya \"nasib\" dan \"takdir\" adalah hal yang sebaiknya dikendalikan dan diatur oleh kegigihan diri sendiri?",
+        "jp": "その日の吉凶を占ってくれるみくじ箋。とある人には「紙切れ」とも呼ばれている。\\nおみくじを引くのは一日に一回のみ。昨日のみくじ箋は効力を失い、消えてしまう。\\n「凶」や「大凶」のような結果が出た場合、「みくじ掛け」に結び、さらなるご加護を願う。\\nいずれにせよ、「運」と「命」は、自分の手で掴み、自分で切り開くべきものだ。",
+        "kr": "금일의 운세를 점칠 수 있는 특제 종이 점괘. 누군가는 「종이쪽지」라고 부르기도 한다\\n하루에 1회만 뽑을 수 있으며, 어제의 점괘 또한 효력을 잃고 사라진다\\n소문에 의하면, 「흉」이나 「대흉」 같은 불길한 점괘는 「점괘 걸이」에 걸어 전화위복을 기원할 수 있다고 전해진다\\n하지만 어찌 됐든, 「명」이나 「운」은 스스로가 제어하고 개척해야 하는 게 아닐까",
+        "pt": "Um Rolinho especial de papel que pode revelar a sorte de alguém. Também conhecido por alguém como \"pedaços de papel\".\\nVocê só pode conseguir um desses por dia, o que fará com que o Rolinho do dia anterior perca seu significado e desapareça.\\nDizem que os Rolinhos que trazem o azar, como \"Maldição\" ou \"Grande Maldição\" podem ser atrelados ao Pendurador de Rolinho da Sorte como uma oração para mudar sua sorte.\\nDe qualquer maneira, \"destino\" é uma coisa melhor entendida e forjada nas mãos da própria pessoa.",
+        "ru": "Особая бумажная палочка, способная пролить свет на будущее. Кое-кому она также известна как «полоска бумаги».\\nМожно получить только одну такую палочку в день, а вчерашняя потеряет своё значение и исчезнет.\\nГоворят, что несчастливые палочки типа «Проклятья» и «Великого проклятья», можно привязать к стойке гадальных палочек и переменить судьбу к лучшему.\\nВ любом случае судьба человека находится в его собственных руках.",
+        "th": "แผ่นกระดาษทำนายดวงชะตาประจำวันที่ทำขึ้นเป็นพิเศษ บางคนก็เรียกมันว่า \"เศษกระดาษ\"\\nในแต่ละวันจะขอคำทำนายได้เพียงแค่ครั้งเดียวเท่านั้น ซึ่งคำทำนายของเมื่อวาน ก็จะหมดความหมายและเลือนหายไป\\nว่ากันว่าคำทำนายถึงสิ่งที่ไม่เป็นมงคลอย่าง \"โชคร้าย\" และ \"มหันตภัย\" นั้นสามารถผูกติดไว้กับ \"ป้ายแขวนเซียมซี\" เพื่อขอย้ายดวงชะตาได้\\nไม่ว่าอย่างไร \"โชคชะตา\" และ \"วาสนา\" ก็ควรเป็นสิ่งที่ตนเองต้องค้นหา และไขว่คว้าด้วยตัวเองล่ะนะ",
+        "vi": "Quẻ đặc biệt cho thấy vận thế của ngày hôm nay, cũng được một người nào đó gọi là \"mảnh giấy\".\\nMỗi ngày chỉ được rút quẻ một lần, quẻ của ngày hôm qua sẽ biến mất vì không còn ý nghĩa nữa.\\nNghe nói, quẻ không may mắn \"hung\" và \"đại hung\" có thể cột lên \"Bảng Ngự Thần\" để cầu mong chuyển vận.\\nNhưng cho dù thế nào thì \"Vận\" và \"Mệnh\" cũng nên do bản thân tự nắm bắt, tự mình lèo lái."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

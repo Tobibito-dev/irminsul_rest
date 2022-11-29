@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Radish and Fish Stew",
+        "de": "Fischtopf mit Rettich",
+        "chs": "鲜鱼炖萝卜",
+        "cht": "鮮魚燉蘿蔔",
+        "es": "Guiso de pescado y rábano",
+        "fr": "Ragoût de radis et de poisson",
+        "id": "Radish and Fish Stew",
+        "jp": "魚とダイコンの煮込み",
+        "kr": "생선 무조림",
+        "pt": "Guisado Fresco de Peixe e Rabanete",
+        "ru": "Рагу из редиса и рыбы",
+        "th": "Radish and Fish Stew",
+        "vi": "Cá Tươi Hầm Củ Cải"
+    },
+    "id": 108343,
+    "materialDesc": {
+        "en": "A meat and vegetable dish. The de-skinned radishes have gone into the pot first to cook before large hunks of fish and seasonings are added in. The whole combination is then stewed on a low flame. The large servings of food — best served with rice — give everyone present a feeling of satisfaction.",
+        "de": "Ein Gericht aus Fisch und Gemüse. Der Rettich wird zuerst ohne Haut in der Pfanne gegart, bevor große Fischstücke und Gewürze hinzugefügt werden. Diese ganze Kombination wird dann bei schwacher Hitze geköchelt. Die großen Essensportionen, am besten mit Reis serviert, geben allen ein Gefühl der Zufriedenheit.",
+        "chs": "荤素搭配的菜肴。将去皮切段的白萝卜先下锅煮，再放入处理好的大块鱼肉，加入调味料，小火焖煮而成。大块的食物带给人大大的满足感，用来搭配米饭再合适不过。",
+        "cht": "葷素搭配的菜餚。將去皮切段的白蘿蔔先下鍋煮，再放入處理好的大塊魚肉，加入調味料，小火燜煮而成。大塊的食物帶給人大大的滿足感，用來搭配米飯再合適不過。",
+        "es": "Un plato de pescado y verduras. La piel del rábano se pela y se pone a hervir en una olla. Después, se añaden los trozos de pescado previamente cortados, se sazona y se guisa a fuego lento. Al probarlo, los grandes trozos dan una gustosa sensación. ¿El mejor acompañamiento? Un cuenco de arroz.",
+        "fr": "Un plat de viande et de légumes. Les radis pelés ont été cuits dans une casserole avant que les morceaux de poisson et les condiments aient été ajoutés. Le tout a été mijoté à feu doux et procure une sensation de satiété lorsqu'il est servi en portions généreuses, accompagné de riz.",
+        "id": "Hidangan yang terdiri dari daging dan sayuran. Masukkan lobak yang sudah dikupas kulitnya ke dalam panci untuk dimasak terlebih dulu, lalu tambahkan potongan besar ikan beserta bumbunya. Keseluruhan kombinasi ini kemudian direbus dengan api kecil. Hidangan dengan porsi besar ini paling ideal disajikan bersama nasi, sangat mudah memenuhi kepuasan orang-orang.",
+        "jp": "栄養バランスが良い料理。皮を剥いて輪切りにしたダイコンを煮込み、下処理済みの大きな魚肉を入れた後、調味料を加えて弱火でじっくりと煮込む。大きく切られた食材は満足感をもたらし、ご飯の組み合わせとしては最高である。",
+        "kr": "고기와 야채가 어우러진 요리. 껍질을 벗긴 흰 무를 먼저 넣고 끓이다 손질한 생선 살을 넣는다. 마지막으로 조미료를 넣고 약한 불에 오랫동안 익혀 만든 음식. 큼직한 요리는 사람들을 만족시킬 뿐 아니라, 밥과도 아주 잘 어울린다",
+        "pt": "Um prato de carnes e vegetais. Os rabanetes sem pele entraram na panela primeiro para cozinhar antes que grandes pedaços de peixe e temperos fossem acrescentados. Toda essa combinação é então cozida em fogo baixo. As grandes porções de comida - melhor servidas com arroz - dão a todos os presentes um sentimento de satisfação.",
+        "ru": "Блюдо из рыбы и овощей. Сначала в кастрюлю отправляется очищенный от кожицы редис, а затем к нему присоединяются крупные куски рыбы и приправы. Затем всё это тушится на медленном огне. Большие порции еды, которые лучше всего подавать с рисом, дают всем присутствующим чувство удовлетворения.",
+        "th": "อาหารที่มีเนื้อสัตว์ และผัก หัวไชเท้าขาวอวบที่ถูกปอกเปลือก และหั่นเป็นท่อน ๆ แล้วนำไปต้ม จากนั้นจึงใส่เนื้อปลาชิ้นใหญ่ที่ผ่านการแปรรูปแล้วลงไป อาหารชิ้นโต ๆ ทำให้ผู้คนรู้สึกพึงพอใจอย่างมาก เหมาะกับการรับประทานกับข้าวสวยร้อน ๆ",
+        "vi": "Món ăn kết hợp giữa thịt cá và rau củ. Củ cải trắng gọt vỏ cắt khúc cho vào nồi nấu trước, sau đó cho cá đã xắt miếng lớn vào, nêm nếm gia vị, chỉnh lửa nhỏ hầm chín. Những miếng thức ăn lớn đem lại cảm giác hài lòng cho người ăn, ăn kèm với cơm trắng thì ngon bá chấy."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

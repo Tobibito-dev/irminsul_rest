@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Otogi Wood",
+        "de": "Otogi-Holz",
+        "chs": "御伽木",
+        "cht": "御伽木",
+        "es": "Madera de murmurador",
+        "fr": "Bois de dulcinier",
+        "id": "Otogi Wood",
+        "jp": "御伽材",
+        "kr": "오토기나무 원목",
+        "pt": "Madeira Otogi",
+        "ru": "Отоги",
+        "th": "ไม้ Otogi",
+        "vi": "Gỗ Otogi"
+    },
+    "id": 101312,
+    "materialDesc": {
+        "en": "Wood from the Otogi Tree. It has just the right amount of moisture and oil, and as such has a great many uses.\\nCan be used to create furnishings.",
+        "de": "Das Holz des Otogi-Baums. Es hat genau die richtige Menge an Feuchtigkeit und Öl und ist daher vielseitig verwendbar.\\nKann zur Herstellung von Dekoration verwendet werden.",
+        "chs": "「御伽树」出产的木材，水分和油脂的含量恰到好处，因此有着各种用途。\\n可用于制作摆设。",
+        "cht": "「御伽樹」出產的木材，水分和油脂的含量恰到好處，因此用途廣泛。\\n可用於製作擺設。",
+        "es": "Madera obtenida de árboles murmuradores. Gracias a que contiene la cantidad exacta de humedad y grasa, se le da múltiples usos.\\nPuede utilizarse para fabricar decoraciones.",
+        "fr": "Bois obtenu à partir de dulcinier. Il renferme la quantité parfaite d'humidité et d'huile, ce qui lui permet d'avoir de nombreuses utilisations.\\nPeut être utilisé pour fabriquer des décorations.",
+        "id": "Kayu dari pohon Otogi. Kayu ini memiliki banyak kegunaan karena memiliki kelembapan dan kandungan minyak yang pas.\\nDapat digunakan untuk membuat perabotan.",
+        "jp": "「御伽の木」から生産される木材。適度な水分と油分を含んでいるため、様々な使い道がある。\\n調度品の製作に使うことができる。",
+        "kr": "「오토기나무」에서 얻어낸 목재. 수분과 유지의 함량이 꼭 알맞아 다양한 용도로 쓰이고 있다\\n장식 제작용으로 사용할 수 있다",
+        "pt": "Madeira da Árvore Otogi. Tem a quantidade certa de umidade e óleo, e por isso possui muitos usos.\\nPode ser usada para criar Decorações.",
+        "ru": "Древесина, полученная из отоги. Поскольку она содержит оптимальное количество влаги и масел, ей находится множество применений.\\nСлужит для изготовления декора.",
+        "th": "ไม้จาก \"ต้น Otogi\" มีปริมาณความชื้นและน้ำมันที่เหมาะสม ดังนั้นจึงสามารถนำไปใช้ได้อย่างหลากหลาย\\nสามารถนำมาใช้สร้างเฟอร์นิเจอร์ได้",
+        "vi": "Gỗ lấy từ Cây Otogi, hàm lượng nước và dầu vừa phải, vì vậy có nhiều công dụng khác nhau.\\nCó thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_WOOD"
+}

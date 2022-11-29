@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Picture of Starsnatch Cliff",
+        "de": "Landschaftsbild von der „Sterngreifklippe“",
+        "chs": "「摘星崖」的风景画",
+        "cht": "「摘星崖」的風景畫",
+        "es": "Imagen del paisaje del Acantilado Estrellado",
+        "fr": "Photo de la Falaise Arrachétoile",
+        "id": "Gambar Starsnatch Cliff",
+        "jp": "「星拾いの崖」の風景画",
+        "kr": "「별을 따는 절벽」 풍경 사진",
+        "pt": "Foto do Penhasco das Estrelas",
+        "ru": "Пейзаж утёса Звездолова",
+        "th": "ภาพวิว Starsnatch Cliff",
+        "vi": "Ảnh chụp phong cảnh Vực Hái Sao"
+    },
+    "id": 100812,
+    "materialDesc": {
+        "en": "A picture taken for Bea. It shows the night sky above Starsnatch Cliff.",
+        "de": "Ein Bild, das für Bea aufgenommen wurde. Es zeigt einen malerischen Blick auf den Nachthimmel von der Sterngreifklippe.",
+        "chs": "为贝雅拍下的画片，印着在「摘星崖」仰望夜空的风景。",
+        "cht": "為貝雅拍下的畫片，印著在「摘星崖」仰望夜空的風景。",
+        "es": "Una imagen capturada para Beatrix. Muestra el cielo nocturno desde el Acantilado Estrellado.",
+        "fr": "Une photo prise pour dame Béatrice. Elle montre le ciel étoilé au-dessus de la Falaise Arrachétoile.",
+        "id": "Foto yang dipotret oleh Bea. Foto ini memperlihatkan pemandangan langit malam di Starsnatch Cliff.",
+        "jp": "ベアトリーチェのために撮った風景画。「星拾いの崖」から夜空の風景が写されている。",
+        "kr": "베아트리체를 위해 찍은 사진. 「별을 따는 절벽」에서 밤하늘을 바라보는 풍경이 담겨있다",
+        "pt": "Uma foto tirada para Bea. Nela mostra o céu noturno do Penhasco das Estrelas",
+        "ru": "Фотография, сделанная специально для Беатрис. На ней изображено ночное небо над утёсом Звездолова.",
+        "th": "ภาพที่ถ่ายให้ Bea บนภาพพิมพ์วิวท้องฟ้ายามค่ำคืนของ Starsnatch Cliff เอาไว้",
+        "vi": "Bức ảnh chụp cho Beatrice, là cảnh trời đêm ở Vực Hái Sao."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

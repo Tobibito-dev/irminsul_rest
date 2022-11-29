@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Stone",
+        "de": "Merkwürdiger Stein",
+        "chs": "奇怪的石头",
+        "cht": "奇怪的石頭",
+        "es": "Piedra extraña",
+        "fr": "Pierre particulière",
+        "id": "Batu Aneh",
+        "jp": "変わった石",
+        "kr": "이상한 돌",
+        "pt": "Pedra Estranha",
+        "ru": "Странный камень",
+        "th": "หินแปลกประหลาด",
+        "vi": "Cục Đá Kỳ Lạ"
+    },
+    "id": 100563,
+    "materialDesc": {
+        "en": "A circular stone with some text engraved on the side: \"To enter, first dot the eyes.\" It seems like it should be fitted inside something...",
+        "de": "Ein kugelrunder Stein, auf dem etwas steht: „Berühre die Augen vor dem Eindringen“. Er sieht so aus, als könnte man ihn irgendwo hineinstecken.",
+        "chs": "圆球状的石头，在侧面刻着一行字「欲入需点睛」。看起来，似乎可以镶嵌进什么地方…",
+        "cht": "圓球狀的石頭，在側面刻著一行字「欲入需點睛」。看起來，似乎可以鑲嵌進什麼地方…",
+        "es": "Una piedra circular con un texto grabado en el lateral que dice así: “Contra aquellos que no añaden un toque final...”. Parece que podría caber dentro de algo...",
+        "fr": "Une pierre ronde sur laquelle est inscrit : « Pour entrer, la vue tu dois redonner. » Il semblerait qu'elle puisse être insérée quelque part...",
+        "id": "Sebuah batu bundar dengan tulisan terukir di satu sisinya: \"Sebelum masuk, tekanlah di bagian mata.\" Sepertinya batu ini bisa dimasukkan ke suatu tempat...",
+        "jp": "丸形の石。内側に「入る前に点睛したまえ」といった字が書かれている。何処かに嵌められるものらしい…",
+        "kr": "구형의 돌, 측면에 「원한다면 점을 찍어라」라고 새겨져 있다. 어딘가에 끼워 넣을 수 있을 것 같다…",
+        "pt": "Uma pedra esférica com umas letras esculpidas:\"Toque nos seus olhos antes de entrar\". Parece que você poderia colocá-lo em qualquer lugar...",
+        "ru": "Сферический камень с выгравированным на нём текстом: «Нанеси последний штрих, чтобы войти». Похоже, что его можно куда-то вставить...",
+        "th": "หินทรงกลมที่ด้านข้างได้สลักตัวอักษรเอาไว้ว่า \"ผู้ที่จะเข้าไปต้องแตะที่ดวงตา\" ดูแล้วเหมือนจะวางไว้ที่ไหนสักแห่งได้...",
+        "vi": "Viên đá hình tròn, mặt bên khắc dòng chữ \"Muốn Vào Phải Điểm Mắt\". Xem ra có thể khảm vào nơi nào đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

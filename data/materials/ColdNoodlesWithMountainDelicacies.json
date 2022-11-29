@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cold Noodles with Mountain Delicacies",
+        "de": "Kalte Bergnudeln",
+        "chs": "山珍凉卤面",
+        "cht": "山珍涼滷麵",
+        "es": "Fideos fríos con delicias de montaña",
+        "fr": "Nouilles froides aux délices de la montagne",
+        "id": "Cold Noodles with Mountain Delicacies",
+        "jp": "山幸の冷やし麺",
+        "kr": "산미 냉면",
+        "pt": "Macarrão Frio com Iguarias das Montanhas",
+        "ru": "Холодная лапша «Дары гор»",
+        "th": "Cold Noodles with Mountain Delicacies",
+        "vi": "Mì Lạnh Bát Bửu"
+    },
+    "id": 108144,
+    "materialDesc": {
+        "en": "Chongyun's specialty. Though these springy noodles would be irresistible in the sweltering summer, Chongyun insists on dining on them even in the chattering cold of winter. What a guy.",
+        "de": "Chongyuns Spezialzubereitung. Obwohl diese bissfesten Nudeln im Sommer eine tolle Erfrischung sind, besteht Chongyun auch im Winter darauf sie zu essen. Ein echter Kerl eben.",
+        "chs": "重云的特色料理。虽说韧劲十足的面条让人在炎炎夏日欲罢不能，但即使在冬天，重云也坚持食用这样的主食。当真不易。",
+        "cht": "重雲的特色料理。雖然嚼勁十足的麵條讓人在炎炎夏日欲罷不能，但就算是冬天，重雲也堅持食用這樣的主食，還真是不容易。",
+        "es": "La especialidad de Chongyun. Aunque estos elásticos fideos son irresistibles para el sofocante verano, Chongyun insiste en comerlos incluso durante el frío invierno. Sí, en serio.",
+        "fr": "Spécialité culinaire de Chongyun. Ces nouilles seraient rafraîchissantes en été, mais l'exorciste insiste également pour les manger en hiver. Quel courage...",
+        "id": "Spesialisasi Chongyun. Tekstur mie yang kenyal ini akan sangat cocok di musim panas yang terik, namun Chongyun bersikeras untuk tetap memakannya di musim dingin. Pria yang luar biasa.",
+        "jp": "重雲のオリジナル料理、歯ごたえのある麺は夏に最適だ。でも重雲は冬でも主食として食べている。本当に大変だ。",
+        "kr": "중운의 특제 요리. 쫄깃쫄깃한 면발이라 무더운 여름철에 제격이지만 중운은 겨울에도 이걸 주식으로 먹는다. 대단하다",
+        "pt": "Especialidade do Chongyun. Embora esse macarrão elástico seja irresistível em pleno verão, o Chongyun insiste em comê-los, mesmo no frio intenso do inverno. Que rapaz.",
+        "ru": "Особое блюдо Чун Юня. Знойным летом перед этой упругой прохладной лапшой при всём желании не устоять, но Чун Юнь налегает на неё даже в зимнюю стужу. Вот чудак.",
+        "th": "อาหารสูตรพิเศษของ Chongyun แม้เส้นอันเหนียวหนึบของบะหมี่จะทำให้ผู้คนไม่สามารถต้านทานได้ในฤดูร้อนที่ร้อนระอุ แต่ Chongyun ก็ยังยืนยันที่จะกินมันต่อไปถึงแม้จะเป็นฤดูหนาว ไม่ใช่เรื่องง่ายเลยจริง ๆ",
+        "vi": "Món ăn đặc sắc của Chongyun. Tuy sợi mì dai khiến mọi người không thể kiềm chế được trong mùa hè nóng bức, nhưng ngay cả trong mùa đông, Chongyun vẫn chỉ ăn nó như món chính. Thật sự không dễ dàng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Northlander Claymore",
+        "de": "Zweihänder des Nordens",
+        "chs": "北陆双手剑",
+        "cht": "北陸雙手劍",
+        "es": "Mandoble del Norte",
+        "fr": "Épée à deux mains du nord",
+        "id": "Northlander Claymore",
+        "jp": "北陸両手剣",
+        "kr": "북대륙의 양손검",
+        "pt": "Espadão do Norte",
+        "ru": "Двуручный меч Северянина",
+        "th": "Northlander Claymore",
+        "vi": "Trọng Kiếm Bắc Lục"
+    },
+    "id": 101108,
+    "materialDesc": {
+        "en": "An unknown claymore from the Northlands",
+        "de": "Ein unbekannter Zweihänder aus den nördlichen Gefilden.",
+        "chs": "北陆地区未知的双手剑",
+        "cht": "北陸地區未知的雙手劍。",
+        "es": "Mandoble desconocido del Norte",
+        "fr": "Une épée à deux mains inconnue venue du nord.",
+        "id": "Claymore misterius dari Daratan Utara.",
+        "jp": "北陸地域の未知の両手剣",
+        "kr": "북대륙의 미지의 양손검",
+        "pt": "Um Espadão desconhecido do Norte",
+        "ru": "Неизвестный двуручный меч с севера",
+        "th": "ดาบใหญ่ที่ไม่มีใครรู้จักจากแดนเหนือ",
+        "vi": "Trọng Kiếm Bắc Lục Chưa Rõ"
+    },
+    "materialType": false
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Plump Fish",
+        "de": "Molliger Fisch",
+        "chs": "丰美的鱼肉",
+        "cht": "豐美的魚肉",
+        "es": "Pescado de aspecto delicioso",
+        "fr": "Poisson dodu",
+        "id": "Plump Fish",
+        "jp": "ふくよかな魚肉",
+        "kr": "통통한 생선",
+        "pt": "Peixe Abundante",
+        "ru": "Превосходная рыба",
+        "th": "เนื้อปลาที่แสนอวบอิ่ม",
+        "vi": "Thịt Cá Tươi"
+    },
+    "id": 101669,
+    "materialDesc": {
+        "en": "A fish you just obtained from the river. It might be considered a gift from nature. It is so excellent that it only needs to be grilled a little to be delicious as can be.",
+        "de": "Ein Fisch, den du gerade aus dem Fluss geholt hast. Man könnte ihn als ein Geschenk der Natur bezeichnen. Er ist so ausgezeichnet, dass er nur ein wenig gegrillt werden muss, um köstlich zu sein.",
+        "chs": "刚刚从河中获得的鱼肉，堪称自然的馈赠。如此优秀的食材只需烧烤一番便能美味无比。",
+        "cht": "剛剛從河中獲得的魚肉，堪稱自然的饋贈。如此優秀的食材只需燒烤一番便能美味無比。",
+        "es": "Un pescado recién atrapado en un río. Podría decirse que es como un regalo de la naturaleza. Para sacar todo el sabor de un alimento tan excelente como este, solo es necesario cocinarlo a la parrilla.",
+        "fr": "Un poisson fraîchement pêché dans la rivière. On peut considérer qu'il s'agit d'un cadeau de la nature. Il est tellement bon qu'il n'a besoin qu'il suffit de le griller légèrement pour dévoiler toute sa saveur.",
+        "id": "Ikan yang baru saja kamu tangkap dari sungai. Anggap saja ikan ini sebagai pemberian dari alam. Bahan makanan yang unggul seperti ikan ini cukup dipanggang sedikit saja pasti rasanya sudah lezat tiada dua.",
+        "jp": "川から獲ったばかりの魚は自然からの贈り物と言える。このような優れた食材は、焼くだけで美味しくなる。",
+        "kr": "강가에서 방금 획득한 생선, 자연이 준 선물이라고 부른다. 훌륭한 식자재라 굽기만 해도 엄청 맛있는 요리가 된다",
+        "pt": "Um peixe obtido há pouco tempo de um rio. Pode-se dizer que é um presente da natureza. Basta assá-lo para que se torne uma comida excelente e deliciosa.",
+        "ru": "Рыба, которую вы только что выловили из реки, дар природы. Она настолько хороша, что её нужно лишь немного поджарить на гриле, чтобы в полной мере раскрыть её великолепный вкус.",
+        "th": "เนื้อปลาที่เพิ่งได้มาจากแม่น้ำ เป็นของขวัญจากธรรมชาติ วัตถุดิบชั้นเยี่ยมแบบนี้แค่ย่างสักหน่อยก็อร่อยเหาะแล้ว",
+        "vi": "Thịt cá vừa lấy được trong hồ, món quà của tự nhiên. Loại nguyên liệu tươi ngon thế này chỉ cần nướng sơ qua thôi là đã thơm ngon vô cùng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

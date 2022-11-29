@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Marjorie's Recommended Gift",
+        "de": "Von Marjorie empfohlenes Geschenk",
+        "chs": "由玛乔丽推荐的「礼物」",
+        "cht": "由瑪喬麗推薦的「禮物」",
+        "es": "Regalo recomendado de Marjorie",
+        "fr": "Cadeau conseillé par Marjorie",
+        "id": "Hadiah Rekomendasi Marjorie",
+        "jp": "マージョリーに勧められた「プレゼント」",
+        "kr": "마죠리가 추천한 「선물」",
+        "pt": "Presente Recomendado de Marjorie",
+        "ru": "Подарок, который посоветовала Марджори",
+        "th": "\"ของขวัญ\" ที่ Marjorie แนะนำ",
+        "vi": "\"Món quà\" do Marjorie giới thiệu"
+    },
+    "id": 100473,
+    "materialDesc": {
+        "en": "A gift that was recommended by Marjorie. It isn't very heavy; what kind of souvenirs could be packed inside?",
+        "de": "Ein von Marjorie empfohlenes Geschenk. Es scheint nicht sehr schwer zu sein. Was für Andenken wohl darin verpackt sind?",
+        "chs": "由玛乔丽推荐的「礼物」，入手时感觉没什么重量，不知道装着什么样的「纪念品」。",
+        "cht": "由瑪喬麗推薦的「禮物」，入手時感覺沒什麼重量，不知道裝著什麼樣的「紀念品」。",
+        "es": "Un regalo recomendado por Marjorie. No es muy pesado. ¿Qué tipo de recuerdos contendrá?",
+        "fr": "Un cadeau qui vous a été recommandé par Marjorie. Son poids est assez léger... De quoi peut-il bien s'agir ?",
+        "id": "Sebuah hadiah yang direkomendasikan oleh Marjorie. Tidak terlalu berat, entah suvenir macam apa yang ada di dalamnya.",
+        "jp": "マージョリーに勧められた「プレゼント」、重さはそんなになく、一体どんな「記念品」が入っているんだろう。",
+        "kr": "마죠리가 추천한 「선물」. 손에 들었을 때 별 무게가 없다. 안에 어떤 「기념품」이 들어있는지 모르겠다",
+        "pt": "Um presente que Marjorie recomendou. Não é muito pesado; que tipo de lembrança poderia ser guardada dentro?",
+        "ru": "Подарок, который посоветовала Марджори. Он не очень тяжёлый... Интересно, какие в нём запакованы сувениры?",
+        "th": "\"ของขวัญ\" ที่ Marjorie แนะนำ เมื่อถือไว้ในมือก็ไม่ได้รู้สึกหนักเท่าไหร่ ไม่รู้ว่าข้างในใส่ \"ของที่ระลึก\" อะไรเอาไว้",
+        "vi": "\"Món quà\" do Marjorie giới thiệu không biết là món \"đồ lưu niệm\" gì nhưng rất nhẹ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

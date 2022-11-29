@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inactivated Fungal Nucleus",
+        "de": "Inaktives Sklerotium",
+        "chs": "失活菌核",
+        "cht": "失活菌核",
+        "es": "Núcleo fúngico inerte",
+        "fr": "Noyau fongique inactivé",
+        "id": "Inactivated Fungal Nucleus",
+        "jp": "キノコンの衰菌核",
+        "kr": "활기를 잃은 버섯핵",
+        "pt": "Núcleo Fúngico Inerte",
+        "ru": "Неактивное ядро плесенника",
+        "th": "Inactivated Fungal Nucleus",
+        "vi": "Nhân Bào Nấm Đã Chết"
+    },
+    "id": 112062,
+    "materialDesc": {
+        "en": "Body tissue left behind by a Fungus that has been exposed to intense elemental stimulation.\\nIts soothing texture makes it shockingly good for stress relief. However, frequent usage can also easily lead to the Fungi multiplying, and thus the material is not suitable for any commercial use.",
+        "de": "Ein Teil des Gewebes einer Pilzbestie, dass durch Stimulation durch die Elemente der Außenwelt Form angenommen hat.\\nEs fühlt sich sehr angenehm an und eignet sich um Verspannungen zu lösen. Da es aber auch leicht zur Vervielfachung von Pilzbestien führen kann, ist es nicht für die kommerzielle Anwendung geeignet.",
+        "chs": "蕈兽的部分身体组织，在外界元素的剧烈刺激下才会形成。\\n手感很好，适合用来解压，但容易造成蕈兽大量孳生，所以不宜商用。",
+        "cht": "蕈獸的部分身體組織，在外界元素的劇烈刺激下才會形成。\\n手感很好，適合用來解壓，但容易造成蕈獸大量孳生，所以不宜商用。",
+        "es": "Una parte del tejido de los Hongos que solo se forma cuando ha sido expuesto a violentos estímulos elementales externos.\\nSu suave textura lo hace sorprendentemente bueno para aliviar el estrés. Sin embargo, también puede multiplicarse a gran escala, lo que no lo hace apropiado para uso comercial.",
+        "fr": "Du tissu d'un Fongus qui a été exposé à une stimulation élémentaire intense.\\nSa texture apaisante en fait un excellent remède contre le stress. Cependant, son utilisation peut aussi facilement conduire à une infestation de Fongus, il ne convient donc pas à un usage commercial.",
+        "id": "Jaringan tubuh yang ditinggalkan oleh Fungus yang telah terkena rangsangan unsur yang intens.\\nTeksturnya yang menenangkan membuatnya sangat baik untuk menghilangkan stres. Namun juga dapat dengan mudah menyebabkan Fungus berkembang biak, dan karenanya tidak cocok untuk penggunaan komersial",
+        "jp": "キノコンが残した体の一部。外部から激しい刺激を受けると形成される。\\n触り心地がよく、ストレス解消にいい。ただ、キノコンが大量に繁殖してしまう恐れがあるため、商品化には適さない。",
+        "kr": "버섯몬의 일부 신체 조직. 외부 원소의 격렬한 자극으로 인해 형성된다.\\n촉감이 좋아 스트레스를 풀기에 좋으나 버섯몬이 대량 번식할 수 있어 상업적인 용도로는 삼가는 게 좋다",
+        "pt": "Tecido orgânico deixado para trás por um Fungo que foi exposto a intensos estímulos elementais.\\nSua textura suave o torna surpreendentemente bom para o alívio do estresse. Entretanto, também pode facilmente causar multiplicação de Fungos, portanto, não é adequado para qualquer uso comercial.",
+        "ru": "Структура в организме плесенника, которая образуется в результате мощного воздействия силой элементов.\\nТакое ядро очень приятно на ощупь, отличное средство для снятия стресса. Не подходит для коммерческого использования, поскольку может привести к активному размножению плесенников.",
+        "th": "เนื้อเยื่อบางส่วนจากร่างกายของ Fungus ก่อตัวขึ้นจากแรงกระตุ้นที่รุนแรงของพลังธาตุจากโลกภายนอก\\nเนื้อสัมผัสดีมาก เหมาะสำหรับใช้บรรเทาความเครียด แต่อาจทำให้ Fungus เพิ่มจำนวนขึ้นเป็นอย่างมาก ดังนั้นจึงไม่เหมาะที่จะนำมาใช้งานในเชิงพาณิชย์",
+        "vi": "Một phần mô cơ thể của Nấm Quỷ được hình thành dưới sự kích thích mạnh của các nguyên tố bên ngoài.\\nRất mềm mại, thích hợp để giảm căng thẳng, nhưng cũng có thể dễ dàng dẫn đến việc sinh sôi của Nấm Quỷ, do đó không thích hợp cho bất kỳ mục đích thương mại nào."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

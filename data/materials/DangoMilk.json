@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dango Milk",
+        "de": "Kloßmilch",
+        "chs": "团子牛奶",
+        "cht": "糰子牛奶",
+        "es": "Leche de dango",
+        "fr": "Lait au dango",
+        "id": "Dango Milk",
+        "jp": "団子牛乳",
+        "kr": "경단 우유",
+        "pt": "Leite de Dango",
+        "ru": "Молоко с данго",
+        "th": "Dango Milk",
+        "vi": "Sữa Dango"
+    },
+    "id": 108305,
+    "materialDesc": {
+        "en": "A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel. All the customers who have tried it love it.\\nStill, it is dango that's been added in — drink too much and you might lose your appetite.",
+        "de": "Ein kreativer Snack, der durch die Zugabe von klebrigen Klößchen in Milch zubereitet wird. Er ist süß und hat ein dichtes Mundgefühl. Alle Kunden, die ihn probiert haben, sind begeistert.\\nAllerdings sind es nun einmal Klößchen, die hinzugefügt wurden. Trinke zu viel und du könntest schön schnell satt werden.",
+        "chs": "将粘稠的团子加入牛奶而制成的创意饮品，滋味甜美，口感绵密，尝过的客人都很喜爱。\\n只不过毕竟加入了团子，喝得太多的话可能会影响食欲。",
+        "cht": "將粘稠的糰子加入牛奶而製成的創意飲品，滋味甜美，口感綿密，嚐過的客人都很喜愛。\\n只不過畢竟加入了糰子，喝得太多的話可能會影響食欲。",
+        "es": "Un postre creativo que se hace añadiendo dango glutinoso a la leche. Es dulce y tiene una textura densa. Gusta a todo el que lo prueba.\\nPero al fin y al cabo, se trata de dango, así que no bebas mucho o te llenarás enseguida.",
+        "fr": "Une boisson créative fabriquée en ajoutant des dango collants à du lait. Douce et dense, tous ceux qui y ont goûté l'adorent.\\nCependant, il s'agit de dango quand même. Vous risquez de ne plus avoir faim si vous en buvez trop.",
+        "id": "Camilan kreatif yang dibuat dengan menambahkan dango lengket ke dalam susu. Manis rasanya, padat teksturnya. Tidak ada pelanggan yang tidak suka setelah mencobanya.\\nTapi, tetap saja di dalamnya mengandung dango, minum terlalu banyak dan kamu akan kehilangan nafsu makan.",
+        "jp": "ねっとりとした団子を牛乳に加えて出来上がったオリジナルドリンク。甘くて滑らかな食感で、食べた客に好かれている。\\nだが、団子が入っているため、飲みすぎると食欲に影響するかもしれない。",
+        "kr": "쫀득한 경단을 우유에 넣어 제작된 새로운 요리. 달콤하고 부드러운 식감에 맛본 손님들은 호평 일색이다.\\n하지만 경단이 들어간 요리인 만큼, 과식하면 식욕에 영향을 줄 수 있다",
+        "pt": "Um lanche criativo feito ao adicionar Dango pegajoso ao leite. É doce e possui uma sensação densa na boca. Todos os clientes que provaram adoraram.\\nAinda assim, se trata de Dango, se você beber muito, ficará cheio.",
+        "ru": "Креативный напиток, приготовленный путём добавления данго в молоко. Сладкий и густой. Клиенты в полном восторге.\\nНо не забывайте, что в него добавлено данго. Стоит выпить слишком много и у вас может пропасть аппетит.",
+        "th": "ของว่างสุดสร้างสรรค์ที่ทำโดยใส่ดังโงะเหนียว ๆ ลงในนม มีรสชาติหวาน รสสัมผัสนุ่มหนึบ ไม่ว่าใครลองก็ติดใจ\\nแต่เพราะใส่ดังโงะเข้าไป... ถ้าดื่มมากเกินไป อาจทำให้เบื่ออาหารได้",
+        "vi": "Thức uống sáng tạo bằng cách cho viên bột Dango vào sữa bò, vị ngọt, sánh đặc, khách hàng rất ưa chuộng.\\nChỉ là cho Dango vào nên nếu uống quá nhiều sẽ ảnh hưởng đến việc thèm ăn."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

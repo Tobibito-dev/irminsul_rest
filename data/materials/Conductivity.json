@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Conductivity",
+        "de": "Leitfähigkeit",
+        "chs": "传导率",
+        "cht": "傳導率",
+        "es": "Conductividad",
+        "fr": "Conductivité",
+        "id": "Conductivity",
+        "jp": "伝導率",
+        "kr": "전도율",
+        "pt": "Condutividade",
+        "ru": "Проводимость",
+        "th": "Conductivity",
+        "vi": "Độ Dẫn Nhiệt"
+    },
+    "id": 200262,
+    "materialDesc": {
+        "en": "When an active character triggers Electro-Charged, all of that player's party members' Elemental Burst CDs are decreased by 1s. This can occur once every 1.5s.",
+        "de": "Verringert die Abklingzeit der Spezialfähigkeiten aller Truppenmitglieder des entsprechenden Spielers um 1 s, wenn die aktuelle Figur bei Gegnern die Reaktion Unter Strom auslöst. 1,5 s Abklingzeit.",
+        "chs": "当前场上角色使敌人触发感电反应后，该玩家队伍中所有角色的元素爆发的冷却时间缩短1秒。该效果每1.5秒至多触发一次。",
+        "cht": "目前場上角色使敵人觸發感電反應後，該玩家隊伍中所有角色的元素爆發的冷卻時間縮短1秒。該效果每1.5秒至多觸發一次。",
+        "es": "Cuando el personaje en uso provoca una reacción de Electrocargado, el TdE de la Habilidad Definitiva de todos los miembros del equipo de ese jugador se reduce en 1 s. Este efecto solo puede activarse una vez cada 1.5 s.",
+        "fr": "Lorsque le personnage déployé déclenche une réaction d'Électrocution sur un ennemi, le TdR des déchaînements élémentaires de tous les personnages de l'équipe de ce joueur diminue de 1 s. Cet effet peut être déclenché une fois toutes les 1,5 s.",
+        "id": "Setelah Karakter aktif memicu reaksi Electro-Charged, durasi CD Elemental Burst seluruh anggota party milik pemain tersebut akan berkurang 1 detik. Efek ini dapat terpicu setiap 1,5 detik.",
+        "jp": "フィールドにいるキャラクターが敵に感電反応を起こすと、チーム全員の元素爆発のクールタイムが1秒減少する。この効果は1.5秒毎に1回のみ発動可能。",
+        "kr": "필드 위 캐릭터가 적에게 감전 반응 발동 후, 해당 플레이어 파티 내 모든 캐릭터의 원소폭발 재사용 대기시간이 1초 감소한다. 해당 효과는 1.5초마다 최대 1회 발동한다",
+        "pt": "Quando um personagem ativo desencadeia a reação Eletricamente Carregada, o Tempo de Recarga do Supremo de todos os membros da equipe deste jogador são reduzidos em 1s. Esse efeito pode ser desencadeado uma vez a cada 1.5s.",
+        "ru": "Когда активный персонаж вызывает реакцию Заряжен, время отката взрыва стихии всех членов отряда этого игрока уменьшается на 1 сек. Может возникнуть раз в 1,5 сек.",
+        "th": "หลังจากที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ทำให้เกิดปฏิกิริยาชาร์จไฟฟ้าแก่ศัตรู ช่วงเวลาคูลดาวน์ของท่าไม้ตายของตัวละครทั้งหมดในทีมของผู้เล่นคนดังกล่าว จะลดลง 1 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 1.5 วินาที",
+        "vi": "Khi nhân vật trong trận khiến kẻ địch kích hoạt phản ứng Điện Cảm, CD kỹ năng nộ của tất cả nhân vật trong đội của người chơi này rút ngắn 1s. Hiệu quả này mỗi 1.5s tối đa kích hoạt 1 lần."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

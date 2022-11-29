@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cheese",
+        "de": "Käse",
+        "chs": "奶酪",
+        "cht": "乳酪",
+        "es": "Queso",
+        "fr": "Fromage",
+        "id": "Cheese",
+        "jp": "チーズ",
+        "kr": "치즈",
+        "pt": "Queijo",
+        "ru": "Сыр",
+        "th": "Cheese",
+        "vi": "Phô Mai"
+    },
+    "id": 110009,
+    "materialDesc": {
+        "en": "Made from fermented milk. High in energy, it's used in a wide range of dishes.",
+        "de": "Ein aus geronnener Milch gewonnenes Erzeugnis. Es bietet gleichzeitig eine hohe Menge Energie sowie uneingeschränkte Möglichkeiten der Zubereitung.",
+        "chs": "由牛奶浓缩发酵制成的奶制品。提供热量的同时，赋予了烹饪无限可能性。",
+        "cht": "由牛奶濃縮發酵製成的乳製品。提供熱量的同時，賦予了烹飪無限可能性。",
+        "es": "Hecho de leche fermentada. Aporta mucha energía y posibilidades ilimitadas. Se utiliza en una amplia gama de platos.",
+        "fr": "Produit à base de lait fermenté. Il peut être utilisé de façons variées pour agrémenter vos plats.",
+        "id": "Terbuat dari susu yang difermentasi. Dengan nutrisi yang tinggi, makanan ini dapat digunakan untuk berbagai hidangan.",
+        "jp": "牛乳を濃縮させて発酵させた乳製品。エネルギーを補充できるだけでなく、料理に無限の可能性を与えてくれる。",
+        "kr": "우유를 발효시켜 만든 유제품. 칼로리를 공급하고 요리의 한계를 넓혀준다",
+        "pt": "Feito com leite fermentado. Fornece grande quantidade de energia e inúmeras possibilidades de uso. É usado em grande diversidade de pratos.",
+        "ru": "Кисломолочный продукт. Обладает высокой калорийностью и безграничными возможностями, используется в широком ассортименте блюд.",
+        "th": "ชีสที่ทำจากนมหมัก ด้วยพลังงานที่สูง และใช้ประกอบอาหาร ได้ไม่มีสิ้นสุด มันจึงเป็นส่วนประกอบของเมนูอาหารมากมาย",
+        "vi": "Được làm từ sữa bò lên men. Không những cung cấp năng lượng mà còn nấu được nhiều món."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

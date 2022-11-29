@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stormcrest Pie",
+        "de": "Stürmische Calzone",
+        "chs": "骇浪派",
+        "cht": "駭浪派",
+        "es": "Empanada tempestuosa",
+        "fr": "Tourte tempétueuse",
+        "id": "Stormcrest Pie",
+        "jp": "荒波パイ",
+        "kr": "격랑 파이",
+        "pt": "Torta da Tempestade",
+        "ru": "Пирог прибоя",
+        "th": "Stormcrest Pie",
+        "vi": "Bánh Gợn Sóng"
+    },
+    "id": 108245,
+    "materialDesc": {
+        "en": "Eula's specialty. It's hard to say if the unorthodox, non-full-moon shape is meant to flout tradition or express her \"tooth for a tooth\" ethos. A rich, savory, and smoky flavor emanates from beneath the golden outer crust, unlikely to be reproducible by anybody else in Mondstadt. Best not to tell her all this, though, lest she add it to her list of personal vendettas.",
+        "de": "Eulas Spezialzubereitung. Es ist schwer zu sagen, ob die Abweichung von der traditionellen Vollmond-Form der absichtliche Rebell gegen die Tradition ist oder ihr „Zahn für Zahn”-Ethos ausdrücken soll. Unter der goldenen Kruste kommt ein salziger, frischer, geräucherter Geschmack zum Vorschein, der in seiner Fülle und Intensität wahrscheinlich von keinem anderen in Mondstadt erreicht wird. Am besten sagst du ihr das aber nicht, damit sie sich nicht daran „erinnert“.",
+        "chs": "优菈的特色料理。不同于圆月的造型不知是在反抗传统，还是表达她「以牙还牙」的行事作风。金黄外皮之下，咸鲜的烟熏风味饱满浓郁，全蒙德也难找到第二个能做出如此美味的人…但要是这样说出口的话，恐怕又会被她「记仇」了吧。",
+        "cht": "優菈的特色料理。不同於圓月的造型不知是在反抗傳統，還是表達她「以牙還牙」的行事作風。金黃外皮之下，鹹鮮的煙燻風味飽滿濃郁，全蒙德也難找到第二個能做出如此美味的人…但要是這樣說出口的話，恐怕又會被她「記仇」了吧。",
+        "es": "La especialidad de Eula. No está claro si la forma de luna expresa su rechazo a la tradición o si manifiesta su principio de “diente por diente”. Al partir el hojaldre dorado, un delicioso olor ahumado escapa del interior. A nadie más en Mondstadt le sale tan bien esta empanada, pero es mejor que no se lo digas, no vaya a querer vengarse...",
+        "fr": "Spécialité culinaire d'Eula. On ne sait pas si sa forme atypique est un pied de nez aux traditions ou l'illustration de sa philosophie « dent pour dent ». Des effluves salées et fumées s'échappent de la croûte dorée. Nul ne prépare ce plat aussi bien à Mondstadt. Mais passez-vous de le lui dire de peur de raviver d'anciennes rancunes...",
+        "id": "Hidangan spesialisasi Eula. Makanan yang dibentuk tidak menyerupai bulan ini sepertinya mengekspresikan perlawanan Eula terhadap tradisi yang ada atau menggambarkan pepatah \"gigi dibalas gigi\". Rasa asin, segar, dan berasap muncul dari balik kerenyahan bagian luarnya yang berwarna keemasan. Intensitas dan rasanya tidak bisa dibandingkan dengan pie lainnya di Mondstadt. Tapi lebih baik jangan mengatakan hal ini padanya, kalau tidak, Eula pasti akan \"membalaskan dendamnya\".",
+        "jp": "エウルアのオリジナル料理。月のような形は、伝統に反抗したものなのか、もしくは彼女の「目には目を」の精神の表れなのかもしれない。黄金色の皮の中には、塩味と新鮮なスモークの風味が漂う。こんなに美味しいものを作れる人は、彼女以外にいないだろう…しかし、このような褒め言葉は彼女に聞かれない方がいい。「恨み」を覚えられるからだ。",
+        "kr": "유라의 특제 요리. 초승달 모양이 전통에 반항하는 것인지, 아니면 「눈에는 눈, 이에는 이」라는 그녀의 업무 방식을 표현한 것인지는 알 수 없다. 황금색 껍질에 짭짤한 훈제 향이 가득해 몬드를 통틀어도 이런 금손은 찾기 힘들지만… 이렇게 말했다간 또 한 번 그녀의 「원한」을 사게 될 것이다",
+        "pt": "A especialidade de Eula. É difícil dizer se a forma de meia-lua é para desrespeitar a tradição ou expressar sua filosofia de \"olho por olho, dente por dente\". Um sabor salgado, fresco e defumado emana sob a crosta externa dourada, dificilmente qualquer outra pessoa em Mondstadt saberia fazer essa iguaria da mesma forma... no entanto, é melhor não dizer isso a ela, para que ela não \"se vingue\" disso.",
+        "ru": "Особое блюдо Эолы. Является ли форма неполной луны насмешкой над традициями, или отражает жизненный принцип Эолы «зуб за зуб», неизвестно. Под золотистой коркой находится ароматная, солёная с дымком начинка. Второго такого лакомства не сыскать во всём Мондштадте. Вот только лучше этого Эоле не говорить, иначе она ещё припомнит.",
+        "th": "เมนูพิเศษของ Eula ไม่รู้ว่ารูปร่างที่แตกต่างไปจากพระจันทร์เต็มดวงนั้น เป็นการต่อต้านประเพณี หรือแสดงถึงความ \"ตาต่อตา ฟันต่อฟัน\" ของเธอกันแน่ ภายใต้ผิวชั้นนอกสีทอง รสชาติรมควันที่แสนอร่อยและเข้มข้น ยากที่จะหาคนอื่นใน Mondstadt ที่จะทำรสชาติเช่นนี้ออกมาได้... แต่ว่าถ้าพูดไปแบบนี้ ก็กลัวจะถูกเธอ \"คิดแค้น\" เอาน่ะสิ",
+        "vi": "Món ăn đặc biệt của Eula. Khác ở chỗ tạo hình trăng tròn, không biết là muốn đi ngược truyền thống hay là đại diện tác phong làm việc \"Ăn miếng trả miếng\" của cô ấy. Dưới lớp vỏ vàng ươm là mùi thơm nồng của khói xông, cả thành Mondstadt cũng không tìm ra người thứ hai có thể tạo ra mùi hương như thế...Nhưng mà nếu nói ra điều này, e rằng lại bị cô ấy \"ghim thù\" đó."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

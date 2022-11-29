@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Cold Cut Platter",
+        "de": "Misslungene kalte Fleischplatte",
+        "chs": "奇怪的冷肉拼盘",
+        "cht": "奇怪的冷肉拼盤",
+        "es": "Plato de carnes frías extraño",
+        "fr": "Assortiment de charcuterie (suspect)",
+        "id": "Suspicious Cold Cut Platter",
+        "jp": "微妙な冷製肉盛り合わせ",
+        "kr": "이상한 냉채수육",
+        "pt": "Prato Estranho de Carnes Frias",
+        "ru": "Странное мясное ассорти",
+        "th": "Cold Cut Platter รสประหลาด",
+        "vi": "Thịt Lạnh Kỳ Lạ"
+    },
+    "id": 108059,
+    "materialDesc": {
+        "en": "A plate of cold cut meat. Seems a little too cold, probably not good for those with bad teeth or sensitive stomachs.",
+        "de": "Ein gemischter Teller voller Fleisch. Diese kalte Platte ist doch etwas zu kalt. Ob das für die Zähne oder gar den Magen zuträglich ist, wird sich zeigen.",
+        "chs": "摆满肉类的拼盘。似乎做得太冷了一点，可能对牙齿和肠胃不好的人而言是一种折磨。",
+        "cht": "擺滿肉類的拼盤。似乎做得太冷了一點，可能對牙齒和腸胃不好的人而言是一種折磨。",
+        "es": "Un plato de carnes frías adobadas. Los ingredientes parecen demasiado fríos. No debe ser muy bueno para aquellos con unos dientes y un estómago sensibles.",
+        "fr": "Un assortiment de chacuterie qui est peut-être encore un peu trop froid. Dents et estomacs sensibles s'abstenir !",
+        "id": "Sepiring daging yang disajikan dingin. Sepertinya terlalu dingin, tidak dianjurkan bagi orang dengan lambung sensitif.",
+        "jp": "肉類がたくさん入った盛り合わせ。冷やしすぎてしまったようで、歯や胃が弱い人にとっては一種の苦行になるかもしれない。",
+        "kr": "고기가 듬뿍 들어 있는 냉채. 고기를 꽁꽁 얼려버려서 치아와 위가 안 좋은 사람에게는 고문이다",
+        "pt": "Um prato com carnes frias cortadas. Parece um pouco frio demais, provavelmente não muito bom para aqueles que tem dentes sensíveis.",
+        "ru": "Холодное блюдо из мясной нарезки. Возможно, чересчур холодное. Вряд ли его смогут есть люди с больными зубами или чувствительным желудком.",
+        "th": "เมนูเนื้อตัดเย็น ดูเหมือนจะเย็นเกินไปหน่อยซะด้วย น่าจะไม่เหมาะกับคนที่ฟันไม่ดีหรือท้องเสียง่ายนะ",
+        "vi": "Đĩa thức ăn đầy thịt. Hình như hơi nguội, không tốt cho người bị đau răng và dạ dày."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

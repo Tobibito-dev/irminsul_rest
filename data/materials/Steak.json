@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Steak",
+        "de": "Steak",
+        "chs": "烤肉排",
+        "cht": "烤肉排",
+        "es": "Filete a la barbacoa",
+        "fr": "Steak",
+        "id": "Steak",
+        "jp": "ステーキ",
+        "kr": "스테이크",
+        "pt": "Bife",
+        "ru": "Мясной стейк",
+        "th": "Steak",
+        "vi": "Sườn Nướng"
+    },
+    "id": 108008,
+    "materialDesc": {
+        "en": "A grilled steak. High heat has locked the juices in, giving one high expectations for when the meat is cut open.",
+        "de": "Ein gebratenes Steak. Die hohe Temperatur beim Braten hat den Fleischsaft eingeschlossen, sodass man sich nach dem Moment des Aufschneidens sehnt.",
+        "chs": "煎烤过的肉排。高温将水分紧锁其中，令人期待它切开后流汁的样子。",
+        "cht": "煎烤過的肉排。高溫將水分緊鎖其中，令人期待它切開後流汁的樣子。",
+        "es": "Un filete a la parrilla. El calor que ha absorbido al ser cocinado le da un toque muy jugoso, el cual se puede apreciar al cortarlo.",
+        "fr": "Un morceau de viande grillée. La cuisson à point permet à la viande de libérer son jus appétissant à la découpe.",
+        "id": "Bistik panggang. Suhu yang tinggi mengunci sari di dalam bistik yang mengalir indah saat dipotong.",
+        "jp": "強火で焼いたステーキ。肉汁を逃さずに焼き上げたジューシーなお肉はたまらない。",
+        "kr": "구워진 스테이크. 레스팅을 거쳐 풍부한 육즙을 머금고 있다. 썰면 육즙이 흐를 것 같다",
+        "pt": "Um bife grelhado. Todos estão à espera do momento de apreciar a sua suculência ao ser cortado.",
+        "ru": "Жареный мясной стейк. Прожаренный с обеих сторон кусок мяса при разрезе пускает тёплый и питательный мясной сок. Объедение!",
+        "th": "สเต๊กย่างที่ใช้ไฟแรงกักให้น้ำในเนื้อ ยังคงอยู่ข้างใน ให้ความรู้สึกที่สุดยอดเมื่อหั่นมัน",
+        "vi": "Sườn nướng trên lửa. Nhiệt độ cao làm nước được giữ bên trong, khiến người ta rất trông mong dáng vẻ tươm mỡ của nó khi được cắt ra."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

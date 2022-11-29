@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Drifting Bottle With Letter",
+        "de": "Flaschenpost mit Brief",
+        "chs": "装有信件的漂流瓶",
+        "cht": "裝有信件的漂流瓶",
+        "es": "Botella a la deriva con mensaje",
+        "fr": "Bouteille à la dérive contenant une lettre",
+        "id": "Botol Hanyut Berisi Surat",
+        "jp": "手紙が入った漂流瓶",
+        "kr": "편지가 들어 있는 해류병",
+        "pt": "Garrafa à Deriva com Carta",
+        "ru": "Дрейфующая бутылка с письмом",
+        "th": "ขวดลอยน้ำกับจดหมายข้างใน",
+        "vi": "Bình Trôi Đựng Thư"
+    },
+    "id": 101559,
+    "materialDesc": {
+        "en": "A floating bottle that you fished up accidentally. The cork on this bottle has already been damaged, and the letter within has been mildewed. Thankfully, you discovered it in time, or its contents may have become lost to time altogether.",
+        "de": "Eine Flaschenpost, die du aus Versehen aufgefischt hast. Der Korken dieser Flasche ist bereits beschädigt und der Brief darin ist verschimmelt. Zum Glück hast du sie rechtzeitig entdeckt, sonst wäre ihr Inhalt vielleicht schon verloren.",
+        "chs": "无意中钓上来的漂流瓶，瓶口的塞子已经出现了破损，内部的信件也染上了霉斑。多谢你及时发现了这个小东西，否则它用不了多久就得坠入时间尽头了。",
+        "cht": "#無意中釣上來的漂流瓶，瓶口的塞子已經出現了破損，內部的信件也染上了黴斑。多謝{F#妳}{M#你}及時發現了這個小東西，否則它用不了多久就得墜入時間盡頭了。",
+        "es": "Una botella a la deriva que pescaste por casualidad. El tapón está dañado y al mensaje le ha salido moho. Menos mal que la encontraste a tiempo, o su contenido habría estado perdido para siempre.",
+        "fr": "Une bouteille pêchée par accident. Son bouchon semble endommagé et la lettre qui est à l'intérieur présente des taches de moisissures. Sans vous, cet objet serait tombé dans les profondeurs du temps.",
+        "id": "Botol mengambang yang tidak sengaja kamu ambil. Tutup botolnya sudah rusak, dan surat di dalamnya juga sudah berjamur. Untungnya, kamu menemukannya tepat waktu, jika tidak isinya pasti akan hancur semua.",
+        "jp": "釣り上げた漂流瓶。瓶のコルク栓にすでに損傷があり、中の手紙にもカビが付いた。幸いなことに、あなたがこれを見つけた。そうでなければ、時間とともに失われていたのかもしれない。",
+        "kr": "의도치 않게 낚은 해류병. 입구의 마개는 일부 파손되었으며, 안의 편지도 곰팡이로 얼룩이 져 있다. 당신이 발견하지 않았다면, 이 해류병은 얼마 못 가 시간의 저편으로 사라졌을 것이다",
+        "pt": "Uma Garrafa à Deriva que você pescou acidentalmente. A rolha dessa garrafa já está danificada e a carta dentro está bolorenta. Felizmente, você a descobriu a tempo, ou seu conteúdo teria se perdido completamente.",
+        "ru": "Дрейфующая бутылка, которую вы случайно выловили. Пробка повреждена, а письмо внутри покрылось плесенью. К счастью, вы вовремя обнаружили её, иначе содержимое могло бы безвозвратно затеряться во времени.",
+        "th": "ขวดลอยน้ำที่คุณตกขึ้นมาโดยไม่ได้ตั้งใจ ปากขวดได้รับความเสียหายบางส่วน และจดหมายภายในก็เริ่มขึ้นรา โชคดีที่คุณค้นพบมันทันเวลา มิฉะนั้นเนื้อหานั้นอาจสูญหายไปตามกาลเวลาก็เป็นได้",
+        "vi": "Bình trôi vô tình vớt được, nắp bình đã bị hỏng, lá thư bên trong cũng bị ẩm mốc. Cám ơn bạn đã phát hiện kịp lúc, nếu không thì chẳng bao lâu nữa nó sẽ bị thời gian vùi lấp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

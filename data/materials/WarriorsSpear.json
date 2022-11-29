@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Warrior's Spear",
+        "de": "Lanze des Gleichgesinnten",
+        "chs": "同泽之枪",
+        "cht": "同澤之槍",
+        "es": "Lanza del guerrero",
+        "fr": "Lance de guerrier",
+        "id": "Tombak Prajurit",
+        "jp": "同沢の槍",
+        "kr": "전우의 창",
+        "pt": "Lança do Guerreiro",
+        "ru": "Копьё соратника",
+        "th": "หอกนักรบ",
+        "vi": "Thương Chiến Binh"
+    },
+    "id": 101640,
+    "materialDesc": {
+        "en": "One of the six lost offerings scattered throughout The Chasm. It was lost amid the ancient battlefield five hundred years ago. The long years have worn the edge of the spear-point away, but it still looks quite ominous nonetheless.\\nOne can imagine that it was once wielded by a warrior most brave, earning the cheers of the young wherever it swept, even unto The Chasm itself.",
+        "de": "Eines der sechs verlorenen Opfergaben, die in der Großen Kluft verstreut sind. Sie wurde vor fünfhundert Jahren auf dem alten Schlachtfeld verloren. Die langen Jahre haben die Schneide der Speerspitze abgenutzt, aber sie sieht immer noch ziemlich bedrohlich aus.\\nMan kann sich vorstellen, dass sie einst von einem sehr tapferen Krieger geführt wurde, der den Jubel der jungen Leute erntete, wo immer er auftauchte, sogar in der Kluft selbst.",
+        "chs": "传说中散落在层岩巨渊的六件供物之一，散落在五百年前的古战场上。也许因为历时太久，枪尖已经不再锋利，但是仍旧寒气逼人。\\n想必它曾经也在勇士手中如银龙出水，横扫层岩，所过之处，一度遍是年轻人们的欢声。",
+        "cht": "傳說中散落在層岩巨淵的六件供物之一，散落在五百年前的古戰場上。也許因為歷時太久，槍尖已經不再鋒利，但是仍舊寒氣逼人。\\n想必它曾經也在勇士手中如銀龍出水，橫掃層岩，所過之處，一度遍是年輕人們的歡聲。",
+        "es": "Una de las seis ofrendas legendarias esparcidas por la Sima. Se encontró en un antiguo campo de batalla de hace quinientos años. La punta de esta lanza ya no es muy afilada, quizás debido a todo el tiempo que ha pasado desde entonces. Sin embargo, eso no hace que sea una amenaza menor.\\nEn el pasado, esta lanza, seguramente extraordinaria en manos de algún guerrero que asoló la Sima con ella, recibía el clamor de los jóvenes allá por donde pasaba.",
+        "fr": "L'une des six offrandes légendaires dispersées dans le Gouffre. Elle a été perdue au milieu du champ de bataille d'il y a cinq siècles. Le tranchant et la pointe de cette lance ont été usés par les années, ce qui ne la rend néanmoins pas moins menaçante.\\nOn peut imaginer que par le passé, cette lance a été brandie vaillamment par un guerrier, suscitant les acclamations des jeunes partout où elle passait, même au Gouffre.",
+        "id": "Satu dari enam benda pemberian yang hilang dan tersebar di seluruh Chasm. Benda ini hilang di tengah medan perang kuno lima ratus tahun yang lalu. Tahun-tahun panjang yang berlalu telah menumpulkan ujungnya, namun tombak ini masih tetap terlihat berbahaya.\\nOrang yang melihatnya masih dapat membayangkan ketika benda ini digunakan oleh seorang prajurit yang gagah berani pada masanya, setiap tusukan dan tebasan darinya yang selalu diiringi sorak sorai para muda-mudi, bahkan ketika ia terbenam di kedalaman Chasm.",
+        "jp": "層岩巨淵に散らばっている六つの伝説の供物の一つ。五百年前の古戦場に残されていたもの。長い時間が経ったために、もはや穂先の鋭さは無いが、未だ見る者を寒気立たせる。\\nかつて勇士が手にしていた頃は、層岩を一掃する銀龍の如く、行く先々で若者の歓声を引き寄せていた。",
+        "kr": "층암거연에 흩어져 있다고 전해지는 여섯 가지 공물 중 하나. 500년 전의 옛 전장에 흩어져 있다. 오랜 세월이 지나서인지 창끝이 더 이상 예리하진 않지만 여전히 한기가 서늘하다.\\n과거에는 이 창도 용사의 손에서 물 만난 고기처럼 층암을 휩쓸었을 것이고, 이르는 곳마다 젊은이들의 환호로 가득했을 것이다",
+        "pt": "Uma das seis oferendas perdidas espalhadas pelo Despenhadeiro. Ela foi perdida no campo de batalha quinhentos anos atrás. O passar do tempo cegou a lâmina da ponta da lança, mas ela ainda parece muito ominosa.\\nÉ possível imaginar que ela foi brandida por um guerreiro valente, recebendo os aplausos dos jovens onde quer que tenha passado, até mesmo no Despenhadeiro.",
+        "ru": "Один из шести легендарных даров, разбросанных по Разлому. Это копьё нашли на древнем поле боя пять сотен лет назад. Похоже, годы затупили его остриё, но оно всё так же смертоносно.\\nВозможно, некогда оно в руках воина стальной молнией раскалывало валуны, а вид его вызывал ликование молодёжи.",
+        "th": "หนึ่งในหกของสักการะที่กล่าวกันว่ากระจัดกระจายอยู่ใน Chasm มันกระจัดกระจายไปทั่วในสนามรบโบราณเมื่อห้าร้อยปีก่อน อาจเป็นเพราะกาลเวลานั้นล่วงเลยมานานเกินไป คมของหอกจึงไม่แหลมคมอีกต่อไป แต่ก็ยังดูขลังและน่าเกรงขามอยู่เหมือนเดิม\\nสันนิษฐานว่าครั้งหนึ่งมันเคยอยู่ในมือของนักรบราวกับมังกรเงินที่พุ่งทะยานขึ้นจากผิวน้ำ กวาดล้างทั่วทั้ง Chasm ไปที่ใดก็ได้รับเสียงเยินยอด้วยความยินดีของคนหนุ่มสาว",
+        "vi": "Một trong 6 món vật phẩm hiến tế trong truyền thuyết, rải rác ở Vực Đá Sâu, rơi trên chiến trường cổ xưa vào 500 năm trước. Có lẽ vì đã quá lâu, mũi thương đã không còn sắc nhọn, nhưng khí lạnh trên đó vẫn như xưa.\\nCó lẽ nó cũng từng tung hoành ngang dọc trong tay dũng sĩ, nơi nó đi qua, từng là nơi vang vọng tiếng vui cười của những người trẻ tuổi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

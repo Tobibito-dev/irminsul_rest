@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "In the Light, Beneath the Shadow",
+        "de": "Im Licht, unter dem Schatten",
+        "chs": "光昼影底集",
+        "cht": "光晝影底集",
+        "es": "Luces y sombras",
+        "fr": "Dans la lumière, sous l'ombre",
+        "id": "Dalam Cahaya, di Bawah Bayangan",
+        "jp": "光昼影底集",
+        "kr": "빛의 그림자 아래",
+        "pt": "Na Luz sob a Sombra",
+        "ru": "На свету, под тенями",
+        "th": "แสงสว่างใต้เงามืด",
+        "vi": "Trong Ánh Sáng, Dưới Bóng Tối"
+    },
+    "id": 101684,
+    "materialDesc": {
+        "en": "A puzzle book for children of ages nine to twelve. As a book from a transitory period, it uses Narukami-style names with Byakuyakoku subscripts.",
+        "de": "Ein Rätselbuch für Kinder im Alter von neun bis zwölf Jahren. Da es sich um ein Buch aus einer Übergangszeit handelt, werden Namen von dem alten Byakuyakoku im Narukami-Stil als Verständnishilfe hinzugefügt.",
+        "chs": "面向九岁到十二岁年龄段的益智类图书。作为特殊过渡时期的版本，下附了古代白夜国姓名的鸣神式改称法。",
+        "cht": "適合九歲到十二歲年齡段的益智類圖書。作為特殊過渡時期的版本，下附了古代白夜國姓名的鳴神式改稱法。",
+        "es": "Un libro educativo enfocado a niños de entre nueve y doce años. En esta versión para personas que están en la etapa entre la niñez y la pubertad, se usa la nomenclatura de Narukami con anotaciones en la lengua del reino de Byakuya.",
+        "fr": "Un livre éducatif pour enfant de neuf à douze ans. En tant que livre destiné à cette période transitoire, il utilise des noms de style narukamien avec des annotations dans la langue de Byakuyakoku.",
+        "id": "Sebuah buku teka-teki untuk anak-anak usia sembilan sampai dua belas. Sebagai buku dari masa peralihan, buku ini menggunakan nama gaya Narukami dengan tulisan yang berasal dari Byakuyakoku.",
+        "jp": "九歳から十二歳までの年齢層を対象とした知育本。過渡期の特別版として、古代白夜国の添え字が付いた鳴神風の名前を使用している。",
+        "kr": "9세부터 12세까지의 어린이를 위한 교육 도서. 특수 과도기 시절 버전으로 백야국 이름 아래 나루카미식 이름도 함께 적혀있다",
+        "pt": "Um livro de quebra-cabeças para crianças entre nove e doze anos. Como se trata de um livro de um período de transição, usa tanto a escrita de Narukami como a do Reino de Byakuya.",
+        "ru": "Познавательная книга для детей в возрасте от девяти до двенадцати лет. Поскольку это книга переходного периода, в ней используются имена в стиле Наруками с подписями Бякуякоку.",
+        "th": "หนังสือเพื่อการเรียนรู้ที่เหมาะสำหรับเด็กอายุ 9 ถึง 12 ปี เนื่องจากอยู่ในช่วงการเปลี่ยนผ่านพิเศษ จึงได้มีการแก้ไขชื่อตามแบบ Narukami แห่ง Byakuyakoku โบราณ",
+        "vi": "Một cuốn sách câu đố trí tuệ dành cho trẻ em từ chín đến mười hai tuổi. Là một phiên bản trong thời kỳ quá độ đặc biệt, nên đã đính kèm thêm phần chú thích cách sửa tên từ kiểu Vương Quốc Đêm Trắng cổ đại sang kiểu Narukami."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

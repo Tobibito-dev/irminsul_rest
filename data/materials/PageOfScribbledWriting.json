@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Page of Scribbled Writing",
+        "de": "Seite mit dahingekritzelter Schrift",
+        "chs": "胡乱涂写的书页",
+        "cht": "胡亂塗寫的書頁",
+        "es": "Página garabateada",
+        "fr": "Page gribouillée",
+        "id": "Halaman Berisi Coretan",
+        "jp": "殴り書きされたページ",
+        "kr": "낙서가 돼 있는 페이지",
+        "pt": "Página de Escrita Rabiscada",
+        "ru": "Страница с каракулями",
+        "th": "หน้ากระดาษที่เขียนอย่างลวก ๆ",
+        "vi": "Trang sách vẽ bậy"
+    },
+    "id": 100514,
+    "materialDesc": {
+        "en": "A page with very messy handwriting. The words have been struck out with crude brushstrokes, and it has also been soaked in water to the point where nothing can be made out.",
+        "de": "Eine Seite aus einem Buch mit sehr liederlicher Schrift, die so unleserlich und darüber hinaus auch noch verwaschen ist, dass man nichts erkennen kann.",
+        "chs": "字迹十分凌乱的书页，上面的字都被粗重的笔迹划去，又被水浸透，什么也看不清了。",
+        "cht": "字跡十分凌亂的書頁，上面的字都被粗重的筆跡劃去，又被水浸透，什麼也看不清了。",
+        "es": "Una página con letra muy desordenada. Las palabras se han tachado con pinceladas burdas, y se ha empapado en agua hasta el punto de que no se puede distinguir nada.",
+        "fr": "Une page manuscrite de façon très brouillonne et pleines de ratures. Trempée, son contenu est illisible.",
+        "id": "Sebuah halaman buku dengan tulisan yang sangat berantakan. Kata-katanya ditulis dengan kuas yang kasar dan sudah terendam dalam air sehingga tidak ada yang dapat dibaca lagi.",
+        "jp": "殴り書きされたページ、上の文字は太い筆跡で消され、また水に浸かったせいで、なにも読めなくなった。",
+        "kr": "글씨가 매우 난잡한 페이지. 글씨가 모두 굵고 힘 있는 필적에 그어져 있고 물에 젖어서 잘 보이지 않는다",
+        "pt": "Uma página com caligrafia muito bagunçada. As palavras foram riscadas com pinceladas grosseiras e também foram embebidas em água a ponto de nada ser descoberto.",
+        "ru": "Страница с очень неровным почерком. Некоторые слова были грубо зачёркнуты, и страница пропиталась влагой до такой степени, что ничего нельзя разобрать.",
+        "th": "หน้ากระดาษที่มีลายมือสุดยุ่งเหยิงอยู่ ตัวหนังสือบนนั้น ล้วนถูกขีดเขียนด้วยลายมือที่หนักและถูกแช่ในน้ำจนมองเห็นไม่ชัดเจน",
+        "vi": "Trang sách bị chiếc bút lớn rạch qua, cộng với việc ngâm lâu trong nước khiến dòng chữ nguệch ngoạc không thể nào đọc được."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

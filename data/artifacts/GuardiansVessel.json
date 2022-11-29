@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Guardian's Vessel",
+        "de": "Wächterflachmann",
+        "chs": "守护之皿",
+        "cht": "守護之皿",
+        "es": "Cantimplora del Guardián",
+        "fr": "Coupe du Gardien",
+        "id": "Guardian's Vessel",
+        "jp": "守護の瓶",
+        "kr": "수호의 잔",
+        "pt": "Sangue do Guarda",
+        "ru": "Фляжка защитника",
+        "th": "Guardian's Vessel",
+        "vi": "Ly Thủ Hộ"
+    },
+    "id": 23486,
+    "setId": 10003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

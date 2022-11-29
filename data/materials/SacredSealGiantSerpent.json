@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sacred Seal: Giant Serpent",
+        "de": "Heiliger Siegelstein – Riesenschlange",
+        "chs": "圣章石·巨蛇",
+        "cht": "聖章石·巨蛇",
+        "es": "Piedra sagrada: Serpiente",
+        "fr": "Sceau sacré : Serpent géant",
+        "id": "Segel Suci: Ular Raksasa",
+        "jp": "ヒエログリフタブレット·巨蛇",
+        "kr": "신성한 봉인석·거대한 뱀",
+        "pt": "Selo Sagrado: Serpente Gigante",
+        "ru": "Скрижаль: Гигантский змей",
+        "th": "ผนึกศักดิ์สิทธิ์ - งูยักษ์",
+        "vi": "Đá Thánh Chương - Mãng Xà"
+    },
+    "id": 101982,
+    "materialDesc": {
+        "en": "A stone plate with ancient text on it that seems to have once been part of a certain building. The desert sands play host to many an unknown wish. Who made them, and who carries them now? Though Haravatat researchers believe this to be a symbol for a giant serpent, Amurta researchers have proposed a different view, arguing that the Great Red Sand is not home to any snakes. As such, the meaning of and inspiration for this word is still being contested.",
+        "de": "Eine Steinplatte, in die antike Zeichen eingraviert sind, die einst Teil eines Gebäudes gewesen zu sein scheint. Nachdem sie viele Jahre im Sandmeer geschlummert hat, weiß niemand mehr, wessen Wünsche sie trägt. Während die Gelehrten der Redelehre meinen, diese Zeichen symbolisierten eine Riesenschlange, sind die Gelehrten der Lebenskunde einer anderen Meinung: Im jetzigen Roten Sandmeer gibt es keine Spuren von Schlangen, daher ist die Herleitung der Zeichen noch umstritten.",
+        "chs": "刻有古老文字的石板，似乎原本是某种构筑物的一部分。在沙海中沉睡了不知几许，又不知承载了谁人的祈愿。虽然知论派学者认为这个文字是巨蛇的象形符号，但是生论派学者则提出了不同意见：现在的大赤沙海中并没有蛇的踪迹。所以这个文字的来源至今仍有争议。",
+        "cht": "刻有古老文字的石板，似乎原本是某種構築物的一部分。在沙海中沉睡了不知幾許，又不知承載了誰人的祈願。雖然知論派學者認為這個文字是巨蛇的象形符號，但是生論派學者則提出了不同意見：現在的大赤沙海中並沒有蛇的蹤跡。所以這個文字的來源至今仍有爭議。",
+        "es": "Una placa de piedra con una inscripción antigua. Parece que originariamente formaba parte de algún tipo de estructura. No se sabe desde hace cuánto tiempo se encuentra inactiva en medio del mar de arena. Tampoco se sabe a quién pertenecen los deseos que contiene. Los eruditos de la Escuela de Semiótica creen que este símbolo representa a una serpiente gigante, pero los de la Escuela de Biología no están de acuerdo, pues no hay rastros de serpientes en el Gran Desierto Escarlata, así que el origen de este símbolo sigue siendo un misterio.",
+        "fr": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Bien que les chercheurs de l'Haravatat pensent qu'il s'agit d'un symbole pour un serpent géant, ceux de l'Amurta ont proposé un point de vue différent, affirmant que le Grand désert écarlate n'a jamais abrité de serpents. Ainsi, la signification et l'inspiration de ce mot sont toujours contestées.",
+        "id": "Batu yang ditulisi simbol kuno, tampaknya pernah menjadi bagian dari suatu bangunan. Entah berapa banyak harapan yang sudah terlelap di dalam padang pasir, entah berapa banyak pula mimpi yang telah diangkut olehnya. Meski para peneliti Haravatat menganggap kalau simbol ini melambangkan ular, para peneliti Amurta mengemukakan pendapat yang berbeda. Tidak ada ular di Great Red Sand, sehingga arti dan makna simbol ini masih diperdebatkan.",
+        "jp": "古い文字が刻まれた石板。元はとある構築物の一部だったようだ。砂海に眠っていた時間は計り知れず、背負った祈りの主も今や知るすべがない。知論派の学者たちは巨大な蛇の象形文字だと考えているが、生論派の学者たちは、現在の大赤砂海に蛇の姿が見えないことから、異なる見解を主張している。そのため、この文字の由来は今も尚、論争され続けている。",
+        "kr": "고대 문자가 새겨진 석판. 원래는 어떤 구조물의 일부였던 것 같다. 모래 바닷속에서 얼마나 오래 잠들어 있었는지, 또 누구의 염원을 담고 있는지는 알 수 없다. 지론파 학자들은 이 문자를 거대한 뱀의 상형문자라고 생각하고, 생론파 학자들은 지금의 적색 모래바다에서 뱀의 흔적을 찾을 수 없다며 다른 의견을 내놓았다. 이 문자의 기원에 대한 논란은 아직까지 이어지고 있다",
+        "pt": "Uma Tabuleta de Pedra com um texto antigo que parece ter sido parte de alguma construção. Não se sabe há quanto tempo ela está perdida no mar de areia. Quem a criou e quem possui ela agora? Por toda Haravatat, estudiosos acreditam ser o símbolo de uma serpente gigante. Os estudiosos de Amurta propuseram outro ponto de vista, argumentando que os grandes desertos vermelhos jamais foram o lar de serpentes. Por isso, o significado e a inspiração para esta palavra ainda é contestada.",
+        "ru": "Каменная плита с древним символом, которая, похоже, когда-то была частью некоего здания. Сколько неизвестных мечтаний хранят в себе пески! Учёные школы семиотики и полагают, что это лишь знак препинания в форме змеи. Но мудрецы Амурты с ними не согласны, ведь в Море красных песков нет никаких следов пребывания огромных змеев. Таким образом, происхождение этого символа пока остаётся предметом споров.",
+        "th": "แผ่นหินที่มีอักษรโบราณสลักอยู่ ดูเหมือนว่าเดิมทีมันจะเป็นส่วนหนึ่งของโครงสร้างบางอย่าง ไม่รู้ว่ามันหลับใหลอยู่ทะเลทรายมานานเท่าไหร่แล้ว และไม่รู้ว่ามันแบกรับแรงปรารถนาของใครเอาไว้บ้าง แม้นักวิชาการภาควิชาสัญศาสตร์ จะเชื่อว่าตัวอักษรนี้คือสัญลักษณ์ของงูยักษ์ แต่นักวิชาการจากภาควิชาชีววิทยา กลับให้ความเห็นที่ต่างกันออกไป: ปัจจุบันไม่มีร่องรอยของงูอยู่ใน Great Red Sand เลย ดังนั้นที่มาของตัวอักษรนี้จึงยังเป็นที่ถกเถียงกันมาจนถึงทุกวันนี้",
+        "vi": "Phiến đá cổ có khắc văn tự, có vẻ như vốn là một bộ phận của kết cấu nào đó. Không biết đã ngủ trong biển cát bao lâu, cũng không biết chứa đựng ước nguyện của ai. Mặc dù các học giả Học Phái Haravatat cho rằng văn tự này là biểu tượng của mãng xà, nhưng học giả Học Phái Amurta lại đưa ra ý kiến khác: hiện không có dấu vết của rắn ở Biển Cát Đỏ. Vì vậy đến nay nguồn gốc của văn tự này vẫn còn nhiều tranh cãi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

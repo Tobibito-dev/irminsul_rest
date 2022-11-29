@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ragged Attendance Record",
+        "de": "Zerrissene Anwesenheitsliste",
+        "chs": "残破的出勤记录",
+        "cht": "殘破的出勤紀錄",
+        "es": "Registro de trabajo estropeado",
+        "fr": "Registre de présence en lambeaux",
+        "id": "Daftar Absensi Usang",
+        "jp": "ボロボロな出勤記録",
+        "kr": "파손된 출근 기록",
+        "pt": "Registro de Presença Amassado",
+        "ru": "Потрёпанный журнал регистрации посещений",
+        "th": "บันทึกการทำงานที่ฉีกขาด",
+        "vi": "Sổ Tay Chuyên Cần Rách Nát"
+    },
+    "id": 120042,
+    "materialDesc": {
+        "en": "Ragged Attendance Record",
+        "de": "Zerrissene Anwesenheitsliste",
+        "chs": "残破的出勤记录",
+        "cht": "殘破的出勤紀錄",
+        "es": "Un registro de trabajo en mal estado.",
+        "fr": "Registre de présence en lambeaux",
+        "id": "Daftar Absensi Usang",
+        "jp": "ボロボロな出勤記録",
+        "kr": "파손된 출근 기록",
+        "pt": "Registro de Presença Amassado",
+        "ru": "Потрёпанный журнал регистрации посещений",
+        "th": "บันทึกการทำงานที่ฉีกขาด",
+        "vi": "Sổ Tay Chuyên Cần Rách Nát"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Incomplete Medical Records",
+        "de": "Unvollständige Patientenakte",
+        "chs": "残缺的诊疗记录",
+        "cht": "殘缺的診療記紀錄",
+        "es": "Registro médico incompleto",
+        "fr": "Dossiers médicaux incomplets",
+        "id": "Catatan Medis yang Tidak Lengkap",
+        "jp": "欠けた診療記録",
+        "kr": "불완전한 의료 기록",
+        "pt": "Registros Médicos Incompletos",
+        "ru": "Потрёпанные медицинские записи",
+        "th": "เวชระเบียนที่ไม่สมบูรณ์",
+        "vi": "Lịch Sử Trị Liệu Không Nguyên Vẹn"
+    },
+    "id": 120138,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

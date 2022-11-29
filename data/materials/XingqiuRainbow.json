@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xingqiu: Rainbow",
+        "de": "Xingqiu – Regenbogen",
+        "chs": "行秋·雨虹",
+        "cht": "行秋·雨虹",
+        "es": "Xingchiu - Arcoíris",
+        "fr": "Xingqiu - Bruine",
+        "id": "Xingqiu: Rainbow",
+        "jp": "行秋·雨虹",
+        "kr": "행추·무지개 비",
+        "pt": "Xingqiu - Arco-Íris",
+        "ru": "Мечи дождя",
+        "th": "Xingqiu - Rainbow",
+        "vi": "Xingqiu - Cầu Vồng"
+    },
+    "id": 210018,
+    "materialDesc": {
+        "en": "Namecard style.\\nCome watch the night rain that brings no rainbow.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDer nächtliche Regen bringt wohl keinen Regenbogen hervor.",
+        "chs": "名片纹饰。\\n来看宿雨断虹收。",
+        "cht": "名片紋飾。\\n來看宿雨斷虹收。",
+        "es": "Diseño de tarjeta de presentación.\\nVen a ver la lluvia nocturna sin arcoíris.",
+        "fr": "Thème.\\nTombe la pluie, bris d'arc-en-ciel...",
+        "id": "Style kartu nama.\\nAyo saksikan hujan malam tanpa pelangi.",
+        "jp": "名刺の飾り紋。\\n断虹がかかり、宿雨を止ます。",
+        "kr": "명함 스킨.\\n간밤의 비가 무지개를 끊는 걸 보자",
+        "pt": "Estilo de Cartão de Visita.\\nVenha assistir à chuva noturna que não traz nenhum arco-íris.",
+        "ru": "Именная карта.\\nПридите и узрите ночной дождь, за которым не следует радуга.",
+        "th": "ลายนามบัตร\\nมาดูรุ้งกินน้ำหลังฝนตกกัน",
+        "vi": "Hoa văn danh thiếp.\\nĐến ngắm cầu vồng sau mưa."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

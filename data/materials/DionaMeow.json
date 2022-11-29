@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diona: Meow!",
+        "de": "Diona – Miau!",
+        "chs": "迪奥娜·呜喵",
+        "cht": "迪奥娜·嗚喵",
+        "es": "Diona - Miau",
+        "fr": "Diona - Miaou !",
+        "id": "Diona: Meow!",
+        "jp": "ディオナ·にゃん",
+        "kr": "디오나·냐옹",
+        "pt": "Diona - Miau",
+        "ru": "Мяу-мяу!",
+        "th": "Diona - Meow!",
+        "vi": "Diona - Meo"
+    },
+    "id": 210043,
+    "materialDesc": {
+        "en": "Namecard style.\\nAll who have Kätzlein blood will have such feline features. An ancient prank played by a certain someone, perhaps?",
+        "de": "Ein Motiv für Namenskärtchen.\\nAlle aus dem Kätzlein-Klan besitzen Merkmale von Katzen. Vielleicht hat jemand diese Familie vor langer Zeit verflucht?",
+        "chs": "名片纹饰。\\n凯茨莱茵一家都有这种猫一样的特征。是远古时代里谁人的恶趣味吧。",
+        "cht": "名片紋飾。\\n凱茨萊茵一家都有這種貓一樣的特徵。是遠古時代裡誰人的惡趣味吧。",
+        "es": "Diseño de tarjeta de presentación.\\nTodos los miembros del clan felinés tienen estos rasgos felinos. Debe ser por los gustos extraños de alguno de sus antecesores.",
+        "fr": "Thème.\\nTous ceux qui ont du sang de Katzlein présentent les mêmes caractéristiques félines. Peut-être le résultat d'une ancienne blague ayant mal tourné ?",
+        "id": "Style kartu nama.\\nSemua keturunan Kätzlein memiliki karakteristik seekor kucing. Apakah ini hasil perbuatan seseorang di zaman dahulu kala?",
+        "jp": "名刺の飾り紋。\\nカッツェレイン一族にはこのような猫に似た特徴がある。昔の誰かの悪趣味なのだろう。",
+        "kr": "명함 스킨.\\n캐츠라인 일가는 모두 고양이 같은 특징을 지녔다. 고대의 누군가가 지녔던 악취미이다",
+        "pt": "Estilo de Cartão de Visita.\\nTodos que tem sangue Kätzlein terão características felinas. Uma pegadinha ancestral feita por uma certa pessoa, talvez?",
+        "ru": "Именная карта.\\nУ всех обладателей крови кецлайнов есть кошачьи черты. Возможно, во всём виноваты специфические вкусы древних?",
+        "th": "ลายนามบัตร\\nตระกูล Kätzlein ทั้งหมดล้วนมีลักษณะเฉพาะที่เหมือนแมวแบบนี้ คงเป็นมุกตลกของคนโบราณล่ะมั้ง",
+        "vi": "Hoa văn danh thiếp.\\nGia đình Kätzlein không có đặc điểm giống mèo như vậy. Là trò đùa ác ý của người cổ đại chăng."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

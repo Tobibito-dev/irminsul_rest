@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of Transience",
+        "de": "Philosophie der „Vergänglichkeit“",
+        "chs": "「浮世」的哲学",
+        "cht": "「浮世」的哲學",
+        "es": "Filosofía de la transitoriedad",
+        "fr": "Philosophie de l'Éphémère",
+        "id": "Philosophies of Transience",
+        "jp": "「浮世」の哲学",
+        "kr": "「부세」의 철학",
+        "pt": "Filosofia do Mundo Mortal",
+        "ru": "Философия о «Бренности»",
+        "th": "Philosophies of Transience",
+        "vi": "Triết Học Của \"Phù Thế\""
+    },
+    "id": 104322,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nTransience is the dream of the nation of thunder.\\nThe fleeting nature of this mortal world is the essence of beauty, for are our lives in this world not akin to the levin flash? Yet the might of the divine comes suddenly, and before the roar of eternity, who can stand?",
+        "de": "Material zur Verbesserung von Talenten.\\nVergänglichkeit ist der Traum des Reichs des Blitzes.\\nDie Vergänglichkeit dieser sterblichen Welt ist die Essenz der Schönheit, denn sind unsere Leben in dieser Welt nicht mit einem Blitzschlag vergleichbar? Doch die Macht des Göttlichen kommt plötzlich und wer kann vor dem Tosen der Ewigkeit bestehen?",
+        "chs": "天赋培养素材。\\n雷之国土的梦想是浮世。\\n浮世之短暂乃是人之美的本性所在。人之在世岂不与稻光相近？神威显现的刹那恍若隽永，而永恒的威鸣又有谁人能够承受？",
+        "cht": "天賦培養素材。\\n雷之國土的夢想是浮世。\\n浮世之短暫乃是人之美的本性所在。人之在世豈不與稻光相近？神威顯現的刹那恍若雋永，而永恆的威鳴又有誰人能夠承受？",
+        "es": "Material de mejora de talento.\\nLa transitoriedad es el mayor sueño del Reino del Trueno.\\nLa belleza de la naturaleza humana reside en la fugacidad de la vida. ¿O acaso no es la vida humana tan corta como el destello de un relámpago? El poder de lo divino siempre aparece inesperadamente, ¿pero quién podrá aguantar ante el rugido de la eternidad?",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'éphémère est ce dont rêve la Nation du Tonnerre.\\nC'est la nature éphémère de ce monde mortel qui est l'essence de sa beauté, car nos vies en ce monde sont tels des éclairs fugaces. Et pourtant, voilà que se manifeste la puissance du divin. Qui peut donc faire face au rugissement de l'éternité ?",
+        "id": "Material Penguatan Talenta.\\n\"Transience\" adalah impian bangsa petir.\\nKesementaraan dunia fana adalah keberadaan alamiah dari keelokan manusia. Bukankah kehidupan manusia di dunia yang fana ini juga layaknya kilat? Dan ketika kemunculan kekuatan ilahi terlihat begitu bermakna, tapi adakah juga manusia fana yang dapat menanggung kekuatan yang abadi?",
+        "jp": "天賦育成素材。\\n雷の国が抱く夢は浮世である。\\n浮世の儚さは人生の美しさの本質。人の一生、この世にとっては稲光の如く。神威は刹那に顕現する。だが、その永遠の威圧に耐えられる者はこの世にいるのだろうか？",
+        "kr": "특성 육성 소재.\\n번개의 나라의 꿈은 곧 부세다.\\n부세의 유한함이 곧 인간이 지닐 수 있는 아름다움의 본성이다. 인간의 삶이란 어찌 보면 찰나의 번개와 흡사하지 않은가? 신의 힘이 발현되는 그 순간의 의미, 그 영원한 위명을 대체 누가 감당할 수 있을까?",
+        "pt": "Material de Elevação de Talento.\\nTransiência é o sonho da nação do trovão.\\nA natureza passageira desse mundo mortal é a essência da beleza, pois nossas vidas não são rápidas como o flash de um raio? Mas a grandeza do divino aparece repentinamente, e perante o rugido da eternidade, quem pode suportá-lo?",
+        "ru": "Материал повышения таланта.\\nБренность - это мечта царства гроз.\\nВ скоротечности бренного мира заключается красота смертных. Разве наши жизни не подобны вспышке молнии? Но божественное могущество проявляется внезапно, и найдётся ли хоть кто-нибудь, способный выдержать рёв вечности?",
+        "th": "วัสดุยกระดับพรสวรรค์\\nความฝันของดินแดนแห่งสายฟ้าคือความเป็นนิรันดร์\\nความสั้นของความเป็นนิรันดร์คือธรรมชาติแห่งความงามของมนุษย์ ผู้คนในโลกนั้นคล้ายกับแสงสายฟ้าไม่ใช่หรือ? เมื่อพลังแห่งเทพอันน่าเกรงขามปรากฏขึ้นเป็นนิรันดร์ แต่ใครเล่าจะแบกรับพลังอันน่าเกรงขามที่เป็นนิรันดร์นี้ได้?",
+        "vi": "Nguyên liệu bồi dưỡng thiên phú.\\nGiấc mơ của Lôi Quốc là khoảnh khắc nơi trần thế.\\nSự ngắn ngủi của khoảnh khắc phù du lại là vẻ đẹp vốn có của con người. Con người trên thế gian này chẳng phải cũng giống như ánh sáng sao? Giây phút thần uy lóe sáng ấy thật rực rỡ, còn tiếng gọi uy nghiêm của vĩnh hằng chẳng biết mấy ai có thể chịu được đây?"
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

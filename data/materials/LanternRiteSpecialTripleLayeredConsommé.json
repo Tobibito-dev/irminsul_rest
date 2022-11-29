@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lantern Rite Special Triple-Layered Consommé",
+        "de": "Gestreiftes Dreierlei fürs Laternenritual",
+        "chs": "海灯节特色扣三丝",
+        "cht": "海燈節特色扣三絲",
+        "es": "Tiras de tres sabores del Rito de la Linterna",
+        "fr": "Pâté aux trois saveurs façon Festival des lanternes",
+        "id": "Lantern Rite Special Triple-Layered Consommé",
+        "jp": "海灯祭特別璃月三糸",
+        "kr": "해등절 특별 고기죽순데침",
+        "pt": "Tiras de Três Sabores Especial do Ritual de Lanternas",
+        "ru": "Особый суп «Три вкуса» Праздника морских фонарей",
+        "th": "Lantern Rite Special Triple-Layered Consommé",
+        "vi": "Khấu Tam Tư Đặc Biệt Tết Hải Đăng"
+    },
+    "id": 108221,
+    "materialDesc": {
+        "en": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
+        "de": "Eine traditionelle Köstlichkeit zum Anlass des Laternenrituals. Schinken, Geflügel und Bambussprossen werden in gleichlange dünne Streifen geschnitten und bei hoher Hitze gedämpft. Säuberlich in der Mitte einer Schüssel platziert wird das Ganze mit einer frischen Brühe übergossen. Der kräftige Geschmack wird vom Anblick der gut getrennten Streifen unterstützt.",
+        "chs": "为庆祝海灯节而制作的传统佳肴。火腿、禽肉、竹笋切成同样长短的细丝，旺火蒸熟后倒扣在汤盘中，淋上高汤。口感咸鲜，层次分明。",
+        "cht": "為慶祝海燈節而製作的傳統佳餚。火腿、禽肉、竹筍切成同樣長短的細絲，旺火蒸熟後倒扣在湯盤中，淋上高湯。口感鹹鮮，層次分明。",
+        "es": "Una comida tradicional típica del Rito de la Linterna. El jamón, la carne de ave y los brotes de bambú se cortan en tiras finas de la misma longitud, se hierven a fuego rápido, se ponen en el centro de un plato para sopa y se sirven con el caldo. El resultado es muy sabroso.",
+        "fr": "Un plat traditionnel de Liyue que l'on cuisine lors du Festival des lanternes. Le jambon, la volaille et les pousses de bambou sont coupés en fines lanières de même longueur, mijotés à feu vif, placés au centre d'une assiette creuse et servis avec le bouillon. Le résultat est très savoureux.",
+        "id": "Hidangan tradisional yang dimasak untuk merayakan Lantern Rite. Ham, daging unggas, dan rebung diiris menjadi potongan dengan panjang yang sama, kemudian ditata dengan rapi di dalam mangkuk sup. Lalu disiram dengan sup kaldu setelah dikukus dengan api besar. Setiap lapisannya terpisah dengan jelas dan terasa asin namun segar di mulut.",
+        "jp": "海灯祭を祝うために作られた伝統料理。ハム、豚肉、タケノコを同じ長さに千切りし、強火で蒸し焼きしたら裏返しして皿にのせ、旨味たっぷりのスープを掛けたら完成。くっきりとした味わいがする。",
+        "kr": "해등절을 축하하기 위해 만든 전통 요리. 햄과 새고기, 죽순을 비슷한 길이로 얇게 썰어 강한 불로 익힌 후 접시에 담아 소스를 뿌린다. 짭잘하고 다양한 식감을 느낄 수 있다",
+        "pt": "Cozinha tradicional feita para celebrar o Ritual de Lanternas. Os pedaços de presunto, galinha e bambu foram cortados em fios de comprimentos iguais, e foram dispostos ordenadamente na tigela de sopa depois de serem cozidos em fogo alto, antes de serem cobertos de Consommé. As camadas são distintas, e a sensação na boca é salgada e ainda assim fresca.",
+        "ru": "Традиционное блюдо, приготовленное специально для Праздника морских фонарей. Ветчина, мясо птицы и побеги бамбука нарезаны одинаково тонко, прожарены на большом огне, выложены в суповую тарелку и залиты бульоном. Вкус каждого ингредиента чувствуется отдельно, и само блюдо солёное, но свежее.",
+        "th": "อาหารสูตรดั้งเดิมที่ทำขึ้นเพื่อฉลองเทศกาล Lantern Rite ทั้งแฮม เนื้อไก่ หน่อไม้ที่หั่นเป็นเส้นยาวขนาดเท่ากัน ถูกนำไปต้มด้วยไฟแรงแล้ววางลงในซุป มีรสชาติที่กลมกล่อม และรสสัมผัสที่ชัดเจน",
+        "vi": "Món ăn truyền thống được làm ra để mừng Tết Hải Đăng. Giăm bông, thịt gia cầm và măng trúc được cắt sợi với độ dài bằng nhau. Dùng lửa lớn hấp chín rồi đặt vào giữa đĩa canh. Gia vị vừa phải, hương vị rõ ràng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

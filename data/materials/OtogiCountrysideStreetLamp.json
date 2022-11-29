@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Otogi Countryside Street Lamp",
+        "de": "Straßenbeleuchtung auf dem Land aus Otogi-Holz",
+        "chs": "御伽木郊野路灯",
+        "cht": "御伽木郊野路燈",
+        "es": "Farola de campo de madera de murmurador",
+        "fr": "Lampadaire de campagne en bois de dulcinier",
+        "id": "Lampu Jalan Pedesaan dari Otogi",
+        "jp": "御伽の郊外街灯",
+        "kr": "오토기나무 교외 가로등",
+        "pt": "Lanterna de Estrada Rural de Madeira Otogi",
+        "ru": "Деревенский уличный фонарь из отоги",
+        "th": "โคมไฟในชนบทจากไม้ Otogi",
+        "vi": "Đèn Đường Otogi - Ngoại Thành"
+    },
+    "id": 393414,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Otogi Countryside Street Lamp.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Straßenbeleuchtung auf dem Land aus Otogi-Holz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「御伽木郊野路灯」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「御伽木郊野路燈」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Farola de campo de madera de murmurador.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du lampadaire de campagne en bois de dulcinier.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Lampu Jalan Pedesaan dari Otogi.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「御伽の郊外街灯」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「오토기나무 교외 가로등」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Lanterna de Estrada Rural de Madeira Otogi.\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Деревенский уличный фонарь из отоги».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โคมไฟในชนบทจากไม้ Otogi\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Đường Otogi - Ngoại Thành\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

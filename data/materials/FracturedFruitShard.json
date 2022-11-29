@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fractured Fruit Shard",
+        "de": "Frucht-Brocken",
+        "chs": "碎果残块",
+        "cht": "碎果殘塊",
+        "es": "Trozo de fruto fragmentado",
+        "fr": "Éclat de fruit fracturé",
+        "id": "Fractured Fruit Shard",
+        "jp": "砕実破片",
+        "kr": "부서진 열매 조각",
+        "pt": "Estilhaço de Fruta Fraturada",
+        "ru": "Осколок раздробленного плода",
+        "th": "Fractured Fruit Shard",
+        "vi": "Xác Mảnh Quả"
+    },
+    "id": 200240,
+    "materialDesc": {
+        "en": "A sizable piece of an Irminsul Fruit. You can feel its broken edges brim over with restless power.",
+        "de": "Großes Fragment einer Irminsul-Frucht. Man kann spüren, wie die Energie förmlich durch die angebrochene Oberfläche herausquillt.",
+        "chs": "大块的地脉之果碎片，似乎能感受到断面处满溢着躁动的能量。",
+        "cht": "大塊的地脈之果碎片，似乎能感受到斷面處滿溢著躁動的能量。",
+        "es": "Un trozo grande de un fragmento de fruto ley. Casi se puede sentir la energía que emana continuamente de su superficie.",
+        "fr": "Un grand fragment de fruit des lignes énergétiques. On peut sentir de l'énergie débordante s'agiter depuis son côté brisé.",
+        "id": "Sebuah Irminsul Fruit yang cukup besar. Kamu bisa merasakan kekuatannya yang tiada henti dari retakannya.",
+        "jp": "大きい地脈の実の欠片、断面から湧き出すエネルギーを感じる。",
+        "kr": "커다란 지맥의 열매 조각. 절단면으로부터 들끓는 에너지가 느껴지는 듯하다",
+        "pt": "Um pedaço considerável de Fragmento do Fruto da Linha Ley. Você sente uma força em agitação transbordar de suas extremidades danificadas.",
+        "ru": "Крупный кусок плода Ирминсуля. Прикоснитесь к излому, чтобы почувствовать, как в нём бурлит энергия элементов.",
+        "th": "ชิ้นส่วน Irminsul Fruit ขนาดใหญ่ ดูเหมือนจะรู้สึกได้ถึงความปั่นป่วนของพลังงานมากมายจากหน้าตัด",
+        "vi": "Mảnh Quả Địa Mạch lớn, có thể cảm nhận được nguồn năng lượng cuồn cuộn trong đó."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

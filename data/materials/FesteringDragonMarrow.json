@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Festering Dragon Marrow",
+        "de": "Drachenmark der Verderbnis",
+        "chs": "腐殖龙髓",
+        "cht": "腐殖龍髓",
+        "es": "Médula ponzoñosa",
+        "fr": "Moelle de dragon infecté",
+        "id": "Festering Dragon Marrow",
+        "jp": "腐植の龍髄",
+        "kr": "부식된 용의 정수",
+        "pt": "Essência Pútrida de Dragão",
+        "ru": "Костный мозг дракона",
+        "th": "Festering Dragon Marrow",
+        "vi": "Xương Rồng Mục Nát"
+    },
+    "id": 200103,
+    "materialDesc": {
+        "en": "Specialized refinement material for Festering Desire.\\nThis is the product of purifying Durin's vile venom, which has seeped into and spread throughout Dragonspine's ley lines. By using it on a bloodthirsty sword with a strong affinity for such materials, you can increase that sword's power.",
+        "de": "Spezielles Verfeinerungsmaterial für „Schwert der Verderbnis“.\\nMan findet es rund um den Drachengrat in der Nähe des Flusses der Elemente, gereinigte Überreste von „Durins“ verrottendem Körper. Auf dem „Bluttrinkenden Schwert“ aufgetragen verbessert es die Attribute dieses Schwertes.",
+        "chs": "「腐殖之剑」专用的精炼道具。\\n将散布在龙脊雪山的地脉当中的，「杜林」的腐毒提纯后得到的物质。用在亲和这种物质的「渴血之剑」上的话，可以提升这把剑的力量。",
+        "cht": "「腐殖之劍」專用的精煉道具。\\n將散佈在龍脊雪山的地脈當中的，「杜林」的腐毒提煉後得到的物質。用在親和這種物質的「渴血之劍」上的話，可以提升這把劍的力量。",
+        "es": "Objeto de refinamiento especial para el arma Deseo Ponzoñoso.\\nSustancia creada a partir del veneno pútrido de Durin, diseminado por las líneas ley de Espinadragón. La Espada Sanguinaria es compatible con este material y aumentará su fuerza si lo utilizas en ella.",
+        "fr": "Matériau de raffinement spécial pour le Croc suppurant.\\nIl s'agit du produit de la purification du poison de Durin qui s'est infiltré et répandu dans les lignes énergétiques des Monts Dosdragon. En l'utilisant sur une épée ayant une forte affinité pour ce genre de matériaux, vous pourrez en augmenter la puissance.",
+        "id": "Material Refinement khusus untuk senjata Festering Desire.\\nSebuah zat yang didapatkan dengan cara memurnikan racun Durin yang tersebar dalam Ley Line di Dragonspine. Sepertinya zat ini bisa menambah kekuatan sebuah \"Pedang Haus Darah\" yang cocok dengan zat seperti ini.",
+        "jp": "「腐植の剣」専用の精錬素材。\\nドラゴンスパインの地脈に散らばる「ドゥリン」の毒をろ過した後の物質。この物質に適合する「血を渇望する剣」に使えば、剣の力を上昇させられる。",
+        "kr": "「부식의 검」 전용 재련 아이템.\\n드래곤 스파인의 지맥에 퍼져있는 「두린」의 독을 정제하여 얻은 물질이다. 이 물질에 친화적인 「피를 갈망하는 검」에 사용한다면 검의 힘을 증가시킬 수 있다",
+        "pt": "Material de refinamento especializado para a Espada Pútrida.\\nEste é o produto da purificação do veneno maligno de Durin, que se infiltrou e se espalhou pelas Linhas Ley da Espinha do Dragão. Ao usá-la sobre uma espada sanguinária com forte afinidade por tais materiais, você pode aumentar o poder dessa espada.",
+        "ru": "Особый материал для пробуждения оружия «Осквернённого желания».\\nЭто продукт очищения артерий земли Драконьего хребта от просочившегося в них смертельного яда Дурина. Используйте его для усиления меча, жаждущего крови и имеющего особую близость к подобным элементам.",
+        "th": "วัสดุสำหรับขัดเกลาอาวุธสำหรับ Festering Desire\\nสารที่ได้จากการชำระล้างพิษของ Durin ที่กระจายอยู่ในกระแสพลังของ Dragonspine ดูเหมือนว่าสารนี้จะสามารถเพิ่มพลังของ \"ดาบกระหายเลือด\" ได้อีกด้วย",
+        "vi": "Đạo cụ tinh luyện \"Răng Nanh Rỉ Sét\".\\nNằm rải rác trong địa mạch của Long Tích Tuyết Sơn, là chất có được sau khi thanh lọc độc của Durin. Nếu được dùng trên \"Răng Nanh Rỉ Sét\", sẽ có thể tăng sức mạnh cho kiếm."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

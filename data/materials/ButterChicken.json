@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Butter Chicken",
+        "de": "Butterhühnchen",
+        "chs": "黄油鸡",
+        "cht": "奶油雞",
+        "es": "Pollo con mantequilla",
+        "fr": "Poulet au beurre",
+        "id": "Butter Chicken",
+        "jp": "バターチキン",
+        "kr": "버터 치킨",
+        "pt": "Frango na Manteiga",
+        "ru": "Цыплёнок в масле",
+        "th": "Butter Chicken",
+        "vi": "Gà Áp Chảo"
+    },
+    "id": 108392,
+    "materialDesc": {
+        "en": "A flavorful dish. Spice and chopped tomatoes were mixed with warm butter, and then cooked into a creamy sauce. Into it went marinated and pan-fried chicken pieces. People from Sumeru prefer eating the dish with rice or flatbread, which allows them to savor the dish's enticing flavor better.",
+        "de": "Ein Gericht mit sehr intensivem Geschmack. Zuerst die marinierten Hähnchenstücke frittieren. Anschließend die Butter erhitzen, die gehackten Tomaten und Harra-Würze hinzufügen und sie breiig werden lassen. Zuletzt die gebratenen Hähnchenstücke hinzufügen. Das fertige Gericht ist die Delikatesse, die jeden Sumeru-Einwohner am meisten berühren kann.",
+        "chs": "风味浓郁的菜肴。腌制好的鸡肉块，先用油炸一遍。加热黄油再加入番茄碎和香辛料，煮成糊状后加入炸好的鸡块。成品配上主食一起吃，是最能拨动须弥人心弦的美味。",
+        "cht": "風味濃郁的菜餚。醃製好的雞肉塊，先用油炸一遍。加熱奶油再加入番茄丁和香辛料，煮成糊狀後加入炸好的雞塊。成品配上主食一起吃，是最能撥動須彌人心弦的美味。",
+        "es": "Un plato rico y sabroso. Se marinan los trozos de pollo y se fríen una vez en aceite. Luego se calienta la mantequilla y se añaden los tomates triturados y las especias. Después, se cocinan hasta formar una salsa y se añaden los trozos de pollo frito. El producto final se sirve acompañando al plato principal y es la forma más deliciosa de tocar la fibra sensible de la gente de Sumeru.",
+        "fr": "Un plat savoureux. Des épices et des tomates coupées en morceaux mélangées à du beurre chaud, puis cuites en une sauce crémeuse. Des morceaux de poulet marinés et cuits à la poêle y sont ajoutés. Les habitants de Sumeru aiment accompagner ce plat de riz ou de pain plat afin d'en améliorer la saveur.",
+        "id": "Hidangan dengan rasa yang kuat. Potongan daging ayamnya sudah dimarinasi dan digoreng satu kali. Panaskan mentega lalu tambahkan tomat dan bumbu halus, kemudian aduk hingga halus dan tambahkan potongan daging ayam yang sudah digoreng. Saat dimakan bersama dengan hidangan utama, kelezatan hidangan ini bisa menyentuh hati orang-orang Sumeru.",
+        "jp": "風味豊かな料理。漬けたチキンを先に油で揚げる。そして、バターを溶かしてトマトのみじん切りと香辛料を加え、ペースト状になるまで煮込む。最後に揚げたてのチキンを加えれば完成。出来上がったものを主食と一緒に食べれば、スメール人の心を一番揺さぶる美味しいグルメの完成だ。",
+        "kr": "풍미가 진한 요리. 절여둔 닭고기를 기름에 한 번 튀긴다. 버터를 녹여 다진 토마토와 향신료를 넣은 뒤 걸쭉해질 때까지 끓이고 튀겨둔 닭을 넣는다. 완성된 요리는 주식에 곁들여 먹을 수 있으며 수메르 사람들의 심금을 가장 잘 울릴 수 있는 요리이다",
+        "pt": "Um prato saboroso. Especiarias e tomates picados foram misturados com manteiga morna, e depois cozidos em um molho cremoso. Nele, foram marinados e colocados pedaços de frango frito. As pessoas de Sumeru preferem comer esse prato com arroz ou um pão achatado, o que lhes permite saborear melhor o sabor maravilhoso do prato.",
+        "ru": "Блюдо с насыщенным вкусом. Кусочки курицы держат в маринаде, после чего быстро обжаривают. Затем разогревают на огне сливочное масло, всыпают в него пряности и нарезанные помидоры и готовят соус до загустения, а в конце добавляют курицу. Готовое блюдо сервируют рисом или лепёшками. Неповторимый вкус цыплёнка в масле - вот ключ к сердцу всех жителей Сумеру.",
+        "th": "เมนูรสชาติจัดจ้าน ไก่หั่นชิ้นที่ผ่านการหมักเรียบร้อยแล้ว นำลงไปทอดในน้ำมันก่อนหนึ่งรอบ จากนั้นตั้งเนยให้ร้อนแล้วใส่มะเขือเทศกับเครื่องเทศลงไป เมื่อเข้มข้นได้ที่แล้วค่อยเติมไก่หั่นชิ้นที่ผ่านการทอดแล้วลงไป อาหารสำเร็จรูปที่มักจะทานควบคู่กับเมนูหลัก คือความโอชะที่ทำให้ชาว Sumeru ประทับใจไม่รู้ลืม",
+        "vi": "Món ăn có hương vị đậm đà. Miếng gà đã ướp được chiên sơ qua. Đun nóng bơ rồi cho cà chua băm nhỏ và gia vị vào, nấu cho đến khi thành hỗn hợp sền sệt rồi cho gà đã chiên vào. Thành phẩm được ăn cùng món chính, là món ngon đặc sắc có thể chạm đến trái tim người Sumeru."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

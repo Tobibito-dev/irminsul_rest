@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Memory of the Entombed City",
+        "de": "Erinnerungen an unter Schnee begrabene Stadt",
+        "chs": "雪葬之都的记忆",
+        "cht": "雪葬之都的記憶",
+        "es": "Recuerdo de la Ciudad Sepultada",
+        "fr": "Mémoires de la Cité enfouie",
+        "id": "Memory of the Entombed City",
+        "jp": "雪葬の都の記憶",
+        "kr": "눈에 묻힌 도시의 기억",
+        "pt": "Memórias da Cidade na Neve",
+        "ru": "Воспоминания о погребённой столице",
+        "th": "ความทรงจำของ Entombed City",
+        "vi": "Ký ức Cố Đô Tuyết Vùi"
+    },
+    "id": 221010,
+    "materialDesc": {
+        "en": "Through this memory, you can master the method to make a Snow-Tombed Starsilver (Claymore).",
+        "de": "Durch das Abrufen dieser Erinnerung kann die Herstellung des Zweihänders „Unter Schnee begrabenes Sternsilber“ gemeistert werden.",
+        "chs": "通过这份记忆，能够掌握双手剑「雪葬的星银」的制造方法。",
+        "cht": "通過這份記憶，能夠掌握雙手劍「雪葬的星銀」的製造方法。",
+        "es": "Con este recuerdo, aprenderás a hacer un Argento Estelar de las Nieves (mandoble).",
+        "fr": "Grâce à ces mémoires, vous pouvez maîtriser la fabrication du Tombe-neige en argétoile (Épée à deux mains).",
+        "id": "Dengan serpihan memori ini, seseorang dapat mempelajari cara membuat Claymore \"Snow-Tombed Starsilver\".",
+        "jp": "この記憶を通して、両手剣「雪葬の星銀」の製造方法を習得できる。",
+        "kr": "이 기억을 통해 양손검 「설장의 성은」의 제작 방법을 습득할 수 있다",
+        "pt": "Com esta memória você pode dominar o método para fazer Estrela de Prata Enterrada na Neve (Espadão).",
+        "ru": "Эти воспоминания откроют вам тайну создания двуручного меча «Заснеженное звёздное серебро».",
+        "th": "ด้วยความทรงจำนี้ คุณจะสามารถศึกษาวิธีการสร้างดาบใหญ่ Snow-Tombed Starsilver ได้",
+        "vi": "Thông qua ký ức này, có thể nắm được cách chế tác trọng kiếm \"Tuyết Vùi Tinh Ngân\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

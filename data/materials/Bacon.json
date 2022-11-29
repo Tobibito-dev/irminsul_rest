@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bacon",
+        "de": "Speck",
+        "chs": "培根",
+        "cht": "培根",
+        "es": "Tocino",
+        "fr": "Bacon",
+        "id": "Bacon",
+        "jp": "ベーコン",
+        "kr": "베이컨",
+        "pt": "Bacon",
+        "ru": "Бекон",
+        "th": "Bacon",
+        "vi": "Thịt Xông Khói"
+    },
+    "id": 110010,
+    "materialDesc": {
+        "en": "Smoked strips of pork. Crispy with a bit of fat, but not too greasy. Mmmmm... bacon.",
+        "de": "Geräuchertes Bauchfleisch und -fett. Einfach die richtige Mischung. Da kann keiner widerstehen.",
+        "chs": "经过熏制的肋条兽肉。层次丰富、肥而不腻正是它广受欢迎的原因。",
+        "cht": "經過燻製的肋條獸肉。層次豐富、肥而不膩正是它廣受歡迎的原因。",
+        "es": "Tiras de cerdo curadas. Crujientes y un poco grasientas.",
+        "fr": "Lamelles de porc fumé, croustillantes et un peu grasses.",
+        "id": "Potongan daging iga asap. Kandungan lemaknya pas dan tidak terlalu berminyak. Sangat disukai banyak orang.",
+        "jp": "燻製にした獣肉のリブ。グラデーションがあり、脂がのっていてもクドくないのが幅広く好まれている理由。",
+        "kr": "훈제한 갈빗살로 만든 식재료. 층이 여러 겹이고 비계가 많지만 느끼하지 않아 인기가 좋다",
+        "pt": "Tiras defumadas de porco. Crocante e um pouco gorduroso, mas não muito.",
+        "ru": "Засоленные полоски свинины. Хрустящие, с прослойками жира, но не слишком жирные.",
+        "th": "เนื้อสัตว์รมควัน มีมันแทรกแต่ก็ไม่มากจนเกินไป ซึ่งทำให้ไม่เลี่ยน นี่แหละเหตุผลที่ใคร ๆ ต่างก็ชื่นชอบ",
+        "vi": "Thịt pha gân được hun khói. Nhiều lớp, béo mà không ngán, rất được yêu thích."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

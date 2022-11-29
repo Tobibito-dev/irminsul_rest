@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Prototype Starglitter",
+        "de": "Sternsichel-Prototyp",
+        "chs": "试作星镰",
+        "cht": "試作星鐮",
+        "es": "Prototipo Estelar",
+        "fr": "Guisarme stellaire (prototype)",
+        "id": "Prototype Starglitter",
+        "jp": "星鎌·試作",
+        "kr": "별의 낫 프로토타입",
+        "pt": "Protótipo Estelar",
+        "ru": "Прототип: Звёздный блеск",
+        "th": "Prototype Starglitter",
+        "vi": "Mẫu Tinh Liêm"
+    },
+    "id": 13402,
+    "type": "WEAPON_POLE",
+    "rankLevel": 4,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 42.4010009765625
+        },
+        {
+            "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "value": 0.10000000149011612
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0829999446868896,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1649999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2480000257492065,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3300000429153442,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4129999876022339,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4950000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5779999494552612,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6610000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7430000305175781,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8259999752044678,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9910000562667847,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.072999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1559998989105225,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.239000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.321000099182129,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4040000438690186,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4860000610351562,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.569000005722046,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6510000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7339999675750732,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.816999912261963,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9820001125335693,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.063999891281128,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1470000743865967,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2290000915527344,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.312000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.3940000534057617,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.4769999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.559999942779541,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6419999599456787,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7249999046325684,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.806999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.9719998836517334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.054999828338623,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.138000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.21999979019165,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.302999973297119,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.385000228881836,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.4679999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.550000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.632999897003174,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.716000080108643,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.797999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.88100004196167,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.9629998207092285,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.046000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.127999782562256,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.210999965667725,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.294000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.375999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.459000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.540999889373779,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.624000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.705999851226807,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.789000034332275,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.872000217437744,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.953999996185303,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.0370001792907715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.11899995803833,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.202000141143799,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.283999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.367000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.449999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.5320000648498535,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.614999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.697000026702881,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.78000020980835,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.861999988555908,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.945000171661377,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.0279998779296875,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.110000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.192999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.275000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.357999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.440000057220459,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.5229997634887695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.605999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.688000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.770999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.853000164031982,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.935999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.017999649047852,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10099983215332,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.182999610900879,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.265999794006348,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.348999977111816,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.430999755859375,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.513999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.595999717712402,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.678999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.76099967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.843999862670898,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.927000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.008999824523926,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.092000007629395,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.173999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 13402,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114021,
+                    "count": 3
+                },
+                {
+                    "id": 112041,
+                    "count": 3
+                },
+                {
+                    "id": 112005,
+                    "count": 2
+                }
+            ],
+            "coinCost": 5000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 25.899999618530273
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 3
+                },
+                {
+                    "id": 112041,
+                    "count": 12
+                },
+                {
+                    "id": 112005,
+                    "count": 8
+                }
+            ],
+            "coinCost": 15000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 51.900001525878906
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 6
+                },
+                {
+                    "id": 112042,
+                    "count": 6
+                },
+                {
+                    "id": 112006,
+                    "count": 6
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 77.80000305175781
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 3
+                },
+                {
+                    "id": 112042,
+                    "count": 12
+                },
+                {
+                    "id": 112006,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 103.69999694824219
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 6
+                },
+                {
+                    "id": 112043,
+                    "count": 9
+                },
+                {
+                    "id": 112007,
+                    "count": 6
+                }
+            ],
+            "coinCost": 35000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 129.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 13402,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114024,
+                    "count": 4
+                },
+                {
+                    "id": 112043,
+                    "count": 18
+                },
+                {
+                    "id": 112007,
+                    "count": 12
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+        "de": "Diese alte Sichel war gut in der Schwarzsteinschmiede versteckt. Das Funkeln an der Klinge erinnert an den sternenklaren Nachthimmel.",
+        "chs": "黑岩厂中秘藏的古老钩枪。锋芒上点点的闪光有如夜空稀星。",
+        "cht": "黑岩廠中密藏的古老鉤槍。鋒芒上點點的閃光有如夜空稀星。",
+        "es": "Una alabarda descubierta en la Forja Peñasco Oscuro. Los destellos que produce el brillo de su afilada punta son como estrellas en el firmamento.",
+        "fr": "Une guisarme découverte à la Forge de Rochenoire. L'éclat à la pointe de son fer est aussi brillant qu'une étoile.",
+        "id": "Sebuah glaive yang ditemukan di Blackcliff Forge. Kilatan cahaya di ujungnya yang tajam bagaikan bintang di malam hari.",
+        "jp": "黒岩場の中に隠されていた古い鉤槍。槍先の輝きはまるで夜空の星のようだ。",
+        "kr": "흑암 공장에 은밀히 보관된 오래된 구겸창, 칼끝의 반짝이는 빛은 마치 밤하늘의 성긴 별과도 같다",
+        "pt": "Um rancor descoberto na Forja do Penhasco Obscuro. Os vislumbres ao longo da borda afiada são como estrelas na noite.",
+        "ru": "Древнее копьё, обнаруженное в кузнице Черногорья. Самоцветы на лезвии этого копья сверкают, словно звёзды в ночном небе.",
+        "th": "หอกตะขอที่ถูกซ่อนไว้ใน Blackcliff Forge ที่ปลายนั้นมีแสงประกายราวกับแสงดาวบนฟากฟ้ายามราตรี",
+        "vi": "Thương móc cổ xưa của Hắc Nham Xưởng. Trên đầu lưỡi lấp lánh như ánh sáng của bầu trời vắng sao."
+    },
+    "flavor": {
+        "en": "\nAn ancient prototype pole weapon from Liyue's arsenal. The batch number has faded and no records exist to confirm the date of production.\nThe pole is made of black steel inlaid with gold. A lightning motif runs along the body, featuring streaks of lightning interspersed with stars. The addition of gold leaf gives it an exquisite finish.\n\nBy the time the monster threat was quelled, the remaining troops were few and far between, and each joined the civilian community where they were based. Though peace now prevailed, it sparked a martial arts renaissance that spread throughout the land.\nDemand for all kinds of weaponry spiked, especially for superior quality items, and manufacturers could not keep pace. To find a solution, Yun Hui of the house of Yun met with master craftsman Han Wu and the two conducted intensive research behind closed doors.\nBy the time they emerged, both men's beards had grown by twelve inches. Their new weapon designs, \"the prototypes,\" were finally ready to revolutionize weaponry manufacturing in Liyue. It was time to do away with the shackles of the past that plagued their craft.\n\nThe first pole built to the new specifications had a black-and-gold appearance. The spike at the tip was two inches longer than the previous standard. It was truly a deadly weapon, but one with a composed and commanding presence.\nIt was left to bask overnight in the moonlight. At the first light of dawn, the tip shone with the cold, piercing light of a star against the dim sky.\n\nAt this ethereal sight, Yun Hui's mind was flooded with memories of his father's glory, for his father's name made reference to the stars. Greatly moved, he decided to dedicate the weapon to his father's memory.\nFor this reason the weapon became known as \"Starglitter\" among later practitioners of the halberd arts in Liyue.\n\n",
+        "de": "\nEin uralter Prototyp einer Stangenwaffe aus der Rüstungsfabrik von Liyue. Die Chargennummer ist bereits verblasst und es gibt keine Aufzeichnungen, um das Produktionsdatum zu bestätigen.\nDiese Stangenwaffe besteht aus schwarzem Stahl, der mit Gold verziert ist. Ein Blitzmotiv verläuft entlang des Körpers, das von Sternen durchsetzt ist. Die Zugabe von Blattgold verleiht der Waffe eine vornehme Aura.\n\nAls die Monsterbedrohung endlich unter Kontrolle war, waren nur noch wenige Truppen übrig und jede von ihnen trat der Zivilgemeinschaft bei, in der sie stationiert war. Auch wenn nun Frieden herrschte, löste es eine Wiederbelebung der Kampfkünste aus, die sich im ganzen Land ausbreiteten.\nDie Nachfrage an alten Waffen konnte dem Bestand nicht gerecht werden und die Qualitätsansprüche stiegen ebenfalls. Der berühmte Schmied Yun Hui und Handwerker Han Wu zogen sich daher zurück, um an einer Lösung zu arbeiten.\nAm Tage des Abschieds waren die Bärte beider Männer um eine Handbreit gewachsen. Ihre neuen Waffenentwürfe, die „Prototypen“, waren endlich bereit, die Waffenherstellung in Liyue zu revolutionieren. Es war Zeit, die Fesseln der Vergangenheit abzulegen, die solange ihr Handwerk geplagt hatten.\n\nDie erste Stangenwaffe, die nach den neuen Spezifikationen erstellt wurde, war von schwarz-goldenem Äußeren. Das Ende der Spitze war fünf Zentimeter länger als der vorherige Standard. Eine wahrlich tödliche Waffe, dennoch gefasst und gebieterisch im Aussehen.\nSie wurde über Nacht im Mondlicht gelassen. Beim ersten Licht des Tagesanbruchs glänzte die Spitze mit dem kalten, durchdringenden Licht eines Sterns am Nachthimmel.\n\nBei diesem spirituellen Anblick wurde Yun Huis Geist von Erinnerungen an die Herrlichkeit seines Vaters überflutet, denn der Name seines Vaters bezog sich auf die Sterne. Sehr bewegt beschloss er, die Waffe dem Vermächtnis seines Vaters zu widmen.\nAus diesem Grund wurde die Waffe unter späteren Anhängern der Hellebarden-Kampfkunst in Liyue als „Sternsichel“ bekannt.\n\n",
+        "chs": null,
+        "cht": "\n產自璃月兵工廠的古老長槍。序號不明，相關典籍上也未記錄它的成品時間。\n黑鋼鑲金的槍身上刻有神雷引路圖，取蒼雷為勾，天星為畫。金漆描畫，更顯上品大氣。\n\n魔獸的災厄平息後，散兵游勇流入民間。世間雖和平，卻隨此掀起尚武的浪潮。\n刀槍劍戟供不應求。武家對精兵的要求日益增高。為尋求突破，鍛造世家大當家雲輝與名匠寒武閉門鑽研。\n再見天日時，二人鬢須已長一尺有餘。而名喚「試作」，將打破璃月古來兵器桎梏的圖譜也終於完成。\n\n依此製成的第一杆長槍以黑金為主色調，槍尖較尋常長槍多出兩寸有餘，開鋒見血，不怒自威。\n夜裡置於室外沐浴月華，拂曉時，可見槍尖一點寒光如星。\n\n雲輝觀此神兵，憶起父親年輕時舞槍的英姿，情之所至，取父親名號中的星字為它命名。\n璃月日後槍戟之祖，是故就此命名「星鐮」。\n\n",
+        "es": "\nUna antigua lanza fabricada en el arsenal de Liyue. Se desconoce su número de serie. En los registros antiguos tampoco aparece su fecha de fabricación.\nEl cuerpo del arma está cubierto de grabados con motivos de truenos en el contorno y estrellas en el centro. Está recubierta de una capa dorada que le da un acabado elegante.\n\nDespués de haber acabado con los monstruos y restaurado la paz, los soldados se mezclaron entre la gente común. Estos tiempos prósperos permitieron un reflorecimiento de las artes marciales.\nLa oferta de armas no satisfacía su demanda, pues las exigencias de armas de mayor calidad estaban en constante aumento. Es por eso que el aclamado herrero Yun Hui y el célebre artesano Han Wu cerraron las puertas de sus negocios para dedicarse al estudio.\nCuando volvieron a ver la luz del día, sus cabellos y barbas habían crecido considerablemente. Pero sus nuevos prototipos de armas rompieron con las cadenas de la ortodoxia en Liyue y revolucionaron la industria con nuevos diseños.\n\nLa primera lanza en producirse tenía un color dorado oscuro. Su punta era ligeramente más larga que la de una lanza tradicional, y podía mantener su templanza aun después de mancharse de sangre.\nSi se deja afuera durante la noche para bañarse en la luz de la luna, al alba emitirá una luz fría como la de una estrella.\n\nAl ver esta arma divina, Yun Hui se acordó de cuando su padre blandía la lanza y la nombró en su honor.\nEl arma, precursora de muchas más en Liyue, fue así llamada “Estelar”.\n\n",
+        "fr": "\nUne lance issue de l'arsenal de Liyue. Difficile de dire de quel modèle il s'agit ; les archives ne mentionnent pas sa date de fabrication.\nSur le corps de l'arme sont incrustés des motifs de foudre et d'étoiles. Les formes gravées à la laque dorée lui confère un style marqué.\n\nUne fois le temps des monstres révolu et la paix réinstaurée, les combattants rejoignirent les civils. Ce fut une époque faste pour le renouveau des arts martiaux.\nLa demande en armes ancienne dépassa rapidement l'offre ; les exigences en termes de qualité augmentèrent. Le célèbre forgeron Yun Hui et l'artisan Han Wu s'enfermèrent pour se plonger dans leurs recherches.\nLorsqu'ils revirent la lumière du jour, leurs cheveux et leurs barbes avait poussé considérablement ; mais le prototype d'arme qu'ils présentèrent était une révolution dans la fabrication des armes à Liyue.\n\nLa première lance qui fut tirée de cette fabrication était de teinte sombre ; sa tête était plus lourde que les têtes de lance standard, et elle fit largement ses preuves en combat.\nAlors que la nuit se baigne dans le clair de lune et que l'aube n'est pas loin, la lance luit au petites heures du matin de la pâle lueur des étoiles.\n\nSe remémorant les postures de son père, rappelant l'étoile alors qu'il faisait la danse de l'épée dans son jeune âge, Yun Hui s'en inspira pour lui donner son nom.\nL'arme qui par la suite servit d'ancêtre à une bonne partie de l'arsenal de Liyue fut ainsi nommée « Guisarme stellaire ».\n\n",
+        "id": "\nPrototipe tombak kuno dari gudang senjata Liyue. Nomor serinya telah memudar dan tidak ada catatan untuk mengonfirmasi tanggal produksi.\nTombak ini terbuat dari baja hitam bertatahkan emas. Motif kilat membentang di sepanjang tubuh, menampilkan kilatan petir diselingi bintang. Penambahan daun emas memberikan sentuhan akhir yang indah.\n\nPada saat ancaman monster sirna, pasukan yang tersisa hanya beberapa dan tidak dekat, dan masing-masing bergabung dengan komunitas sipil di mana mereka berada. Meskipun perdamaian berhasil diperoleh, namun memicu kebangkitan seni bela diri yang menyebar ke seluruh negeri.\nPermintaan untuk semua jenis senjata berduri, terutama untuk barang-barang berkualitas tinggi, dan produsen tidak dapat memenuhi banyaknya permintaan. Untuk menemukan solusi, Yun Hui dari keluarga Yun bertemu dengan pengrajin Han Wu dan keduanya melakukan penelitian intensif secara diam-diam.\nSaat mereka berdua selesai, janggut kedua pria itu sudah tumbuh dua belas inci. Desain senjata baru mereka, \"prototipe\", akhirnya siap untuk merevolusi pembuatan persenjataan di Liyue. Sudah waktunya untuk menyingkirkan belenggu masa lalu yang mengikat karya mereka.\n\nTombak pertama yang dibuat dengan spesifikasi baru berwarna hitam emas. Duri di ujungnya dua inci lebih panjang dari standar sebelumnya.\nDitinggalkan untuk berjemur semalaman di bawah sinar rembulan. Pada fajar pertama, ujungnya bersinar, menusuk cahaya bagai bintang di langit malam.\n\nKetika memandangnya, Yun teringat akan kejayaan ayahnya sewaktu dulu, dan untung mengenangnya, dia memutuskan untuk mendedikasikan senjata ini berdasarkan kenangan atas ayahnya.\nDinamakanlah senjata ini \"Starglitter\" di antara para ahli pemakai tombak di Liyue.\n\n",
+        "jp": "\n璃月の武器工場が作った古い長槍。製造番号や製造時期は不明。\n黒い鋼鉄と黄金で作られた槍身に稲妻の絵があり、上品かつ豪華に見える。\n\n魔獣の災いが終息した後、兵士たちは帰還し召集は解除された。平和な時代が訪れたが、世間では武術が流行り始める。\n武器の供給は不足し、需要がますます高まった。さらなる高みを目指して、鍛造の名門である雲氏の当主と武器の職人である寒武は閉じこもり研究を始めた。\n再び人の前に現れた時、二人とも髪の毛と髭が30センチ以上伸びていたらしい。今までの璃月の武器の概念を覆す「試作」シリーズの設計図も完成した。\n\n最初に設計図に沿って作られた黒金色の長槍。槍先は通常の長槍より7センチほど長く、そして非常に鋭い。\n月明かりを浴びた槍先は、夜明けに冷たく光る。\n\n雲輝はこの武器を見て、父の若い頃の英姿を思い出した。父の英姿にあやかるように、名前の一文字をもらい命名した。\n璃月の槍や戟などの長柄武器の原点は、この「星鎌」である。\n\n",
+        "kr": "\n리월 무기 공장에서 제조한 오래된 창. 제품 번호 불명, 관련 서적에도 제조 일자 기록이 없다.\n검은 강철로 만들어진 창신에는 번개를 인도하는 도안이 새겨져 있다. 창뢰 모양의 창날과 별이 수놓아진 창신. 금빛으로 도색되어 한층 더 기품 있어 보인다.\n\n마수들의 난을 평정한 후, 유격대는 해산하여 민간으로 유입됐다. 세상은 평화로웠지만 무예를 숭상하는 움직임이 일어났다.\n무기는 공급 부족이었다. 무도가는 정예병에게 더 높은 수준을 요구했다. 단조 명가 운휘와 명장 한무는 문을 걸어닫고 연구에 몰두했다\n다시 세상에 나온 날, 두 사람의 머리카락은 한참 자라 있었다. 그리고 「시작」이라 불리는 리월의 고대 무기의 한계를 뛰어넘는 도감도 드디어 완성됐다.\n\n이 도감으로 만든 첫 번째 창은 흑금색이 주 색조이며, 창 끝은 일반적인 창보다 2촌 길고, 몹시 날카롭고 가만히 놔둬도 위엄 넘쳤다.\n밤에 밖에서 달빛을 받고, 새벽엔 창 끝의 서슬퍼런 빛은 별처럼 빛났다.\n\n운휘는 이 창을 보자 젊었을 때 부친이 창을 휘두르던 용맹한 모습이 떠올라 이를 몹시 아꼈다. 그리하여 부친의 이름 중에 성자를 따서 창의 이름을 지었다.\n이로 인해 리월 창의 시조는 「성겸」이라 이름 지어졌다.\n\n",
+        "pt": "\nUm antigo protótipo de uma espada larga do arsenal de Liyue. O número do lote desapareceu e não existem registros para confirmar a data de produção.\nA lança é feita de aço preto incrustado com ouro. Um padrão de relâmpago percorre o corpo, apresentando listras de relâmpagos intercaladas com estrelas. A adição de folha de ouro lhe dá um acabamento requintado.\n\nQuando os dias de monstros acabaram e a paz foi restaurada, os lutadores se juntaram aos civis. Foi um bom momento para o renascimento das artes marciais.\nA demanda por todos os tipos de armamento disparou, especialmente por itens de qualidade superior, e os fabricantes não conseguiam acompanhar o ritmo. Para encontrar uma solução, Yun Hui da casa de Yun encontrou-se com o mestre artesão Han Wu e os dois realizaram uma pesquisa intensiva atrás de portas fechadas.\nQuando voltaram a ver a luz do dia, ambas as barbas dos homens já haviam crescido 30 centímetros. Seus novos projetos de armas, os \"protótipos\", estavam finalmente prontos para revolucionar a fabricação de armas em Liyue. Era hora de acabar com as algemas do passado que atormentavam seu ofício.\n\nO primeiro bastão construído de acordo com as novas especificações tinham uma aparência negra e dourada. O espeto na ponta era dois centímetros mais longo do que o padrão anterior. Era verdadeiramente uma arma mortal, mas com uma presença serena e imponente.\nFoi deixado do lado de fora para ser banhado na luz do luar. Com o primeiro raio de luz do crepúsculo, a ponta brilhou com a fria e perfurante luz de uma estrela no céu escuro.\n\nNesta visão etérea, a mente Yun Hui foi inundada de lembranças da glória de seu pai, pois, o seu nome fazia referências às estrelas. Muito emocionado, ele decidiu dedicar a arma em sua memória.\nPor essa razão, a arma ficou conhecida como 'Estelar' entre os praticantes de alabardas em Liyue.\n\n",
+        "ru": "\nДревний прототип копья из арсенала Ли Юэ. Инвентарный номер уже давно стёрся, и выяснить точную дату производства невозможно.\nДревко выполнено из чёрной стали, инкрустированной золотом. Узор в виде молнии и звёзд покрывает копьё от основания до острия. Сусальное золото придаёт оружию изысканности.\n\nПосле того как угроза нападения чудовищ миновала, остатки войск были разбросаны на большой территории. Со временем воины смешались с местными жителями. Несмотря на наступления мирного времени, у жителей проснулся интерес к боевым искусствам. \nСпрос на различные виды оружия вырос. Особо ценились изделия высокого качества. Ремесленники не успевали справляться с потоком заказов. Для поиска решения Юнь Хуэй из рода Юнь встретился с мастером Хань У. Вдвоём они заперлись в мастерской и занялись исследованием данной проблемы.\nКогда два мастера вновь увидели солнечный свет, их бороды уже отросли до пупов. Их новейшая разработка, «прототипы», была призвана перевернуть оружейный бизнес в Ли Юэ.\n\nПервое копьё, изготовленное по новым чертежам, выполнено в чёрно-золотом цвете. Наконечник у этого копья заметно длиннее, чем стандартной пики. Поистине смертоносное оружие, внушающее трепет и уважение. \nКопьё оставили на ночь под лунным светом. В первых рассветных лучах наконечник загорелся холодным звёздным светом. \n\nНаблюдая за этим магическим зрелищем, Юнь Хуэй вспомнил о былой славе отца, чьё имя связано со звёздами. Поэтому он решил посвятить оружие памяти своего отца.\nСреди мастеров древкового оружия Ли Юэ, это оружие стало известно как «Звёздный серп».\n\n",
+        "th": "\nหอกโบราณจากคลังอาวุธใน Liyue ไม่ทราบรุ่นที่ผลิต ตำราที่เกี่ยวข้องก็ไม่ได้บันทึกไว้ว่ามันทำเสร็จเมื่อไหร่\nตัวด้ามหอกสีดำขอบทองสลักแผนที่นำทางของเทพแห่งสายฟ้า วาดลายสายฟ้า ใช้หมู่ดวงดาวเป็นพื้นหลัง ใช้สีทองวาดภาพ ทำให้ดูสง่างามยิ่งขึ้น\n\nหลังจากหายนะของสงครามอสูรสิ้นสุดลง เหล่าทหารไพรก็แยกย้ายกันไปปะปนกับผู้คน ถึงแม้บ้านเมืองจะสงบสุข แต่ก็สามารถเกิดคลื่นของนักรบได้ทุกขณะ\nมีด, ดาบ, หอก อาวุธต่าง ๆ นั้นมีไม่พอใช้งาน โดยความต้องการสรรหากองทหารชั้นสูงของค่ายทหารเพิ่มขึ้นทุกวัน เพื่อการค้นหาความก้าวหน้า Yun Hui เจ้าของร้านตีเหล็กเก่าแก่ และ Han Wu ช่างฝีมือชื่อดังได้ปิดร้านเพื่อทำการค้นคว้าโดยเฉพาะ\nเมื่อกลับออกมาสู่แสงตะวัน ทั้งคู่ก็สูงขึ้นอีกเป็นนิ้ว และตำราอาวุธที่ชื่อ\"การทดสอบ\"ที่ปลดพันธนาการของการสร้างอาวุธโบราณของ Liyue ในที่สุดก็สำเร็จ\n\nด้วยเหตุนี้หอกด้ามแรกได้ใช้สีดำทองเป็นหลัก ปลายหอกยาวกว่าหอกปกติถึงสองนิ้ว สามารถเห็นเลือดที่ปลายแหลม ดูเปี่ยมด้วยพลัง\nในยามค่ำคืนมันอาบแสงจันทร์กลางแจ้ง เมื่อแสงยามรุ่งอรุณปรากฏ ปลายแหลมของหอกจะมีลำแสงเยือกเย็นดุจดวงดาว\n\nYun Hui พินิจพิจารณาดูอาวุธที่อัศจรรย์นี้ แล้วก็นึกถึงความกล้าหาญของบิดาเมื่อยังเป็นหนุ่ม ก็เกิดความรักขึ้นมา จึงตั้งชื่ออาวุธนี้ตามชื่อของดาวประจำตัวของบิดา\nจากนั้นเป็นต้นมา หอกที่เป็นต้นตระกูลอาวุธของ Liyue มีนามว่า\"เคียวแห่งดวงดาว\"\n\n",
+        "vi": "\nThương cổ tạo ra ở xưởng chế tạo vũ khí Liyue. Số lô không xác định, thời gian hoàn thành của nó cũng không được ghi chép trong sách cổ liên quan.\nThương nạm vàng đen trên thân khắc tranh Lôi Thần dẫn đường, lấy thương lôi làm móc, sao trời làm hoạ, sơn vàng để vẽ, nổi bật khí khái thượng đẳng.\n\nSau khi thảm hoạ quái vật lắng xuống, những người lính phân tán vào trong dân gian. Tuy rằng thế giới hoà bình, vẫn dấy lên làn sóng thượng võ.\nĐao thương kiếm kích đều cung không đủ cầu. Yêu cầu đối với những tinh binh ngày một gia tăng. Để tìm kiếm sự đột phá, người đứng đầu đại tộc rèn Yun Hui cùng nghệ nhân Han Wu đóng cửa nghiên cứu.\nKhi trở lại, tóc mai hai người đã dài hơn một tấc. Còn thứ gọi là \"mẫu\", cuối cùng đã hoàn toàn phá vỡ những quan niệm cũ về vũ khí từ trước đến nay.\n\nDựa theo đó tạo thành một cây trường thương có màu vàng đen, ngọn thương so với thương thông thường dài hơn 2 phân, xuất thương thấy máu, bất nộ tự uy.\nKhi để phía ngoài căn phòng thấm đẫm ánh trăng, lúc bình minh, có thể thấy ngọn thương mang chút ánh sáng lạnh như sao.\n\nYun Hui nhìn thần binh này, nhớ lại tư thế múa thương oai hùng của bố khi ông còn trẻ, nên lấy chữ Tinh trong danh hiệu của bố đặt tên cho nó.\nLà tổ tiên của thương kích, từ đó được mệnh danh \"Tinh Liêm\"\n\n"
+    }
+}

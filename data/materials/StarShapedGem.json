@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Star-Shaped Gem",
+        "de": "Sternedelstein",
+        "chs": "如星的宝珠",
+        "cht": "如星的寶珠",
+        "es": "Gema reluciente como una estrella",
+        "fr": "Gemme d'étoile",
+        "id": "Permata Berbentuk Bintang",
+        "jp": "星の如き宝珠",
+        "kr": "별과 같은 보주",
+        "pt": "Pérola Parecida com as Estrelas",
+        "ru": "Звёздная жемчужина",
+        "th": "ไข่มุกที่เหมือนดวงดาว",
+        "vi": "Châu Báu Ánh Sao"
+    },
+    "id": 100976,
+    "materialDesc": {
+        "en": "A mysterious gem of unknown make. It shines like a star even when placed inside your backpack.\\nPerhaps this is the key to completing a certain \"image.\"",
+        "de": "Ein geheimnisvoller Edelstein unbekannter Herkunft. Er leuchtet wie ein Stern, selbst wenn du ihn in deinen Rucksack steckst.\\nVielleicht ist dies der Schlüssel zur Vervollständigung eines bestimmten „Bildes“.",
+        "chs": "不知是何种物质制成的神秘宝珠。即使放在行囊中，也会像星星一般发出微光闪耀。\\n或许是某些「画面」完成的关键吧。",
+        "cht": "不知是何種物質製成的神秘寶珠。即使放在行囊中，也會像星星一般發出微光閃耀。\\n或許是某些「畫面」完成的關鍵吧。",
+        "es": "Una misteriosa gema que no se sabe de qué está hecha. Aunque la pongas en tu equipaje, seguirá emitiendo un tenue destello.\\nTal vez sea la clave para completar cierta imagen.",
+        "fr": "Une mystérieuse gemme dont la composition est inconnue. Elle brille comme une étoile même à l'intérieur de votre sac.\\nPeut-être qu'il s'agit de la pièce manquante d'une certaine « image ».",
+        "id": "Permata misterius yang bahan dasarnya tidak diketahui. Bersinar seperti bintang meskipun ditaruh di dalam tasmu.\\nMungkin ini adalah kunci untuk melengkapi sebuah \"gambar\".",
+        "jp": "未知の物質で出来た不思議な宝珠。バッグの中に入れても、星のように淡い光を放つ。\\n「画面」を完成させるための鍵かもしれない。",
+        "kr": "어떤 물질로 만들어졌는지 알 수 없는 신비한 보주. 배낭에 넣어도 별처럼 희미한 빛을 낸다.\\n어떤 「장면」을 완성할 중요한 도구일지도 모른다",
+        "pt": "Uma joia misteriosa que foi feita de forma desconhecida. Ela brilha como uma estrela mesmo quando colocada dentro de sua mochila.\\nTalvez seja a chave para completar uma certa \"imagem\".",
+        "ru": "Таинственная драгоценная жемчужина неизвестного происхождения. Она сияет как звезда, даже когда лежит в рюкзаке.\\nВозможно, это ключ к завершению определённого рисунка.",
+        "th": "ไข่มุกลึกลับที่ไม่รู้ว่าสร้างขึ้นจากอะไร ถึงแม้ว่าจะใส่ไว้ในกระเป๋าเดินทาง แต่ก็ยังคงส่องแสงออกมาเป็นประกายราวกับดวงดาวอยู่ดี\\nบางทีอาจเป็นกุญแจสำคัญในการทำให้ \"รูปภาพ\" บางส่วนเสร็จสมบูรณ์",
+        "vi": "Loại châu báu thần bí không biết được làm từ gì. Dù để trong hành trang cũng tỏa ra ánh sáng nhè nhẹ tựa các vì sao.\\nCó lẽ là mấu chốt để hoàn thành \"hình ảnh\" nào đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

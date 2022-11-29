@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tale of the Forest King",
+        "de": "Geschichte des Waldkönigs",
+        "chs": "关于森林王的故事",
+        "cht": "關於森林王的故事",
+        "es": "Cuento del Rey del Bosque",
+        "fr": "Conte du roi de la forêt",
+        "id": "The Tale of the Forest King",
+        "jp": "森林王に関する物語",
+        "kr": "숲의 왕에 대한 이야기",
+        "pt": "Contos do Rei da Floresta",
+        "ru": "История о лесном короле",
+        "th": "เรื่องราวเกี่ยวกับราชาแห่งพงไพร",
+        "vi": "Câu Chuyện Về Vua Rừng Sâu"
+    },
+    "id": 221019,
+    "materialDesc": {
+        "en": "Through this tale, you can master the method to make the claymore \"Forest Regalia.\"\\n\\nThis tale is about the Forest King.\\n\"The forest used to be a giant maze many, many moons ago...\"",
+        "de": "Durch diese Geschichte lernst du die Herstellung des Zweihänders „Waldkönigsschwert“.\\n\\nDiese Geschichte hat eine enge Verbindung zum Waldkönig.\\n„Vor sehr, sehr vielen Monden war der Wald ein riesiger Irrgarten ...“",
+        "chs": "通过这个故事，能掌握双手剑「森林王器」的制造方法。\\n\\n这个故事与森林王有关。\\n「很多、很多个月亮以前，森林是一座巨大的迷宫…」",
+        "cht": "透過這個故事，能掌握雙手劍「森林王器」的製造方法。\\n\\n這個故事與森林王有關。\\n「很多、很多個月亮以前，森林是一座巨大的迷宮…」",
+        "es": "A través de este cuento, aprenderás a fabricar Espada Real del Bosque (mandoble).\\n\\nTrata sobre el Rey del Bosque.\\n“Hace muchas, muchas lunas, bosque era laberinto gigante...”.",
+        "fr": "#Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à deux mains « Apparat de la forêt ».\\n\\nC'est une histoire qui parle du roi de la forêt.\\n« Il y a de très nombreuses lunes, la forêt était un immense labyrinthe...{NON_BREAK_SPACE}»",
+        "id": "Melalui kisah ini, kamu dapat menguasai metode untuk membuat Claymore \"Forest Regalia\".\\n\\nKisah ini menceritakan tentang Raja Hutan.\\n\"Hutan dulunya adalah labirin raksasa sebelum ada begitu banyak bulan yang menggantung di langit ....\"",
+        "jp": "この物語を通して、両手剣「森林のレガリア」の製作方法を把握できる。\\n\\nこの物語は、森林王に関わるもの。\\n「ずっと昔、森は巨大な迷宮だった…」",
+        "kr": "이 이야기를 통해 양손검 「숲의 리게일리어」의 제작 방법을 습득할 수 있다.\\n\\n이 이야기는 숲의 왕과 관련이 있다.\\n「아주아주 많은 달이 있기 전에 숲은 하나의 거대한 미궁이었어…」",
+        "pt": "Através desse conto, você aprenderá a fabricar o Espadão \"Espada Real da Floresta\".\\n\\nEsse é um conto sobre o Rei da Floresta.\\n\"Muitas, muitas luas atrás, a floresta era como um labirinto gigante...\"",
+        "ru": "Эта история поможет вам овладеть техникой создания двуручного меча «Регалия леса».\\n\\nИстория повествует о лесном короле.\\n«Много лун тому назад лес был огромным лабиринтом...»",
+        "th": "คุณสามารถทราบวิธีการหลอมดาบใหญ่ \"Forest Regalia\" ผ่านเรื่องราวนี้ได้\\n\\nเรื่องราวนี้มีส่วนเกี่ยวข้องกับราชาแห่งพงไพร\\n\"กาลครั้งหนึ่ง เมื่อหลายจันทรามากมายก่อนหน้านี้ ป่าเคยเป็นเขาวงกตขนาดยักษ์...\"",
+        "vi": "Thông qua câu chuyện này, có thể nắm được cách chế tạo trọng kiếm \"Vương Khí Rừng Sâu\".\\n\\nCâu chuyện này kể về Vua Rừng Sâu.\\n\"Rất nhiều rất nhiều mặt trăng trước, khu rừng là một mê cung khổng lồ...\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

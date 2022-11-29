@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lunged Stickleback",
+        "de": "Lungenstichling",
+        "chs": "肺棘鱼",
+        "cht": "肺棘魚",
+        "es": "Espinoso anfibio",
+        "fr": "Épinoche pulmonée",
+        "id": "Lunged Stickleback",
+        "jp": "ブレストゲウオ",
+        "kr": "부레 가시고기",
+        "pt": "Piramboia Esgana-Gato",
+        "ru": "Двоякодышащая колюшка",
+        "th": "Lunged Stickleback",
+        "vi": "Cá Thân Gai"
+    },
+    "id": 131006,
+    "materialDesc": {
+        "en": "A swift, fierce fish with spiny fins whose spiny mouth can pierce the current when it swims at full speed. Its capabilities have earned it the nicknames \"The Cutter\" and \"Hard-To-Get.\"\\nUnlike others of its kind, the lunged stickleback can live in dried, muddy pools for a long time. Other than its gills, it can also breathe through its vestigial scales, which is a feature much more similar to that of amphibians. As such, apart from dealing with uninvited anglers, it also has to deal with an academic vote of no confidence in it still being a stickleback.",
+        "de": "Ein schneller, grimmiger Fisch mit stacheligen Flossen, dessen stacheliges Maul die Strömung durchbohren kann, wenn er mit voller Geschwindigkeit schwimmt. Seine Fähigkeiten haben ihm die Spitznamen „Wasserdorn“ und „Bachpfeil“ eingebracht.\\nIm Gegensatz zu anderen seiner Art kann der Lungenstichling lange Zeit in ausgetrockneten, schlammigen Tümpeln leben. Neben seinen Kiemen kann er auch durch seine degenerierten Schuppen atmen, was eine Eigenschaft ist, die der von Amphibien ähnlicher ist. Aus diesem Grund sind sie von neugierigen Anglern sehr beliebt, während sich die Meeresbiologen bis heute immer noch darin uneinig sind, ob Lungenstichlinge der Familie der Stichlinge angehören.",
+        "chs": "长满刺状鳍的迅猛鱼类，全速游动时矛般尖吻甚至能劈开水流。因此又得名「劈水刺」、「箭难追」等。\\n与诸多同类相异，肺棘鱼可以在干涸的泥塘中存活很久，除了鳃部，它们还能用退化了鳞片的皮肤来呼吸，这更符合两栖类的性状，因此除了不请自来的渔师，它们还面临着被棘鱼学科除名的存在性危机。",
+        "cht": "長滿刺狀鰭的迅猛魚類，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\\n與諸多同類相異，肺棘魚可以在乾涸的泥塘中存活很久，除了鰓部，牠們還能用退化了鱗片的皮膚來呼吸，這更符合兩棲類的性狀，因此除了不請自來的漁師，牠們還面臨著被棘魚學科除名的存在性危機。",
+        "es": "Un pez rápido y feroz con aletas espinosas y una protuberancia afilada que parte en dos la corriente cuando nada a gran velocidad, por lo que se lo conoce como “pez cortante” y “pez flecha”.\\nA diferencia de otros peces similares, los espinosos pueden vivir en charcos secos y aguas enfangadas durante mucho tiempo. Además de por las branquias, también pueden respirar a través de su piel sin escamas, lo que los hace más parecidos a los anfibios.",
+        "fr": "Une espèce de poisson rapide aux nageoires couvertes d'épines, qui, lancé à pleine allure, n'est pas sans rappeler une lance capable de séparer les eaux. C'est d'ailleurs de là que lui viennent les surnoms d'« épine des eaux » ou encore de « flèche des courants ».\\nContrairement à ses congénères, cette épinoche est capable de survivre longtemps dans les marais et les bourbiers asséchés, puisqu'elle peut respirer aussi bien par ses branchies qu'à travers ses écailles atrophiées, tenant autant du poisson que de l'amphibien. Ceci en fait autant la cible des pêcheurs que des chercheurs.",
+        "id": "Ikan yang lincah dan ganas dengan sirip berduri yang mulut runcingnya dapat menembus arus saat berenang dengan kecepatan penuh. Kemampuan tersebut membuatnya dijuluki sebagai \"Ikan Pembelah Arus\" dan \"Ikan Jagoan Kabur\".\\nTidak seperti ikan lain sejenisnya, Lunged Stickleback dapat hidup di kolam yang kering dan berlumpur untuk waktu yang lama. Selain menggunakan insangnya, mereka juga dapat bernapas melalui sisiknya yang kian lama kian merusak, yang membuatnya tampak jauh lebih menyerupai karakteristik amfibi ketimbang ikan. Karena hal inilah, masalah mereka bukan hanya bagaimana berhadapan dengan para pemancing yang tidak diundang saja, melainkan juga harus bersiap-siap bilamana spesies mereka sudah tidak dikategorikan lagi ke dalam keluarga stickleback.",
+        "jp": "トゲに満ちたヒレを持つ猛魚。全速力で泳ぐときに、槍のような鼻は水流を切り裂くことができる。そのため「水切針」、「飛箭」などの別名がある。\\n多くの同類とは異なり、ブレストゲウオは乾いた泥池でも長く生きることができる。えら以外にも、うろこが取れた皮膚で呼吸することができる。これは両生類に似ているため、釣りに来る漁師の標的になる以外、トゲウオ科から除名される恐れがある。",
+        "kr": "가시가 가득한 지느러미를 지닌 빠른 어류. 전속력으로 헤엄칠 때 창처럼 뾰족한 주둥이가 물살을 갈라 「물을 가르는 가시」, 「쫓기 힘든 화살」이라는 별명이 있다.\\n여타 동종과 달리 부레 가시고기는 말라붙은 늪에서 오래 생존할 수 있다. 아가미뿐 아니라 비늘이 퇴화한 피부로도 호흡할 수 있는데, 이는 양서류 특징에 더 부합해 불청객인 낚시꾼 외에도 가시고기 과에서 제명될 수 있는 위기에 처해 있다",
+        "pt": "Um peixe rápido e feroz com barbatanas espinhosas, cuja boca espinhosa pode furar a corrente quando nada a toda velocidade. Suas capacidades lhe renderam os apelidos de \"O Cortador\" e \"Difícil de Pegar\".\\nAo contrário de outros de seu tipo, o Piramboia pode viver em viveiros secos e lamacentos por muito tempo. Além de suas brânquias, também pode respirar através de suas escamas vestigiais, que é uma característica muito mais semelhante à dos anfíbios. Como tal, além de lidar com pescadores não convidados, eles correm o risco de serem expulsos do departamento dos peixes por serem mais espinho do que peixe.",
+        "ru": "Свирепая рыба с колючими плавниками, быстрая и проворная. На высокой скорости может даже разделять водный поток своей копьеобразной головой. Отсюда и прозвища «острое копьё» и «быстрая стрела».\\nВ отличие от других рыб этого вида, она может долгое время выживать в пересохших водоёмах благодаря своим лёгким. Кроме того, у неё есть жабры, а также она может дышать кожным покровом после того, как сбросит чешую. Это делает её ещё более похожей на земноводных, поэтому ей приходится иметь дело не только с незваными рыбаками, но и с исследователями, которые норовят лишить её титула рыбы.",
+        "th": "ปลาที่มีความว่องไวและดุดัน มีครีบหนามอยู่เต็มตัว ปากที่แหลมเหมือนหอกของมันนั้นสามารถแหวกน้ำได้เมื่อว่ายเร็วเต็มที่ ดังนั้นจึงมีฉายาอื่น ๆ ว่า \"หอกแหวกน้ำ\" หรือ \"ลูกธนูสุดซิ่ง\" เป็นต้น\\nLunged Stickleback ต่างจากปลาชนิดอื่น ๆ ตรงที่สามารถอยู่รอดได้ในบ่อโคลนที่แห้งเป็นเวลานาน นอกจากเหงือกแล้ว พวกมันยังสามารถหายใจด้วยผิวหนังที่มีเกล็ดที่เสื่อมสภาพ ซึ่งมีลักษณะคล้ายคลึงกับสัตว์ครึ่งบกครึ่งน้ำมาก ดังนั้น นอกจากจะต้องจัดการกับนักตกปลาที่ไม่ได้รับเชิญแล้ว พวกมันยังต้องเผชิญกับวิกฤตที่นักวิชาการจะลบชื่อพวกมันออกจากกลุ่มปลา Stickleback อีกด้วย",
+        "vi": "Loài cá hung hãn nhanh nhẹn đầy gai nhọn, khi bơi với tốc độ cao nhất thậm chí còn có thể chia cách dòng nước, cũng vì thế nên chúng có danh hiệu \"Gai Chẻ Nước\", \"Mũi Tên Gió\".\\nKhác với đồng loại, chúng có thể sống lâu hơn. Ngoài mang ra, chúng còn có thể thở bằng lớp da vảy thoái hóa, phù hợp hơn với đặc điểm của loài lưỡng cư. Chính vì vậy, chúng luôn là mục tiêu được nhắm tới bởi các thợ câu và nhà khoa học thủy sản."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

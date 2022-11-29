@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Layla: Daydream",
+        "de": "Layla – Tagtraum",
+        "chs": "莱依拉·昼梦",
+        "cht": "萊依拉·晝夢",
+        "es": "Laila - Ensoñación",
+        "fr": "Layla - Rêverie",
+        "id": "Layla: Daydream",
+        "jp": "レイラ·白昼夢",
+        "kr": "레일라·백일몽",
+        "pt": "Layla: Sonhando Acordado",
+        "ru": "Грёзы",
+        "th": "Layla - ฝันกลางวัน",
+        "vi": "Layla - Giấc Mơ Ban Ngày"
+    },
+    "id": 210141,
+    "materialDesc": {
+        "en": "Namecard style.\\n\"The starry sky in your dreams will illuminate your way forward, on the premise that the crystal in your heart reflects clear lights.\"",
+        "de": "Ein Motiv für Namenskärtchen.\\n„Möge der Sternenhimmel in deinen Träumen deinen Weg nach vorn erhellen. Denk daran, den Kristall in deinem Herzen nicht sein klares Licht verlieren zu lassen.“",
+        "chs": "名片纹饰。\\n「梦中的星空会将你的前路照亮，只是你那颗心中的水晶，也要映出澄净的辉光。」",
+        "cht": "#名片紋飾。\\n「夢中的星空會將{F#妳}{M#你}的前路照亮，只是{F#妳}{M#你}那顆心中的水晶，也要映出澄淨的輝光。」",
+        "es": "Diseño de tarjeta de presentación.\\n“Que el cielo estrellado de tus sueños te guíe en tu camino mientras el cristal que ilumina tu corazón continúa reflejando su luz más pura”.",
+        "fr": "Thème.\\n« Le ciel étoilé de tes rêves illuminera le chemin si le cristal de ton cœur reflète une lumière pure. »",
+        "id": "Style Kartu Nama.\\n\"Langit berbintang dalam mimpi menerangi jalanmu, dengan syarat permata hatimu memantulkan cahaya yang jernih\".",
+        "jp": "名刺の飾り紋。\\n「夢にある星空は君の進む道を照らすだろう。そしてきっと、その心の中の水晶も、透き通る光を映し出す。」",
+        "kr": "명함 스킨.\\n「마음속 수정이 맑은 빛을 반사한다면, 꿈속 별하늘이 당신의 앞길을 밝혀줄 거예요」",
+        "pt": "Estilo de cartão de visita.\\n\"O céu estrelado do sonho iluminará seu caminho, e o cristal em seu coração também vai refletir um brilho claro.\"",
+        "ru": "Именная карта.\\n«Звёздное небо во снах осветит твой дальнейший путь, как кристалл в твоём сердце отражает ясный свет».",
+        "th": "ลายนามบัตร\\n\"ท้องฟ้าที่พร่างพราวไปด้วยดวงดาราจะส่องสว่างแด่เส้นทางเบื้องหน้าของคุณ ตราบใดที่คริสตัลในหัวใจของคุณสะท้อนแสงสว่างไสวชัดเจนเช่นเดียวกัน\"",
+        "vi": "Hoa văn danh thiếp.\\n\"Bầu trời sao trong mơ sẽ soi sáng con đường của bạn, với điều kiện viên pha lê trong tim bạn phải tỏa ra vầng sáng trong veo.\""
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A log of ships coming in and out by Little Lulu",
+        "de": "Aufzeichnungen von Lulu bezüglich der Schiffe im Hafen",
+        "chs": "璐璐关于船只进出的见闻",
+        "cht": "璐璐關於船隻進出的見聞",
+        "es": "Informe de Lulu sobre la entrada y salida de barcos",
+        "fr": "Mémo de Lulu",
+        "id": "Catatan Kapal yang Keluar Masuk milik Little Lulu",
+        "jp": "ルルの船に関する見聞",
+        "kr": "룰루의 선박 입출항에 관한 정보",
+        "pt": "Um relatório de entradas e saídas de navios em Liyue.",
+        "ru": "Записи о проходящих кораблях малышки Лулу",
+        "th": "ข้อมูลการเข้าออกของเรือที่ได้จาก Lulu",
+        "vi": "Ghi chú của Lulu về thuyền ra vào"
+    },
+    "id": 100379,
+    "materialDesc": {
+        "en": "An elegantly-written note by Little Lulu. It reads, \"No ships came in or out of Liyue Harbor yesterday morning.\"",
+        "de": "Eine Notiz der kleinen Lulu in einer schnuckeligen Schrift. Darin steht, „Gestern Morgen ist kein Schiff in den Hafen gefahren und keins hat ihn verlassen.“",
+        "chs": "璐璐写下的便签，字迹很娟秀。上面写着「昨天早上，璃月港里没有船舶驶入，也没有船舶驶出」。",
+        "cht": "璐璐寫下的便箋，字跡很娟秀。上面寫著「昨天早上，璃月港裡沒有船舶駛入，也沒有船舶駛出」。",
+        "es": "Una nota escrita por Lulu con excelente caligrafía. Dice: “Ayer por la mañana, ningún barco entró o salió de Liyue”.",
+        "fr": "Une jolie note rédigée par Lulu sur laquelle est écrit : « Hier matin, aucun navire n'a quitté le port et aucun n'est entré non plus. »",
+        "id": "Catatan yang ditulis dengan elegan oleh Little Lulu. Di sini tertulis, \"Tidak ada kapal yang keluar atau masuk Pelabuhan Liyue kemarin pagi.\"",
+        "jp": "ルルが書いた便箋、綺麗な字で「昨日の朝、璃月港に入った船はなく、出た船もない」と書いてある。",
+        "kr": "룰루가 적은 쪽지. 글씨가 아주 이쁘다. 「어제 아침, 리월항에 들어온 배도, 나간 배도 없다」라고 적혀있다",
+        "pt": "Uma nota escrita pelo Pequeno Lulu. Está escrito: \"Nenhum barco entrou ou saiu ontem de manhã no Porto de Liyue.\"",
+        "ru": "Записи, сделанные аккуратным почерком малышки Лулу: «Вчера утром в гавань Ли Юэ не зашло ни одного корабля».",
+        "th": "กระดาษโน้ตที่เขียนด้วยลายมืออันสวยงามของ Lulu โดยมีข้อความเขียนไว้ว่า \"เมื่อวานตอนเช้าที่ท่าเรือ Liyue ไม่มีทั้งเรือที่แล่นเข้ามาและเรือที่แล่นออกไป\"",
+        "vi": "Mảnh giấy Lulu viết, chữ viết rất đẹp. Ở trên ghi rằng \"Sáng hôm qua, không có thuyền ra vào cảng Liyue\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

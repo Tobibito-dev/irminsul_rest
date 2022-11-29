@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Flora's Bookmark",
+        "de": "Floras Lesezeichen",
+        "chs": "芙萝拉的书签",
+        "cht": "芙蘿拉的書籤",
+        "es": "Marcapáginas de Flora",
+        "fr": "Marque-page de Flora",
+        "id": "Pembatas Buku Flora",
+        "jp": "フローラのしおり",
+        "kr": "플로라의 책갈피",
+        "pt": "Marca-páginas de Flora",
+        "ru": "Закладка Флоры",
+        "th": "ที่คั่นหนังสือของ Flora",
+        "vi": "Giấy nhớ của Flora"
+    },
+    "id": 100543,
+    "materialDesc": {
+        "en": "A bookmark given to you by Flora. Made from a dried-out Windwheel Aster, even in its box you barely notice the weight of it.",
+        "de": "Ein Lesezeichen von Flora, das aus einer getrockneten Windmühlenaster besteht. In der Schachtel merkst du kaum etwas von seinem Gewicht.",
+        "chs": "从芙萝拉处得到的书签。将风车菊晒干后做的书签，放在盒子里几乎感受不到重量。",
+        "cht": "從芙蘿拉處得到的書籤。將風車菊曬乾後做的書籤，放在盒子裡幾乎感受不到重量。",
+        "es": "Un marcapáginas que te dio Flora. Está hecho con una margarita voladora seca y, al llevarlo en una caja, apenas se puede notar su peso.",
+        "fr": "Marque-page appartenant à Flora. Il a été confectionné avec un chrysanthème à aubes séché et ne pèse quasiment rien à l'intérieur de son écrin.",
+        "id": "Pembatas buku yang diberikan oleh Flora. Dibuat dari bunga Windwheel Aster yang dikeringkan, kamu hampir tidak merasakan beratnya di dalam kotak.",
+        "jp": "フローラから獲得したしおり。風車アスターを乾燥したしおり。箱の中に入っていても、その重さがほぼ感じられない。",
+        "kr": "플로라에게서 받은 책갈피. 풍차 국화를 말려 만든 책갈피로 무게를 느낄 수 없을 정도로 가볍다",
+        "pt": "Um marcador de página obtido da Flora. Feito de Margarida Voadora seca, você mal percebe o seu peso na caixa.",
+        "ru": "Закладка, сделанная Флорой из ветряной астры. Даже с упаковкой она легка, как пёрышко.",
+        "th": "ที่คั่นหนังสือที่ได้มาจาก Flora นำ Windwheel Aster ไปตากจนแห้ง แล้วเอามาทำเป็นที่คั่นหนังสือ ใส่ลงไปในกล่องแล้วไม่รู้สึกหนักเลย",
+        "vi": "Thẻ đánh dấu sách lấy từ chỗ Flora. Được làm từ Cúc Cánh Quạt phơi khô, đặt vào hộp hình như không còn cảm thấy nặng nữa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

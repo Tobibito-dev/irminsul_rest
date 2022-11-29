@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt Reputation EXP",
+        "de": "Ansehenserfahrung für Mondstadt",
+        "chs": "声望经验·蒙德",
+        "cht": "聲望經驗·蒙德",
+        "es": "EXP de reputación - Mondstadt",
+        "fr": "EXP de réputation de Mondstadt",
+        "id": "EXP Reputasi Mondstadt",
+        "jp": "評判経験値·モンド",
+        "kr": "평판 경험치·몬드",
+        "pt": "EXP de Reputação de Mondstadt",
+        "ru": "Опыт репутации (Мондштадт)",
+        "th": "EXP ชื่อเสียงประจำเมือง Mondstadt",
+        "vi": "EXP Danh Vọng - Mondstadt"
+    },
+    "id": 315,
+    "materialDesc": {
+        "en": "Increases your Reputation Lv. (Mondstadt)",
+        "de": "Erhöht das Ansehen in Mondstadt.",
+        "chs": "提升蒙德声望等级。",
+        "cht": "提升蒙德聲望等級",
+        "es": "Aumenta el nivel de reputación en Mondstadt.",
+        "fr": "Augmente votre Niv. de réputation à Mondstadt.",
+        "id": "Meningkatkan Lv. Reputasi (Mondstadt)",
+        "jp": "モンドでの都市評判Lvを上げる。",
+        "kr": "몬드 평판 등급을 올린다",
+        "pt": "Aumenta o nível de sua Reputação em Mondstadt",
+        "ru": "Повышает уровень вашей репутации в Мондштадте.",
+        "th": "เพิ่มระดับชื่อเสียงประจำเมือง Mondstadt",
+        "vi": "Tăng cấp danh vọng Mondstadt."
+    },
+    "materialType": false
+}

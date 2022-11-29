@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sayu",
+        "de": "Sayu",
+        "chs": "早柚",
+        "cht": "早柚",
+        "es": "Sayu",
+        "fr": "Sayu",
+        "id": "Sayu",
+        "jp": "早柚",
+        "kr": "사유",
+        "pt": "Sayu",
+        "ru": "Саю",
+        "th": "Sayu",
+        "vi": "Sayu"
+    },
+    "id": 1053,
+    "materialDesc": {
+        "en": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
+        "de": "Ein winziger Ninja, der zum Shuumatsuban gehört und immer unter Schlafmangel zu leiden scheint.",
+        "chs": "隶属于「终末番」的忍者。身形小巧，总像没睡饱一样。",
+        "cht": "隸屬於「終末番」的忍者。身形小巧，總像沒睡飽一樣。",
+        "es": "Una ninja perteneciente a Los Ocelos. Muy bajita y siempre con aspecto de no haber dormido suficiente.",
+        "fr": "Une très petite ninja rattachée au Shuumatsuban, qui semble toujours manquer de sommeil.",
+        "id": "Ninja kecil dari Shuumatsuban yang selalu terlihat kurang tidur.",
+        "jp": "「終末番」に所属する忍。小柄で、いつも眠たそうにしている。",
+        "kr": "「종말번대」 소속 닌자. 체구가 작고 앙증맞으며 항상 졸려 보인다",
+        "pt": "Uma Ninja pertencente ao Shiyuumatsu-Ban que parece sempre não ter dormido o suficiente.",
+        "ru": "Вечно сонный миниатюрный ниндзя из тайной организации Сюмацубан.",
+        "th": "นินจารูปร่างบอบบางแห่ง Shuumatsuban มักจะมีท่าทางเหมือนคนนอนหลับไม่เพียงพออยู่เสมอ",
+        "vi": "Ninja thuộc \"Shuumatsuban\". Thân hình nhỏ nhắn, lúc nào trông cũng như không ngủ đủ giấc."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

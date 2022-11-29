@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Random Loot (B)",
+        "de": "Zufällige Beute B",
+        "chs": "随机宝物乙",
+        "cht": "隨機寶物乙",
+        "es": "Botín aleatorio (B)",
+        "fr": "Butin aléatoire (B)",
+        "id": "Harta Acak (B)",
+        "jp": "ランダム宝物B",
+        "kr": "랜덤 보물 상자B",
+        "pt": "Loot Aleatório (B)",
+        "ru": "Случайные вещи (Б)",
+        "th": "Random Loot (B)",
+        "vi": "Vật Ngẫu Nhiên (B)"
+    },
+    "id": 100134,
+    "materialDesc": {
+        "en": "Items worth little value stolen from some random passer-by. Better return them quickly.",
+        "de": "Dinge, die jemandem gestohlen wurden. Ziemlich wertlos. Bring sie am besten gleich zurück!",
+        "chs": "随机路人被抢走的东西，没什么价值，快点换回去吧",
+        "cht": "隨機路人被搶走的東西，沒什麼價值，快點換回去吧。",
+        "es": "Cosas robadas por algunos transeúntes aleatorios sin mucho valor. Recupéralas.",
+        "fr": "Des objets sans valeur qui ont été volés à des passants... Autant aller les rendre à leurs propriétaires.",
+        "id": "Benda yang dicuri dari orang tak dikenal, tidak ada benda berharga di dalamnya, sebaiknya cepat kembalikan pada pemiliknya.",
+        "jp": "ランダムの通行人が落としたもの、特に価値はないので、早く持ち主に返そう",
+        "kr": "랜덤 행인이 빼앗긴 물건. 아무 가치 없으니 어서 돌려놓자",
+        "pt": "Coisas que foram roubadas por pessoas aleatórias, sem muito valor. Recupere-as.",
+        "ru": "Ничего не стоящие вещи, украденные у какого-то случайного прохожего. Следовало бы их побыстрее вернуть.",
+        "th": "สิ่งของที่ถูกขโมยไปโดยคนที่ผ่านไปมา ไม่ได้มีค่ามากมายเท่าไหร่ เอามันไปคืนที่เดิมเถอะ",
+        "vi": "Vật bị cướp trên đường, không có giá trị, hãy vứt đi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

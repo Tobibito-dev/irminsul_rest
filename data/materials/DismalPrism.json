@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dismal Prism",
+        "de": "Düsteres Prisma",
+        "chs": "黯淡棱镜",
+        "cht": "黯淡稜鏡",
+        "es": "Prisma oscuro",
+        "fr": "Prisme sombre",
+        "id": "Dismal Prism",
+        "jp": "暗色プリズム",
+        "kr": "어두운 프리즘",
+        "pt": "Prisma Sombrio",
+        "ru": "Тёмная призма",
+        "th": "Dismal Prism",
+        "vi": "Lăng Kính Ảm Đạm"
+    },
+    "id": 112050,
+    "materialDesc": {
+        "en": "This was once a prism that could polarize light, but has grown dull through the passing of years.",
+        "de": "Dies war einst ein Prisma, das Licht polarisieren konnte, aber im Laufe der Jahre ist es stumpf geworden.",
+        "chs": "原本是能偏转光线的棱镜，在流水般的年岁中渐渐变得黯淡。",
+        "cht": "原本是能偏轉光線的稜鏡，在流水般的年歲中漸漸變得黯淡。",
+        "es": "Este prisma solía ser capaz de polarizar la luz, pero con el paso de los años ha ido apagándose.",
+        "fr": "Ce prisme pouvait autrefois polariser la lumière, mais il s'est assombri au fil des ans.",
+        "id": "Prisma yang awalnya dapat memantulkan polarisasi cahaya, tapi menjadi kusam setelah bertahun-tahun.",
+        "jp": "本来は光を屈折させるプリズムだったが、長い歳月の間、徐々に暗澹となった。",
+        "kr": "빛의 방향을 바꾸는 용도의 프리즘. 쏜살같이 흐르는 세월의 풍파를 겪고 점차 빛을 잃게 됐다",
+        "pt": "Este já foi um prisma capaz de polarizar a luz, mas tornou-se opaco com o passar dos anos.",
+        "ru": "Когда-то этой призмой преломляли свет, но со временем она помутнела.",
+        "th": "เดิมทีปริซึมนี้สามารถหักเหแสงได้ แต่พอนานวันเข้ามันก็มืดและขุ่นมัวไปตามกาลเวลา",
+        "vi": "Vốn là lăng kính có thể làm chuyển hướng ánh sáng, nhưng thời gian đã khiến lăng kính trở nên vẩn đục."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

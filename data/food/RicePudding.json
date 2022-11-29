@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Rice Pudding",
+        "de": "Reispudding",
+        "chs": "米饭布丁",
+        "cht": "米飯布丁",
+        "es": "Pudín de arroz",
+        "fr": "Pudding de riz",
+        "id": "Rice Pudding",
+        "jp": "お米プリン",
+        "kr": "쌀 푸딩",
+        "pt": "Pudim de Arroz",
+        "ru": "Рисовый пудинг",
+        "th": "Rice Pudding",
+        "vi": "Pudding Gạo"
+    },
+    "id": 3209,
+    "foodType": "COOK_FOOD_FUNCTION",
+    "cookMethod": "COOK_METHOD_FRY",
+    "rankLevel": 3,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 15,
+    "inputVec": [
+        {
+            "id": 100062,
+            "count": 3
+        },
+        {
+            "id": 100092,
+            "count": 2
+        },
+        {
+            "id": 100078,
+            "count": 2
+        },
+        {
+            "id": 110006,
+            "count": 2
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108306,
+            "count": 1
+        },
+        {
+            "id": 108307,
+            "count": 1
+        },
+        {
+            "id": 108308,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.45,0.27",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Restores <color=#3399CCFF>70–100</color> stamina.",
+        "de": "Stellt <color=#3399CCFF>70 bis 100</color> Punkte Ausdauer wieder her.",
+        "chs": "恢复<color=#3399CCFF>70-100</color>点体力。",
+        "cht": "恢復<color=#3399CCFF>70-100</color>點體力。",
+        "es": "Restaura <color=#3399CCFF>70-100</color> puntos de Aguante.",
+        "fr": "Restaure <color=#3399CCFF>70 à 100</color> pts d'endurance.",
+        "id": "Memulihkan<color=#3399CCFF> 70-100</color> stamina.",
+        "jp": "スタミナを<color=#3399CCFF>70~100</color>回復する。",
+        "kr": "스태미나를 <color=#3399CCFF>70-100</color>pt 회복한다",
+        "pt": "Restaura <color=#3399CCFF>70-100</color> de Stamina.",
+        "ru": "Восстанавливает <color=#3399CCFF>70-100</color> ед. выносливости.",
+        "th": "ฟื้นฟูพลังกาย <color=#3399CCFF>70-100</color> หน่วย",
+        "vi": "Hồi <color=#3399CCFF>70-100</color> điểm thể lực."
+    }
+}

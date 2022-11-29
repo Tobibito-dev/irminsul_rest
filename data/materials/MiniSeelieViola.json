@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mini Seelie: Viola",
+        "de": "Miniseelie – Veilchen",
+        "chs": "迷你仙灵·紫苑",
+        "cht": "迷你仙靈·紫苑",
+        "es": "Miniseelie violeta",
+        "fr": "Mini-fée violette",
+        "id": "Mini Seelie: Viola",
+        "jp": "小さな仙霊·紫苑",
+        "kr": "작은 선령·자원",
+        "pt": "Mini Seelie: Violeta",
+        "ru": "Малая фея Астра",
+        "th": "Mini Seelie - Viola",
+        "vi": "Tiên Linh Nhỏ Bé - Tử Uyển"
+    },
+    "id": 220038,
+    "materialDesc": {
+        "en": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\\nA miniature purple Seelie. Its color is very similar to that of Electro-infused items. Who knows if you might get a little tingle from poking it...",
+        "de": "Ein Andenken an die Aktion „Vermisste Schätze“. Wenn man es anlegt, begleitet einen eine Miniseelie.\\nEine lila Miniseelie. Ihre Farbe ähnelt sehr der von elektro-infundierten Gegenständen. Wer weiß, ob du nicht vielleicht ein kleines Kribbeln bekommst, wenn du sie anstößt ...",
+        "chs": "「秘宝迷踪」活动的纪念，装备后可以获得迷你仙灵的陪伴。\\n紫色的迷你仙灵。色泽和雷元素有几分相似的迷你仙灵，如果触碰的话，不知道会不会有酥酥麻麻的感觉。",
+        "cht": "「秘寶迷蹤」活動的紀念，裝備後可以獲得迷你仙靈的陪伴。\\n紫色的迷你仙靈。色澤和雷元素有幾分相似的迷你仙靈，如果觸碰的話，不知道會不會有酥酥麻麻的感覺。",
+        "es": "Un recuerdo del evento «Caza de tesoros». Al usarlo, un pequeño Seelie te acompañará.\\nEl color de este Miniseelie violeta recuerda bastante al elemento Electro. Si lo toco, ¿me electrocutaré?",
+        "fr": "#Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature violette. Sa couleur est très semblable à celle des objets chargés d'énergie Électro. Qui sait si vous ne serez pas électrisé en la touchant...",
+        "id": "Kenang-kenangan dari Event Harta yang Hilang. Seelie kecil ini akan menemanimu saat dikenakan.\\nSeelie kecil berwarna ungu. Warna Seelie kecil ini sangat mirip dengan material berunsur Electro. Bila disentuh, mungkin kamu akan merasakan setruman kecil...",
+        "jp": "「秘宝の行方」イベントの記念品、装備すると小さな仙霊がそばにいてくれる。\\n紫色の小さな仙霊、雷元素と類似する色を持つ。触るとピリピリするかもしれない。",
+        "kr": "「잃어버린 보물」 이벤트 기념 아이템. 장착 시 작은 선령이 동행한다\\n자줏빛의 작은 선령. 색상은 번개 원소와 흡사하다. 건드리면 찌릿찌릿하려나",
+        "pt": "Uma lembrança do evento Caça aos Tesouros. Equipe para obter um Mini Seelie como companheiro.\\nUm Mini Seelie roxo. Sua cor é muito semelhante à dos itens infundidos com Electro. Talvez você sinta um leve formigamento ao tocá-lo...",
+        "ru": "Напоминание о событии «Затерянные богатства». Наденьте этот предмет, чтобы получить компаньона - малую фею.\\nМалая фея цвета фиалок. Оттенком она напоминает элемент Электро. Интересно, будет ли покалывать, если к ней прикоснуться?",
+        "th": "ของที่ระลึกจากกิจกรรม \"สมบัติที่สาบสูญ\" เมื่อสวมใส่แล้วจะมี Seelie ขนาดจิ๋วคอยติดตามคุณ\\nSeelie สีม่วงขนาดจิ๋ว ที่มีสีคล้ายกับธาตุไฟฟ้า ถ้าสัมผัสมันแล้วก็ไม่รู้ว่าจะรู้สึกชา ๆ จี๊ด ๆ รึเปล่า",
+        "vi": "Kỷ niệm của hoạt động \"Kho Báu Mất Dấu\", sau khi trang bị sẽ được tiên linh nhỏ bé đồng hành.\\nTiên Linh nhỏ bé màu tím, có màu sắc khá tương đồng với nguyên tố Lôi, không biết khi chạm vào sẽ có cảm giác tê tê không nhỉ."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

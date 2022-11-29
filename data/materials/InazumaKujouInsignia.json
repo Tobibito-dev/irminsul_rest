@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuma: Kujou Insignia",
+        "de": "Inazuma – Kujou-Wappen",
+        "chs": "稻妻·九条之纹",
+        "cht": "稻妻·九條之紋",
+        "es": "Inazuma - Emblema Kujou",
+        "fr": "Inazuma - Insigne de Kujou",
+        "id": "Achievement: Lambang Kujou",
+        "jp": "稲妻·九条の紋",
+        "kr": "이나즈마·쿠죠의 문양",
+        "pt": "Inazuma: Insígnia Kujou",
+        "ru": "Герб Кудзё",
+        "th": "Inazuma - ลวดลาย Kujou",
+        "vi": "Inazuma- Hoa Văn Kujou"
+    },
+    "id": 210090,
+    "materialDesc": {
+        "en": "Namecard style.\\nThis Tri-Commission house-crest represents the Tenryou Commission's Kujou Clan.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDas Hauswappen des Kujou-Klans von der Tenryou-Verwaltung, einem Teil der Dreierverwaltung.",
+        "chs": "名片纹饰。\\n三奉行中，天领奉行·九条家的钴纹。",
+        "cht": "名片紋飾。\\n三奉行中，天領奉行·九條家的鈷紋。",
+        "es": "Diseño de tarjeta de presentación.\\nEl emblema del clan Kujou, perteneciente a la Comisión Tenryou, la cual forma parte del Triunvirato.",
+        "fr": "Thème.\\nCet insigne représente le Clan Kujou de la Commission administrative.",
+        "id": "Style Kartu Nama.\\nLambang Tri-Commission yang mewakili Klan Kujou dari Tenryou Commission.",
+        "jp": "名刺の飾り紋。\\n三奉行中、天領奉行·九条家の紋章。",
+        "kr": "명함 스킨\\n삼봉행 중, 텐료 봉행·쿠죠가의 코발트 문양",
+        "pt": "Estilo de Cartão de Visita.\\nNa Comissão Tripla, esta insígnia representa o Clã Kujou da Comissão Tenryou.",
+        "ru": "Именная карта.\\nЭтот родовой герб Трикомиссии представляет клан Кудзё комиссии Тэнрё.",
+        "th": "ลายนามบัตร \\nลวดลาย Kujou ในสามสำนักมหาอำนาจแห่งสำนัก Tenryou",
+        "vi": "Hoa văn danh thiếp. \\nBiểu tượng hoa văn của gia tộc Kujou thuộc hiệp hội Tenryou trong Hiệp Hội Tam Cực."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}
