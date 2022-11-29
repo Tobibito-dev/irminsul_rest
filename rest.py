@@ -32,5 +32,3 @@ def get_data(category, character_name):
     else:
         return "Data doesn't exist."
 
-
-app.run()
