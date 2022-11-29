@@ -7,8 +7,6 @@ data = {}
 
 
 def update_data():
-    global data
-    data = {}
     for dirname in os.listdir(path):
         dir_path = os.path.join(path, dirname)
         data[dirname] = {}
