@@ -1,5 +1,8 @@
 # irminsul_rest
 
+!!!Data not fully available yet!!!  
+Will be updated in a few days
+
 localhost version of https://api.irminsul.info  
 will host at http://127.0.0.1:5000
 
