@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Jade Leaf",
+        "de": "Blatt der Jade",
+        "chs": "垂玉之叶",
+        "cht": "垂玉之葉",
+        "es": "Hoja de Jade",
+        "fr": "Feuille de jade",
+        "id": "Jade Leaf",
+        "jp": "垂玉の葉",
+        "kr": "옥의 잎",
+        "pt": "Folha de Jade",
+        "ru": "Нефритовый листок",
+        "th": "Jade Leaf",
+        "vi": "Lá Bích Ngọc"
+    },
+    "id": 23617,
+    "setId": 15024,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: Hamayumi",
+        "de": "Bauplan: Hamayumi",
+        "chs": "图谱：破魔之弓",
+        "cht": "圖譜：破魔之弓",
+        "es": "Plano: Masacrademonios",
+        "fr": "Plan : Arc d'exorcisme",
+        "id": "Diagram: Hamayumi",
+        "jp": "図譜：破魔の弓",
+        "kr": "도감: 파마궁",
+        "pt": "Diagrama: Arco Quebra-Demônios",
+        "ru": "Диаграмма: Хамаюми",
+        "th": "แบบแปลน: Hamayumi",
+        "vi": "Bản Vẽ: Cung Trừ Ma"
+    },
+    "id": 221016,
+    "materialDesc": {
+        "en": "A detailed step-by-step diagram for making a Hamayumi.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung des Bogens „Hamayumi“.",
+        "chs": "步骤详实的图谱，记载着「破魔之弓」的制造方法。",
+        "cht": "步驟詳實的圖譜，記載著「破魔之弓」的製造方法。",
+        "es": "Planos detallados para fabricar Masacrademonios (arco).",
+        "fr": "Plan détaillé pour la fabrication d'un Arc d'exorcisme (Arc).",
+        "id": "Diagram yang menjelaskan secara rinci cara membuat senjata Hamayumi.",
+        "jp": "「破魔の弓」の詳しい作り方が載っている図譜。",
+        "kr": "제작 과정이 자세히 적혀 있는 도감, 「파마궁」의 제작 방법이 적혀있다",
+        "pt": "Um diagrama com o passo a passo detalhado de como fazer o \"Arco Quebra-Demônio\".",
+        "ru": "Подробная диаграмма создания стрелкового оружия «Хамаюми».",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"Hamayumi\" โดยละเอียด",
+        "vi": "Bản vẽ ghi rõ từng bước thực hiện và cách làm \"Cung Trừ Ma\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

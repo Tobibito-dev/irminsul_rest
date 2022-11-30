@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kamisato Ayaka",
+        "de": "Kamisato Ayaka",
+        "chs": "神里绫华",
+        "cht": "神里綾華",
+        "es": "Kamisato Ayaka",
+        "fr": "Kamisato Ayaka",
+        "id": "Kamisato Ayaka",
+        "jp": "神里綾華",
+        "kr": "카미사토 아야카",
+        "pt": "Kamisato Ayaka",
+        "ru": "Камисато Аяка",
+        "th": "Kamisato Ayaka",
+        "vi": "Kamisato Ayaka"
+    },
+    "id": 1002,
+    "materialDesc": {
+        "en": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+        "de": "Die Tochter des Kamisato-Klans der Yashiro-Verwaltung. Sie ist würdevoll und elegant, klug und stark.",
+        "chs": "稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。",
+        "cht": "稻妻「社奉行」神里家的大小姐。端莊而文雅，聰慧又堅韌。",
+        "es": "La descendiente del clan Kamisato, perteneciente a la Comisión Yashiro de Inazuma. Una persona solemne, refinada, inteligente y tenaz.",
+        "fr": "Fille du Clan Kamisato de la Commission culturelle. Digne et élégante, mais aussi sage et forte.",
+        "id": "Putri dari Klan Kamisato di Yashiro Commission. Bermartabat dan elegan, cerdas dan tangguh.",
+        "jp": "稲妻「社奉行」神里家の令嬢。容姿端麗で品行方正な人物。",
+        "kr": "이나즈마 「야시로 봉행」 카미사토 가문의 아가씨. 단정하고 우아하며 지혜롭고 굳건하다",
+        "pt": "Filha do Clã Kamisato da Comissão Yashiro. Solene e elegante, e também sábia e forte.",
+        "ru": "Наследница клана Камисато комиссии Ясиро. Благородна и изящна, мудра и сильна.",
+        "th": "คุณหนูใหญ่ของตระกูล Kamisato แห่งสำนัก Yashiro ใน Inazuma ทั้งสง่างามและมีเกียรติ เปี่ยมไปด้วยสติปัญญาและความแข็งแกร่ง",
+        "vi": "Đại tiểu thư nhà Kamisato thuộc \"Hiệp Hội Yashiro\" Inazuma. Đoan trang thanh lịch, thông minh và mạnh mẽ."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

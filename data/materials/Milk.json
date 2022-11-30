@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Milk",
+        "de": "Milch",
+        "chs": "牛奶",
+        "cht": "牛奶",
+        "es": "Leche",
+        "fr": "Lait",
+        "id": "Milk",
+        "jp": "牛乳",
+        "kr": "우유",
+        "pt": "Leite",
+        "ru": "Молоко",
+        "th": "Milk",
+        "vi": "Sữa"
+    },
+    "id": 100078,
+    "materialDesc": {
+        "en": "Sweet and fragrant cow's milk. Don't waste a single drop, not even that one rolling down your chin.",
+        "de": "Von Kühen. Bei diesem vollen Aroma willst du keinen einzigen Tropfen verschwenden.",
+        "chs": "奶牛的乳汁。香香甜甜，嘴角的那滴也不想放过。",
+        "cht": "奶牛的乳汁。香香甜甜，嘴角的那滴也不想放過。",
+        "es": "Leche de vaca, dulce y deliciosa. No desperdicies una sola gota, ni siquiera esa que baja por tu barbilla.",
+        "fr": "Du lait de vache riche et frais. N'en perdez pas une goutte, même pas celle qui coule sur votre menton.",
+        "id": "Susu sapi yang manis dan harum. Jangan sia-siakan satu tetes pun, terlebih yang menetes di dagumu.",
+        "jp": "甘い香りがする牛乳。口から滴り落ちる雫すら無駄にしたくない。",
+        "kr": "젖소의 유즙. 한 방울도 놓치고 싶지 않은 고소하고 달달한 맛이다",
+        "pt": "Leite de vaca, doce e rico em vitaminas. Não desperdice uma única gota.",
+        "ru": "Ароматное коровье молоко. Не упустите ни одной капли. Даже той, что скатывается по вашему подбородку.",
+        "th": "นมวัวอันหอมหวาน หยดเดียวก็ยังเสียดาย",
+        "vi": "Sữa của bò sữa, thơm thơm ngọt ngọt, một giọt cũng không để phí."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

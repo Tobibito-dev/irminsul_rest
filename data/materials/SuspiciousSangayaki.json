@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Sangayaki",
+        "de": "Misslungenes Sangayaki",
+        "chs": "奇怪的山家烧",
+        "cht": "奇怪的山家燒",
+        "es": "Sangayaki extraños",
+        "fr": "Sangayaki (suspect)",
+        "id": "Suspicious Sangayaki",
+        "jp": "微妙なさんが焼き",
+        "kr": "이상한 산가야키",
+        "pt": "Sangayaki Estranho",
+        "ru": "Странное рагу отшельника",
+        "th": "Sangayaki รสประหลาด",
+        "vi": "Sangayaki Kỳ Lạ"
+    },
+    "id": 108374,
+    "materialDesc": {
+        "en": "A simple, humble fisherman's side dish. The overabundance of salt and rank smell of fish roll like a storm through your olfactory senses. Please keep your hands steady — please.",
+        "de": "Eine einfache Fischer-Vorspeise. Übersalzen und mit einem merkwürdigen Geruch nach abgestandenem Fisch schmeckt sie wie ein Sturm im Mund, der über die Geschmacksknospen fegt. Guck das nächste Mal beim Salzstreuen bitte nicht einfach weg ...",
+        "chs": "朴实无华的渔家小菜。过量的盐与鱼肉的腥气交杂着，仿佛风暴一般席卷了味蕾，下次可千万小心不要手抖呀…",
+        "cht": "樸實無華的漁家小菜。過量的鹽與魚肉的腥氣交雜著，彷彿風暴一般席捲了味蕾，下次可千萬小心不要手抖呀…",
+        "es": "Un aperitivo simple y sencillo típico de los pescadores. Con sal en exceso y un peculiar olor a pescado rancio, sabe como si una tormenta en la boca arrasase con las papilas gustativas. A la próxima, presta más atención a tu mano en la cocina...",
+        "fr": "Un plat de pêcheur simple. Le sel en surabondance et l'odeur fétide du poisson écrasent vos sens olfactifs avec la force d'une tempête. Faites attention où vous mettez vos mains en cuisine...",
+        "id": "Lauk-pauk nelayan yang sederhana. Kelebihan garam dan bau amis bercampur-aduk bagaikan badai yang menyapu indra penciumanmu. Jagalah tanganmu jangan sampai gemetaran — tolong.",
+        "jp": "素朴な漁師メシ。過剰な量の塩と魚肉の生臭さが嵐のように舌の上を駆け巡る。次からは、手が滑らないように気を付けよう…",
+        "kr": "아주 평범한 어촌 음식. 과한 소금과 생선의 짙은 비린내가 뒤섞여 미뢰를 자극한다, 다음에는 손을 떨지 않도록 조심하자…",
+        "pt": "Um prato simples e humilde de pescadores. O excesso de sal e o cheiro de peixe são como uma tempestade para o seu olfato. Mantenha suas mãos firmes na próxima vez que cozinhar...",
+        "ru": "Простое рыбацкое блюдо. Пересоленное, со специфическим запахом рыбы оно проносится ураганом по вкусовым рецепторам. В следующий раз постарайтесь не пересолить...",
+        "th": "กับข้าวของชาวประมงที่ดูเรียบง่ายไม่หรูหรา เกลือที่ใส่เยอะเกินไปผสมเข้ากับกลิ่นคาวของปลา กวาดเข้าต่อมรับรสราวกับลมพายุ ครั้งหน้าอย่ามือสั่นอีกล่ะ...",
+        "vi": "Món ăn đơn giản mộc mạc của ngư dân. Vị mặn chát của muối do nêm quá tay hòa với mùi tanh của thịt cá, như một cơn bão quét qua vị giác, lần sau thêm muối hãy cẩn thận đừng quá tay nữa nhé..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

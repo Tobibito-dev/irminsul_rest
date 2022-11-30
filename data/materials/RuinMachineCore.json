@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ruin Machine Core",
+        "de": "Kern von Ruinenmaschinen",
+        "chs": "遗迹机关的核心",
+        "cht": "遺蹟機關的核心",
+        "es": "Núcleo de máquina de las ruinas",
+        "fr": "Noyau de mécanisme des ruines",
+        "id": "Inti Mesin Ruin",
+        "jp": "遺跡機械のコア",
+        "kr": "유적 장치 코어",
+        "pt": "Núcleo de uma Máquina das Ruínas",
+        "ru": "Ядро руинного механизма",
+        "th": "แกนกลางของกลไกโบราณ",
+        "vi": "Lõi Cơ Quan Di Tích"
+    },
+    "id": 101654,
+    "materialDesc": {
+        "en": "The core section of a Ruin Guard. Old and new versions of this device are incompatible, and it thus cannot be used to empower other objects. However, the leftover energy should be enough to power one Ruin Guard.",
+        "de": "Kern der Ruinenmaschinen. Alte und neue Versionen dieses Geräts sind inkompatibel miteinander und können daher nicht verwendet werden, um andere Objekte zu stärken. Die verbleibende Energie sollte jedoch ausreichen, um eine Ruinenmaschine in Betrieb zu nehmen.",
+        "chs": "遗迹守卫的核心部位。古代制式和近代制式不复相同，不能拿去强化其他东西。不过残余的能量应该还是可以启动一台遗迹守卫的。",
+        "cht": "遺蹟守衛的核心部位。古代制式和近代制式不復相同，不能拿去強化其他東西。不過殘餘的能量應該還是可以啟動一台遺蹟守衛的。",
+        "es": "La parte central de un Guardián de las Ruinas. Los núcleos antiguos son distintos a los actuales y no sirven para fortalecer otros objetos. Sin embargo, con su energía remanente se podría activar otro Guardián.",
+        "fr": "La partie centrale d'un Gardien des ruines. Les anciennes versions sont différentes des nouvelles versions et ne peuvent donc pas être utilisées pour renforcer des objets. Cependant, l'énergie restante devrait être suffisante pour alimenter un Gardien des ruines.",
+        "id": "Bagian inti dari Ruin Guard. Versi lama dan baru perangkat ini tidak cocok, dan karenanya tidak dapat digunakan untuk memberdayakan objek lain. Namun, energi yang tersisa seharusnya cukup untuk memberi daya pada satu Ruin Guard.",
+        "jp": "遺跡守衛のコア部分。古代と近代では造りが異なるため、強化には使えない。しかし、その残留エネルギーは遺跡守衛を一体起動させられるはず。",
+        "kr": "유적 장치 코어 부위. 고대와 현대의 형태가 달라 다른 물건을 강화할 수 없다. 하지만 남은 에너지로 유적 가디언 한 대는 가동할 수 있을 것 같다",
+        "pt": "O núcleo de um Guarda das Ruínas. O método antigo de sua fabricação não é mais idêntico ao recente, por isso não é possível utilizá-lo para fortalecer outras coisas. Entretanto, sua energia restante ainda deve ser capaz de ativar um Guarda das Ruínas.",
+        "ru": "Главная часть стража руин. Старые и новые версии этого устройства несовместимы, поэтому его нельзя использовать для усиления других объектов. Однако оставшейся энергии должно хватить для питания одного стража руин.",
+        "th": "ส่วนแกนกลางของ Ruin Guard กลไกยุคโบราณนั้นแตกต่างจากยุคปัจจุบัน จึงไม่สามารถนำไปใช้เสริมพลังของอย่างอื่นได้ แต่ยังมีพลังงานหลงเหลืออยู่ น่าจะยังสามารถเปิดใช้งาน Ruin Guard สักตัวได้",
+        "vi": "Lõi của Thủ Vệ Di Tích. Các phiên bản cũ và mới của thiết bị này không tương thích, cho nên không thể mang đi cường hóa vật dụng. Tuy nhiên, năng lượng còn sót lại cũng đủ để khởi động Thủ Vệ Di Tích."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

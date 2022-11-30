@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Candace",
+        "de": "Candace",
+        "chs": "坎蒂丝",
+        "cht": "坎蒂絲",
+        "es": "Candace",
+        "fr": "Candace",
+        "id": "Candace",
+        "jp": "キャンディス",
+        "kr": "캔디스",
+        "pt": "Candace",
+        "ru": "Кандакия",
+        "th": "Candace",
+        "vi": "Candace"
+    },
+    "id": 1072,
+    "materialDesc": {
+        "en": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+        "de": "Beschützerin des Aaru-Dorfs, die Nachfahrin von König Deshret, deren linkes Auge golden wie Bernstein strahlt.",
+        "chs": "有着琥珀色左眼的赤王后裔，阿如村的守护者。",
+        "cht": "有著琥珀色左眼的赤王後裔，阿如村的守護者。",
+        "es": "Custodia de la Aldea Aaru. Esta muchacha con un ojo color ámbar es descendiente del Rey Deshret.",
+        "fr": "Descendante du roi Deshret avec un œil gauche de couleur ambre, c'est la protectrice du Village d'Aaru.",
+        "id": "Keturunan Raja Deshret yang memiliki mata kiri berwarna kuning keemasan. Pelindung Desa Aaru.",
+        "jp": "琥珀色の左目を持つ、キングデシェレトの末裔。アアル村のガーディアンをしている。",
+        "kr": "호박색 왼쪽 눈을 가진 적왕의 후예. 아루 마을의 수호자다",
+        "pt": "Guardiã da Vila Aaru, descendente do Rei Deshret, seu olho esquerdo é da cor do âmbar.",
+        "ru": "Наследница царя Дешрета с левым глазом цвета янтаря, защитница деревни Аару.",
+        "th": "ลูกหลานของราชา Deshret ผู้มีนัยน์ตาซ้ายสีเหลืองอำพัน ผู้คุ้มกันของหมู่บ้าน Aaru",
+        "vi": "Hậu duệ của Vua Deshret với con mắt bên trái màu hổ phách, là người thủ hộ của Làng Aaru."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

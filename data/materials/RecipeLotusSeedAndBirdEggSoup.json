@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Lotus Seed and Bird Egg Soup",
+        "de": "Rezept: Gedämpftes Ei mit Lotossamen",
+        "chs": "食谱：莲子禽蛋羹",
+        "cht": "食譜：蓮子禽蛋羹",
+        "es": "Receta: Sopa de loto y huevo",
+        "fr": "Recette : Œufs et graines de lotus à la vapeur",
+        "id": "Resep: Lotus Seed and Bird Egg Soup",
+        "jp": "レシピ：ハスの実入り茶碗蒸し",
+        "kr": "레시피: 연밥 계란찜",
+        "pt": "Receita: Sopa de Lótus e Ovo",
+        "ru": "Рецепт: Яичный суп из лотоса",
+        "th": "สูตรอาหาร: Lotus Seed and Bird Egg Soup",
+        "vi": "Công thức: Canh Trứng Hạt Sen"
+    },
+    "id": 109419,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Lotus Seed and Bird Egg Soup.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Gedämpftes Ei mit Lotossamen“.",
+        "chs": "步骤详实的食谱，记载着「莲子禽蛋羹」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「蓮子禽蛋羹」的製作方法。",
+        "es": "Receta paso a paso para hacer una sopa de loto y huevo.",
+        "fr": "Étapes de préparation des œufs et graines de lotus à la vapeur.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Lotus Seed and Bird Egg Soup.",
+        "jp": "「ハスの実入り茶碗蒸し」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「연밥 계란찜」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo para fazer uma Sopa de Lótus e Ovo.",
+        "ru": "Подробный рецепт приготовления блюда «Яичный суп из лотоса».",
+        "th": "สูตรอธิบายวิธีทำ \"Lotus Seed and Bird Egg Soup\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Canh Trứng Hạt Sen\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

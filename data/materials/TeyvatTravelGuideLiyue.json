@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Teyvat Travel Guide - Liyue",
+        "de": "Reiseführer Teyvat – Liyue",
+        "chs": "提瓦特游览指南·璃月篇",
+        "cht": "提瓦特遊覽指南·璃月篇",
+        "es": "Guía de viaje de Teyvat: Liyue",
+        "fr": "Guide de voyage en Teyvat - Liyue",
+        "id": "Panduan Wisata Teyvat - Liyue",
+        "jp": "テイワット観光ガイド·璃月編",
+        "kr": "티바트 유람 가이드·리월편",
+        "pt": "Guia de Viagem de Teyvat - Liyue",
+        "ru": "Путеводитель по Тейвату. Ли Юэ",
+        "th": "หนังสือนำเที่ยว Teyvat - Liyue",
+        "vi": "Hướng Dẫn Du Ngoạn Teyvat - Chương Liyue"
+    },
+    "id": 100361,
+    "materialDesc": {
+        "en": "A magazine by the Adventurers' Guild. Each issue introduces great sceneries across Teyvat. This issue includes a short traveling diary of Alice the Traveler in Liyue.",
+        "de": "Eine Reisezeitschrift, die von der Abenteurergilde herausgegeben wird. In jeder Ausgabe werden Szenerien auf Teyvat beschrieben und Reiseempfehlungen ausgesprochen. In diesem Heft ist eine Zusammenfassung des Reiseberichts von Alice in Liyue zu finden.",
+        "chs": "冒险家协会主办的旅行杂志，每一期都会介绍提瓦特大陆各地值得游览的景色。这一本登载了旅行家艾莉丝在璃月的简短行记。",
+        "cht": "冒險家協會主辦的旅行雜誌，每一期都會介紹提瓦特大陸各地值得遊覽的景色。這一本登載了旅行家艾莉絲在璃月的簡短行記。",
+        "es": "Una revista del Gremio de Aventureros. Cada número presenta lugares únicos de Teyvat. Este número incluye un breve diario de viaje de Alice la Viajera en Liyue.",
+        "fr": "Un magazine publié par la Guilde des aventuriers. Chaque numéro montre de beaux paysages et recommande les lieux à visiter en Teyvat. Ce numéro comprend les petits récits de Liyue d'Alice, la voyageuse.",
+        "id": "Majalah yang dibuat oleh Adventurers' Guild. Setiap edisi memperkenalkan pemandangan Teyvat yang luar biasa. Edisi kali ini juga menceritakan kisah singkat tentang perjalanan Alice si pengembara di Liyue.",
+        "jp": "冒険者協会が発行する観光ガイド。毎回テイワット大陸の観光名所を紹介する。この一冊は旅行家アリスが璃月滞在時の旅行記が掲載されている。",
+        "kr": "모험가 길드에서 발행하는 여행잡지. 티바트 대륙 각지의 여행할 만한 장소들을 추천해준다. 이번에는 여행가 앨리스의 리월 여행기를 담았다",
+        "pt": "Uma revista da Guilda dos Aventureiros. Cada edição introduz uma série de cenários de Teyvat. Essa edição inclui um curto diário de viagem da Viajante Alice em Liyue.",
+        "ru": "Периодическое издание, выпускаемое Гильдией искателей приключений. Каждый выпуск посвящён отдельному региону Тейвата. В этом выпуске вас ждут путевые заметки путешественницы Алисы о её визите в Ли Юэ.",
+        "th": "นิตยสารการท่องเที่ยวที่จัดทำขึ้นโดยกิลด์นักผจญภัย แต่ละภาคจะแนะนำสถานที่น่าเที่ยวของทวีป Teyvat เล่มนี้มีบันทึกการเดินทางช่วงสั้น ๆ ของนักเดินทาง Alice ขณะอยู่ที่ Liyue อยู่",
+        "vi": "Tạp chí lữ hành được Hiệp Hội Nhà Mạo Hiểm biên tập, mỗi kỳ đều giới thiệu những điểm du lịch đáng đến trên đại lục Teyvat. Kỳ này giới thiệu về hành trình ngắn ngày của Nhà Lữ Hành Alice trên vùng đất Liyue."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

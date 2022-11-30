@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Fried Radish Balls",
+        "de": "Leckere frittierte Rettichbällchen",
+        "chs": "美味的炸萝卜丸子",
+        "cht": "美味的炸蘿蔔丸子",
+        "es": "Albóndigas de rábano fritas deliciosas",
+        "fr": "Boulettes de radis frites (délicieuses)",
+        "id": "Delicious Fried Radish Ball",
+        "jp": "美味しそうな大根の揚げ団子",
+        "kr": "맛있는 무완자 튀김",
+        "pt": "Bolinhas Deliciosas de Rabanete Fritas",
+        "ru": "Вкусные редисовые шарики",
+        "th": "Fried Radish Balls แสนอร่อย",
+        "vi": "Củ Cải Viên Chiên Ngon"
+    },
+    "id": 108027,
+    "materialDesc": {
+        "en": "Fried Radish Balls. It's insane that something so delicious comes from plain old radishes! All who eat them will truly understand Liyue's culinary reputation.",
+        "de": "In heißem Öl frittierte Rettichbällchen. Man wagt kaum zu glauben, dass das einfacher Rettich ist! Wer hiervon probiert, wird wissen, warum Liyue für seine Küche berühmt ist.",
+        "chs": "油炸的萝卜丸。美味得让人难以置信原料只是朴素的萝卜，吃过的人都会感慨璃月美食名不虚传！",
+        "cht": "油炸的蘿蔔丸。美味得讓人難以置信原料只是樸素的蘿蔔，吃過的人都會感慨璃月美食名不虛傳！",
+        "es": "Albóndigas de rábano fritas. ¡Es increíble que se pueda crear un sabor tan delicioso con solo rábanos! Solo los que lo han probado entienden la reputación de la cocina de Liyue.",
+        "fr": "C'est fou ce qu'on peut faire à partir de simples radis ! Ce plat représente bien l'esprit de la cuisine liyuéenne.",
+        "id": "Bakso lobak goreng. Tidak disangka makanan yang sangat enak seperti ini dibuat dari lobak biasa! Semua yang memakannya benar-benar mengerti reputasi hidangan Liyue.",
+        "jp": "油で揚げた大根団子。材料が素朴なダイコンとは信じられないほどの美味しさ。食べたことのある人は、璃月の美味しそうな食事に想いを馳せるだろう！",
+        "kr": "기름에 튀긴 무완자. 평범한 무로 만들었다고 믿기 힘들 정도다. 소문대로 리월 지방의 미식은 명불허전이다",
+        "pt": "Bolinhas de Rabanete Fritas. Incrível como rabanetes velhos podem ficar tão deliciosos! Somente quem já experimentou entende a reputação da culinária de Liyue.",
+        "ru": "Жареные шарики из редиса. Кто бы мог подумать, что обычный редис бывает таким вкусным! Все, кто их пробовал, сразу понимали, почему кухня Ли Юэ так ценится.",
+        "th": "ลูกชิ้นแรดิชทอด ไม่อยากจะเชื่อว่าสิ่งที่อร่อยได้ขนาดนี้จะมาจากแรดิชทั่วไป ผู้คนที่ได้ลองทานจะเข้าใจถึงวัฒนธรรมอาหารของ Liyue ว่าเป็นอย่างไร!",
+        "vi": "Viên củ cải chiên. Ngon tới mức khiến người ta khó tin là làm từ củ cải, đã nếm qua thì không thể không khen ngợi món Liyue danh bất hư truyền."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

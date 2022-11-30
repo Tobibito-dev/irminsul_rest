@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vanquisher's Emblem",
+        "de": "Bewältigungsabzeichen",
+        "chs": "克险章",
+        "cht": "克險章",
+        "es": "Insignia de la victoria",
+        "fr": "Médaille de triomphateur",
+        "id": "Vanquisher's Emblem",
+        "jp": "ビクトリーメダル",
+        "kr": "극복 휘장",
+        "pt": "Insígnia da Vitória",
+        "ru": "Печать победителя",
+        "th": "Vanquisher's Emblem",
+        "vi": "Huy Hiệu Chiến Thắng"
+    },
+    "id": 136,
+    "materialDesc": {
+        "en": "A precious insignia obtained from conquering a great trial. These emblems won't morph into anything else... Right?",
+        "de": "Ein seltenes Abzeichen, das man erhält, nachdem man enorme Schwierigkeiten bewältigt hat. Dieses Abzeichen kann sich in nichts anderes verwandeln ... oder?",
+        "chs": "克服艰险后才获得的珍贵纹章。希望这枚纹章不会变成其他什么东西…",
+        "cht": "克服艱險後才獲得的珍貴紋章。希望這枚紋章不會變成其他什麼東西…",
+        "es": "Una valiosa insignia obtenida tras superar un gran peligro. No se transformará en otra cosa, ¿no?",
+        "fr": "Un insigne obtenu après avoir surmonté une grande épreuve. Cet insigne ne va pas se transformer, lui... hein ?",
+        "id": "Sebuah lencana yang diperoleh setelah berhasil mengatasi kesulitan dan bahaya. Lencana ini tidak mungkin akan berubah menjadi benda lain secara tiba-tiba, kan?",
+        "jp": "危険と困難を克服することで獲得できる貴重なメダル。このメダルが別の何かに変わらなければいいが…",
+        "kr": "난관을 극복하고 획득한 진귀한 휘장. 무서운 것으로 변신하지 않았으면 좋겠다…",
+        "pt": "Um brasão obtido ao derrotar uma grande prova. Este brasão não se transformará em outra coisa... Certo?",
+        "ru": "Драгоценная печать, которую вы получили за прохождение великого испытания. Она ведь не превратится ни во что другое?..",
+        "th": "ตราสัญลักษณ์ที่ได้รับจากการพิชิตภัยอันตราย หวังว่าตราสัญลักษณ์นี้จะไม่แปรเปลี่ยนเป็นสิ่งอื่นนะ...",
+        "vi": "Huy hiệu sau khi đánh bại Hoa Quỷ, hy vọng huy hiệu này sẽ không biến thành thứ gì đó..."
+    },
+    "materialType": false
+}

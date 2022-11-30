@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Conductor's Top Hat",
+        "de": "Trachtenhut des Dirigenten",
+        "chs": "指挥的礼帽",
+        "cht": "指揮的禮帽",
+        "es": "Sombrero del Director",
+        "fr": "Haut-de-forme du chef d'orchestre",
+        "id": "Conductor's Top Hat",
+        "jp": "指揮者のハット",
+        "kr": "지휘의 탑 햇",
+        "pt": "Chapéu do Comandante",
+        "ru": "Цилиндр дирижёра",
+        "th": "Conductor's Top Hat",
+        "vi": "Nón Chỉ Huy"
+    },
+    "id": 23398,
+    "setId": 15003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

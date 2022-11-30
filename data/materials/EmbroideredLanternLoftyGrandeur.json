@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Embroidered Lantern: Lofty Grandeur",
+        "de": "Bestickte Laterne – „Erhabene Pracht“",
+        "chs": "锦缎华灯-「飞阁流丹」",
+        "cht": "錦緞華燈-「飛閣流丹」",
+        "es": "Linterna bordada: Pabellón exquisito",
+        "fr": "Lanterne de brocart « Grandeur majestueuse »",
+        "id": "Lentera Bordir: \"Kemegahan Agung\"",
+        "jp": "絹織提灯-「飛閣流丹」",
+        "kr": "비단 등불-「천상의 누각」",
+        "pt": "Lanterna Enfeitada: \"Grandeza Imponente\"",
+        "ru": "Парчовый фонарь: Изысканный павильон",
+        "th": "โคมผ้าปัก - \"หรูหราและสง่างาม\"",
+        "vi": "Đèn Hoa Gấm - Phi Các Lưu Đan"
+    },
+    "id": 380405,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making an Embroidered Lantern: Lofty Grandeur.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Bestickte Laterne – Erhabene Pracht“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「锦缎华灯-『飞阁流丹』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「錦緞華燈-『飛閣流丹』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Linterna bordada: Pabellón exquisito.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la lanterne de brocart « Grandeur majestueuse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Lentera Bordir: Kemegahan Agung\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「絹織提灯-『飛閣流丹』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「비단 등불-『천상의 누각』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Lanterna Enfeitada: Grandeza Imponente\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Парчовый фонарь: Изысканный павильон».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โคมผ้าปัก - หรูหราและสง่างาม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Hoa Gấm - Phi Các Lưu Đan\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

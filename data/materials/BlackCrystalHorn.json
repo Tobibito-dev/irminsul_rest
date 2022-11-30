@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Black Crystal Horn",
+        "de": "Schwarzes Kristallhorn",
+        "chs": "黑晶号角",
+        "cht": "黑晶號角",
+        "es": "Cuerno con cristal negro",
+        "fr": "Corne à cristal noir",
+        "id": "Black Crystal Horn",
+        "jp": "黒晶の角笛",
+        "kr": "흑수정 나팔",
+        "pt": "Chifre de Cristal Preto",
+        "ru": "Чёрный кристаллический рог",
+        "th": "Black Crystal Horn",
+        "vi": "Sừng Hắc Tinh"
+    },
+    "id": 112016,
+    "materialDesc": {
+        "en": "A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all. It is likely a ceremonial item of the hilichurls'.",
+        "de": "Ein leuchtendes Metallhorn, versehen mit unbekannten dunklen Kristallverzierungen. Es scheint kaum benutzt worden zu sein und muss wohl für wichtige Hilichurl-Rituale vorgesehen sein.",
+        "chs": "隐隐反射着不祥光芒的金属号角，饰有材质不明的黑晶。几乎没有使用过，推测是丘丘人重要的仪式器具。",
+        "cht": "隱隱反射著不祥光芒的金屬號角，飾有材質不明的黑晶。幾乎沒有使用過，推測是丘丘人重要的儀式器具。",
+        "es": "Un cuerno metálico con un tenue y siniestro brillo, y decorado con un cristal negro de un material desconocido. Apenas ha sido usado, salvo tal vez como objeto para algún importante ritual Hilichurl.",
+        "fr": "Une corne en métal ornée d'un cristal noir. Probablement utilisée par les Brutocollinus lors de rituels, elle se trouve dans un état quasiment neuf.",
+        "id": "Terompet metalik yang dihiasi dengan kristal hitam, memiliki aura yang tidak mencurigakan. Jarang digunakan, sepertinya barang seremonial para Hilichurl.",
+        "jp": "不吉な光がぼんやりと見える金属製の角笛、素材不明の黒晶が飾られている。ほとんど使用されたことはなく、ヒルチャールの儀式用の道具だと考えられる。",
+        "kr": "불길한 빛을 은은하게 내뿜는 나팔. 재질을 알 수 없는 검은색 결정이 장식되어 있다. 거의 사용한 적이 없다. 츄츄족의 중요 의식에 쓰이는 도구인 듯하다",
+        "pt": "Um chifre metálico que brilha, decorado com cristais negros de fonte desconhecida. Foi muito usado como um item em cerimonias dos Hilichurs.",
+        "ru": "Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким. Скорее всего, он использовался в таинственных ритуалах хиличурлов.",
+        "th": "เขาเหล็กแวววาวซึ่งถูกตกแต่งด้วย คริสตัลสีดำที่ไม่มีคนรู้จักทำให้มัน ไม่เหมือนกับของทั่วๆไป เหมือนจะยังไม่เคยถูกใช้มาก่อน เหมือนจะเป็นของประกอบพิธีสำคัญบางอย่างของ Hilichurl",
+        "vi": "Sừng kim loại ẩn giấu sự xui xẻo, được trang trí bằng pha lê đen bí ẩn. Dường như chưa từng dùng đến, nghe đồn là vật phẩm trong những nghi thức quan trọng của người Hilichurl."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

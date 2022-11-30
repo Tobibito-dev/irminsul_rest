@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Golden Chicken Burger",
+        "de": "Rezept: Knuspriges Hühnerfilet auf Brot",
+        "chs": "食谱：脆脆鸡腿堡",
+        "cht": "食譜：脆脆雞腿堡",
+        "es": "Receta: Hamburguesa de pollo crujiente",
+        "fr": "Recette : Burger de poulet",
+        "id": "Resep: Golden Chicken Burger",
+        "jp": "レシピ：カリカリチキンバーガー",
+        "kr": "레시피: 바삭바삭 치킨버거",
+        "pt": "Receita: Hambúrguer de Frango Dourado",
+        "ru": "Рецепт: Гамбургер с хрустящей курицей",
+        "th": "สูตรอาหาร: Golden Chicken Burger",
+        "vi": "Công Thức: Burger Gà Giòn"
+    },
+    "id": 109449,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Golden Chicken Burger.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Knuspriges Hühnerfilet auf Brot“.",
+        "chs": "步骤详实的食谱，记载着「脆脆鸡腿堡」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「脆脆雞腿堡」的製作方法。",
+        "es": "Receta paso a paso para hacer una hamburguesa de pollo crujiente.",
+        "fr": "Étapes de préparation du burger de poulet.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Golden Chicken Burger.",
+        "jp": "「カリカリチキンバーガー」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「바삭바삭 치킨버거」의 조리 방법이 적혀있다",
+        "pt": "Uma receita detalhada de como fazer passo a passo Hambúrguer de Frango Dourado.",
+        "ru": "Подробный рецепт приготовления блюда «Гамбургер с хрустящей курицей».",
+        "th": "สูตรอธิบายวิธีทำ \"Golden Chicken Burger\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Burger Gà Giòn\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

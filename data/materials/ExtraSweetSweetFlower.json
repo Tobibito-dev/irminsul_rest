@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Extra-Sweet Sweet Flower",
+        "de": "Besonders süße Zuckerblume",
+        "chs": "特别甜的甜甜花",
+        "cht": "特別甜的甜甜花",
+        "es": "Flor dulce superdulce",
+        "fr": "Fleur sucrante très sucrée",
+        "id": "Sweet Flower Ekstra Manis",
+        "jp": "非常に甘いスイートフラワー",
+        "kr": "매우 달콤한 달콤달콤꽃",
+        "pt": "Flor Doce Superdoce",
+        "ru": "Приторный цветок-сахарок",
+        "th": "Sweet Flower ที่หวานเป็นพิเศษ",
+        "vi": "Hoa Ngọt cực kỳ ngọt"
+    },
+    "id": 100548,
+    "materialDesc": {
+        "en": "A plant with a rich, sweet fragrance that makes an excellent sweetener.\\nSome say plants have feelings too — show them enough care and attention, and they will strive to bloom all the more fragrantly. Sometimes, though, this will then make them the target of people who don't know how to mind their own business.",
+        "de": "Eine Pflanze, die einen wahnsinnig süßen Duft versprüht und deswegen zur Süßung von Speisen verwendt wird.\\nAngeblich haben auch Pflanzen Gefühle. Wenn man sie gut behandelt, werden sie es einem mit schöneren Blüten danken. Manchmal lockt das aber auch unbeteiligte Dritte an.",
+        "chs": "散发着浓郁香甜气息的植株，是极好的甜味剂。\\n据说植物也有感情，受人悉心照料的花卉也会用更加努力地芬芳绽放。有时候也会因此不幸引来「多管闲事」的人。",
+        "cht": "散發著濃郁香甜氣息的植株，是極好的甜味劑。\\n據說植物也有感情，受人悉心照料的花卉也會更加努力地芬芳綻放。有時候也會因此不幸引來「多管閒事」的人。",
+        "es": "Una planta que emite un aroma acaramelado y que sirve para endulzar.\\nSe dice que las plantas también tienen sentimientos, y que las que son bien cuidadas florecen más abundantemente. Lamentablemente, en ocasiones esto atrae a los entrometidos.",
+        "fr": "Une plante dégageant un riche et doux parfum qui sert d'édulcorant.\\nMême les plantes ont des sentiments : les fleurs dont on a pris soin sont plus vigoureuses quand elles fleurissent. Malheureusement, elles peuvent aussi attirer la curiosité de certaines personnes...",
+        "id": "Sejenis tumbuhan yang cocok digunakan sebagai pemanis alami karena aromanya yang wangi dan manis.\\nKonon katanya tumbuhan juga memiliki perasaan. Tumbuhan akan mekar dengan lebih indah bila dirawat dengan penuh perhatian. Tetapi tumbuhan ini juga sering kali menjadi sasaran orang-orang yang usil.",
+        "jp": "芳醇な甘い香りを発する植物。最高級の甘味料。\\n植物にも感情があるらしい。真心込めて世話をすると植物は応えてくれる。ただ、時折それは「余計な事をするやつ」も連れてきてしまうのだ。",
+        "kr": "진한 달콤한 내음을 풍기는 식물. 극상의 감미료다.\\n식물도 감정을 느끼기 때문에 따뜻한 보살핌을 받은 꽃을 수록 더 활짝 피어난다고 한다. 그래서 가끔은 「오지라퍼」가 꼬이기도 한다",
+        "pt": "Uma planta com uma rica fragrância doce que faz um excelente adoçante.\\nAlguns dizem que plantas também têm sentimentos, cuide delas com atenção e elas florescerão mais abundantemente. Entretanto, as vezes isso as torna alvo de intrometidos.",
+        "ru": "Растение, испускающее густой сладкий аромат и являющееся идеальным подсластителем. \\nГоворят, у растений тоже есть чувства, поэтому цветы, выращенные с заботой и вниманием, цветут пышнее и ароматнее. Иногда из-за этого они на свою беду притягивают внимание людей, вечно сующих нос в чужие дела.",
+        "th": "พืชที่ส่งกลิ่นหอมหวาน และเป็นสารให้ความหวานที่ยอดเยี่ยม\\nว่ากันว่าพืชเองก็มีความรู้สึกเช่นกัน ดอกไม้ที่ได้รับการดูแลเอาใจใส่เป็นอย่างดี พวกมันจะยิ่งพยายามเติบโตและงอกงาม ซึ่งบางครั้งสิ่งเหล่านี้ได้ดึงดูด พวกคนที่ชอบยุ่งไม่เข้าเรื่องเข้ามา",
+        "vi": "Loài cỏ tỏa hương ngọt rất nồng là chất tạo ngọt tuyệt vời.\\nNgười ta nói cây cối cũng có tình cảm, những nhành hoa được con người chăm sóc sẽ tỏa ra mùi hương hấp dẫn. Đôi khi điều này không may lại thu hút những kẻ \"tọc mạch\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

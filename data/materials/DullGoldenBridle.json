@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dull Golden Bridle",
+        "de": "Stumpfes Goldenes Zaumzeug",
+        "chs": "暗淡御辔",
+        "cht": "暗淡御轡",
+        "es": "Brida dorada apagada",
+        "fr": "Bride dorée terne",
+        "id": "Kekang Emas Kusam",
+        "jp": "仄暗い手綱",
+        "kr": "어슴푸레한 고삐",
+        "pt": "Rédea Dourada Fosca",
+        "ru": "Тусклая золотая уздечка",
+        "th": "Dull Golden Bridle",
+        "vi": "Dây Cương Ảm Đạm"
+    },
+    "id": 100920,
+    "materialDesc": {
+        "en": "The hereditary national treasure of Byakuyakoku, but it has lost all of its own power. This was done to prevent thieves who have entered through alternative means from seeing its value.",
+        "de": "Der vererbte Nationalschatz von Byakuyakoku, aber er hat seine eigene Kraft verloren. Dies geschah, um zu verhindern, dass Diebe, die auf anderem Wege eingedrungen sind, seinen Wert erkennen.",
+        "chs": "白夜国的传国之宝。只不过已经失去了自己的力量。这么做的目的是为了防止用旁门左道闯关而来的小贼看穿它的价值。",
+        "cht": "白夜國的傳國之寶。只不過已經失去了自己的力量。這麼做的目的是為了防止用旁門左道闖關而來的小賊看穿它的價值。",
+        "es": "Un tesoro heredado del reino de Byakuya que ha perdido todo su poder. Esto ocurrió para evitar que los ladrones lo saquearan al ver su valor.",
+        "fr": "Le trésor héréditaire de Byakuyakoku. Il a été dénué de son pouvoir dans le but de cacher sa véritable valeur aux yeux d'éventuels voleurs qui se seraient introduits par des moyens alternatifs.",
+        "id": "Harta warisan berharga Byakuyakoku, tetapi telah kehilangan semua kekuatannya. Hal ini dilakukan untuk mencegah pencuri yang masuk melalui berbagai cara karena mengetahui nilai dan harganya.",
+        "jp": "白夜国の国宝。ただし、その力はすでに失われている。これの用途は正規とは異なる方法で侵入した賊に、その価値を見破られないようにするためである。",
+        "kr": "백야국의 국보. 이미 그 힘을 잃은 것처럼 보이지만, 이는 도둑이 그 가치를 알아보지 못하게 하기 위해서이다",
+        "pt": "Um tesouro herdado do Reino de Byakuya que perdeu todo o seu poder. Isso foi feito para evitar que ladrões que entraram por meios alternativos vissem seu valor.",
+        "ru": "Драгоценность, наследие Бякуякоку. Она уже утратила свою силу. Это было сделано для того, чтобы воры не польстились на её ценность.",
+        "th": "สมบัติประจำชาติของ Byakuyakoku เพียงแต่มันได้สูญเสียพลังของตัวเองไปแล้ว จุดประสงค์ที่ทำแบบนี้ ก็เพื่อป้องกันมันจากพวกขโมยที่แอบลักลอบเข้ามา",
+        "vi": "Báu vật truyền thế của Vương Quốc Đêm Trắng, nhưng nó đã mất đi sức mạnh vốn có. Mục đích của việc này là để ngăn chặn những tên trộm dùng bàng môn tả đạo xông vào có thể nhìn thấu giá trị của nó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Memory of Roving Gales",
+        "de": "Erinnerung des sausenden Sturms",
+        "chs": "四方之风的记忆",
+        "cht": "四方之風的記憶",
+        "es": "Recuerdo de los Cuatro Vientos",
+        "fr": "Souvenir des quatre vents",
+        "id": "Memory of Roving Gales",
+        "jp": "四方の風の記憶",
+        "kr": "사방 바람의 기억",
+        "pt": "Lembrança dos Quatro Ventos",
+        "ru": "Память о ветрах свободы",
+        "th": "Memory of Roving Gales",
+        "vi": "Ký Ức Tứ Phương Chi Phong"
+    },
+    "id": 915,
+    "materialDesc": {
+        "en": "The missing star from the Talents of an Anemo-aligned Traveler.",
+        "de": "Ein fehlender Stern im Anemo-Sternbild von Reisenden.",
+        "chs": "风元素旅行者的命之座当中，缺失的星辰。",
+        "cht": "風元素旅行者的命之座當中，缺失的星辰。",
+        "es": "Una estrella perdida en la constelación Anemo del Viajero.",
+        "fr": "Une étoile manquante dans la constellation du voyageur Anémo.",
+        "id": "Konstelasi yang hilang dari gugusan Talenta seorang Pengembara berelemen Anemo.",
+        "jp": "風元素を持つ旅人の命ノ星座が欠けた星屑。",
+        "kr": "바람 원소 여행자의 운명의 자리에서 사라진 별",
+        "pt": "A estrela perdida na constelação Anemo do Viajante.",
+        "ru": "Недостающая звезда в созвездии Анемо Путешественника.",
+        "th": "ดวงดาวที่หายไปในกลุ่มดาวของ นักเดินทางธาตุลม",
+        "vi": "Ngôi sao bị thiếu trong cung mệnh của Nhà Lữ Hành Nguyên Tố Phong."
+    },
+    "materialType": "MATERIAL_TALENT"
+}

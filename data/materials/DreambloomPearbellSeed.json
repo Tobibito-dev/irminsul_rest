@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dreambloom: Pearbell Seed",
+        "de": "Samen der „Traumblüte – Birnenglocke“",
+        "chs": "「梦里花·棠铃」的花种",
+        "cht": "「夢裡花·棠鈴」的花種",
+        "es": "Semilla de flor de ensueño: perabel",
+        "fr": "Graine de florêve : cloche poire",
+        "id": "Dreambloom: Pearbell Seed",
+        "jp": "「夢乃花·トウレイ」の種",
+        "kr": "「꿈의 꽃·방울꽃」의 꽃씨",
+        "pt": "Semente de \"Sonho Florescedor: Sino Perolado\"",
+        "ru": "Семена «Цветы мечты: Грушанка»",
+        "th": "Dreambloom: Pearbell Seed",
+        "vi": "Hạt giống \"Hoa Mộng Mơ - Chuông Hải Đường\""
+    },
+    "id": 130023,
+    "materialDesc": {
+        "en": "A seed obtained from Sakuya. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Dreambloom: Pearbell.",
+        "de": "Ein Samen, den du von Sakuya erhalten hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wird daraus eine „Traumblüte – Birnenglocke“.",
+        "chs": "从咲耶处获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「梦里花·棠铃」。",
+        "cht": "從咲耶處獲取的種子，富有活力，品質上佳，種植於壺中洞天的田畝後，可在一段時間後生長為「夢裡花·棠鈴」。",
+        "es": "Una semilla de buena calidad y llena de vitalidad obtenida de Sakuya. Si la plantas en los campos del mundo interior de tu Relajatetera, tras cierto tiempo brotará una flor de ensueño: perabel.",
+        "fr": "Une graine obtenue auprès de Sakuya. Une graine de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra une florêve : cloche poire.",
+        "id": "Benih yang didapatkan dari Sakuya. Benih yang berkualitas dan penuh vitalitas sedang menantikan dirinya untuk ditanam di ladang di dalam Alam Poci. Setelah beberapa waktu, benih ini akan tumbuh menjadi Dreambloom: Pearbell.",
+        "jp": "咲耶から入手した種。生命力が強く品質も高い。「壺洞天」の田んぼに植え、時間が経つと「夢乃花·トウレイ」に成長する。",
+        "kr": "사쿠야에게서 획득한 꽃씨. 생명력이 넘치며 품질이 우수하다. 주전자 속 선계의 논밭에 재배하면 일정 시간 후 「꿈의 꽃·방울꽃」으로 성장한다",
+        "pt": "Uma semente que você obteve de Sakuya, ela é cheia de vitalidade, e sua qualidade é excelente. Se você a plantar no Paraíso Mágico é possível que cresça após um tempo em um \"Sonho Florescedor: Sino Perolado\".",
+        "ru": "Семена, полученные от Сакуи. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос «Цветок мечты: Грушанка».",
+        "th": "เมล็ดพันธุ์ที่ได้จาก Sakuya ซึ่งทั้งเต็มไปด้วยความมีชีวิตชีวาและมีคุณภาพดี หลังจากปลูกบนทุ่งกว้างของอาณาจักรในกาน้ำชาแล้ว จะสามารถเติบโตเป็นดอก Dreambloom: Pearbell หลังจากผ่านไประยะเวลาหนึ่ง",
+        "vi": "Hạt giống nhận từ Sakuya, đầy sức sống, chất lượng tốt, sau khi trồng ở Thế Giới Trong Ấm, sẽ mọc thành \"Hoa Mộng Mơ - Chuông Hải Đường\""
+    },
+    "materialType": "MATERIAL_HOME_SEED"
+}

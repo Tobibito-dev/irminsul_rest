@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Warmth\"",
+        "de": "„Wärme“",
+        "chs": "「暖意」",
+        "cht": "「暖意」",
+        "es": "Calidez",
+        "fr": "« Chaleur »",
+        "id": "\"Warmth\"",
+        "jp": "「温もり」",
+        "kr": "「온기」",
+        "pt": "\"Calor\"",
+        "ru": "«Теплота»",
+        "th": "\"Warmth\"",
+        "vi": "\"Ấm Áp\""
+    },
+    "id": 108354,
+    "materialDesc": {
+        "en": "Thoma's specialty. The intricate appearance of this dish belies the simple ingredients used. But take a sip, and Thoma's sunshine smile comes straight to mind. Perhaps this is his special ability: warming the hearts of others using the simplest of ingredients.",
+        "de": "Thomas Spezialzubereitung. Das komplizierte Aussehen dieses Gerichts täuscht einen über die einfachen Zutaten hinweg, die verwendet werden. Aber nimm einen Schluck und Thomas sonniges Lächeln kommt dir direkt in den Sinn. Vielleicht ist das seine besondere Fähigkeit: die Herzen anderer mit den einfachsten Zutaten zu erwärmen.",
+        "chs": "托马的特色料理。精致的造型令人不敢相信用料的简单，喝上一口，托马阳光般热忱的笑脸便浮上心头。将最朴素的食材，制作成温暖人身心的美味，这就是他的本领吗？",
+        "cht": "托馬的特色料理。精緻的造型令人不敢相信其用料之簡單，喝上一口，托馬陽光般熱忱的笑臉便浮上心頭。將最樸素的食材，製作成溫暖人身心的美味，這就是他的本領嗎？",
+        "es": "La especialidad de Thoma. A juzgar por su elegante aspecto, nadie creería lo sencillos que son los ingredientes de este plato. Con una sola cucharada, se te vendrá a la mente el risueño y cálido rostro de Thoma. Así que su mayor habilidad es transformar los ingredientes más simples en sabores reconfortantes...",
+        "fr": "Spécialité culinaire de Thomas. L'apparence sophistiquée de ce plat dissimule la simplicité de ses ingrédients. Prenez-en une gorgée, et le sourire chaleureux de Thomas vous viendra à l'esprit. Son talent est peut-être de donner du baume au cœur grâce à des aliments simples ?",
+        "id": "Hidangan spesialisasi Thoma. Penampilan yang rumit dari hidangan ini tidak berbanding lurus dengan penggunaan bahan-bahannya yang sederhana. Tapi coba teguklah, maka senyum cerah Thoma akan langsung terbayang-bayang di dalam pikiran. Mungkin ini adalah kemampuan spesialnya: menghangatkan hati orang lain walaupun hanya dengan menggunakan bahan-bahan yang paling sederhana.",
+        "jp": "トーマのオリジナル料理。精巧な見た目のわりに、使われている材料はごく普通。一口飲むと、太陽のように温かいトーマの笑顔が思い浮かぶ。素朴な食材を使って人の心を暖める料理を作られるのは、彼の腕前によるものだろう。",
+        "kr": "토마의 이색 요리. 단순한 재료가 사용된 것이 믿기지 않을 정도로 세련된 스타일링에 한 모금 마시면 바로 햇살처럼 따듯한 토마의 웃음이 떠오른다. 가장 소박한 식재료로 몸과 마음을 따뜻하게 하는 맛. 이게 바로 토마의 실력인가?",
+        "pt": "Especialidade de Thoma. A aparência complexa deste prato contradiz os ingredientes simples utilizados. Mas ao experimentar o sorriso de sol de Thoma vem direto à mente. Talvez esta seja sua habilidade especial: aquecer o coração dos outros usando o mais simples dos ingredientes.",
+        "ru": "Фирменное блюдо Томы. Замысловатый вид этого блюда скрывает простые ингредиенты. Но стоит сделать глоток, и сразу вспоминается лучезарная улыбка на лице Томы. Возможно, это его особая способность - согревать сердца других людей с помощью самых простых ингредиентов.",
+        "th": "เมนูเด็ดของ Thoma รูปร่างที่สวยงามทำให้ยากที่จะเชื่อว่าใช้ส่วนผสมที่แสนเรียบง่ายในการทำ หลังจากจิบแล้ว รอยยิ้มที่สดใส และกระตือรือร้นของ Thoma ก็ผุดขึ้นมาในหัว ส่วนผสมที่เรียบง่ายที่สุดทำขึ้นเป็นอาหารอันโอชะที่ทำให้ร่างกาย และจิตใจอบอุ่น นี่หรือคือความสามารถของเขา?",
+        "vi": "Món ăn đặc sắc của Thoma. Tạo hình tinh tế khiến người ta không dám tin rằng nguyên liệu rất đơn giản, húp vào một ngụm, nụ cười tỏa nắng của Thoma như đang hiện lên trong tim. Dùng nguyên liệu đơn giản nhất để làm ra món ngon sưởi ấm lòng người, đây chính là bản lĩnh của anh ấy sao?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

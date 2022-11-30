@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Arataki Itto's Stella Fortuna",
+        "de": "Stella Fortuna von Arataki Itto",
+        "chs": "荒泷一斗的命星",
+        "cht": "荒瀧一斗的命星",
+        "es": "Stella Fortuna de Arataki Itto",
+        "fr": "Stella Fortuna d'Arataki Itto",
+        "id": "Arataki Itto's Stella Fortuna",
+        "jp": "荒瀧一斗の星屑",
+        "kr": "아라타키 이토의 운명의 별",
+        "pt": "Stella Fortuna de Arataki Itto",
+        "ru": "Удача Аратаки Итто",
+        "th": "ดวงดาวแห่งชีวิตของ Arataki Itto",
+        "vi": "Chòm Sao Của Arataki Itto"
+    },
+    "id": 1157,
+    "materialDesc": {
+        "en": "Arataki Itto's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Arataki Ittos Sternbild",
+        "chs": "荒泷一斗的命之座激活素材",
+        "cht": "荒瀧一斗的命之座啟用素材",
+        "es": "Material de activación de constelación de Arataki Itto",
+        "fr": "Matériau d'activation de la constellation d'Arataki Itto.",
+        "id": "Material aktivasi untuk konstelasi Arataki Itto",
+        "jp": "荒瀧一斗の命ノ星座アンロック用素材",
+        "kr": "아라타키 이토의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Arataki Itto",
+        "ru": "Материал для активации созвездия Аратаки Итто.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Arataki Itto",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Arataki Itto"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

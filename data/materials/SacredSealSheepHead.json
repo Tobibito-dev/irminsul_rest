@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sacred Seal: Sheep Head",
+        "de": "Heiliger Siegelstein – Schafkopf",
+        "chs": "圣章石·羊首",
+        "cht": "聖章石·羊首",
+        "es": "Piedra sagrada: Cabeza de oveja",
+        "fr": "Sceau sacré : Tête de mouton",
+        "id": "Segel Suci: Kepala Domba",
+        "jp": "ヒエログリフタブレット·羊の頭",
+        "kr": "신성한 봉인석·양머리",
+        "pt": "Selo Sagrado: Cabeça de Ovelha",
+        "ru": "Скрижаль: Овечья голова",
+        "th": "ผนึกศักดิ์สิทธิ์ - หัวแกะ",
+        "vi": "Đá Thánh Chương - Đầu Cừu"
+    },
+    "id": 101980,
+    "materialDesc": {
+        "en": "A stone plate with ancient text on it that seems to have once been part of a certain building, though the origin of this writing seems unclear. The desert sands play host to many an unknown wish. Who made them, and who carries them now? Most believe that the etchings here symbolize a sheep's head.",
+        "de": "Eine Steinplatte, in die antike Zeichen eingraviert sind. Auch wenn die Herkunft der Form dieses Zeichen unbekannt ist, scheinen sie einst Teil eines Gebäudes gewesen zu sein. Nachdem sie viele Jahre im Sandmeer geschlummert hat, weiß niemand mehr, wessen Wünsche sie trägt. Die darauf eingravierten Zeichen haben nach einer verbreiteten Meinung die Form von Schafköpfen.",
+        "chs": "刻有古老文字的石板，虽然字形的来源不得而知，但是似乎原本是某种构筑物的一部分。在沙海中沉睡了不知几许，又不知承载了谁人的祈愿。其上铭刻的文字被普遍认为是羊首的象形。",
+        "cht": "刻有古老文字的石板，雖然字形的來源不得而知，但是似乎原本是某種構築物的一部分。在沙海中沉睡了不知幾許，又不知承載了誰人的祈願。其上銘刻的文字被普遍認為是羊首的象形。",
+        "es": "Una placa de piedra con una inscripción antigua. Parece que originariamente formaba parte de algún tipo de estructura. No se sabe desde hace cuánto tiempo se encuentra inactiva en medio del mar de arena. Tampoco se sabe a quién pertenecen los deseos que contiene. Se cree que este símbolo representa la cabeza de una oveja.",
+        "fr": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure, bien que l'origine de cette écriture ne semble pas claire. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? La plupart pensent que la gravure ici symbolise la tête d'un mouton.",
+        "id": "Batu yang ditulisi simbol kuno, tampaknya pernah menjadi bagian dari suatu bangunan. Entah berapa banyak harapan yang sudah terlelap di dalam padang pasir, entah berapa banyak pula mimpi yang telah diangkut olehnya. Tulisannya berbentuk seperti kepala domba.",
+        "jp": "古い文字が刻まれた石板。元はとある構築物の一部だったようだ。砂海に眠っていた時間は計り知れず、背負った祈りの主も今や知るすべがない。刻まれた文字は一般的に羊の頭の象形であると考えられている。",
+        "kr": "고대 문자가 새겨진 석판. 문자의 출처는 알 수 없지만 원래는 어떤 구조물의 일부였던 것 같다. 모래 바닷속에서 얼마나 오래 잠들어 있었는지, 또 누구의 염원을 담고 있는지는 알 수 없다. 그 위에 새겨진 문자는 보편적으로 양머리의 상형문자라고 여겨진다",
+        "pt": "Uma Tabuleta de Pedra com um texto antigo que parece ter sido parte de alguma construção. Não se sabe há quanto tempo ela está perdida no mar de areia. Quem a criou e quem possui ela agora? O símbolo na inscrição parece ser inspirado em uma cabeça de ovelha.",
+        "ru": "Каменная плита с древним символом, которая, похоже, когда-то была частью некоего здания. Сколько неизвестных мечтаний хранят в себе пески! Обыватели находят этот знак похожими на голову овцы.",
+        "th": "แผ่นหินที่มีอักษรโบราณสลักอยู่ แม้จะไม่ทราบที่มาของสัญลักษณ์ แต่ดูเหมือนว่าเดิมทีมันจะเป็นส่วนหนึ่งของโครงสร้างบางอย่าง ไม่รู้ว่ามันหลับใหลอยู่ทะเลทรายมานานเท่าไหร่แล้ว และไม่รู้ว่ามันแบกรับแรงปรารถนาของใครเอาไว้บ้าง ตัวอักษรที่สลักอยู่ด้านบน ถูกตีความว่าเป็นสัญลักษณ์ของหัวแกะ",
+        "vi": "Phiến đá cổ có khắc văn tự, mặc dù không biết văn tự có nguồn gốc từ đâu, nhưng có vẻ như vốn là một bộ phận của kết cấu nào đó. Không biết đã ngủ trong biển cát bao lâu, cũng không biết chứa đựng ước nguyện của ai. Văn tự khắc trên đó thường được cho là hình đầu cừu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

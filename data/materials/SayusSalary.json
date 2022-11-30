@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sayu's Salary",
+        "de": "Sayus Gehalt",
+        "chs": "早柚的工资袋",
+        "cht": "早柚的工資袋",
+        "es": "Salario de Sayu",
+        "fr": "Salaire de Sayu",
+        "id": "Gaji Sayu",
+        "jp": "早柚の給料袋",
+        "kr": "사유의 월급 주머니",
+        "pt": "Salário de Sayu",
+        "ru": "Зарплата Саю",
+        "th": "ถุงเงินเดือนของ Sayu",
+        "vi": "Túi Tiền Lương Của Sayu"
+    },
+    "id": 101754,
+    "materialDesc": {
+        "en": "This was originally intended to buy bedding and other materials by which sleep quality might be improved, but on the other hand, Sayu has no wish to sleep forever just yet.",
+        "de": "Ursprünglich sollten damit Bettwäsche und andere Materialien gekauft werden, mit denen die Schlafqualität verbessert werden kann, aber dann hat Sayu nun doch keine Lust, ewig zu schlafen.",
+        "chs": "原计划用于购置寝具、改善睡眠的资金，但早柚还不想就此长眠。",
+        "cht": "原計劃用於購置寢具、改善睡眠的資金，但早柚還不想就此長眠。",
+        "es": "El plan era invertir este dinero en sábanas y mantas para dormir mejor, pero Sayu aún no desea dormir para siempre.",
+        "fr": "Cet argent était initialement destiné à acheter de la literie pour améliorer la qualité du sommeil de Sayu, mais elle n'a pas l'intention de sommeiller éternellement ici.",
+        "id": "Gaji ini awalnya dimaksudkan untuk membeli tempat tidur dan bahan lain yang dapat meningkatkan kualitas tidur, tetapi di sisi lain, Sayu juga belum mau \"tidur selamanya\".",
+        "jp": "睡眠の質を上げるために寝具を買う資金にしようとしていたが、早柚はまだ永い眠りにはつきたくないようだ。",
+        "kr": "수면의 질을 개선하기 위해, 침구를 구매할 용도로 계획되었던 자금. 하지만 사유는 여기서 영원한 잠을 자고 싶진 않은 모양이다",
+        "pt": "O plano original desse dinheiro era comprar lençóis e colchas para melhorar a qualidade do sono. Por outro lado, Sayu ainda não tem nenhum plano de dormir eternamente.",
+        "ru": "Изначально эти деньги должны были быть потрачены на постельные принадлежности, чтобы улучшить качество сна, но Саю пока не собирается спать вечно.",
+        "th": "เดิมทีวางแผนว่าจะใช้ซื้อเครื่องนอนเพื่อปรับปรุงการนอนหลับ แต่ Sayu ยังไม่อยากนอนหลับยาวในตอนนี้",
+        "vi": "Theo kế hoạch ban đầu thì đây là tiền quỹ dùng để mua gia dụng phòng ngủ, cải thiện chất lượng giấc ngủ, nhưng Sayu vẫn chưa muốn ngủ luôn từ bây giờ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Butter Crab",
+        "de": "Leckerer Butterkrebs",
+        "chs": "美味的黄油蟹蟹",
+        "cht": "美味的奶油蟹蟹",
+        "es": "Cangrejo mantequilla delicioso",
+        "fr": "Crabe au beurre (délicieux)",
+        "id": "Delicious Butter Crab",
+        "jp": "美味しそうなカニのバター添え",
+        "kr": "맛있는 버터 크랩",
+        "pt": "Caranguejo na Manteiga Delicioso",
+        "ru": "Вкусный краб в масле",
+        "th": "Butter Crab แสนอร่อย",
+        "vi": "Cua Phủ Bơ Ngon"
+    },
+    "id": 108272,
+    "materialDesc": {
+        "en": "A grilled crab dish. The butter-infused crab legs have a rich aroma that washes over the tastes buds so seductively that before you know it, you've eaten it all, and are left sipping at the dregs of butter in the crab's shell, hoping to recapture a fragment of the dish's beauty.",
+        "de": "Ein gegrilltes Krebsgericht. Die mit Butter übergossenen Krebsbeine haben ein reichhaltiges Aroma, das die Geschmacksknospen so verführerisch umspült, dass man, ehe man sich versieht, alles aufgegessen hat und an den Butterresten in der Krabbenschale nippt, in der Hoffnung, ein Fragment der Schönheit des Gerichts wieder einzufangen.",
+        "chs": "烤制而成的蟹肉料理。黄油浸润的蟹腿带着馥郁的香气，席卷味蕾，叫人无法抵抗这般鲜香的诱惑。恍惚间已经吃完了蟹肉，却想再抿一抿蟹壳上的黄油，来回味上一刻的美好。",
+        "cht": "烤製而成的蟹肉料理。奶油浸潤的蟹腿帶著馥郁的香氣，席捲味蕾，叫人無法抵抗這般鮮香的誘惑。恍惚間已經吃完了蟹肉，卻想再抿一抿蟹殼上的奶油，來回味上一刻的美好。",
+        "es": "Un plato de cangrejo a la parrilla. El exquisito aroma de sus patas se debe a que han absorbido a la perfección la mantequilla. Al probar el cangrejo, un irresistible sabor invade tus papilas gustativas. Sin darte cuenta, ya te has acabado toda la carne, pero sigues queriendo rebañar cada gota de mantequilla que hay en el caparazón para poder probar una vez más ese sublime regusto.",
+        "fr": "Un plat de crabe grillé. Les pattes de crabe imprégnées dans le beurre ont un arôme riche qui envahit les papilles de manière si séduisante que sans vous en rendre compte, vous avez tout mangé et vous vous retrouvez à siroter le reste du beurre dans la carapace du crabe, dans l'espoir de raviver la mémoire du plat.",
+        "id": "Hidangan kepiting panggang. Mentega yang meresap dalam kaki kepiting membuatnya memiliki aroma yang sangat menggugah selera. Kamu akan melahap semuanya tanpa disadari, dan masih ingin mengecap rasa mentega yang tersisa di cangkang kepiting — untuk berharap dapat menikmati lagi kelezatan hidangan ini.",
+        "jp": "焼き上げたカニ料理。バターとカニ肉が濃厚な香りを放ち、味覚を揺さぶる。この新鮮な香りの誘惑には、誰も敵わない。知らない間にカニの身を食べ終えると、その美味しさを思い出したいあまりに、殻についているバターをもう一度舐めたいとさえ思わせる。",
+        "kr": "구운 꽃게 요리. 버터로 적신 게 다리에서 풍기는 짙은 향이 미뢰를 자극해 절대 거부할 수 없는 신선한 유혹은 선사한다. 어느새 한 그릇 뚝딱 해치우고, 게 껍데기에 묻은 버터를 다시금 입에 머금고 방금 전의 즐거움을 회상하는 자신을 발견할 것이다",
+        "pt": "Um prato de caranguejo grelhado. As pernas de caranguejo com infusão de manteiga têm um sabor intenso que domina a língua de forma tão sedutora que, antes que você perceba, já comeu tudo e começa a beber os restos de manteiga na casca do caranguejo, na esperança de recapturar um fragmento da beleza do prato.",
+        "ru": "Краб, приготовленный на гриле. Клешни напитались сливочным маслом и теперь испускают дурманящий аромат, который захлёстывает вкусовые рецепторы. Вы не заметите, как съедите всё мясо и начнёте допивать остатки масла из панциря, чтобы хоть на мгновение продлить вкус этого великолепия.",
+        "th": "เมนูเนื้อปูย่าง ขาปูแช่ในเนยที่มีกลิ่นหอมอบอวลไปทั่วรสชาติทำให้ผู้คนอดใจไม่ไหวกับกลิ่นหอมอันน่าลิ้มลอง กินเนื้อปูด้วยความหลงใหล แต่กลับอยากจะชิมเนยบนกระดองปูอีกครั้ง เพื่อระลึกถึงความงดงามของช่วงเวลานี้",
+        "vi": "Món thịt cua nướng. Chân cua tẩm bơ với hương thơm béo ngậy khiến người ta không thể cưỡng lại sức hấp dẫn. Thoáng cái đã ăn sạch, nhưng vẫn muốn nhấm nháp bơ trên mai để nhớ lại vị ngon ấy một lần nữa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

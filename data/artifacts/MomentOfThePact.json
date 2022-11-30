@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Moment of the Pact",
+        "de": "Augenblick des Pakts",
+        "chs": "结契之刻",
+        "cht": "結契之刻",
+        "es": "Grabación del Contrato",
+        "fr": "Instant du contrat",
+        "id": "Moment of the Pact",
+        "jp": "契約の時",
+        "kr": "계약의 순간",
+        "pt": "Entalhe do Contrato",
+        "ru": "Мгновение договора",
+        "th": "Moment of the Pact",
+        "vi": "Thời Khắc Giao Ước"
+    },
+    "id": 23606,
+    "setId": 15023,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

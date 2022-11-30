@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: Kitain Cross Spear",
+        "de": "Bauplan: Kitain-Kreuzlanze",
+        "chs": "图谱：喜多院十文字",
+        "cht": "圖譜：喜多院十文字",
+        "es": "Plano: Cruz de Kitain",
+        "fr": "Plan : Lance en croix de Kitain",
+        "id": "Diagram: Kitain Cross Spear",
+        "jp": "図譜：喜多院十文字槍",
+        "kr": "도감: 키타인 십자창",
+        "pt": "Diagrama: Lança Cruzada de Kitain",
+        "ru": "Диаграмма: Крест-копьё Китаин",
+        "th": "แบบแปลน: Kitain Cross Spear",
+        "vi": "Bản Vẽ: Giáo Thập Tự Kitain"
+    },
+    "id": 221015,
+    "materialDesc": {
+        "en": "A detailed step-by-step diagram for making a Kitain Cross Spear (Polearm).",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von der Stangenwaffe „Kitain-Kreuzlanze“.",
+        "chs": "步骤详实的图谱，记载着长柄武器「喜多院十文字」的制造方法。",
+        "cht": "步驟詳實的圖譜，記載著長柄武器「喜多院十文字」的製造方法。",
+        "es": "Planos detallados para fabricar Cruz de Kitain (lanza).",
+        "fr": "Plan détaillé pour la fabrication d'une Lance en croix de Kitain (Arme d'hast).",
+        "id": "Diagram yang menjelaskan secara rinci cara membuat senjata Kitain Cross Spear (Polearm).",
+        "jp": "長柄武器「喜多院十文字槍」の詳しい作り方が載っている図譜。",
+        "kr": "제작 과정이 자세히 적혀 있는 도감, 장병기 「키타인 십자창」의 제작 방법이 적혀있다",
+        "pt": "Plano detalhado passo a passo para fabricar uma Lança Cruzada de Kitain (Lança).",
+        "ru": "Подробная диаграмма создания крест-копья Китаин.",
+        "th": "แบบแปลนอธิบายวิธีการสร้างหอก \"Kitain Cross Spear\" โดยละเอียด",
+        "vi": "Bản vẽ ghi rõ từng bước thực hiện và cách làm vũ khí cán dài \"Giáo Thập Tự Kitain\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

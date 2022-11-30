@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Arahaoma",
+        "de": "Arahaoma",
+        "chs": "兰赫玛",
+        "cht": "蘭赫瑪",
+        "es": "Arahaoma",
+        "fr": "Arahaoma",
+        "id": "Arahaoma",
+        "jp": "アランハオマ",
+        "kr": "아란하오마",
+        "pt": "Arahaoma",
+        "ru": "Арахаома",
+        "th": "Arahaoma",
+        "vi": "Arahaoma"
+    },
+    "id": 101779,
+    "materialDesc": {
+        "en": "An elixir of Aranara. A mere drop of it is all it takes to unveil Aranara's pure and pristine dreams to the forest.",
+        "de": "Das sagenumwobene Elixier der Aranara „Arahaoma“. Ein Tropfen reicht, um dem Wald die reinen Träume der Aranara zu offenbaren.",
+        "chs": "兰那罗的灵药「兰赫玛」，仅一滴便足以令森林明晓兰那罗纯真的梦想。",
+        "cht": "蘭那羅的靈藥「蘭赫瑪」，僅一滴便足以令森林明白蘭那羅純真的夢想。",
+        "es": "El elixir arahaoma de los aranara. Solo una gota es suficiente para revelarle al bosque los inocentes sueños de los aranara.",
+        "fr": "Un élixir des aranaras. Une simple goutte suffit pour révéler à la forêt les rêves purs et immaculés des aranaras.",
+        "id": "Elixir Aranara. Setetes saja dapat mengungkap mimpi Aranara yang murni dan suci ke hutan.",
+        "jp": "アランナラの霊薬「アランハオマ」。たった一滴で、アランナラの無邪気な夢を森中に知らしめることが出来る。",
+        "kr": "아란나라의 영약 「아란하오마」. 단 한 방울만으로도 숲이 아란나라의 순수한 꿈을 느낄 수 있다",
+        "pt": "Um Elixir do Aranara Arahaoma. Basta uma gota para revelar a floresta os inocentes sonhos dos Aranaras.",
+        "ru": "Эликсир аранар. Одна капля арахаомы открывает лесу чистые мечты аранар.",
+        "th": "ยาวิเศษ \"Arahaoma\" ของ Aranara เพียงหยดเดียวก็เพียงพอที่จะทำให้ป่าตระหนักถึงความฝันอันบริสุทธิ์ของ Aranara",
+        "vi": "Linh dược \"Arahaoma\" của Aranara, chỉ một giọt thôi cũng đủ khiến cả khu rừng hiện rõ giấc mơ thuần khiết của Aranara."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

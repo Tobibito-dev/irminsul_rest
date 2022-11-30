@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Whimsical Draft",
+        "de": "Schneller Entwurf",
+        "chs": "随想草稿",
+        "cht": "隨想草稿",
+        "es": "Bosquejo inspirador",
+        "fr": "Brouillon d'inspiration",
+        "id": "Whimsical Draft",
+        "jp": "アイデアメモ",
+        "kr": "초안 모음집",
+        "pt": "Rascunho Inspirador",
+        "ru": "Черновики вдохновения",
+        "th": "Whimsical Draft",
+        "vi": "Phác Thảo Nhanh"
+    },
+    "id": 144,
+    "materialDesc": {
+        "en": "A quick sketch of inspirations for \"Aranara Carvings\" made during the adventure. Can be exchanged for precious treasures during the \"Graven Innocence\" event.",
+        "de": "Ein Aufschrieb von Inspirationen zu den Aranara-Holzfiguren, der auf dem Abenteuer entstanden ist. Während der Aktion „Schnitzen der Kindlichkeit“ kannst du diesen Entwurf gegen wertvolle Schätze eintauschen.",
+        "chs": "在冒险过程中，对于「兰那罗木刻」的灵感的快速记录。在「雕琢童心」活动期间，可以用来换取珍贵的宝物。",
+        "cht": "在冒險過程中，對於「蘭那羅木刻」的靈感的快速紀錄。在「雕琢童心」活動期間，可以用來換取珍貴的寶物。",
+        "es": "Un boceto dibujado sobre la marcha inspirado en las figurillas aranara durante tus aventuras. Puede canjearse por valiosas recompensas durante el evento «Inocencia escultórica».",
+        "fr": "Des notes prises rapidement au cours de votre aventure sur des idées de figurines d'aranaras. Elles peuvent être échangées contre des trésors précieux pendant l'événement « Sculpture d'innocence ».",
+        "id": "Catatan cepat tentang inspirasi terhadap \"Ukiran Aranara\" dalam perjalanan petualangan. Bisa digunakan untuk menukar pusaka yang berharga dalam event \"Hati yang Murni\".",
+        "jp": "冒険中、「アランナラ木彫り」についてひらめいたことをササッと記録したもの。イベント「イノセンスの彫刻」期間中、貴重なアイテムと交換できる。",
+        "kr": "모험 도중 「아란나라 목각」에 대한 영감을 신속하게 적어둔 기록물. 「동심 조각」 이벤트 기간 귀중한 보물을 교환하는 데 사용할 수 있다",
+        "pt": "Um rascunho rápido de inspirações para as \"Esculturas Aranara\" feitas durante suas aventuras. Pode ser trocado por tesouros preciosos durante o evento de \"Escultura da Inocência\".",
+        "ru": "Черновой набросок «Деревянного аранары», сделанный во время одного из ваших приключений. Можно обменять на сокровища в событии «Детская сказка».",
+        "th": "ในระหว่างการผจญภัย สามารถบันทึกแรงบันดาลใจของ \"ไม้แกะสลัก Aranara\" ได้อย่างรวดเร็ว และสามารถใช้แลกรับสมบัติสุดล้ำค่าในช่วงกิจกรรม \"สลักใจวัยเดียงสา\" ได้",
+        "vi": "Phác thảo nhanh về \"Tượng Gỗ Aranara\" trong quá trình mạo hiểm. Trong thời gian sự kiện \"Trở Về Tuổi Thơ\", có thể dùng để đổi lấy bảo vật quý hiếm."
+    },
+    "materialType": false
+}

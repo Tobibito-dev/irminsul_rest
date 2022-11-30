@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Siyu's Xiao Lantern",
+        "de": "Siyus Laterne",
+        "chs": "思妤的霄灯",
+        "cht": "思妤的霄燈",
+        "es": "Linterna celeste de Siyu",
+        "fr": "Lanterne céleste de Sishu",
+        "id": "Lentera Xiao Milik Siyu",
+        "jp": "思妤の霄灯",
+        "kr": "사여의 소등",
+        "pt": "Lanterna Celeste de Siyu",
+        "ru": "Небесный фонарь Сы Юй",
+        "th": "โคม Xiao ของ Siyu",
+        "vi": "Đèn Tiêu Của Siyu"
+    },
+    "id": 100729,
+    "materialDesc": {
+        "en": "A Xiao Lantern given to Wrench Wang by Siyu as a gift.",
+        "de": "Eine Laterne von Siyu an Wang Banzi den Schraubenschlüssel.",
+        "chs": "思妤送给王扳子的霄灯。",
+        "cht": "思妤送給王扳子的霄燈",
+        "es": "Una linterna celeste que Siyu le regala a Wang el Llave inglesa.",
+        "fr": "Une lanterne offerte par Sishu à Wang le costaud.",
+        "id": "Lentera Xiao Siyu Untuk Wrench Wang",
+        "jp": "思妤が王鉗に贈った霄灯。",
+        "kr": "사여가 왕반자에게 선물한 소등",
+        "pt": "Lanterna Celeste que Siyu deu para Wang, a Chave Inglesa",
+        "ru": "Небесный фонарь, который Сы Юй хочет подарить Здоровяку Вану.",
+        "th": "โคม Xiao ที่ Siyu มอบให้ Wrench Wang",
+        "vi": "Đèn Tiêu của Siyu tặng Wang Banzi"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

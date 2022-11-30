@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Square Pine Tea Table",
+        "de": "Quadratischer Teetisch aus Kiefernholz",
+        "chs": "松木方形茶桌",
+        "cht": "松木方形茶桌",
+        "es": "Mesa de té cuadrada de pino",
+        "fr": "Table à thé carrée en pin",
+        "id": "Meja Teh Kotak dari Kayu Pinus",
+        "jp": "松の方形お茶机",
+        "kr": "소나무 사각 다탁",
+        "pt": "Mesa de Chá Quadrada de Pinheiro",
+        "ru": "Квадратный чайный стол из сосны",
+        "th": "โต๊ะน้ำชาไม้สนทรงสี่เหลี่ยม",
+        "vi": "Bàn Trà Gỗ Vuông"
+    },
+    "id": 381309,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Square Pine Tea Table.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Quadratischer Teetisch aus Kiefernholz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「松木方形茶桌」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「松木方形茶桌」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Mesa de té cuadrada de pino.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la table à thé carrée en pin.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Meja Teh Kotak dari Kayu Pinus\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「松の方形お茶机」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「소나무 사각 다탁」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Mesa de Chá Quadrada de Pinheiro\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Квадратный чайный стол из сосны».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โต๊ะน้ำชาไม้สนทรงสี่เหลี่ยม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Trà Gỗ Vuông\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

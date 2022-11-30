@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Satisfying Salad",
+        "de": "Sättigender Salat",
+        "chs": "满足沙拉",
+        "cht": "滿足沙拉",
+        "es": "Ensalada saludable",
+        "fr": "Salade copieuse",
+        "id": "Satisfying Salad",
+        "jp": "満足サラダ",
+        "kr": "만족 샐러드",
+        "pt": "Salada Saudável",
+        "ru": "Питательный салат",
+        "th": "Satisfying Salad",
+        "vi": "Gỏi Mãn Nguyện"
+    },
+    "id": 108029,
+    "materialDesc": {
+        "en": "A vegetable salad. Not just steamed potatoes and fresh vegetables, but also a hard-boiled egg to top it off. Satisfying to both the eyes and stomach.",
+        "de": "Ein Salat mit verschiedenem Gemüse. Serviert werden die gekochte Kartoffel und das frische Gemüse mit einem weichgekochten Ei, was sowohl Auge als auch Magen erfreut.",
+        "chs": "凉拌的鲜蔬拼盘。在水煮土豆和新鲜果蔬中间，摆上了半熟的鸡蛋。能够提供充足的饱腹感。",
+        "cht": "涼拌的鮮蔬拼盤。在水煮馬鈴薯和新鮮果蔬中間，擺上了半熟的雞蛋。能夠提供充足的飽腹感。",
+        "es": "Una ensalada con muchas hojas verdes. No son solo papas al vapor y verduras frescas, sino que también tiene un huevo cocido encima. Satisface tanto a los ojos como al estómago.",
+        "fr": "Une salade copieuse composée de pommes de terre et des légumes frais. Un œuf mollet, posé au centre, n'attend qu'à être mangé.",
+        "id": "Salad sayur. Bukan hanya kentang rebus dan sayur yang segar, tapi juga telur rebus sebagai bahan terakhir. Memuaskan tidak hanya untuk mata, tapi juga perut.",
+        "jp": "冷たいサラダ。茹でたジャガイモ、新鮮な果物や野菜、さらに半熟の卵が添えられている。食べると満腹感を得られる。",
+        "kr": "신선한 채소들을 버무린 샐러드. 삶은 감자와 신선한 야채 위에 반숙 달걀을 올렸고 먹으면 포만감을 느낄 수 있다. 오늘부터 다이어트!",
+        "pt": "Uma salada de vegetais. Não apenas batatas cozidas e vegetais frescos, mas também com um ovo semi-cozido no topo. Irresistível aos olhos.",
+        "ru": "Салат из свежих овощей. Вы добавили в него отварной картофель и яйцо всмятку, что сделало этот салат вполне самостоятельным блюдом.",
+        "th": "สลัดผักสด ๆ นานาชนิด มันฝรั่งต้มและผักสดต่าง ๆ ถูกวางประดับด้วยไข่ไก่ต้ม ดูแล้วให้ความรู้สึกที่เต็มอิ่มเลยทีเดียว",
+        "vi": "Gỏi trộn rau tươi. Khi nấu rau củ và khoai tây có thêm vào trứng lòng đào, mang đến cảm giác chắc bụng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

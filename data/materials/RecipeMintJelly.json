@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Mint Jelly",
+        "de": "Rezept: Minzgötterspeise",
+        "chs": "食谱：薄荷果冻",
+        "cht": "食譜：薄荷果凍",
+        "es": "Receta: Gelatina de menta",
+        "fr": "Recette : Gelée de menthe",
+        "id": "Resep: Mint Jelly",
+        "jp": "レシピ：ミントゼリー",
+        "kr": "레시피: 허브 젤리",
+        "pt": "Receita: Gelatina de Menta",
+        "ru": "Рецепт: Мятное желе",
+        "th": "สูตรอาหาร: Mint Jelly",
+        "vi": "Công thức: Thạch Bạc Hà"
+    },
+    "id": 109445,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Mint Jelly.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Minzgötterspeise“.",
+        "chs": "步骤详实的食谱，记载着「薄荷果冻」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「薄荷果凍」的製作方法。",
+        "es": "Receta paso a paso para hacer gelatina de menta.",
+        "fr": "Étapes de préparation de la gelée de menthe.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Mint Jelly.",
+        "jp": "「ミントゼリー」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「허브 젤리」의 조리 방법이 적혀있다",
+        "pt": "Uma receita com o passo a passo detalhado de como fazer Geleia de Menta.",
+        "ru": "Подробный рецепт приготовления блюда «Мятное желе».",
+        "th": "สูตรอธิบายวิธีทำ \"Mint Jelly\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thạch Bạc Hà\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

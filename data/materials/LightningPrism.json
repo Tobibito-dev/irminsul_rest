@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lightning Prism",
+        "de": "Blitzprisma",
+        "chs": "雷光棱镜",
+        "cht": "雷光稜鏡",
+        "es": "Prisma del relámpago",
+        "fr": "Prisme d'éclair",
+        "id": "Lightning Prism",
+        "jp": "雷光のプリズム",
+        "kr": "뇌광 프리즘",
+        "pt": "Prisma do Relâmpago",
+        "ru": "Призма молнии",
+        "th": "Lightning Prism",
+        "vi": "Lăng Kính Sấm Sét"
+    },
+    "id": 113002,
+    "materialDesc": {
+        "en": "An Electro Hypostasis channels nearby elemental energy to repair damaged elemental entities. Contains the essence of Electro energy.\\nAn ordinary prism separates white light into its component colors; a Lightning Prism, however, channels flowing energies and weaves them into lightning. It will continue to do so even after the Electro Hypostasis has been defeated.",
+        "de": "Mit diesem elementaren Stoff konzentriert eine Elektro-Hypostase ihre Energie und heilt ihre Verletzungen. Darin enthalten ist reine Elektro-Kraft.\\nEin herkömmliches Prisma kann das Farbspektrum des Lichts auseinandernehmen, während ein Blitzprisma fließende Energie in einen Blitzschlag bündeln kann. Die Elektro-Hypostase mag zwar besiegt sein, die Elektro-Kraft in diesem Prisma ist aber noch vollständig vorhanden.",
+        "chs": "无相之雷用于汇聚元素，修复损伤的元素物质。其中蕴含着至纯的雷之力。\\n棱镜能将构成光的色彩区分，而雷光棱镜将奔流的能量编织成纯粹的雷光。即使无相之雷已经被击败，雷元素也持续在这只棱镜中汇聚。",
+        "cht": "無相之雷用於匯聚元素，修復損傷的元素物質。其中蘊含著至純的雷之力。\\n棱鏡能將構成光的色彩區分，而雷光棱鏡將奔流的能量編織成純粹的雷光。即使無相之雷已經被擊敗，雷元素也持續在這面棱鏡中匯聚。",
+        "es": "Utilizado por el Hipostasis Electro para concentrar poder elemental. Contiene poder Electro puro.\\nLos prismas pueden descomponer la luz en colores, así como el Prisma del relámpago entrelaza la energía que fluye en rayos puros. Aunque el Hipostasis Electro haya sido derrotado, el elemento Electro continúa concentrado en este prisma.",
+        "fr": "Un matériel élémentaire utilisé par des Hypostases Électro pour faire converger les éléments à proximité et réparer les dommages. Il contient un pouvoir Électro d'une grande pureté.\\nUn prisme commun peut distinguer les couleurs qui composent la lumière blanche, tandis que un prisme d'éclair peut faire converger les flux énergiques en un pur éclair. Bien que l'Hypostase Électro a été vaincue, les éléments Électro continuent de converger vers ce prisme.",
+        "id": "Sebuah Electro Hypostasis digunakan untuk mengumpulkan dan memperbaiki unsur elemen yang rusak. Ia mengandung unsur energi Electro.\\nPrisma biasa dapat memisahkan cahaya putih menjadi warna-warna komponennya, tapi prisma petir ini dapat menyalurkan energi dan membentuknya menjadi petir. Dia akan terus melakukannya bahkan setelah Electro Hypostasis telah dikalahkan.",
+        "jp": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
+        "kr": "원소를 모아 손상된 원소 물질을 복원하는데 사용하는 무상의 뇌전. 순수한 번개의 힘을 담고 있다.\\n프리즘은 빛을 구성하는 색을 구분할 수 있지만, 뇌광 프리즘은 흐르는 에너지를 엮어 순수한 뇌광을 만든다. 무상의 뇌전은 패배했지만, 번개 원소가 계속해서 프리즘에 모이고 있다",
+        "pt": "Uma Hypostasis Electro canaliza energia elemental para curar entidades elementais danificadas. Ela contém a essência da energia elétrica.\\nUm prisma comum separa a luz branca em suas cores componentes. Um prisma relâmpago, no entanto, canaliza a energia que flui e as transforma em raios. Isso continuará assim mesmo após a derrota da Hypostasis Electro.",
+        "ru": "Электро гипостазис направляет окружающую его элементальную энергию на восстановление элементальных сущностей и содержит в себе концентрированную энергию Электро.\\nОбычная призма расщепляет пропущенный сквозь неё свет на составляющие его цвета, а Электро призма превращает пропущенную сквозь неё энергию в молнию. Она не теряет эту способность даже после смерти самого Электро гипостазиса.",
+        "th": "Electro Hypostasis ใช้ในการรวบรวมพลังงานธาตุและซ่อมแซมวัตถุทางธาตุที่ถูกทำลาย ข้างในอัดแน่นไปด้วยพลังของไฟฟ้าอันแสนบริสุทธิ์\\nปริซึมนั้นสามารถแยกสีของแสงให้เป็นชั้น ๆ ได้ ในขณะที่ Lightning Prism จะถักทอพลังที่ไหลเวียนอยู่ให้กลายเป็นสายฟ้าที่บริสุทธิ์ ถึงแม้ว่า Electro Hypostasis จะถูกจัดการไปแล้วแต่พลังงานไฟฟ้านั้นยังคงรวบรวมอยู่ในปริซึมนี้ต่อไป",
+        "vi": "Lôi Nguyên Bản dùng để hội tụ Nguyên Tố, Nguyên Tố khôi phục tổn thất. Trong đó chứa sức mạnh Lôi thuần túy.\\nLăng kính có thể phân biệt màu sắc tạo nên ánh sáng, Lăng Kính Sấm Sét dệt sức mạnh tuôn trào thành sấm sét thuần khiết. Cho dù Lôi Nguyên Bản đã bị đánh bại, Nguyên Tố Lôi vẫn tiếp tục hội tụ trong lăng kính."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

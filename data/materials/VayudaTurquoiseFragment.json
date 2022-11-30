@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vayuda Turquoise Fragment",
+        "de": "Vayuda-Türkis-Bruchstück",
+        "chs": "自在松石断片",
+        "cht": "自在松石斷片",
+        "es": "Fragmento de turquesa vayuda",
+        "fr": "Fragment de turquoise vayuda",
+        "id": "Vayuda Turquoise Fragment",
+        "jp": "自由のターコイズ·欠片",
+        "kr": "자유로운 터키석 조각",
+        "pt": "Fragmento de Turquesa Vayuda",
+        "ru": "Фрагмент бирюзы Вайюда",
+        "th": "Vayuda Turquoise Fragment",
+        "vi": "Mảnh Tùng Thạch Tự Tại"
+    },
+    "id": 104152,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"Still, the winds change direction.\"",
+        "de": "Material für den Figurenaufstieg.\\n„Die Windrichtung kann sich jederzeit ändern.“",
+        "chs": "角色突破素材。\\n「但风向是会转变的。」",
+        "cht": "角色突破素材。\\n「但風向是會轉變的。」",
+        "es": "Material de ascensión de personaje.\\n“Aun así, los vientos cambian de dirección”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Le vent change toujours de direction. »",
+        "id": "Material Ascension Karakter.\\n\"Tapi, arah angin bisa berubah.\"",
+        "jp": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
+        "kr": "캐릭터 돌파 소재.\\n「바람의 방향은 항상 바뀌는 거니까」",
+        "pt": "Material de Ascensão de Personagem.\\n\"Ainda assim, os ventos mudam de direção.\"",
+        "ru": "Материал возвышения персонажа.\\n«Ветра могут поменять направление».",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\n\"สายลมนั้นเปลี่ยนทิศไปเสมอ\"",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Nhưng hướng gió sẽ thay đổi.\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

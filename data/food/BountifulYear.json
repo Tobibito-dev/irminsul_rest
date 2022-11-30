@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Bountiful Year",
+        "de": "Jahresfisch",
+        "chs": "丰年有余",
+        "cht": "豐年有餘",
+        "es": "Pescado de la abundancia",
+        "fr": "Année d'abondance",
+        "id": "Bountiful Year",
+        "jp": "実り豊か",
+        "kr": "풍요로운 한 해",
+        "pt": "Abundância Anual",
+        "ru": "Благополучие и процветание",
+        "th": "Bountiful Year",
+        "vi": "Phúc Lộc Tràn Đầy"
+    },
+    "id": 4204,
+    "foodType": "COOK_FOOD_ATTACK",
+    "cookMethod": "COOK_METHOD_STEAM",
+    "rankLevel": 4,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 20,
+    "inputVec": [
+        {
+            "id": 100084,
+            "count": 4
+        },
+        {
+            "id": 100013,
+            "count": 4
+        },
+        {
+            "id": 100076,
+            "count": 2
+        },
+        {
+            "id": 100034,
+            "count": 1
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108366,
+            "count": 1
+        },
+        {
+            "id": 108367,
+            "count": 1
+        },
+        {
+            "id": 108368,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.3,0.22",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Increases all party members' ATK by <color=#3399CCFF>224–320</color> and CRIT Rate by <color=#3399CCFF>6–10%</color> for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "de": "Erhöht den ANG aller Truppenmitglieder 300 s lang um <color=#3399CCFF>224 bis 320</color> Punkte und die KT um <color=#3399CCFF>6 bis 10 %</color>. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+        "chs": "队伍中所有角色攻击力提高<color=#3399CCFF>224-320</color>点，暴击率提升<color=#3399CCFF>6%-10%</color>，持续300秒。 多人游戏时，仅对自己的角色生效。",
+        "cht": "隊伍中所有角色攻擊力提高<color=#3399CCFF>224-320</color>點，暴擊率提升<color=#3399CCFF>6%-10%</color>，持續300秒。 多人遊戲時，僅對自己的角色生效。",
+        "es": "Aumenta el ATQ <color=#3399CCFF>224-320</color> pts. y la Prob. CRIT un <color=#3399CCFF>6%-10%</color> de todos los miembros del equipo durante 300 s. En modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
+        "fr": "Augmente l'ATQ de <color=#3399CCFF>224 à 320</color> pts et le taux CRIT de <color=#3399CCFF>6 % à 10 %</color> pour tous les personnages de l'équipe pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+        "id": "Meningkatkan <color=#3399CCFF>224–320</color> ATK dan <color=#3399CCFF>6%-10%</color> CRIT Rate seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+        "jp": "チーム全員の攻撃力+<color=#3399CCFF>224~320</color>、会心率+<color=#3399CCFF>6%~10%</color>、継続時間300秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
+        "kr": "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>224-320</color>pt, 치명타 확률이 <color=#3399CCFF>6%-10%</color> 증가한다. 지속 시간: 300초 다인 모드 시 자신의 캐릭터에만 적용된다",
+        "pt": "Aumenta o ATQ de todos os membros da Equipe em <color=#3399CCFF>224 - 320</color> e aumenta a Taxa Crítica em <color=#3399CCFF>6% - 10%</color> por 300s. No modo multijogador, o efeito apenas se aplica ao seu personagem.",
+        "ru": "Увеличивает силу атаки на <color=#3399CCFF>224-320</color> ед. и шанс крит. попадания на <color=#3399CCFF>6%-10%</color> всем членам отряда в течение 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "th": "เพิ่มพลังโจมตีให้กับสมาชิกในทีมทั้งหมด <color=#3399CCFF>224-320</color> หน่วย และเพิ่มอัตราคริ <color=#3399CCFF>6%-10%</color> เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+        "vi": "Tất cả nhân vật trong đội tăng <color=#3399CCFF>224-320</color> điểm tấn công, tăng <color=#3399CCFF>6%-10%</color> tỷ lệ bạo kích, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+}

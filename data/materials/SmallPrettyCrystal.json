@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Small Pretty Crystal",
+        "de": "Hübscher kleiner Kristall",
+        "chs": "漂亮的小结晶",
+        "cht": "漂亮的小結晶",
+        "es": "Cristal bonito (pequeño)",
+        "fr": "Joli cristal (petit)",
+        "id": "Small Pretty Crystal",
+        "jp": "綺麗な結晶（小）",
+        "kr": "아름다운 작은 결정",
+        "pt": "Pequeno Cristal Bonito",
+        "ru": "Маленький красивый кристалл",
+        "th": "Small Pretty Crystal",
+        "vi": "Kết Tinh Nhỏ Xinh Xắn"
+    },
+    "id": 111020,
+    "materialDesc": {
+        "en": "Additional Crafted Item",
+        "de": "Zusätzlich hergestelltes Produkt",
+        "chs": "合成额外产物",
+        "cht": "合成的額外產物",
+        "es": "Objeto sintetizado adicional",
+        "fr": "Produit synthétisé supplémentaire",
+        "id": "Hasil Craft Tambahan",
+        "jp": "合成追加産物",
+        "kr": "합성 추가 생성물",
+        "pt": "Item Adicional Forjado",
+        "ru": "Добавочный Ремесленный Предмет",
+        "th": "ไอเทมเพิ่มเติมจากการสรรค์สร้าง",
+        "vi": "Sản Phẩm Ghép Tăng Thêm"
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

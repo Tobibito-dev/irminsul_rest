@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stories of You and the Aranara",
+        "de": "Geschichten von dir und den Aranara",
+        "chs": "关于你与兰那罗的故事",
+        "cht": "#關於{F#妳}{M#你}與蘭那羅的故事",
+        "es": "Tu historia con los aranara",
+        "fr": "Histoires des aranaras et vous",
+        "id": "Mengenai Kisahmu dan Aranara ....",
+        "jp": "あなたとアランナラの物語",
+        "kr": "당신과 아란나라에 대한 이야기",
+        "pt": "História entre Você e os Aranaras",
+        "ru": "#Истории о {F#путешественнице}{M#путешественнике} и аранарах",
+        "th": "เรื่องราวระหว่างคุณกับ Aranara",
+        "vi": "Câu Chuyện Về Bạn Và Aranara"
+    },
+    "id": 101832,
+    "materialDesc": {
+        "en": "So many wonderful things transpired during your adventures with the Aranara. In the world of the Aranara where stories are highly valued, maybe someone is willing to \"exchange\" these with you.",
+        "de": "So viele wundervolle Geschichten hast du auf deinen Abenteuern mit den Aranara erlebt. Vielleicht ist jemand in der Welt der Aranara, in der Geschichten hochgeschätzt werden, bereit, einen „Austausch“ mit dir durchzuführen.",
+        "chs": "与兰那罗一同冒险的过程中，产生了许许多多的奇妙故事。在重视故事的兰那罗世界里，或许有谁愿意进行「交换」吧。",
+        "cht": "與蘭那羅一同冒險的過程中，產生了許許多多的奇妙故事。在重視故事的蘭那羅世界裡，或許有誰願意進行「交換」吧。",
+        "es": "En tus aventuras con los aranara, viviste innumerables historias increíbles. Con el valor que tienen las historias en el mundo de los aranara, quizás alguien esté dispuesto a intercambiarlas contigo.",
+        "fr": "Tant d'histoires merveilleuses se sont déroulées au cours de vos aventures avec les aranaras. Dans le monde des aranaras, où les histoires sont très appréciées, il y a peut-être quelqu'un qui est prêt à en échanger certaines avec vous.",
+        "id": "Dalam petualangan bersama Aranara, banyak sekali kisah-kisah menarik yang terjadi. Dalam dunia Aranara yang mementingkan cerita, mungkin akan ada entah siapa yang bersedia untuk melakukan \"pertukaran\".",
+        "jp": "アランナラと冒険する中で、沢山の不思議な物語が生まれた。物語を大切にするアランナラの世界には、これと何かを「交換」してくれるやつがいるかも。",
+        "kr": "아란나라와 함께 모험하면서 수많은 기묘한 이야기가 탄생했다. 이야기를 중시하는 아란나라의 세계라면 이야기를 「교환」하려는 자가 있을지도 모른다",
+        "pt": "Aconteceram muitas histórias maravilhosas durante a sua aventura com os Aranaras. No mundo dos Aranara, onde as histórias são imprescindíveis, pode haver alguém que gostaria de \"trocar\" a sua história pelas suas.",
+        "ru": "Ваши приключения с аранарами породили множество удивительных историй. Аранары очень ценят истории, наверняка здесь найдутся желающие «обменяться».",
+        "th": "ในระหว่างที่ผจญภัยไปกับ Aranara ได้มีเรื่องราวมหัศจรรย์เกิดขึ้นมากมาย ในโลกของ Aranara ที่ให้ความสำคัญกับเรื่องราว บางทีอาจจะมีใครสักคนที่พอใจกับการ \"แลกเปลี่ยน\" ก็ได้นะ",
+        "vi": "Trong quá trình mạo hiểm cùng Aranara, đã xảy ra rất nhiều chuyện kỳ lạ. Trong thế giới của Aranara, nơi những câu chuyện được đánh giá cao, có thể ai đó sẽ sẵn sàng \"trao đổi\" những điều này."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

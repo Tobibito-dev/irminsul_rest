@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Naganohara Fireworks Note",
+        "de": "Hinweis zu Naganoharas Feuerwerksartikeln",
+        "chs": "「长野原烟花店」的纸条",
+        "cht": "「長野原煙花店」的紙條",
+        "es": "Nota de Pirotecnia Naganohara",
+        "fr": "Note des Feux de Naganohara",
+        "id": "Catatan Kembang Api Naganohara",
+        "jp": "「長野原花火屋」の短冊",
+        "kr": "「나가노하라 폭죽가게」의 쪽지",
+        "pt": "Pedaço de Papel de Fogos de Artifício Naganohara",
+        "ru": "Записка из «Фейерверков Наганохары»",
+        "th": "กระดาษโน้ตของ \"ร้านดอกไม้ไฟ Naganohara\"",
+        "vi": "Mẫu Giấy Của \"Tiệm Pháo Hoa Naganohara\""
+    },
+    "id": 100893,
+    "materialDesc": {
+        "en": "A note that Yoimiya gave you to record firework formulae with. If you give this note to Yoimiya, she will be able to make fireworks just as you remember them.\\nNo matter how time passes, or people and things change, so long as you take care of this note, you will stand guard over a door to the past. Perhaps you too will find happiness that belongs only to you under a firework-filled sky.",
+        "de": "Ein Zettel, den dir Yoimiya gegeben hat, um damit Feuerwerksformeln aufzuzeichnen. Wenn du diesen Zettel Yoimiya gibst, wird sie in der Lage sein, ein Feuerwerk genau so zu machen, wie du dich daran erinnerst.\\nEgal wie die Zeit vergeht oder wie sich Menschen und Dinge verändern, solange du auf diesen Zettel aufpasst, wirst du über eine Tür zur Vergangenheit wachen. Vielleicht wirst auch du unter einem mit Feuerwerk gefüllten Himmel das Glück finden, das nur dir gehört.",
+        "chs": "宵宫交给你的用来记录烟花配方的纸条，听说只要将这张纸条交给宵宫，她就能做出和你记忆中完全一致的烟花。\\n哪怕时光荏苒，物是人非，只要好好保管手里的这张纸条，就握住了通往过去的门票。希望在漫天烟火之下，你也能想起专属于你的美好。",
+        "cht": "#宵宮交給{F#妳}{M#你}的紙條，記錄了煙花的配方。聽說只要將這張紙條交給宵宮，她就能做出和{F#妳}{M#你}記憶中完全一致的煙花。\\n哪怕時光荏苒、物是人非，只要好好保管手裡的這張紙條，就握住了通往過去的門票。希望在漫天煙花之下，{F#妳}{M#你}也能想起專屬於{F#妳}{M#你}的美好。",
+        "es": "Una nota que te dio Yoimiya para anotar la fórmula con la que hacer fuegos artificiales. Al parecer, si le das esta nota a Yoimiya, hará unos fuegos artificiales completamente idénticos a los que recuerdas.\\nAunque el tiempo pase y las cosas cambien, siempre que guardes bien esta nota, tendrás la posibilidad de volver al pasado. Quizás tú también encuentres tu felicidad bajo el cielo cubierto por los fuegos artificiales.",
+        "fr": "Une note que Yoimiya vous a donnée sur laquelle est inscrite une formule de feux d'artifice. Donnez cette note à Yoimiya pour qu'elle reproduise les feux d'artifice de vos souvenirs.\\nPeu importe que le temps passe, ou que les gens ou les choses changent, tant que vous prenez soin de cette note, vous gardez une porte sur le passé. Peut-être que vous aussi trouverez le bonheur sous un ciel illuminé de feux d'artifice.",
+        "id": "Catatan berisi cara membuat kembang api yang diberikan Yoimiya untukmu. Jika kamu memberikan catatan ini kepada Yoimiya, dia akan membuat kembang api yang persis seperti di ingatanmu.\\nTak peduli berapa lama waktu berlalu, dan tak peduli bagaimana orang-orang dan hal-hal berubah, asalkan kamu menjaga catatan ini dengan baik, maka artinya kamu telah menggenggam sebuah tiket untuk menuju masa lalu. Semoga kamu dapat menemukan kebahagiaan yang khusus untukmu di tengah langit yang berhiaskan kembang api.",
+        "jp": "宵宮からの短冊。花火の作り方が載っている。宵宮に渡すと、彼女があなたの記憶通りの花火を作ってくれる。\\nたとえ時が経ち周囲が変化しても、この短冊を大切にしている限り、いつでも過去への扉を開くことができる。打ち上げ花火を見届ける夜空の下、あなたが、記憶の底の幸せを思い出せることを願う。",
+        "kr": "요이미야가 준 폭죽 제조법을 기록할 때 사용하는 쪽지. 이 쪽지를 그녀에게 건네기만 하면, 요이미야는 당신의 기억과 완전히 똑같은 폭죽을 제작할 수 있다고 한다\\n세월이 흐르고 모든 게 변해도, 이 쪽지만 잘 간직하면 과거로 향하는 티켓을 보유한 것과 다름없다. 밤하늘을 환하게 비추는 폭죽 아래, 당신도 당신만의 아름다움을 기억해 낼 수 있을 것이다",
+        "pt": "Um pedaço de papel que Yoimiya deu para você para anotar como se fazer fogos de artifício. Dizem que basta dar esse pedaço de papel para Yoimiya que ela pode fazer fogos de artifício completamente idênticos aos de sua memória.\\nAinda que com o passar das eras, as coisas permanecem e as pessoas mudem, basta segurar esse pedaço de papel para ser transportado ao passado. Espera-se que sob o céu coberto de fogos de artifício você possa lembrar a beleza que lhe pertence.",
+        "ru": "Записка, которую дала вам Ёимия для занесения рецептов фейерверков. Если отдать её Ёимии, она сделает фейерверки в точности такими, какими вы их запомнили.\\nДаже если время летит и всё меняется, храните эту записку, и у вас всегда будет дверь в прошлое. Быть может, под полным пёстрых букетов фейерверков небом вы обретёте собственное счастье.",
+        "th": "กระดาษโน้ตที่ Yoimiya มอบให้คุณ เพื่อบันทึกสูตรผสมของดอกไม้ไฟ ได้ยินว่าขอเพียงแค่นำกระดาษโน้ตใบนี้ส่งให้ Yoimiya เธอก็จะสามารถทำดอกไม้ไฟ ที่เหมือนกันกับอันที่คุณเคยเห็นได้อย่างสมบูรณ์\\nแม้ว่ากาลเวลาจะล่วงเลยผ่านไป สิ่งต่าง ๆ จะยังคงเหมือนเดิมในขณะที่ผู้คนเปลี่ยนแปลง ตราบใดที่คุณเก็บบันทึกนี้ไว้ในมือ ก็เหมือนกับการถือตั๋วเพื่อย้อนไปสู่อดีต หวังว่าภายใต้ท้องฟ้าที่เต็มไปด้วยดอกไม้ไฟนั้น คุณเองก็จะสามารถนึกถึงความทรงจำดี ๆ ที่เป็นของคุณได้เช่นกัน",
+        "vi": "Mẫu giấy mà Yoimiya đưa cho bạn để ghi lại công thức chế tạo pháo hoa, nghe nói rằng chỉ cần đưa tờ giấy này cho Yoimiya, cô ấy sẽ làm ra pháo hoa chính xác như bạn nhớ.\\nNgay cả khi thời gian trôi đi và mọi thứ có khác đi, chỉ cần bạn giữ mẫu giấy này trong tay, bạn sẽ nắm giữ được tấm vé đi về quá khứ. Mong rằng dưới bầu trời đầy pháo hoa, bạn cũng có thể tìm lại được vẻ đẹp trong ký ức của mình."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

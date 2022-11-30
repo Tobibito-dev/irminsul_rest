@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guide to Admonition",
+        "de": "Anleitung zur „Ermahnung“",
+        "chs": "「诤言」的指引",
+        "cht": "「諍言」的指引",
+        "es": "Guía de la exhortación",
+        "fr": "Guide de l'Admonestation",
+        "id": "Guide to Admonition",
+        "jp": "「忠言」の導き",
+        "kr": "「간언」의 인도",
+        "pt": "Guia da Admoestação",
+        "ru": "Указания о «Наставлениях»",
+        "th": "Guide to Admonition",
+        "vi": "Hướng Dẫn Của \"Khuyên Nhủ\""
+    },
+    "id": 104330,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nAdmonition is the branches of the nation of wisdom.\\nAdmonition is paired with wise thinking. Careful deliberation affords humble words a clarity that convinces the wise and enlightens the foolish. Such words allow wisdom to flow like an unobstructed river.",
+        "de": "Material zur Verbesserung von Talenten.\\n„Ermahnung“ ist der Zweig des Reiches der Weisheit.\\nErmahnung und sorgfältige Überlegung gehören untrennbar zusammen. Sich mit Demut und Klarheit auszudrücken, erfordert viel Nachdenken und Reflexion. Nur so kann man die Weisen überzeugen, die Narren erwecken, und die Weisheit wie einen Fluss fließen lassen.",
+        "chs": "天赋培养素材。\\n「诤言」是智慧之国的枝干。\\n诤言相伴巧妙的思虑。多思多虑方能出言谦逊明晰，令智者折服，使愚者醒悟，让智慧如川流一般畅通不息。",
+        "cht": "天賦培養素材。\\n「諍言」是智慧之國的枝幹。\\n諍言相伴巧妙的思慮。多思多慮方能出言謙遜明晰，令智者折服，使愚者醒悟，讓智慧如川流一般暢通不息。",
+        "es": "Material de mejora de talento.\\nLa exhortación conforma las ramas del Reino de la Sabiduría y va de la mano del pensamiento ingenioso.\\nSolo pensando con detenimiento antes de hablar se consigue un discurso claro y humilde. Y solo de esta manera se convencerá a los sabios y se iluminará a los necios, con lo que la sabiduría manará como el cauce de un río.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'admonestation est une des branches de la nation de la sagesse.\\nElle va de pair avec la pensée ingénieuse. Une réflexion consciencieuse permet de s'exprimer clairement et humblement pour convaincre les sages et éclairer les ignorants. De telles paroles donnent la possibilité à la sagesse de couler librement, comme une rivière sans barrage.",
+        "id": "Material Penguatan Talenta.\\n\"Admonition\" adalah cabang dari bangsa kebijaksanaan.\\nPeringatan disertai dengan pertimbangan yang matang. Pertimbangan yang matang baru bisa menghasilkan kata-kata yang rendah hati dan jelas, membuat yang bijak yakin, membuat yang bodoh tersadarkan, sehingga kebijaksanaan terus mengalir tiada henti bagai sungai yang mengalir.",
+        "jp": "天賦育成素材。\\n「忠言」は知恵の国の枝と幹である。\\n巧妙な思慮には、忠言が伴う。考えを巡らせてこそ、謙虚に、また明晰に語ることができ、知者を納得させ、愚者を目覚めさせ、知恵を川の如く流させるのである。",
+        "kr": "특성 육성 소재.\\n「간언」은 지혜의 나라의 줄기와 가지다.\\n간언은 정교한 생각을 동반한다. 사려 깊은 사람만이 겸손하고 명료하게 말할 수 있어, 현명한 이는 설득하고, 어리석은 자는 깨닫게 해 지혜를 강물처럼 흐르게 할 수 있다",
+        "pt": "Material de Elevação de Talento.\\nA exortação são os galhos da nação da sabedoria.\\nExortação é acompanhada de um pensamento sábio. Uma deliberação cuidadosa proporciona às palavras humildes uma clareza que convence os sábios e ilumina os tolos. Tais palavras permitem que a sabedoria flua como um rio sem obstruções.",
+        "ru": "Материал повышения талантов.\\nНаставления служат стволом и ветвями страны мудрости.\\nНаставления - спутники ясного мышления. Тщательное обдумывание придаёт смиренным словам ясность, которая убеждает мудрых и просвещает глупых. Такие слова позволяют мудрости изливаться, подобно реке, не знающей преград.",
+        "th": "วัสดุยกระดับพรสวรรค์\\n\"การวิจารณ์\" คือกิ่งก้านของอาณาจักรแห่งปัญญา\\nการวิจารณ์มักจะมาควบคู่กับความคิดอันชาญฉลาด ต้องไตร่ตรองให้มาก คำพูดที่สื่อออกมาจึงจะถ่ายทอดความหมายได้อย่างชัดเจน และสามารถโน้มน้าวผู้ทรงปัญญาได้ ทำให้ผู้โง่เขลาตื่นรู้ และทำให้ปัญญาหลั่งไหลไปดุจสายธารที่ไม่มีวันเหือดแห้ง",
+        "vi": "Nguyên liệu bồi dưỡng thiên phú.\\n\"Khuyên Nhủ\" là cành nhánh của vương quốc trí tuệ.\\nKhuyên nhủ đi đôi với tư duy khéo léo. Suy nghĩ sâu sắc sẽ có thể nói ra những lời rành mạch, thuyết phục người thông minh, giúp kẻ ngốc tỉnh ngộ, làm cho trí tuệ tuôn chảy như sông ngòi mãi không ngừng nghỉ."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

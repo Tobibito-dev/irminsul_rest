@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Legend of the Shattered Halberd (II)",
+        "de": "Legende der zerbrochenen Hellebarde – Band II",
+        "chs": "神霄折戟录·第二卷",
+        "cht": "神霄折戟錄·第二卷",
+        "es": "La leyenda de la alabarda fragmentada (II)",
+        "fr": "Le Bris de l'arme divine - Tome II",
+        "id": "Legenda Tombak Dewa (II)",
+        "jp": "神霄折戟録·第2卷",
+        "kr": "신소절극록·제2권",
+        "pt": "A Queda de Shenxiao - Volume II",
+        "ru": "Легенда о разбитой алебарде. Том II",
+        "th": "ตำนานง้าวที่แตกสลาย - 2",
+        "vi": "Thần Tiêu Trảm Kích Lục (II)"
+    },
+    "id": 100433,
+    "materialDesc": {
+        "en": "Mir, having stumbled onto the journey to retrieve the swords by accident, encountered a huge crisis before the journey had even begun. Imperial Guard and Imperial Escort elites were slain by enemies holding the Ominous Swords. Amidst grave danger, Mir recalled a spell taught by his father. Legend has that, the Celestial Emperor has a young daughter whose name was not known to the world; she now possessed Weiyang's body and revealed herself. Who would prevail? The wielders of the Ominous Swords who had turned into ferocious demons? Or Mir who could somewhat hold his own in a fight?",
+        "de": "Mir, der nur versehentlich auf die Reise geraten war, um die Schwerter zu holen, stieß bereits vor der Abreise auf eine große Krise. Die Elite der kaiserlichen Garde und des kaiserlichen Begleitschutzes wurden von Feinden getötet, die die Ketzerschwerter bei sich trugen. In großer Gefahr erinnerte sich Mir an einen Zauber, den sein Vater ihn gelehrt hatte. Der Legende nach hatte der Himmlische Kaiser eine junge Tochter, deren Name der Welt nicht bekannt war. Sie besaß jetzt Weiyangs Körper und zeigte sich. Wer würde sich letztendlich durchsetzen? Die Träger der Ketzerschwerter, die sich in wilde Dämonen verwandelt hatten? Oder Mir, der sich in einem Kampf nicht so schlecht machte?",
+        "chs": "阴差阳错走上了征刀之旅的弥耳，还没踏出半步就遇到了空前危机。金吾、羽林精锐被贼人斩于邪剑之下。危急时刻，弥耳想起父亲传下的光禄寺密咒。传说天帝有一小女，名讳并未流传——此刻她却占据了眼前未央的身体，显现在前。已然化作恶鬼的贼人与邪剑，面对勉强可以缚鸡杀鸡的弥耳，究竟胜负如何？",
+        "cht": "陰差陽錯走上了征刀之旅的彌耳，還沒踏出半步就遇到了空前危機。金吾、羽林精銳被賊人斬於邪劍之下。危急時刻，彌耳想起父親傳下的光祿寺密咒。傳說天帝有一小女，名諱並未流傳——此刻她卻佔據了眼前未央的身體，顯現在前。已然化作惡鬼的賊人與邪劍，面對勉強可以縛雞殺雞的彌耳，究竟勝負如何？",
+        "es": "Mir, que accidentalmente emprendió el viaje para recuperar las Espadas Ominosas, se topó con una gran crisis antes de que su aventura comenzara. La élite de la Guardia Imperial y la Escolta Imperial fue asesinada por enemigos que poseían las Espadas Ominosas. Ante tal inminente peligro, Mir recordó un hechizo que le enseñó su padre cuanto trabajaba para la Corte de Banquetes Imperiales. Cuenta la leyenda que el Emperador Celestial tiene una hija pequeña cuyo nombre no era conocido en la tierra. La niña, que había poseído el cuerpo de Weiyang, reveló su apariencia ante el mundo entero. ¿Quién prevalecería? ¿Los portadores de las Espadas Ominosas, ahora convertido en demonios feroces? ¿O Mir, que apenas podía defenderse bien en combate?",
+        "fr": "Mi'er, qui était à présent en chasse des épées par accident, dut affronter une crise majeure avant même de pouvoir commencer. Les guerriers de la garde impériale et de l'escorte impériale furent tués par des bandits avec l'une des épées maudites. Au plus grave de l'action, Mi'er se remémora l'incantation que son père lui avait enseignée. La légende raconte que l'Empereur Céleste avait une fille, au nom inconnu du monde ; et cette fille se révéla, prenant possession du corps de Weiyang. Qui, des bandits déjà corrompus par l'épée maudite et de Mi'er, remportera le combat ?",
+        "id": "Mir, setelah tidak sengaja terlibat dalam perjalanan untuk mengambil pedang, mengalami krisis besar bahkan sebelum perjalanan dimulai. Para Penjaga Kerajaan dan Pengawal Kerajaan telah dibantai oleh musuh yang memegang Pedang Iblis. Di tengah mara bahaya, Mir teringat mantra yang diajarkan oleh ayahnya. Legenda mengatakan bahwa sang Kaisar Celestial memiliki seorang putri muda yang namanya tidak dikenal oleh dunia; dia sekarang memiliki tubuh Weiyang dan mengungkapkan dirinya. Siapakah yang akan menang? Pemegang Pedang Iblis yang telah berubah menjadi monster ganas? Atau Mir yang tidak memiliki pengalaman bertarung?",
+        "jp": "征刀の旅に出た弥耳は、すぐに空前絶後の危機に遭遇した。金吾、羽林の精鋭は賊人と邪剣に倒された。危機一髪、弥耳は父親に教えてもらった光禄寺の密呪を思い出した。伝説によると、天帝には娘が一人いて、名前は明らかにされていない——その時、彼女は未央の体を使って、目の前に姿を現した。悪鬼となった賊人と邪剣、そして鶏しか殺せない弥耳、その勝負はいかに！？",
+        "kr": "어쩌다 보니 검을 찾는 여정에 오른 미르. 얼마 지나지도 않아 공전의 위기에 봉착한다. 금오와 우림군 정예는 도적의 마검에 목숨을 잃는다. 위기의 순간, 미르는 부친에게 물려받은 광록사 비문을 떠올린다. 천제에게 이름이 알려지지 않는 딸이 있었는데, 이때 그녀가 눈앞에 있는 미앙의 몸을 차지하여 앞에 나타난다. 악귀가 되어버린 도적과 마검, 이에 맞서는 겨우 닭 정도 잡는 미르, 과연 승부는 어떻게 될까?",
+        "pt": "Mir, tendo tropeçado na jornada para recuperar as espadas por acidente, encontrou uma enorme crise antes mesmo de a jornada começar. As elites da Guarda Imperial e da Escolta Imperial foram mortas por inimigos segurando as Espadas da Eresia. Em meio ao perigo, Mir lembrou-se de um feitiço ensinado pelo seu pai. Diz a lenda que o Imperador Celestial tem uma filha jovem cujo nome não era conhecido no mundo. Agora, ela possuía o corpo de Weiyang e se revelou. Quem prevaleceria? Os manejadores das Espadas Sinistras que se transformaram em demônios ferozes? Ou Mir, que de alguma forma poderia se defender em uma briga?",
+        "ru": "Миар, случайно впутавшийся в приключения и поиски мечей, столкнулся с проблемами ещё до того, как началось его приключение. Используя мечи Бисе, его враги расправились с имперской стражей и элитным имперским эскортом. В минуты смертельной опасности Миар вспомнил заклинание, которому его научил отец. Согласно легенде, юная дочь Небесного Императора, имя чьё никому неизвестно, стала обладательницей тела Вэйян. Кто же победит? Владельцы мечей Бисе, которые превратились в свирепых демонов? Или Миар, который едва мог постоять за себя в бою?",
+        "th": "Mir ซึ่งหลงก้าวเดินไปในเส้นทางที่ อันตราย พร้อมที่จะต้องเผชิญกับวิกฤตตลอดเวลา ทหารหลวงและทหารองครักษ์ต่างก็ถูกฟันด้วยดาบมารจากขโมย ในช่วงเวลาวิกฤตนั้น Mir ก็นึกถึงคำสาปที่พ่อของเธอถ่ายทอดให้ขึ้นมาได้ ในตำนานเล่าว่าจักรพรรดิแห่งสวรรค์มีลูกสาวตัวเล็ก ๆ อยู่ ชื่อนั้นไม่ได้ถูกพูดถึง... ซึ่งในขณะนี้เธอครอบครองร่างกาย ของ Weiyang และปรากฏตัวอยู่ตรงหน้า โจรกับดาบมารซึ่งได้กลายเป็นวิญญาณชั่วเมื่อเผชิญหน้ากับ Mir แล้วจะเอาชนะได้อย่างไร?",
+        "vi": "Trong phút chốc sai lầm, Mir phải dấn thân vào chuyến hành trình đầy gươm đao này, gặp phải nguy hiểm cận kề. Kim Ngô và Vũ Lâm tài giỏi như vậy lại bị tà kiếm trong tay đạo tặc hạ gục. Trong lúc nguy cấp, Mir nhớ đến thần chú Quang Lộc Tự được bố truyền lại. Truyền thuyết nói rằng, Thiên Đế có một người con gái, không ai biết rõ tên thật của cô. Lúc này cô lại chiếm lấy thân thế trướng mắt Weiyang mà xuất hiện. Tên đạo tặc cùng thanh tà kiếm đã biến thành ác quỷ, đối mặt với một thư sinh trói gà không chặt như Mir, sẽ ra sao đây?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

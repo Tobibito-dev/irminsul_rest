@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stained Mask",
+        "de": "Verdreckte Maske",
+        "chs": "污秽的面具",
+        "cht": "汙穢的面具",
+        "es": "Máscara sucia",
+        "fr": "Masque sale",
+        "id": "Stained Mask",
+        "jp": "汚れた仮面",
+        "kr": "오염된 가면",
+        "pt": "Máscara Suja",
+        "ru": "Грязная маска",
+        "th": "Stained Mask",
+        "vi": "Mặt Nạ Bẩn"
+    },
+    "id": 112006,
+    "materialDesc": {
+        "en": "A bone mask, covered in unidentifiable stains, that emanates a mysterious odor.\\nYet such is the devotion of hilichurls to masks that they will wear it nonetheless.",
+        "de": "Eine vollkommen mit Dreck übersäte knöcherne Maske, die einen unsäglichen Geruch verströmt.\\nSelbst in diesem Zustand ist sie unabdingbar für das Leben als Hilichurl.",
+        "chs": "沾满了难以辨认的污渍，散发着微妙气味的骨质面具。\\n即使这样也要戴在脸上，这就是丘丘人的执着。",
+        "cht": "沾滿了難以辨認的污漬，散發著微妙氣味的骨質面具。\\n即使這樣也要戴在臉上，這就是丘丘人的執著。",
+        "es": "Totalmente cubierta de tierra, libera un sutil olor a huesos.\\nSin embargo, los Hilichurls siguen poniéndosela.",
+        "fr": "Un masque en os taché par une substance non identifiée qui dégage une odeur étrange.\\nUn Brutocollinus le porterait même dans cet état.",
+        "id": "Topeng tulang yang dipenuhi noda dan sedikit bau.\\nMeskipun dirancang untuk digunakan di muka, hanya seorang Hilichurl yang akan memakainya.",
+        "jp": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
+        "kr": "알아볼 수도 없는 얼룩들이 가득하고 이상한 냄새를 풍기는 골질 마스크.\\n그런데도 착용하다니 츄츄족의 집착은 대단하다",
+        "pt": "Totalmente coberta de sujeira, liberando um cheiro sutil de ossos.\\nContudo, ainda assim, o Hilichurl a usa em seu rosto.",
+        "ru": "Костяная маска со слабым запахом, покрытая странными пятнами.\\nХоть и предназначена для лица, но только хиличурл может носить подобное.",
+        "th": "หน้ากากที่เต็มไปด้วยคราบต่างๆ จนดูไม่ออกเลยว่ามันคือหน้ากากที่ทำมาจากกระดูก มีกลิ่นหอมอ่อนๆ ออกมาด้วย\\nต้องยอมสวมมัน เพราะพวก Hilichurl เคร่งครัดเรื่องหน้ากากมาก",
+        "vi": "Bị dính nhiều chất bẩn, tỏa ra mùi khó chịu.\\nDù là vậy vẫn đeo lên mặt, người Hilichurl thật ngoan cố."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

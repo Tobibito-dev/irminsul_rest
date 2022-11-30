@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Shawarma Wrap",
+        "de": "Misslungene Schawarma-Rolle",
+        "chs": "奇怪的烤肉卷",
+        "cht": "奇怪的烤肉卷",
+        "es": "Rollos de shawarma extraños",
+        "fr": "Shawarma (suspect)",
+        "id": "Suspicious Shawarma Wrap",
+        "jp": "微妙なシャワルマサンド",
+        "kr": "이상한 샤와르마",
+        "pt": "Rolinho Shawarma Estranho",
+        "ru": "Странная шаурма",
+        "th": "Shawarma Wrap รสประหลาด",
+        "vi": "Cuốn Shawarma Kỳ Lạ"
+    },
+    "id": 108394,
+    "materialDesc": {
+        "en": "A wrap filled with roasted meat. The meat has been burnt as dark as charcoal. One may officially declare the dish to be hopeless, no matter how one might perfect the pastry shell... Carelessness, it seems, is always an awful ingredient for making food.",
+        "de": "In Fladenbrot gerolltes Grillfleisch. Das verkohlte Grillfleisch wirkt wie Holzkohle und ist nicht mehr zu retten ... Man sollte sich bei der Zubereitung von Speisen wohl nie zu sehr ablenken lassen.",
+        "chs": "以烤肉为馅的卷饼。焦黑的烤肉宛如木炭一般，就算饼皮再完美也无法拯救了…看来无论哪一部分都容不得分心呀。",
+        "cht": "以烤肉為餡的捲餅。焦黑的烤肉宛如木炭一般，就算餅皮再完美也無法拯救了…看來無論哪一部分都容不得分心呀。",
+        "es": "Rollos rellenos de carne a la parrilla. La carne chamuscada parece carbón y ni siquiera la corteza perfecta del rollito podría salvarla. No parece muy apetitoso.",
+        "fr": "De la viande grillée enroulée dans une galette. La viande a été tellement cuite qu'elle ressemble à du charbon de bois, même la texture parfaite de la galette ne parvient pas à sauver les meubles... Lorsqu'il est question de cuisiner, la négligence n'est permise à aucun moment.",
+        "id": "Roti bungkus yang berisi daging panggang. Dagingnya gosong bagaikan arang hitam. Meskipun rotinya sempurna, tapi makanan ini sudah tak terselamatkan ... Sepertinya kecerobohan memang tidak cocok dimasukkan ke dalam resep mana pun.",
+        "jp": "ローストミートをたっぷり入れたシャワルマ。焦げた肉はまるで炭のようで、完璧にできた皮があっても救いようがない…どの部分も気を抜いてはいけないらしい。",
+        "kr": "구운 고기가 들어간 샤와르마. 숯불을 연상케 하는 까맣게 탄 고기는 아무리 완벽한 전병으로 감쌀지라도 구제할 수 없다…. 모든 재료에 주의를 기울여야 할 듯하다",
+        "pt": "Um rolinho cheio de carne assada. A carne foi queimada até ficar parecendo um pedaço de carvão. Alguém até diria que esse prato não tem salvação, mesmo que a massa do rolinho esteja perfeita... O descuido, ao que parece, é sempre um ingrediente horrível para a preparação de alimentos.",
+        "ru": "Жареное мясо, завёрнутое в лепёшку. Ломтики мяса сплошь чёрные, словно угольки, и даже самая распрекрасная лепёшка тут не поможет... Видно, ни одно блюдо не прощает повару небрежности.",
+        "th": "แป้งห่อไส้เนื้อย่าง เนื้อย่างที่ไหม้เกรียมจนดำสนิทราวกับถ่าน แม้ว่าแป้งห่อจะสมบูรณ์แบบเพียงใดก็คงไร้ทางเยียวยา... ไม่ว่าส่วนไหนก็ดูเหมือนจะมองข้ามไม่ได้เลย",
+        "vi": "Một chiếc bánh cuộn nhân thịt nướng. Thịt nướng cháy như than, vỏ bánh dù hoàn hảo đến đâu cũng không thể cứu vãn được... Có vẻ như cần phải ăn một cách cẩn thận ở bất cứ đâu."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

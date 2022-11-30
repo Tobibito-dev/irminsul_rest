@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scarab",
+        "de": "Skarabäus",
+        "chs": "圣金虫",
+        "cht": "聖金蟲",
+        "es": "Escarabajo dorado",
+        "fr": "Scarabée",
+        "id": "Scarab",
+        "jp": "聖金虫",
+        "kr": "황금 스카라브",
+        "pt": "Escaravelho Dourado",
+        "ru": "Скарабей",
+        "th": "Scarab",
+        "vi": "Bọ Thánh Kim"
+    },
+    "id": 101225,
+    "materialDesc": {
+        "en": "A tenacious beetle that finds repose within the vast ocean of desert sand. The golden pattern on such beetles' shells hints at some deep relationship between them and the ancient ruins that dot the desert.",
+        "de": "Ein in den Weiten des Sandmeeres lebender, hartnäckiger Käfer. Die goldenen Muster auf seinem Panzer scheinen auf eine enge Verbindung mit den überall in der Wüste verstreuten uralten Ruinen hinzudeuten.",
+        "chs": "栖息在浩瀚沙海之中的顽强甲虫。甲壳上的金色纹路似乎暗示着它们与遍布沙漠的古老遗迹间存在某种渊源。",
+        "cht": "棲息在浩瀚沙海之中的頑強甲蟲。甲殼上的金色紋路似乎暗示著它們與遍佈沙漠的古老遺蹟間存在某種淵源。",
+        "es": "Un tenaz escarabajo que habita en el vasto mar de arena del desierto. Los patrones dorados de su caparazón parecen tener cierta conexión con las antiguas ruinas distribuidas por todo el desierto.",
+        "fr": "Un coléoptère tenace qui trouve le repos dans le vaste océan de sable du désert. Le motif doré sur la coquille de ces coléoptères fait allusion à une relation profonde entre ces derniers et les ruines antiques qui parsèment le désert.",
+        "id": "Kumbang tangguh yang menghuni lautan pasir yang luas. Di atas cangkangnya terdapat pola yang menyerupai reruntuhan kuno di padang pasir, seolah menunjukkan bahwa ada kaitan erat di antara keduanya.",
+        "jp": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
+        "kr": "드넓은 모래바다에서 서식하는 억센 갑충. 금색 무늬 갑각은 사막 전역에 흩어져 있는 고대 유적과의 어떤 관련성을 암시하는 듯하다",
+        "pt": "Um besouro tenaz que habita o vasto mar de areia do deserto. Os padrões dourados em sua carapaça parecem ter alguma conexão com as antigas ruínas espalhadas pelo deserto.",
+        "ru": "Жук, который находит покой в огромном океане песков. Золотой узор на панцире намекает на его глубокую связь с древними руинами, которыми усеяна пустыня.",
+        "th": "ด้วงสุดแกร่งที่อาศัยอยู่ในทะเลทรายอันกว้างใหญ่ ลวดลายสีทองที่อยู่บนเปลือกดูเหมือนจะบ่งบอกถึงความสัมพันธ์บางอย่างระหว่างพวกมันและโบราณสถานที่กระจัดกระจายอยู่ทั่วผืนทะเลทราย",
+        "vi": "Một loài bọ cánh cứng ngoan cường sống trên biển cát rộng lớn. Đường vân màu vàng trên vỏ dường như gợi ý một số liên quan đến các di tích cổ nằm rải rác trên sa mạc."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

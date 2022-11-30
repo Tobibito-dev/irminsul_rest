@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Treasure Map Fragment",
+        "de": "Fragment einer Schatzkarte",
+        "chs": "藏宝图碎片",
+        "cht": "藏寶圖碎片",
+        "es": "Fragmento de mapa del tesoro",
+        "fr": "Morceau de carte au trésor",
+        "id": "Sobekan Peta Harta Karun",
+        "jp": "宝の地図の断片",
+        "kr": "보물지도 조각",
+        "pt": "Fragmento de um Mapa do Tesouro",
+        "ru": "Фрагмент карты сокровищ",
+        "th": "ชิ้นส่วนแผนที่ขุมทรัพย์",
+        "vi": "Mảnh Bản Đồ Kho Báu"
+    },
+    "id": 101620,
+    "materialDesc": {
+        "en": "A fragment of a larger map that seems to indicate the location of treasure.\\nIf you can find the other fragment, that should complete the picture.",
+        "de": "Ein Fragment, das offenbar zu einer Schatzkarte gehört.\\nWenn es dir gelingt, das andere Fragment zu finden, kannst du sie vielleicht zu einer kompletten Karte zusammensetzen.",
+        "chs": "地图的碎块，似乎出自一张完整的藏宝图。\\n如果能够寻得另一块的话，大概就能拼成完整的一张吧。",
+        "cht": "地圖的碎塊，似乎出自一張完整的藏寶圖。\\n如果能夠尋得另一塊的話，大概就能拼成完整的一張吧。",
+        "es": "Un fragmento que parece pertenecer a un mapa del tesoro.\\nSi lograras encontrar el fragmento restante, quizás puedas unirlos para obtener el mapa completo.",
+        "fr": "Un morceau d'une carte qui semble indiquer l'emplacement d'un trésor.\\nVous pourrez obtenir la carte complète en trouvant l'autre morceau restant.",
+        "id": "Sebuah potongan dari peta lebih besar yang tampaknya menunjukkan lokasi harta karun.\\nKalau kamu bisa menemukan potongan yang lain, barangkali bisa digabungkan menjadi sebuah peta yang utuh.",
+        "jp": "地図の断片。もともとは宝の地図だったようだ。\\n残りの切れ端を見つけて繋げれば、完全な地図になるだろう。",
+        "kr": "지도의 조각, 완전한 보물지도의 조각인 듯하다.\\n다른 한 조각을 찾을 수 있다면 완전한 보물지도를 획득할 수 있을지도 모른다",
+        "pt": "Um fragmento de mapa, parece vir de um Mapa do Tesouro completo.\\nSe sua outra parte for encontrada, talvez seja possível completar o mapa inteiro.",
+        "ru": "Фрагмент, который, похоже, является частью карты сокровищ.\\nНайдите другой фрагмент, чтобы собрать карту сокровищ.",
+        "th": "ชิ้นส่วนของแผนที่ที่ดูเหมือนจะมาจากแผนที่ขุมทรัพย์ที่สมบูรณ์ \\nถ้าคุณสามารถหาชิ้นอื่น ๆ ได้ คุณก็อาจจะสร้างแผนที่ที่สมบูรณ์ได้",
+        "vi": "Mảnh bản đồ, hình như là của một tấm bản đồ kho báu hoàn chỉnh.\\nNếu có thể tìm được mảnh còn lại chắc sẽ ghép được một bản đồ hoàn chỉnh."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

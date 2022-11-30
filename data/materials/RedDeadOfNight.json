@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Red Dead of Night",
+        "de": "Blutrote Nacht",
+        "chs": "殷红终夜",
+        "cht": "殷紅終夜",
+        "es": "Noche carmesí",
+        "fr": "Nuit écarlate",
+        "id": "Red Dead of Night",
+        "jp": "レッドデッド·オブ·ナイト",
+        "kr": "진홍빛 종야",
+        "pt": "Vermelho Escarlate da Noite",
+        "ru": "Алая ночь",
+        "th": "เพลิงมหันต์รัตติกาล",
+        "vi": "Màn Đêm Đỏ Thẫm"
+    },
+    "id": 340004,
+    "materialDesc": {
+        "en": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.",
+        "de": "Eines der Kleidungsstücke, die Diluc auf seinen Geheimmissionen zu tragen pflegt, wie eine im Dunkeln tanzende Flamme. Das letzte bisschen Blutrot, das Feinde zu Gesicht bekommen und vor dem sie bis an ihr Lebensende unauslöschliche Albträume bekommen.",
+        "chs": "迪卢克隐秘行动时所穿的衣装之一，如阴影之中翻腾的火焰。敌人视野尽头所留下的殷红残痕，即是他们余生挥之不去的梦魇。",
+        "cht": "迪盧克隱秘行動時所穿的衣裝之一，如陰影之中翻騰的火焰。敵人視野盡頭所留下的殷紅殘痕，即是他們餘生揮之不去的夢魘。",
+        "es": "Una de las vestimentas que usa Diluc durante sus operaciones secretas. Es como un gran fuego que crepita entre las sombras. El recuerdo del rastro carmesí que deja tras de sí causa pesadillas a sus enemigos para el resto de sus vidas.",
+        "fr": "Une tenue que Diluc porte lorsqu'il part en mission secrète. Elle ressemble à une flamme dansante dans l'ombre dont les traces écarlates hanteront les nuits des ennemis pour le restant de leurs jours.",
+        "id": "Salah satu pakaian Diluc yang dia pakai saat beroperasi dalam rahasia, bagaikan kobaran api dalam gelapnya bayangan. Bekas luka berwarna merah merona di ujung penglihatan para musuh adalah mimpi buruk di sisa hidup mereka.",
+        "jp": "ディルックが隠密行動をする際に着る衣装の一つ。それはまるで、影の中で燃える炎のよう。敵の目に焼き付いた深紅の残痕は、彼らに消えることのない悪夢を植え付ける。",
+        "kr": "다이루크가 은밀한 행동을 할 때 착용하는 코스튬 중 하나. 그림자 속에서 활활 타오르는 불꽃과도 같다. 적의 시야 끝에 진홍빛 잔흔을 남겨서 영원히 잊지 못할 악몽을 선사한다",
+        "pt": "Uma das vestimentas que Diluc usa durante suas operações secretas, ela lembra uma chama dançando em meio a escuridão. Os rastros carmesins que ela deixa para trás nos cantos da visão dos inimigos os traumatizará e causará pesadelos para sempre.",
+        "ru": "Один из костюмов, который Дилюк надевает во время работы под прикрытием. Он напоминает пламя, бушующее в тени. Багрово-красные следы, которые он оставляет за собой по краям поля зрения врагов, станут их вечным кошмаром на всю оставшуюся жизнь.",
+        "th": "หนึ่งในชุดที่ Diluc สวมใส่เมื่อออกปฏิบัติการลับ ราวกับเปลวไฟที่ลุกโชนท่ามกลางเงามืด ร่องรอยสีแดงเข้มที่สุดปลายทัศนวิสัยของศัตรู คือฝันร้ายที่จะคงอยู่กับพวกเขาไปตลอดชีวิต",
+        "vi": "Một trong những bộ trang phục mà Diluc đã mặc khi bí mật hành động, trông như ngọn lửa bùng cháy trong bóng tối. Dấu vết đỏ thẫm lưu lại trong tầm mắt của kẻ địch, cũng chính là cơn ác mộng mà chúng không thể nào quên được trong suốt phần đời còn lại."
+    },
+    "materialType": "MATERIAL_COSTUME"
+}

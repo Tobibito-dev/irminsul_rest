@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Transcription from a stone tablet",
+        "de": "Von einer Steintafel abgeschriebener Text",
+        "chs": "从石碑上抄下来的文字",
+        "cht": "從石碑上抄下來的文字",
+        "es": "Transcripción de estela",
+        "fr": "Copie de l'inscription d'une stèle",
+        "id": "Transkripsi dari Tablet Batu",
+        "jp": "石碑を写した文字",
+        "kr": "비석에서 베낀 글",
+        "pt": "Transcrição de uma Placa de Pedra",
+        "ru": "Текст с каменной таблички",
+        "th": "ตัวอักษรที่คัดลอกมาจากป้ายหิน",
+        "vi": "Văn Tự Sao Chép Từ Bia Đá"
+    },
+    "id": 100464,
+    "materialDesc": {
+        "en": "\"...And the assembly was named Guili after the names of the two gods...\"\\nThe transcript seems to be a record of some event...",
+        "de": "„[...] Und aus den ersten Silben ihrer beiden Namen wurde der Ort Guili getauft [...]“\\nVon einer Steinplatte abgeschriebener Text. Es scheint um Ereignisse zu gehen, die sich vor langer Zeit zugetragen haben.",
+        "chs": "「…取二神之名，号此集为『归离』…」\\n从石碑上抄下来的文字，似乎是在记录着什么事…",
+        "cht": "「…取二神之名，號此集為『歸離』…」\\n從石碑上抄下來的文字，似乎是在記錄著什麼事…",
+        "es": "“Esta congregación recibió el nombre de Guili, el cual provenía de la combinación de los nombres de los dos dioses”.\\nAl parecer, el texto es el registro de algún evento...",
+        "fr": "« ... Et ainsi naquit le nom Guili, tiré du nom des deux déités... »\\nCela ressemble au récit d'un événement...",
+        "id": "\"...dan dinamakanlah tempat tersebut Guili, diambil dari nama kedua dewa tersebut...\"\\nTranskripsi ini sepertinya adalah riwayat dari sebuah peristiwa...",
+        "jp": "「…二柱の神の名とりて、此の地『帰離』と名付けき…」\\n石碑を写した文字、何かの記録のようだ…",
+        "kr": "「…두 신의 이름을 따서 이를 『귀리』라 하였다….」\\n비석에서 베낀 글. 무언가를 기록하고 있는 듯하다…",
+        "pt": "\"...E a assembleia recebeu o nome de Guili, em homenagem aos nomes dos dois deuses...\"\\nA transcrição parece ser um registro de algum evento...",
+        "ru": "«...И союз их был назван \"Гуйли\", по именам обоих богов...»\\nПохоже, на этой табличке записано какое-то событие...",
+        "th": "\"...ใช้นามของเทพทั้งสอง ตั้งชื่อชุมชนแห่งนี้เป็น Guili...\"\\nตัวอักษรที่คัดลอกมาจากป้ายหินนี้ ดูเหมือนจะบันทึกเรื่องอะไรเอาไว้...",
+        "vi": "\"... Lấy tên của hai thần, gọi đây là Quy Li...\" \\nVăn tự sao chép từ bia đá dường như truyền tải điều gì đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

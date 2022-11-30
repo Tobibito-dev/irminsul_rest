@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rukkhashava Mushrooms",
+        "de": "Rukkhashava-Pilz",
+        "chs": "树王圣体菇",
+        "cht": "樹王聖體菇",
+        "es": "Champiñón rukkhashava",
+        "fr": "Champignon sacramental",
+        "id": "Rukkhashava Mushroom",
+        "jp": "ルッカデヴァータダケ",
+        "kr": "룩카데바타 성체 버섯",
+        "pt": "Cogumelo Rukkhashava",
+        "ru": "Грибы руккхашава",
+        "th": "Rukkhashava Mushroom",
+        "vi": "Nấm Thánh Rukkhashava"
+    },
+    "id": 101213,
+    "materialDesc": {
+        "en": "A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest. Therefore, they are considered by the people of Sumeru to be the holy crystallization of Rukkhadevata's legacy.",
+        "de": "Wie die Wolken türmen sich diese Pilze Schicht für Schicht übereinander. Die meisten davon leben parasitär in der Tiefe des Waldes an Bäumen. Daher betrachten die Einwohner von Sumeru sie als den zurückgelassenen heiligen Körper der Höheren Herrin Rukkhadevata.",
+        "chs": "如云海般层层叠叠生长的菌类，大多寄生于雨林深处的乔木之上，因此被须弥人视为树王遗德熏结而出的圣体。",
+        "cht": "如雲海般層層疊疊生長的菌類，大多寄生於雨林深處的喬木之上，因此被須彌人視為樹王遺德薰結而出的聖體。",
+        "es": "Un hongo que crece en capas, como si de un mar de nubes se tratara. La mayoría de estos hongos extraños crecen en los troncos de los árboles situados en las zonas más profundas de la selva. Por eso, la gente de Sumeru los considera la sagrada encarnación del legado de la mismísima Rukkhadevata.",
+        "fr": "Un champignon qui pousse en couches successives telle une mer de nuages et que l'on trouve principalement sur les arbres au cœur de la forêt tropicale. Les habitants de Sumeru les considèrent comme la cristallisation sacrée de l'héritage de Rukkhadevata.",
+        "id": "Jamur yang tumbuh berlapis-lapis seperti lautan awan, dan kebanyakan tumbuh di pepohonan yang jauh di dalam hutan hujan. Oleh karena itu, mereka dianggap oleh masyarakat Sumeru sebagai kristalisasi suci warisan dari Rukkhadevata.",
+        "jp": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えているため、スメール人はこれをマハールッカデヴァータの遺した恩恵によって創られた聖体と見なしている。",
+        "kr": "구름바다처럼 겹겹이 자라는 균류. 대부분 우림 깊숙한 곳에 있는 교목에 기생하기 때문에 수메르 사람들에게 룩카데바타가 남긴 기운이 깃든 성체(圣体)라고 여겨진다",
+        "pt": "Um cogumelo que cresce em camadas, como um mar de nuvens. Normalmente cresce nas árvores das profundezas da floresta tropical. Por isso, o povo de Sumeru o considera a encarnação do legado da Lorde Maior Rukkhadevata.",
+        "ru": "Растут слоями, напоминая гряду облаков. Чаще всего паразитируют на деревьях в тропических лесах, поэтому сумерцы считают их кристаллизованным наследием Руккхадеваты.",
+        "th": "เชื้อราที่เติบโตขึ้นทีละชั้นราวกับทะเลเมฆ ส่วนใหญ่เป็นกาฝากที่อยู่บนต้นไม้ในป่าฝน ดังนั้นชาว Sumeru จึงถือว่ามันคือร่างศักดิ์สิทธิ์ที่ก่อกำเนิดขึ้นโดยท่านหญิง Rukkhadevata",
+        "vi": "Loại nấm mọc từng lớp như biển mây, phần lớn ký sinh trên các thân cây ở sâu trong rừng mưa, vì vậy được người dân Sumeru coi là thánh thể kết tinh của Rukkhadevata."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

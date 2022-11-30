@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Mondstadt Tower (I)",
+        "de": "Der Turm von Mondstadt – Band I",
+        "chs": "蒙德高塔·第一卷",
+        "cht": "蒙德高塔·第一卷",
+        "es": "La torre de Mondstadt (I)",
+        "fr": "La Tour de Mondstadt - Tome I",
+        "id": "Gedung Tinggi Mondstadt (I)",
+        "jp": "モンドタワー·1",
+        "kr": "몬드의 고탑·제1권",
+        "pt": "A Torre de Mondstadt (I)",
+        "ru": "Башня Мондштадта. Том I",
+        "th": "หอคอย Mondstadt (I)",
+        "vi": "Tháp Mondstadt (I)"
+    },
+    "id": 100208,
+    "materialDesc": {
+        "en": "In the age of depression and tyranny, the outlander girl met the ominous orphan. Does this fateful encounter foretell a tragic ending?\\nThe historic romance novel, The Mondstadt Tower, begins!",
+        "de": "Während der Tyrannei der Aristokraten trafen ein Mädchen aus der Fremde und eine Waise vor dem großen Turm aufeinander. Wird diese Begegnung ein schlimmes Ende nehmen?\\nDies ist der elegant geschriebene historische Roman „Der Turm von Mondstadt“.",
+        "chs": "贵族暴政的沉郁时代，异域少女与身负噩兆的孤儿在高塔前的相遇，两人的邂逅是否预示着注定悲剧的结局？\\n瑰丽的历史小说，《蒙德高塔》，大幕揭开！",
+        "cht": "貴族暴政的沉鬱時代，異域少女與身負惡兆的孤兒在高塔前的相遇，兩人的邂逅是否預示著註定悲劇的結局？\\n瑰麗的歷史小說，《蒙德高塔》，大幕揭開！",
+        "es": "En los años de represión y tiranía, la chica aventurera se encontró con el siniestro huérfano. ¿Podría esta reunión del destino terminar en un trágico final?\\n«La torre de Mondstadt», ¡una nueva historia ha comenzado!",
+        "fr": "À une époque où le peuple était opprimé par la tyrannie de la noblesse, le chemin de la jeune étrangère croisa celui de l'orphelin maudit. Cette rencontre aura-t-elle un dénouement funeste ?\\n« La Tour de Mondstadt », le roman d'amour historique par excellence !",
+        "id": "Zaman pemberontakan dan keterpurukan, sang wanita pendatang bertemu dengan anak yatim piatu yang kelam di depan menara. Apakah pertemuan ini akan membawa akhir yang tragis?\\nNovel romansa terindah sepanjang sejarah, Gedung Tinggi Mondstadt, dimulai!",
+        "jp": "貴族の圧政による抑圧された時代、外国の少女と不吉な兆しを背負った孤児がタワーの前で出会った。二人の出会いは悲劇的な結末を予兆しているのだろうか？ \\n美しい歴史小説、『モンドタワー』、堂々登場！",
+        "kr": "귀족의 폭정으로 암울한 시대, 이방의 소녀와 흉조로 얼룩진 고아가 고탑 앞에서 마주친다. 두 사람의 만남은 과연 비극적인 결말을 암시하는 것일까?\\n아름다운 역사소설 《몬드의 고탑》의 서막이 열린다!",
+        "pt": "Nos anos de depressão e tirania, a garota aventureira se encontrou com o órfão sinistro. Será que esse encontro do destino poderá terminar em um fim trágico?\\nA história de um romance, A Torre de Mondstadt, começou!",
+        "ru": "В эпоху депрессии и тирании девушка чужестранка встретила зловещего сироту. Не предвещает ли эта судьбоносная встреча трагический конец?\\nИсторический роман Башня Мондштадта, начало.",
+        "th": "ในยุคแห่งความเศร้าและความโหดร้าย สาวน้อยจากแดนไกลได้พบกับเด็กกำพร้าแห่งลางร้าย การพบกันแห่งโชคชะตานี้จะมีจุดจบที่โหดร้ายหรือไม่?\\nนวนิยายประวัติศาสตร์สุดโรแมนซ์ \"หอคอย Mondstadt\" ได้เริ่มขึ้นแล้ว!",
+        "vi": "Thời kỳ quý tộc lộng hành, thiếu nữ dị tộc và cô nhi mang lời nguyền gặp nhau ở tòa tháp cao, sự tương ngộ này có phải điềm báo cho kết cuộc bi thương?\\nTiểu thuyết lịch sử tráng lệ \"Tháp Mondstadt\", mở màn!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

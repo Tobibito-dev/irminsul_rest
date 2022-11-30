@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Henna Berry",
+        "de": "Hennabeere",
+        "chs": "赤念果",
+        "cht": "赤念果",
+        "es": "Añoraescarlata",
+        "fr": "Quandong",
+        "id": "Redcrest",
+        "jp": "赤念の実",
+        "kr": "적념과",
+        "pt": "Bagas de Espinheiro",
+        "ru": "Красноплодник",
+        "th": "Henna Berry",
+        "vi": "Quả Xích Niệm"
+    },
+    "id": 101220,
+    "materialDesc": {
+        "en": "A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.",
+        "de": "Die Früchte einer Pflanze, die auch unter den widrigen Bedingungen der Wüste überleben kann. Der starke Kontrast zwischen gelbem Wüstensand und kräftig roten Früchten rührt die Betrachter sehr.",
+        "chs": "在恶劣的沙漠环境中也能存活的植物所结的果子，赤红的果实在黄沙映衬下显得格外动人。",
+        "cht": "在惡劣的沙漠環境中也能存活的植物所結的果子，赤紅的果實在黃沙映襯下顯得格外動人。",
+        "es": "El fruto de una planta que es capaz de sobrevivir hasta en el inhóspito entorno del desierto. Este fruto escarlata se ve incluso más impresionante con el contraste de las arenas doradas del desierto.",
+        "fr": "Un fruit qui pousse même dans les environnements désertiques les plus hostiles. Ces fruits pourpres vibrants sont rendus encore plus beaux sur un fond de sable jaune.",
+        "id": "Buah yang tumbuh bahkan di lingkungan padang pasir yang paling kejam sekalipun. Warna merahnya benar-benar terlihat sangat menyentuh jika dipadukan dengan latar pasir berwarna kuning di belakangnya.",
+        "jp": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
+        "kr": "열악한 사막 환경에서도 살아남는 식물의 열매로, 새빨간 열매가 황사에 비추어 유난히 돋보인다",
+        "pt": "Uma fruta que cresce mesmo no ambiente hostil do deserto. Este fruto escarlate fica ainda mais impressionante sob o contrates das areias douradas do deserto.",
+        "ru": "Фрукт, который растёт даже в самых неблагоприятных условиях пустыни. Его яркие малиновые плоды выглядят ещё прекраснее на фоне жёлтого песка.",
+        "th": "ผลของพืชที่เติบโตในทะเลทรายที่มีสภาพแวดล้อมแสนเลวร้าย ผลสีแดงสดโดดเด่นสะดุดตาท่ามกลางผืนทรายสีเหลืองที่เป็นฉากหลัง",
+        "vi": "Quả của một loại cây có thể sinh tồn trong môi trường khắc nghiệt của sa mạc, những trái màu đỏ thẫm rực rỡ của nó càng trở nên bắt mắt hơn trên nền cát vàng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fruit & Veg Market",
+        "de": "Obst- und Gemüsemarkt",
+        "chs": "应有尽有的果蔬市场",
+        "cht": "應有盡有的果蔬市場",
+        "es": "Mercado de frutas y verduras",
+        "fr": "Marché de fruits et légumes",
+        "id": "Pasar Buah & Sayuran",
+        "jp": "なんでも売ってる青果市場",
+        "kr": "없는 게 없는 과채시장",
+        "pt": "Mercado que tem Todas as Frutas e Vegetais",
+        "ru": "Фруктово-овощной рынок",
+        "th": "ตลาดผักและผลไม้ทุกชนิด",
+        "vi": "Chợ Rau Quả Phong Phú"
+    },
+    "id": 350020,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up a \"Fruit & Veg Market.\"\\nThis market comes with quite a few stores. The fruits that people often buy can be found at this sort of place.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Obst- und Gemüsemarkt“.\\nDieser Markt bietet eine ganze Reihe von Geschäften. Die von den Leuten oft gekauften Früchte können an einem solchen Ort gefunden werden.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「应有尽有的果蔬市场」的放置方法。\\n设有多个摊位的果蔬市场，普通人家经常购买的果蔬，大多能在这种市场找到。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「應有盡有的果蔬市場」的放置方法。\\n設有多個攤位的果蔬市場，普通人家經常購買的果蔬，大多能在這種市場找到。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar un Mercado de frutas y verduras.\\nEste mercado cuenta con varios puestos. En él se puede encontrar la fruta y la verdura que más suele comprar la gente.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place du marché de fruits et légumes.\\nCe marché comprend plusieurs étals. C'est là qu'on trouve les fruits et légumes que la plupart des gens achètent.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Pasar Buah & Sayuran\".\\nPasar ini terdiri dari beberapa toko. Buah-buahan yang sering dibeli orang dapat ditemukan di sini.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「なんでも売ってる青果市場」の詳しい配置方法が載っている設計図。\\n屋台が並ぶ青果市場。一般家庭がよく買う野菜や果物のほとんどがここで手に入れられる。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「없는 게 없는 과채시장」의 설치 방법이 기재되어 있다.\\n여러 노점이 있는 과일 및 채소 시장, 일반 사람들이 자주 사는 과일과 채소의 대부분은 이 시장에서 찾을 수 있다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Mercado que tem Todas as Frutas e Vegetais\".\\nEste mercado vem com algumas lojas. As frutas que as pessoas costumam comprar podem ser encontradas neste tipo de lugar.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Фруктово-овощной рынок».\\nРынок представлен несколькими торговыми точками. Здесь можно найти большинство овощей и фруктов, которые регулярно покупают горожане.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"ตลาดผักและผลไม้ทุกชนิด\" \\nตลาดผลไม้และผักที่มีแผงขายของมากมาย ผักและผลไม้ส่วนใหญ่ที่คนทั่วไปซื้อมักจะหาได้จากตลาดนี้\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Chợ Rau Quả Phong Phú\".\\nChợ rau quả trái cây với nhiều gian hàng, những loại rau quả mà người ta thường mua đều sẽ được tìm thấy ở chợ này.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

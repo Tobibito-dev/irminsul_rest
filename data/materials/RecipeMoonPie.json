@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Moon Pie",
+        "de": "Rezept: Mondkuchen",
+        "chs": "食谱：月亮派",
+        "cht": "食譜：月亮派",
+        "es": "Receta: Pastelillo de luna",
+        "fr": "Recette : Tourte de lune",
+        "id": "Resep: Moon Pie",
+        "jp": "レシピ：ムーンパイ",
+        "kr": "레시피: 달빛 파이",
+        "pt": "Receita: Torta da Lua",
+        "ru": "Рецепт: Лунный пирог",
+        "th": "สูตรอาหาร: Moon Pie",
+        "vi": "Công Thức: Bánh Trung Thu"
+    },
+    "id": 109429,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Moon Pie.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Mondkuchen“.",
+        "chs": "步骤详实的食谱，记载着「月亮派」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「月亮派」的製作方法。",
+        "es": "Receta paso a paso para hacer un pastelillo de luna.",
+        "fr": "Étapes de préparation de la tourte de lune.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Moon Pie.",
+        "jp": "「ムーンパイ」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「달빛 파이」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Torta da Lua.",
+        "ru": "Подробный рецепт приготовления блюда «Лунный пирог».",
+        "th": "สูตรอธิบายวิธีทำ \"Moon Pie\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Bánh Trung Thu\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

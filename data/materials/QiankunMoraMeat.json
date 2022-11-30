@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Qiankun Mora Meat",
+        "de": "Qiankun-Mora-Medaillon",
+        "chs": "乾坤摩拉肉",
+        "cht": "乾坤摩拉肉",
+        "es": "Carne de Mora celestial",
+        "fr": "Viande-mora façon Caesor",
+        "id": "Qiankun Mora Meat",
+        "jp": "乾坤モラミート",
+        "kr": "건곤모라육",
+        "pt": "Carne de Mora Qiankun",
+        "ru": "Лепёшка «Инь Ян»",
+        "th": "Qiankun Mora Meat",
+        "vi": "Thịt Mora Càn Khôn"
+    },
+    "id": 108139,
+    "materialDesc": {
+        "en": "Ningguang's specialty. The pastry is perfectly soft and waxy, as is the consistency of the meat, and the honey-like meat juices ooze out as you squeeze it. Wherever did the high and mighty Tianquan Lady Ningguang learn to make this dish?",
+        "de": "Ningguangs Spezialzubereitung. Der Fladen ist luftig locker und das Fleisch ist voller Geschmack. Die dampfende Fleischsoße quillt heraus, sobald man den Fladen zusammendrückt. Woher weiß Ninguang, der Tianquan, nur, wie man dieses Gericht zubereitet?",
+        "chs": "凝光的特色料理。饼皮软糯适中，肉块肥瘦均匀，如蜜般的肉汁随着挤压丝丝渗出。看似高高在上的「天权」凝光大人，究竟是从哪里学会的这门手艺呢？",
+        "cht": "凝光的特色料理。餅皮軟糯適中，肉塊肥瘦均勻，如蜜般的肉汁隨著擠壓絲絲滲出。看似高高在上的「天權」凝光大人，究竟是從哪裡學會的這門手藝呢？",
+        "es": "La especialidad de Ninguang. La masa está en su punto de esponjosidad y ternura, al igual que la consistencia de la carne. Al darle un bocado, un jugo semejante a la miel sale de su interior. ¿Dónde aprendió Ninguang, el gran y poderoso Equilibrio Celestial, a hacer este plato?",
+        "fr": "Spécialité culinaire de Ningguang. La pâte est parfaitement moelleuse et la viande qu'elle renferme est juteuse. Quand est-ce que dame Megrez des Sept Étoiles de Liyue a-t-elle appris à cuisiner un tel plat ?",
+        "id": "Spesialisasi Ningguang. Kue yang lembut dan licin, daging yang tipis dan merata serta, air dari daging yang keluar seperti madu saat kamu menekannya. Sebenarnya di mana Nona \"Tianquan\" Ningguang yang agung dan hebat itu belajar untuk membuat hidangan ini?",
+        "jp": "凝光のオリジナル料理。皮はちょうどいい柔らかさ、肉は上質なものしか使わない、蜜のような肉汁がジュワッっとあふれてくるのがたまらない一品。「天権」凝光様は一体どこでこの料理を学んだだろう？",
+        "kr": "응광의 특제 요리. 겉은 쫀득쫀득하고 비계와 살코기의 비율이 환상적이다. 게다가 꿀같은 육즙이 배어 나오기까지! 고고해 보이는 「천권」 응광 대인은 대체 어디서 이런 요리를 배운 걸까?",
+        "pt": "Especialidade de Ningguang. A massa é bastante macia e brilhante, assim como a consistência da carne, e os molhos de mel escorrem para fora quando você aperta. Onde será que a Ningguang aprendeu a fazer este prato?",
+        "ru": "Особое блюдо Нин Гуан. Тесто очень мягкое, как и кусочки мяса, из которых, словно мёд, сочится мясной сок. Где же великая и могущественная Воля Небес Нин Гуан научилась приготовлению такого блюда?",
+        "th": "เมนูพิเศษของ Ningguang ตัวแป้งที่นุ่มและชิ้นเนื้อติดมันที่พอดี น้ำของตัวเนื้อที่ออกมาราวกับน้ำผึ้ง ท่านหญิง Ningguang ผู้บดบังดวงเดือน ไปฝึกฝนฝีมือด้านนี้มาจากไหนกันนะ?",
+        "vi": "Món ăn đặc biệt của Ningguang. Vỏ bảnh mềm dẻo vừa phải, nhân nạc mỡ vừa đủ, mỗi khi dùng tay ấn mạnh nước thịt sánh như mật lại thấm ra ngoài. Đại nhân Thiên Quyền Ningguang có thể học được tay nghề nấu ăn cao như vậy ở đâu được chứ?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

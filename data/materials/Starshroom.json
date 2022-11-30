@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starshroom",
+        "de": "Sternpilz",
+        "chs": "星蕈",
+        "cht": "星蕈",
+        "es": "Hongo estelar",
+        "fr": "Champitoile",
+        "id": "Starshroom",
+        "jp": "星茸",
+        "kr": "별 버섯",
+        "pt": "Cogumelo Estrelar",
+        "ru": "Гриб-звезда",
+        "th": "Starshroom",
+        "vi": "Nấm Sao"
+    },
+    "id": 101212,
+    "materialDesc": {
+        "en": "A fungus with a cap that resembles a five-pointed star. It is quite hardy indeed. Once it matures, the center of the cap will split open.",
+        "de": "Ein Pilz mit einem sternförmigen Hut. Er hat eine sehr starke Lebenskraft. Wenn er reif ist, spaltet sich der Hut in der Mitte.",
+        "chs": "伞盖形如五角星星一般的菌类，生命力十分顽强。成熟后，伞盖中央会裂开。",
+        "cht": "傘蓋形如五角星星一般的菌類，生命力十分頑強。成熟後，傘蓋中央會裂開。",
+        "es": "Un hongo con un sombrero en forma de estrella. Tiene una fuerza vital muy fuerte. Una vez que madura, el centro del sombrero se divide.",
+        "fr": "Un champignon dont le chapeau ressemble à une étoile à cinq branches. Il est doté d'une très forte vitalité. Une fois qu'il a atteint sa maturité, son chapeau se fend et s'ouvre en son centre.",
+        "id": "Jamur dengan topi yang menyerupai bentuk bintang bersudut lima. Jamur ini memang cukup tangguh. Setelah dewasa, bagian tengah topinya akan terbelah.",
+        "jp": "カサが五芒星のような形をしているキノコ。強靭な生命力を持っている。成熟するとカサの中心が裂けて開く。",
+        "kr": "균모가 별 모양으로 된 균류, 생명력이 무척 강하다. 성숙하면 균모 중앙이 갈라진다",
+        "pt": "Um fungo com um chapéu na forma de uma estrela de cinco pontas. Tem uma força vital forte. Quando estiver maduro, o centro do chapéu se abrirá.",
+        "ru": "Эти грибы в форме пятиконечной звезды обладают удивительной живучестью. По достижении зрелости центр шляпки этого гриба расщепляется.",
+        "th": "เห็ดที่หมวกเห็ดมีรูปร่างเหมือนดาวห้าแฉก พวกมันมีพลังชีวิตที่แกร่งกล้ามาก เมื่อโตเต็มที่ตรงกลางของหมวดเห็ดจะแตกออก",
+        "vi": "Nấm có phần đầu giống như ngôi sao 5 cánh, sức sống ngoan cường. Sau khi chín muồi, phần giữa đầu nấm sẽ nứt ra."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Northern Apple Stew",
+        "de": "Rezept: Apfelschmorfleisch aus dem Norden",
+        "chs": "食谱：北地苹果焖肉",
+        "cht": "食譜：北地蘋果燜肉",
+        "es": "Receta: Estofado de carne y manzana del Norte",
+        "fr": "Recette : Ragoût de pommes du nord",
+        "id": "Resep: Northern Apple Stew",
+        "jp": "レシピ：北地のリンゴと肉の煮込み",
+        "kr": "레시피: 북극 사과고기찜",
+        "pt": "Receita: Ensopado de Maçã do Norte",
+        "ru": "Рецепт: Тушёное мясо с яблоками",
+        "th": "สูตรอาหาร: Northern Apple Stew",
+        "vi": "Công Thức: Thịt Om Táo Đất Bắc"
+    },
+    "id": 109431,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Northern Apple Stew.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Apfelschmorfleisch aus dem Norden“.",
+        "chs": "步骤详实的食谱，记载着「北地苹果焖肉」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「北地蘋果燜肉」的製作方法。",
+        "es": "Receta paso a paso para hacer un estofado de carne y manzana del Norte.",
+        "fr": "Étapes de préparation du ragoût de pommes du nord.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Northern Apple Stew.",
+        "jp": "「北地のリンゴと肉の煮込み」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「북극 사과고기찜」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Ensopado de Maçã do Norte.",
+        "ru": "Подробный рецепт приготовления блюда «Тушёное мясо с яблоками».",
+        "th": "สูตรอธิบายวิธีทำ \"Northern Apple Stew\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thịt Om Táo Đất Bắc\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

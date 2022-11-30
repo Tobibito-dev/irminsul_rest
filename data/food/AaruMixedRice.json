@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Aaru Mixed Rice",
+        "de": "Gemischter Aaru-Reis",
+        "chs": "阿如拌饭",
+        "cht": "阿如拌飯",
+        "es": "Arroz de Aaru",
+        "fr": "Riz mélangé d'Aaru",
+        "id": "Aaru Mixed Rice",
+        "jp": "アアルコシャリ",
+        "kr": "아루 비빔밥",
+        "pt": "Arroz Misturado de Aaru",
+        "ru": "Пилав Аару",
+        "th": "Aaru Mixed Rice",
+        "vi": "Cơm Trộn Aaru"
+    },
+    "id": 2308,
+    "foodType": "COOK_FOOD_FUNCTION",
+    "cookMethod": "COOK_METHOD_FRY",
+    "rankLevel": 2,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 10,
+    "inputVec": [
+        {
+            "id": 100092,
+            "count": 3
+        },
+        {
+            "id": 110001,
+            "count": 2
+        },
+        {
+            "id": 100096,
+            "count": 2
+        },
+        {
+            "id": 100079,
+            "count": 2
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108460,
+            "count": 1
+        },
+        {
+            "id": 108461,
+            "count": 1
+        },
+        {
+            "id": 108462,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.72,0.35",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Restores <color=#3399CCFF>40–60</color> stamina.",
+        "de": "Stellt <color=#3399CCFF>40 bis 60</color> Punkte Ausdauer wieder her.",
+        "chs": "恢复<color=#3399CCFF>40-60</color>点体力。",
+        "cht": "恢復<color=#3399CCFF>40-60</color>點體力。",
+        "es": "Restaura <color=#3399CCFF>40-60</color> puntos de Aguante.",
+        "fr": "Restaure <color=#3399CCFF>40 à 60</color> pts d'endurance.",
+        "id": "Memulihkan<color=#3399CCFF> 40-60</color> Stamina.",
+        "jp": "スタミナを<color=#3399CCFF>40～60</color>回復する。",
+        "kr": "스태미나를 <color=#3399CCFF>40-60</color>pt 회복한다",
+        "pt": "Restaura <color=#3399CCFF>40-60</color> de Stamina.",
+        "ru": "Восстанавливает <color=#3399CCFF>40-60</color> ед. выносливости.",
+        "th": "ฟื้นฟูพลังกาย <color=#3399CCFF>40-60</color> หน่วย",
+        "vi": "Hồi <color=#3399CCFF>40-60</color> điểm thể lực."
+    }
+}

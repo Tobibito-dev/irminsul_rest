@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Hyoutei\" Stacked Aralia Wood Boxes",
+        "de": "Schachteln „Hyoutei“ aus Aralia-Holz",
+        "chs": "孔雀木「并提」层叠木匣",
+        "cht": "孔雀木「並提」層疊木匣",
+        "es": "Cajas apilables de madera de criptomeria: “Hyoutei”",
+        "fr": "Tas de boîtes « Hyoutei » en bois de cèdre inazumien",
+        "id": "Tumpukan Kotak \"Hyoutei\" dari Aralia",
+        "jp": "孔雀の多段木箱",
+        "kr": "공작나무 「도시락」 찬합",
+        "pt": "Caixa \"Hyoutei\"de Madeira de Arália Empilhada",
+        "ru": "Шкатулка из аралии «Хёутэй»",
+        "th": "กล่องไม้หลายชั้น \"Hyoutei\" ไม้ Aralia",
+        "vi": "Hộp Gỗ Khổng Tước Xếp Chồng \"Hyoutei\""
+    },
+    "id": 390111,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making \"Hyoutei\" Stacked Aralia Wood Boxes.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Schachteln Hyoutei aus Aralia-Holz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「孔雀木『并提』层叠木匣」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「孔雀木『並提』層疊木匣」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar unas Cajas apilables de madera de criptomeria: “Hyoutei”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du tas de boîtes « Hyoutei » en bois de cèdre inazumien.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Tumpukan Kotak \"Hyoutei\" dari Aralia.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「孔雀の多段木箱」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「공작나무 『도시락』 찬합」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Caixa \"Hyoutei\"de Madeira de Arália Empilhada.\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Шкатулка из аралии \"Хёутэй\"».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างกล่องไม้หลายชั้น \"Hyoutei\" ไม้ Aralia\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Hộp Gỗ Khổng Tước Xếp Chồng \"Hyoutei\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

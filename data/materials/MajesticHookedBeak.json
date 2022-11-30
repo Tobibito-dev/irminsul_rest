@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Majestic Hooked Beak",
+        "de": "Hakenschnabel des Pilzkönigs",
+        "chs": "蕈王钩喙",
+        "cht": "蕈王鉤喙",
+        "es": "Picogancho fúngico",
+        "fr": "Bec crochu majestueux",
+        "id": "Majestic Hooked Beak",
+        "jp": "茸王の鉤状のくちばし",
+        "kr": "버섯왕의 뾰족한 부리",
+        "pt": "Bico-Gancho do Terrorgumelo",
+        "ru": "Клюв короля плесенников",
+        "th": "Majestic Hooked Beak",
+        "vi": "Mỏ Vua Nấm"
+    },
+    "id": 113036,
+    "materialDesc": {
+        "en": "An elongated bill that you found after defeating the Jadeplume Terrorshroom.\\nResearchers still consider it a miracle even now that some soft Fungi have evolved these rock-hard hooked beaks. This magnificent king amongst Fungi has been leisurely pacing on the finish line of evolution. Now and then, it emits a long call to all the living beings in the rainforest: Even the most helpless and timid creature may one day become the monarch of the woods.",
+        "de": "Nach Besiegen einer gefiederten Pilzbestie erhaltene Chitin-Struktur.\\nBis heute glauben Gelehrte, dass es ein Wunder sei, dass die weichen Pilzbestien einen felsenfesten Hakenschnabel hervorgebracht haben. Am Ende ihrer Evolutionslinie schreitet der prächtige König der Pilze gemächlich herum und schreit von Zeit zu Zeit, um den Lebewesen des Regenwaldes zu bedeuten: So jedes noch so hilflose und ängstliche Wesen hat die Möglichkeit eines Tages Herrscher der Wälder zu werden.",
+        "chs": "击败翠翎恐蕈后，获得的角质结构。\\n学者至今都觉得柔软的蕈兽演化出坚如磐石的钩喙是一个奇迹。在演化的终点线上，堪称华美的众蕈之王悠然踱步，时而长鸣，在向雨林中的万物昭告：哪怕再弱小再胆怯的生灵，也有可能成为未来的山林主人。",
+        "cht": "擊敗翠翎恐蕈後，獲得的角質結構。\\n學者至今都覺得柔軟的蕈獸演化出堅如磐石的鉤喙是一個奇蹟。在演化的終點線上，堪稱華美的眾蕈之王悠然踱步，時而長鳴，在向雨林中的萬物昭告：哪怕再弱小再膽怯的生靈，也有可能成為未來的山林主人。",
+        "es": "Un pico alargado que encontraste tras derrotar al Espantohongo Plumaverde.\\nLos eruditos aún consideran un milagro a día de hoy que unos Hongos suaves hayan evolucionado hasta desarrollar picoganchos tan duros como la roca. Este majestuoso rey entre los Hongos llegó con total tranquilidad a la cima evolutiva. De vez en cuando, hace un llamamiento a todos los seres vivos de la selva para recordarles que incluso la criatura más indefensa e insignificante puede convertirse algún día en el rey de los bosques.",
+        "fr": "Un bec allongé que vous avez trouvé après avoir vaincu le Champieffroi panaché.\\nLes chercheurs considèrent toujours comme un miracle le fait que des Fongus mous aient pu évoluer pour avoir ces becs crochus durs comme la pierre. Cette espèce, que l'on peut dignement considérer comme le roi des champignons fait tranquillement les cent pas sur la ligne d'arrivée de l'évolution. De temps en temps, il lance un long appel à tous les êtres vivants de la forêt tropicale : même la créature la plus impuissante et timide peut un jour devenir le monarque des bois.",
+        "id": "Struktur paruh yang diperoleh setelah mengalahkan Jadeplume Terrorshroom.\\nSampai sekarang, pelajar masih menganggapnya sebagai keajaiban karena struktur paruh yang sekeras batu ini adalah hasil evolusi dari Fungus lembut. Raja dari seluruh jamur ini seakan-akan sedang berjalan mondar-mandir di akhir garis evolusi, kadang-kadang berseru panjang seperti mengatakan kepada seluruh makhluk hidup di hutan hujan: Meskipun makhluk yang paling tidak berdaya dan paling penakut sekalipun, pasti akan bisa menjadi raja yang menguasai hutan pada suatu hari.",
+        "jp": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
+        "kr": "공포의 취령 버섯을 처치한 후 획득한 각질 부분.\\n학자들은 지금까지도 부드러운 버섯몬이 이렇게 단단하고 뾰족한 부리로 진화한 것은 기적이라 여기고 있다. 화려하고 아름다운 버섯들의 왕은 진화의 마지막 단계에서 여유롭게 거닐며 이따금 우림의 만물에 다음과 같은 경고를 울부짖는다. 아무리 약하고 겁이 많은 생명체라도 미래에는 숲의 주인이 될 수 있다",
+        "pt": "Um bico alongado que você obteve depois de derrotar o Terrorgumelo Emplumado.\\nOs estudiosos ainda acham um milagre que alguns Cogumelos suaves têm um bico de gancho sólido como rocha. No topo da cadeia evolucionária, o elegante rei dos cogumelos caminha vagarosamente, e às vezes canta, como se estivesse proferindo a todos os seres da floresta tropical: mesmo as criaturas fracas e tímidas podem se tornar os futuros mestres da floresta.",
+        "ru": "Клюв, полученный после победы над Пернатым плесенником.\\nУчёные до сих пор не могут поверить, что мягкие плесенники оказались способны развить такие твёрдые клювы. Великолепный король плесенников неторопливо прогуливается вдоль финишной черты эволюции, время от времени обращаясь с призывом ко всем обитателям тропического леса: «Даже самое беспомощное и трусливое существо однажды может стать лесным властелином!»",
+        "th": "โครงสร้างผิวหนังที่ได้รับหลังจากเอาชนะ Jadeplume Terrorshroom แล้ว\\nจวบจนทุกวันนี้ นักวิชาการก็ยังคงคิดว่าเป็นปาฏิหาริย์ที่ Fungus สามารถพัฒนาจะงอยปากที่แข็งแกร่งดุจหินผาเช่นนี้ได้ ที่เส้นชัยของการวิวัฒนาการ ราชาแห่ง Fungus ที่แสนสง่างามกำลังเดินทอดน่องอย่างสบายอารมณ์ บางครั้งก็ส่งเสียงออกมา เพื่อบอกกล่าวทุกสรรพสิ่งที่อยู่ในป่าฝนว่า: ไม่ว่าจะเป็นสิ่งมีชีวิตที่อ่อนแอและขี้ขลาดเพียงใด ก็สามารถเติบโตเป็นเจ้าป่าได้ทั้งนั้น",
+        "vi": "Kết cấu mỏ cứng nhận được sau khi đánh bại Nấm Thúy Linh.\\nCác học giả vẫn coi đây là một điều kỳ diệu khi những cây nấm mềm đã phát triển được chiếc mỏ có móc cứng như đá này. Trong quá trình tiến hóa, vị vua nấm tuyệt vời này đã ung dung đi từng bước đến vạch đích, thỉnh thoảng hô vang, thông báo với vạn vật trong rừng mưa: ngay cả những sinh vật yếu ớt và nhút nhát cũng có thể trở thành chủ nhân tương lai của khu rừng."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

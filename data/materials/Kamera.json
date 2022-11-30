@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kamera",
+        "de": "Fotoapparat",
+        "chs": "留影机",
+        "cht": "留影機",
+        "es": "Daguerrotipo",
+        "fr": "Daguerréotype",
+        "id": "Kamera",
+        "jp": "写真機",
+        "kr": "사진기",
+        "pt": "Aparelho Fotográfico",
+        "ru": "Фотокамера",
+        "th": "กล่องถ่ายรูป",
+        "vi": "Máy Ảnh"
+    },
+    "id": 220018,
+    "materialDesc": {
+        "en": "A convenient tool that records and saves images upon use.\\nA special item from Fontaine that can record images. People and places to remember must come aplenty for a Traveler roaming the world.",
+        "de": "Ein praktisches Werkzeug, mit dem man das Bild eines Ortes oder einer Landschaft speichern kann. Es dient zur Aufnahme von Bildern, ist also sehr nützlich für Reisende, die bei ihren Abenteuern Landschaften und unvergessliche Menschen finden und behalten wollen.",
+        "chs": "使用时，会记录储存当前景象的便利道具。\\n来自枫丹的奇特道具，能将景象牢牢记录下来。对巡游世界的旅行者而言，值得纪念的景象、值得铭记于心的人物应当相当多吧。",
+        "cht": "使用時，會記錄當下景象的便利道具。\\n來自楓丹的奇特道具，能將景象牢牢記錄下來。對巡遊世界的旅行者而言，值得紀念的景象、值得銘記於心的人物應當相當多吧。",
+        "es": "Una práctica herramienta con la que se puede guardar la imagen de un lugar o paisaje.\\nUn objeto peculiar procedente de Fontaine. Sirve para registrar imágenes, por lo que resulta de gran utilidad para los viajeros que encuentran paisajes y personas memorables en sus aventuras.",
+        "fr": "Un outil pratique qui capture et enregistre des images lors de son utilisation.\\nUn étonnant objet originaire de Fontaine, capable de reproduire avec fidélité le sujet observé. Paysages, scènes et rencontres mémorables ne manquent pas pour l'aventurier qui parcourt ce monde.",
+        "id": "Saat digunakan, alat yang praktis ini dapat merekam pemandangan yang ada.\\nAlat unik yang berasal dari Fontaine dan bisa digunakan untuk merekam sesuatu dengan sangat akurat. Alat ini sangat berguna bagi seorang pengembara yang akan melihat banyak pemandangan indah dan bertemu dengan berbagai orang dalam perjalanannya.",
+        "jp": "使用すると、目の前の景色を記録してくれる便利なアイテム。\\nフォンテーヌの奇妙な道具。事象を記録することができる。世界を旅する旅人にとって、記念すべき場所や人を記録したい人も多いだろう。",
+        "kr": "눈앞에 있는 화면을 기록하고 저장할 수 있는 간편 아이템.\\n폰타인에서 온 특이한 도구. 어떤 경관이나 순간을 기록할 수 있다. 세계를 여행하는 자들에게 기억하고 싶은 경치나 사람은 아주 많을 것이다",
+        "pt": "Uma ferramenta conveniente que registra e guarda imagens. Um item especial de Fontaine que pode registrar imagens. Para um Viajante errante, as paisagens e pessoas inesquecíveis devem ser guardadas.",
+        "ru": "Удобный инструмент, позволяющий запечатлеть изображения окружающего вас мира.\\nОсобый прибор из Фонтейна, который позволяет запечатлеть образ. Несомненно, исследующему новый мир путешественнику захочется сохранить для себя память о множестве мест и людей.",
+        "th": "เมื่อใช้แล้ว ไอเทมพร้อมใช้งานนี้จะบันทึกภาพที่อยู่ในขณะนั้นได้\\nไอเทมพิเศษจาก Fontaine ที่สามารถบันทึกรูปภาพได้ สำหรับนักเดินทางที่ท่องไปทั่วโลก คงมีสถานที่และบุคคลที่ควรค่าแก่การจดจำอยู่ไม่น้อย",
+        "vi": "Đạo cụ có thể ghi lại bối cảnh khi sử dụng.\\nĐạo cụ đặc biệt từ Fontaine, có thể ghi lại bối cảnh một cách chính xác. Đối với các Nhà Lữ Hành chu du khắp thế giới, sẽ có rất nhiều cảnh đáng nhớ và những con người đáng nhớ."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

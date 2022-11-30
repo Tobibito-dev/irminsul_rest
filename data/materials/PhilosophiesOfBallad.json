@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of Ballad",
+        "de": "Philosophie der „Poesie“",
+        "chs": "「诗文」的哲学",
+        "cht": "「詩文」的哲學",
+        "es": "Filosofía de la poesía",
+        "fr": "Philosophie de la Poésie",
+        "id": "Philosophies of \"Ballad\"",
+        "jp": "「詩文」の哲学",
+        "kr": "「시문」의 철학",
+        "pt": "Filosofia de Poemas",
+        "ru": "Философия о «Поэзии»",
+        "th": "Philosophies of Ballad",
+        "vi": "Triết Học Của \"Thơ Văn\""
+    },
+    "id": 104309,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nPoetry is the soul of the land of the wind.\\nPoetry is the manifestations of the desire to spread the word. Though nothing is eternal, though nothing will be the same, the wind's poetry will still spread beyond the skies, the land, the seas to every corner of the world.",
+        "de": "Material zum Verbessern von Talenten.\\nPoesie ist die Seele des Reiches des Windes.\\nDie Poesie ist die Darstellung der Überlieferung. Selbst wenn alles vergangen ist, nichts mehr existiert, wird der Wind die Gedichte weitertragen, wird alles Schöne weiter durch den Himmel, das Land und das Meer treiben.",
+        "chs": "天赋培养素材。\\n风之国土的灵魂是诗文。\\n诗文是传颂的心意。即使一切都将逝去，即使一切都将不再，随风而行的诗歌，仍会将此世间一切美好传遍天空、大地与海洋的一切角落。",
+        "cht": "天賦培養素材。\\n風之國土的靈魂是詩文。\\n詩文是傳頌的心意。即使一切都將逝去，即使一切都將不再，隨風而行的詩歌，仍會將此世間一切美好傳遍天空、大地與海洋的一切角落。",
+        "es": "Material de mejora de talento.\\nLa poesía es el alma del Reino del Viento.\\nEs la manifestación del deseo de difundir la palabra. Aunque nada sea eterno, aunque nada sea siempre igual, la poesía que vuela con el viento llegará más allá de los cielos, la tierra y los mares, hasta todos los rincones del mundo.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nL'âme du Royaume du Vent réside dans la poésie.\\nElle existe pour être transmise à travers les générations. Bien que rien ne soit éternel, le vent soufflera toujours ces mots doux au-delà des cieux, à travers les terres et les mers du monde entier.",
+        "id": "Material Penguatan Talenta.\\nPuisi adalah jiwa dari Kerajaan Angin.\\nPuisi muncul dari keinginan untuk menyebar kata-kata. Meski tidak ada yang abadi, meski semua akan berubah, puisi angin masih akan menyebar ke langit, daratan, dan lautan di seluruh penjuru dunia.",
+        "jp": "天賦育成素材。\\n風の国の魂は詩と文章である。\\n詩と文章は謳う気持ちである。全てが消え、全てがなくなったとしても、風と共にある詩と歌はこの世の美しいものを何一つ残さず空、大地、海の片隅まで届ける。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 영혼은 노래다.\\n노래는 칭송하는 마음이다. 모든 것이 사라지더라도 바람을 따라 흐르는 노랫소리는 지금의 아름다움을 세계 각지에 전파할 것이다",
+        "pt": "Material de Elevação de Talento.\\nPoesia é a alma do Reino do Vento.\\nPoesia é a manifestação do desejo de difundir as palavras. Embora nada seja eterno, ainda que nada seja o mesmo, a poesia do vento ainda se espalhará além dos céus, da terra e dos mares em todos os cantos do mundo.",
+        "ru": "Материал повышения таланта.\\nПоэзия - это душа царства ветров.\\nПоэзия - это проявление желания распространить слово. Ничто не вечно и ничто не будет прежним, но только поэзия ветра будет вечно лететь по небесам, земле и морям во все уголки мира.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nบทกวีนั้นคือจิตวิญญาณของประเทศแห่งสายลม\\nบทกวีคือการส่งทอดความรู้สึกต่อ ๆ กันไป ถึงแม้ว่าทุกอย่างจะผ่านไป ถึงแม้ว่าทุกอย่างจะไม่หลงเหลืออยู่ บทกวีที่ลอยไปตามสายลมนั้นจะยัง คงหลงเหลืออยู่ทุกหนแห่ง",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nLinh hồn đất nước của gió là thơ văn.\\nThơ văn là sự truyền tụng. Cho dù tất cả sẽ mất đi, cho dù mọi thứ đã không còn, nhưng thơ ca bay theo cơn gió, sẽ đem những thứ tốt đẹp của thế gian truyền đến khắp thiên không, mặt đất, và biển lớn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

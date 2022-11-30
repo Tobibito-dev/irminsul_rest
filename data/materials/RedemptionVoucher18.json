@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 18",
+        "de": "Gutschein Nr.18",
+        "chs": "兑换券18号",
+        "cht": "兌換券18號",
+        "es": "Cupón de canje n.º 18",
+        "fr": "Coupon d'échange 18",
+        "id": "Kupon Penukaran 18",
+        "jp": "引換券18",
+        "kr": "교환 쿠폰 18호",
+        "pt": "Cupom de Troca 18",
+        "ru": "Купон обмена №18",
+        "th": "คูปองแลกรับหมายเลข 18",
+        "vi": "Phiếu Quà Tặng 18"
+    },
+    "id": 101884,
+    "materialDesc": {
+        "en": "Used to redeem Flowfire Triped: Jiggy",
+        "de": "Ein Gutschein, der gegen „Dreibeinige Maschine der fließenden Flammen – Tanzen“ eingetauscht werden kann.",
+        "chs": "用于兑换【流焰三足机·蹈】的兑换券",
+        "cht": "用於兌換【流焰三足機·蹈】的兌換券",
+        "es": "Cupón de canje para obtener un Trípode llameante: Danza.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Kaki Tiga Menyala: Sa-tu-Du-a-!",
+        "jp": "「流焔三足機·踊」と引き換えることのできる券。",
+        "kr": "[화염의 삼족 로봇·춤사위]를 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Trípode Flamejante: Dança",
+        "ru": "Используйте, чтобы получить «Огненную треногу: Притоп»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Flowfire Triped: Jiggy",
+        "vi": "Phiếu quà tặng dùng để đổi \"Robot Ba Chân Hỏa Diệm - Nhảy\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

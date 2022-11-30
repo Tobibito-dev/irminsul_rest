@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shikanoin Heizou's Stella Fortuna",
+        "de": "Stella Fortuna von Shikanoin Heizou",
+        "chs": "鹿野院平藏的命星",
+        "cht": "鹿野院平藏的命星",
+        "es": "Stella Fortuna de Shikanoin Heizou",
+        "fr": "Stella Fortuna de Shikanoin Heizou",
+        "id": "Shikanoin Heizou's Stella Fortuna",
+        "jp": "鹿野院平蔵の星屑",
+        "kr": "시카노인 헤이조의 운명의 별",
+        "pt": "Stella Fortuna de Shikanoin Heizou",
+        "ru": "Удача Сиканоина Хэйдзо",
+        "th": "ดวงดาวแห่งชีวิตของ Shikanoin Heizou",
+        "vi": "Chòm Sao Của Shikanoin Heizou"
+    },
+    "id": 1159,
+    "materialDesc": {
+        "en": "Shikanoin Heizou's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Shikanoin Heizous Sternbild",
+        "chs": "鹿野院平藏的命之座激活素材",
+        "cht": "鹿野院平藏的命之座啟用素材",
+        "es": "Material de activación de constelación de Shikanoin Heizou",
+        "fr": "Matériau d'activation de la constellation de Shikanoin Heizou.",
+        "id": "Material aktivasi untuk konstelasi Shikanoin Heizou",
+        "jp": "鹿野院平蔵の命ノ星座アンロック用素材",
+        "kr": "시카노인 헤이조의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Shikanoin Heizou",
+        "ru": "Материал для активации созвездия Сиканоина Хэйдзо",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Shikanoin Heizou",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Shikanoin Heizou"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

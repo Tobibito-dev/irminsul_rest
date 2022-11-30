@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Muning's Note",
+        "de": "Munings Zettel",
+        "chs": "沐宁的纸条",
+        "cht": "沐寧的紙條",
+        "es": "Nota de Muning",
+        "fr": "Note de Muning",
+        "id": "Catatan Muning",
+        "jp": "沐寧のメモ",
+        "kr": "목영의 쪽지",
+        "pt": "Folha de Papel de Muning",
+        "ru": "Записка Му Нина",
+        "th": "กระดาษโน้ตของ Muning",
+        "vi": "Mảnh Giấy Của Muning"
+    },
+    "id": 101690,
+    "materialDesc": {
+        "en": "The Ministry representative Muning gave you this note. Despite its short length, the word \"prohibited\" appears 8 times. If you give this to an adventurer named Zhiqiong, you will receive the aid you need.",
+        "de": "Ein Notizzettel, den dir Muning, der Angestellte des Rats für Allgemeine Angelegenheiten, gegeben hat. Trotz seiner geringen Länge kommt das Wort „verboten“ achtmal vor. Wenn du es einer Abenteurerin namens Zhiqiong zeigst, bekommst du Hilfe von ihr.",
+        "chs": "从总务司专员沐宁处获得的字条，短短数行字中出现了8次「严禁」这个词。如果向一位名叫志琼的冒险家出示，就会获得帮助。",
+        "cht": "從總務司專員沐寧處獲得的字條，短短數行字中出現了8次「嚴禁」這個詞。如果向一位名叫志瓊的冒險家出示，就會獲得幫助。",
+        "es": "Una nota que te dio Muning, el gerente del Ministerio de Asuntos Civiles. A pesar de su corta extensión, la palabra “prohibido” aparece ocho veces. Si se la muestras a una aventurera llamada Zhichiong, obtendrás su ayuda.",
+        "fr": "Muning, le représentant spécial du Bureau des affaires civiles, vous a remis cette note. Bien qu'elle soit brève, le mot « interdit » apparaît huit fois. Vous obtiendrez l'aide dont vous avez besoin si vous donnez ceci à une aventurière nommée Zhiqiong.",
+        "id": "Muning, pegawai khusus Bagian Urusan Sipil, memberimu catatan ini. Isinya tidak panjang, tapi terdapat pengulangan kata \"dilarang\" sebanyak 8 kali. Kalau kamu berikan ini pada seorang petualang bernama Zhiqiong, kamu akan dapat bantuan yang diperlukan.",
+        "jp": "総務司の沐寧から貰ったメモ。僅か数行の中に「厳禁」という言葉が八回も出てくる。このメモを冒険者の志璇に見せると、彼女が手伝ってくれるらしい。",
+        "kr": "총무부 담당자 목영으로부터 얻은 쪽지. 짧은 문장에 「엄금」이라는 단어가 8번이나 나왔다. 모험가 지경한테 보여주면 도움을 받을 수 있다고 한다",
+        "pt": "Uma nota que Muning do Ministério de Assuntos Civis lhe deu. Ela é curta, mas a palavra \"proibição\" aparece nela 8 vezes. Se for mostrada para uma Aventureira chamada Zhiqiong, será possível obter ajuda.",
+        "ru": "Записка представителя Департамента по делам граждан Му Нина. В ней всего несколько строк, но слово «запрещено» повторяется восемь раз. Покажите её искательнице приключений Чжи Цюн и получите помощь.",
+        "th": "ข้อความที่ได้มาจาก Muning เจ้าหน้าที่ฝ่ายกิจการทั่วไป คำว่า \"ห้ามอย่างเด็ดขาด\" ปรากฏถึง 8 ครั้งในข้อความเพียงไม่กี่บรรทัด ถ้านำไปยื่นให้แสดงให้นักผจญภัยที่ชื่อว่า Zhiqiong ก็จะได้รับความช่วยเหลือ...",
+        "vi": "Mảnh giấy nhận được từ chỗ chuyên viên Tổng Vụ - Muning, chỉ trong vài hàng chữ ngắn ngủi mà đã xuất hiện 8 lần chữ \"nghiêm cấm\". Nếu trình ra với nhà mạo hiểm tên Zhiqiong sẽ nhận được sự giúp đỡ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

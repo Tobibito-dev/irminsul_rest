@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 7",
+        "de": "Gutschein Nr.7",
+        "chs": "兑换券7号",
+        "cht": "兌換券7號",
+        "es": "Cupón de canje n.º 7",
+        "fr": "Coupon d'échange 7",
+        "id": "Kupon Penukaran 7",
+        "jp": "引換券7",
+        "kr": "교환 쿠폰 7호",
+        "pt": "Cupom de Troca 7",
+        "ru": "Купон обмена №7",
+        "th": "คูปองแลกรับหมายเลข 7",
+        "vi": "Phiếu Quà Tặng 7"
+    },
+    "id": 101873,
+    "materialDesc": {
+        "en": "Used to redeem Flowfire Horned Owl: Turning",
+        "de": "Ein Gutschein, der gegen „Eule der fließenden Flammen – Drehung“ eingetauscht werden kann.",
+        "chs": "用于兑换【流焰角鸮号·转】的兑换券",
+        "cht": "用於兌換【流焰角鴞號·轉】的兌換券",
+        "es": "Cupón de canje para obtener un Búho llameante: Giro.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Burung Hantu Berkobar: Muter",
+        "jp": "「流焔コノハズク·転」と引き換えることのできる券。",
+        "kr": "[화염의 소쩍새호·회전]을 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Coruja Flamejante: Rodopio",
+        "ru": "Используйте, чтобы получить «Огненную сову: Вращение»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Flowfire Horned Owl: Turning",
+        "vi": "Phiếu quà tặng dùng để đổi \"Cú Hỏa Diệm - Xoay\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

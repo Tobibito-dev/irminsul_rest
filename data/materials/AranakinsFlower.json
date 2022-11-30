@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Aranakin's Flower",
+        "de": "Blume von Aranakin",
+        "chs": "兰纳真的花",
+        "cht": "蘭納真的花",
+        "es": "Flor de Aranakin",
+        "fr": "Fleur d'Aranakin",
+        "id": "Bunga Aranakin",
+        "jp": "アランナキンの花",
+        "kr": "아란나킨의 꽃",
+        "pt": "Flor de Aranakin",
+        "ru": "Цветок Аранакина",
+        "th": "ดอกไม้ของ Aranakin",
+        "vi": "Hoa Aranakin"
+    },
+    "id": 101822,
+    "materialDesc": {
+        "en": "A flower gifted to you by Aranakin.\\n\"Wind that doesn't return, water that doesn't flow backwards... Sweet dreams and bitter aftertastes.\"",
+        "de": "Eine von Aranakin geschenkte Blume.\\n„Wind, der nicht dreht, Wasser, das nicht zurückfließt ... Süßer Traum und bitterer Nachgeschmack.“",
+        "chs": "兰纳真赠送的花儿。\\n「不返的风，不逆流的水…甜美的梦与苦涩的回味。」",
+        "cht": "蘭納真贈送的花朵。\\n「不返的風，不逆流的水…甜美的夢與苦澀的回味。」",
+        "es": "Una flor que te dio Aranakin.\\nViento que no vuelve, agua que no va a contracorriente...\\nDulces sueños, sabores astringentes.",
+        "fr": "Une fleur offerte par Aranakin.\\n« Vent qui ne revient pas, eau qui ne coule pas à l'envers... Doux rêves et goût amer. »",
+        "id": "Bunga yang diberikan padamu oleh Aranakin.\\n\"Angin yang tidak kembali, air yang tidak kembali mengalir ... Mimpi indah dan rasa pahit yang tertinggal.\"",
+        "jp": "アランナキンから貰った花。\\n「帰らぬ風、戻らぬ水…甘い夢と苦い後味。」",
+        "kr": "아란나킨이 선물한 꽃.\\n「돌아오지 않는 바람이여, 거꾸로 흐르지 않는 물이여… 달콤한 꿈과 씁쓸한 회상이여」",
+        "pt": "Flor dada por Aranakin.\\n\"O vento que não volta, a água que não corre para trás... Sonhos doces e gostos amargos.\"",
+        "ru": "Цветок, подаренный Аранакином.\\n«Вода, что вспять не повернётся, ветер безвозвратный... Воспоминаний сладость и их горький призвук».",
+        "th": "ดอกไม้ที่ Aranakin มอบให้\\n\"ลมที่ไม่หวนกลับ น้ำที่ไม่ไหลย้อน... ความฝันอันแสนหวานและรสชาติอันขื่นขม\"",
+        "vi": "Hoa Aranakin tặng.\\n\"Cơn gió không đổi chiều, nước không ngược dòng... Giấc mơ ngọt ngào và dư vị đắng cay.\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

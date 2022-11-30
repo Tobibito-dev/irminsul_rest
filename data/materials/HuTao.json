@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hu Tao",
+        "de": "Hu Tao",
+        "chs": "胡桃",
+        "cht": "胡桃",
+        "es": "Hu Tao",
+        "fr": "Hu Tao",
+        "id": "Hu Tao",
+        "jp": "胡桃",
+        "kr": "호두",
+        "pt": "Hutao",
+        "ru": "Ху Тао",
+        "th": "Hu Tao",
+        "vi": "Hu Tao"
+    },
+    "id": 1046,
+    "materialDesc": {
+        "en": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+        "de": "77. Direktorin des Bestattungsunternehmens Wangsheng in Liyue. Sie übernahm die Leitung bereits in sehr jungen Jahren",
+        "chs": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。",
+        "cht": "「往生堂」七十七代堂主，年紀輕輕就已主掌璃月的葬儀事務。",
+        "es": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+        "fr": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+        "id": "Master ke-77 di Wangsheng Funeral Parlor. Dia mengambil alih bisnis ini di umur yang cukup muda.",
+        "jp": "「往生堂」七十七代目堂主。若くして璃月の葬儀を仕切り、責任を持ってそれを執り行っている。",
+        "kr": "「왕생당」의 77대 당주, 젊은 나이지만 리월의 장례를 주관하고 있다",
+        "pt": "A 77.ª diretora da Funerária de Wangsheng. Apesar de ser jovem, já está carregada de todos os assuntos funerários de Liyue.",
+        "ru": "Хозяйка ритуального бюро «Ваншэн» в семьдесят седьмом поколении. Она унаследовала этот бизнес в достаточно юном возрасте.",
+        "th": "หัวหน้า \"โถงแห่งการเกิดใหม่ Wangsheng\" รุ่นที่ 77 ผู้เข้ามาดูแลองค์กรจัดงานศพของ Liyue ตั้งแต่อายุยังน้อย",
+        "vi": "Đường chủ đời thứ 77 của Vãng Sinh Đường, tuổi còn trẻ nhưng đã phụ trách việc tang lễ của Liyue."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

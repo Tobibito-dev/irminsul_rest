@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mini Seelie: Curcuma",
+        "de": "Miniseelie – Kurkuma",
+        "chs": "迷你仙灵·郁金",
+        "cht": "迷你仙靈·鬱金",
+        "es": "Miniseelie cúrcuma",
+        "fr": "Mini-fée curcuma",
+        "id": "Mini Seelie: Curcuma",
+        "jp": "小さな仙霊·鬱金",
+        "kr": "작은 선령·울금",
+        "pt": "Mini Seelie - Cúrcuma",
+        "ru": "Малая фея Куркума",
+        "th": "Mini Seelie - Curcuma",
+        "vi": "Tiên Linh Nhỏ Bé - Ánh Vàng"
+    },
+    "id": 220016,
+    "materialDesc": {
+        "en": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\\nA miniature golden Seelie. It gives off a feeling very similar to that of Mora. They say that Seelie of this color represent good fortune.",
+        "de": "Ein Andenken an die Aktion „Vermisste Schätze“. Wenn man es anlegt, begleitet einen eine Miniseelie.\\nDiese goldene Miniseelie riecht irgendwie nach Mora. Daher soll sie Legenden zufolge Glück und Reichtum bringen.",
+        "chs": "「秘宝迷踪」活动的纪念，装备后可以获得迷你仙灵的陪伴。\\n金色的迷你仙灵。散发着与摩拉近似的气息，传说这种颜色的仙灵象征着幸运。",
+        "cht": "「秘寶迷蹤」活動的紀念，裝備後可以獲得迷你仙靈的陪伴。\\n金色的迷你仙靈。散發著與摩拉近似的氣息，傳說這種顏色的仙靈象徵著幸運。",
+        "es": "Un recuerdo del evento «Caza de tesoros». Al usarlo, un pequeño Seelie te acompañará.\\nEste dorado y diminuto Seelie desprende un olor parecido al del Mora. Se dice que los que son de este color simbolizan la buena suerte.",
+        "fr": "#Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature couleur d'or. Elle dégage une aura similaire à celle des moras. Certains prétendent que les Fées de cette couleur symbolisent la bonne fortune.",
+        "id": "Kenang-kenangan dari event Harta yang Hilang, Seelie kecil ini akan menemanimu saat dikenakan.\\nSeelie kecil yang berwarna emas. Seelie ini memancarkan aura yang serupa dengan Mora, dan konon katanya Seelie ini bisa membawa keberuntungan.",
+        "jp": "「秘宝の行方」イベントの記念品、装備すると小さな仙霊がそばにいてくれる。\\n金色の小さな仙霊、モラに似た気配を放っている。伝説によると、この色の仙霊は幸運を象徴するのだという。",
+        "kr": "「잃어버린 보물」 이벤트 기념 아이템. 장착 시 작은 선령이 동행한다.\\n금색의 작은 선령. 모라와 아주 비슷한 기운을 내뿜는다. 이런 색의 선령은 행운을 상징한다고 한다",
+        "pt": "Uma lembrança do evento Caça aos Tesouros. Equipe para obter um Mini Seelie como companheiro.\\nEste pequeno Seelie dourado emana uma aura parecida com a de Mora. Dizem que estes Seelies simbolizam a boa sorte.",
+        "ru": "Напоминание о событии «Затерянные богатства». Наденьте этот предмет, чтобы получить компаньона - малую фею.\\nМалая фея цвета золота. Пахнет будто новая мора. Говорят, что такие феи приносят удачу.",
+        "th": "ของที่ระลึกจากกิจกรรม \"สมบัติที่สาบสูญ\" เมื่อสวมใส่แล้วจะมี Seelie ขนาดจิ๋วคอยติดตามคุณ\\nSeelie สีทองขนาดจิ๋ว มันให้ความรู้สึกที่คล้ายกับ Mora ว่ากันว่า Seelie สีนี้ เป็นสัญลักษณ์ของความโชคดี",
+        "vi": "Kỷ niệm của hoạt động \"Kho Báu Mất Dấu\", sau khi trang bị sẽ được tiên linh nhỏ bé đồng hành. \\nTiên Linh nhỏ bé màu vàng. Tỏa ra một vầng hào quang giống với Mora, tương truyền rằng Tiên Linh mang màu sắc này tượng trưng cho sự may mắn."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

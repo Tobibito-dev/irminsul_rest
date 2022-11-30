@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Golden Crab",
+        "de": "Goldkrebs",
+        "chs": "黄金蟹",
+        "cht": "黃金蟹",
+        "es": "Cangrejo dorado",
+        "fr": "Crabe doré",
+        "id": "Golden Crab",
+        "jp": "黄金ガニ",
+        "kr": "골든크랩",
+        "pt": "Caranguejo Dourado",
+        "ru": "Золотистый краб",
+        "th": "Golden Crab",
+        "vi": "Cua Hoàng Kim"
+    },
+    "id": 108102,
+    "materialDesc": {
+        "en": "A crab dish cooked in the ancient ways. The crab has been chopped into pieces and battered with flour, before being stir-fried till golden and rich with flavor. It is worthy of the word \"gold,\" whether in terms of appearance or quality.",
+        "de": "Ein Krebsfleischgericht, das auf traditionelle Weise zubereitet wird. Der Krebs wird in grobe Stücke gehackt und in Mehl gewendet. Nach dem Frittieren werden die Stücke kurz in einer heißen Pfanne gewürzt, bis sie goldgelb werden und ein kräftiges Aroma entwickeln. Dieses Gericht wird dem „Gold“ in seinem Namen sowohl äußerlich als auch qualitativ gerecht.",
+        "chs": "古法烹制的蟹肉料理。将螃蟹斩块后裹上面粉，宽油炸制后再佐调料翻炒，成菜色泽金黄，香气浓郁，无论是外形还是品质都不负黄金之名。",
+        "cht": "古法烹製的蟹肉料理。將螃蟹斬塊後裹上麵粉，寬油炸製後再佐調料翻炒，成菜色澤金黃，香氣濃郁，無論是外形還是品質都不負黃金之名。",
+        "es": "Un plato de cangrejo cocinado a la antigua usanza. Tras cortarlo en pedazos y cubrirlo con harina, el cangrejo se saltea hasta estar dorado y se condimenta. Debido a su dorado aspecto y su delicioso aroma, este plato hace honor a su nombre tanto en términos de emplatado como de sabor.",
+        "fr": "Un plat de crabe cuisiné à l'ancienne qui ne vole pas son nom. Roulez le crabe dans de la farine après l'avoir décortiqué et haché pour le frire ensuite. Une fois que c'est fait, faites-le sauter dans une poêle avec des épices jusqu'à ce qu'il soit doré et parfumé.",
+        "id": "Sebuah masakan kepiting yang dimasak dengan cara kuno. Kepitingnya dipotong-potong dan dilapisi tepung, sebelum akhirnya digoreng sampai berwarna keemasan dan kaya akan rasa. Sangat layak menyandang kata \"emas\", baik dari segi penampilan maupun kualitasnya.",
+        "jp": "古いレシピ通りに作られたかに料理。カニを数個に分けた後、小麦粉をつけて、金色になるまで強火で炒める。食欲をそそる香り、見た目もそのクオリティも黄金の名に負けないほどの絶品である。",
+        "kr": "옛 방법으로 요리한 게살 요리. 게를 작게 잘라 밀가루를 묻혀 튀긴후 양념을 넣고 볶아준다. 완성된 음식이 황금색이며 향 또한 좋아 황금이라는 이름에 걸맞는다",
+        "pt": "Um prato de caranguejo cozido à moda antiga. O caranguejo foi picado em pedaços e batido com farinha, antes de ser frito até dourar e rico em sabor. É digno da palavra \"ouro\", seja em termos de aparência ou qualidade.",
+        "ru": "Блюдо из краба, приготовленное по древнему рецепту. Целого краба обваливают в муке, после чего обжаривают до золотистой корочки. По внешнему виду золотистый, а по качеству - золотой.",
+        "th": "เมนูปูสูตรโบราณ เนื้อปูสับเป็นชิ้นนำไปคลุกแป้งทอด แล้วนำไปผัดกับเครื่องปรุงรสให้มีสีเหลืองทองและมีกลิ่นหอม ทั้งหน้าตาและรสชาติช่างเหมาะสมกับชื่อเมนูทองคำนี้เสียจริง",
+        "vi": "Món cua nấu theo cách cổ xưa. Cua được gỡ ra và phủ bột, sau khi chiên sẽ được xào lại với gia vị để món ăn có màu vàng và mùi thơm, dù là hình thức hay mùi vị cũng xứng đáng là cái tên vàng trong làng ẩm thực."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

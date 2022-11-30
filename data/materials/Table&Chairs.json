@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Table & Chairs",
+        "de": "Tisch und Stühle",
+        "chs": "万用的桌椅",
+        "cht": "萬用的桌椅",
+        "es": "Mesas y sillas",
+        "fr": "Bureau multi-usages",
+        "id": "Meja & Kursi",
+        "jp": "万能の机と椅子",
+        "kr": "만능 탁자 세트",
+        "pt": "Mesa e Cadeira Multifuncionais",
+        "ru": "Стол и стулья",
+        "th": "โต๊ะและเก้าอี้อเนกประสงค์",
+        "vi": "Bàn Ghế Đa Chức Năng"
+    },
+    "id": 350007,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up \"Table & Chairs.\"\\nA sturdy and wide pine table that comes with pen and paper for work. The papers and books can be cleared aside should you need to eat — truly, this is one furniture set to rule them all.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Tisch und Stühle“.\\nEin stabiler und breiter Tisch aus Kiefernholz, der mit Stift und Papier zum Arbeiten ausgestattet ist. Die Papiere und Bücher können beiseite geräumt werden, wenn du essen möchtest. Dies ist wirklich eine Möbelgarnitur, die alle anderen übertrifft.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「万用的桌椅」的放置方法。\\n结实的松木桌椅，桌面宽阔，摆上纸笔即可工作，撤下书本就能用餐，一套家具即可满足众多需求。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「萬用的桌椅」的放置方法。\\n結實的松木桌椅，桌面寬闊，擺上紙筆即可工作，撤下書本就能用餐，一套家具即可滿足眾多需求。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar Mesas y sillas.\\nUna mesa de pino ancha y resistente que incluye papel y pincel para trabajar. Si quieres comer en ella, solo tienes que apartar los libros. ¡Una mesa muy práctica!\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place du bureau multi-usages.\\nUne grande table solide en pin sur laquelle vous pouvez immédiatement commencer à travailler grâce au papier et au stylo qui se trouvent dessus. Il suffit de pousser les livres afin de faire de l'espace pour manger. Cet ensemble de meubles est idéal pour tous les usages !\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Meja & Kursi\".\\nSebuah meja yang lebar dan kokoh, terbuat dari kayu Pohon Pinus dan sudah dilengkapi dengan pena dan kertas untuk bekerja. Alat-alat tulis ini bisa disingkarkan jika kamu butuh ruang untuk makan —— perabot ini sungguh merupakan perabot serbaguna.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「万能の机と椅子」の詳しい配置方法が載っている設計図。\\n丈夫な松の机と椅子。机は広く、紙と筆を用意するとすぐ仕事ができ、本を取り除くとすぐ食事に使える。この1セットで色んなニーズに応えることができる。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「무난한 탁자 세트」의 설치 방법이 기재되어 있다.\\n튼튼한 소나무 탁자와 의자, 탁자 상판이 넓고 종이와 펜을 두면 바로 작업 할 수 있으며 책이 없으면 식사에 사용 할 수도 있다. 가구 세트는 다양한 요구를 충족 할 수 있다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Mesa e Cadeira Multifuncionais\".\\nUma mesa de pinheiro robusta e larga que vem com caneta e papel para trabalhar. Os papéis e livros podem ser colocados de lado se você precisar comer - na verdade, este é um conjunto de móveis para a todos governar.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Стол и стулья».\\nПрочный и широкий сосновый стол с необходимыми для работы пером и бумагой. Бумагу и книги можно убрать в сторону, если вам нужно поесть. Этот комплект способен удовлетворить любые нужды.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"โต๊ะและเก้าอี้อเนกประสงค์\" \\nโต๊ะและเก้าอี้ไม้สนแข็งแรง หน้าโต๊ะกว้าง คุณสามารถวางกระดาษและปากกาทำงานบนนี้ได้ และเมื่อเอาหนังสือปากกาออก ก็สามารถใช้โต๊ะเพื่อทานอาหารได้ มันสามารถตอบสนองการใช้งานได้หลายอย่าง\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Bàn Ghế Đa Chức Năng\".\\nBàn ghế làm từ gỗ thông bền chắc, mặt bàn rộng, chỉ cần bày giấy bút là có thể làm việc, cất sách đi là có thể dùng bữa, một bộ bàn ghế đáp ứng tất cả nhu cầu.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

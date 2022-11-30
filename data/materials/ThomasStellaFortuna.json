@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thoma's Stella Fortuna",
+        "de": "Stella Fortuna von Thoma",
+        "chs": "托马的命星",
+        "cht": "托馬的命星",
+        "es": "Stella Fortuna de Thoma",
+        "fr": "Stella Fortuna de Thomas",
+        "id": "Thoma's Stella Fortuna",
+        "jp": "トーマの星屑",
+        "kr": "토마의 운명의 별",
+        "pt": "Stella Fortuna de Thoma",
+        "ru": "Удача Томы",
+        "th": "ดวงดาวแห่งชีวิตของ Thoma",
+        "vi": "Chòm Sao Của Thoma"
+    },
+    "id": 1150,
+    "materialDesc": {
+        "en": "Thoma's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Thomas Sternbild",
+        "chs": "托马的命之座激活素材",
+        "cht": "托馬的命之座啟用素材",
+        "es": "Material de activación de constelación de Thoma",
+        "fr": "Matériau d'activation de la constellation de Thomas.",
+        "id": "Material aktivasi untuk konstelasi Thoma",
+        "jp": "トーマの命ノ星座アンロック用素材",
+        "kr": "토마의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Thoma",
+        "ru": "Материал для активации созвездия Томы",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Thoma",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Thoma"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

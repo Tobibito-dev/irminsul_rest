@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Letter from Starsnatcher",
+        "de": "Brief vom nach den Sternen greifenden Himmelsfürsten",
+        "chs": "掇星攫辰天君的信",
+        "cht": "掇星攫辰天君的信",
+        "es": "Carta de Ladrón de Estrellas",
+        "fr": "Lettre du Céleste voleur d'étoiles",
+        "id": "Surat dari Starsnatcher, Celestial Lord",
+        "jp": "掇星攫辰天君の手紙",
+        "kr": "철성확진천군의 편지",
+        "pt": "Carta escrita pelo Lorde Celestial, Ladrão de Estrelas.",
+        "ru": "Письмо Небесного Императора Звездолова",
+        "th": "จดหมายจากลอร์ดแห่งสวรรค์ผู้คว้าดวงดาว",
+        "vi": "Bức Thư Của Tinh Nguyệt Thiên Quân"
+    },
+    "id": 100452,
+    "materialDesc": {
+        "en": "Letter left by Starsnatcher",
+        "de": "Vom nach den Sternen greifenden Himmelsfürsten hinterlassener Brief",
+        "chs": "掇星攫辰天君留下来的信",
+        "cht": "掇星攫辰天君留下來的信。",
+        "es": "Carta escrita por Ladrón de Estrellas",
+        "fr": "Lettre écrite par le Céleste voleur d'étoiles.",
+        "id": "Surat yang ditinggalkan oleh Starsnatcher, sang Celestial Lord",
+        "jp": "掇星攫辰天君が残した手紙",
+        "kr": "철성확진천군이 남긴 편지",
+        "pt": "Carta escrita pelo Lord Celestial, Ladrão de Estrelas.",
+        "ru": "Письмо, оставленное Небесным Императором Звездоловом.",
+        "th": "จดหมายที่ดวงดาวและลอร์ดแห่งสวรรค์ทิ้งเอาไว้",
+        "vi": "Bức Thư Của Tinh Nguyệt Thiên Quân để lại"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

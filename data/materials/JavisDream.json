@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Javi's Dream",
+        "de": "Javis „Traum“",
+        "chs": "贾维的「梦想」",
+        "cht": "賈維的「夢想」",
+        "es": "Sueño de Javi",
+        "fr": "Rêve de Javi",
+        "id": "Impian Javi",
+        "jp": "ジャヴィの「夢」",
+        "kr": "자비의 「꿈」",
+        "pt": "Sonho de Javi",
+        "ru": "«Мечта» Джави",
+        "th": "\"ความฝัน\" ของ Javi",
+        "vi": "\"Mơ Ước\" Của Javi"
+    },
+    "id": 120016,
+    "materialDesc": {
+        "en": "A box containing a dream. However, the one who once cherished the dream has long forgotten about it.",
+        "de": "Eine Schachtel, die einen Traum enthält. Doch derjenige, der den Traum einst hegte, hat ihn längst vergessen.",
+        "chs": "装有「梦想」的小盒子。但许下梦想之人，却已经将梦想之事遗忘。",
+        "cht": "裝有「夢想」的小盒子。但許下夢想之人，卻已經將夢想之事遺忘。",
+        "es": "Una caja que contiene un sueño. El único problema es que la persona que lo soñó lo olvidó hace mucho tiempo.",
+        "fr": "Une boîte contenant un rêve. Cependant, celui qui a jadis chéri ce rêve l'a oublié depuis longtemps.",
+        "id": "Kotak yang berisi \"impian\". Tapi orang yang memiliki impian ini sepertinya sudah melupakan impiannya sendiri.",
+        "jp": "「夢」の入った小さな箱。でも、夢の持ち主はとっくに夢の事を忘れていた。",
+        "kr": "「꿈」을 담은 작은 상자. 하지만 꿈의 주인은 더 이상 그것을 기억하지 못한다",
+        "pt": "Uma caixa que contém um sonho. Mas quem o sonhou há muito tempo esqueceu.",
+        "ru": "Шкатулка с «мечтой». Но лелеявший эту мечту давно о ней позабыл.",
+        "th": "กล่องใบเล็กที่จุ \"ความฝัน\" เอาไว้ แต่คนที่เคยวาดฝันมันเอาไว้ กลับลืมเลือนเรื่องเหล่านั้นไปจนหมดสิ้น",
+        "vi": "Một chiếc hộp nhỏ chứa đựng \"ước mơ\". Nhưng người thực hiện giấc mơ thì đã quên đi ước mơ đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

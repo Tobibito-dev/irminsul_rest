@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mysterious Conch",
+        "de": "Mysteriöse Schnecke",
+        "chs": "奇异的海螺",
+        "cht": "奇異的海螺",
+        "es": "Caracola extraña",
+        "fr": "Conque étrange",
+        "id": "Keong Misterius",
+        "jp": "奇妙なホラガイ",
+        "kr": "기이한 소라",
+        "pt": "Concha Exótica",
+        "ru": "Загадочная раковина",
+        "th": "Mysterious Conch",
+        "vi": "Ốc Biển Kỳ Lạ"
+    },
+    "id": 100859,
+    "materialDesc": {
+        "en": "A conch, but there's something strange about it. What could it be for?",
+        "de": "Ein Schneckenhaus, aber irgendetwas ist seltsam an ihm. Wofür könnte es gut sein?",
+        "chs": "感觉有些不同寻常的海螺。不知道能用来做什么…",
+        "cht": "感覺不太尋常的海螺。不知道能用來做什麼…",
+        "es": "Una caracola un tanto peculiar. ¿Para qué se utilizará?",
+        "fr": "Une conque, mais elle donne une étrange impression. À quoi peut-elle bien servir ?",
+        "id": "Sebuah keong, tapi ada yang berbeda darinya. Kira-kira digunakan untuk apa ya?",
+        "jp": "変わった感じがするホラガイ。何に使えるのかは分からない…",
+        "kr": "어쩐지 범상치 않은 소라, 어디에 쓰는 걸까…",
+        "pt": "Uma concha com uma sensação incomum. Não se sabe no que pode ser usada...",
+        "ru": "Какая-то эта раковина странная. Что же с ней не так?..",
+        "th": "หอยสังข์ที่ดูต่างจากปกติ ไม่รู้ว่าใช้ทำอะไรได้บ้าง...",
+        "vi": "Ốc biển có vẻ hơi khác thường, không biết có thể dùng để làm gì..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

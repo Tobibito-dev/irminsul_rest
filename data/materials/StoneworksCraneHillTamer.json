@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stoneworks Crane: Hill Tamer",
+        "de": "Steinbruchkran – „Hügelbändiger“",
+        "chs": "岩厂吊车-「平丘」",
+        "cht": "岩廠吊車-「平丘」",
+        "es": "Grúa de mampostería: Aplanacolinas",
+        "fr": "#Grue de maçonnerie «{NON_BREAK_SPACE}Dompte-plaine »",
+        "id": "Derek Pabrik Batu: Penjinak Bukit",
+        "jp": "岩場起重機-「平丘」",
+        "kr": "암석 공장 기중기-「산을 평평하게 하는 힘」",
+        "pt": "Guindaste de Forja: Domador de Colinas",
+        "ru": "Подъёмник: Разрушитель холмов",
+        "th": "ปั้นจั่นเหมืองหิน - \"ตัวยกเนินราบ\"",
+        "vi": "Cần Trục Nham Xưởng - San Bằng"
+    },
+    "id": 391120,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Stoneworks Crane: Hill Tamer.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Steinbruchkran – Hügelbändiger“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「岩厂吊车-『平丘』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「岩廠吊車-『平丘』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Grúa de mampostería: Aplanacolinas.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la grue de maçonnerie « Dompte-plaine ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Derek Pabrik Batu: Penjinak Bukit.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「岩場起重機-『平丘』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「암석 공장 기중기-『산을 평평하게 하는 힘』」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Guindaste de Forja: Domador de Colinas\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Подъёмник: Разрушитель холмов».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง ปั้นจั่นเหมืองหิน - \"ตัวยกเนินราบ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cần Trục Nham Xưởng - San Bằng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

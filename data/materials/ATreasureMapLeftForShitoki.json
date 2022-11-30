@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Treasure Map Left for Shitoki",
+        "de": "Eine für Shitoki zurückgelassene Schatzkarte",
+        "chs": "留给岻伽的「藏宝图」",
+        "cht": "留給岻伽的「藏寶圖」",
+        "es": "Mapa del tesoro para Shitoki",
+        "fr": "Carte au trésor laissée pour Shitoki",
+        "id": "Peta Harta Karun yang Ditinggalkan untuk Shitoki",
+        "jp": "シトキに残した「宝の地図」",
+        "kr": "시토키에게 남긴 「보물지도」",
+        "pt": "Mapa do Tesouro deixado por Shitoki",
+        "ru": "Оставленная для Ситоки карта сокровищ",
+        "th": "\"แผนที่ขุมทรัพย์\" ที่ทิ้งไว้ให้ Shitoki",
+        "vi": "Bản Đồ Kho Báu để lại cho Shitoki"
+    },
+    "id": 101580,
+    "materialDesc": {
+        "en": "A complete Treasure Map made from several fragments. It gives off a faint sea-salt scent.",
+        "de": "Eine vollständige Schatzkarte, die aus mehreren Fragmenten besteht. Sie verströmt einen schwachen Meersalzgeruch.",
+        "chs": "由碎片拼成的一整张藏宝图，散发着淡淡的海盐气息。",
+        "cht": "由碎片拼成的一整張藏寶圖，散發著淡淡的海鹽氣息。",
+        "es": "Un mapa del tesoro reconstruido tras juntar todos los fragmentos. Tiene un ligero olor salado.",
+        "fr": "Une carte au trésor complète composée de plusieurs fragments. Elle dégage une légère odeur de sel marin.",
+        "id": "Sebuah Peta Harta Karun utuh yang dibuat dari beberapa sobekan. Terdapat samar-samar aroma garam laut pada peta tersebut.",
+        "jp": "欠片をくっつけてできた完全な宝の地図。ほのかに海塩の香りがする。",
+        "kr": "파편을 이어 붙인 온전한 보물지도, 은은한 바다 냄새가 난다",
+        "pt": "Um Mapa do Tesouro completo feito com diversos fragmentos. Ele exala um leve cheiro de sal marinho.",
+        "ru": "Карта сокровищ, восстановленная из собранных воедино фрагментов. Имеет слегка солоноватый запах.",
+        "th": "แผนที่ขุมทรัพย์ที่ประกอบขึ้นจากชิ้นส่วนต่าง ๆ มีกลิ่นเกลือทะเลกระจายออกมาจาง ๆ",
+        "vi": "Bản Đồ Kho Báu hoàn chỉnh được ghép lại từ nhiều mảnh, tỏa ra hơi thở mằn mặn của muối biển."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

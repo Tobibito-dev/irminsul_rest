@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Creative Note",
+        "de": "Geistreiche Notiz",
+        "chs": "巧思手记",
+        "cht": "巧思手記",
+        "es": "Notas ingeniosas",
+        "fr": "Note créative",
+        "id": "Creative Note",
+        "jp": "構想ノート",
+        "kr": "아이디어 노트",
+        "pt": "Notas Criativas",
+        "ru": "Творческие заметки",
+        "th": "Creative Note",
+        "vi": "Sổ Tay Chế Tác"
+    },
+    "id": 143,
+    "materialDesc": {
+        "en": "After much discussion with your companions during the adventure, you summed up some thoughtful suggestions on how Aranara Carvings can become more popular. Can be exchanged for precious treasures during the \"Graven Innocence\" event.",
+        "de": "Eine Zusammenfassung der Vorschläge, die du nach Gesprächen mit anderen Abenteurern gemacht hast. Es geht darum, wie man die Aranara-Holzfiguren noch beliebter machen kann. Während der Aktion „Schnitzen der Kindlichkeit“ kannst du diese Notiz gegen wertvolle Schätze eintauschen.",
+        "chs": "在冒险过程中，和伙伴们讨论后，对「兰那罗木刻」如何才能更受欢迎总结出的悉心建议。在「雕琢童心」活动期间，可以用来换取珍贵的宝物。",
+        "cht": "在冒險過程中，和夥伴們討論後，對「蘭那羅木刻」如何才能更受歡迎總結出的悉心建議。在「雕琢童心」活動期間，可以用來換取珍貴的寶物。",
+        "es": "Este es el resultado de una discusión con tus amigos durante tu aventura sobre cómo hacer más populares las tallas aranara. Puede canjearse por valiosas recompensas durante el evento «Inocencia escultórica».",
+        "fr": "#Des notes prises au cours de votre aventure résumant les sages conseils de vos compagnons concernant la manière de populariser les figurines d'aranaras. Elles peuvent être échangées contre des trésors précieux pendant l'événement «{NON_BREAK_SPACE}Sculpture d'innocence ».",
+        "id": "Sebuah masukan penuh ketelitian yang dirangkum agar \"Ukiran Aranara\" bisa lebih disukai lagi. Rangkuman ini dibuat berdasarkan hasil diskusi dengan teman-teman dalam perjalanan petualangan. Bisa digunakan untuk menukar pusaka yang berharga dalam event \"Hati yang Murni\".",
+        "jp": "冒険中、「アランナラ木彫り」にもっと注目を集めるにはどうしたらいいかについて仲間たちと話し合った結果。イベント「イノセンスの彫刻」期間中、貴重なアイテムと交換できる。",
+        "kr": "모험 도중 어떻게 하면 「아란나라 목각」의 인기를 더 높일 수 있을지 동료들과 상의 후 정리한 섬세한 의견. 「동심 조각」 이벤트 기간 귀중한 보물을 교환하는 데 사용할 수 있다",
+        "pt": "Após muito tempo discutindo com seus companheiros durante as aventuras, você resumiu algumas sugestões de como as Esculturas Aranara podem se tornar mais populares. Pode ser trocado por tesouros preciosos durante o evento de \"Escultura da Inocência\".",
+        "ru": "Во время одного из приключений вы поговорили с напарниками и составили список предложений, которые помогут сделать «Деревянных аранар» по-настоящему популярными. Можно обменять на сокровища в событии «Детская сказка».",
+        "th": "ในระหว่างการผจญภัย หลังจากที่ได้พูดคุยกับเหล่าเพื่อนพ้องแล้ว ก็ได้บทสรุปข้อเสนอแนะในเรื่องที่ว่า จะทำอย่างไรให้ \"ไม้แกะสลัก Aranara\" ได้รับความนิยมมากกว่าเดิม และสามารถใช้แลกรับสมบัติสุดล้ำค่าในช่วงกิจกรรม \"สลักใจวัยเดียงสา\" ได้",
+        "vi": "Sau khi thảo luận cùng đồng đội trong quá trình mạo hiểm, đã tổng hợp lại những đề xuất về cách làm cho tác phẩm \"Tượng Gỗ Aranara\" trở nên phổ biến hơn. Trong thời gian sự kiện \"Trở Về Tuổi Thơ\", có thể dùng để đổi lấy bảo vật quý hiếm."
+    },
+    "materialType": false
+}

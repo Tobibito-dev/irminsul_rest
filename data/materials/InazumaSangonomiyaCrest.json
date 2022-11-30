@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inazuma: Sangonomiya Crest",
+        "de": "Inazuma – Sangonomiya-Wappen",
+        "chs": "稻妻·珊瑚宫之纹",
+        "cht": "稻妻·珊瑚宮之紋",
+        "es": "Inazuma - Emblema de Sangonomiya",
+        "fr": "Inazuma - Emblème de Sangonomiya",
+        "id": "Inazuma: Lambang Sangonomiya",
+        "jp": "稲妻·珊瑚宮の紋",
+        "kr": "이나즈마·산고노미야의 문장",
+        "pt": "Inazuma: Brasão de Sangonomiya",
+        "ru": "Герб Сангономии",
+        "th": "Inazuma - ลวดลาย Sangonomiya",
+        "vi": "Inazuma - Hoa Văn Sangonomiya"
+    },
+    "id": 210097,
+    "materialDesc": {
+        "en": "Namecard style.\\nThis is the emblem of the Sangonomiya Clan, the leaders of Watatsumi's people.",
+        "de": "Namenskärtchen.\\nDies ist das Wappen des Sangonomiya-Klans, der das Volk von Watatsumi anführt.",
+        "chs": "名片纹饰。\\n海祇民之领袖，珊瑚宫家的家纹。",
+        "cht": "名片紋飾。\\n海祇民之領袖，珊瑚宮家的家紋。",
+        "es": "Diseño de tarjeta de presentación.\\nEl emblema del clan Sangonomiya, líder del pueblo de Watatsumi.",
+        "fr": "Thème.\\nCet emblème représente le Clan Sangonomiya dirigeant l'Île de Watatsumi.",
+        "id": "Style kartu nama.\\nLambang Klan Sangonomiya, pemimpin orang-orang Watatsumi.",
+        "jp": "名刺の飾り紋。\\n海祇の民の指導者、珊瑚宮の家紋。",
+        "kr": "명함 스킨.\\n와타츠미섬 사람들의 리더, 산고노미야 가문의 가문 문양",
+        "pt": "Estilo de Cartão de Visita.\\nEsse é o brasão do Clã Sangonomiya, líderes do povo de Watatsumi.",
+        "ru": "Именная карта.\\nЭтот герб представляет клан Сангономия, правящий островом Ватацуми.",
+        "th": "ลวดลายนามบัตร\\nลวดลายตระกูล Sangonomiya ผู้นำของชาว Watatsumi",
+        "vi": "Hoa văn danh thiếp. \\nThủ lĩnh của Watatsumi, huy hiệu của nhà Sangonomiya."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

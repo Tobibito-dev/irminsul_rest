@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "BP Bounty",
+        "de": "Erlebnispass-Tresor",
+        "chs": "纪行宝匣",
+        "cht": "紀行寶匣",
+        "es": "Cofre PB",
+        "fr": "Coffre PB",
+        "id": "BP Bounty",
+        "jp": "紀行宝匣",
+        "kr": "기행 보물함",
+        "pt": "Pacote de PB",
+        "ru": "Сундук Боевого пропуска",
+        "th": "กล่อง BP",
+        "vi": "Rương Báu Nhật Ký Hành Trình"
+    },
+    "id": 116002,
+    "materialDesc": {
+        "en": "\"When you journey through lands steeped in darkness, you need such weapons of blazing light. They lie within this vessel, awaiting the hour when they must cut through the encroaching shadows.\"",
+        "de": "„Wenn dich deine Reise durch finstere Landen führt, brauchst du diese glänzenden Waffen. Hier in diesem Tresor liegen sie und warten auf den Moment, in dem sie die Finsternis durchbrechen können.“",
+        "chs": "「深入黑暗之国的旅程，需要这样的闪烁明光的武器。它们已经被收纳在匣中，等候着切开迫近暗影的时刻。」",
+        "cht": "「深入黑暗之國的旅程，需要這樣的閃爍明光的武器。它們已經被收納在匣中，等候著切開迫近暗影的時刻。」",
+        "es": "“Al viajar por tierras inmersas en la oscuridad, se necesitarán las armas más brillantes. Estas se encuentran dentro de este cofre, esperando la hora en la que deban atravesar la sombra de sus enemigos”.",
+        "fr": "« Lorsque votre chemin est recouvert par l'obscurité, seules ces armes pourront vous guider avec leur lumière. Elles reposent dans cet humble coffre en attendant le jour où elles pourront fendre les ténèbres. »",
+        "id": "\"Ketika kamu melakukan perjalanan melalui kegelapan, kamu membutuhkan senjata seperti cahaya yang menyala. Mereka ada di dalam sini, menunggu saat ketika mereka harus menembus bayangan yang kelam.\"",
+        "jp": "「暗黒の国に入る度には、こういった明るい光を放つ武器が必要だ。それらは箱の中に仕舞っていて、暗闇を切り裂く時を待っている。」",
+        "kr": "「어둠의 나라로 들어가는 여정엔 이런 밝게 빛나는 무기가 필요하다. 함 속에서 다가오는 암영을 갈라낼 시기를 기다리고 있다.」",
+        "pt": "\"Quando você viaja por terras impregnadas de trevas, precisa de tais armas de luz ardente. Elas ficam dentro deste recipiente, aguardando a hora em que precisam atravessar as sombras invasoras\".",
+        "ru": "«В путешествиях по землям, погружённым во тьму, вам понадобится оружие пылающего света. Они хранятся в этом сосуде в ожидании часа, когда им суждено прорезаться сквозь наступающие тени».",
+        "th": "\"การเดินทางสู่ดินแดนแห่งความมืดมนนั้นต้องการอาวุธที่เปล่งแสงเช่นนี้ พวกมันถูกเก็บไว้ในกล่องรอเวลาที่จะได้ลงดาบจัดการเงามืดที่ใกล้เข้ามา\"",
+        "vi": "\"Hành trình đến vương quốc bóng đêm cần thứ vũ khí phát ánh hào quang như vậy. Chúng được cất kỹ trong hòm bảo vệ, chỉ đợi thời cơ chém lìa bóng tối."
+    },
+    "materialType": "MATERIAL_SELECTABLE_CHEST"
+}

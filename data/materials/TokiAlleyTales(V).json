@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toki Alley Tales (V)",
+        "de": "Geschichten aus der Tokigasse – Teil V",
+        "chs": "鹮巷物语·五",
+        "cht": "䴉巷物語·五",
+        "es": "La novela de la Calle del Ibis (V)",
+        "fr": "Contes de l'Allée Toki - V",
+        "id": "Kisah Gang Toki (V)",
+        "jp": "朱鷺町物語·五",
+        "kr": "따오기 골목 모노가타리·V",
+        "pt": "Contos da Rua Toki (V)",
+        "ru": "Рассказы улицы Токи (V)",
+        "th": "เรื่องราวแห่งตรอก Toki (V)",
+        "vi": "Câu Chuyện Hẻm Ibis 5"
+    },
+    "id": 101512,
+    "materialDesc": {
+        "en": "Will this middle section filled with regret lead to a more interesting story thereafter?",
+        "de": "Eine bedauerliche Peripetie. Vielleicht danach kommen noch interessantere Geschichten?",
+        "chs": "遗憾的中场，其后或许接续着更有趣的故事？",
+        "cht": "遺憾的中場，其後或許接續著更有趣的故事？",
+        "es": "¿Conducirá a una historia más interesante esta parte intermedia llena de lamentos?",
+        "fr": "Cette section intermédiaire remplie de regrets sera-t-elle par la suite le théâtre d'une histoire plus intéressante ?",
+        "id": "Sungguh adegan yang menyedihkan. Mungkin adegan selanjutnya akan dilanjutkan dengan kisah yang lebih menarik?",
+        "jp": "残念な中盤の後には、もっと面白い話が待っているのかも？",
+        "kr": "아쉬운 중반부, 혹시 이후엔 더 재미있는 이야기로 이어지려나?",
+        "pt": "Será que essa seção intermediária cheia de arrependimentos levará a uma história mais interessante depois?",
+        "ru": "Приведёт ли эта наполненная причитаниями часть к более интересной истории?",
+        "th": "ช่วงครึ่งเวลาที่น่าเสียดาย บางทีหลังจากนี้อาจจะมีเรื่องราวที่น่าสนใจกว่าก็เป็นได้?",
+        "vi": "Gián đoạn một cách đầy tiếc nuối, có thể sau đó sẽ tiếp diễn một câu chuyện càng thú vị hơn chăng?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

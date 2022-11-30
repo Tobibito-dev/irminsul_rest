@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Treasure Hoarder Loot",
+        "de": "Beute von Schatzräubern",
+        "chs": "盗宝团战利品",
+        "cht": "盜寶團戰利品",
+        "es": "Botín de Ladrón de Tesoros",
+        "fr": "Trophée des Pilleurs de trésors",
+        "id": "Barang dari Treasure Hoarder",
+        "jp": "宝盗団戦利品",
+        "kr": "보물 사냥단 전리품",
+        "pt": "Saqueamento dos Caçadores de Tesouros",
+        "ru": "Добыча с Похитителей сокровищ",
+        "th": "ของที่ระลึกจากชัยชนะของกองโจรล่าสมบัติ",
+        "vi": "Chiến lợi phẩm từ Đạo Bảo Đoàn"
+    },
+    "id": 100518,
+    "materialDesc": {
+        "en": "A trophy taken from the Treasure Hoarders. This box is very small and isn't very heavy, and will not be able to contain the arrogance of certain people. But it should be more than enough to keep a lid on their tricks.",
+        "de": "Beute, die du von einem besiegten Schatzräuber erhalten hast. Die Schachtel ist recht klein und hat kaum Gewicht. Damit wird sie kaum die Arroganz gewisser Personen aufnehmen können. Den Absichten dieser Leute sollte man damit aber sicherlich Einhalt gebieten können.",
+        "chs": "从盗宝团身上取得的战利品，盒子很小，入手也没有多少重量，绝对盛不下某些人的傲慢之心，但装下此人的心眼应该绰绰有余。",
+        "cht": "從盜寶團身上取得的戰利品，盒子很小，入手也沒有多少重量，絕對盛不下某些人的傲慢之心，但裝下此人的心眼應該綽綽有餘。",
+        "es": "Un trofeo tomado de los Ladrones de Tesoros. Esta caja es pequeña y no muy pesada, incapaz contener la arrogancia de ciertas personas. Pero debería ser más que suficiente para controlar sus malas intenciones.",
+        "fr": "Un butin pris aux Pilleurs de trésors. Cette petite boite ne suffira pas à calmer l'arrogance d'une certaine personne, mais cela sera assez pour s'assurer qu'elle ne fasse rien de louche.",
+        "id": "Barang yang dijatuhkan oleh Treasure Hoarder. Kotaknya sangat kecil dan tidak terlalu berat, pastinya tidak akan cukup untuk menampung kesombongan seseorang. Tapi sepertinya masih cukup untuk menahan tipu muslihat mereka.",
+        "jp": "宝盗団から取った戦利品。箱は小さくて、重くはない。一部の人の傲慢の心を入れるのに小さいかもしれないが、その人の心根を入れるのに十分だ。",
+        "kr": "보물 사냥단한테서 얻은 전리품. 작고 가벼운 이 상자에 분명 오만한 자들의 마음은 담아낼 수 없지만, 그들의 도량을 담는 덴 충분할 것 같다",
+        "pt": "Um troféu retirado dos Ladrões de Tesouro. Essa caixa é muito pequena e não é muito pesada e não poderá conter a arrogância de certas pessoas. Mas deve ser mais do que suficiente para esconder os truques deles.",
+        "ru": "Добыча, полученная после победы над Похитителями сокровищ. Эта коробка маленькая и не очень тяжелая, и не сможет вместить высокомерие некоторых людей. Но этого должно быть более чем достаточно, чтобы скрыть их уловки.",
+        "th": "ของที่ระลึกจากชัยชนะที่ได้มาจาก Mitachurl กล่องเล็กมากซึ่งเมื่อถือแล้วก็ไม่หนักเท่าไหร่ คงไม่สามารถรับความยโสโอหังของบางคนได้ แต่ทว่าใหญ่พอสำหรับใส่จิตใจคนได้",
+        "vi": "Chiến lợi phẩm được lấy từ Đạo Bảo Đoàn, đó là một chiếc hộp nhỏ rất nhẹ. Có lẽ với kích thước như vậy không thể nào đựng được hết sự ngạo mạn của số người, thế nhưng đủ sức chứa cho bụng dạ của một ai đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

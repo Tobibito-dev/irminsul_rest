@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Execution",
+        "de": "Exekution",
+        "chs": "处刑",
+        "cht": "處刑",
+        "es": "Sentencia",
+        "fr": "Lame d'exécution",
+        "id": "Execution",
+        "jp": "処刑",
+        "kr": "처형",
+        "pt": "Sentença",
+        "ru": "Казнь",
+        "th": "Execution",
+        "vi": "Xử Hình"
+    },
+    "id": 200251,
+    "materialDesc": {
+        "en": "When a character's Charged Attacks hit an opponent that is under 50% HP, an executioner's blade will descend and deal True DMG. This effect can be triggered once every 10s and this CD is shared between all party members.",
+        "de": "Fällt das Schwert der Exekution beim Treffen von Gegnern mit weniger als 50 % LP mit heftigen Schlägen und verursacht tatsächlichen Schaden. 10 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色的重击命中生命值低于50%的敌人时，会降下处刑的剑气，造成真实伤害。该效果每10秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色的重擊命中生命值低於50%的敵人時，會降下處刑的劍氣，造成真實傷害。該效果每10秒至多觸發一次，隊伍中所有角色共用冷卻。",
+        "es": "Cuando se golpea con un Ataque Cargado a un enemigo que tenga menos del 50% de Vida, descenderá una espada sentenciadora que inflige Daño Verdadero. Este efecto puede activarse una vez cada 10 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'une attaque chargée touche un ennemi dont les PV sont inférieurs à 50 %, une lame d'exécution s'abat sur lui, infligeant des DGT réels. Cet effet peut être déclenché une fois toutes les 10 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Saat Charged Attack Karakter mengenai musuh dengan HP di bawah 50%, sebuah aura pedang pembunuh akan muncul dan mengakibatkan True DMG. Efek ini dapat terpicu setiap 10 detik dan CD berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターの重撃がHP50%以下の敵に命中すると、処刑の剣気が下り、確定ダメージを与える。この効果は10秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 HP 50% 미만의 적에게 강공격 명중 시 처형의 검기를 내리꽂으며 고정 피해를 준다. 해당 효과는 10초마다 1회 발동되며, 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Quando o Ataque Carregado de um Personagem atinge um inimigo com menos de 50% de Vida, uma Espada da Sentença cairá e causará Dano Real. Esse efeito só pode ser desencadeado uma vez a cada 10s, e o Tempo de Recarga é compartilhado entre todos os membros da Equipe.",
+        "ru": "Когда персонаж попадает заряженной атакой по врагу с HP ниже 50%, на врага падает карающий меч, который наносит истинный урон. Эффект возникает раз в 10 сек. Время отката общее для всех членов отряда.",
+        "th": "เมื่อการชาร์จโจมตีของตัวละครถูกศัตรูที่มีพลังชีวิตต่ำกว่า 50% จะเกิดดาบแห่งการลงทัณฑ์ฟาดลงมา ซึ่งจะทำให้เกิดความเสียหายจริง โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Khi trọng kích của nhân vật đánh trúng kẻ địch có HP dưới 50% sẽ tạo ra kiếm khí, gây sát thương chuẩn. Hiệu ứng này mỗi 10s tối đa kích hoạt một lần, tất cả nhân vật trong đội đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kuki Shinobu's Stella Fortuna",
+        "de": "Stella Fortuna von Kuki Shinobu",
+        "chs": "久岐忍的命星",
+        "cht": "久岐忍的命星",
+        "es": "Stella Fortuna de Kuki Shinobu",
+        "fr": "Stella Fortuna de Kuki Shinobu",
+        "id": "Stella Fortuna Kuki Shinobu",
+        "jp": "久岐忍の星屑",
+        "kr": "쿠키 시노부의 운명의 별",
+        "pt": "Stella Fortuna de Kuki Shinobu",
+        "ru": "Удача Куки Синобу",
+        "th": "ดวงดาวแห่งชีวิตของ Kuki Shinobu",
+        "vi": "Chòm Sao Của Kuki Shinobu"
+    },
+    "id": 1165,
+    "materialDesc": {
+        "en": "Kuki Shinobu's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Kuki Shinobus Sternbild",
+        "chs": "久岐忍的命之座激活素材",
+        "cht": "久岐忍的命之座啟用素材",
+        "es": "Material de activación de constelación de Kuki Shinobu",
+        "fr": "Matériau d'activation de la constellation de Kuki Shinobu.",
+        "id": "Material aktivasi untuk Konstelasi Kuki Shinobu",
+        "jp": "久岐忍の命ノ星座アンロック用素材",
+        "kr": "쿠키 시노부의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Kuki Shinobu",
+        "ru": "Материал для активации созвездия Куки Синобу.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Kuki Shinobu",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Kuki Shinobu"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

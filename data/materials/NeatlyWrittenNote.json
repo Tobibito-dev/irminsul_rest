@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Neatly-Written Note",
+        "de": "Schön geschriebener Brief",
+        "chs": "字迹工整的信",
+        "cht": "字跡工整的信",
+        "es": "Carta con escritura impecable",
+        "fr": "Note écrite avec soin",
+        "id": "Catatan yang Ditulis Rapi",
+        "jp": "きちんと書かれた手紙",
+        "kr": "깔끔한 글씨의 편지",
+        "pt": "Anotação Bem Escrita",
+        "ru": "Аккуратное письмо",
+        "th": "จดหมายที่เขียนอย่างเรียบร้อย",
+        "vi": "Thư Tay Nắn Nót"
+    },
+    "id": 101616,
+    "materialDesc": {
+        "en": "The paper of this letter is slightly brittle and its ink is also a little smudged. It seems that both it and its owner have borne the assault of the waves. Unfortunately, while they encountered the same tribulations, they did not share the same fate.",
+        "de": "Das Papier dieses Briefes ist leicht brüchig und auch die Tinte ist ein wenig verschmiert. Es scheint, dass sowohl er als auch sein Besitzer dem Ansturm der Wellen standgehalten haben. Leider haben sie zwar dieselben Schwierigkeiten, aber nicht dasselbe Schicksal erlitten.",
+        "chs": "这封信的纸张微微发硬，油墨也有些晕染开，看来它与它的主人遭遇过同样的浪潮袭击。只可惜经历相似，命运却不尽相同。",
+        "cht": "這封信的紙張微微發硬，油墨也有些暈染開，看來它與它的主人遭遇過同樣的浪潮襲擊。只可惜經歷相似，命運卻不盡相同。",
+        "es": "El papel de esta carta se ha endurecido levemente y su tinta se ha difuminado. Aunque parece haber vivido unas vicisitudes parecidas a las de su dueño, por desgracia, sus destinos no han sido iguales.",
+        "fr": "Le papier de cette lettre est légèrement cassant et l'encre a un peu bavé. Il semblerait que cette lettre et son auteur aient tous deux bravé les assauts des vagues. Malheureusement, bien qu'ayant vécu les mêmes événements, ils n'ont pas connu le même sort.",
+        "id": "Kertas surat ini terlihat mudah hancur dan tintanya juga sudah memudar. Tampaknya baik surat dan pemiliknya terkena serangan ombak. Sayangnya, walau keduanya menghadapi bencana yang sama, namun tidak memiliki nasib yang sama.",
+        "jp": "紙の質感は少し硬くなっていて、インクも滲んでしまっている。持ち主と同じく、波に襲われたらしい。残念なことに、同じことに遭遇していても、辿る運命は異なったようだ。",
+        "kr": "종이가 살짝 뻣뻣하고, 잉크도 조금 번져있는 편지. 편지는 주인과 같이 파도에 휩쓸린 듯하다. 아쉽게도 같은 일을 겪었지만, 운명은 다르다",
+        "pt": "O papel desta carta endureceu ligeiramente e a tinta desbotou. Parece que tanto ela como seu autor suportaram o impacto das ondas. Infelizmente, apesar de terem passado pelas mesmas tribulações juntos, não tiveram o mesmo destino.",
+        "ru": "Бумага довольно хрупкая, и чернила на ней тоже немного размазаны. Похоже, что и письмо, и его владелец столкнулись с натиском волн, но, к сожалению, их постигла разная участь.",
+        "th": "กระดาษของจดหมายฉบับนี้ค่อนข้างแข็งและหมึกก็จางลงเล็กน้อย ท่าทางมันจะโดนการโจมตีจากคลื่นเช่นเดียวกันกับเจ้าของ น่าเสียดายที่เผชิญความทุกข์ยากแบบเดียวกัน แต่กลับไม่ได้มีชะตากรรมเดียวกัน",
+        "vi": "Giấy của bức thư này hơi giòn và mực cũng hơi nhòe, có vẻ như cả nó và chủ nhân của nó đều đã phải trải qua nhiều sóng gió. Thật không may, cùng chịu chung hoạn nạn nhưng số mệnh lại khác nhau."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

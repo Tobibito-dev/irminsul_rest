@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Gambler's Feather Accessory",
+        "de": "Glücksspiel-Federschmuck",
+        "chs": "赌徒的羽饰",
+        "cht": "賭徒的羽飾",
+        "es": "Pluma de la Jugadora",
+        "fr": "Plume du Parieur",
+        "id": "Gambler's Feathered Accessory",
+        "jp": "博徒の羽飾り",
+        "kr": "노름꾼의 깃털장식",
+        "pt": "Acessório de Penas de Apostador",
+        "ru": "Перо азартного игрока",
+        "th": "Gambler's Feathered Accessory",
+        "vi": "Lông Vũ Con Bạc"
+    },
+    "id": 58524,
+    "setId": 10008,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

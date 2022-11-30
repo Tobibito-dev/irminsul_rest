@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Crafted Items",
+        "de": "Hergestelltes Produkt",
+        "chs": "合成产物",
+        "cht": "合成產物",
+        "es": "Objeto sintetizado",
+        "fr": "Produit synthétisé",
+        "id": "Hasil Craft",
+        "jp": "合成産物",
+        "kr": "합성 산물",
+        "pt": "Produtos Combinados",
+        "ru": "Созданные Предметы",
+        "th": "ไอเทมจากการสร้าง",
+        "vi": "Sản Phẩm Ghép"
+    },
+    "id": 110000,
+    "materialDesc": {
+        "en": "Items produced through the Crafting System.",
+        "de": "Selbst aus verschiedenen Stoffen hergestellte Produkte",
+        "chs": "合成系统的产出道具",
+        "cht": "合成系統的產出道具",
+        "es": "Objetos creados al combinar materiales.",
+        "fr": "Objet obtenu du système de synthèse",
+        "id": "Item yang terbentuk dari proses Crafting.",
+        "jp": "合成システムの獲得アイテム",
+        "kr": "합성으로 생성된 아이템",
+        "pt": "Item criado com a combinação de materiais.",
+        "ru": "Предметы, созданные с помощью Ремесленной Системы.",
+        "th": "ไอเทมที่เกิดจากการผสมวัสดุเข้าด้วยกัน",
+        "vi": "Vật phẩm từ hệ thống Ghép"
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

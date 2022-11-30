@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shriveled Seed",
+        "de": "Verschrumpelter Samen",
+        "chs": "干枯的种子",
+        "cht": "乾枯的種子",
+        "es": "Semilla seca",
+        "fr": "Graine ratatinée",
+        "id": "Benih Kering",
+        "jp": "干からびた種",
+        "kr": "말라버린 씨앗",
+        "pt": "Semente Seca",
+        "ru": "Сухое семя",
+        "th": "เมล็ดพืชแห้ง",
+        "vi": "Hạt Giống Khô"
+    },
+    "id": 101643,
+    "materialDesc": {
+        "en": "A seemingly withered object that seems to, by normal judgment, be a seed. However, it still has a surprising amount of life in it yet.\\nBest not to eat it for now...",
+        "de": "Ein scheinbar verdorrter Gegenstand, der nach normaler Beurteilung ein Samen zu sein scheint. Allerdings steckt noch erstaunlich viel Leben in ihm.\\nAm besten isst du ihn erst einmal nicht ...",
+        "chs": "看起来已经干枯的物体，以常识来判断应当是种子，但是似乎蕴含着不可小觑的生命力量。\\n所以暂时还是先别吃了吧…",
+        "cht": "看起來已經乾枯的物體，以常識來判斷應當是種子，但是似乎蘊含著不可小覷的生命力量。\\n所以暫時還是先別吃了吧…",
+        "es": "Un objeto redondo que parece haberse desecado hace tiempo. Si uno se guía por el sentido común, adivinará que se trata de una semilla. No obstante, esta contiene una vitalidad imposible de ignorar.\\nEn conclusión, mejor no te la comas.",
+        "fr": "Une graine flétrie en apparence, qui semble être séchée depuis longtemps. Le bon sens voudrait que cela soit une simple graine, mais elle a l'air d'avoir conservé une vitalité non négligeable.\\nIl est donc préférable de ne pas la manger pour l'instant...",
+        "id": "Sebuah objek yang tampaknya layu dan menurut penilaian sekilas kelihatan seperti benih. Namun, masih ada jumlah kehidupan yang mengejutkan di dalamnya.\\nSebaiknya jangan memakannya untuk saat ini ....",
+        "jp": "枯れ果てた何か。普通に考えれば種のようだが、並外れた生命力を秘めているようだ。\\nしばらくは食べないほうがいいかも…",
+        "kr": "이미 말라버린 물체. 상식적으로 보면 씨앗인 것 같다. 하지만 속에 얕볼 수 없는 생명의 힘이 담겨 있는 듯하다.\\n그러니까 아직은 먹지 말자…",
+        "pt": "Um objeto seco que parece ser uma semente. Entretanto, ainda possui uma grande quantidade de vida nele.\\nTalvez não seja bom comê-la por enquanto...",
+        "ru": "Судя по всему, этот предмет - давно засохшее семя, в котором тем не менее заключена невероятная жизненная сила.\\nСловом, лучше пока его не есть...",
+        "th": "เป็นสิ่งของที่ดูเหมือนจะแห้งเหี่ยวไปแล้ว เมื่อใช้ความรู้ทั่วไปในการตัดสินแล้วก็น่าจะเป็นเมล็ดพืช แต่ดูเหมือนว่าจะมีพลังชีวิตที่ไม่สามารถประเมินได้อยู่ในนั้น\\nดังนั้นอย่าเพิ่งกินมันเลยนะ...",
+        "vi": "Vật thể trông đã khô héo, nhìn thì có vẻ là hạt giống, nhưng dường như chứa đựng trong đó một sức sống không thể xem thường.\\nCho nên tạm thời đừng nên ăn nó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,77 @@
+{
+    "name": {
+        "en": "Zhongyuan Chop Suey",
+        "de": "Eingelegtes Allerlei",
+        "chs": "中原杂碎",
+        "cht": "中原雜碎",
+        "es": "Chop suey de Zhongyuan",
+        "fr": "Chop suey Zhongyuan",
+        "id": "Zhongyuan Chop Suey",
+        "jp": "中原のもつ焼き",
+        "kr": "중원 내장꼬치",
+        "pt": "Chop Suey de Zhongyuan",
+        "ru": "Требуха «Чжун Юань»",
+        "th": "Zhongyuan Chop Suey",
+        "vi": "Lòng Trung Nguyên"
+    },
+    "id": 3101,
+    "foodType": "COOK_FOOD_FUNCTION",
+    "cookMethod": "COOK_METHOD_BAKE",
+    "rankLevel": 3,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 15,
+    "inputVec": [
+        {
+            "id": 100061,
+            "count": 3
+        },
+        {
+            "id": 100084,
+            "count": 3
+        },
+        {
+            "id": 110001,
+            "count": 3
+        },
+        {
+            "id": 100075,
+            "count": 2
+        },
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108071,
+            "count": 1
+        },
+        {
+            "id": 108072,
+            "count": 1
+        },
+        {
+            "id": 108073,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.63,0.27",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Decreases Stamina depleted by climbing and sprinting for all party members by <color=#3399CCFF>15–25%</color> for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "de": "Verringert die beim Klettern und Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um <color=#3399CCFF>15 bis 25 %</color>. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+        "chs": "队伍中所有角色攀爬和冲刺消耗的体力降低<color=#3399CCFF>15%-25%</color>，持续900秒。 多人游戏时，仅对自己的角色生效。",
+        "cht": "隊伍中所有角色攀爬和衝刺消耗的體力降低<color=#3399CCFF>15%-25%</color>，持續900秒。 多人遊戲時，僅對自己的角色生效。",
+        "es": "Disminuye el Consumo de Aguante de todos los miembros del equipo al escalar y esprintar en un <color=#3399CCFF>15%-25%</color> durante 900 s. En modo multijugador, este efecto solo se aplica sobre tus propios personajes.",
+        "fr": "Réduit la consommation d'endurance de tous les personnages de l'équipe de <color=#3399CCFF>15 % à 25 %</color> lors de l'escalade et du sprint pendant 900 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+        "id": "Mengurangi <color=#3399CCFF>15–25%</color> jumlah Stamina yang dikonsumsi seluruh anggota party saat berlari dan memanjat selama 900 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+        "jp": "チーム全員が登りとダッシュに消費するスタミナ-<color=#3399CCFF>15%~25%</color>、継続時間900秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
+        "kr": "파티 내 모든 캐릭터의 등반/대시 시 소모하는 스태미나가 <color=#3399CCFF>15%-25%</color> 감소한다. 지속 시간: 900초 다인 모드 시 자신의 캐릭터에만 적용된다",
+        "pt": "Diminui o consumo de Stamina ao Correr e Escalar para todos os membros da Equipe em <color=#3399CCFF>15% - 25%</color> por 900s. No modo multijogador, o efeito apenas se aplica ao seu personagem.",
+        "ru": "Уменьшает потребление выносливости всеми членами отряда во время карабканья и спринта на <color=#3399CCFF>15%-25%</color> в течение 900 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "th": "ลดอัตราการเสียพลังกายจากการปีนและการวิ่งให้กับสมาชิกทีมทั้งหมดลง <color=#3399CCFF>15%-25%</color> เป็นเวลา 900 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+        "vi": "Giảm <color=#3399CCFF>15%-25%</color> tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 900s Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+}

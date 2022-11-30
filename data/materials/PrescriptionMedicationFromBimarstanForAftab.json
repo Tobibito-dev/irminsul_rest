@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Prescription Medication from Bimarstan for Aftab",
+        "de": "Vom „Bimarstan“ verschriebene Medizin für Aftab",
+        "chs": "「健康之家」给阿夫塔的处方药",
+        "cht": "「健康之家」給阿夫塔的處方藥",
+        "es": "Medicina del bimaristán para Aftab",
+        "fr": "Ordonnance du Bimarestan pour Aftab",
+        "id": "Resep Obat dari Bimarstan untuk Aftab",
+        "jp": "ビマリスタンがアフタブに出した処方薬",
+        "kr": "「비마르스탄」에서 아프탑에게 처방한 약",
+        "pt": "Receita do Bimarstan para Aftab",
+        "ru": "Лекарство, прописанное Афтабу в Бимарстане",
+        "th": "ยาตามใบสั่งที่ \"Bimarstan\" จ่ายให้กับ Aftab",
+        "vi": "Đơn Thuốc Bimarstan Kê Cho Aftab"
+    },
+    "id": 101940,
+    "materialDesc": {
+        "en": "Medication prescribed for Aftab. Taker of this medication needs to practice a bland diet.",
+        "de": "An Aftab verschriebene Medizin. Zur Therapie gehört auch Schonkost einzunehmen.",
+        "chs": "送给阿夫塔的药剂，需要搭配清淡饮食。",
+        "cht": "送給阿夫塔的藥劑，需要搭配清淡飲食。",
+        "es": "Una medicina recetada para Aftab. Además de tomarla, es necesario seguir una dieta ligera.",
+        "fr": "Une potion prescrite pour Aftab. Elle doit être prise en veillant à manger léger pour récupérer.",
+        "id": "Resep obat untuk Aftab. Orang yang meminum obat ini harus menjaga diet makannya dengan benar.",
+        "jp": "アフタブに処方された薬剤。刺激の少ない食事を心がけること。",
+        "kr": "아프탑에게 준 약. 담백한 음식과 함께 복용해야 한다",
+        "pt": "Uma poção para Aftab, se torna mais eficaz com uma alimentação mais leve.",
+        "ru": "Лекарство, которое прописали Афтабу. Чтобы оно подействовало, больному необходимо соблюдать пресную диету.",
+        "th": "ยาที่จ่ายให้กับ Aftab จำเป็นต้องใช้ควบคู่ไปกับอาหารรสอ่อน",
+        "vi": "Thuốc đưa cho Aftab, cần phải kết hợp với ăn uống thanh đạm."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

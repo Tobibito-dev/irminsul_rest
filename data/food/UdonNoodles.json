@@ -1,0 +1,74 @@
+{
+    "name": {
+        "en": "Udon Noodles",
+        "de": "Udon-Nudeln",
+        "chs": "乌冬面",
+        "cht": "烏龍麵",
+        "es": "Udon",
+        "fr": "Udon",
+        "id": "Udon Noodles",
+        "jp": "うどん",
+        "kr": "우동",
+        "pt": "Macarrão Udon",
+        "ru": "Лапша удон",
+        "th": "Udon Noodle",
+        "vi": "Mì Udon"
+    },
+    "id": 2210,
+    "foodType": "COOK_FOOD_HEAL",
+    "cookMethod": "COOK_METHOD_FRY",
+    "rankLevel": 2,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 10,
+    "inputVec": [
+        {
+            "id": 110001,
+            "count": 3
+        },
+        {
+            "id": 101210,
+            "count": 1
+        },
+        {
+            "id": 100084,
+            "count": 1
+        },
+        {},
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108377,
+            "count": 1
+        },
+        {
+            "id": 108378,
+            "count": 1
+        },
+        {
+            "id": 108379,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.72,0.35",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Revives the selected character. Restores <color=#3399CCFF>250–550</color> HP.",
+        "de": "Belebt die gewählte Figur wieder. Stellt <color=#3399CCFF>250 bis 550</color> LP wieder her.",
+        "chs": "复苏选中的角色。 为其恢复<color=#3399CCFF>250-550</color>点生命值。",
+        "cht": "復甦選中的角色。 為其恢復<color=#3399CCFF>250-550</color>點生命值。",
+        "es": "Revive al personaje seleccionado. Regenera <color=#3399CCFF>250-550</color> pts. de Vida.",
+        "fr": "Réanime le personnage sélectionné. Restaure <color=#3399CCFF>250 à 550</color> PV.",
+        "id": "Menghidupkan kembali Karakter yang dipilih. Memulihkan<color=#3399CCFF> 250–550</color> HP.",
+        "jp": "選択したキャラを復活させる。 さらにHPを<color=#3399CCFF>250~550</color>回復する。",
+        "kr": "선택한 캐릭터를 부활시킨다 HP를 <color=#3399CCFF>250-550</color>pt 회복",
+        "pt": "Regenera o personagem selecionado. Restaura <color=#3399CCFF>250 - 550</color> de Vida.",
+        "ru": "Воскрешает выбранного персонажа. Восстанавливает <color=#3399CCFF>250-550</color> HP.",
+        "th": "ฟื้นชีวิตให้กับตัวละครที่เลือก ฟื้นฟูพลังชีวิต <color=#3399CCFF>250 - 550</color> หน่วย",
+        "vi": "Hồi sinh cho nhân vật được chọn. Hồi <color=#3399CCFF>250-550</color> điểm HP."
+    }
+}

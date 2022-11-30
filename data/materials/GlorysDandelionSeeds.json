@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Glory's Dandelion Seeds",
+        "de": "Glorys Löwenzahnsamen",
+        "chs": "葛罗丽的蒲公英籽",
+        "cht": "葛蘿麗的蒲公英籽",
+        "es": "Semillas de diente de león de Glory",
+        "fr": "Graines de pissenlit de Gloria",
+        "id": "Dandelion Seed Glory",
+        "jp": "グローリーの蒲公英の種",
+        "kr": "글로리의 민들레 씨앗",
+        "pt": "Sementes de Dandelion de Glory",
+        "ru": "Семена одуванчика Глории",
+        "th": "Dandelion Seed ของ Glory",
+        "vi": "Hạt Bồ Công Anh Của Glory"
+    },
+    "id": 100686,
+    "materialDesc": {
+        "en": "Dandelion Seeds that contain Glory's thoughts. The wind can probably carry these far, far away.",
+        "de": "Löwenzahnsamen, die Glorys Gedanken mit sich tragen. Sie sehen so aus, als könnte der Wind sie an weit entfernte Orte tragen.",
+        "chs": "饱含着葛罗丽心意的蒲公英籽，看起来能随风飞到很远的地方。",
+        "cht": "飽含著葛蘿麗心意的蒲公英籽，看起來能隨風飛到很遠的地方。",
+        "es": "Semillas de diente de león que contienen los pensamientos de Glory. El viento podría llevarlas muy lejos.",
+        "fr": "Graines de pissenlit contenant les pensées de Gloria. Le vent peut probablement les emporter très loin.",
+        "id": "Dandelion Seed yang mengandung pemikiran Glory. Angin tampaknya dapat menerbangkannya ke tempat yang jauh - sangat jauh.",
+        "jp": "グローリーの願いが込められた蒲公英の種。風と共に遠くへ飛んでいける。",
+        "kr": "글로리의 마음을 품은 민들레 씨앗. 바람을 타고 아주 멀리멀리 날아갈 수 있을 것 같다",
+        "pt": "Sementes de Dandelion que contêm os pensamentos da Glória. O vento provavelmente pode levá-las para bem, bem longe.",
+        "ru": "Семена одуванчика, впитавшие мысли Глории. Если развеять их по ветру, то они полетят в дальние края...",
+        "th": "Dandelion Seeds ที่บรรจุความปรารถนาของ Glory เอาไว้ สายลมน่าจะพัดให้มันล่องลอยไปยังที่อันแสนไกลได้",
+        "vi": "Những hạt bồ công anh đong đầy trái tim Glory như bay xa theo gió."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

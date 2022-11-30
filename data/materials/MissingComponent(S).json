@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Missing Component(s)",
+        "de": "Fehlende Komponente",
+        "chs": "遗失的零件",
+        "cht": "遺失的零件",
+        "es": "Componente perdido",
+        "fr": "Composant manquant",
+        "id": "Komponen Hilang",
+        "jp": "損失した部品",
+        "kr": "분실된 부품",
+        "pt": "Componente Perdido",
+        "ru": "Недостающая деталь",
+        "th": "ชิ้นส่วนที่หายไป",
+        "vi": "Linh Kiện Thất Lạc"
+    },
+    "id": 100956,
+    "materialDesc": {
+        "en": "A component that fell from the Purification Device.",
+        "de": "Eine Komponente, die aus dem Reinigungsgerät gefallen ist.",
+        "chs": "从「净化装置」上掉下来的零件。",
+        "cht": "從「淨化裝置」上掉下來的零件。",
+        "es": "Un componente que se cayó del dispositivo de purificación.",
+        "fr": "Un composant qui est tombé de l'appareil de purification.",
+        "id": "Komponen yang jatuh dari Alat Pemurnian",
+        "jp": "「浄化装置」から外れた部品。",
+        "kr": "「정화 장치」에서 떨어진 부품",
+        "pt": "Um componente que caiu do Dispositivo de Purificação.",
+        "ru": "Деталь, которая выпала из устройства очищения.",
+        "th": "ชิ้นส่วนที่หลุดออกมาจากอุปกรณ์ชำระล้าง",
+        "vi": "Linh kiện rơi ra từ \"Thiết Bị Thanh Tẩy\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

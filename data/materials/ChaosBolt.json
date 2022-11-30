@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chaos Bolt",
+        "de": "Chaos-Anker",
+        "chs": "混沌锚栓",
+        "cht": "混沌錨栓",
+        "es": "Perno del caos",
+        "fr": "Vis du chaos",
+        "id": "Chaos Bolt",
+        "jp": "混沌ボルト",
+        "kr": "혼돈 볼트",
+        "pt": "Parafuso do Caos",
+        "ru": "Анкер хаоса",
+        "th": "Chaos Bolt",
+        "vi": "Chốt Neo Hỗn Độn"
+    },
+    "id": 112070,
+    "materialDesc": {
+        "en": "Comes from a now-inactive ancient Ruin Drake.\\nAmong the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis. Be it the Hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated and modified to the point where they had surpassed their natural counterparts.\\nBy this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order.",
+        "de": "Stammt von einem nicht länger aktiven uralten Ruinendrachen.\\nIn den lange verlorenen uralten Königreichen gab es eine Gruppe von Menschen, die in das Prinzip der Mimesis verliebt waren. Egal ob es die Reinheit der in Hypostasen geordneten Elemente war oder die primitive Kraft der uralten Drachen, das alles konnte, so glaubten sie, nachgeahmt, verbessert und schließlich übertroffen werden.\\nDenn so könne das makellose Überlegene den Platz des zum Schluss Zerfallenden einnehmen.",
+        "chs": "来自不再活动的古代遗迹龙兽。\\n已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、改良，最终达成超越。\\n如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。",
+        "cht": "來自不再活動的古代遺蹟龍獸。\\n已經失落的古國之中，曾有一派人醉心於擬生之原理。無論是無相的純粹秩序元素，或是龍的亙古原始力量，都應該加以擬造、改良，最終達成超越。\\n如此便能以更為優越的無垢之身，取代終將朽敗、終將破碎的秩序。",
+        "es": "Proviene de un Dragón de las Ruinas inactivo.\\nEn el antiguo reino caído había un grupo de gente que estaba obsesionada con la idea del mimetismo. Ya fueran los elementos puros y en perfecto orden de los Hipostasis o el poder primigenio y ancestral de los dragones, estas personas creían que todo podía replicarse y modificarse hasta superar a sus homólogos naturales.\\nDesde esta óptica, un cuerpo físico superior e inmaculado podría ser capaz de reemplazar el decadente orden destinado a ser destruido.",
+        "fr": "Provient d'un ancien Dragon des ruines désormais inactif.\\nParmi les anciens royaumes perdus, il y avait un groupe de personnes qui étaient obsédées par l'idée de mimétisme. Qu'il s'agisse des éléments purs et ordonnés des Hypostases ou de l'ancien pouvoir primitif des dragons, ces personnes pensaient qu'ils pouvaient tous être reproduits et modifiés au point de surpasser leurs homologues naturels.\\nAinsi, une forme corporelle supérieure et immaculée pourrait remplacer l'ordre voué à la décomposition et à la destruction.",
+        "id": "Berasal dari Ruin Drake kuno yang sekarang tidak aktif lagi.\\nDi antara kerajaan kuno yang sudah hilang, pernah ada sekelompok orang yang terobsesi dengan ide penciptaan ulang, baik itu elemen berurutan murni dari Hypostasis atau kekuatan primitif dari naga, mereka percaya bahwa semua ini bisa direplikasi dan dimodifikasi sampai bisa melampaui bentuk alaminya.\\nDengan cara ini, bentuk tubuh yang unggul dan tidak ternoda dapat menggantikan tatanan yang pada akhirnya membusuk dan hancur.",
+        "jp": "もう動かない古代遺跡ドレイクからとったもの。\\n失われた古代国家の中に、ミメーシスの原理に魅せられた一派がいた。無相の純粋な秩序元素であれ、龍のいにしえの原初の力であれ——模倣し、洗練し、最終的には超越すべし。\\nさすれば、より優秀で無垢な体を得られる。それは、やがて朽ち果て粉々になった秩序と置き換えられるだろう。",
+        "kr": "더 이상 활동하지 않는 고대 유적 드레이크에게 얻은 것.\\n더 이상 존재하지 않는 고대 국가에는 생명을 모방하는 원리를 연구한 자들이 있었다. 무상의 순수 질서 원소 혹은 드레이크의 원시적 힘을 본뜨고 개량하여 초월을 이루어내야 한다.\\n그러면 훨씬 우월하고 무결한 신체를 획득해 결국엔 부서지고 부패하는 질서를 대체할 수 있다",
+        "pt": "Vem de um antigo dragão das ruínas que não está mais ativo.\\nNa nação antiga perdida, havia um grupo de pessoas obcecadas pelos princípios da criação das mimeses. Seja o puro elemento de Hypostasis, ou o antigo poder primordial do dragão, deve ser fabricado e aprimorado para que finalmente supere tudo. \\nDessa forma, um corpo mais superior e imaculado substituirá a ordem que acabará por decair e ser quebrada.",
+        "ru": "Найден в древнем драконе руин.\\nПодданные одного из исчезнувших древних царств были одержимы теорией биомимесиса. Они были уверены, что любую силу, будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и усовершенствовать, чтобы она превзошла первоисточник.\\nТак будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку, обречённую на гибель и разложение.",
+        "th": "สิ่งที่ได้มาจาก Ruin Drake โบราณที่ไม่ขยับเขยื้อนแล้ว\\nในบรรดาอาณาจักรโบราณที่สาบสูญ เคยมีคนกลุ่มหนึ่งที่หมกมุ่นอยู่กับหลักการของการจำลองสิ่งบนโลก ไม่ว่าจะเป็นระเบียบธาตุที่บริสุทธิ์ของ Hypostasis หรือพลังดึกดำบรรพ์ของมังกรในยุคโบราณ ต่างก็ควรได้รับการดัดแปลง ปรับปรุง จนก้าวล้ำได้ในที่สุด\\nและด้วยวิธีนี้ จะได้ก่อเกิดร่างกายที่เหนือกว่า บริสุทธิ์กว่า และสามารถแทนที่ระเบียบที่กำลังจะเสื่อมสลายไปได้",
+        "vi": "Đến từ Rồng Di Tích Cổ Đại không còn hoạt động.\\nTrong vương quốc cổ đại, có một nhóm người bị ám ảnh bởi nguyên lý về mô phỏng sinh mệnh. Cho dù là nguyên tố trật tự thuần túy nguyên bản hay sức mạnh nguyên thủy cổ xưa của rồng cũng đều nên chế tạo, cải tiến và nâng cấp.\\nBằng cách này, một cơ thể ưu việt và hoàn mỹ hơn sẽ thay thế trật tự đang bị hao mòn liên tục."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sango Pearl",
+        "de": "Sango-Perle",
+        "chs": "珊瑚真珠",
+        "cht": "珊瑚真珠",
+        "es": "Perla de coral",
+        "fr": "Perle de corail",
+        "id": "Sango Pearl",
+        "jp": "珊瑚真珠",
+        "kr": "산호 진주",
+        "pt": "Pérola Sango",
+        "ru": "Жемчужина Санго",
+        "th": "Sango Pearl",
+        "vi": "Trân Châu San Hô"
+    },
+    "id": 101207,
+    "materialDesc": {
+        "en": "A precious pearl that grows in the coral of Watatsumi. Gives off a cool sheen like that of the moonlight.",
+        "de": "Eine wertvolle Perle, die in den Korallen von Watatsumi wächst. Sie hat einen kühlen Glanz wie der des Mondlichts.",
+        "chs": "与海祇的珊瑚相伴而生的宝珠，散发着月光般的丝丝凉意。",
+        "cht": "與海祇的珊瑚相伴而生的寶珠，散發著月光般的絲絲涼意。",
+        "es": "Una perla de los arrecifes de coral de Watatsumi. Brilla con una luz fría parecida a la de la luna.",
+        "fr": "Une perle précieuse qui se trouve dans le corail de l'Île de Watatsumi. Elle possède une lueur qui rappelle celle de la lune.",
+        "id": "Mutiara berharga yang tumbuh di karang Watatsumi, memancarkan kilau dingin seperti cahaya bulan.",
+        "jp": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
+        "kr": "와타츠미의 산호와 함께 자란 보주. 달빛과 같은 서늘한 기운을 내뿜는다",
+        "pt": "Uma pérola preciosa que cresce nos corais de Watatsumi. Emite um brilho frio como o do luar.",
+        "ru": "Драгоценная жемчужина с берегов Ватацуми. Излучает мягкую лунную прохладу.",
+        "th": "ไข่มุกล้ำค่าที่เกิดมาเคียงคู่ปะการังบนเกาะ Watatsumi มันเปล่งประกายเยือกเย็นดุจแสงจันทร์",
+        "vi": "Trân châu được sinh ra cùng với san hô ở đảo Watatsumi, tỏa ra những tia sáng mát lành tựa ánh trăng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

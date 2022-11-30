@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Energy Orb (Any)",
+        "de": "Elementarenergiekugel (Alle)",
+        "chs": "元素能量球(全)",
+        "cht": "元素能量球(全)",
+        "es": "Orbe de energía (Todos)",
+        "fr": "Orbe d'énergie (tout)",
+        "id": "Small Energy Orb (All)",
+        "jp": "元素エネルギーボール(全)",
+        "kr": "원소 에너지 오브(전체)",
+        "pt": "Orbe de Energia (Todos)",
+        "ru": "Сфера энергии (Все)",
+        "th": "Energy Orb (Any)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Toàn)"
+    },
+    "id": 2008,
+    "materialDesc": {
+        "en": "Energy Orb (Any)",
+        "de": "Elementarenergiekugel (Alle)",
+        "chs": "元素能量球(全)",
+        "cht": "元素能量球(全)。",
+        "es": "Orbe de energía (Todos)",
+        "fr": "Orbe d'énergie (tout)",
+        "id": "Small Energy Orb (All)",
+        "jp": "元素エネルギーボール(全)",
+        "kr": "원소 에너지 오브(전체)",
+        "pt": "Orbe de Energia (Todos)",
+        "ru": "Сфера энергии (Все)",
+        "th": "Energy Orb (Any)",
+        "vi": "Cầu Năng Lượng Nguyên Tố (Toàn)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

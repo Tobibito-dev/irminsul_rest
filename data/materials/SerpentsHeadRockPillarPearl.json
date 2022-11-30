@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Serpent's Head: Rock Pillar Pearl",
+        "de": "Felssäulenperle (Schlangenkopf)",
+        "chs": "蛇神之首·磐柱镶珠",
+        "cht": "蛇神之首·磐柱鑲珠",
+        "es": "Perla del pilar de la Cabeza de la Serpiente",
+        "fr": "Perle de pilier rocheux de la Tête du serpent",
+        "id": "Serpent's Head: Mutiara Pilar Batu",
+        "jp": "蛇神の首·磐柱附玉",
+        "kr": "뱀신의 머리·암주 구슬",
+        "pt": "Cabeça da Serpente: Pérola do Pilar de Rocha",
+        "ru": "Голова змея - Жемчужина каменного столпа",
+        "th": "Serpent's Head - Rock Pillar Pearl",
+        "vi": "Đầu Thần Rắn - Ngọc Khảm Trụ"
+    },
+    "id": 100960,
+    "materialDesc": {
+        "en": "A precious pearl that emits Electro energy and a strangely-colored light. It seems to have some connection with the rock pillars on the island.",
+        "de": "Eine wertvolle Perle, die Elektroenergie und ein seltsam gefärbtes Licht ausstrahlt. Sie scheint eine Verbindung zu den Felssäulen auf der Insel zu haben.",
+        "chs": "散发着奇异光彩、逸散着雷元素的宝珠，似乎与岛上的磐柱存在某种关联…",
+        "cht": "散發著奇異光彩、逸散著雷元素的寶珠，似乎與島上的磐柱存在某種關聯…",
+        "es": "Una perla preciosa que emana energía Electro y un reflejo de color extraño. Parece que guarda alguna relación con los pilares de roca de la isla...",
+        "fr": "Une perle précieuse qui émet de l'énergie Électro et une lumière aux couleurs étranges. Elle semble avoir un lien avec les piliers rocheux de l'île.",
+        "id": "Mutiara berharga yang memancarkan energi Electro dan cahaya berwarna aneh. Mutiara ini sepertinya memiliki suatu hubungan dengan pilar-pilar batu di pulau itu...",
+        "jp": "異色の光を放ち、雷元素の力を漂わせる宝珠。島の磐柱と何かの繋がりが…",
+        "kr": "기이한 광채를 뿜어내며, 번개 원소를 흩뿌리고 있는 보주. 섬에 있는 바위 기둥과 어떤 연관이 있는 듯하다…",
+        "pt": "Uma pérola preciosa que emite energia Electro e uma luz de cor estranha. Parece ter alguma conexão com os pilares de rocha da ilha.",
+        "ru": "Эта драгоценная жемчужина испускает энергию Электро и сияет дивным светом. Похоже, она как-то связана с каменными столпами...",
+        "th": "ไข่มุกล้ำค่าที่ปล่อยพลังงานไฟฟ้าและแสงสีแปลกตา ดูเหมือนว่ามีส่วนเกี่ยวข้องกับเสาหินบนเกาะ...",
+        "vi": "Viên ngọc phát ra ánh sáng kỳ dị, lan tỏa nguyên tố lôi, hình như có mối liên hệ nào đó với các cột trụ trên đảo."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

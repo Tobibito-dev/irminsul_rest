@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt: Whistling Wind",
+        "de": "Mondstadt – Rauschen des Windes",
+        "chs": "蒙德·风吟",
+        "cht": "蒙德·風吟",
+        "es": "Mondstadt - Viento silbante",
+        "fr": "Mondstadt - Chant du vent",
+        "id": "Mondstadt: Embusan Angin",
+        "jp": "モンド·風吟",
+        "kr": "몬드·바람의 속삭임",
+        "pt": "Mondstadt - Vento Uivante",
+        "ru": "Песнь ветра",
+        "th": "Mondstadt - เสียงของสายลม",
+        "vi": "Mondstadt - Tiếng gió"
+    },
+    "id": 210024,
+    "materialDesc": {
+        "en": "Namecard style.\\nListen to the singing of Mondstadt's birds and winds.",
+        "de": "Ein Motiv für Namenskärtchen.\\nLausche dem Gesang der Vögel und dem Rauschen des Windes von Mondstadt.",
+        "chs": "名片纹饰。\\n听蒙德的鸟吟风唱。",
+        "cht": "名片紋飾。\\n聽蒙德的鳥吟風唱。",
+        "es": "Diseño de tarjeta de presentación.\\nEscucha el canto de los pájaros y los vientos de Mondstadt.",
+        "fr": "Thème.\\nAh, le chant du vent et des oiseaux de Mondstadt...",
+        "id": "Style kartu nama.\\nDengarkan nyanyian burung dan angin Mondstadt.",
+        "jp": "名刺の飾り紋。\\nモンドの鳥と風の詩を聞く。",
+        "kr": "명함 스킨.\\n몬드의 새소리와 바람의 노래를 들어라",
+        "pt": "Estilo de Cartão de Visita.\\nOuço o canto dos pássaros e dos ventos de Mondstadt.",
+        "ru": "Именная карта.\\nТолько прислушайтесь, как щебечут птицы и поёт ветер Мондштадта...",
+        "th": "ลายนามบัตร\\nฟังเสียงเพลงของหมู่นกน้อยและสายลมของ Mondstadt",
+        "vi": "Hoa văn danh thiếp.\\nNghe tiếng chim Mondstadt hót."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Galespring",
+        "de": "Windquell",
+        "chs": "风之泉",
+        "cht": "風之泉",
+        "es": "Manantial de viento",
+        "fr": "Source du vent",
+        "id": "Galespring",
+        "jp": "風の泉",
+        "kr": "바람의 샘",
+        "pt": "Vento da Fonte",
+        "ru": "Родник ветра",
+        "th": "Galespring",
+        "vi": "Suối Nguồn Của Gió"
+    },
+    "id": 200203,
+    "materialDesc": {
+        "en": "When a character's Plunging Attack hits an opponent, it will generate Elemental Particles that regenerate 6 energy and an Anemo Amber that will generate a wind current. This effect can be triggered once per 8s, and this CD is shared between all characters in the party.",
+        "de": "Erschafft beim Treffen von Gegnern mit Angriffen aus dem Fall Elementarteilchen, die 6 Punkte Elementarenergie wiederherstellen können, sowie einen Anemo-Bernstein, der nach dem Zerschlagen ein Windfeld erstellt. 8 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色的下落攻击命中敌人后，将产生能回复6点元素能量的元素微粒与击碎后会产生风场的风琥珀。该效果每8秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色的下落攻擊命中敵人後，將產生能回復6點元素能量的元素微粒與擊碎後會產生風場的風琥珀。該效果每8秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Al golpear a un enemigo con un Ataque Descendente, se generan una partícula elemental que regenera 6 pts. de Energía Elemental y un ámbar Anemo que crea una corriente de viento al romperlo. Esto puede ocurrir una vez cada 8 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'une attaque plongeante d'un personnage touche un ennemi, elle génère des particules élémentaires qui restaurent 6 pts d'énergie élémentaire et un ambre Anémo qui crée un champ de vent. Cet effet peut être déclenché une fois toutes les 8 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Serangan Plunging Attack yang mengenai musuh akan menghasilkan Elemental Particle yang memulihkan 6 Energy, serta menghasilkan Anemo Amber yang dapat menciptakan arus angin. Efek ini dapat terpicu setiap 8 detik, dan CD efek ini berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターの落下攻撃が敵に命中すると、元素エネルギーを6回復できる元素粒子と、破壊後に風域を作り出す風の琥珀が生成される。この効果は8秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터의 낙하 공격이 적을 명중하면, 원소 에너지가 6pt 회복하는 원소 입자와 파괴 후 윈드 필드를 만들어 내는 바람 호박을 생성한다. 해당 효과는 8초마다 최대 1회만 발동되며, 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Depois de o personagem acertar os inimigos com um Ataque Imersivo, serão criadas Partículas Elementais que regeneram 6 Pontos de Energia Elemental e um Âmbar do Vento que cria uma Corrente de Vento quando quebrado. Esse efeito pode acontecer uma vez a cada 8s. O tempo de recarga é compartilhado entre todos os personagens da equipe.",
+        "ru": "Когда персонаж попадает по врагу атакой в падении, появляются элементальные частицы, которые восстанавливают 6 ед. элементальной энергии, и Анемо янтарь, который создаёт ветряной поток, если его разбить. Эффект возникает раз в 8 сек. Время отката общее для всех членов отряда.",
+        "th": "หลังจากตัวละครโจมตีพุ่งลงจากอากาศ จะทำการผลิตอณูธาตุที่สามารถฟื้นฟู 6 พลังงานธาตุ และ Anemo Amber เมื่อทำลายแล้วจะเกิดสนามลมขึ้น เอฟเฟกต์นี้จะสามารถใช้ได้ หนึ่งครั้งในทุก 8 วินาที ซึ่งตัวละครทั้งหมดในทีมแชร์คูลดาวน์กัน",
+        "vi": "Sau khi tấn công đáp đất trúng kẻ địch, sẽ sản sinh Nguyên Tố Hạt Nhân hồi phục 6 năng lượng nguyên tố và Phong Hổ Phách sẽ tạo nguồn gió khi bị đánh vỡ. Hiệu ứng này mỗi 8s kích hoạt một lần, tất cả nhân vật đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

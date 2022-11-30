@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Crab Roe",
+        "de": "Krebsrogen",
+        "chs": "蟹黄",
+        "cht": "蟹黃",
+        "es": "Huevas de cangrejo",
+        "fr": "Œufs de crabe",
+        "id": "Crab Roe",
+        "jp": "かにみそ",
+        "kr": "꽃게알",
+        "pt": "Ova de Caranguejo",
+        "ru": "Крабовая икра",
+        "th": "Crab Roe",
+        "vi": "Gạch Cua"
+    },
+    "id": 100074,
+    "materialDesc": {
+        "en": "A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.",
+        "de": "Eine Delikatesse aus weiblichen Krebsen. In diesem seltenen wie teuren Rogen steckt die Essenz der Krebse, die allerdings nicht jedermanns Geschmack ist.",
+        "chs": "母蟹体内独有的美味。稀少而又珍贵的蟹黄，聚集了螃蟹的精华。但并非所有人都擅于品尝这种美味。",
+        "cht": "母蟹體內獨有的美味。稀少而又珍貴的蟹黃，聚集了螃蟹的精華。但並非所有人都擅於品嚐這種美味。",
+        "es": "Un manjar procedente de los cangrejos hembras. Un ingrediente raro y preciado que no es del gusto de todos.",
+        "fr": "Obtenus sur des crabes femelles, ces œufs sont des ingrédients rares qui ne sont malheureusement pas au goût de tout le monde.",
+        "id": "Bahan masakan lezat yang hanya terdapat di dalam kepiting betina. Bahan masakan langka dan berharga, tetapi ada sebagian orang yang tidak menyukainya.",
+        "jp": "カニには独自の美味しさがある。珍しくて貴重なかにみそは、カニのエッセンスが凝縮している。ただし、誰もがこの美味しさを好むわけではない。",
+        "kr": "암게에만 있는 별미. 희귀하고 귀한 식재료로 게의 정수가 모여있다. 그러나 모든 사람이 이 별미를 즐기진 않는다",
+        "pt": "Sabor especial dos caranguejos fêmeas. Um ingrediente raro que nem todos têm condições de apreciar.",
+        "ru": "Деликатес, получаемый из самок крабов. Редкий и ценный ингредиент, который не всем по вкусу.",
+        "th": "ส่วนที่สำคัญอย่างยิ่งของปูตัวเมีย อย่างไข่ปูนี้ เป็นสุดยอดวัตถุดิบอันเป็นดั่งรางวัล มีคนไม่มากนัก ที่จะเคยได้ลิ้มรสของมัน",
+        "vi": "Mỹ vị chỉ có trong cua cái. Gạch cua quý hiếm là tinh hoa của cua. Nhưng không phải ai cũng thích mùi vị này."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

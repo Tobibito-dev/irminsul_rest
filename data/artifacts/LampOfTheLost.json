@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Lamp of the Lost",
+        "de": "Lampe des Verirrten",
+        "chs": "迷误者之灯",
+        "cht": "迷誤者之燈",
+        "es": "Lámpara del Exilio",
+        "fr": "Lampe des perdus",
+        "id": "Lamp of the Lost",
+        "jp": "迷い人の灯",
+        "kr": "방황하는 자의 등잔",
+        "pt": "Lanterna do Perdido",
+        "ru": "Лампа заблудших",
+        "th": "Lamp of the Lost",
+        "vi": "Đèn Của Kẻ Lạc Lối"
+    },
+    "id": 23626,
+    "setId": 15025,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

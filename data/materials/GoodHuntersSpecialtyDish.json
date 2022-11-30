@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Good Hunter's Specialty Dish",
+        "de": "Spezialgericht vom Hirschjäger",
+        "chs": "猎鹿人餐馆的「特产餐品」",
+        "cht": "獵鹿人餐館的「特產餐品」",
+        "es": "Comida especial de El Buen Cazador",
+        "fr": "Plat spécial du Bon Chasseur",
+        "id": "Masakan Khas Good Hunter",
+        "jp": "鹿狩りの「おすすめ料理」",
+        "kr": "디어 헌터의 「특제 요리」",
+        "pt": "As especialidade do Caçador de Cervos",
+        "ru": "Особое блюдо «Хорошего охотника»",
+        "th": "\"เมนูพิเศษ\" ของร้านอาหาร Good Hunter",
+        "vi": "\"Đặc sản\" của quán Người Săn Hươu"
+    },
+    "id": 100542,
+    "materialDesc": {
+        "en": "An extra-special item from the Good Hunter menu. A durable and travel-ready reinvention of their Satisfying Salad, intended as a gift product. Despite this, the original flavor and texture apparently doesn't quite survive long journeys.",
+        "de": "Ein Spezialgericht vom Hirschjäger. Es besteht hauptsächlich aus einem sättigenden Salat, der perfekt für die Reise wie ein Geschenk verpackt ist. Allzu lange soll sich dieses Gericht aber wohl nicht halten.",
+        "chs": "从猎鹿人餐馆处拿到的「特产餐品」。是以「满足沙拉」为原材料制作，便于携带和存储的「礼物类食品」。但据说在长途运输后，味道和口感可能不太好…",
+        "cht": "從獵鹿人餐館處拿到的「特產餐品」。是以「滿足沙拉」為原材料製作，便於攜帶和儲存的「禮物類食品」。但據說在長途運輸後，味道和口感可能不太好…",
+        "es": "Una comida especial de El Buen Cazador. Es una reinterpretación de la ensalada saludable, fácil de conservar, de transportar y que podría servir como regalo. A pesar de ello, podría perder una parte de su sabor y textura si se transporta durante mucho tiempo.",
+        "fr": "Un plat spécial préparé par Le Bon Chasseur. Il s'agit d'une version compacte de leur salade copieuse, destinée à être un cadeau. Bien qu'elle soit faite pour être emportée en voyage, son goût et sa texture peuvent s'altérer avec le temps...",
+        "id": "Hidangan spesial tambahan untuk menu Good Hunter. Satisfying Salad yang tahan lama dan siap untuk dibawa bertualang, juga bisa diberikan sebagai hadiah. Meskipun demikian, rasa dan tekstur aslinya tampaknya tidak bisa bertahan lama dalam perjalanan panjang...",
+        "jp": "鹿狩りから獲得した「特製料理」。「満足サラダ」を原材料に作った携帯性と保存性を兼ね備えた「ギフト類食品」。長時間の運送で、味と食感が落ちるらしい…",
+        "kr": "디어 헌터에서 받은 「특제 요리」. 「만족 샐러드」를 토대로 만들어진 휴대와 저장에 용이한 「선물용 식품」. 장거리 운반 후엔 맛과 식감이 별로라고 한다…",
+        "pt": "Um item de especialidade do menu do restaurante Caçador de Cervos. Uma reinvenção durável e pronta para viajar, que tem Salada Saudável como ingredientes, e é destinado a ser um produto de presente. No entanto, o sabor e a textura originais aparentemente não sobrevivem após longas jornadas...",
+        "ru": "Особенное подарочное блюдо из меню «Хорошего охотника». Этот Питательный салат был подготовлен к долгому хранению. Однако пережив его, вряд ли он порадует кого-нибудь своим вкусом.",
+        "th": "\"เมนูพิเศษ\" ที่ได้มาจากร้าน Good Hunter นั้น เป็น \"เซ็ตอาหารของขวัญ\" ที่ทำมาจาก \"Satisfying Salad\" ซึ่งพกพาและจัดเก็บได้ง่าย แต่หากขนส่งระยะไกลแล้วรสชาติและรสสัมผัสอาจไม่ค่อยดีนัก...",
+        "vi": "\"Món ăn đặc sản\" lấy từ quán ăn của Người Săn Hươu. Dùng \"Gỏi Mãn Nguyện\" làm nguyên liệu chế biến chính, là \"món quà\" tiện cho việc mang theo và cất giữ. Nhưng nghe nói vận chuyển đường dài khiến cho mùi vị không được ngon lắm..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

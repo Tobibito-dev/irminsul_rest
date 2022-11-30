@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Sweet Shrimp Sushi",
+        "de": "Misslungenes Süßgarnelen-Sushi",
+        "chs": "奇怪的甜虾寿司",
+        "cht": "奇怪的甜蝦壽司",
+        "es": "Sushi de camarón extraño",
+        "fr": "Sushi aux crevettes (suspect)",
+        "id": "Suspicious Sweet Shrimp Sushi",
+        "jp": "微妙な甘エビの握り寿司",
+        "kr": "이상한 단새우 초밥",
+        "pt": "Sushi de Camarão Doce Estranho",
+        "ru": "Странные суши с креветками",
+        "th": "Sweet Shrimp Sushi รสประหลาด",
+        "vi": "Sushi Tôm Kỳ Lạ"
+    },
+    "id": 108321,
+    "materialDesc": {
+        "en": "A fresh and sweet traditional dish. The shrimp look a little shriveled, and a single bite leaves grains of rice stuck to your teeth. Note to self: best not to leave it out for so long next time...",
+        "de": "Ein frisches und süßes traditionelles Gericht. Die Garnelen sehen ein wenig verschrumpelt aus und ein einziger Bissen lässt Reiskörner an den Zähnen kleben. Muss ich mir merken: Das Gericht beim nächsten Mal am besten nicht so lange draußen lassen ...",
+        "chs": "口味鲜甜的传统食物。虾肉看起来有些干瘪，咬下去的时候与米粒一起粘在了牙齿上。看来下次不能放这么久才吃…",
+        "cht": "口味鮮甜的傳統食物。蝦肉看起來有些乾癟，咬下去的時候與米粒一起黏在了牙齒上。看來下次不能放這麼久才吃…",
+        "es": "Una comida fresca y tradicional. El camarón se ha quedado tieso como un palo y, al comerlo junto al arroz, todo se te queda pegado entre los dientes. Nota mental: no dejar que pase demasiado tiempo para comerlo...",
+        "fr": "Un plat frais et traditionnel. La chair des crevettes semble un peu sèche et les grains de riz collent aux dents quand on mord dedans. Il ne faut pas attendre trop longtemps pour le manger la prochaine fois...",
+        "id": "Sebuah hidangan tradisional yang manis dan segar. Udangnya terlihat sedikit layu, dan satu gigitan saja membuat butiran nasi menempel di gigimu. Catatan untuk diri sendiri: sebaiknya lain kali jangan dibiarkan lama-lama...",
+        "jp": "甘くて美味しい伝統料理。エビが乾き、噛むと米粒と一緒に歯にくっつく。どうやら長時間放置してから食べてはいけないようだ…",
+        "kr": "신선하고 달콤한 식감의 전통 음식. 말라붙은 새우 살은 쌀알과 함께 치아에 달라붙는다. 다음에는 오래 둔 음식을 먹으면 안 될 것 같다…",
+        "pt": "Um prato tradicional fresco e doce. O camarão parece um pouco murcho, e uma única mordida deixa grãos de arroz grudados nos dentes. Nota para si mesmo: é melhor não o deixar de fora por tanto tempo da próxima vez...",
+        "ru": "Свежее и сладкое традиционное блюдо. Креветки выглядят немного сморщенными, а зёрна риса прилипают к зубам. В следующий раз не стоит оставлять его надолго...",
+        "th": "อาหารดั้งเดิมที่มีรสชาติหวานสดชื่น เนื้อกุ้งดูค่อนข้างเหี่ยวเล็กน้อย เมื่อกัดลงไปเม็ดข้าวก็เหนียวเสียจนติดฟัน ดูแล้วคราวต่อไปคงปล่อยไว้นานขนาดนี้แล้วค่อยกินไม่ได้แล้วล่ะ...",
+        "vi": "Món ăn truyền thống có vị tươi ngọt. Thịt tôm trông hơi teo, khi nhai bị dính vào răng cùng với hạt cơm. Xem ra lần sau không nên để lâu như vậy..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

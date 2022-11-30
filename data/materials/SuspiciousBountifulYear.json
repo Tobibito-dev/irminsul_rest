@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Bountiful Year",
+        "de": "Misslungener Jahresfisch",
+        "chs": "奇怪的丰年有余",
+        "cht": "奇怪的豐年有餘",
+        "es": "Pescado de la abundancia extraño",
+        "fr": "Année d'abondance (suspecte)",
+        "id": "Suspicious Bountiful Year",
+        "jp": "微妙な実り豊か",
+        "kr": "이상한 풍요로운 한 해",
+        "pt": "Abundância Anual Estranha",
+        "ru": "Странное благополучие и процветание",
+        "th": "Bountiful Year รสประหลาด",
+        "vi": "Phúc Lộc Tràn Đầy Kỳ Lạ"
+    },
+    "id": 108366,
+    "materialDesc": {
+        "en": "Luxurious and exquisite raw fish. The unevenly mixed fish and condiments are as bedraggled on the plate as any dejected sailor washed ashore by roiling waves, and they do not arouse your appetites at all. Yet it would be such a further waste of these ingredients if you did not eat them — ah, what a morbid dilemma.",
+        "de": "Luxuriöses und exquisites Fisch-Sashimi. Der ungleichmäßig gemischte Fisch und die Gewürze liegen so unordentlich auf dem Teller wie ein niedergeschlagener Seemann, der von den aufgewühlten Wellen an Land gespült wird, und sie wecken nicht gerade deinen Appetit. Dabei wäre es eine weitere Verschwendung dieser Zutaten, wenn du sie nicht essen würdest. Ach, was für ein morbides Dilemma.",
+        "chs": "豪华精致的鱼生。参差不齐的佐料和鱼肉，仿佛遭遇过滔天巨浪般，垂头丧气地贴在盘子上，无法勾起丝毫食欲。只是用料如此丰厚，不吃可就浪费了，真是骑虎难下呀…",
+        "cht": "豪華精緻的魚生。參差不齊的佐料和魚肉，彷彿遭遇過滔天巨浪般，垂頭喪氣地貼在盤子上，無法勾起絲毫食欲。只是用料如此豐厚，不吃可就浪費了，真是騎虎難下呀…",
+        "es": "Lujoso y exquisito sashimi. Los condimentos y el pescado, mezclados sin orden ni concierto, parecen haber sido arrasados por una ola gigante y colocados tristemente en el plato, por lo que no resulta nada apetitoso. Sin embargo, tiene tantos ingredientes que sería una pena tirarlo a la basura, así que ¿qué más remedio que comerlo?",
+        "fr": "Sashimi luxueux et délicat. Le poisson et les condiments ont été disposés de manière tellement désordonnée qu'on dirait qu'ils ont été emportés par un raz-de-marée avant de s'échouer sur l'assiette si bien que ça ne vous ouvre pas tellement l'appétit. Mais à quoi bon, ce serait du gâchis de les laisser...",
+        "id": "Ikan sashimi yang terlihat mewah dan indah. Tapi bumbu ikan yang tercampur dengan tidak merata di atas piring bagaikan menggambarkan seorang pelaut sedih yang terdampar di pantai oleh gelombang ombak yang bergejolak, benar-benar tidak menggugah selera. Tapi sayang juga jika tidak dimakan — ah, sungguh sebuah kegalauan yang menyulitkan.",
+        "jp": "贅沢な極上のお刺身。しかし切り身は不揃いで、大波に飲まれたかのような魚は、頭を下げて皿に張り付いている。全く食欲がそそられないが、たっぷりと盛り付けられているため、食べないともったいない一品…",
+        "kr": "호화롭고 정교한 생선회. 살코기와 조미료가 풍랑을 겪은 것처럼 들쑥날쑥하고, 힘없이 접시에 붙어있는 모양새에 입맛이 다 떨어진다. 다만 풍성한 재료로 만든 요리를 안 먹으면 낭비니, 이러지도 저러지고 못하겠다…",
+        "pt": "Sashimi luxuoso e requintado. O peixe e os temperos misturados desigualmente estão tão bagunçados que parecem terem sido trazidos por uma onda gigante do mar, tornando o prato pouco apetitoso. No entanto, seria um desperdício desses ingredientes se você não os comesses. Que dilema...",
+        "ru": "Изысканное сашими. Неравномерно перемешанные рыба и приправы лежат на тарелке так, словно они были выброшены на берег бушующими волнами, и совсем не вызывают аппетита. И всё же было бы слишком расточительно не съесть их. Непростой выбор.",
+        "th": "ซาชิมิสุดหรูหราและวิจิตรบรรจง เครื่องปรุงรสและซาชิมิถูกจัดวางสะเปะสะปะ ราวกับถูกคลื่นยักษ์โถมเข้าใส่ จนล้มระเนระนาดอยู่บนจาน ไม่สามารถกระตุ้นความอยากอาหารได้เลยแม้แต่น้อย แต่ใช้วัตถุดิบหรูหราขนาดนี้ ถ้าไม่กินคงจะเสียดายแย่ ช่างเป็นอะไรที่กลืนไม่เข้าคายไม่ออกจริง ๆ ...",
+        "vi": "Món Sashimi sang trọng tinh tế. Nhưng những loại gia vị lởm chởm và thịt cá như mới chạm trán sóng thần, gục đầu ủ rũ trong đĩa, không thể khơi dậy một chút cảm giác thèm ăn nào. Chỉ là nguyên liệu quá phong phú nên nếu bạn không ăn thì sẽ rất lãng phí. Thực sự không biết nên bắt đầu từ đâu..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

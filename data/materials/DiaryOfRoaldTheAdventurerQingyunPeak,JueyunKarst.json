@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diary of Roald the Adventurer: Qingyun Peak, Jueyun Karst",
+        "de": "Tagebuch des Abenteurers Roald – Qingyun-Gipfel, Jueyun-Karst",
+        "chs": "冒险家罗尔德的日志·绝云间·庆云顶",
+        "cht": "冒險家羅爾德的日誌·絕雲間·慶雲頂",
+        "es": "Diario del aventurero Roald: Desfiladero Jueyun y Cima Chingyun",
+        "fr": "Journal de l'aventurier Roald - Pic Qingyun, Karst Jueyun",
+        "id": "Jurnal Roald sang Petualang: Qingyun Peak, Jueyun Karst",
+        "jp": "冒険者ロアルドの日誌·絶雲の間·慶雲頂",
+        "kr": "모험가 로알드의 일지·절운간·경운봉",
+        "pt": "Diário do Aventureiro Roald - Relevo de Jueyun e Pico de Qingyun",
+        "ru": "Дневники Роальда, искателя приключений: Заоблачный предел, пик Цинъюнь",
+        "th": "บันทึกการเดินทางของนักผจญภัย Roald - Jueyun Karst - Qingyun Peak",
+        "vi": "Nhật Ký Nhà Mạo Hiểm Roald - Tuyệt Vân Gián - Khánh Vân Đỉnh"
+    },
+    "id": 100390,
+    "materialDesc": {
+        "en": "A diary left behind by the famed adventurer, Roald. The pages have the scent of flowers that grow on cliffs.",
+        "de": "Das Tagebuch des berühmten Abenteurers Roald. An den Seiten haftet der Duft von Blümchen, die in Felsspalten wachsen.",
+        "chs": "著名冒险家罗尔德的日志，纸上有山壁岩缝间小花的芳香。",
+        "cht": "著名冒險家羅爾德的日誌，紙上有山壁岩縫間小花的芳香。",
+        "es": "Un diario escrito por el famoso aventurero Roald. El papel tiene la fragancia de las pequeñas flores que crecen en los acantilados.",
+        "fr": "Un journal laissé par le célèbre aventurier Roald, dégageant le parfum des fleurs qui poussent sur les falaises.",
+        "id": "Sebuah buku harian yang ditinggalkan oleh petualang terkenal, Roald. Halamannnya menebarkan wangi bunga yang tumbuh di tebing curam.",
+        "jp": "有名な冒険者ロアルドが偶然残した日誌。紙には山や岩の隙間にある花の香りがする。",
+        "kr": "유명한 모험가 로알드의 일지. 종이에서 절벽 틈에서 피는 꽃의 향기가 난다",
+        "pt": "Um diário deixado para trás pelo famoso aventureiro, Roald. As páginas têm o cheiro das flores que crescem nos penhascos.",
+        "ru": "Дневник искателя приключений Роальда, оставленный в походном лагере. Его страницы пахнут высокогорными цветами.",
+        "th": "บันทึกการเดินทางของ Roald นักผจญภัยชื่อดัง ที่หน้ากระดาษมีกลิ่นหอมของดอกไม้เล็ก ๆ ที่ขึ้นอยู่บนรอยแตกของหินภูเขา",
+        "vi": "Nhật ký được Nhà Mạo Hiểm nổi tiếng Roald để lại, trên giấy có mùi thơm của loài hoa nhỏ thuộc vùng núi đá."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

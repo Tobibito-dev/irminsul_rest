@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ministry of Civil Affairs' Affidavit",
+        "de": "Dokument vom Rat für Allgemeine Angelegenheiten",
+        "chs": "总务司备案文件",
+        "cht": "總務司備案文件",
+        "es": "Documento del Ministerio de Asuntos Civiles",
+        "fr": "Documents du Bureau des affaires civiles",
+        "id": "Keterangan Tertulis dari Bagian Urusan Sipil",
+        "jp": "総務司備案書類",
+        "kr": "총무부 서류",
+        "pt": "Declaração Juramentada do Ministério dos Assuntos Civis",
+        "ru": "Документ из департамента",
+        "th": "สำเนาเอกสารของฝ่ายกิจการทั่วไป",
+        "vi": "Hồ Sơ Tổng Vụ"
+    },
+    "id": 100838,
+    "materialDesc": {
+        "en": "The Ministry of Civil Affairs' filing documents, obtained from Mingxing Jewelry.",
+        "de": "Vom „Warenhaus Mingxing“ erhaltenes Dokument, ausgestellt vom Rat für Allgemeine Angelegenheiten.",
+        "chs": "从「明星斋」处得到的总务司备案文件。",
+        "cht": "從「明星齋」處得到的總務司備案文件。",
+        "es": "Un documento del Ministerio de Asuntos Civiles obtenido de Joyas Mingxing.",
+        "fr": "Les documents du registre du Bureau des affaires civiles, obtenus auprès de la Bijouterie Mingxing.",
+        "id": "Dokumen arsip Bagian Urusan Sipil yang didapatkan dari Mingxing Jewelry.",
+        "jp": "「明星斎」から入手した総務司備案書類。",
+        "kr": "「명성재」에서 획득한 총무부 서류",
+        "pt": "Os documentos de registro do Ministério de Assuntos Civis, obtidos da Joalheria Mingxing.",
+        "ru": "Документ Департамента по делам граждан из ювелирного дома «Минсин».",
+        "th": "สำเนาเอกสารของทางฝ่ายกิจการทั่วไปจาก Mingxing Jewelry",
+        "vi": "Văn kiện tổng vụ nhận được từ chỗ \"Minh Tinh Trai\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Matsutake Meat Rolls",
+        "de": "Misslungene mit Matsutake gefüllte Fleischröllchen",
+        "chs": "奇怪的松茸酿肉卷",
+        "cht": "奇怪的松茸釀肉捲",
+        "es": "Rollos de carne con matsutake extraños",
+        "fr": "Rouleaux de viande aux matsutake (suspect)",
+        "id": "Suspicious Matsutake Meat Roll",
+        "jp": "微妙な松茸の肉巻き",
+        "kr": "이상한 버섯고기말이",
+        "pt": "Enroladinho Estranho de Carne com Matsutake",
+        "ru": "Странные голубцы с грибами",
+        "th": "Matsutake Meat Roll รสประหลาด",
+        "vi": "Nhung Tùng Ủ Thịt Cuộn Kỳ Lạ"
+    },
+    "id": 108089,
+    "materialDesc": {
+        "en": "A pan-fried meat dish. Though the dry and tough texture is miles away from what it could be, the Matsutake is too nutritious to let it go to waste.",
+        "de": "Ein langsam gebratenes Fleischgericht. Der verschrumpelte Anblick hat zwar nichts mit dem Original zu tun. Verschwenden sollte man dieses Gericht aber aufgrund der hohen Nährwerte der Matsutake lieber nicht.",
+        "chs": "煎制而成的肉料理。虽然干瘪的味道与想象中隔了一条碧水河，但鉴于松茸的营养价值，还是不要浪费为好。",
+        "cht": "煎製而成的肉料理。雖然乾癟的味道與想像中隔了一條碧水河，但鑑於松茸的營養價值，還是不要浪費為好。",
+        "es": "Un plato de carne salteada. La diferencia entre este plato rancio y el ideal es abismal. Pero debido al alto valor nutricional del matsutake, sería un desperdicio no comerlo.",
+        "fr": "Un plat de viande hachée poêlée. Sa texture sèche et rugueuse est loin d'être idéale, mais on se force à le manger pour ne pas gaspiller les champignons.",
+        "id": "Hidangan daging yang digoreng. Meskipun teksturnya kering dan keras, matsutakenya terlalu bergizi untuk dibuang sia-sia.",
+        "jp": "肉を焼いた料理。乾いた松茸は想像と大違い。でも松茸の栄養素を考えると、捨てない方がいい。",
+        "kr": "구운 고기 요리. 바싹 말라비틀어져 상상했던 맛과는 전혀 다르지만 송이버섯의 영양가를 생각해서 참는다",
+        "pt": "Um prato de carne frito. Embora a textura seca e resistente esteja muito longe do que poderia ser, o Matsutake é muito nutritivo para deixá-lo ir para o lixo.",
+        "ru": "Мясное блюдо, приготовленное на сковороде. Его сухая и жёсткая текстура отталкивает вас, но питательные грибы мацутакэ заставляют вас доесть это блюдо до конца.",
+        "th": "อาหารจำพวกเนื้อสัตว์ทอด ซึ่งถึงแม้ว่ารสชาติจะต่างกับที่ จินตนาการไว้อย่างลิบลับ แต่เมื่อพิจารณาถึงคุณค่าทางโภชนาการของเห็ดมัตสึทาเคะแล้วก็คงต้องฝืนใจกลืนลงท้องไป",
+        "vi": "Món thịt chiên. Tuy rằng khô khốc khác hẳn với tưởng tượng, nhưng do giá trị dinh dưỡng của Nhung Tùng, thì vẫn không nên lãng phí."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

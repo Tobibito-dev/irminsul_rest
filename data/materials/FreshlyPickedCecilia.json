@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Freshly-Picked Cecilia",
+        "de": "Frisch gepflückte Cecilia",
+        "chs": "刚摘下的塞西莉亚花",
+        "cht": "剛摘下的塞西莉亞花",
+        "es": "Cecilia recién recogida",
+        "fr": "Cécilia fraîchement cueilli",
+        "id": "Cecilia Segar",
+        "jp": "摘みたてのセシリアの花",
+        "kr": "방금 딴 세실리아꽃",
+        "pt": "Cecília Recém Colhida",
+        "ru": "Свежесорванная сесилия",
+        "th": "Cecilia ที่เพิ่งเก็บมา",
+        "vi": "Hoa Cecilia Vừa Hái"
+    },
+    "id": 101652,
+    "materialDesc": {
+        "en": "A freshly-picked Cecilia with a pleasant fragrance.",
+        "de": "Eine frisch gepflückte Cecilia. Geeignet für die Verwendung als Exemplar.",
+        "chs": "刚摘下来的塞西莉亚花，还散发着花香。",
+        "cht": "剛摘下來的塞西莉亞花，還散發著花香。",
+        "es": "Una cecilia recién arrancada y que aún emite cierta fragancia.",
+        "fr": "Un cécilia fraîchement cueilli. Peut être utilisé comme échantillon.",
+        "id": "Cecilia segar. Cocok digunakan sebagai spesimen.",
+        "jp": "摘みたてのセシリアの花。花の香りがまだ漂っている。",
+        "kr": "방금 딴 세실리아꽃. 아직 향기로운 냄새가 난다",
+        "pt": "Uma Cecília recém colhida. Ainda está emanando sua fragrância.",
+        "ru": "Свежесорванная сесилия. Ещё источает аромат.",
+        "th": "Cecilia ที่เพิ่งเก็บมา ยังมีกลิ่นหอมของดอกไม้อยู่",
+        "vi": "Hoa Cecilia vừa mới hái, vẫn còn lan tỏa hương hoa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

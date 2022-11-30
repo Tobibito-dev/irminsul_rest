@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pharmacist's Notebook (III)",
+        "de": "Notizbuch des Apothekers III",
+        "chs": "药师的笔记本·三",
+        "cht": "藥師的筆記本·三",
+        "es": "Nota del boticario (III)",
+        "fr": "Carnet de pharmacien III",
+        "id": "Buku Catatan Apoteker (III)",
+        "jp": "薬師の手帳·三",
+        "kr": "약사의 수첩·세 번째",
+        "pt": "Caderno do Farmacêutico (III)",
+        "ru": "Дневник травника (III)",
+        "th": "สมุดบันทึกของเภสัชกร III",
+        "vi": "Nhật Ký Dược Sư III"
+    },
+    "id": 100973,
+    "materialDesc": {
+        "en": "Notes left by Yasumoto. It shows some signs of blotching and water damage.",
+        "de": "Von Yasumoto zurückgelassene Aufzeichnungen, die einige Flecken und Wasserschäden aufweisen.",
+        "chs": "保本留下的笔记，其上有些许污损痕迹。",
+        "cht": "保本留下的筆記，其上有些許汙損痕跡。",
+        "es": "Unas notas escritas por Yasumoto. Tienen algunas manchas y marcas.",
+        "fr": "Des notes laissées par Yasumoto. Elles ont été légèrement abimées par des taches et de l'eau.",
+        "id": "Catatan yang ditinggalkan Yasumoto, terdapat sedikit kerusakan di dalamnya.",
+        "jp": "保本が残したノート。少し汚れている。",
+        "kr": "야스모토가 남긴 노트, 조금 훼손 된 흔적이 있다",
+        "pt": "Notas deixadas por Yasumoto. Parecem ter alguns vestígios de contaminação.",
+        "ru": "Заметки, оставленные Ясумото. На них видны следы воздействия воды.",
+        "th": "บันทึกที่ Yasumoto ทิ้งไว้ มีร่องรอยของความเลอะเทอะเสียหาย",
+        "vi": "Nhật ký của Yasumoto để lại, bên trên có một vài vết bẩn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

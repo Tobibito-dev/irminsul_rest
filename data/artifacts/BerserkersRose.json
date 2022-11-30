@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Berserker's Rose",
+        "de": "Berserkerrose",
+        "chs": "战狂的蔷薇",
+        "cht": "戰狂的薔薇",
+        "es": "Rosa del Berserker",
+        "fr": "Rose du Berserker",
+        "id": "Berserker's Rose",
+        "jp": "狂戦士の薔薇",
+        "kr": "전투광의 장미",
+        "pt": "Rosa de Berserker",
+        "ru": "Роза берсерка",
+        "th": "Berserker's Rose",
+        "vi": "Tường Vi Cuồng Chiến"
+    },
+    "id": 23529,
+    "setId": 10005,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

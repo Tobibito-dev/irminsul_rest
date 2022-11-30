@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Veiled Mercury Elixir",
+        "de": "Quecksilberkugeln des Nebelschleiers",
+        "chs": "雾海云间的汞丹",
+        "cht": "霧海雲間的汞丹",
+        "es": "Perdigones de mercurio",
+        "fr": "Mercure karstique",
+        "id": "Mist Veiled Mercury Elixir",
+        "jp": "霧海雲間の水銀",
+        "kr": "안개구름 속의 수은단",
+        "pt": "Elixir de Mercúrio com Véu de Névoa",
+        "ru": "Ртутная пилюля Заоблачного моря",
+        "th": "Mist Veiled Mercury Elixir",
+        "vi": "Hống Đơn Biển Sương Mù"
+    },
+    "id": 114018,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nWith Fulu (Sigils), the adepti can store their power in the form of symbols, and with Waijing (Sub-Space Creation) they can fashion a cosmic paradise with the power of their minds. The manufacture of elixirs, however, has always been shrouded in mystery, for certain death follows for any who swallow them.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nTalismane verschaffen den Adepten mithilfe von Symbolen Stärke. Mit der Kraft ihres Willens können sie ganze Universen schaffen. Doch die magischen Kugeln sind noch immer ein Rätsel. Schließlich stirbt man auf der Stelle, sobald man versucht, eine davon zu sich zu nehmen.",
+        "chs": "赋予武器突破之力的材料。\\n符箓可以让仙人力量借符号残留，外景可以用心像造出宇宙洞天。丹鼎之术，则一直笼罩在秘密之中。毕竟尝试吞下这些金丹的话，结果必定十死无生。",
+        "cht": "賦予武器突破之力的材料。\\n符籙可以讓仙人力量借符號殘留，外景可以用心像造出宇宙洞天。丹鼎之術，則一直籠罩在秘密之中。畢竟嘗試吞下這些金丹的話，結果必定十死無生。",
+        "es": "Material de ascensión de arma.\\nCon los fulu (talismanes), los Adeptus pueden almacenar su poder en forma de símbolos. Con el waijing (creación dimensional), pueden crear un paraíso cósmico gracias al poder de sus mentes. Sin embargo, los danding (perdigones) siempre han estado envueltos en misterio, ya que provocan la muerte a cualquiera que los manipule.",
+        "fr": "Matériau d'élévation d'arme.\\nGrâce aux talismans, les Adeptes peuvent insuffler une quantité de leurs pouvoirs sous forme de symboles. L'illusion leur permet de créer une projection cosmique grâce à leur esprit. La fabrication de ce type de matière est un art secret ; n'importe qui assez fou pour ingérer ces billes le regretterait fortement.",
+        "id": "Material Ascension Senjata.\\nDengan Fulu (Jimat), Adeptus dapat menyimpan kekuatannya dalam bentuk simbol, dengan Waijing (Penciptaan Ruang) mereka bisa membuat surga kosmik dengan kekuatan pikiran mereka. Namun pembuatan elixir masih juga menjadi sebuah misteri, karena kematian pasti akan terjadi pada siapa pun yang menelannya.",
+        "jp": "武器に突破の力を付与する材料。\\n呪符は仙人の力を符号という形で残すことができ、外景経は心像を使って宇宙を作ることができるが、錬丹術は今でも秘密に包まれている。なぜなら、これらの金丹を呑みこむことは死を意味するからである。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n부적은 선인의 힘을 글에 남게 하는 것이고 외경은 마음을 통해 삼라만상을 여는 것이다. 연단술은 늘 베일에 싸여있다. 이 금단을 삼키면 반드시 죽을 테니까…",
+        "pt": "Material de Ascensão de Armas.\\nCom os talismãs, os Adepti podem armazenar seu poder na forma de símbolos, e com a Radiação Exterior podem criar um paraíso cósmico com o poder de suas mentes. A fabricação de elixires, no entanto, sempre foi envolta em mistério, pois a morte segue para quem os engole.",
+        "ru": "Материал возвышения оружия.\\nС помощью талисманов Адепты могут хранить свою силу в форме символов, а сотворение подпространства даёт им возможность создать космический рай при помощи силы разума. Лишь производство зелий покрыто вечной тайной, ибо выпившие их уже не могут ничего рассказать.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nFulu เป็นสัญลักษณ์ที่สามารถทำให้ยืมพลังของเซียนได้ Waijing สามารถสร้างหลุมจักรวาลด้วยหัวใจ ทักษะของ Danding กลับถูกเก็บเป็นความลับตลอดมา หากว่าได้ลองกลืนเจ้าสิ่งนี้ลงไปล่ะก็ มีสิบชีวิตก็ยังไม่พอ",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nBùa chú có thể giúp lưu giữ lại sức mạnh của tiên nhân, ngoại cảnh có thể tạo ra vũ trụ trời đất. Thuật luyện đơn thì vẫn còn nằm trong bí mật. Tóm lại thử nuốt những kim đơn này thì không có hy vọng sống."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

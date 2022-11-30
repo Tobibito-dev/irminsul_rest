@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Aranyaka",
+        "de": "„Aranyaka“",
+        "chs": "「森林书」",
+        "cht": "「森林書」",
+        "es": "Escrituras Araniaka",
+        "fr": "Aranyaka",
+        "id": "Aranyaka",
+        "jp": "「森林書」",
+        "kr": "「숲의 책」",
+        "pt": "Aranyaka",
+        "ru": "Араньяка",
+        "th": "ตำราอรัญญกา",
+        "vi": "Aranyaka"
+    },
+    "id": 220055,
+    "materialDesc": {
+        "en": "Arama handed this book over to you.\\nIt seems to have witnessed the passage of many years. By the look of things, someone used to keep records in it, but none of that can be retrieved now.\\nUse it to document your shared adventure with Arama.",
+        "de": "Arama hat dir dieses Buch übergeben.\\nEs scheint den Lauf der Zeit mitgemacht zu haben. So wie es aussieht, hat jemand darin Aufzeichnungen geschrieben, die jetzt nicht mehr auffindbar sind.\\nNutze es, um dein gemeinsames Abenteuer mit Aranara zu dokumentieren.",
+        "chs": "兰罗摩交给你的书。\\n看起来经历了很多年月。原本似乎有人在上面记录过什么，但那些内容已经失落了。\\n用来记载与兰那罗一同冒险的故事吧。",
+        "cht": "#蘭羅摩交給{F#妳}{M#你}的書。\\n看起來經歷了很多年月。原本似乎有人在上面記錄過什麼，但那些內容已經失落了。\\n用來記載與蘭那羅一同冒險的故事吧。",
+        "es": "Un cuaderno que te dio Arama.\\nTiene el aspecto de haber presenciado muchas primaveras. Parece que antes alguien registraba cierto contenido en su interior, pero este acabó deteriorándose y desapareciendo con el paso del tiempo.\\nPuedes usarlo para registrar tus aventuras con los aranara.",
+        "fr": "Un livre que vous a remis Arama.\\nIl semble avoir été témoin du passage de nombreuses années. Il semblerait que quelqu'un y ait noté des choses, mais certains des écrits qui y figuraient ont été perdus.\\nServez-vous-en pour documenter votre aventure avec les aranaras.",
+        "id": "Arama memberikan buku ini padamu.\\nSepertinya buku ini telah ada selama bertahun-tahun. Dan kelihatannya, seseorang dulu mencatat banyak hal di dalamnya tapi sekarang sepertinya tidak berguna.\\nGunakanlah buku ini untuk mendokumentasikan petualanganmu bersama dengan Aranara.",
+        "jp": "アランマが渡してくれた書物。\\n長い年月を経てきたようだ。元々は誰かが何かを記録していたようだが、その内容はすでに失われている。\\nこれを使って、アランナラとの冒険談を記録しよう。",
+        "kr": "아란마가 건네준 책.\\n수많은 세월을 겪은 듯하다. 원래는 무언가 기록되어 있었던 것 같지만 이제는 사라지고 없다.\\n아란나라와 함께 모험한 이야기를 기록하는 데 사용하자",
+        "pt": "Arama lhe deu esse livro.\\nParece ter testemunhado a passagem de muitos anos. Alguém talvez o tenha utilizado para registrar algo, mas todo seu o conteúdo agora está perdido.\\nUse-o para documentar suas aventuras com os Aranaras.",
+        "ru": "Книга, полученная от Арамы.\\nСудя по виду, у этой книги долгая история. Первоначально её использовали как тетрадь для заметок, но восстановить их уже невозможно.\\nЗапишите сюда историю ваших приключений с аранарами.",
+        "th": "หนังสือที่ Arama ให้คุณมา\\nดูจะผ่านกาลเวลามาหลายปี แรกเริ่มเหมือนเคยมีคนจดบันทึกอะไรบางอย่างไว้ แต่เนื้อหาพวกนั้นได้หายไปหมดแล้ว\\nงั้นใช้มันมาบันทึกเรื่องราวการผจญภัยไปกับ Aranara กันเถอะ",
+        "vi": "Sách Arama đưa cho bạn.\\nCó vẻ như nhiều năm đã trôi qua. Ban đầu dường như ai đó đã ghi lại điều gì đó trên đó, nhưng nội dung đó đã bị mất.\\nHãy dùng nó để ghi chép lại câu chuyện mạo hiểm cùng Aranara."
+    },
+    "materialType": "MATERIAL_ARANARA"
+}

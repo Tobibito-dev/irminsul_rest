@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Investigation Journal: Part II",
+        "de": "Antike Expeditionsprotokolle – Teil 2",
+        "chs": "古老的考察日志·其之二",
+        "cht": "古老的考察日誌·其之二",
+        "es": "Diario de investigación antiguo (II)",
+        "fr": "Journal d'inspection ancien - Partie II",
+        "id": "Catatan Ekspedisi Kuno: Bag. II",
+        "jp": "古い考察日誌·2",
+        "kr": "오래된 고찰 일지·두 번째",
+        "pt": "Registros de Expedições Antigas: Parte II",
+        "ru": "Древний дневник исследователя. Часть II",
+        "th": "บันทึกการสำรวจโบราณ: ตอนที่ 2",
+        "vi": "Nhật Ký Khảo Sát Cũ (II)"
+    },
+    "id": 100692,
+    "materialDesc": {
+        "en": "An investigation journal found in the basement of the ice-covered ruins.\\nIts author seems to have been a member of the aristocracy that once ruled Mondstadt.",
+        "de": "Ein Forschungstagebuch, das in Eis gefroren in den Ruinen einer Krypta gefunden wurde.\\nEs scheint, dass sein Verfasser ein Mitglied der Aristokraten war, welche in der Vergangenheit über Mondstadt herrschten.",
+        "chs": "在冰封的遗迹地窖下，发现的考察日志。\\n记事者似乎是过去统治蒙德的贵族。",
+        "cht": "在冰封的遺蹟地窖下，發現的考察日誌。\\n記事者似乎是過去統治蒙德的貴族。",
+        "es": "Un diario de investigación encontrado en la cripta de unas ruinas congeladas.\\nParece que su escritor fue miembro de la nobleza que gobernó Mondstadt en el pasado.",
+        "fr": "Un journal d'inspection trouvé dans le sous-sol des ruines couvertes de glace.\\nSon auteur semble avoir été membre de l'aristocratie qui dirigeait autrefois Mondstadt.",
+        "id": "Sebuah catatan ekspedisi yang ditemukan di gudang bawah tanah reruntuhan yang membeku.\\nSepertinya penulis catatan ini adalah seorang bangsawan yang pernah memerintah Mondstadt.",
+        "jp": "氷に封鎖された遺跡の地下で発見した考察日誌。\\nこれを記した者は、過去にモンドを統治していた貴族のようだ。",
+        "kr": "얼어붙은 유적의 지하에서 발견한 고찰 일지.\\n과거 몬드를 통치하던 귀족이 쓴 것 같다",
+        "pt": "Um diário de investigações encontrado em um porão nas ruínas cobertas de neve.\\nSeu autor parece ter sido um membro da aristocracia que uma vez governou Mondstadt.",
+        "ru": "Журнал исследований, найденный в подземелье руин, покрытых льдом. Похоже, что его автор был одним из аристократов, которые когда-то правили Мондштадтом.",
+        "th": "บันทึกการสำรวจที่พบบริเวณชั้นใต้ดิน ของโบราณสถานที่ปกคลุมไปด้วยน้ำแข็ง\\nดูเหมือนว่าผู้จดบันทึกจะเป็นชนชั้นสูงที่เคยปกครอง Mondstadt มาก่อน",
+        "vi": "Nhật ký khảo sát phát hiện dưới hầm phế tích bị đóng băng.\\nNgười ghi chép có lẽ là quý tộc thống trị Mondstadt trước đây."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

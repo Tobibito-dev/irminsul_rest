@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of Resistance",
+        "de": "Philosophie des „Widerstands“",
+        "chs": "「抗争」的哲学",
+        "cht": "「抗爭」的哲學",
+        "es": "Filosofía de la resistencia",
+        "fr": "Philosophie de la Résistance",
+        "id": "Philosophies of \"Resistance\"",
+        "jp": "「抗争」の哲学",
+        "kr": "「투쟁」의 철학",
+        "pt": "Filosofia de Resistência",
+        "ru": "Философия о «Борьбе»",
+        "th": "Philosophies of Resistance",
+        "vi": "Triết Học Của \"Kháng Chiến\""
+    },
+    "id": 104306,
+    "materialDesc": {
+        "en": "Talent Level-Up material.\\nResistance is the backbone of the land of the wind.\\nThe history of Mondstadt is one of resistances. People rose up to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land.",
+        "de": "Material zum Verbessern von Talenten.\\nWiderstand ist Stütze des Reiches des Windes.\\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts wird in Liedern besungen werden. Der Wind wird ihn so bis in ferne Gegenden tragen.",
+        "chs": "天赋培养素材。\\n风之国土的脊梁是抗争。\\n蒙德的历史即是抗争的历史。抗争是为了蒙德未来的诗文，也能自由地随着眷顾的风，传到远方。",
+        "cht": "天賦培養素材。\\n風之國土的脊樑是抗爭。\\n蒙德的歷史即是抗爭的歷史。抗爭是為了蒙德未來的詩文，也能自由地隨著眷顧的風，傳到遠方。",
+        "es": "Material de mejora de talento.\\nLa resistencia es la columna vertebral del Reino del Viento.\\nLa historia de Mondstadt es una historia de resistencia. Gracias a ella, la poesía es libre como el viento y se extiende por todos los rincones de la región.",
+        "fr": "Matériau d'amélioration d'aptitude.\\nLa résistance constitue l'échine du Royaume.\\nElle a marqué son histoire à travers les âges. Certains se sont soulevé pour que la poésie de Mondstadt se répande aussi librement que le vent à travers les terres.",
+        "id": "Material Penguatan Talenta.\\nPerlawanan adalah tulang punggung Kerajaan Angin.\\nSejarah Mondstadt adalah sejarah perlawanan. Rakyat bangkit untuk membiarkan puisi Mondstadt di masa depan bebas seperti angin yang menyebar ke seluruh negeri.",
+        "jp": "天賦育成素材。\\n風の国の支柱は抗争である。\\nモンドの歴史はすなわち抗争の歴史。モンドの未来の詩と文章が風と共に自由に遠くまで伝わるために抗争する。",
+        "kr": "특성 육성 소재.\\n바람의 나라의 중추는 투쟁이다.\\n몬드의 역사는 투쟁의 역사다. 투쟁은 몬드의 미래의 노래가 자유롭게 멀리 울려 퍼지기 위함이다",
+        "pt": "Material de elevação de Talento.\\nA resistência é a espinha dorsal do Reino do Vento.\\nA história de Mondstadt é uma das resistências. As pessoas se levantaram para permitir que a futura poesia de Mondstadt fosse livremente como o vento e se espalhasse por toda a terra.",
+        "ru": "Материал повышения таланта.\\nСопротивление - это основа царства ветров.\\nИстория Мондштадта - это история сопротивления. Люди восстали, чтобы поэзия и песни будущего Мондштадта летели по ветру свободы и распространились по всей земле.",
+        "th": "วัสดุยกระดับพรสวรรค์\\nการป้องกันคือกระดูกสันหลังของ ประเทศแห่งสายลม\\nประวัติศาสตร์ของ Mondstadt นั้น คือประวัติศาสตร์แห่งการป้องกัน ป้องกันบทกวีในอนาคตของชาว Mondstadt เพื่อให้ล่องลอยไปกับ สายลมไปยังที่ที่แสนไกล",
+        "vi": "Nguyên liệu bồi dưỡng Thiên Phú.\\nNền tảng đất nước của gió là kháng chiến.\\nLịch sử của Mondstadt là lịch sử của kháng chiến. Kháng chiến là vì thơ văn trong tương lai của Mondstadt, cũng có thể tự do như ngọn gió, bay đến nơi xa."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

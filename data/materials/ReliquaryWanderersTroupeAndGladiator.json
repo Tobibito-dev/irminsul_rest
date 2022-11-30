@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Reliquary: Wanderer's Troupe and Gladiator",
+        "de": "Einfaches Reliquiar – Wanderorchester und Verbeugung des Gladiators",
+        "chs": "圣遗物之匣·流浪乐团与角斗士",
+        "cht": "聖遺物之匣·流浪樂團與角鬥士",
+        "es": "Relicario: Orquesta del Errante y Gladiador",
+        "fr": "Reliquaire : la Compagnie Vagabonde et le Gladiateur",
+        "id": "Reliquary: Wanderer's Troupe & Gladiator",
+        "jp": "聖遺物箱·流浪楽団と剣闘士",
+        "kr": "성유물 함·떠돌이 악단과 검투사",
+        "pt": "Relicário: Trupe Itinerante e Gladiador",
+        "ru": "Реликварий: Ансамбль и Гладиатор",
+        "th": "หีบอาร์ติแฟกต์: Wanderer's Troupe และ Gladiator",
+        "vi": "Hộp Thánh Di Vật - Gánh Hát Rong Và Giác Đấu Sĩ"
+    },
+    "id": 117004,
+    "materialDesc": {
+        "en": "Contains a random artifact of the \"Wanderer's Troupe\" or \"Gladiator's Finale\" series.",
+        "de": "Enthält ein zufälliges Artefakt aus der Serie „Wanderorchester“ oder „Verbeugung des Gladiators“.",
+        "chs": "装有一件随机的「流浪大地的乐团」或「角斗士的终幕礼」圣遗物。",
+        "cht": "裝有一件隨機的「流浪大地的樂團」或「角鬥士的終幕禮」聖遺物。",
+        "es": "Contiene un artefacto al azar de los conjuntos Orquesta del Errante o Final del Gladiador.",
+        "fr": "Contient un artéfact aléatoire des sets « Bande vagabonde » ou « Rideau du gladiateur ».",
+        "id": "Berisi sebuah Artefak acak dari set Artefak \"Wanderer's Troupe\" atau \"Gladiator's Finale\".",
+        "jp": "聖遺物セット「大地を流浪する楽団」か「剣闘士のフィナーレ」のランダムの1つが入っている。",
+        "kr": "성유물 「대지를 유랑하는 악단」 혹은 「검투사의 피날레」 중 하나가 랜덤으로 들어있다",
+        "pt": "Contém um artefato aleatório do conjunto \"Trupe Itinerante\" ou \"Gladiador\".",
+        "ru": "Содержит один случайный артефакт из комплекта «Бродячий ансамбль» или «Конец гладиатора».",
+        "th": "ประกอบด้วยอาร์ติแฟกต์แบบสุ่มหนึ่งชิ้นจากเซ็ต Wanderer's Troupe หรือ Gladiator's Finale",
+        "vi": "Chứa một Thánh Di Vật \"Đoàn Hát Lang Thang Đại Lục\" hoặc \"Lễ Bế Mạc Của Giác Đấu Sĩ\" ngẫu nhiên."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

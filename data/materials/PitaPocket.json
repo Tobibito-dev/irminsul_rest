@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Pita Pocket",
+        "de": "Taschenfladen",
+        "chs": "口袋饼",
+        "cht": "口袋餅",
+        "es": "Döner kebab",
+        "fr": "Snack pita",
+        "id": "Pita Pocket",
+        "jp": "ピタ",
+        "kr": "포켓 피타",
+        "pt": "Pão Pita",
+        "ru": "Пита",
+        "th": "Pita Pocket",
+        "vi": "Bánh Túi"
+    },
+    "id": 108407,
+    "materialDesc": {
+        "en": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate \"pockets,\" hence the name, \"Pita Pocket.\" It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
+        "de": "Fladenbrot mit vielfältigen Füllungen. Nachdem der flache Teig gebacken ist, bläht er sich auf wie ein Kugelfisch. Der geschnittene Teigfladen hat die Form einer Tasche, daher heißt dieser Snack so. Angeblich haben die Menschen in Sumeru dieses Fladenbrot früher gern direkt mit der Soße gegessen. Aber heute sind die Leute es gewohnt, alle möglichen Füllungen hineinzugeben und es in großen Bissen zu essen.",
+        "chs": "内馅多样的面饼。扁扁的面团经过烤制后，像炮鲀一般变得圆鼓鼓的，切开后就像口袋一样，由此而得名。据说以前的须弥人偏好蘸酱直接吃，而现在的主流吃法则是，往里塞入各种各样的馅料，大口大口吃下。",
+        "cht": "內餡多樣的麵餅。扁扁的麵團經過烤製後，像炮魨一般變得圓鼓鼓的，切開後就像口袋一樣，由此而得名。據說以前的須彌人偏好蘸醬直接吃，而現在的主流吃法則是，往裡塞入各式各樣的餡料，大口大口吃下。",
+        "es": "Un pan de pita con variedad de rellenos. La masa plana se hornea y se vuelve redonda y voluminosa como un pez globo. Al cortarlo parece un bolsito relleno de comida. Se dice que antiguamente la gente de Sumeru prefería comerlo directamente untándolo en salsa, mientras que hoy en día la forma habitual de comerlo es rellenarlo con todo tipo de ingredientes.",
+        "fr": "Une galette de pain contenant de la garniture en tout genre. Lorsqu'elle cuit, la pâte toute plate devient ronde et volumineuse comme un poisson-globe. Après avoir coupé la galette, elle ressemble à un petit sac rempli de nourriture. On dit que dans les temps anciens, les Sumériens préféraient manger ces galettes en les trempant directement dans une sauce. Aujourd'hui, en revanche, la façon habituelle de les déguster est de les farcir avec toutes sortes d'ingrédients.",
+        "id": "Roti pipih dengan berbagai macam isi. Setelah dipanggang, adonan roti pipih ini menggembung seperti ikan buntal dan berbentuk seperti kantung jika dipotong. Inilah asal usul nama hidangan ini. Konon dulu orang Sumeru memakannya hanya dengan mengoleskan saus, tetapi cara memakan yang populer sekarang adalah dengan memasukkan berbagai macam isian ke dalamnya, lalu dimakan dalam satu suapan besar.",
+        "jp": "色んなものが入ったピタ。平たい生地は焼くと鉄砲フグのように丸くなり、切り開くとポケットになった。昔のスメール人はソースをかけて直接食べるのを好んだと言われているが、今は様々な具を詰め、大口を開けて食べるのが主流である。",
+        "kr": "다양한 고기가 들어간 밀가루 빵. 납작한 빵을 구우면 대포 복어처럼 동그랗게 부풀어 오르는데, 부풀어 오른 빵을 자르면 그 모양이 주머니와 비슷하여 포켓 피타라고 부른다. 옛날 수메르 사람들은 빵에 바로 소스를 찍어 먹는 걸 좋아했지만 지금 유행하는 방법은 빵 속에 각종 재료를 넣어 크게 베어 무는 것이다",
+        "pt": "Um Pão Pita com vários recheios. A massa plana é assada e fica redonda e volumosa. Quando cortado parece uma bolsa cheia de comida. Dizem que no passado o povo de Sumeru preferia comê-lo diretamente mergulhando-o no molho, enquanto hoje a maneira usual de comê-lo é recheá-lo com todos os tipos de ingredientes",
+        "ru": "Лепёшка с начинками на любой вкус. Плоский пласт теста во время выпекания поднимается и становится круглым, точно иглобрюх. Затем сбоку на пите делается надрез, и она приобретает форму небольшого мешка: отсюда и появилось сумерское название питы - «мучной мешочек». Говорят, раньше такие лепёшки ели, обмакивая в соус, но теперь питу чаще всего подают с разными начинками - получается очень вкусно!",
+        "th": "ขนมปังสอดไส้ต่าง ๆ หลังจากผ่านการอบแล้ว แป้งที่เดิมทีแบนเรียบก็พองตัวขึ้นราวกับปลาปักเป้า เมื่อผ่าออกแล้วกลับดูเหมือนกระเป๋าใบเล็ก ๆ จึงกลายมาเป็นที่มาของชื่อ ว่ากันว่าชาว Sumeru ในสมัยก่อนนั้นชอบจิ้มกินกับน้ำซอสโดยตรง แต่ในปัจจุบันกลับนิยมสอดไส้ต่าง ๆ เข้าไปด้านใน และกัดกินทีละคำแทน",
+        "vi": "Một chiếc bánh mì với nhiều loại nhân khác nhau. Sau khi nướng, miếng bột dẹt sẽ tròn và phồng lên như con cá nóc, khi cắt ra trông giống như cái túi nên có tên như vậy. Nghe nói trước đây người Sumeru thích ăn nó trực tiếp với nước chấm, nhưng bây giờ họ lại bỏ các loại nhân vào bên trong và ăn từng miếng to."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

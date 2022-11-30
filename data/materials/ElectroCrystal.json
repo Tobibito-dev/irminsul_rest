@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Electro Crystal",
+        "de": "Elektrisierter Kristall",
+        "chs": "电气水晶",
+        "cht": "電氣水晶",
+        "es": "Electrocristal",
+        "fr": "Électrocristal",
+        "id": "Electro Crystal",
+        "jp": "電気水晶",
+        "kr": "전기 수정",
+        "pt": "Cristal Eletrificado",
+        "ru": "Электро кристалл",
+        "th": "Electro Crystal",
+        "vi": "Pha Lê Điện"
+    },
+    "id": 100054,
+    "materialDesc": {
+        "en": "A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb.",
+        "de": "Ein kraftvoller Kristall, der elektrische Energie aus der Umgebung anzieht. Es kribbelt, wenn man ihn anfasst.",
+        "chs": "富含电力的晶石，由逸散在大气与大地中的电气积聚而成。摸起来酥酥麻麻的。",
+        "cht": "富含電力的晶石，由逸散在大氣與大地中的電氣積聚而成。摸起來酥酥麻麻的。",
+        "es": "Un cristal rico en energía que extrae electricidad del aire que lo rodea. Sujetarlo brevemente entumece la mano.",
+        "fr": "Un cristal qui puise son énergie électrique dans l'air. Il peut engourdir votre main si vous le tenez trop longtemps.",
+        "id": "Kristal yang kaya akan listrik, dan menghisap listrik dari udara di sekitarnya. Menggenggamnya membuat tanganmu mati rasa.",
+        "jp": "電気を含んだ晶石。大気と大地に散逸している電気の塊。触るとビリビリしびれる。",
+        "kr": "전기가 흐르는 수정. 대기와 대지의 전기가 모여서 형성됐다. 만지면 찌릿찌릿하다",
+        "pt": "Um cristal rico em energia que extrai eletricidade do ar ao seu redor. Segurá-lo deixa sua mão um pouco dormente.",
+        "ru": "Заряженный электричеством кристалл, который продолжает тянуть электричество из окружающего воздуха. Если взять его в руку, то она начнёт неметь.",
+        "th": "หินคริสตัลที่อุดมด้วยพลังงานไฟฟ้า มันสามารถรวบรวมไฟฟ้าจากอากาศรอบ ๆ ตัวได้ เมื่อลูบจะรู้สึกชา",
+        "vi": "Tinh thạch có điện lực cao, được kết tinh từ điện trong khắp đại lục, chạm vào có cảm giác tê liệt."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

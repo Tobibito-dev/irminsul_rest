@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Sautéed Matsutake",
+        "de": "Misslungene kurzgebratene Matsutake",
+        "chs": "奇怪的黄油松茸",
+        "cht": "奇怪的奶油松茸",
+        "es": "Matsutakes salteados extraños",
+        "fr": "Matsutake sautés au beurre (suspects)",
+        "id": "Suspicious Sautéed Matsutake",
+        "jp": "微妙な松茸のバター焼き",
+        "kr": "이상한 버터 송이구이",
+        "pt": "Matsutake Salteado Estranho",
+        "ru": "Странные обжаренные мацутакэ",
+        "th": "Sautéed Matsutake รสประหลาด",
+        "vi": "Nhung Tùng Rán Bơ Kỳ Lạ"
+    },
+    "id": 108052,
+    "materialDesc": {
+        "en": "Sautéed slices of Matsutake. A shame that control of the fire was lost. Best you can do now is try to trick people who didn't see you cooking it into thinking they are just potato chips.",
+        "de": "Nur kurz angebratene Matsutake-Scheiben. Zumindest sollten sie das sein. Du könntest noch versuchen, sie als Kartoffelchips mit Grillgeschmack zu verkaufen. Also wenigstens versuchen, ja?",
+        "chs": "煎制而成的松茸片。可惜火候没掌握好，只能说成焦香土豆片来蒙骗没看见制作过程的人。",
+        "cht": "煎製而成的松茸片。可惜火候沒掌握好，只能說成焦香洋芋片來矇騙沒看見烹飪過程的人。",
+        "es": "Trozos de matsutake salteados. Lástima que se hayan carbonizado... Puedes intentar engañar a los que no han visto nunca este plato y fingir que son unas exóticas papas fritas.",
+        "fr": "Des tranches de matsutake sautées au beurre. La cuisson a été ratée. On les fera passer pour des chips pour sauver les apparences.",
+        "id": "Tumis jamur matsutake. Sayang sekali apinya terlalu besar saat dimasak. Mungkin lebih baik disebut keripik kentang saja, agar tidak ketahuan oleh orang-orang.",
+        "jp": "松茸のスライスを焼いたもの。残念ながら火加減が悪く、作っているところを見ていない人は、焦げたジャガイモスライスを出されても分からないだろう。",
+        "kr": "송이버섯을 버터에 구운 요리. 불 조절에 실패해 비싼 송이버섯을 쓰레기로 만들어 버린 요리이다",
+        "pt": "Pedaços salteados de Matsutake. Pena que o fogo passou do ponto, mas o melhor a se fazer agora é tentar enganar aqueles que não viram o processo de preparo e fingir que são apenas batatas fritas.",
+        "ru": "Обжаренные на сливочном масле ломтики мацутакэ. Как жаль, что вы не уследили за огнём. Теперь вам остаётся только говорить людям, что это - подгоревшие картофельные чипсы.",
+        "th": "เห็ดมัตสึทาเกะไฟแดง ด้วยกรรมวิธีควบคุมไฟที่ไม่ถูกต้อง สิ่งที่คุณทำได้ดีที่สุดคือหลอกคนอื่นที่ไม่ได้เห็นตอนทำว่าคุณเพิ่งทำมันฝรั่งทอดมา",
+        "vi": "Miếng nhung tùng chiên. Đáng tiếc không biết chỉnh lửa, nên chỉ đành nói là miếng khoai tây cháy để lừa người không biết."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

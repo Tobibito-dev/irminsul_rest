@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Unagi Chazuke",
+        "de": "Misslungenes Unagi-Chazuke",
+        "chs": "奇怪的鳗肉茶泡饭",
+        "cht": "奇怪的鰻肉茶泡飯",
+        "es": "Arroz con anguila bañado en té extraño",
+        "fr": "Chazuke à l'anguille (suspect)",
+        "id": "Suspicious Unagi Chazuke",
+        "jp": "微妙なうな茶漬け",
+        "kr": "이상한 뱀장어 살코기 오차즈케",
+        "pt": "Carne Fresca Chazuke Estranha",
+        "ru": "Странный унаги тядзукэ",
+        "th": "Unagi Chazuke รสประหลาด",
+        "vi": "Cơm Trà Xanh Thịt Lươn Kỳ Lạ"
+    },
+    "id": 108355,
+    "materialDesc": {
+        "en": "A light and tasty main dish. The overly bland tea soup has been all but overpowered by the taste of the unagi, but you can probably still eat this if you slurried it into some sort of porridge.",
+        "de": "Ein einfaches und schmackhaftes Hauptgericht. Die allzu fade Teesuppe wurde durch den Geschmack des Unagi fast überwältigt, aber man kann sie wahrscheinlich noch essen, wenn man sie in eine Art Brei einrührt.",
+        "chs": "清淡可口的主食。过于寡淡的茶汤，被鳗肉的咸味压过一头，几乎无法品出茶香，搅拌均匀当做粥来喝的话，还算可以下口。",
+        "cht": "清淡可口的主食。過於寡淡的茶湯，被鰻肉的鹹味壓過一頭，幾乎無法品出茶香，攪拌均勻當做粥來喝的話，還算可以下口。",
+        "es": "Un plato principal ligero y sabroso. El caldo de té no sabe a nada y la anguila está demasiado salada, con lo que el sabor del té no se nota en absoluto. Si lo remueves y lo mezclas bien hasta formar una papilla, quizás puedas tragarlo.",
+        "fr": "Un plat principal léger et goûteux. La soupe fade est complètement dominée par le goût de l'unagi. Vous arriverez peut-être à en manger en l'imbibant de riz.",
+        "id": "Makanan pokok yang ringan dan lezat. Sup teh yang terlalu hambar telah dibalut oleh rasa unagi, dan mungkin kamu masih bisa memakannya kalau mencampurkannya ke dalam semacam bubur.",
+        "jp": "さっぱりとした主食。お茶の味が薄すぎて、うなぎの塩味に負けてしまい、お茶の香りがほとんど感じられない。よく混ぜてお粥のようにして飲めば、口にすることはできる。",
+        "kr": "담백하고 맛있는 주식. 심심한 차에 뱀장어 살코기의 짠맛이 더해져서 차향이 거의 느껴지지 않는다. 잘 섞어서 죽으로 먹으면 그럭저럭 먹을 만하다",
+        "pt": "Um prato principal leve e saboroso. A sopa de chá excessivamente suave foi dominada pelo sabor do unagi, mas você provavelmente ainda pode comer isto se você misturar em algum tipo de mingau.",
+        "ru": "Лёгкое и вкусное основное блюдо. Пресный чайный суп почти вытеснил вкус унаги, но вы, вероятно, всё ещё можете это съесть, если добавите в какую-нибудь кашу.",
+        "th": "อาหารจานหลักที่มีรสชาติอ่อน ๆ สุดอร่อย น้ำซุปชาที่มีรสชาติอ่อนเกินไปถูกความเค็มของเนื้อปลาไหลกลบจนหมด ทำให้แทบจะไม่ได้กลิ่นหอมของชาเลยสักนิด ถ้าคนให้เข้ากันแล้วกินเป็นโจ๊กล่ะก็ น่าจะพอกลืนลงคอได้บ้าง",
+        "vi": "Món ăn chính thanh đạm vừa miệng. Nước trà quá nhạt nên bị vị mặn của thịt lươn lấn át, hầu như không nếm ra được vị thơm của trà, trộn đều lên ăn như cháo thì cũng miễn cưỡng nuốt được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

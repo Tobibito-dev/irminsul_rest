@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jinwu's Soup",
+        "de": "Jinwus Suppe",
+        "chs": "瑾武的汤",
+        "cht": "瑾武的湯",
+        "es": "Sopa de Jinwu",
+        "fr": "Soupe de Jinwu",
+        "id": "Sup Buatan Jinwu",
+        "jp": "瑾武が作ったスープ",
+        "kr": "근우의 수프",
+        "pt": "Sopa de Jinwu",
+        "ru": "Суп Цзинь У",
+        "th": "ซุปของ Jinwu",
+        "vi": "Canh Jinwu"
+    },
+    "id": 101782,
+    "materialDesc": {
+        "en": "A thick soup that Jinwu made for sick miners. It's nutritious, fragrant, and makes you feel warm inside when you drink it.\\nDon't let it go cold, now.",
+        "de": "Eine dicke Suppe, die Jinwu für kranke Bergarbeiter zubereitet hat. Sie ist nahrhaft, duftend und gibt dir ein warmes Gefühl, wenn du sie trinkst.\\nLass sie jetzt nicht kalt werden.",
+        "chs": "瑾武专门为生病矿工熬制的浓汤，营养丰富，咸香浓重，饮之令人心生暖意。\\n这是瑾武的心意，可不要放凉了。",
+        "cht": "瑾武專門為生病礦工熬製的濃湯，營養豐富，鹹香濃重，飲之令人心生暖意。\\n這是瑾武的心意，可不要放涼了。",
+        "es": "Una espesa sopa que Jinwu preparó para los mineros enfermos. Nutritiva, aromática y sabrosa, es capaz de reconfortar el corazón de cualquier persona.\\nLa hizo Jinwu de todo corazón, así que no dejes que se enfríe.",
+        "fr": "Une soupe épaisse que Jinwu a préparée pour les mineurs malades. Elle est nourrissante, parfumée et vous réchauffe quand vous la buvez.\\nElle l'a cuisinée avec tout son cœur, ne la laissez pas refroidir.",
+        "id": "Sup kental yang dibuat Jinwu untuk penambang yang sakit. Sup ini bergizi, harum, dan membuatmu merasa hangat saat meminumnya.\\nJangan sampai dibiarkan sampai jadi dingin ya.",
+        "jp": "瑾武が病気になった鉱夫のために作った濃いスープ。栄養素たっぷりで、とても濃厚な味わい。飲むと心が温かくなる。\\nこれは瑾武の気持ちだから、冷めないうちに。",
+        "kr": "근우가 아픈 광부들을 위해 특별히 끓인 걸쭉한 수프. 영양이 풍부하고 향이 짙어서 마시면 저도 모르게 마음이 따뜻해진다.\\n근우의 정성이 담겨 있으니 식게 두지 말자",
+        "pt": "Uma sopa grossa que Jinwu fez para os mineradores doentes. É nutritiva, aromática e conforta seu coração quando é bebida.\\nJinwu a fez com carinho, por isso não deixe esfriar.",
+        "ru": "Густой суп, который Цзинь У сварила специально для больных шахтёров. Он ароматный, питательный и замечательно согревает.\\nЦзинь У готовила его с душой, поэтому не дайте ему остыть.",
+        "th": "ซุปข้นของ Jinwu ที่ทำขึ้นเป็นพิเศษสำหรับคนงานเหมืองที่ป่วย อุดมไปด้วยสารอาหาร รสชาติเข้มข้นและมีกลิ่นหอม กินแล้วทำให้รู้สึกอบอุ่นไปถึงหัวใจ\\nนี่คือความตั้งใจของ Jinwu อย่าปล่อยทิ้งให้มันเย็นชืดเชียวล่ะ",
+        "vi": "Canh do Jinwu hầm cho các thợ mỏ bị bệnh, rất nhiều dinh dưỡng, hương vị đậm đà, uống vào khiến người ta cảm thấy rất ấm lòng.\\nĐây chính là tâm ý của Jinwu, không được để nguội lạnh."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

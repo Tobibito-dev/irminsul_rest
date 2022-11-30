@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mushroom Currency",
+        "de": "Pilztaler",
+        "chs": "蘑菇宝钱",
+        "cht": "蘑菇寶錢",
+        "es": "Hongomoras",
+        "fr": "Pièce fongique",
+        "id": "Mushroom Currency",
+        "jp": "キノコイン",
+        "kr": "버섯 코인",
+        "pt": "Cogumoedas",
+        "ru": "Грибная монета",
+        "th": "สกุลเงินเห็ด",
+        "vi": "Tiền Nấm"
+    },
+    "id": 151,
+    "materialDesc": {
+        "en": "A finely-crafted memorial coin, and the reward given to outstanding participants in the Fungus Capture and Coruscating Potential stages of the Nilotpala Cup Beast Tamers Tournament.\\nNo matter the results of the competition, these coins are proof of the friendly associations between the participants and the tame Fungi.\\nThese coins can be used to exchange for precious items during the \"Fabulous Fungus Frenzy\" event.",
+        "de": "Eine sorgfältig gefertigte Gedenkmünze als Belohnung für die ausgezeichneten Teilnehmer an „Pilzfang“ und „Erwecken des Potenzials“ der Nilotpala-Lotos-Zähmermeisterschaft.\\nUnabhängig von den Ergebnissen ist diese Gedenkmünze eine Erinnerung an den freundschaftlichen Austausch zwischen den Teilnehmern und den Pilzbestien.\\nDu kannst sie im Zeitraum vom „Wettbewerb intelligenter Pilze“ gegen wertvolle Schätze eintauschen.",
+        "chs": "做工精致的纪念币，是「月莲杯驯兽师大赛」的「召捕灵蕈」与「潜能焕发」两个环节中，给予表现优异的参赛选手的奖励。\\n无论比赛的结果如何，这种纪念币都是选手们与温和的蕈兽们友善交流的见证物。\\n在「智巧灵蕈大竞逐」期间，可以用来换取珍贵的宝物。",
+        "cht": "作工精緻的紀念幣，是「月蓮盃馴獸師大賽」給予在「召捕靈蕈」與「潛能煥發」兩個項目中表現優異的參賽選手的獎勵。\\n無論比賽的結果如何，這種紀念幣都是選手們與溫和的蕈獸們友善交流的見證物。\\n在「智巧靈蕈大競逐」期間，可以用來換取珍貴的寶物。",
+        "es": "Una moneda conmemorativa elaborada con gran gusto a modo de recompensa para los participantes de “Atrapahongos” y “Mira ese potencial” del Torneo Loto Niloptala de Doma de Bestias.\\nAl margen de los resultados, esta moneda conmemorativa es el vivo recuerdo del intercambio amistoso entablado entre los participantes y los Hongos.\\nUtiliza tus Hongomoras para canjearlas por increíbles objetos durante «La Chámpiñons».",
+        "fr": "Une pièce commémorative finement ouvragée qui sert de récompense donnée aux participants qui se sont distingués lors des étapes de la capture de Fongus et de la coruscation de potentiel du tournoi de dompteur de la Coupe des nilotpalotus.\\nIndépendamment des résultats de la compétition, cette pièce est un témoin des échanges amicaux entre les participants et les gentils Fongus.\\nPeut être échangée contre des objets précieux lors de l'événement « Chahut de Fongus ».",
+        "id": "Koin peringatan yang dibuat dengan indah, dan hadiah yang diberikan kepada peserta yang berprestasi dalam tahap Menangkap Fungus dan Potensi Gemilang dari Turnamen Piala Nilotpala untuk Pawang Penjinak.\\nApa pun hasil kompetisinya, koin-koin ini adalah bukti persahabatan antara para peserta dan Fungus yang jinak.\\nKoin ini dapat digunakan untuk ditukar dengan barang berharga selama event \"Jamur Jawara Jaya\".",
+        "jp": "精巧な作りの記念コイン。「サウマラタ蓮杯テイマー大会」における、「チエキノコンの捕獲」·「潜在能力開発」のステージで優秀な結果を残した選手に与えられる報酬。\\nバトルの結果がどうであれ、この記念コインは選手たちと温和なキノコンたちが友好的に交流できた証である。\\n「ワンダフルキノコンピック」期間中、貴重なアイテムと交換できる。",
+        "kr": "정교하게 제작된 기념 코인. 「달 연꽃컵 훈련사 대회」의 「영리한 버섯몬 포획」과 「잠재력 활성화」 단계에서 우수한 활약을 한 참가 선수에게 지급하는 보상이다.\\n경기 결과와 상관없이, 이 기념 코인은 선수와 버섯몬의 우애를 상징하는 기념품이다.\\n「영리한 버섯몬 대전」 기간에 귀중한 보물을 교환하는 데 사용할 수 있다",
+        "pt": "Uma moeda comemorativa feita com bom gosto como recompensa para os participantes de \"Captura Cogumélica\" e \"Despertar de Potencial\" da Copa Nilotpala de Domadores de Feras.\\nIndependentemente dos resultados, esta moeda comemorativa é um lembrete vívido da interação amigável entre os participantes e os Cogumelos.\\nUtilize-as para trocá-las por itens incríveis durante o \"Torneio Cogumélico\".",
+        "ru": "Памятная монета тонкой работы и награда, вручаемая выдающимся участникам этапов «Ловля грибов» и «Лучистый потенциал» Турнира укротителей «Кубок лотоса нилотпала». Независимо от результатов конкурса, эти монеты являются доказательством дружбы между участниками и ручными плесенниками.\\nЭти монеты можно использовать для обмена на награды во время события «Эпичное побоище плесенников».",
+        "th": "เหรียญที่ระลึกสุดประณีต ซึ่งเป็นของรางวัลสำหรับผู้เข้าแข่งขันที่มีผลงานยอดเยี่ยมในช่วง \"จับกุม Fungus\" และ \"การสำแดงศักยภาพ\" ของ \"การแข่งขันเทรนเนอร์ Nilotpala Cup\"\\nไม่ว่าผลการแข่งขันจะเป็นอย่างไร เหรียญที่ระลึกนี้ก็จะเป็นเครื่องยืนยันในมิตรภาพระหว่างผู้เข้าแข่งขันและเหล่า Fungus ที่แสนอ่อนโยน\\nในระหว่าง \"การแข่งขันเทรนเนอร์ Nilotpala Cup\" สามารถใช้แลกเปลี่ยนเป็นสมบัติสุดล้ำค่าได้",
+        "vi": "Tiền kỷ niệm được làm với thủ công tinh xảo, là phần thưởng dành cho tuyển thủ có biểu hiện xuất sắc trong hai vòng \"Bắt Nấm\" và \"Kích Hoạt Tiềm Năng\" của Giải Đấu Luyện Thú Cúp Nilotpala.\\nBất luận kết quả trận đấu thế nào, loại tiền kỷ niệm này vẫn là chứng nhân cho tình hảo hữu giữa các tuyển thủ và Nấm Quỷ.\\nTrong thời gian \"Đại Hội Đấu Nấm Siêu Cấp\" có thể dùng để đổi các vật phẩm quý giá."
+    },
+    "materialType": false
+}

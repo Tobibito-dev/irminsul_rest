@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Zaytun Peach",
+        "de": "Frischer Zaytun-Pfirsich",
+        "chs": "新鲜的墩墩桃",
+        "cht": "新鮮的墩墩桃",
+        "es": "Duraznoliva fresca",
+        "fr": "Pêche zaytun fraîche",
+        "id": "Zaytun Peach Segar",
+        "jp": "新鮮なザイトゥン桃",
+        "kr": "신선한 뚠뚠 복숭아",
+        "pt": "Pêssego Zaytun Fresco",
+        "ru": "Свежий персик зайтун",
+        "th": "Zaytun Peach สดใหม่",
+        "vi": "Đào Zaytun Tươi"
+    },
+    "id": 101942,
+    "materialDesc": {
+        "en": "A special Zaytun Peach needed for making Angler Kayvan's special bait. It seems nothing different than a regular Zaytun Peach.",
+        "de": "Ein vom Angler Kayvan zur Herstellung eines speziellen Köders benötigter Zaytun-Pfirsich. Er scheint sich kaum von anderen Zaytun-Pfirsichen zu unterscheiden ...",
+        "chs": "渔师凯万制作特别鱼饵所需的墩墩桃，看起来和普通的墩墩桃似乎并没有区别…",
+        "cht": "漁師凱萬製作特別魚餌所需的墩墩桃，看起來和普通的墩墩桃似乎並沒有區別…",
+        "es": "Una duraznoliva que Kayvan el pescador necesita para hacer sus cebos especiales. A simple vista, parece una duraznoliva normal y corriente...",
+        "fr": "Une pêche zaytun utilisée pour fabriquer l'appât spécial du pêcheur Kayvan. Il n'y a pas l'air d'y avoir une quelconque différence entre cette pêche et les autres...",
+        "id": "Zaytun Peach yang dibutuhkan untuk membuat umpan khusus buatan Angler Kayvan. Sepertinya tidak berbeda dari Zaytun Peach biasa.",
+        "jp": "漁師カイヴァンの特製餌に必要なザイトゥン桃。見た目は普通のザイトゥン桃と同じみたいだ…",
+        "kr": "낚시꾼 케이반이 특별한 낚시용 미끼를 제작할 때 필요한 뚠뚠 복숭아. 평범한 뚠뚠 복숭아와 다를 바 없어 보인다…",
+        "pt": "Pêssego Zaytun para as iscas especiais do pescador Kayvan, no entanto, não parece apresentar diferenças perceptíveis dos comuns...",
+        "ru": "Персик зайтун, необходимый рыбаку Кайвану для изготовления специальной наживки. Выглядит как самый обычный персик зайтун...",
+        "th": "Zaytun Peach ที่นักตกปลา Kayvan ใช้ทำเหยื่อตกปลาชนิดพิเศษ ดูแล้วไม่เห็นจะแตกต่างจาก Zaytun Peach ธรรมดาทั่วไปเลยสักนิด...",
+        "vi": "Đào Zaytun thợ câu Kayvan dùng để chế thành mồi đặc biệt, trông không khác gì với Đào Zaytun bình thường..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

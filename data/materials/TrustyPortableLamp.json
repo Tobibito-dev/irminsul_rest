@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Trusty Portable Lamp",
+        "de": "Zuverlässige tragbare Lampe",
+        "chs": "恒亮不熄的提灯",
+        "cht": "恆亮不熄的提燈",
+        "es": "Lámpara portátil inapagable",
+        "fr": "Lanterne constamment allumée",
+        "id": "Lentera yang Tidak Pernah Padam",
+        "jp": "光り続く提灯",
+        "kr": "꺼지지 않는 휴대용 등불",
+        "pt": "Lâmpada Portátil Que Não Se Apaga",
+        "ru": "Надёжная переносная лампа",
+        "th": "โคมที่ไม่เคยมอดดับ",
+        "vi": "Đèn Treo Ánh Sáng Bất Tận"
+    },
+    "id": 383101,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Trusty Portable Lamp.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Zuverlässige tragbare Lampe“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「恒亮不熄的提灯」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「恆亮不熄的提燈」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Lámpara portátil inapagable.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la lanterne constamment allumée.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Lentera yang Tidak Pernah Padam\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「光り続く提灯」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「꺼지지 않는 휴대용 등불」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Lâmpada Portátil Que Não Se Apaga\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Надёжная переносная лампа».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โคมที่ไม่เคยมอดดับ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Treo Ánh Sáng Bất Tận\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

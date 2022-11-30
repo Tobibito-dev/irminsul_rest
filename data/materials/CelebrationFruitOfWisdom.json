@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Celebration: Fruit of Wisdom",
+        "de": "Feierlichkeit – Frucht der Weisheit",
+        "chs": "庆典·慧果",
+        "cht": "慶典·慧果",
+        "es": "Celebración - Fruto de la sabiduría",
+        "fr": "Célébration - Fruit de la sagesse",
+        "id": "Perayaan: Buah Kebijaksanaan",
+        "jp": "祭典·知恵の実",
+        "kr": "축제·지혜의 열매",
+        "pt": "Celebração - Fruta da Sabedoria",
+        "ru": "Плод мудрости",
+        "th": "การฉลอง - ผลแห่งสติปัญญา",
+        "vi": "Lễ Hội - Tuệ Quả"
+    },
+    "id": 210067,
+    "materialDesc": {
+        "en": "Namecard style.\\nWhat knowledge might the fruit of wisdom bring, were it to descend upon the land? Either way, it'll taste good as a drink if left in Diona's hands.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWelches Wissen würde die Frucht der Weisheit bringen, wenn sie auf das Land herabsteigen würde? So oder so, in Dionas Händen wird sie gut als Getränk schmecken.",
+        "chs": "名片纹饰。\\n智慧的果实要是落在大地之中，它会结出许多智慧来。但如果遇到了迪奥娜，那一定会很好喝就是了。",
+        "cht": "名片紋飾。\\n智慧的果實要是落在大地之中，它會結出許多智慧來。但如果遇到了迪奧娜，那一定會很好喝就是了。",
+        "es": "Diseño de tarjeta de presentación.\\nSi el fruto de la sabiduría cayera en la tierra, produciría una gran cantidad de conocimientos. Pero si Diona lo encontrara, prepararía una bebida deliciosa con él.",
+        "fr": "Thème.\\nQuelle connaissance le fruit de la sagesse apporterait-il s'il descendait sur terre ? Quoi qu'il en soit, il aura bon goût entre les mains expertes de Diona.",
+        "id": "Style Kartu Nama.\\nJika buah kebijaksanaan jatuh ke bumi, pasti menghasilkan kebijaksanaan. Tapi jika jatuh ke tangan Diona, pasti jadi menghasilkan rasa yang enak.",
+        "jp": "名刺の飾り紋。\\n知恵の実が大地に落ちれば、多くの知恵が実る。でももしディオナに見つけられると、きっと美味しいドリンクになる。",
+        "kr": "명함 스킨.\\n지혜의 열매가 땅에 떨어지면 많은 지혜가 생성된다. 하지만 불행히도 디오나를 만났다면, 아주 맛있는 주스가 되겠지",
+        "pt": "Estilo de Cartão de Visita.\\nQue conhecimento o fruto da sabedoria traria se descesse sobre a terra? Se caísse nas mãos de Diona, seria transformado em uma bebida deliciosa.",
+        "ru": "Именная карта.\\nУпавший на землю плод мудрости принесёт знания. А если его отдать Дионе, то выйдет вкусный напиток.",
+        "th": "ลายนามบัตร\\nผลของความรู้ ถ้าร่วงลงบนโลกก็คงเกิดความรู้มากมาย แต่ถ้า Diona มาเจอเข้าละก็จะต้องการเป็นเครื่องดื่มแสนอร่อยแน่นอนเลยล่ะ",
+        "vi": "Hoa văn danh thiếp.\\nNếu trái của trí tuệ rơi xuống đất, nó sẽ sinh ra rất nhiều trí tuệ. Nhưng nếu gặp Diona thì sẽ thành thức uống ngon."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

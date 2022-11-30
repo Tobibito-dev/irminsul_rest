@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Curry Shrimp",
+        "de": "Misslungene Currygarnelen",
+        "chs": "奇怪的咖喱虾",
+        "cht": "奇怪的咖哩蝦",
+        "es": "Camarones al curri extraños",
+        "fr": "Crevettes au curry (suspectes)",
+        "id": "Suspicious Curry Shrimp",
+        "jp": "微妙なカレーシュリムプ",
+        "kr": "이상한 새우 카레",
+        "pt": "Camarão com Curry Estranho",
+        "ru": "Странные креветки в соусе карри",
+        "th": "Curry Shrimp รสประหลาด",
+        "vi": "Tôm Cà Ri Kỳ Lạ"
+    },
+    "id": 108424,
+    "materialDesc": {
+        "en": "A simple, common dish in Sumeru. You can smell curry... though it stings your nose. After looking inside the squishy mess, you finally find a malnourished shrimp. Yes, this is curry shrimp for sure... But should you really give it a try?",
+        "de": "Ein einfaches und in Sumeru weit verbreitetes Rezept. Man kann einen starken Curry-Geruch vernehmen, der die Nase reizt. In dem weichen Kuddelmuddel findest du schließlich eine völlig ausgetrocknete Garnele. Das ist eine Currygarnele ... Aber wie soll man die runter bekommen?",
+        "chs": "须弥的家常菜肴。从浓烈呛鼻的气味中依稀分辨出是咖喱，在糊状物质中好不容易才找出了一只干瘪的虾。是咖喱虾没错…只是如何下口才好呢？",
+        "cht": "須彌的家常菜餚。從濃烈嗆鼻的氣味中依稀分辨出是咖哩，在糊狀物質中好不容易才找出了一隻乾癟的蝦。是咖哩蝦沒錯…只是如何下口才好呢？",
+        "es": "Un plato sencillo y común en Sumeru. Por el fuerte y penetrante olor, debe ser curri... Después de buscar en el interior de la masa, finalmente encuentras un camarón desnutrido. Sí, es un camarón al curri... ¿Pero harías bien en comerlo?",
+        "fr": "Un plat familial de Sumeru. Une odeur intense de curry s'en dégage... et irrite le nez. En inspectant de plus près cette masse informe, on ne trouve à l'intérieur qu'une crevette ratatinée. Ce sont des crevettes au curry, aucun doute là-dessus... Cependant, comment est-on censé manger ce plat ?",
+        "id": "Hidangan sederhana dan umum di Sumeru. Kalau tidak salah sih ini kari ... kalau dicium dari aromanya yang kuat. Setelah campurannya yang berantakan dilihat-lihat, ternyata ada juga udang yang kekurangan gizi. Ya, ini adalah kari udang ... Tapi kalau keadaannya begini, apa benar-benar harus dicoba?",
+        "jp": "スメールの家庭料理。強い刺激臭から、何となくカレーだと分かった。ペースト状の物質から、ようやくしなびたエビを見つけた。カレーシュリムプに間違いない…でも、本当に食べるの…？",
+        "kr": "수메르의 가정식 요리. 강렬하고 자극적인 냄새로 이 요리가 카레라는 걸 어렴풋이 알아차릴 수 있다. 걸쭉해진 재료들 사이에서 말라비틀어진 새우를 어렵사리 찾아냈다. 새우 카레이긴 한데… 대체 어디서부터 입을 대야 할까?",
+        "pt": "Um prato comum de Sumeru. Você sente o cheiro de curry... Mas ele irrita seu nariz. Depois de dar uma olhada na bagunça molhada, você encontra um camarão magro. Isso é de fato camarão com curry... Mas vale mesmo a pena provar?",
+        "ru": "Одно из повседневных блюд Сумеру. Резкий запах едва уловимо напоминает аромат карри. После долгих поисков вы выудили из соуса единственную сморщенную креветку. Да, это креветка в соусе карри. А где все остальные?",
+        "th": "อาหารพื้นบ้านของชาว Sumeru แม้กลิ่นจะฉุนมาก แต่ก็ยังพอแยกออกว่าเป็นแกงกะหรี่ หลังจากใช้ช้อนคนอยู่นาน ก็พบกุ้งแห้งตัวหนึ่งอยู่ในแกง ต้องเป็นกุ้งไม่ผิดแน่... แต่จะเอายังไงกับมันดีล่ะ?",
+        "vi": "Món ăn gia đình của Sumeru. Từ mùi vị nồng đậm có thể lờ mờ nhận ra đó là món cà ri, khó khăn lắm mới tìm thấy một con tôm teo tóp trong hỗn hợp sền sệt này. Đó là Tôm Cà Ri... nhưng phải ăn thế nào đây?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

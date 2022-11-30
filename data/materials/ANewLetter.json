@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A New Letter",
+        "de": "Gerade ausgelieferter Brief",
+        "chs": "方才的来信",
+        "cht": "方才的來信",
+        "es": "Carta recibida hace poco",
+        "fr": "Lettre reçue récemment",
+        "id": "Surat yang Baru Diterima",
+        "jp": "届いたばかりの手紙",
+        "kr": "방금 온 편지",
+        "pt": "Carta Nova",
+        "ru": "Недавно полученное письмо",
+        "th": "จดหมายที่เพิ่งได้รับ",
+        "vi": "Thư Vừa Nhận"
+    },
+    "id": 101903,
+    "materialDesc": {
+        "en": "A letter the head housemaid, Adelinde, just received. It needs to be sent to Dawn Winery for archiving.\\nThe paper is slightly wrinkled. Maybe the person who wrote the letter was in a hurry and couldn't find a desk.",
+        "de": "Ein Brief, den Hausmädchen Adelinde vor Kurzem erhalten hat und der im Weingut abgelegt werden muss.\\nDas Papier ist ein wenig verknickt, vielleicht war sein Verfasser ein wenig in Eile und konnte keinen ebenen Schreibtisch finden.",
+        "chs": "爱德琳女仆长不久前代收的信件，需要送到酒庄内归档。\\n纸张稍显褶皱，也许写信的人有些匆忙，没能找到平坦的书桌。",
+        "cht": "愛德琳女僕長不久前代收的信件，需要送到酒莊內歸檔。\\n紙張稍顯褶皺，也許寫信的人有些匆忙，沒能找到平坦的書桌。",
+        "es": "Carta que Adelinde, la jefa de las criadas, recibió hace poco y que debe ser llevada al Viñedo para archivarla.\\nEl papel está un poco arrugado. Parece que quien la redactó tenía algo de prisa y no encontró ninguna superficie lisa donde escribir.",
+        "fr": "Une lettre qu'Adeline, la gouvernante, vient de recevoir. Il faut la déposer au Domaine de l'Aurore à des fins d'archivage.\\nLe papier est légèrement froissé. Son auteur devait être pressé s'il n'a même pas pris la peine de l'écrire sur une table.",
+        "id": "Surat yang baru-baru ini diterima oleh Kepala Pelayan Rumah — Adeline, perlu dikirimkan ke Winery untuk diarsipkan.\\nKertasnya sedikit kusut, mungkin si penulis surat sedang terburu-buru sampai tidak keburu menulis di atas meja yang datar.",
+        "jp": "少し前にアデリンメイド長が代わりに受け取った手紙。整理保存するため、ワイナリーに送る必要がある。\\n紙に少しシワができている。手紙を書いた人は急いでいたようで、平らな机で書く暇がなかったようだ。",
+        "kr": "아델린 하녀장이 얼마 전에 받은 편지. 와이너리로 전달한 뒤 분류해야 한다.\\n종이가 꾸깃꾸깃한 걸 보면 급하게 쓰느라 평평한 책상을 찾지 못한 모양이다",
+        "pt": "Uma carta que a empregada chefe, Adelinde, recebeu. Deve ser enviada para a adega para ser arquivada.\\nO papel está amassado, talvez a pessoa que a escreveu estava apressada e não conseguiu encontrar uma mesa.",
+        "ru": "Письмо, которое недавно получила главная горничная Аделинда. Его нужно отправить в архив винокурни.\\nБумага слегка помята. Возможно, его автор торопился и не смог найти письменный стол.",
+        "th": "จดหมายที่หัวหน้าสาวใช้ Adelinde รับแทนเจ้าของเมื่อไม่นานมานี้ และจำเป็นต้องนำมันเข้าไปเก็บใน Dawn Winery\\nแผ่นกระดาษมีรอยยับเล็กน้อย บางทีคนเขียนจดหมายอาจจะรีบเร่งไปสักหน่อยเลยไม่ได้เขียนมันบนโต๊ะเรียบ ๆ",
+        "vi": "Lá thư mà hầu gái trưởng Adelinde đã nhận thay cách đây không lâu, cần phải đưa đến tửu trang để lưu trữ.\\nTrang giấy có hơi nhàu, có lẽ người viết thư hơi vội vàng, không tìm được mặt bàn bằng phẳng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

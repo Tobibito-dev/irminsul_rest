@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Crystal Shrimp",
+        "de": "Kristallgarnelen",
+        "chs": "水晶虾",
+        "cht": "水晶蝦",
+        "es": "Camarones de cristal",
+        "fr": "Crevettes cristallines",
+        "id": "Crystal Shrimp",
+        "jp": "水晶蝦",
+        "kr": "수정 새우딤섬",
+        "pt": "Camarão de Cristal",
+        "ru": "Кристальные баоцзы",
+        "th": "Crystal Shrimp",
+        "vi": "Tôm Pha Lê"
+    },
+    "id": 108105,
+    "materialDesc": {
+        "en": "One of Liyue's traditional snacks. The stuffing is taken from whole fresh shrimp, and the glistening quality of the flour can be guessed at from the translucence of the outer skin. Has a springy, tasty chew.",
+        "de": "Eine der traditionellen Leckereien aus Liyue. Die Füllung wird aus ganzen Garnelen ohne Kopf und Schale hergestellt. Die rosa leuchtende dünne Hülle verspricht ein freudiges Geschmackserlebnis. Die festen kleinen Stückchen sind beim Kauen ein Genuss!",
+        "chs": "璃月的传统点心之一。馅料选取整颗鲜虾仁，盈亮的粉色在半透明的薄皮下隐约可见。轻嚼下去更是弹牙可口。",
+        "cht": "璃月的傳統點心之一。餡料選取整顆鮮蝦仁，盈亮的粉色在半透明的薄皮下隱約可見。輕咬下去更是彈牙可口。",
+        "es": "Uno de los aperitivos tradicionales de Liyue. El relleno se hace a partir de camarones frescos enteros, los cuales se envuelven en una brillante y traslúcida masa de harina. El resultado es una textura tierna y un sabor delicioso.",
+        "fr": "L'une des spécialités de Liyue. La couleur rose de la farce constituée à partir de chair de crevette fraîche est visible à travers la peau translucide. Prenez votre temps pour tout savourer.",
+        "id": "Salah satu cemilan tradisional Liyue. Isinya adalah daging udang segar utuh, dan kualitas tepung yang berkilauan dapat ditebak dari kekenyalan kulit luarnya. Mempunyai rasa yang cukup kenyal di mulut.",
+        "jp": "璃月の伝統点心の一つ。餡はエビのむき身を丸ごと使用し、明るいピンクは半透明の皮の下に隠れている。プリプリの食感がたまらない。",
+        "kr": "신선한 새우가 통째로 들어간 리월의 전통 과자. 반투명하고 얇은 피 안에 먹음직스러운 핑크빛 속살이 살짝 보인다. 씹으면 씹을수록 쫄깃하니 맛있다",
+        "pt": "Um dos lanches tradicionais de Liyue. O recheio é retirado de camarões frescos inteiros, e a qualidade brilhante da farinha pode ser estimada pela translucidez da pele externa. Tem consistência elástica e saborosa na boca.",
+        "ru": "Одно из традиционных блюд Ли Юэ. Его начинка делается из цельных свежих креветок, а о качестве теста можно судить по его кристальной прозрачности. Имеет упругую текстуру и потрясающий вкус.",
+        "th": "หนึ่งในอาหารว่างดั้งเดิมของ Liyue ไส้กุ้งสดแน่น ๆ สามารถมองเห็นสีชมพูอ่อนภายใต้แผ่นแป้งที่บางโปร่งแสง เมื่อคุณเคี้ยวเบา ๆ จะได้สัมผัสรสชาติแสนอร่อย",
+        "vi": "Một trong những món điểm tâm truyền thống của Liyue. Nhân làm từ nguyên con tôm tươi, có thể nhìn thấy màu hồng dưới lớp da mỏng. Cắn nhẹ một miếng là cảm nhận được vị ngon."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

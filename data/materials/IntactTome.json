@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Intact Tome",
+        "de": "Vollständiges Buch",
+        "chs": "完整的书本",
+        "cht": "完整的書本",
+        "es": "Libro intacto",
+        "fr": "Livre complet",
+        "id": "Buku yang Lengkap",
+        "jp": "完全無欠な本",
+        "kr": "온전한 책",
+        "pt": "Livro Intacto",
+        "ru": "Целая книга",
+        "th": "Intact Tome",
+        "vi": "Quyển Sách Hoàn Chỉnh"
+    },
+    "id": 100232,
+    "materialDesc": {
+        "en": "(TEST) Adventure Journal",
+        "de": "None",
+        "chs": "(test)冒险日志",
+        "cht": "（TEST）冒險日誌",
+        "es": "(TEST) Diario de Aventura",
+        "fr": "(Tes) Journal d'aventure",
+        "id": "None",
+        "jp": "（TEST）冒険日誌のページ",
+        "kr": "None",
+        "pt": "None",
+        "ru": "（TEST）冒险日志",
+        "th": "(TEST) บันทึกการผจญภัย",
+        "vi": "（TEST）Nhật ký mạo hiểm"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

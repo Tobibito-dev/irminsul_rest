@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "id": 100860,
+    "materialDesc": {
+        "en": "Konda Village Missing Person Notice",
+        "de": "Vermisstenanzeige im Dorf Konda",
+        "chs": "绀田村寻人启事",
+        "cht": "紺田村尋人啟事",
+        "es": "Póster de persona desaparecida en Aldea Konda",
+        "fr": "Avis de recherche du Village de Konda",
+        "id": "Pengumuman Orang Hilang Desa Konda",
+        "jp": "紺田村の尋ね人告知",
+        "kr": "콘다 마을 사람을 찾습니다",
+        "pt": "Anúncio de Pessoa Procurada da Vila Konda",
+        "ru": "Объявление о пропавшем в Конде",
+        "th": "ประกาศตามหาคนหายของหมู่บ้าน Konda",
+        "vi": "Thông báo tìm người Làng Konda"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

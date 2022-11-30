@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Childe: Foul Legacy",
+        "de": "Graf – Dämonengewand",
+        "chs": "公子·魔装",
+        "cht": "公子·魔裝",
+        "es": "Nobile - Legado del mal",
+        "fr": "Tartaglia - Posture du démon",
+        "id": "Childe: Foul Legacy",
+        "jp": "公子·魔装",
+        "kr": "타르탈리아·마왕 무장",
+        "pt": "Childe - Legado Maligno",
+        "ru": "Маска",
+        "th": "Childe - Foul Legacy",
+        "vi": "Childe - Quỷ Trang"
+    },
+    "id": 210046,
+    "materialDesc": {
+        "en": "Namecard style.\\nThis bears all the marks of that fellow who gallivants as he pleases across the continent with his ever-changing combat styles. Yet, his \"Foul Legacy\" was not originally his. Rather, it was taught to him by that solitary girl who dwelt in the darkest corners of the universe.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDas Kennzeichen seiner Reisen durch die Welt mit seinem grandios veränderlichen Kampfstil. Das Dämonengewand, wie die Kampfkunst genannt wird, war allerdings nicht seine Erfindung, sondern die von dem hochmütigen Mädchen, das durch die dunkelsten Ecken des Universums reiste.",
+        "chs": "名片纹饰。\\n借由万般变化的武炼之技，肆意驰骋大地的他的记号。但这名为「魔王」的武艺并非他的独创，而是师承自踞身宇宙至暗之处的那位孤高少女…",
+        "cht": "名片紋飾。\\n借由萬般變化的武煉之技，肆意馳騁大地的他的記號。但這名為「魔王」的武藝並非他的獨創，而是師承自踞身宇宙至暗之處的那位孤高少女…",
+        "es": "Diseño de tarjeta de presentación.\\nEsta tarjeta marca el paso de Nobile por el mundo con su dinámica y cambiante técnica de combate. Sin embargo, esta, llamada “Legado del mal”, no era originalmente suya, sino que se la enseñó esa joven solitaria que habitaba en los rincones más oscuros del universo.",
+        "fr": "Thème.\\nCe thème porte les marques du jeune et fier guerrier qui promène son style de combat toujours changeant à travers le continent. Mais sa « Posture du démon » n'est pas une technique de sa création : elle lui fut enseignée par une fille solitaire qui vit dans les plus sombres recoins de l'univers...",
+        "id": "Style kartu nama.\\nSimbol untuk seseorang yang telah menjelajahi seluruh dunia untuk mengasah teknik bertempurnya. Tetapi seni bertarung Foul Legacy tidak diciptakan olehnya, melainkan diajarkan oleh seorang gadis yang tinggal sendiri di ujung tergelap alam semesta...",
+        "jp": "名刺の飾り紋。\\n多様に変化する技を身に着け、思うまま大地を駆ける彼の記号。だが「魔王」と名付けた武芸は彼が作り出したものではなく、暗い宇宙にいるあの孤高の少女から授かったものだ…",
+        "kr": "명함 스킨.\\n변화무쌍한 무예를 바탕으로 마음껏 대지를 질주하던 그의 표시. 그러나 「마왕」이라 불리는 무예는 그가 창시한 것이 아니라, 우주의 어둠에 기거하던 그 고고한 소녀에게 전수받은 것이다…",
+        "pt": "Estilo de Cartão de Visita.\\nTem todas as marcas daquele que vagabundeia como quer pelas terras com os seus estilos de combate em constante mudança. Mas essa arte marcial chamada 'Rei Demônio' não foi inventada por ele, foi ensinada a ele por uma garota solitária que morava no lugar mais escuro do universo.",
+        "ru": "Именная карта.\\nЗнак молодого человека, свободно путешествующего по континенту благодаря постоянно меняющемуся стилю ведения боя. Но этот дьявольский вид фехтования создал не он. Этому его научила та надменная девушка, что обитает в самом тёмном уголке Вселенной...",
+        "th": "ลายนามบัตร\\nด้วยรูปแบบการต่อสู้ที่เปลี่ยนแปลงตลอดเวลานั้น นี่เป็นสัญลักษณ์ที่บ่งบอกว่าเขาวิ่งพล่านไปทั่วโลก แต่ศิลปะการต่อสู้ที่เรียกว่า Foul Legacy นี้ไม่ได้สร้างมาเพื่อเขา แต่เป็นเด็กสาวผู้โดดเดี่ยวที่อาศัยอยู่ในมุมมืดที่สุดของจักรวาลได้สอนให้กับเขา",
+        "vi": "Hoa văn danh thiếp.\\nKý hiệu của anh mượn kỹ năng võ luyện thiên biến vạn hóa, tự do hành tẩu muôn nơi. Cái tên \"Ma Vương\" không phải do anh nghĩ ra, mà được truyền lại từ người thiếu nữ cô độc sống nơi tối tăm nhất của vũ trụ..."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

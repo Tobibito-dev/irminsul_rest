@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tomato",
+        "de": "Tomate",
+        "chs": "番茄",
+        "cht": "番茄",
+        "es": "Tomate",
+        "fr": "Tomate",
+        "id": "Tomato",
+        "jp": "トマト",
+        "kr": "토마토",
+        "pt": "Tomate",
+        "ru": "Помидор",
+        "th": "Tomato",
+        "vi": "Cà Chua"
+    },
+    "id": 100079,
+    "materialDesc": {
+        "en": "A bright red ingredient that gives a tangy kick. Yes, the \"fruit or vegetable\" debate is still going...",
+        "de": "Eine Frucht mit einer dünnen, knallroten Schale. Etwas säuerlich, aber sehr saftig. Ob Obst oder Gemüse, immer ein Genuss.",
+        "chs": "外皮鲜红的草本植物。色泽艳丽，酸甜多汁。关于它到底属于水果还是蔬菜的争论自古有之。",
+        "cht": "外皮鮮紅的草本植物。色澤豔麗，酸甜多汁。關於它到底屬於水果還是蔬菜的爭論自古有之。",
+        "es": "Con una piel roja y brillante, tiene un sabor dulce y un aspecto muy jugoso. Respecto a si es una fruta o una verdura... Mejor no entramos en ese debate.",
+        "fr": "Cette tomate charnue et juteuse possède un goût acidulé. On ne sait toujours pas si c'est un fruit ou un légume.",
+        "id": "Tumbuhan yang kulitnya merah dan terang, memiliki rasa asam dan manis yang menyegarkan. Perdebatan tentang tomat buah atau sayuran, juga berlangsung di dunia Teyvat.",
+        "jp": "真っ赤な皮をまとう草本植物。鮮やかな色つやをしており、汁は甘酸っぱい。果物なのか、野菜なのかについては、昔から論争になっている。",
+        "kr": "빨간색의 채소. 빛깔이 선명하고 즙이 많다. 채소인가 과일인가에 대한 논쟁이 끊이지 않는 식물이다",
+        "pt": "Com uma pele vermelha, sua aparência é muito bonita e tem sabor azedo. Sim, a discussão entre \"fruta ou vegetal\" ainda continua...",
+        "ru": "Ярко-красный плод, немножко кислый на вкус. До сих пор не угасают споры на тему «фрукт это или овощ?»",
+        "th": "พืชที่มีเปลือกนอกเป็นสีแดง สีสันสดใส ฉ่ำน้ำและมีรสเปรี้ยวปนหวาน เกี่ยวกับที่ว่ามันเป็นผักหรือผลไม้นั้น ยังเป็นเรื่องที่เถียงกันจนถึงเดี๋ยวนี้",
+        "vi": "Thực vật có vỏ màu đỏ tươi. Chua ngọt nhiều nước, người ta từ xưa vẫn tranh luận nó là trái cây hay rau củ."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

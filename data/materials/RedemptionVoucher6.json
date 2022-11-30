@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 6",
+        "de": "Gutschein Nr.6",
+        "chs": "兑换券6号",
+        "cht": "兌換券6號",
+        "es": "Cupón de canje n.º 6",
+        "fr": "Coupon d'échange 6",
+        "id": "Kupon Penukaran 6",
+        "jp": "引換券6",
+        "kr": "교환 쿠폰 6호",
+        "pt": "Cupom de Troca 6",
+        "ru": "Купон обмена №6",
+        "th": "คูปองแลกรับหมายเลข 6",
+        "vi": "Phiếu Quà Tặng 6"
+    },
+    "id": 101872,
+    "materialDesc": {
+        "en": "Used to redeem Thundering Horned Owl: Air Time",
+        "de": "Ein Gutschein, der gegen „Eule des Donners – Himmel“ eingetauscht werden kann.",
+        "chs": "用于兑换【霆雷角鸮号·空】的兑换券",
+        "cht": "用於兌換【霆雷角鴞號·空】的兌換券",
+        "es": "Cupón de canje para obtener un Búho de la tempestad: Suspensión.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Burung Hantu Geledek: Layang",
+        "jp": "「雷霆コノハズク·空」と引き換えることのできる券。",
+        "kr": "[뇌정의 소쩍새호·비행]을 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Coruja Trovejante: Aéreo",
+        "ru": "Используйте, чтобы получить «Громовую сову: Полёт»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Thundering Horned Owl: Air Time",
+        "vi": "Phiếu quà tặng dùng để đổi \"Cú Lôi Đình - Bay\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

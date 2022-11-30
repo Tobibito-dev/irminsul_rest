@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Viridescent Arrow Feather",
+        "de": "Feldjäger-Pfeilfeder",
+        "chs": "猎人青翠的箭羽",
+        "cht": "獵人青翠的箭羽",
+        "es": "Pluma de la Cazadora Verde Esmeralda",
+        "fr": "Plume de flèche de la Verte Chasseuse",
+        "id": "Viridescent Arrow Feather",
+        "jp": "狩人の青緑色の矢羽",
+        "kr": "사냥꾼의 푸른 화살깃",
+        "pt": "Pena do Caçador Verde",
+        "ru": "Оперение стрелы изумрудного охотника",
+        "th": "Viridescent Arrow Feather",
+        "vi": "Lông Vũ Xanh Của Thợ Săn"
+    },
+    "id": 24692,
+    "setId": 15002,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

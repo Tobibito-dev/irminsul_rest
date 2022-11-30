@@ -1,0 +1,74 @@
+{
+    "name": {
+        "en": "Flaming Red Bolognese",
+        "de": "Feurige Nudeln",
+        "chs": "火火肉酱面",
+        "cht": "火火肉醬麵",
+        "es": "Pasta a la boloñesa",
+        "fr": "Pâtes à la bolognaise enflammées",
+        "id": "Flaming Red Bolognese",
+        "jp": "完熟トマトのミートソース",
+        "kr": "불꽃 미트 스파게티",
+        "pt": "Macarrão à Bolonhesa Picante",
+        "ru": "Паста с томатным соусом",
+        "th": "Flaming Red Bolognese",
+        "vi": "Mỳ Sốt Thịt"
+    },
+    "id": 2001,
+    "foodType": "COOK_FOOD_HEAL",
+    "cookMethod": "COOK_METHOD_BOIL",
+    "rankLevel": 2,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 10,
+    "inputVec": [
+        {
+            "id": 110001,
+            "count": 2
+        },
+        {
+            "id": 100061,
+            "count": 2
+        },
+        {
+            "id": 100079,
+            "count": 1
+        },
+        {},
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108015,
+            "count": 1
+        },
+        {
+            "id": 108016,
+            "count": 1
+        },
+        {
+            "id": 108017,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.65,0.35",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Restores <color=#3399CCFF>18–22%</color> of Max HP to the selected character. Regenerates <color=#3399CCFF>300–470</color> HP every 5s for the next 30s.",
+        "de": "Stellt der gewählten Figur <color=#3399CCFF>18 bis 22 %</color> LP wieder her. Stellt innerhalb der nächsten 30 s alle 5 s <color=#3399CCFF>300 bis 470</color> LP wieder her.",
+        "chs": "为选中的角色恢复生命值上限的<color=#3399CCFF>18%-22%</color>。 并在之后的30秒内，每5秒恢复<color=#3399CCFF>300-470</color>点生命值。",
+        "cht": "為選中的角色恢復生命值上限的<color=#3399CCFF>18%-22%</color>。 並在之後的30秒內，每5秒恢復<color=#3399CCFF>300-470</color>點生命值。",
+        "es": "Restaura un <color=#3399CCFF>18%-22%</color> de Vida Máx. al personaje seleccionado. Regenera <color=#3399CCFF>300-470</color> pts. de Vida cada 5 s durante 30 s.",
+        "fr": "Restaure <color=#3399CCFF>18 à 22 %</color> des PV max du personnage sélectionné. Et restaure <color=#3399CCFF>300 à 470</color> PV toutes les 5 s pendant 30 s.",
+        "id": "Memulihkan<color=#3399CCFF> 18–22%</color> HP Karakter yang dipilih. Memberikan regenerasi <color=#3399CCFF>300–470</color> HP setiap 5 detik selama 30 detik.",
+        "jp": "選択したキャラのHP上限の<color=#3399CCFF>18%~22%</color>を回復する。 その後30秒間、5秒毎にHPを<color=#3399CCFF>300~470</color>回復する。",
+        "kr": "선택한 캐릭터 HP 최대치의 <color=#3399CCFF>18%-22%</color>를 회복한다 이후 30초 동안 5초 마다 HP를 <color=#3399CCFF>300-470</color>pt 회복",
+        "pt": "Restaura <color=#3399CCFF>18% - 22%</color> da Vida Máxima ao personagem selecionado. Regenera <color=#3399CCFF>300 - 470</color> de Vida a cada 5s por 30s.",
+        "ru": "Восстанавливает выбранному персонажу <color=#3399CCFF>18%-22%</color> от макс. HP. Восстанавливает <color=#3399CCFF>300-470</color> HP каждые 5 сек. в течение 30 сек.",
+        "th": "ฟื้นฟูพลังชีวิตให้ตัวละครที่เลือก <color=#3399CCFF>18%-22%</color> ของพลังชีวิตสูงสุด และภายใน 30 วินาที หลังจากนั้นจะทำการฟื้นฟูพลังชีวิต <color=#3399CCFF>300-470</color> หน่วย ในทุก 5 วินาที",
+        "vi": "Hồi <color=#3399CCFF>18%-22%</color> giới hạn HP cho nhân vật được chọn. Trong 30s tiếp theo, mỗi 5s hồi <color=#3399CCFF>300-470</color> HP."
+    }
+}

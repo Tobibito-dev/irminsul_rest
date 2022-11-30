@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "The Unforged",
+        "de": "Grobes Schwert",
+        "chs": "无工之剑",
+        "cht": "無工之劍",
+        "es": "Espada de la Desidia",
+        "fr": "Lame brute",
+        "id": "The Unforged",
+        "jp": "無工の剣",
+        "kr": "무공의 검",
+        "pt": "Espada Áspera",
+        "ru": "Некованый",
+        "th": "The Unforged",
+        "vi": "Kiếm Vô Công"
+    },
+    "id": 12504,
+    "type": "WEAPON_CLAYMORE",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 45.9364013671875
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 0.1080000028014183
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0859999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.343000054359436,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4290000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5160000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6019999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.774999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2109999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2990000247955322,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.385999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4739999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6500000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.73799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8269999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9149999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.003999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.181999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2709999084472656,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.359999895095825,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.450000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5390000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.628999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7190001010894775,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.809000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.989000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.261000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.3520002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.442999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.533999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.808000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.900000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.992000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.084000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.176000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.26800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.638000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.730999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.824999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.918000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.011000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.105000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.197999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.291999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.386000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.669000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.763000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.857999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.953000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.047999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.14300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.23799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.334000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.428999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.525000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.620999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.813000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.908999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10200023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.199000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.295000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.392000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.48900032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.586999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.684000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.781999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.878999710083008,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.97700023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.074999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.17300033569336,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.270999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.369999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.468000411987305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.567000389099121,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.666000366210938,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.765000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.86400032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.963000297546387,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.062000274658203,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.161999702453613,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 12504,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114017,
+                    "count": 5
+                },
+                {
+                    "id": 112026,
+                    "count": 5
+                },
+                {
+                    "id": 112035,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114018,
+                    "count": 5
+                },
+                {
+                    "id": 112026,
+                    "count": 18
+                },
+                {
+                    "id": 112035,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114018,
+                    "count": 9
+                },
+                {
+                    "id": 112027,
+                    "count": 9
+                },
+                {
+                    "id": 112036,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114019,
+                    "count": 5
+                },
+                {
+                    "id": 112027,
+                    "count": 18
+                },
+                {
+                    "id": 112036,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114019,
+                    "count": 9
+                },
+                {
+                    "id": 112028,
+                    "count": 14
+                },
+                {
+                    "id": 112037,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 12504,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114020,
+                    "count": 6
+                },
+                {
+                    "id": 112028,
+                    "count": 27
+                },
+                {
+                    "id": 112037,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+        "de": "Ein Großschwert, das böse Geister und Menschen gleichsam vertreiben kann. Es scheint keine scharfe Kante zu haben und doch göttliche Kraft zu besitzen.",
+        "chs": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。",
+        "cht": "能靖祛妖魔佞，彷彿有神威的無鋒大劍。",
+        "es": "Espada sin filo capaz de acabar con demonios y villanos. ¿Tendrá poderes divinos?",
+        "fr": "Capable d'éloigner les esprits et les individus mal intentionnés, cette épée à deux mains dénuée de tranchant est habitée par une puissance divine.",
+        "id": "Pedang tanpa ujung yang memiliki kekuatan hebat untuk mengusir iblis.",
+        "jp": "悪人を討ち、妖魔を退治する大剣。刃はないが、その力は神を彷彿させる。",
+        "kr": "요괴를 물리칠 수 있으며, 신의 힘이 깃든 듯한 날이 없는 대검",
+        "pt": "Capaz de afastar tanto os espíritos malignos quanto as pessoas maléficas, este Espadão sem fio parece possuir o poder divino.",
+        "ru": "Двуручный меч без острия, способный изгонять нечистую силу и карать предателей. Он будто наделён божественной силой.",
+        "th": "ดาบใหญ่ที่สามารถกำจัดอสูร ได้ราวกับมีพลังเทพเจ้าอันน่าเกรงขาม",
+        "vi": "Thanh kiếm sắc bén có thể trừ yêu diệt ma, tựa như có uy lực của thần linh vậy."
+    },
+    "flavor": {
+        "en": "\nA long time ago, a dragon there was to be found in Liyue.\nNot a dragon that soared the skies, but one whose abode was the mountains.\nIndeed, this ancient dragon of stone was as large as the very mountains it called home.\n\nThe legends say that it slumbered in Nantianmen, seeming not at all unlike the surrounding hills.\nBut when it awakened, even the tiniest movement, or the slightest stretch...\nThat would cause the earth to tremble and shake.\nThen, Rex Lapis came before the dragon, seeking to stop the earth's quailing.\n\nThey say that for a long while, the land knew peace,\nAnd that Rex Lapis gained another comrade by his side.\n\nBut in the end, the union of dragons, gods and men was perhaps not to be...\n\nThe dragon was sealed in the bowels of the earth. Fearing the ire of the gods and the adepti,\nThe Geovishaps, who once heeded the trembling of the rock and wrought havoc alongside the dragon,\nFled into the roots of the mountains.\nBut as millennia passed, the dragon began to stir once again...\n\nThe legends hold that those who triumphed over the dragon stabbed this sword into the ground next to the giant tree that subdued the ancient dragon.\nAs one of the seals, monsters and malevolent mortals would be unable to touch it.\nIndeed, if the legends are true, only those with hearts as pure as clear mirrors could even come near it.\nYet, if those legends are true, how did this sword come to be lost?",
+        "de": "\nVor langer Zeit gab es in Liyue einen Drachen.\nEr war nicht wie jene Drachen, die durch die Lüfte fliegen, sondern lebte standhaft zwischen den Bergen.\nEs war ein alter steinerner Drache mit einem Körper lang und robust wie eine Bergkette.\n\nDie Legende besagt, dass er eines Tages auf dem Nantianmen-Berg einschlief und sich so zwischen den Felsen verbarg.\nWenn er einmal aufwachte, war jede noch so kleinste Bewegung, die er machte, wie beispielsweise das reine Aufwachen, schon genug,\num ein Erdbeben zu verursachen.\nUm solche Beben zu stoppen, ging Rex Lapis dorthin, wo der alte Drache lebte.\n\nEs heißt, der Frieden zwischen ihnen habe lange gedauert\nund Rex Lapis gewann mit dem Drachen einen neuen Partner.\n\nAber leider finden sich Drachen auf Dauer nicht unter Göttern und Menschen ein ...\n\nNachdem er in die Tiefen der Erde zurückgedrängt worden war, fürchtete der Drache den Zorn der Götter.\nDie Drachenechsen, die den Felsbeben aufmerksam zuhörten, schlossen sich der Rebellion an\nund suchten Zuflucht in den Tiefen des Berges.\nTausende von Jahren vergingen und die Probleme fingen wieder von vorn an ...\n\nDer Legende nach soll der Sieger dieses Schwert in die Seite des riesigen Baumes gesteckt haben, der den alten Drachen unterdrückte.\nDa es eines der Siegel ist, können Dämonen und böse Geister es nicht berühren.\nWenn die Legende wahr ist, können sich ihm nur reinherzige Menschen nähern.\nWenn die Legende tatsächlich wahr ist, warum ist dann der Verbleib dieses Schwertes bis heute noch unbekannt?",
+        "chs": null,
+        "cht": "\n很久以前，璃月曾經有龍的身影。\n並非乘風翱翔天際的龍。而是踞身於山巒之中，\n身軀亦如山巒般龐大的悠古石龍。\n\n傳說它曾沉睡在南天門一帶，與群山混若一體。\n甦醒時，即使是微小的動作，或許只是伸懶腰，\n也會導致大地轟鳴顫抖。\n當時的岩君為了平息地動，來到了古龍的面前。\n\n傳說大地平息了很長一段時間。\n而岩君的身邊也多了一名夥伴。\n\n但在最後，龍與神、人或許最終還是不相容吧…\n\n龍被鎮在大地深處後，畏懼著仙家與神的怒火，\n曾經聆聽岩石間的震顫，一同作亂的岩之龍蜥，\n遁入了山間地底。\n但隨著數千年的時光流轉，龍蜥再次開始騷動…\n\n傳說，勝者在鎮壓著古龍的巨木旁刺下這柄劍。\n作為封印之一，魔物或是奸佞的人皆無法觸碰。\n如果傳說屬實，只有心澄如鏡的人可以靠近它。\n如果傳說屬實的話，這把劍又為何不知所蹤呢…",
+        "es": "\nHace mucho tiempo, en Liyue había un dragón.\nNo era como esos dragones que vuelan por los aires, sino que vivía entre las montañas.\nUn antiguo dragón de piedra con un cuerpo como una cordillera.\n\nCuenta la leyenda que un día se durmió en la Montaña Nantianmen, camuflándose entre sus rocas.\nAl despertarse, cualquier pequeño movimiento que hiciera, como desperezarse,\nprovocaba un temblor de tierra.\nPara acabar con los temblores, Rex Lapis fue adonde estaba el anciano dragón.\n\nSe dice que la paz duró mucho tiempo;\ny Rex Lapis ganó un nuevo compañero.\n\nPero los dragones son incompatibles con los dioses y las personas...\n\nDespués de haber sido reprimido en las profundidades de la tierra, el dragón temía la ira de los dioses.\nLos Dragartos Geo, que en el pasado escuchaban los temblores de las rocas, se unieron a la rebelión.\nY se refugiaron en las profundidades de la montaña.\nPasaron miles de años y los Dragartos comenzaron a causar problemas de nuevo...\n\nSegún la leyenda, el vencedor clavó esta espada al lado del árbol gigantesco que contenía al viejo dragón.\nAl ser uno de los sellos, los demonios y los espíritus malignos no podían tocarla.\nSi la leyenda está en lo cierto, solo las personas de corazón puro pueden acercarse a ella.\nSi la leyenda está en lo cierto, ¿por qué se desconoce el paradero de esta espada?",
+        "fr": "\nIl y a longtemps, un dragon résidait à Liyue.\nMais il n'était pas comme ces dragons qui volent dans les airs ; lui se reposait dans les montagnes.\nC'était un ancien dragon de pierre au corps aussi imposant que les montagnes où il s'était établi.\n\nLa légende raconte qu'il sommeillait autrefois dans la région de Nantianmen, se fondant dans les collines.\nMais à son réveil, le moindre mouvement, le moindre étirement...\nUn rien suffit pour faire trembler la terre.\nAfin d'apaiser la terre, l'Archon Géo s'en alla à la rencontre de l'ancien dragon.\n\nOn dit que le calme revint sur les terres de manière durable.\nOn dit aussi que l'Archon Géo se trouva ainsi un nouveau compagnon.\n\nMais, les dragons ne s'entendent pas vraiment avec les dieux et les hommes...\n\nLe dragon fut piégé dans les profondeurs de la terre, et craignant la colère des dieux et des Adeptes,\ncelui qui autrefois avait fait trembler pierres et rocs\nse réfugia dans les profondeurs de la montagne.\nMais avec le passage du temps, le dragon se réveilla et s'agita à nouveau...\n\nLa légénde prétend que ceux qui triomphèrent de la bête plongèrent cette épée dans l'arbre géant la piégeant.\nEn tant que l'un des sceaux, ni monstres ni mortels aux mauvaises intentions ne pouvaient le toucher.\nSi la légende dit vrai, seules les personnes au cœur pur peuvent s'en approcher.\nMais si la légende dit vrai, comment cette épée s'est-elle perdue ?",
+        "id": "\nDulu, Liyue memiliki sosok naga.\nNamun bukan naga yang terbang di langit. Tapi naga yang duduk di pegunungan,\nTubuhnya besar sebesar naga batu dari zaman kuno.\n\nLegenda mengatakan bahwa dia pernah terlelap di daerah Nantianmen, menjadi satu dengan pegunungan.\nKetika dirinya terbangun, hanya dengan gerakan kecil, atau meregangkan tubuh,\nItu akan menyebabkan bumi bergetar.\nSaat itu, Archon Geo mendatangi sang naga untuk menenangkan gerakannya.\n\nLegenda mengatakan bahwa bumi menjadi damai untuk waktu yang lama.\nDan Archon Geo juga memiliki rekan di sampingnya.\n\nTapi pada akhirnya, naga itu mungkin tidak cocok hidup berdampingan dengan dewa dan manusia...\n\nSetelah naga itu disegel di kedalaman bumi, mereka takut akan amukan para peri dan dewa,\nNaga batu yang dulunya menyebabkan getaran di antara bebatuan,\nmelarikan diri ke dasar pegunungan.\nTetapi dengan berlalunya ribuan tahun, naga batu mulai mengganggu lagi...\n\nMenurut legenda, pedang ditikam di samping pohon besar yang menekan sang naga.\nSebagai salah satu segel, baik monster maupun orang jahat tidak bisa menyentuhnya.\nJika legenda itu benar, hanya orang dengan hati yang jernih yang bisa mendekatinya.\nJika legenda itu benar, lalu mengapa pedang itu hilang...",
+        "jp": "\n遠い昔、璃月には龍がいた。\n風に乗って飛び回るのではなく、龍は連なる山の中にいた。\n身体が山のように大きな石龍であった。\n\n伝説によると、龍は南天門辺りで、群山と一体になるかのように眠っていたそうだ。\n小さく寝返りを打ったり、背伸びをするだけでも、\n大地は揺れ動かされた。\n当時の岩君は大地を鎮めるため、古龍の元へとやって来た。\n\n伝説によると、大地は長い間平穏だった。\nそして、岩君の側には仲間が一名増えていた。\n\nだが結局、龍と神、そして人は恐らく相容れなかったのだろう……\n\n龍が地底に鎮められた後、仙人や神の怒りに触れる事を恐れて、\nかつて、一同になって暴れまわり、岩が揺れ動く音を傍聴していたヴィシャップも\n山の地底深くに潜り込んだ。\nだが、数千年の時が過ぎ、ヴィシャップが再び騒ぎ出す……\n\n伝説によると、勝者は古龍が鎮圧された巨木の側に剣を突き刺した。\nこの封印は、魔物や邪悪な心を持つ人には触れることができないものだった。\n伝説が本当であれば、清らかな心を持つ人のみ、それに近付く事ができる。\nだが、もし伝説が本当であれば、なぜその剣は行方が不明なのだろうか……",
+        "kr": "\n아주 오래 전 리월에는 드래곤이 있었다.\n이 드래곤은 바람을 타고 날아다니는 것이 아닌 산속에 몸을 웅크리고 있는\n몸집이 산처럼 거대한 바위 드래곤이었다.\n\n전설에 의하면 드래곤은 남천문 일대에서 산들과 일체가 된 듯 잠을 자고 있다고 한다.\n깨어났을 때 몸을 살짝 뒤척이거나 기지개를 켜는 것만으로도\n대지가 요동쳤다.\n당시 암왕제군은 이를 다스리기 위해 고룡의 앞에 섰다.\n\n이후 대지는 오랫동안 잠잠해졌으며,\n암왕제군의 곁엔 동료가 한 명 늘어났다고 한다.\n\n하지만 결국 드래곤과 신, 그리고 인간은 서로 맞지 않았던 것일지도…\n\n용은 땅속 깊숙이 묻힌 뒤 선인과 신의 노여움을 살까 두려워했고\n과거 바위틈에서 함께 날뛰던 바위 용 도마뱀은\n산 밑 깊숙이 파고들었다.\n하지만 수천 년의 시간이 지나자 도마뱀은 다시 날뛰기 시작했다…\n\n전설에 따르면 승자는 고룡을 제압한 거목 옆에 이 검을 꽂아\n마물 혹은 간사한 자가 건들 수 없도록 봉인했다고 한다.\n전설이 사실이라면 거울처럼 깨끗한 마음을 가진 자만이 가까이 갈 수 있다.\n전설이 사실이라면 왜 이 검의 행방이 묘연한 것일까…",
+        "pt": "\nHavia um dragão em Liyue há muito tempo atrás.\nNão era um dragão que voava com o vento, mas sim um que vivia nas montanhas.\nSeu corpo também era grande como o de uma montanha.\n\nDizem que dormia entre as montanhas do Monte Nantianmen, e que seu corpo se misturava com elas como se fosse um só.\nQuando acordava, ainda que fizesse apenas um pequeno movimento, ou se esticasse levemente,\ncausava enormes tremores e estrondos.\nPara acabar com isso, o Arconte Geo partiu em direção ao dragão.\n\nDizem que tudo acalmou por muito tempo.\nE que o Arconte Geo tinha muitos companheiros ao seu lado.\n\nMas no final, o dragão era incompatível com os deuses e os humanos.\n\nDepois do dragão ser aprisionado no abismo, temendo a fúria do deus imortal,\nescutou um tremor entre as pedras, e junto com os Dragartos\nfugiram para debaixo da montanha.\nMas depois de rondar por incontáveis eras, o Dragarto começou a criar distúrbios novamente...\n\nDizem que esta espada foi enfiada na árvore próximo do local onde o dragão foi suprimido.\nComo um dos selos, demônios ou pessoas más são incapazes de tocar.\nSe a lenda for verdade, apenas um coração claro como um espelho poderá se aproximar.\nSe a lenda é verdadeira, por que não se sabe onde a espada está?",
+        "ru": "\nДавным-давно в Ли Юэ был дракон.\nНо не тот, который летает в облаках, а тот, который скрывается в горах.\nТо был древний каменный дракон, и тело его было что сами горы.\n\nГоворят, он крепко спал у Южных небесных врат, слившись со скалами.\nА когда просыпался и начинал потягиваться,\nто вся округа ходила ходуном.\nЧтобы усмирить землетрясения, Властелин Камня пошёл к дракону.\n\nГоворят, что землетрясения затихли на долгое время.\nА у Властелина Камня появился ещё один помощник.\n\nНо всё-таки, наверное, драконы несовместимы с людьми или божествами...\n\nДракона заперли в глубинах земли, где он, боясь гнева божеств,\nвсё глубже зарывался, грохотал камнями и\nпродолжал безобразничать.\nИ вот спустя тысячи лет дракон снова пробуждается...\n\nГоворят, что именно этим мечом герой одолел дракона.\nПоскольку это одна из печатей, монстры и предатели не могут прикоснуться к мечу.\nЕсли легенды не врут, то только человек с чистым сердцем может приблизиться к нему.\nЕсли легенды не врут, то почему этот меч вдруг нашёлся?..",
+        "th": "\nครั้งหนึ่งนานมาแล้ว Liyue เคยมีมังกรอยู่\nมันไม่ใช่มังกรที่โบยบินอยู่บนท้องฟ้า แต่เป็นมังกรที่อาศัยอยู่ในหุบเขา\nมังกรหินตัวมหึมานี้ มันมีรูปร่างใหญ่โตพอ ๆ กับหุบเขาที่เป็นบ้านของมัน\n\nตำนานกล่าวว่า ครั้งหนึ่งมันหลับไหลอยู่ที่ Nantianmen ร่างของมันกลมกลืนไปกับเนินเขารอบตัว\nเมื่อมันตื่นขึ้น ไม่ว่าจะเป็นการเคลื่อนไหวเพียงเล็กน้อย หรือจะเป็นการยืดตัว\nก็จะทำให้พื้นดินสั่นสะเทือน\nในตอนนั้นราชาแห่งหินได้มาหามังกรโบราณ เพราะต้องการจะหยุดการสั่นสะเทือนของพื้นดิน\n\nตำนานกล่าวว่าพื้นดินได้สงบลงเป็นเวลาอันยาวนาน\nและราชาแห่งหินก็ได้สหายใหม่เคียงข้างกาย\n\nแต่ท้ายที่สุด ความสัมพันธ์ระหว่างมังกร, เทพเจ้า และคนก็ไม่ยั่งยืน\n\nมังกรถูกขังไว้ส่วนลึกของโลก มันกลัวความโกรธแค้นของเทพเจ้าและเหล่าเซียน\nกิ้งก่ามังกรหินที่ครั้งหนึ่งเคยทำให้หินผาสั่นสะเทือน\nได้หลบหนีไปยังส่วนลึกของภูเขา\nแต่หลังจากเวลาผ่านไปหลายพันปี เจ้ามังกรก็เริ่มสร้างความวุ่นวายอีกครั้ง...\n\nตำนานกล่าวว่า ผู้พิชิตมังกรได้ปักดาบไว้ข้างต้นไม้ต้นยักษ์ ตรงที่เราปราบมังกรลงได้\nเพื่อใช้เป็นหนึ่งในผนึก ปีศาจและคนชั่วร้ายไม่อาจแตะต้องมันได้\nหากตำนานดังกล่าวเป็นจริง มีเพียงคนที่จิตใจใสสะอาดและบริสุทธิ์เท่านั้น ถึงจะเข้าใกล้มันได้\nแต่หากตำนานนี้เป็นเรื่องจริง แล้วดาบเล่มนี้มันหายไปได้อย่างไรกันล่ะ?",
+        "vi": "\nTrước đây rất lâu, Liyue từng có bóng dáng của rồng.\nKhông phải rồng bay lượn trên trời, mà là ẩn mình trong dãy núi, \nRồng đá có thân hình to lớn bằng với những dãy núi.\n\nTruyền thuyết rằng nó nằm ngủ ở Nam Thiên Môn, hòa mình vào những dãy núi.\nKhi tỉnh giấc, chỉ cần một động tác nhỏ, hoặc vươn thân hình ra,\ncũng sẽ gây chấn động cả một vùng.\nNham Quân lúc đó vì muốn dẹp yên động đất, đã đến trước mặt Cổ Long.\n\nNghe nói đại địa đã được yên bình một thời gian dài.\nCòn Nham Quân cũng có thêm một người bạn bên mình.\n\nNhưng đến sau cùng, rồng, thần và con người cũng không thể dung hợp...\n\nSau khi rồng bị trấn giữ ở nơi thâm sâu, thì rất sợ nộ hỏa của tiên gia và thần, \nRồng Đất đã từng lắng nghe sự rung chuyển của đá, đồng loạt quấy phá, \nrồi lẩn sâu trong khe núi.\nNhưng ngàn năm trôi qua, Rồng Đất dường như lại bắt đầu làm loạn...\n\nTheo truyền thuyết, người chiến thắng đã đâm thanh kiếm này bên cạnh cây đại thụ trấn áp Cổ Long.\nLà một trong những phong ấn, ma vật hay những kẻ gian trá đều không thể chạm vào nó.\nNếu truyền thuyết là sự thật, chỉ những người có tấm lòng tĩnh lặng như gương mới có thể tiếp cận nó.\nNếu truyền thuyết là sự thật, thì thanh kiếm này vì sao lại mất tích..."
+    }
+}

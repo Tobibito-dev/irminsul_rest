@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt General Goods Order Board",
+        "de": "Bestellungen für Mondstadts Gemischtwaren",
+        "chs": "蒙德百货订货板",
+        "cht": "蒙德百貨訂貨板",
+        "es": "Tablón de pedidos de la Boutique de Mondstadt",
+        "fr": "Panneau de commande - Bazar de Mondstadt",
+        "id": "Papan Pesanan Barang Toko Mondstadt General Goods",
+        "jp": "モンドショップオーダーボード",
+        "kr": "몬드 잡화점 주문 보드",
+        "pt": "Tabela de Pedidos do Bazar de Mondstadt.",
+        "ru": "Доска заказов «Мондштадтского Купца»",
+        "th": "กระดานคำสั่งซื้อสินค้าทั่วไปของ Mondstadt",
+        "vi": "Bảng Đặt Hàng Bách Hóa Mondstadt"
+    },
+    "id": 100186,
+    "materialDesc": {
+        "en": "Mondstadt General Goods Order Board",
+        "de": "Bestellungen für Mondstadts Gemischtwaren",
+        "chs": "蒙德百货订货板",
+        "cht": "蒙德百貨訂貨板。",
+        "es": "Tablón de pedidos de la Boutique de Mondstadt",
+        "fr": "Panneau de commande - Bazar de Mondstadt",
+        "id": "Papan Pesanan Barang Toko Mondstadt General Goods",
+        "jp": "モンドショップオーダーボード",
+        "kr": "몬드 잡화점 주문 보드",
+        "pt": "Tabela de Pedidos do Bazar de Mondstadt.",
+        "ru": "Доска заказов «Мондштадтского Купца»",
+        "th": "กระดานคำสั่งซื้อสินค้าทั่วไปของ Mondstadt",
+        "vi": "Bảng Đặt Hàng Bách Hóa Mondstadt"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Cured Pork Dry Hotpot",
+        "de": "Misslungener Pökeltopf",
+        "chs": "奇怪的干锅腊肉",
+        "cht": "奇怪的乾鍋臘肉",
+        "es": "Carne curada con matsutake extraña",
+        "fr": "Cocotte de porc fumé (suspecte)",
+        "id": "Suspicious Cured Pork Dry Hotpot",
+        "jp": "微妙な干し肉の炒め鍋",
+        "kr": "이상한 훈제고기 볶음",
+        "pt": "Porco Curado com Matsutake Estranho",
+        "ru": "Странная ветчина на сковороде",
+        "th": "Cured Pork Dry Hotpot รสประหลาด",
+        "vi": "Thịt Xông Khói Xào Kỳ Lạ"
+    },
+    "id": 108182,
+    "materialDesc": {
+        "en": "A dish fried over a great flame. The quality of the pork is fair enough, but it is far too salty. Have a piece of this, and you will taste nothing but brine in your mouth no matter how many Snapdragons or Matsutake mushrooms you consume.",
+        "de": "Ein Gericht, das bei großer Hitze schnell gebraten wird. Der Schinken hat eine recht gute Konsistenz, ist aber viel zu salzig. Nach einem Bissen davon schmeckt man nichts anderes mehr, egal wie viel Goldfischkraut oder Matsutake man danach zu sich nimmt.",
+        "chs": "旺火炒制的菜肴。腊肉质地虽好，咸味却过于明显。只要一块下肚，此后无论是金鱼草还是松茸，都只能嚼出盐的味道。",
+        "cht": "旺火炒製的菜餚。臘肉質地雖好，鹹味卻過於明顯。只要一塊下肚，此後無論是金魚草還是松茸，都只能嚐到鹽的味道。",
+        "es": "Un plato salteado a fuego fuerte. Aunque la carne es de buena calidad, está demasiado salada. Tras un bocado, no importará si después se come un poco de flor dorada o de matsutake: todo sabrá a sal.",
+        "fr": "Un plat sauté sur feu vif. La texture de la viande de porc est acceptable, mais son goût est bien trop salé. Une bouchée et vous aurez l'impression de n'avoir rien d'autre que de la saumure dans la bouche, peu importe le nombre de gueules-de-loup ou de matsutake que vous mangerez après.",
+        "id": "Hidangan yang digoreng di atas api besar. Kualitas daging babinya cukup baik, tapi terlalu asin. Dengan memakan sedikit saja hidangan ini maka kamu tidak bisa merasakan apa pun selain rasa dari air garam, tidak peduli berapa banyak Snapdragon atau jamur Matsutake yang kamu makan.",
+        "jp": "強火で炒めた料理。干し肉の食感は悪くないがしょっぱすぎた。一枚食べたら、それ以降はキンギョソウだの松茸だの、何を食べても塩の味しか感じなくなる。",
+        "kr": "센 불에 볶은 요리. 훈제고기의 품질은 좋지만, 너무 짜 금어초를 먹든 송이버섯을 먹든 짠맛밖에 느껴지지 않는다",
+        "pt": "Um prato frito sobre uma grande chama. A qualidade da carne de porco é bastante evidente, mas é muito salgada. Coma um pedaço disto, e você não sentirá nada além de salmoura em sua boca, não importa quantas Flor Crânio de Dragão ou Matsutake você consuma.",
+        "ru": "Блюдо, приготовленное на сильном огне. Ветчина неплоха, но пересолена. Сколько бы вы не заедали её львиным зёвом или мацутакэ, будет чувствоваться только соль.",
+        "th": "อาหารที่ผัดด้วยไฟแรง แม้ว่าเนื้อจะคุณภาพดี แต่มีรสชาติที่เค็มก็เกินไป เพียงชิม Snapdragon หรือ Matsutake แค่ชิ้นเดียว คุณก็จะรับรู้ได้เพียงรสชาติของเกลือเท่านั้น",
+        "vi": "Món xào bằng lửa lớn, thịt tuy ngon nhưng rất mặn. Chỉ cần cắn một miếng, cho dù là Cỏ Kim Ngư hay là Nhung Tùng đi nữa, vị duy nhất cảm nhận được chỉ là vị muối."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

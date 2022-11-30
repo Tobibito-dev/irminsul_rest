@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chaoxi's Reply to Cui'er",
+        "de": "Chaoxis Anwort an Cui’er",
+        "chs": "潮汐给翠儿的回信",
+        "cht": "潮汐給翠兒的回信",
+        "es": "Carta de Chaoxi a Tsui'er",
+        "fr": "Lettre de Chaoxi à Cui'er",
+        "id": "Balasan Chaoxi kepada Cui'er",
+        "jp": "潮汐から翠児への返信",
+        "kr": "조석이 취아에게 주는 답서",
+        "pt": "Resposta de Chaoxi à Cui'er",
+        "ru": "Ответ Чао Си для Цуй Эр",
+        "th": "จดหมายที่ Chaoxi ตอบกลับ Cui'er",
+        "vi": "Thử trả lời của Chaoxi gửi cho Cui'er"
+    },
+    "id": 100595,
+    "materialDesc": {
+        "en": "A reply from Chaoxi to Cui'er. Judging from the sender's attitude, it's unlikely to be a particularly heartfelt letter.",
+        "de": "Die Antwort von Chaoxi an Cui’er. In Anbetracht der Einstellung des Absenders wird der Inhalt nicht gerade von Herzen kommen.",
+        "chs": "潮汐给翠儿的回信。看写信者的态度，这封信里也许不会有什么有意义的内容…",
+        "cht": "潮汐給翠兒的回信。看寫信者的態度，這封信裡也許不會有什麼有意義的內容…",
+        "es": "La carta de respuesta de Chaoxi a Tsui'er. A juzgar por la actitud que muestra en ella el remitente, no parece que cuenta nada muy interesante...",
+        "fr": "Réponse de Chaoxi à Cui'er. À vue de nez, il est fort peu probable qu'elle contienne quoi que ce soit d'intéressant...",
+        "id": "Balasan dari Chaoxi untuk Cui'er. Dilihat dari sikap pengirimnya, sepertinya isinya tidak begitu penting...",
+        "jp": "潮汐から翠児への返信。書いた人の態度から見れば、内容に大した意味はない気がする。",
+        "kr": "조석이 취아에게 주는 답서. 조석의 태도를 보건대 이 편지엔 아무런 특별한 내용이 없는듯하다…",
+        "pt": "A resposta do Chaoxi para a Cui'er. Ao julgar pela atitude do remetente, provavelmente não é uma carta particularmente sincera.",
+        "ru": "Ответное послание Цуй Эр от Чао Си. Судя по настрою отправителя, особого смысла в нём, скорее всего, искать не стоит.",
+        "th": "จดหมายที่ Chaoxi ตอบกลับ Cui'er ดูจากท่าทางของผู้เขียนแล้ว จดหมายฉบับนี้อาจจะไม่มีเนื้อหาอะไรที่น่าสนใจ...",
+        "vi": "Bức thư trả lời của Chaoxi viết cho Cui'er. Chỉ cần nhìn thái độ của người viết cũng đủ biết nội dung không có ý nghĩa gì đặc biệt..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

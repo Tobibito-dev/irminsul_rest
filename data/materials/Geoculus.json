@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Geoculus",
+        "de": "Verlorener Geoculus",
+        "chs": "散失的岩神瞳",
+        "cht": "散失的岩神瞳",
+        "es": "Geóculus perdido",
+        "fr": "Géoculus",
+        "id": "Geoculus",
+        "jp": "失われた岩神の瞳",
+        "kr": "잃어버린 바위 신의 눈동자",
+        "pt": "Geoculus",
+        "ru": "Геокул",
+        "th": "Geoculus",
+        "vi": "Nham Thần Đồng"
+    },
+    "id": 107003,
+    "materialDesc": {
+        "en": "A substance that has accumulated intense Geo energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+        "de": "Ein Gebilde aus verdichteter Geo-Energie. Übergib es der Geo-Statue, um ihre über die Jahre verlorene Kraft wiederaufzubauen.",
+        "chs": "浓烈的岩元素能量积聚成的物质。献给岩的神像，能弥补它在漫长岁月中散失的力量。",
+        "cht": "濃烈的岩元素能量積聚成的物質。獻給岩的神像，能彌補它在漫長歲月中散失的力量。",
+        "es": "Una sustancia que ha acumulado una intensa energía Geo. Ofrécesela a una Estatua para que recupere la energía perdida a lo largo de los años.",
+        "fr": "De l'énergie Géo accumulée au fil du temps qui a fini par durcir. Faites-en une offrande à la Statue et restaurez son pouvoir qui s'est amenuisé avec le temps.",
+        "id": "Cairan yang telah mengakumulasi energi Geo yang kuat. Berikan ke Patung untuk membantu mengembalikan kekuatan yang telah hilang selama bertahun-tahun.",
+        "jp": "強烈な岩元素エネルギーを集積させた物質。岩の神像に捧げると、長い年月で失われた力を補える。",
+        "kr": "진한 바위 원소 에너지가 모여 형성된 물질. 바위의 신상에 바치면 오랜 세월 동안 잃어버린 힘을 회복시켜 줄 수 있다",
+        "pt": "Uma substância que acumulou intensa energia Geo. Ofereça-o à Estátua e ajude a restabelecer o poder que perdeu ao longo dos anos.",
+        "ru": "Вещество, которое накопило плотную энергию Гео. Предложите его статуе Гео Архонта, чтобы помочь ей восстановить утерянную силу.",
+        "th": "แร่ธาตุอันแข็งแกร่งที่ได้รวบรวมพลังงานของผืนดินเอาไว้ มอบให้แก่รูปปั้นหินเพื่อช่วยฟื้นพลังที่หายไปนานหลายปีของมันกลับมา",
+        "vi": "Vật chất được kết tinh từ năng lượng Nguyên Tố Nham. Hiến dâng cho tượng Nham Thần, có thể giúp bù đắp sức mạnh đã mất theo thời gian."
+    },
+    "materialType": "MATERIAL_ELEM_CRYSTAL"
+}

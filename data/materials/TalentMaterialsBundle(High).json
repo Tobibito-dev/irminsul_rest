@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Talent Materials Bundle (High)",
+        "de": "Höhres Wahlpaket für Talente",
+        "chs": "天赋书自选-高级",
+        "cht": "天賦書自選-高級",
+        "es": "Paquete de materiales para talentos (Alto)",
+        "fr": "Pack de matériaux d'aptitude (avancé)",
+        "id": "Talent Materials Bundle (High)",
+        "jp": "天賦書選択-高级",
+        "kr": "특성책 셀렉션-고급",
+        "pt": "Pacote de Aprimoramento de Talento (Alto)",
+        "ru": "Набор материалов талантов (Выс.)",
+        "th": "แพ็กวัสดุเพิ่มระดับพรสวรรค์ (ขั้นสูง)",
+        "vi": "Tự Chọn Sách Thiên Phú-Cao"
+    },
+    "id": 115018,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

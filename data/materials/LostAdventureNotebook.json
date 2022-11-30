@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lost Adventure Notebook",
+        "de": "Verlorene Abenteueraufzeichnungen",
+        "chs": "遗落的冒险家笔记",
+        "cht": "遺落的冒險家筆記",
+        "es": "Diario de aventurero extraviado",
+        "fr": "Notes de l'aventurier perdu",
+        "id": "Catatan Petualang yang Tertinggal",
+        "jp": "失われた冒険者のノート",
+        "kr": "분실된 모험가의 노트",
+        "pt": "Diário de Aventureiro Perdido",
+        "ru": "Потерянный дневник искателя приключений",
+        "th": "บันทึกการผจญภัยที่สาบสูญ",
+        "vi": "Bút Ký Thất Lạc"
+    },
+    "id": 100740,
+    "materialDesc": {
+        "en": "A set of adventurer's notes that you picked up in the ruins. It seems to contain a clue to unlocking these mechanisms.",
+        "de": "Eine Sammlung von Abenteurernotizen, die du in den Ruinen aufgesammelt hast. Sie scheint einen Hinweis zu enthalten, um diese Vorrichtung zu entriegeln.",
+        "chs": "在遗迹中意外捡到的冒险家笔记，似乎记载着破解机关的线索。",
+        "cht": "在遺蹟中意外撿到的冒險家筆記，似乎記載著破解機關的線索。",
+        "es": "Un conjunto de notas que recogiste en las ruinas. Parece que contiene una pista para desbloquear estos mecanismos.",
+        "fr": "Un carnet de notes trouvé au milieu de ruines. Il semble renfermer un indice pour l'activation des mécanismes.",
+        "id": "Sekumpulan catatan petualang yang kamu ambil di reruntuhan. Tampaknya catatan ini berisi sebuah petunjuk untuk membuka mekanisme-mekanisme ini.",
+        "jp": "遺跡で偶然拾った冒険者のノート、装置を解く手がかりが書かれているようだ。",
+        "kr": "유적에서 우연히 발견한 모험가의 노트, 장치를 풀 수 있는 단서가 기록돼 있는 듯하다",
+        "pt": "Um conjunto de notas de um aventureiro que você encontrou nas ruínas. Parece conter uma pista sobre como desbloquear esses mecanismos.",
+        "ru": "Заметки искателя приключений, которые вы подобрали в руинах. Похоже, в них есть подсказка, как разблокировать эти механизмы.",
+        "th": "บันทึกการผจญภัยที่บังเอิญเก็บได้ในซากโบราณสถาน ดูเหมือนจะบันทึกเบาะแสเกี่ยวกับการไขปริศนากลไกเอาไว้",
+        "vi": "Bút ký của nhà mạo hiểm tình cờ nhặt được trong đống đổ nát, dường như ghi lại manh mối để giải mã cơ quan."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

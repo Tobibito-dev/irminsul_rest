@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Seashell Table Lamp",
+        "de": "Muschel-Tischlampe",
+        "chs": "贝壳灯罩硬质台灯",
+        "cht": "貝殼燈罩硬質檯燈",
+        "es": "Lámpara caracola",
+        "fr": "Lampe de table coquillage",
+        "id": "Lampu Meja Cangkang Kerang",
+        "jp": "貝殻の硬質机上灯",
+        "kr": "조개 테이블 스탠드",
+        "pt": "Abajur de Conchas",
+        "ru": "Настольная лампа в форме ракушки",
+        "th": "โคมไฟตั้งโต๊ะแบบมีฝาครอบ",
+        "vi": "Đèn Bàn Với Chụp Đèn Vỏ Sò"
+    },
+    "id": 383104,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Seashell Table Lamp.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Muschel-Tischlampe“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「贝壳灯罩硬质台灯」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「貝殼燈罩硬質檯燈」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Lámpara caracola.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de la lampe de table coquillage.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Lampu Meja Cangkang Kerang\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「貝殻の硬質机上灯」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「조개 테이블 스탠드」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Abajur de Conchas\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Настольная лампа в форме ракушки».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โคมไฟตั้งโต๊ะแบบมีฝาครอบ\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Bàn Với Chụp Đèn Vỏ Sò\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

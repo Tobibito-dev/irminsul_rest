@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Talent Materials Bundle (Low)",
+        "de": "Niederes Wahlpaket für Talente",
+        "chs": "天赋书自选-低级",
+        "cht": "天賦書自選-低級",
+        "es": "Paquete de materiales para talentos (Bajo)",
+        "fr": "Pack de matériaux d'aptitude (basique)",
+        "id": "Talent Materials Bundle (Low)",
+        "jp": "天賦書選択-低級",
+        "kr": "특성책 셀렉션-하급",
+        "pt": "Pacote de Aprimoramento de Talento (Baixo)",
+        "ru": "Набор материалов талантов (Низ.)",
+        "th": "แพ็กวัสดุเพิ่มระดับพรสวรรค์ (ขั้นต่ำ)",
+        "vi": "Tự Chọn Sách Thiên Phú-Thấp"
+    },
+    "id": 115016,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

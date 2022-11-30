@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Konda Cuisine",
+        "de": "Misslungene Konda-Küche",
+        "chs": "奇怪的绀田煮",
+        "cht": "奇怪的绀田煮",
+        "es": "Estofado de Konda extraño",
+        "fr": "Ragoût de Konda (suspect)",
+        "id": "Suspicious Konda Cuisine",
+        "jp": "微妙な紺田煮",
+        "kr": "이상한 콘다 어묵",
+        "pt": "Cozido de Konda Estranho",
+        "ru": "Странное рагу Конды",
+        "th": "Konda Cuisine รสประหลาด",
+        "vi": "Món Konda Kỳ Lạ"
+    },
+    "id": 108285,
+    "materialDesc": {
+        "en": "Slowly stewed local cuisine. If the fowl that had not been fried beforehand could still barely be tolerated, the un-boiled lavender melon truly makes this a culinary disaster. Not only is the taste astringent, but the mix even stains your tongue to the point where someone else might think that you were being poisoned.",
+        "de": "Regionale Küche, die langsam über einem Feuer zubereitet wird. Konnte man das zuvor nicht gebratene Geflügel noch gerade so ertragen, so ist es mit der ungekochten Lavendelmelone wahrlich eine kulinarische Katastrophe. Nicht nur, dass der Geschmack dir den Mund zusammenzieht, die Mischung färbt sogar so stark auf die Zunge ab, dass man meinen könnte, man sei vergiftet worden.",
+        "chs": "慢火炖煮的乡土料理。如果说没有预先煎过的禽肉尚且可以忍受的话，那么没有焯水的堇瓜简直如同灾难。它不仅口味发涩，还能把食客的舌头染得像是中毒了一般。",
+        "cht": "慢火燉煮的鄉土料理。如果說沒有預先煎過的禽肉尚且可以忍受的話，那麼沒有汆燙的堇瓜簡直如同災難。不僅口味發澀，還能把食客的舌頭染得像是中毒了一般。",
+        "es": "Un rústico estofado hecho a fuego lento. Si el pollo, que no se ha frito previamente, fuera mínimamente aceptable, entonces la calavanda cruda sería la razón de este desastroso plato. No solo tiene un sabor astringente, sino que tiñe toda la lengua de morado, lo que hace que parezca que quien la come ha tomado alguna clase de veneno.",
+        "fr": "Plat local mijoté à feu doux. Si la volaille qui n'a pas été frite peut encore passer, le melon lavande non bouilli est un véritable désastre. Non seulement il a un goût astringent, mais en plus il tache votre langue donnant l'impression d'avoir été empoisonné.",
+        "id": "Masakan lokal yang direbus perlahan. Jika daging yang tidak digoreng terlebih dahulu masih bisa diterima, maka melon lavender yang tidak direbus benar-benar membuat masakan ini menjadi bencana dalam dunia kuliner. Rasanya bukan saja terasa sepat, lidah orang-orang yang memakannya pun berubah warna seperti keracunan.",
+        "jp": "ゆっくりと煮た郷土料理。下処理をしなかった鳥肉はまだ許せるかもしれないが、煮込まれていないスミレウリは最悪だ。味がとんでもなく渋いだけではなく、お客さんの舌を中毒になったかのような色に染めてしまう。",
+        "kr": "약불로 끓인 향토 요리. 미리 구워두지 않은 새고기가 그나마 먹을만했다면, 물에 데치지 않은 제비꽃 열매는 그야말로 재앙이다. 떫은맛이 날뿐더러 먹는 이의 혀를 중독된 듯한 지독한 색으로 만들어버린다",
+        "pt": "Comida local cozinhada lentamente. Se a Carne de Ave que não foi fritada anteriormente poderia até ser tolerada, o Melão de Lavanda não cozido realmente faz isso um desastre culinário. O gosto não apenas é austero, mas a mistura mancha sua língua ao ponto de que alguém possa pensar que você foi envenenado.",
+        "ru": "Местное тушёное блюдо. Мясо птицы было бы ещё терпимым, если бы его не зажарили загодя, а небланшированная фиалковая дыня - просто катастрофа. Её вкус не только терпкий, но и окрашивает язык так, будто у едока случилось отравление.",
+        "th": "อาหารท้องถิ่นที่ใช้ไฟอ่อนค่อย ๆ เคี่ยว หากเนื้อสัตว์ปีกนั้นไม่ได้ทอดมาก่อนนั้นยังแทบจะทนไม่ได้ล่ะก็ อย่างนั้น Lavender Melon ที่ยังไม่ได้ต้มนี่ก็คงเป็นหายนะดี ๆ นี่เอง มันไม่เพียงแต่จะมีรสฝาดเท่านั้น แต่ยังทำให้ลิ้นของผู้ที่ทานเหมือนถูกอาบไปด้วยยาพิษยังไงอย่างงั้นด้วย",
+        "vi": "Món ăn dân dã được ninh với lửa nhỏ. Nếu thịt gia cầm không được chiên trước còn có thể chịu được, vậy thì dưa tím chưa được nấu chín lại giống như một thảm họa. Nó không chỉ có vị chát, mà còn khiến đầu lưỡi của thực khách như bị tẩm thuốc độc."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

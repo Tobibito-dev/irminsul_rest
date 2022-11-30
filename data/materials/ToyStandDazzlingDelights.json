@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toy Stand: Dazzling Delights",
+        "de": "Spielzeugstand – „Bunte Spielzeugwelt“",
+        "chs": "玩具摊-「琳琅生趣」",
+        "cht": "玩具攤-「琳琅生趣」",
+        "es": "Puesto de juguetes: Maravillas por doquier",
+        "fr": "Étal de jouets « Coin des merveilles »",
+        "id": "Kios Mainan: Kesenangan yang Memesona",
+        "jp": "おもちゃ屋-「琳琅満目」",
+        "kr": "장난감 노점-「재미난 장난감들」",
+        "pt": "Loja dos Brinquedos: \"Maravilhas Deslumbrantes\"",
+        "ru": "Стеллаж для игрушек: Ослепительный восторг",
+        "th": "แผงของเล่น - \"ความสุขของ Linlang\"",
+        "vi": "Sạp Đồ Chơi - Niềm Vui Lấp Lánh"
+    },
+    "id": 393105,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Toy Stand: Dazzling Delights.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Spielzeugstand – Bunte Spielzeugwelt“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「玩具摊-『琳琅生趣』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「玩具攤-『琳瑯生趣』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Puesto de juguetes: Maravillas por doquier.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'étal de jouets « Coin des merveilles ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Kios Mainan: Kesenangan yang Memesona\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「おもちゃ屋-『琳琅満目』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「장난감 노점-『재미난 장난감들』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Loja dos Brinquedos: \"Maravilhas Deslumbrantes\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Стеллаж для игрушек: Ослепительный восторг».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้างแผงของเล่น - \"ความสุขของ Linlang\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Sạp Đồ Chơi - Niềm Vui Lấp Lánh\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scarlet Torii Gate: Door of Silence",
+        "de": "Scharlachrotes Torii – Tor der Stille",
+        "chs": "朱木鸟居-「真静之扉」",
+        "cht": "朱木鳥居-「真靜之扉」",
+        "es": "Arco torii escarlata: Puerta del silencio",
+        "fr": "Portail torii écarlate « Porte du silence »",
+        "id": "Gerbang Torii Merah: Pintu Keheningan",
+        "jp": "赤鳥居-「真静の扉」",
+        "kr": "주홍 도리이-「고요의 문」",
+        "pt": "Portão Torii Escarlate: Porta do Silêncio",
+        "ru": "Алые ворота тории: Дверь молчания",
+        "th": "โทริอิไม้: ประตูแห่งความเงียบงัน",
+        "vi": "Cổng Torii - Cánh Cổng Chân Tịnh"
+    },
+    "id": 391110,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Scarlet Torii Gate: Door of Silence.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Scharlachrotes Torii – Tor der Stille“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「朱木鸟居-『真静之扉』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「朱木鳥居-『真靜之扉』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Arco torii escarlata: Puerta del silencio.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du portail torii écarlate « Porte du silence ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Gerbang Torii Merah: Pintu Keheningan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「赤鳥居-『真静の扉』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「주홍 도리이-『고요의 문』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Portão Torii Escarlate: Porta do Silêncio.\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Алые ворота тории: Дверь молчания».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"โทริอิไม้: ประตูแห่งความเงียบงัน\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cổng Torii - Cánh Cổng Chân Tịnh\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

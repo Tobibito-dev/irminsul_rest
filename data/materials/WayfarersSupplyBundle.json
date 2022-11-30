@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wayfarer's Supply Bundle",
+        "de": "Hilfsgüterpaket für Fernreisende",
+        "chs": "远行补给包",
+        "cht": "遠行補給包",
+        "es": "Paquete de suministros de viaje",
+        "fr": "Pack de ravitaillement de l'explorateur",
+        "id": "Wayfarer's Supply Bundle",
+        "jp": "遠出補給パック",
+        "kr": "원행 보급 패키지",
+        "pt": "Pacote de Suprimentos de Viagem",
+        "ru": "Набор дальнего путешествия",
+        "th": "แพ็กไอเทมทางไกล",
+        "vi": "Gói Tiếp Tế Lúc Đi Xa"
+    },
+    "id": 115011,
+    "materialDesc": {
+        "en": "Supplies the Guild has prepared for those who harbor great ambition. They will certainly come into play.",
+        "de": "Einige Hilfsgüter der Gilde für Leute mit großen Absichten. Damit wirst du sicher etwas anfangen können.",
+        "chs": "协会为胸怀大志之人准备的一些补给。肯定会派上用场。",
+        "cht": "協會為胸懷大志之人準備的一些補給。肯定會派上用場。",
+        "es": "Suministros del Gremio de Aventureros para los más ambiciosos. Seguro que te resultarán muy útiles.",
+        "fr": "Fournitures préparées par la Guilde pour les ambitieux. Elles devraient s'avérer utiles.",
+        "id": "Persediaan yang dipersiapkan Guild untuk orang-orang yang memiliki ambisi besar. Pasti akan sangat berguna.",
+        "jp": "協会が冒険者のために用意した補給品。冒険に打ってつけのものが入っている。",
+        "kr": "길드에서 가슴에 큰 뜻을 품은 사람을 위해 준비한 보급. 분명 쓸 데가 있을 것이다",
+        "pt": "Suprimentos da Guilda de Aventureiros para os mais ambiciosos. Com certeza serão úteis.",
+        "ru": "Припасы, подготовленные Гильдией искателей приключений для тех, кто преисполнен великих амбиций. Они точно вам пригодятся.",
+        "th": "ไอเทมที่กิลด์เตรียมไว้สำหรับผู้ที่มีความมุ่งมั่นเหล่านั้น จะต้องมีประโยชน์อย่างแน่นอน",
+        "vi": "Món đồ tiếp tế mà hiệp hội dành cho những người có ý chí to lớn. Chắc chắn sẽ có ích."
+    },
+    "materialType": "MATERIAL_CHEST"
+}

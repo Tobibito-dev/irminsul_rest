@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nameless Flower",
+        "de": "Blume eines Namenlosen",
+        "chs": "无名的花",
+        "cht": "無名的花",
+        "es": "Flor sin nombre",
+        "fr": "Fleur anonyme",
+        "id": "Bunga Tak Bernama",
+        "jp": "名もなき花",
+        "kr": "이름 없는 꽃",
+        "pt": "Flor Sem Nome",
+        "ru": "Безымянный цветок",
+        "th": "ดอกไม้นิรนาม",
+        "vi": "Hoa Vô Danh"
+    },
+    "id": 101816,
+    "materialDesc": {
+        "en": "A flower gifted to you by an unknown Aranara.\\nA symbol of Aranara friendship. One who receives this flower willingly recognizes this friendship.",
+        "de": "Eine von einem namentlich nicht bekannten Aranara geschenkte Blume.\\nDiese Art von Blume ist ein Zeichen der Freundschaft der Aranara. Wer eine solche Blume annimmt, hat diese Freundschaft akzeptiert.",
+        "chs": "不知名的兰那罗赠送的花儿。\\n这种花是兰那罗友情的象征，而愿意收下这朵花的人，就是许可了兰那罗的这份友情。",
+        "cht": "不知名的蘭那羅贈送的花朵。\\n這種花是蘭那羅友情的象徵，而願意收下這朵花的人，就是許可了蘭那羅的這份友情。",
+        "es": "Una flor que te dio un aranara desconocido.\\nEste tipo de flores son un símbolo de la amistad para los aranara. Las personas que aceptan estas flores aceptan la amistad de estos pequeños seres.",
+        "fr": "Une fleur offerte par un aranara inconnu.\\nCette fleur est un symbole de l'amitié des aranaras et quiconque l'accepte donne par là même son amitié aux aranaras.",
+        "id": "Bunga yang diberikan padamu oleh Aranara yang tak diketahui.\\nSimbol persahabatan Aranara. Seseorang yang menerima bunga ini berarti mengakui persahabatan mereka.",
+        "jp": "とある名もなきアランナラから貰った花。\\nこういった花はアランナラの友情の証であり、花を受け取ったということは、アランナラの友情を認めたということである。",
+        "kr": "이름 모를 아란나라가 선물한 꽃.\\n이런 꽃은 아란나라의 우정을 상징하기 때문에 선물을 받아들이면 아란나라의 우정을 허락함을 의미한다",
+        "pt": "Flor dada por um Aranara desconhecido.\\nEsta flor representa a amizade com os Aranaras, e quem a recebe reconhece a amizade com os Aranaras.",
+        "ru": "Цветок, подаренный кем-то из аранар.\\nСимвол дружбы аранар. Получая из рук аранары такой цветок, человек соглашается принять его дружбу.",
+        "th": "ดอกไม้ที่ Aranara นิรนามมอบให้\\nดอกไม้นี้คือสัญลักษณ์แห่งมิตรภาพของ Aranara และคนที่ยอมรับดอกไม้นี้ไว้ ก็หมายความว่าได้ยอมรับมิตรภาพของ Aranara แล้ว",
+        "vi": "Hoa Aranara vô danh tặng.\\nLoài hoa này là biểu tượng cho tình bạn của Aranara, mà người nhận đóa hoa này cũng đã chấp nhận phần tình cảm này của Aranara."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

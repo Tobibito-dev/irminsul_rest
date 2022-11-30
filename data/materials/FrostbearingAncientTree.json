@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Frostbearing: Ancient Tree",
+        "de": "Permafrost – Alter Baum",
+        "chs": "忍冬·古树",
+        "cht": "忍冬·古樹",
+        "es": "Frioeterno - Árbol antiguo",
+        "fr": "Permagel - Arbre ancien",
+        "id": "Frostbearing: Pohon Tua",
+        "jp": "冬忍び·古樹",
+        "kr": "인동·고목",
+        "pt": "Sabugueiro - Árvore Antiga",
+        "ru": "Древнее дерево",
+        "th": "Frostbearing - ต้นไม้โบราณ",
+        "vi": "Chịu Lạnh - Cổ Thụ"
+    },
+    "id": 210056,
+    "materialDesc": {
+        "en": "Namecard style.\\nWe shall rise again — the tree of old has sprouted anew.",
+        "de": "Ein Motiv für Namenskärtchen.\\nIch werde zurückkommen und neue Triebe werden sprießen.",
+        "chs": "名片纹饰。\\n我等必将复起，古木已发新枝。",
+        "cht": "名片紋飾。\\n我等必將復起，古木已發新枝。",
+        "es": "Diseño de tarjeta de presentación.\\nDel viejo árbol brotan ramas nuevas.",
+        "fr": "Thème.\\nDe l'ancien arbre poussent de nouvelles branches.",
+        "id": "Style kartu nama.\\nAku akan bangkit kembali, pohon kuno pun sudah menumbuhkan tunas baru.",
+        "jp": "名刺の飾り紋。\\n我らは必ず復活する、古木は既に新しい枝をつけた。",
+        "kr": "명함 스킨.\\n고목은 이미 새 가지를 뻗었고, 우린 반드시 다시 일어날 것이다",
+        "pt": "Estilo de Cartão de Visita.\\nEnquanto espero pelo inevitável ressurgimento, a madeira velha gera novos brotos.",
+        "ru": "Именная карта.\\nМы восстанем вновь, ведь засохшее дерево пустило новые ростки.",
+        "th": "ลายนามบัตร\\nขณะที่ฉันรอคอยการฟื้นคืนชีพอยู่ ต้นไม้โบราณก็แตกกิ่งก้านใหม่",
+        "vi": "Hoa văn danh thiếp.\\nTa chắc chắn sẽ trở lại, cây khô đã ra cành mới."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ashen Heart",
+        "de": "Ascheherz",
+        "chs": "灰烬之心",
+        "cht": "灰燼之心",
+        "es": "Corazón de las cenizas",
+        "fr": "Cœur de cendre",
+        "id": "Ashen Heart",
+        "jp": "灰燼の心",
+        "kr": "재가 된 심장",
+        "pt": "Coração das Cinzas",
+        "ru": "Пепельное сердце",
+        "th": "Ashen Heart",
+        "vi": "Trái Tim Tro Bụi"
+    },
+    "id": 113027,
+    "materialDesc": {
+        "en": "A deformed fragment that contains powerful emotions. You obtained this from defeating Signora, who unleashed her original power.\\nEven tears cannot extinguish the flames. Molten-hot agony and rage rush through her veins, oozing from her tear ducts.\\nThe First Fatuus found her just before her heart could be destroyed by the eternal blaze. He understood that only deeper hate and obsession could quench the fire that devoured her and make her his ally...",
+        "de": "Ein deformiertes Fragment, das mächtige Emotionen enthält. Du hast es erhalten, nachdem du La Signora besiegt hast, die ihre ursprüngliche Kraft entfesselt hat.\\nAuch Tränen können die Flammen nicht löschen. Schmelzend heiße Qual und Wut strömen durch ihre Adern und sickern aus ihren Tränenkanälen.\\nDer erste Fatuus fand sie, kurz bevor ihr Herz von der ewigen Flamme zerstört werden konnte. Er verstand, dass nur tiefer Hass und Besessenheit das Feuer, das sie verschlang, löschen und sie zu seiner Verbündeten machen konnte ...",
+        "chs": "战胜解放了原本力量的「女士」后，得到的某种蕴含着强大思念的畸形碎片。\\n即使是泪水也无法使火焰熄灭。铁水般炽热的哀伤与愤怒在她的血管中奔涌，从泪腺中迸发。\\n在她的心脏被永恒之火烧尽前，最初的愚者找到了她。他明白，只有更加深刻的仇恨与妄执，才能熄灭吞噬她的火焰，让她成为自己的同伴…",
+        "cht": "戰勝解放了原本力量的「女士」後，得到的某種蘊含著強大思念的畸形碎片。\\n即使是淚水也無法使火焰熄滅。鐵水般熾熱的哀傷與憤怒在她的血管中奔湧，從淚腺中迸發。\\n在她的心臟被永恆之火燒盡前，最初的愚者找到了她。他明白，只有更加深刻的仇恨與妄執，才能熄滅吞噬她的火焰，讓她成為自己的同伴…",
+        "es": "Un fragmento de forma extraña que contiene un gran poder. Obtenido tras derrotar a Signora después de que esta liberara su poder original.\\nNi siquiera las lágrimas podían extinguir sus llamas. El dolor y la ira, que fluían por sus venas cual hierro fundido incandescente, salían violentamente de sus lagrimales.\\nJusto antes de que su corazón fuera incinerado por las eternas llamas, el primer Fatui la encontró. Este se dio cuenta de que solo un odio y una obstinación aún más profundos podrían extinguir el fuego que la devoraba, y entonces la convirtió en su aliada.",
+        "fr": "Un fragment déformé qui renferme un immense pouvoir. Vous l'avez obtenu après avoir vaincu Signora au summum de sa puissance.\\nLes larmes ne peuvent éteindre les flammes. Tristesse et rage, aussi brûlantes que la fonte, coulent dans ses veines et s'évacuent par ses glandes lacrymales.\\nLe premier Fatui l'a découverte avant que son cœur ne soit détruit par les flammes éternelles. Il fit d'elle une alliée, car il avait compris que seules une haine et une obstination plus féroces pouvaient éteindre le feu qui la dévorait.",
+        "id": "Bagian fragmen dengan wujud tidak sempurna yang mengandung rasa kerinduan besar.\\nTetesan air mata tidak dapat memadamkan kobaran api. Kesedihan dan amarah yang meletup seperti cairan besi panas yang mengalir di pembuluh darahnya, mengalir dari kelenjar air matanya.\\nFatui pertama menemukannya saat sebelum hatinya dibakar habis oleh api kekekalan. Dia paham, hanya dendam dan obsesi yang lebih dalam yang dapat memadamkan api perempuan itu, dan menjadikan perempuan itu sebagai sekutu...",
+        "jp": "本来の力を発揮した「淑女」を倒して手に入れた、大きな力を秘めた異形の欠片。\\n涙でさえも炎をかき消すことはできない。熔銑の如く熱い悲しみと怒りが血管を駆け巡り、涙腺からあふれ出る。\\n彼女の心が永遠の火に焼かれる前に、最初の愚者が彼女を見つけ出した。彼は分かっていた。より深い憎しみと妄念のみが、彼女を蝕む炎を消し去り、彼女を仲間にすることができると…",
+        "kr": "본연의 힘을 개방한 「시뇨라」를 쓰러뜨린 후 획득한 강대한 힘이 담긴 기형 파편.\\n눈물로는 불타오르는 화염을 잠재울 수 없다. 쇳물처럼 뜨거운 슬픔과 분노가 그녀의 혈관 속에서 꿈틀거리며 눈물샘을 타고 흘러내린다.\\n그녀의 심장이 영원한 불길에 불타기 전, 최초의 어리석은 자가 그녀를 찾아냈다. 그는 더욱 강렬한 원한과 집념만이 그녀를 집어삼킨 화염을 평정시키고, 그녀를 자신의 동료로 만들 수 있다는 걸 너무나 잘 알고 있었다…",
+        "pt": "Um fragmento deformado que contém emoções poderosas. Você obteve isso ao derrotar Signora, que liberou seu poder original em batalha.\\nAté mesmo lágrimas não podem extinguir as chamas. Agonia derretida quente e fúria correm por suas veias, escorrendo de suas glândulas lacrimais.\\nO Primeiro Fatui encontrou ela antes de seu coração poder ser destruído pela chama eterna. Ele entendeu que apenas o ódio mais profundo poderia apaziguar o fogo que a devorou e fazê-la sua aliada...",
+        "ru": "Фрагмент странной формы, в котором заключена великая мощь. Вы получили его после победы над Синьорой, выпустившей на волю свою изначальную силу.\\nДаже слёзы не могут погасить пламя. Расплавленная агония и ярость бурлят в её жилах, сочатся из глаз.\\nПервый Фатуи нашёл её как раз перед тем, как вечное пламя изготовилось сжечь её сердце. Он понял, что только глубокая ненависть и одержимость могут погасить пожирающий её огонь, и сделал её своим союзником...",
+        "th": "ชิ้นส่วนบิดเบี้ยวที่อัดแน่นไปด้วยพลังมหาศาลที่ได้มาหลังจากเอาชนะ Signora ผู้ปลดปล่อยพลังดั้งเดิมของเธอได้\\nแม้แต่น้ำตาก็ดับไฟไม่ได้ ความโศกเศร้าและความโกรธที่ร้อนแรงราวกับเหล็กหลอมละลายไหลผ่านเส้นเลือดของเธอ และระเบิดออกทางท่อน้ำตา\\nFatui คนแรกได้พบเธอ ก่อนที่หัวใจของเธอจะถูกไฟนิรันดร์เผาผลาญไป เขาเข้าใจดีว่ามีเพียงความเกลียดชังและความหยิ่งยโสที่ล้ำลึกเท่านั้นที่จะสามารถดับเปลวเพลิงที่กลืนเธอและทำให้เธอเป็นสหายของเขาได้...",
+        "vi": "Mảnh vỡ với hình thù kỳ dị chứa đựng niềm thương nhớ mãnh liệt, nhận được sau khi đánh thắng Signora đã giải phóng sức mạnh ban đầu.\\nNgay cả nước mắt cũng không thể dập tắt ngọn lửa. Nỗi bi thương và phẫn nộ như dòng nước thép chảy tràn trong huyết quản của cô ấy, tuôn trào trong suối nước mắt.\\nTrước khi trái tim của cô bị thiêu rụi bởi ngọn lửa vĩnh hằng, thì Fatui đã tìm được cô. Người ấy biết, chỉ có nỗi thù hận và chấp niệm sâu sắc mới có thể dập tắt được ngọn lửa dữ đang nuốt chửng cô, để cô trở thành người đồng hành với mình..."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

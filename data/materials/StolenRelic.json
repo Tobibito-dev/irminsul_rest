@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stolen Relic",
+        "de": "Gestohlenes Relikt",
+        "chs": "被盗的文物",
+        "cht": "被盜的文物",
+        "es": "Reliquia robada",
+        "fr": "Relique volée",
+        "id": "Relik Curian",
+        "jp": "盗まれた文物",
+        "kr": "도난당한 유물",
+        "pt": "Relíquia Roubada",
+        "ru": "Украденная реликвия",
+        "th": "วัตถุโบราณที่ถูกขโมย",
+        "vi": "Văn vật bị cướp"
+    },
+    "id": 100511,
+    "materialDesc": {
+        "en": "Cultural relics dug up by the Treasure Hoarders, and packed willy-nilly into a box. When you lift the box, it feels like it could collapse at any moment.",
+        "de": "Kulturelle Relikte, die von den Schatzräubern ausgegraben und unsanft in eine Kiste gestopft wurden. Beim Anheben scheint sie jeden Moment auseinanderzubrechen.",
+        "chs": "被盗宝团挖掘出来的文物。被随意包裹在一个盒子里，拿起来的时候，感觉盒子随时都可能散架…",
+        "cht": "被盜寶團挖掘出來的文物。被隨意包裹在一個盒子裡，拿起來的時候，感覺盒子隨時都可能散架…",
+        "es": "Reliquias culturales desenterradas por los Ladrones de Tesoros, y empacadas a toda prisa en una caja. Al levantar la caja, parece que podría reventar en cualquier momento.",
+        "fr": "Une relique découverte par les Pilleurs de trésors et placée dans la première boîte qu'ils avaient sous la main. Vous sentez qu'elle peut se casser à tout moment...",
+        "id": "Relik dari peradaban kuno yang digali oleh para Treasure Hoarder, dan dikemas ala kadarnya dalam sebuah kotak. Saat kamu mengangkatnya, kamu merasa kotak itu mudah hancur...",
+        "jp": "宝盗団に掘り出された文物。適当に箱で収納され、手に取ると箱がいつ壊れてもおかしくない状態だった…",
+        "kr": "보물 사냥단이 발굴해 낸 유물. 아무렇게나 싸서 상자 안에 넣어 놓았다. 들고 있으면 상자가 언제든지 부서질 것만 같다…",
+        "pt": "Relíquias culturais desenterradas pelos Ladrões de Tesouro e embaladas de qualquer jeito em uma caixa. Quando você levanta a caixa, parece que pode entrar em colapso a qualquer momento.",
+        "ru": "Реликвии, выкопанные Похитителями сокровищ и небрежно упакованные в коробку. Взяв в руки и подняв эту коробку, вы понимаете, что она вот-вот развалится.",
+        "th": "วัตถุโบราณที่ถูกกองโจรล่าสมบัติขุดออกมาและถูกนำไปใส่ในกล่องพัสดุ เมื่อถือไว้ในมือแล้วรู้สึกว่ากล่องทำท่าจะพังได้ทุกเวลา...",
+        "vi": "Văn vật được Đạo Bảo Đoàn khai quật rồi cất tạm vào một chiếc hộp dễ vỡ..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

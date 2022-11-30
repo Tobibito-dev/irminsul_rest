@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Oncidium Tofu",
+        "de": "Misslungener Oncidium-Tofu",
+        "chs": "奇怪的文心豆腐",
+        "cht": "奇怪的文心豆腐",
+        "es": "Tofu oncidium extraño",
+        "fr": "Tofu oncidium (suspect)",
+        "id": "Suspicious Oncidium Tofu",
+        "jp": "微妙な文心豆腐",
+        "kr": "이상한 문심 두부",
+        "pt": "Tofu de Oncidium Estranho",
+        "ru": "Странный тофу «Вэньсинь»",
+        "th": "Oncidium Tofu รสประหลาด",
+        "vi": "Đậu Hũ Tâm Ý Kỳ Lạ"
+    },
+    "id": 108312,
+    "materialDesc": {
+        "en": "A dish that is a test of one's knifework. The erratic knifework here has caused the ingredients to be sliced every which way. The tattered mouthfeel is enough to make one despair. Only the rank taste of beans stands as proof that the main ingredient of this dish was tofu in the first place.",
+        "de": "Ein Gericht, das die Messerarbeit auf die Probe stellt. Die ungleichmäßige Messerarbeit hat hier dazu geführt, dass die Zutaten in alle möglichen Richtungen geschnitten wurden. Das zerfledderte Mundgefühl reicht aus, um einen zur Verzweiflung zu bringen. Nur der ranzige Geschmack von Bohnen steht als Beweis dafür, dass die Hauptzutat dieses Gerichts in erster Linie Tofu war.",
+        "chs": "颇为考较刀工的菜肴。毫无章法的刀工将食材切得乱七八糟，细碎的口感令人绝望。只有豆腥味证明着这道菜肴的主要食材是豆腐。",
+        "cht": "頗為考驗刀工的菜餚。毫無章法的刀工將食材切得亂七八糟，細碎的口感令人絕望。只有豆腥味證明著這道菜餚的主要食材是豆腐。",
+        "es": "Un plato que requiere un excelente manejo del cuchillo. Los ingredientes se han cortado sin ningún esmero, lo que arruina por completo la textura. La única señal de que el plato está hecho con tofu es su burdo sabor a semillas de soja.",
+        "fr": "Mets requérant un certain savoir-faire pour être préparé. Les ingrédients ont été coupés n'importe comment en raison d'une technique bancale. La texture en bouche résultant de ce travail bâclé suffit à désespérer quiconque. On devine que le tofu est l'ingrédient principal de ce plat seulement grâce au goût prononcé du soja.",
+        "id": "Hidangan untuk menguji kemampuan memakai pisau seseorang. Potongan pisau yang tak beraturan menyebabkan bahan-bahannya terpotong ke segala arah. Rasanya yang tak beraturan membuat orang menjadi putus asa. Hanya rasa tahu yang terasa di mulut yang bisa membuktikan bahwa bahan utama hidangan ini adalah tahu.",
+        "jp": "包丁技術を重んじる料理。無細工な包丁技術で食材がめちゃくちゃになってしまい、バラバラな食感にがっかりする。豆の青臭みだけがこの料理のメイン食材が豆腐であることを証明している。",
+        "kr": "칼 솜씨가 꽤 중요한 요리. 엉망진창인 칼 솜씨가 식자재를 뒤죽박죽으로 썰어냈다. 그 자잘한 식감은 가히 절망적이라고 할 수 있다. 콩 비린내만이 이 요리의 주 재료가 두부임을 증명해 준다",
+        "pt": "Um prato que é um teste das habilidades com facas. O trabalho errático das facas aqui fez com que os ingredientes fossem fatiados de todas as maneiras. A sensação desagradável na boca é suficiente para fazer alguém se desesperar. Apenas o sabor do feijão é a prova de que o ingrediente principal deste prato era para ser o tofu em primeiro lugar.",
+        "ru": "Блюдо, которое является настоящей проверкой мастерства владения ножом. В данном случае неумелая работа ножом привела к тому, что ингредиенты были нарезаны как попало. Только привкус бобов служит доказательством того, что основным ингредиентом этого блюда был тофу.",
+        "th": "เมนูที่ทดสอบทักษะการใช้มีด ฝีมือมีดที่เงอะงะทำให้วัตถุดิบถูกหั่นอย่างสะเปะสะปะ รสสัมผัสที่เละเทะทำให้คนกินรู้สึกสิ้นหวัง มีเพียงกลิ่นหืนของถั่วเท่านั้นที่เป็นเครื่องพิสูจน์ว่าอาหารจานนี้ทำมาจากเต้าหู้",
+        "vi": "Món ăn thử thách tài nghệ dùng dao. Dùng dao không theo quy luật để cắt nhỏ nguyên liệu, cảm giác vụn nát làm người ta thất vọng. Chỉ riêng hương vị đậu phụ chứng tỏ nguyên liệu chính của món ăn này là đậu phụ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

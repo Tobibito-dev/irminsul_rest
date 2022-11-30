@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dawn Winery's Top-Quality Grape Juice",
+        "de": "Geschätzter Traubensaft vom Weingut Morgenröte",
+        "chs": "晨曦酒庄的珍品葡萄汁",
+        "cht": "晨曦酒莊的珍品葡萄汁",
+        "es": "Jugo de uva excelente del Viñedo del Amanecer",
+        "fr": "Jus de raisin raffiné du Domaine de l'Aurore",
+        "id": "Jus Anggur Berharga Dawn Winery",
+        "jp": "アカツキワイナリーの絶品ブドウジュース",
+        "kr": "다운 와이너리의 최상급 포도 주스",
+        "pt": "Suco de Uva de Excelente Qualidade da Adega do Alvorecer",
+        "ru": "Виноградный сок высшего качества из винокурни «Рассвет»",
+        "th": "น้ำองุ่นล้ำค่าของ Dawn Winery",
+        "vi": "Nước Ép Nho Quý Của Tửu Trang Dawn"
+    },
+    "id": 101904,
+    "materialDesc": {
+        "en": "A gift from Diluc. A bottle of grape juice with luxury packaging. It is something Paimon has long been looking forward to, but more so a memento of the time when you and your friends handled the crisis together.\\nIt is also Diluc's personal favorite, produced using only Dawn Winery's best quality grapes.\\nBeing \"Master Diluc's favorite grape juice\" seems to have inestimable commercial value...",
+        "de": "Dieser prachtvoll verpackte Traubensaft, auf welchen Paimon schon lange voller Sehnsucht geschielt hat, ist ein Geschenk von Diluc, das an das gemeinsame Überwinden von Krisen erinnert.\\nDiese Art von Saft, bei der Weintrauben vom Weingut Morgenröte ihre Verwendung finden, ist Diluc am liebsten.\\n„Dilucs liebste Art Traubensaft“, dieses besondere Prädikat hat womöglich einen unschätzbaren materiellen Wert.",
+        "chs": "来自迪卢克的赠礼，包装豪华的葡萄汁，是派蒙期待已久的饮品，更是与伙伴共同处理危机的纪念物。\\n这种果汁是迪卢克个人最中意的一款，用到了晨曦酒庄品质最好的葡萄。\\n「迪卢克老爷最喜欢的葡萄汁」这一项属性，似乎有着难以估量的商业价值？",
+        "cht": "來自迪盧克的贈禮，包裝豪華的葡萄汁，是派蒙期待已久的飲品，更是與夥伴共同處理危機的紀念物。\\n這種果汁是迪盧克個人最中意的一款，用到了晨曦酒莊品質最好的葡萄。\\n「迪盧克老爺最喜歡的葡萄汁」這一項特性，似乎有著難以估量的商業價值？",
+        "es": "Un jugo de uva envuelto lujosamente que te regaló Diluc. Es una bebida que Paimon llevaba mucho tiempo deseando probar, pero es también un recuerdo de los peligros superados juntos.\\nEste jugo es el preferido de Diluc, y para elaborarlo se han usado las mejores uvas del Viñedo del Amanecer.\\nCon un epíteto como el de “el jugo de uva preferido del Sr. Diluc”, debe de tener un incalculable valor comercial.",
+        "fr": "Un cadeau de la part de Diluc. Il s'agit d'un jus de raisin dans un emballage luxueux. Paimon veut y goûter depuis un certain temps, mais il représente un souvenir du temps que vous avez passé avec vos amis à surmonter une crise.\\nCette boisson est la préférée de Diluc et produite avec les meilleurs raisins du Domaine de l'Aurore.\\nSa valeur en tant que « breuvage de maître Diluc » est inestimable, non ?",
+        "id": "Jus anggur berwarna kemasan mewah hadiah dari Diluc adalah minuman yang sudah ditunggu-tunggu Paimon sejak lama. Minuman ini juga berfungsi sebagai kenang-kenangan dan pengingat akan kerja sama yang dilakukan bersama dengan rekan saat menangani krisis.\\nIni adalah jus kesukaan Diluc secara pribadi, dan bahan yang digunakan merupakan anggur kualitas terbaik dari Dawn Winery.\\nSepertinya julukan \"jus anggur favorit Tuan Diluc\" punya nilai komersial yang tak ternilai?",
+        "jp": "ディルックからの贈り物。豪華な包装がされたブドウジュース。パイモンが待ちに待っていたものであり、仲間たちと共に危機を乗り切った記念品でもある。\\nアカツキワイナリーの最高ランクのブドウを使用しており、ディルックがもっとも気に入っているジュースだ。\\n「ディルックの旦那が愛飲するブドウジュース」というセールポイントには、計り知れないビジネス価値があるかもしれない。",
+        "kr": "다이루크가 보낸 선물. 포장이 호화로운 포도 주스다. 페이몬이 오랫동안 기대한 음료수이자, 동료와 함께 위기를 극복한 것을 기념하는 기념품이다.\\n다이루크가 가장 좋아하는 주스로, 다운 와이너리의 최상급 포도를 사용해 만들었다.\\n「다이루크 어르신이 가장 좋아하는 포도 주스」라는 속성만 봐도 엄청난 상업적 가치가 있는 게 아닐까?",
+        "pt": "Um presente de Diluc. É uma garrafa de suco de uva com uma embalagem luxuosa. É algo que Paimon estava muito ansiosa, mas é mais uma lembrança do tempo que você passou com seus amigos para resolver uma crise.\\nTambém é a bebida favorita pessoal de Diluc, produzida utilizando as uvas de melhor qualidade da Adega do Alvorecer.\\nComo é \"o suco de uva favorito do Mestre Diluc\", parece ter um valor comercial inestimável...",
+        "ru": "Подарок Дилюка. Бутылка виноградного сока в роскошной упаковке. Паймон давно хотела его попробовать. Служит напоминанием о совместно преодолённых трудностях.\\nЭто также любимый напиток Дилюка, приготовленный из лучшего винограда винокурни «Рассвет».\\n«Любимый виноградный сок» господина Дилюка наверняка имеет неисчислимую коммерческую ценность.",
+        "th": "น้ำองุ่นบรรจุขวดสุดหรู ของขวัญที่ได้รับมาจาก Diluc เป็นเครื่องดื่มที่ Paimon เฝ้ารอมาอย่างเนิ่นนาน และยังเป็นของที่เตือนใจถึงวิกฤติที่คู่หูร่วมกันฝ่าฟันมาอีกด้วย\\n\\nน้ำผลไม้นี้คือของโปรดของ Diluc และใช้องุ่นคุณภาพดีที่สุดจาก Dawn Winery ในการผลิตขึ้นมา\\nคุณสมบัติ \"น้ำองุ่นที่นายท่าน Diluc โปรดปรานที่สุด\" ข้อนี้ ดูเหมือนจะมีมูลค่าทางการค้าที่ประเมินค่าไม่ได้เลยล่ะ?",
+        "vi": "Quà tặng từ Diluc, nước ép nho được đóng gói sang trọng, là món thức uống mà Paimon đã đợi từ lâu, hơn nữa còn là vật kỷ niệm cho việc đã cùng bạn bè xử lý mối hiểm nguy.\\nLoại nước ép này là một trong những món Diluc thích nhất, đã dùng loại nho chất lượng tốt nhất của Tửu Trang Dawn.\\n\"Nước ép nho mà Diluc lão gia thích nhất\" chỉ riêng thuộc tính này dường như đã đủ giá trị thương mại khó mà ước tính?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

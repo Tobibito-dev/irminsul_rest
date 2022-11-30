@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Agent's Sacrificial Knife",
+        "de": "Zeremonielles Agentenschwert",
+        "chs": "特工祭刀",
+        "cht": "特工祭刀",
+        "es": "Daga del agente",
+        "fr": "Dague rituelle de l'Usurier",
+        "id": "Agent's Sacrificial Knife",
+        "jp": "エージェントの刀",
+        "kr": "특수 요원의 제도",
+        "pt": "Faca Especial",
+        "ru": "Церемониальный нож агента",
+        "th": "Sacrificial Agent Knife",
+        "vi": "Dao Đặc Công"
+    },
+    "id": 112030,
+    "materialDesc": {
+        "en": "An oddly-shaped weapon made with superior Snezhnayan technology that once belonged to a senior agent. Proper training is required for using this strange weapon.",
+        "de": "Eine seltsam geformte und mit überragender Technik gefertigte Waffe aus Snezhnaya. Einst gehörte sie einem erfahrenen Agenten. Denn ohne besonderes Training kann man diese ungewöhnliche Waffe nicht führen.",
+        "chs": "利用至冬国优越的技术制造的异形兵器，曾经属于某位资深特工。一般人不经训练，根本无法使用这种奇怪的武具。",
+        "cht": "利用至冬國優越的技術製造的異形兵器，曾經屬於某位資深特工。一般人不經訓練，根本無法使用這種奇怪的武具。",
+        "es": "Un arma de una forma especial hecha con la tecnología puntera de Snezhnaya. Perteneció a un agente secreto. Una persona común y corriente no podría usar esta increíble arma sin un entrenamiento previo.",
+        "fr": "Une arme à la forme étrange, fabriquée grâce à une technologie de pointe snezhnayienne. Il est impossible de la manier sans avoir effectué un entraînement spécial.",
+        "id": "Senjata yang dibuat menggunakan teknologi mutakhir Snezhnaya, senjata ini biasanya digunakan oleh agen senior, dan memerlukan latihan intensif sebelum menggunakannya.",
+        "jp": "スネージナヤの優れた技術で作られた異形の兵器、あるベテランエージェントの所持品だった。普通の人は訓練しないと、この変わった武器を使いこなすことができないだろう。",
+        "kr": "스네즈나야의 우월한 기술로 만든 이형 병기. 어느 베테랑 특수 요원이 썼던 병기로, 훈련 없이 평범한 사람은 이런 이상한 무기를 사용할 수 없다",
+        "pt": "Uma arma de formato especial feita usando a tecnologia de Snezhnaya, pertenceu a um agente secreto. Uma pessoa comum não pode usar essa incrível arma sem treinamento.",
+        "ru": "Оружие необычной формы, сделанное при помощи продвинутой технологии Снежной, когда-то принадлежало старшему агенту. Без особой подготовки обычный человек это странное оружие использовать не сможет.",
+        "th": "อาวุธรูปทรงพิเศษที่ทำมาจากเทคโนโลยีสุดล้ำของ Snezhnaya ในอดีตเคยเป็นอาวุธของหน่วยพิเศษท่านหนึ่ง และคนธรรมดาไม่สามารถใช้งานอาวุธนี้ได้หากไม่ได้รับการฝึกฝนเป็นอย่างดี",
+        "vi": "Binh khí dị hình được tạo nên bởi kỹ thuật tiên tiến của Snezhnaya, từng thuộc về đặc công chuyên nghiệp. Người bình thường không thể dùng được binh khí kỳ quái này."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

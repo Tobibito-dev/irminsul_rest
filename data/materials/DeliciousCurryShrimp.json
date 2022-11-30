@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Curry Shrimp",
+        "de": "Leckere Currygarnelen",
+        "chs": "美味的咖喱虾",
+        "cht": "美味的咖哩蝦",
+        "es": "Camarones al curri deliciosos",
+        "fr": "Crevettes au curry (délicieuses)",
+        "id": "Delicious Curry Shrimp",
+        "jp": "美味しそうなカレーシュリムプ",
+        "kr": "맛있는 새우 카레",
+        "pt": "Camarão com Curry Delicioso",
+        "ru": "Вкусные креветки в соусе карри",
+        "th": "Curry Shrimp แสนอร่อย",
+        "vi": "Tôm Cà Ri Ngon"
+    },
+    "id": 108426,
+    "materialDesc": {
+        "en": "A simple, common dish in Sumeru. Big shrimps are dipped in a creamy sauce, absorbing its rich flavor. The passionate aroma easily finds its way into your nose. Even a person who claims to have lost their appetite will drool over it.",
+        "de": "Ein einfaches, gängiges Gericht in Sumeru. Große Garnelen werden in eine cremige Soße getaucht und nehmen deren reichen Geschmack auf. Das aufregende Aroma findet leicht den Weg in deine Nase. Selbst jemandem, der behauptet, keinen Appetit zu haben, wird dieses Gericht das Wasser im Munde zusammenlaufen lassen.",
+        "chs": "须弥的家常菜肴。醇厚的酱汁浓稠又细腻，丝丝渗透入身壮肉硕的大虾中。洋溢满热情的香气，一不留神间便钻入了鼻腔。就算是食不甘味的时节，如此一份菜肴也能令人口水直流了吧。",
+        "cht": "須彌的家常菜餚。醇厚的醬汁濃稠又細膩，絲絲滲透入身壯肉碩的大蝦中。洋溢滿熱情的香氣，一不留神間便鑽入了鼻腔。就算是食不甘味的時節，如此一份菜餚也能令人口水直流了吧。",
+        "es": "Un plato sencillo y común en Sumeru. Los enormes camarones se sumergen en una salsa cremosa, absorbiendo su rico sabor. El cautivador aroma encuentra con facilidad la nariz. Incluso una persona que dijera haber perdido el apetito babearía por él.",
+        "fr": "Un plat familial de Sumeru. De grosses crevettes plongées dans une sauce crémeuse à la riche saveur. Une odeur chaleureuse se fraie un chemin sans difficulté jusqu'au nez de celui qui s'apprête à le manger. Même une personne qui prétend avoir perdu l'appétit ne saura s'empêcher de baver face à un tel repas.",
+        "id": "Hidangan sederhana dan umum di Sumeru. Udang besar dicelupkan ke dalam saus krim, menyerap rasanya yang kaya. Aromanya yang penuh gairah memasuki hidungmu dengan mudahnya. Bahkan orang yang mengaku kehilangan nafsu makan pun akan ngiler saat melihat hidangan seperti itu.",
+        "jp": "スメールの家庭料理。濃厚ソースは濃くも繊細であり、肉厚の大きなエビによく馴染む。溢れた熱情の香りは、気がつけばすでに鼻孔をくすぐっていた。心中安らかでない時にも、こんな料理があれば食欲をそそられることだろう。",
+        "kr": "수메르의 가정식 요리. 걸쭉하면서도 부드럽고 진한 소스가 토실토실한 새우에 깊숙하게 침투했다. 정열적인 향기가 순식간에 코를 파고들어 입맛이 없는 계절에도 이 요리를 보면 입안 가득 군침이 돌 것이다",
+        "pt": "Um prato comum de Sumeru. Grandes camarões são mergulhados em um molho cremoso e denso, absorvendo seu rico sabor. O aroma cativador encontra facilmente seu nariz. Até um pessoa que diz ter perdido seu apetite ficará com água na boca com esse prato.",
+        "ru": "Одно из повседневных блюд Сумеру. Королевские креветки, утопающие в густом нежном соусе. От них исходит такой горячий и страстный аромат, что скоро вы забудете обо всех тревогах и будете просить добавки!",
+        "th": "อาหารพื้นบ้านของชาว Sumeru เนื้อซอสที่ทั้งเข้มข้นและละเมียดละไม ซึมซาบเข้าไปในกุ้งเนื้อแน่น กลิ่นหอมอันเผ็ดร้อนที่ลอยฟุ้งไปในอากาศ มักจะลอยมาแตะจมูกเข้าโดยไม่ได้ตั้งใจ แม้จะเป็นฤดูกาลที่ไม่ค่อยอยากอาหารยังไง เมื่อได้เจอกับเมนูนี้ต่างก็ต้องน้ำลายสอไปตาม ๆ กัน",
+        "vi": "Món ăn gia đình của Sumeru. Những con tôm to được nhúng trong nước sốt kem, thấm vị đậm đà, mùi thơm nồng nàn xộc vào mũi, khiến người ăn dù đang ngán ngẩm cũng phải chảy nước miếng."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

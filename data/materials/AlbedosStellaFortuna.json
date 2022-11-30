@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Albedo's Stella Fortuna",
+        "de": "Stella Fortuna von Albedo",
+        "chs": "阿贝多的命星",
+        "cht": "阿貝多的命星",
+        "es": "Stella Fortuna de Albedo",
+        "fr": "Stella Fortuna d'Albedo",
+        "id": "Albedo's Stella Fortuna",
+        "jp": "アルベドの星屑",
+        "kr": "알베도의 운명의 별",
+        "pt": "Constelação do Albedo",
+        "ru": "Удача Альбедо",
+        "th": "กลุ่มดาวของ Albedo",
+        "vi": "Cung Mệnh Của Albedo"
+    },
+    "id": 1138,
+    "materialDesc": {
+        "en": "Albedo's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Albedos Sternbild",
+        "chs": "阿贝多的命之座激活素材",
+        "cht": "阿貝多的命之座啟用素材。",
+        "es": "Material de activación de constelación de Albedo",
+        "fr": "Matériau d'activation de la constellation d'Albedo",
+        "id": "Material aktivasi untuk konstelasi Albedo",
+        "jp": "アルベドの命ノ星座アンロック用素材",
+        "kr": "알베도의 운명의 자리 활성화 소재",
+        "pt": "Material para ativação da Constelação de Albedo",
+        "ru": "Материал для активации созвездия Альбедо.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Albedo",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Albedo"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

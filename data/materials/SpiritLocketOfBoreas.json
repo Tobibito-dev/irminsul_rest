@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Spirit Locket of Boreas",
+        "de": "Seele des Nordwinds",
+        "chs": "北风的魂匣",
+        "cht": "北風的魂匣",
+        "es": "Alma de Boreas",
+        "fr": "Esprit de Borée",
+        "id": "Spirit Locket of Boreas",
+        "jp": "北風の魂箱",
+        "kr": "북풍의 영혼상자",
+        "pt": "Alma do Vento do Norte",
+        "ru": "Шкатулка с духом Борея",
+        "th": "Spirit Locket of Boreas",
+        "vi": "Linh Hồn Bắc Phong"
+    },
+    "id": 113008,
+    "materialDesc": {
+        "en": "A bit of the Great Wolf King of the North's power drawn from its soul.\\nThis land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. In his final moments, he finally realized the chilling north wind could only extinguish life, not nurture it. Therefore, Boreas let his powers freely flow into the land to protect it and its inhabitants.",
+        "de": "Etwas Energie der Seele des Wolfs des Nordens.\\nDurch dieses Land pfiff einst der eiskalte Wind des Nordens. Letztendlich hat er verstanden, dass dieser Wind das Leben nicht nährt, sondern es zerstört. Mit seinen letzten Atemzügen übertrug er seine Kraft auf dieses Land, um es und seine Bewohner auf ewig zu beschützen.",
+        "chs": "从北风的伟大王狼之灵处，取来的些许力量。\\n这片大地上曾经北风呼啸，呼气凝霜。但它在最终终于明白，酷烈的北风只能熄灭生命，不能滋养生命。在生命的末尾，它让自己的力量流入这片大地，永远守护大地与大地的住民。",
+        "cht": "從北風的偉大王狼之靈處，取來的些許力量。\\n這片大地上曾經北風呼嘯，呼氣凝霜。但它在最後終於明白，酷烈的北風只能熄滅生命，不能滋養生命。在生命的末尾，它讓自己的力量流入這片大地，永遠守護大地與大地的住民。",
+        "es": "Restos de poder recogidos del espíritu del gran Rey Lobo del Norte.\\nBoreas fue el responsable de que, antiguamente, en estas tierras soplara el helado viento del norte y hubiera grandes ventiscas. Sin embargo, al final de su vida, comprendió que ese viento solo podía extinguir la vida, no nutrirla. Por ello, permitió que su propio poder fluyera por esta tierra, protegiéndola a ella y también a sus habitantes.",
+        "fr": "Un fragment d'âme obtenu du Grand Roi Loup du Nord.\\nCe dernier déclenchait des blizzards et des tempêtes de neige. Cependant, à la fin de sa vie, il comprit enfin que ses vents froids et violents ne pouvaient qu'éteindre la vie, et non la nourrir. Il laissa donc ses pouvoirs se répandre sur les terres pour leur apporter bénédiction et protection éternelles.",
+        "id": "Segenap kekuatan yang terkumpul dari jiwa Great Wolf King of the North.\\nDaratan ini sebelumnya merupakan tempat yang selalu dilanda badai salju dan dipenuhi potongan es yang tajam, semuanya bergerak atas kehendak Boreas. Pada detik-detik terakhirnya, dia menyadari bahwa angin dingin hanya memusnahkan nyawa, bukan memeliharanya, karena itu dia membiarkan kekuatannya mengalir bebas di alam untuk melindungi daratan dan penghuninya.",
+        "jp": "北風の王狼の魂から取ったごくわずかな力。\\nこの大地はかつて北風に吹かれ、氷霜に包まれていた。しかし強い北風は命を育むことはできず、命の苗を消すのみであったと、彼は最後にようやく理解した。命の終わりに、彼は自分の力を大地に込めて、大地とその住民を永遠に守ると誓った。",
+        "kr": "북풍의 위대한 왕랑의 영혼에서 얻은 약간의 힘.\\n일찍이 북풍이 울부짖고 서리가 내렸던 지역이다. 하지만 왕랑은 매서운 북풍이 생명을 꺼뜨리기만 한다는 걸 깨달았고, 생명의 끝자락에서 대지와 대지의 생명을 영원히 지키기 위해 자신의 힘을 대지에 남겼다",
+        "pt": "Energia coletada pelo espírito do Grande Lobo do Vento do Norte.\\nNeste pedaço de terra, soprou-se o vento do norte congelante. Contudo, no fim, entendeu que o forte vento norte só pode extinguir a vida e não pode alimentá-la. No final de sua vida, permite que o seu próprio poder flua para esta terra, sempre a protegendo e os habitantes que nela habitam.",
+        "ru": "Сила души Великого Короля Волков Севера.\\nВо времена правления Борея в этих землях царили замораживающие кровь в венах бури и метели из острых как бритва ледяных осколков. В последние минуты жизни Борей понял, что леденящие северные ветра могли лишь погасить жизнь, а не зажечь её, поэтому он отпустил свои силы, чтобы защитить свои земли и их жителей.",
+        "th": "พลังเล็กน้อยที่ได้มาจากวิญญาณของหมาป่าแห่งลมเหนือ\\nท้ายที่สุดเขาก็เข้าใจว่า ลมเหนือที่แข็งแกร่งนั้นก็ย่อมต้องมีวันหยุดลง ในตอนท้ายของชีวิตเขาจึงได้ใช้พลังที่หลงเหลืออยู่ในคุ้มครองแผ่นดินและผู้คนที่อาศัยอยู่ในแผ่นดินนี้",
+        "vi": "Sức mạnh lấy từ nơi linh thiêng nhất trên người Vua Sói Bắc Phong.\\n Nơi này từng có gió bắc lạnh giá thổi qua, nhưng nó cuối cùng cũng hiểu ra, lạnh giá chỉ khiến sinh mệnh điêu tàn. Khi gần chết, nó đem sức mạnh của mình gửi gắm vào mặt đất, vĩnh viễn bảo vệ người dân ở đây."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

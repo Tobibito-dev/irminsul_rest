@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Polarizing Prism",
+        "de": "Polarisationsprisma",
+        "chs": "偏光棱镜",
+        "cht": "偏光稜鏡",
+        "es": "Prisma polarizador",
+        "fr": "Prisme polarisant",
+        "id": "Polarizing Prism",
+        "jp": "偏光プリズム",
+        "kr": "편광 프리즘",
+        "pt": "Prisma Polarizado",
+        "ru": "Поляризационная призма",
+        "th": "Polarizing Prism",
+        "vi": "Lăng Kính Phân Cực"
+    },
+    "id": 112052,
+    "materialDesc": {
+        "en": "A prism that can bend light.\\nIn the darkness, these prisms can spread thin light into a wider area. Perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness.",
+        "de": "Ein Prisma, das Licht biegen kann.\\nIn der Dunkelheit können diese Prismen dünnes Licht in einen größeren Bereich streuen. Vielleicht liegt es an dieser Eigenschaft, dass diese Prismen jenen ein gewisses Maß an Frieden gewähren können, deren Herzen oft in Dunkelheit gehüllt sind.",
+        "chs": "能够偏转光线的棱镜。\\n在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。",
+        "cht": "能夠偏轉光線的稜鏡。\\n在黑暗中，稜鏡可以將細微的光明散佈到更大的範圍裡。或許也是因為這樣的特性，這種稜鏡對於內心常常被黑暗籠罩的人，有著令他們稍稍安心的力量。",
+        "es": "Un prisma capaz de controlar la luz.\\nEs capaz de expandir una luz apenas existente hacia un área más amplia en mitad de la oscuridad. Quizás, precisamente porque cuenta con esta característica, también posea la habilidad de apaciguar aquellos corazones envueltos por la oscuridad.",
+        "fr": "Un prisme qui peut dévier la lumière.\\nDans l'obscurité, de tels prismes peuvent diffuser une faible lumière sur une zone plus large. Peut-être est-ce dû à cette caractéristique que ce genre de prismes peut apporter une certaine quiétude à ceux dont le cœur est souvent enveloppé de ténèbres.",
+        "id": "Prisma yang dapat memantulkan polarisasi cahaya.\\nDalam kegelapan, prisma ini dapat menyebarkan cahaya yang samar-samar ke area yang lebih luas. Mungkin karena keunikan inilah, prisma jenis ini memiliki kemampuan untuk menenangkan hati orang-orang yang diselimuti kegelapan.",
+        "jp": "光を屈折させるプリズム。\\n暗闇の中でも、微かな光をより広い範囲に拡散させる。この特性が原因か、このようなプリズムは心に闇を抱えている人を少し安心させる力がある。",
+        "kr": "빛의 방향을 바꾸는 프리즘.\\n어둠 속에서, 프리즘은 희미한 빛을 더욱 큰 범위까지 확대시킬 수 있다. 이러한 특성 때문에 프리즘은 어둠 속에 마음이 갇혀있는 사람에게 조금이나마 안심하게 할 수 있는 힘을 갖고 있다",
+        "pt": "Um prisma que pode manipular a luz.\\nNa escuridão, esses prismas podem espalhar uma luz tênue em uma área mais ampla. Talvez seja devido a essa peculiaridade que esses prismas podem conceder um pouco de paz àqueles cujos corações estão sempre envoltos em trevas.",
+        "ru": "Отклоняющая лучи света призма.\\nВ темноте такие призмы распространяют луч света по большей площади. Быть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой.",
+        "th": "ปริซึมที่สามารถหักเหแสงได้\\nปริซึมสามารถกระจายแสงบาง ๆ ให้สว่างในบริเวณที่กว้างขึ้นได้ท่ามกลางความมืด บางทีอาจเป็นเพราะคุณสมบัติพิเศษนี้ ปริซึมชนิดนี้จึงมีพลังที่สามารถทำให้ ผู้คนที่จิตใจถูกปกคลุมไปด้วยความมืดมิดรู้สึกสงบขึ้นได้",
+        "vi": "Lăng kính có thể làm lệch hướng ánh sáng.\\nTrong bóng tối, lăng kính có thể biến tia sáng nhỏ thành một vùng sáng lớn hơn. Có lẽ vì đặc điểm đó mà loại lăng kính này có sức mạnh khiến những người có trái tim bị bao phủ bởi bóng tối cảm thấy thanh thản hơn."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

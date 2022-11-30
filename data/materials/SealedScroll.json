@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sealed Scroll",
+        "de": "Zaubersiegel-Schriftrolle",
+        "chs": "封魔绘卷",
+        "cht": "封魔繪卷",
+        "es": "Pergamino hechizado",
+        "fr": "Parchemin sigillé",
+        "id": "Sealed Scroll",
+        "jp": "封魔の絵巻",
+        "kr": "봉마의 두루마리",
+        "pt": "Pergaminho do Encantamento",
+        "ru": "Свиток печати",
+        "th": "Seal Scroll",
+        "vi": "Bản Vẽ Phong Ấn"
+    },
+    "id": 112009,
+    "materialDesc": {
+        "en": "An old scroll lacking in detail and clarity. By following the images on it, some magical creatures can recreate a small part of its magic.",
+        "de": "Eine alte Schriftrolle mit nicht zu entziffernder Schrift. Folgst du den Abbildungen der Monster darin, scheinen unglaubliche Dinge möglich zu sein.",
+        "chs": "模糊地绘制了难解形象的古书断章。通过模仿其中的人物形象，一些魔物能小小地再现魔法的奇迹。",
+        "cht": "模糊地繪製了難解形象的古書斷章。透過模仿其中的人物形象，一些魔物能小小地再現魔法的奇蹟。",
+        "es": "Un viejo libro con dibujos ambiguos e imágenes incomprensibles. Al imitar a los personajes de este libro, algunos monstruos pueden recrear la magia.",
+        "fr": "Un ancien parchemin aux dessins étranges. En reproduisant les gestes des personnages, il est possible de recréer une certaine magie miraculeuse.",
+        "id": "Gulungan tua yang kurang mendetil dan jelas. Dengan mengikuti gambar-gambar di dalamnya, beberapa makhluk ajaib dapat menciptakan ulang sebagian kecil dari sihirnya.",
+        "jp": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
+        "kr": "대충 만들어진 난해한 고서 단편. 몇몇 마물은 단편에 있는 인물의 형상을 모방해 마법의 기적을 조금은 재현해 낼 수 있다",
+        "pt": "Um antigo pergaminho desenhado ambiguamente com uma imagem difícil. Ao imitar os personagens neles, alguns monstros podem reproduzir o milagre da magia.",
+        "ru": "Старый свиток, которому не достаёт деталей и ясности. Магические существа могут воссоздать по рисункам часть магии, описанной в нём.",
+        "th": "คัมภีร์โบราณที่ประกอบไปด้วยภาพวาด ที่ยากจะเข้าใจ ลองเลียนแบบท่าทาง ของสัตว์ประหลาดบางตัวดูสิ แล้วจะได้พบกับปาฏิหาริย์แห่ง เวทมนตร์",
+        "vi": "Chương sách cổ với những hình vẽ mơ hồ. Mô phỏng theo hình ảnh trong đó, một số ma vật có thể tái hiện chút kỳ tích ma pháp."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

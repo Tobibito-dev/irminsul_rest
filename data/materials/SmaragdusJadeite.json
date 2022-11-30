@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Smaragdus Jadeite",
+        "de": "Smaragdjade",
+        "chs": "翠珏岩",
+        "cht": "翠玨岩",
+        "es": "Jadeíta smaragdus",
+        "fr": "Jadéite smaragdus",
+        "id": "Smaragdus Jadeite",
+        "jp": "翠珏石",
+        "kr": "취각암",
+        "pt": "Jadeíta Smaragdus",
+        "ru": "Изумрудный нефрит",
+        "th": "Smaragdus Jadeite",
+        "vi": "Thúy Ngọc Nham"
+    },
+    "id": 100835,
+    "materialDesc": {
+        "en": "A stone known as Smaragdus Jadeite. What will Madame Ping use it for?",
+        "de": "Ein „Smaragdjade“ genanntes Erz. Was Madame Ping damit wohl vorhat ...",
+        "chs": "名为「翠珏岩」的石片，不知道萍姥姥会用来做什么…",
+        "cht": "名為「翠玨岩」的石片，不知道萍姥姥會用來做什麼…",
+        "es": "Una piedra llamada jadeíta smaragdus. ¿Para qué la usará Madam Ping?",
+        "fr": "Une pierre connue sous le nom de jadéite smaragdus. Qu'est-ce que veut en faire Madame Ping ?",
+        "id": "Batu yang dikenal dengan nama Smaragdus Jadeite. Untuk apa Madame Ping menggunakan benda tersebut?",
+        "jp": "「翠珏石」という名の石。ピンばあやはこれを何に使うんだろう…",
+        "kr": "「취각암」이라 불리는 광석. 평 할머니가 이걸로 뭘 하려는 건지 모르겠다…",
+        "pt": "Uma pedra conhecida como Jadeíta Smaragdus. Para que a Madame Ping vai usá-la?",
+        "ru": "Камень, известный как изумрудный нефрит. Он для чего-то понадобился Мадам Пин...",
+        "th": "ก้อนหินที่ชื่อว่า \"Smaragdus Jadeite\" ไม่รู้เหมือนกันว่ามาดาม Ping จะเอามันมาทำอะไร...",
+        "vi": "Mảnh đá Thúy Ngọc Nham, không biết Bình Lão Lão dùng để làm gì..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

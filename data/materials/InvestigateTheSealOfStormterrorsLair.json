@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Investigate the Seal of Stormterror's Lair",
+        "de": "Untersuche das Siegel im Nest von Sturmschrecken",
+        "chs": "调查风魔龙巢穴封印",
+        "cht": "調查風魔龍巢穴封印",
+        "es": "Investiga el sello de la Guarida de Stormterror",
+        "fr": "Enquêter sur le sceau de l'Antre de Stormterror",
+        "id": "Memeriksa segel Stormterror's Lair",
+        "jp": "風魔龍の巣の封印を調べる",
+        "kr": "풍마룡 둥지의 봉인 조사",
+        "pt": "Investigue o selo da Toca de Stormterror",
+        "ru": "Исследуйте печать Логова Ужаса Бури",
+        "th": "Investigate the seal of Stormterror's Lair",
+        "vi": "Điều tra phong ấn sào huyệt Phong Ma Long"
+    },
+    "id": 100148,
+    "materialDesc": {
+        "en": "Seal of Stormterror's Lair",
+        "de": "Siegel im Nest von Sturmschrecken",
+        "chs": "风魔龙巢穴封印",
+        "cht": "風魔龍巢穴封印。",
+        "es": "Sello de la Guarida de Stormterror",
+        "fr": "Le sceau de l'Antre de Stormterror",
+        "id": "Segel dari Stormterror's Lair",
+        "jp": "風魔龍の巣の封印",
+        "kr": "풍마룡 둥지의 봉인",
+        "pt": "Selo da Toca de Stormterror",
+        "ru": "Печать в Логове Ужаса Бури",
+        "th": "ผนึกของรัง Stormterror",
+        "vi": "Phong Ấn Sào Huyệt Phong Ma Long"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

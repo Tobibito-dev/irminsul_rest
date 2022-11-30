@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tokoyo Legume",
+        "de": "Tokoyo-Schote",
+        "chs": "常世之荚",
+        "cht": "常世之莢",
+        "es": "Leguminosa de Tokoyo",
+        "fr": "Tilleul de Tokoyo",
+        "id": "Kacang Tokoyo",
+        "jp": "常世の莢",
+        "kr": "상세의 협과",
+        "pt": "Legume de Tokoyo",
+        "ru": "Бобы Токоё",
+        "th": "Tokoyo Legume",
+        "vi": "Nhánh Tokoyo"
+    },
+    "id": 101701,
+    "materialDesc": {
+        "en": "A special plant that was produced via the Watatsumi Goryou Matsuri. With the awakening of the Sangacorexes, the elemental energies within Enkanomiya have been pacified. This is a naturally-growing fertilizing crop that will turn into loam within the soil once it decays.",
+        "de": "Eine besondere Pflanze, die durch das Watatsumi Goryou Matsuri entstanden ist. Mit dem Erwachen der Korallenkönigswürmer wurde die Elementarkraft in Enkanomiya besänftigt. Dies ist eine natürlich wachsende Düngepflanze, die sich im Boden in Lehm verwandelt, sobald sie verrottet.",
+        "chs": "因为海祇御灵祭而产生的特殊植物。因珊瑚王虫苏醒，渊下宫的元素力变得温和。这种肥田作物自然生长，等待着腐朽在土地里化为壤土。",
+        "cht": "因為海祇御靈祭而產生的特殊植物。因珊瑚王蟲甦醒，淵下宮的元素力變得溫和。這種肥田作物自然生長，等待著腐朽在土地裡化為壤土。",
+        "es": "Una planta especial creada gracias a la ceremonia de ofrendas de Watatsumi. Debido al despertar de los pólipos de coral, las energías elementales de Enkanomiya se han vuelto más suaves. Este es un fértil cultivo que crece de manera natural y que se convierte en fertilizante cuando se descompone en el suelo.",
+        "fr": "Une plante spéciale qui a été produite grâce au rituel sacré de Watatsumi. Avec l'éveil des sangocorex, les énergies élémentaires au sein d'Enkanomiya ont été pacifiées. Il s'agit d'une culture fertilisante à croissance naturelle qui se transforme en terreau quand elle se décompose dans le sol.",
+        "id": "Tanaman khusus yang diproduksi melalui Watatsumi Goryou Matsuri. Dengan bangkitnya Sangacorex, kekuatan elemen yang ada di Enkanomiya berubah menjadi lembut. Tanaman subur yang tumbuh secara alami ini sedang menunggu waktunya membusuk dan berubah menjadi lempung di dalam tanah.",
+        "jp": "海祇御霊祭によって生まれた特殊な植物。珊瑚王蟲が目覚めたことで、淵下宮の元素力は穏やかになった。自然に育ち、腐敗すると土壌の肥料になるこのような植物は、緑肥作物と呼ばれる。",
+        "kr": "와타츠미 어령 제사로 인해 생긴 특수 식물. 산호왕충이 깨어나 연하궁의 원소력이 완만해졌다. 이로 인해 자연히 작물들이 자라났고 썩어서 토지의 양토가 되기만을 기다린다",
+        "pt": "Uma planta especial que foi produzidas graças a Cerimônia de Oferendas de Watatsumi. Com o despertar dos Pólipos Sango, as energias elementais em Enkanomiya foram pacificadas. Esse é um cultivo fértil que se tornará em fertilizante no solo quando se decompor.",
+        "ru": "Особое растение, которое появилось во время Ватацуми горё мацури. С пробуждением сангокорексов элементальные энергии внутри Энканомии успокоились. Эта культура является естественным удобрением. Она не требует ухода, а после перепревания превращается в плодородную почву.",
+        "th": "พืชชนิดพิเศษที่เกิดขึ้นจากพิธีสังเวยจิตวิญญาณของ Watatsumi เพราะการตื่นขึ้นของ Sangacorex พลังงานธาตุภายใน Enkanomiya จึงอ่อนโยนลง นี่เป็นพืชที่ให้ปุ๋ยตามธรรมชาติที่จะกลายเป็นดินร่วนปนในดินเมื่อมันย่อยสลาย",
+        "vi": "Một loại thực vật đặc biệt được sinh ra thông qua Tế Lễ Linh Hồn Watatsumi. Bởi sự thức tỉnh của Sangacorex, năng lượng nguyên tố trong Enkanomiya đã trở nên ôn hòa. Đây là một loại hoa màu sinh trưởng tự nhiên, sau khi mục nát sẽ biến thành mùn giúp đất tơi xốp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

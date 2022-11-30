@@ -1,0 +1,71 @@
+{
+    "name": {
+        "en": "Dry-Braised Salted Fish",
+        "de": "Gerösteter Trockenfisch",
+        "chs": "干烧香鱼",
+        "cht": "乾燒香魚",
+        "es": "Pescado seco estofado",
+        "fr": "Ayu grillé",
+        "id": "Dry-Braised Salted Fish",
+        "jp": "干物の網焼き",
+        "kr": "은어조림",
+        "pt": "Peixe Seco Salgado",
+        "ru": "Вяленая рыба на углях",
+        "th": "Dry-Braised Salted Fish",
+        "vi": "Cá Nướng"
+    },
+    "id": 1202,
+    "foodType": "COOK_FOOD_HEAL",
+    "cookMethod": "COOK_METHOD_STEAM",
+    "rankLevel": 1,
+    "isDefaultUnlocked": false,
+    "maxProficiency": 5,
+    "inputVec": [
+        {
+            "id": 100084,
+            "count": 1
+        },
+        {
+            "id": 100075,
+            "count": 1
+        },
+        {},
+        {},
+        {}
+    ],
+    "qualityOutputVec": [
+        {
+            "id": 108267,
+            "count": 1
+        },
+        {
+            "id": 108268,
+            "count": 1
+        },
+        {
+            "id": 108269,
+            "count": 1
+        }
+    ],
+    "qteParam": "0.63,0.4",
+    "qteQualityWeightVec": [
+        0,
+        0,
+        100
+    ],
+    "effectDesc": {
+        "en": "Restores <color=#3399CCFF>8–10%</color> of Max HP and an additional <color=#3399CCFF>800–1,200</color> HP to the selected character.",
+        "de": "Stellt der gewählten Figur <color=#3399CCFF>8 bis 10 %</color> LP sowie zusätzlich <color=#3399CCFF>800 bis 1200</color> LP wieder her.",
+        "chs": "为选中的角色恢复生命值上限的<color=#3399CCFF>8%-10%</color>，并额外恢复<color=#3399CCFF>800-1200</color>点生命值。",
+        "cht": "為選中的角色恢復生命值上限的<color=#3399CCFF>8%-10%</color>，並額外恢復<color=#3399CCFF>800-1200</color>點生命值。",
+        "es": "Restaura <color=#3399CCFF>8%-10%</color> de Vida Máx. al personaje seleccionado, además de <color=#3399CCFF>800-1200</color> pts. de Vida adicionales.",
+        "fr": "Restaure <color=#3399CCFF>8 % à 10 %</color> des PV max du personnage sélectionné et <color=#3399CCFF>800 à 1 200</color> PV supplémentaires.",
+        "id": "Memulihkan <color=#3399CCFF>8–10%</color> HP dan <color=#3399CCFF>800–1200</color> HP Karakter yang dipilih.",
+        "jp": "選択したキャラのHP上限の<color=#3399CCFF>8%~10%</color>を回復し、さらにHPを<color=#3399CCFF>800~1200</color>回復する。",
+        "kr": "선택한 캐릭터 HP 최대치의 <color=#3399CCFF>8%-10%</color>를 회복하고 추가로 HP를 <color=#3399CCFF>800-1200</color>pt 회복한다",
+        "pt": "Restaura <color=#3399CCFF>8%- 10%</color> de Vida e um adicional de <color=#3399CCFF>800 - 1200</color> de Vida ao personagem selecionado.",
+        "ru": "Восстанавливает выбранному персонажу <color=#3399CCFF>8%-10%</color> HP + <color=#3399CCFF>800-1200</color> HP.",
+        "th": "ฟื้นฟูพลังชีวิตให้ตัวละครที่เลือก <color=#3399CCFF>8%-10%</color> และฟื้นฟูพิเศษอีก <color=#3399CCFF>800-1200</color> หน่วย",
+        "vi": "Hồi <color=#3399CCFF>8%-10%</color> giới hạn HP cho nhân vật được chọn, và hồi thêm <color=#3399CCFF>800-1200</color> điểm HP."
+    }
+}

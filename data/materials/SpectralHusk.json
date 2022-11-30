@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Spectral Husk",
+        "de": "Geisterhülle",
+        "chs": "浮游干核",
+        "cht": "浮游乾核",
+        "es": "Caparazón espectral",
+        "fr": "Coquille spectrale",
+        "id": "Spectral Husk",
+        "jp": "フライムの乾核",
+        "kr": "떠도는 정령 코어 껍데기",
+        "pt": "Casca Espectral",
+        "ru": "Призрачная оболочка",
+        "th": "Spectral Husk",
+        "vi": "Hạt Bay Lượn Khô Héo"
+    },
+    "id": 112053,
+    "materialDesc": {
+        "en": "An energy core that allows the Specters to float. It contains a small amount of elemental energy.\\nMost of the rest has already dispersed.",
+        "de": "Ein Energiekern, der es den Gespenstern erlaubt zu schweben.\\nEr enthält eine kleine Menge an Elementarenergie. Der Rest hat sich bereits zerstreut.",
+        "chs": "能让飘浮灵浮游的能量核，其中含有些微的元素。\\n大部分的能量似乎已经逸散了。",
+        "cht": "能讓飄浮靈浮游的能量核，其中含有些微的元素。\\n大部分的能量似乎已經逸散了。",
+        "es": "El núcleo de energía que permite a los Espectros flotar. Contiene una pequeña cantidad de energía elemental.\\nParece que la mayor parte de la energía que contenía se dispersó hace tiempo.",
+        "fr": "Un noyau d'énergie qui permet aux Spectres de flotter. Il contient une petite quantité d'énergie élémentaire.\\nLa plupart de l'énergie restante s'est déjà dissipée.",
+        "id": "Inti energi yang membuat Specter dapat melayang. Mengandung sejumlah kecil energi elemental.\\nBanyak energinya sudah tersebar keluar.",
+        "jp": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
+        "kr": "떠도는 정령을 공중에 뜨게 하는 에너지 코어. 미량의 원소가 담겨있다.\\n대부분의 에너지는 이미 흩어진 듯하다",
+        "pt": "Um núcleo energético que permite os Espectros flutuarem. Contém uma pequena quantidade de energia elemental.\\nA maioria da energia já desapareceu.",
+        "ru": "Энергетическое ядро, которое позволяет призракам парить. Оно содержит небольшое количество элементальной энергии.\\nБольшая часть остальной энергии уже рассеялась.",
+        "th": "แกนพลังงานที่ช่วยให้ Specter ลอยได้ มีพลังงานธาตุอยู่ในนั้นเล็กน้อย\\nพลังงานส่วนใหญ่ดูเหมือนจะกระจายหายไปแล้ว",
+        "vi": "Hạt năng lượng có thể giúp Bóng Ma bay lượn, chứa các vi nguyên tố.\\nĐa số năng lượng hình như đã bốc hơi mất."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

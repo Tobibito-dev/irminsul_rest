@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Itto: Oni Face",
+        "de": "Itto – Oni-Gesicht",
+        "chs": "一斗·鬼颜",
+        "cht": "一斗·鬼顏",
+        "es": "Itto - Cara de oni",
+        "fr": "Itto - Visage d'Oni",
+        "id": "Itto: Oni Face",
+        "jp": "一斗·鬼顔",
+        "kr": "이토·오니 얼굴",
+        "pt": "Itto: Cara de Oni",
+        "ru": "Лицо óни",
+        "th": "Itto - Oni Face",
+        "vi": "Itto - Mặt Quỷ"
+    },
+    "id": 210105,
+    "materialDesc": {
+        "en": "Namecard style.\\nA real man puts sorrow and anger behind him and smiles brightly for the world to see!",
+        "de": "Ein Motiv für Namenskärtchen.\\nEin echter Mann lässt immer seinen Kummer und seine Wut hinter sich und lächelt der Welt zu!",
+        "chs": "名片纹饰。\\n男子汉，就要把痛苦和愤怒藏在背后，然后露出最爽朗的笑容！",
+        "cht": "名片紋飾。\\n男子漢，就要把痛苦和憤怒藏在背後，然後露出最爽朗的笑容！",
+        "es": "Diseño de tarjeta de presentación.\\nUn hombre de verdad deja atrás la tristeza y la ira y sonríe para que todo el mundo lo vea.",
+        "fr": "Thème.\\nLes vrais hommes savent mettre le chagrin et la colère derrière eux et sourient au monde !",
+        "id": "Style Kartu Nama.\\nSeorang pria sejati menempatkan kesedihan dan kemarahan di belakangnya dan tersenyum cerah kepada dunia!",
+        "jp": "名刺の飾り紋。\\n漢なら、痛みと怒りを背中に隠し、爽やかな笑顔を出す！",
+        "kr": "명함 스킨.\\n사내대장부는 아픔과 분노를 뒤에 숨기고 가장 통쾌한 미소를 보여야 한다!",
+        "pt": "Estilo de Cartão de Visita.\\nUm homem de verdade coloca a dor e raiva atrás dele e sorri alegremente para o mundo inteiro!",
+        "ru": "Именная карта.\\nНастоящий мужчина должен оставить печаль и гнев позади, а затем показать самую сердечную улыбку!",
+        "th": "ลายนามบัตร\\nลูกผู้ชายจะต้องเก็บซ่อนความขมขื่น และความโกรธาไว้เบื้องหลัง แล้วโชว์รอยยิ้มที่สดใสที่สุดออกมา",
+        "vi": "Hoa văn danh thiếp.\\nLà đàn ông thì nên bỏ đau khổ và phẫn nộ lại phía sau, sau đó nở một nụ cười sảng khoái!"
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

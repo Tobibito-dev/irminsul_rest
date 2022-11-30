@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rime-Worn Crystal",
+        "de": "Frostbiss-Kristall",
+        "chs": "霜噬结晶",
+        "cht": "霜噬結晶",
+        "es": "Cristal de escarcha",
+        "fr": "Cristal du frimas",
+        "id": "Rime-Worn Crystal",
+        "jp": "霜噬結晶",
+        "kr": "서리에 삼켜진 결정",
+        "pt": "Cristal de Gelo",
+        "ru": "Инеевый кристалл",
+        "th": "Rime-Worn Crystal",
+        "vi": "Kết Tinh Băng"
+    },
+    "id": 200102,
+    "materialDesc": {
+        "en": "Pieces of crystal obtained from monster habitats on Dragonspine.\\nThey are only generated at special times.",
+        "de": "Ein von einem Monster des Drachengrats extrahierter Kristall.\\nEntsteht nur zu ganz bestimmten Zeiten.",
+        "chs": "从龙脊雪山的魔物处提取出来的结晶块。\\n仅仅会在特殊的时期产生。",
+        "cht": "從龍脊雪山的魔物處提取出來的結晶塊。\\n僅僅會在特殊的時期產生。",
+        "es": "Un cristal obtenido en el hábitat de los monstruos en Espinadragón.\\nSolo se produce en momentos especiales.",
+        "fr": "Morceau de cristal extrait des repaires des monstres des Monts Dosdragon.\\nUn matériau qui se forme dans des circonstances spéciales.",
+        "id": "Ekstrak kristal yang didapatkan dari monster-monster di Dragonspine.\\nHanya bisa didapatkan pada waktu tertentu.",
+        "jp": "ドラゴンスパインの魔物から取り出した結晶の塊。\\n特殊な時期にのみ生成される。",
+        "kr": "드래곤 스파인의 마물에게서 얻어낸 결정 덩어리.\\n특수한 시기에만 생성된다",
+        "pt": "Pedaços de Cristais obtidos do habitat de monstros da Espinha do Dragão.\\nPara uma espada que tem sede de vida, melhor alimento é este cristal.",
+        "ru": "Кристаллы, полученные из мест обитания монстров на Драконьем хребте. Они могут появиться только в определённое время.",
+        "th": "คริสตัลที่มาจากมอนสเตอร์ใน Dragonspine\\nมักจะเกิดในช่วงเวลาที่พิเศษเสมอ",
+        "vi": "Mảnh kết tinh được lấy trên người ma vật ở Long Tích Tuyết Sơn.\\nNó được sinh ra trong một khoảnh khắc đặc biệt."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

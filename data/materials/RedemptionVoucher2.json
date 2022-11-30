@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Redemption Voucher 2",
+        "de": "Gutschein Nr.2",
+        "chs": "兑换券2号",
+        "cht": "兌換券2號",
+        "es": "Cupón de canje n.º 2",
+        "fr": "Coupon d'échange 2",
+        "id": "Kupon Penukaran 2",
+        "jp": "引換券2",
+        "kr": "교환 쿠폰 2호",
+        "pt": "Cupom de Troca 2",
+        "ru": "Купон обмена №2",
+        "th": "คูปองแลกรับหมายเลข 2",
+        "vi": "Phiếu Quà Tặng 2"
+    },
+    "id": 101868,
+    "materialDesc": {
+        "en": "Used to redeem Mirrorpool Horned Owl: Dancing",
+        "de": "Ein Gutschein, der gegen „Eule des Spiegelsees – Tanz“ eingetauscht werden kann.",
+        "chs": "用于兑换【镜水角鸮号·舞】的兑换券",
+        "cht": "用於兌換【鏡水角鴞號·舞】的兌換券",
+        "es": "Cupón de canje para obtener un Búho estanquespejo: Danza.",
+        "fr": "#Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}».",
+        "id": "Dapat ditukarkan dengan Burung Hantu Air: Joget",
+        "jp": "「鏡水コノハズク·舞」と引き換えることのできる券。",
+        "kr": "[맑은 물의 소쩍새호·춤]을 교환하는 데 사용되는 교환 쿠폰",
+        "pt": "Cupom usado para resgatar Coruja do Lago dos Espelhos: Baile",
+        "ru": "Используйте, чтобы получить «Водяную сову: Танец»",
+        "th": "คูปองแลกรับที่ใช้สำหรับแลก Mirrorpool Horned Owl: Dancing",
+        "vi": "Phiếu quà tặng dùng để đổi \"Cú Mặt Nước - Múa\""
+    },
+    "materialType": "MATERIAL_ACTIVITY_ROBOT"
+}

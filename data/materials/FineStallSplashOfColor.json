@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fine Stall: Splash of Color",
+        "de": "„Feiner Stand – Ein Spritzer Farbe“",
+        "chs": "「赀宝浮棚·赠彩」",
+        "cht": "「貲寶浮棚·贈彩」",
+        "es": "Puesto de tesoros: Obsequios variados",
+        "fr": "Étal à merveilles « Touches de couleur »",
+        "id": "Kios Indah: Cipratan Warna",
+        "jp": "「財宝の浮棚·贈彩」",
+        "kr": "「재보의 막사·증정」",
+        "pt": "Posto de Tesouro: Cores Vibrantes",
+        "ru": "Лавка с сокровищами: Всплеск цвета",
+        "th": "\"เพิงแห่งของขวัญล้ำค่า - หลากสีสัน\"",
+        "vi": "Sạp Quà Tặng - Sắc Màu"
+    },
+    "id": 390513,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Fine Stall: Splash of Color.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Feiner Stand – Ein Spritzer Farbe“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『赀宝浮棚·赠彩』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『貲寶浮棚·贈彩』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Puesto de tesoros: Obsequios variados.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "#Étapes de fabrication de l'étal à merveilles « Touches de couleur{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Kios Indah: Cipratan Warna\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『財宝の浮棚·贈彩』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「재보의 막사·증정」의 제작 방법이 기재되어 있다.\\n사용 후 제작화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Posto de Tesouro: Cores Vibrantes\".\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Лавка с сокровищами: Всплеск цвета».\\nПосле использования этого предмета, вы можете увидеть его в меню размещения.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"เพิงแห่งของขวัญล้ำค่า - หลากสีสัน\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Sạp Quà Tặng - Sắc Màu.\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

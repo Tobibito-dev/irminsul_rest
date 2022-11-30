@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sacred Seal: Auricle",
+        "de": "Heiliger Siegelstein – Ohrmuschel",
+        "chs": "圣章石·耳郭",
+        "cht": "聖章石·耳郭",
+        "es": "Piedra sagrada: Aurícula",
+        "fr": "Sceau sacré : Auricule",
+        "id": "Segel Suci: Daun Telinga",
+        "jp": "ヒエログリフタブレット·耳殻",
+        "kr": "신성한 봉인석·귓바퀴",
+        "pt": "Selo Sagrado: Aurícula",
+        "ru": "Скрижаль: Ушная раковина",
+        "th": "ผนึกศักดิ์สิทธิ์ - ใบหู",
+        "vi": "Đá Thánh Chương - Vành Tai"
+    },
+    "id": 101973,
+    "materialDesc": {
+        "en": "A stone plate with ancient text on it that seems to have once been part of a certain building. The desert sands play host to many an unknown wish. Who made them, and who carries them now? The symbol on this plate looks like an auricle, but a consensus has not been reached on this matter.",
+        "de": "Eine Steinplatte, in die antike Zeichen eingraviert sind, die einst Teil eines Gebäudes gewesen zu sein scheint. Nachdem sie viele Jahre im Sandmeer geschlummert hat, weiß niemand mehr, wessen Wünsche sie trägt. Die Form der Zeichen darauf erinnert an eine Ohrmuschel, es gibt aber auch Gelehrte, die anderer Meinung sind.",
+        "chs": "刻有古老文字的石板，似乎原本是某种构筑物的一部分。在沙海中沉睡了不知几许，又不知承载了谁人的祈愿。其上的文字形似耳郭，但是也有学者持不同的意见。",
+        "cht": "刻有古老文字的石板，似乎原本是某種構築物的一部分。在沙海中沉睡了不知幾許，又不知承載了誰人的祈願。其上的文字形似耳郭，但是也有學者持不同的意見。",
+        "es": "Una placa de piedra con una inscripción antigua. Parece que originariamente formaba parte de algún tipo de estructura. No se sabe desde hace cuánto tiempo se encuentra inactiva en medio del mar de arena. Tampoco se sabe a quién pertenecen los deseos que contiene. La inscripción tiene forma de aurícula, aunque algunos eruditos no están de acuerdo con esta afirmación.",
+        "fr": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Le symbole ici ressemble à une auricule, mais il existe quelques différends académiques à ce sujet.",
+        "id": "Batu yang ditulisi simbol kuno, tampaknya pernah menjadi bagian dari suatu bangunan. Entah berapa banyak harapan yang sudah terlelap di dalam padang pasir, entah berapa banyak pula mimpi yang telah diangkut olehnya. Tulisan di atasnya berbentuk seperti daun teling, tapi para peneliti belum sepakan dengan penafsiran ini.",
+        "jp": "古い文字が刻まれた石板。元はとある構築物の一部だったようだ。砂海に眠っていた時間は計り知れず、背負った祈りの主も今や知るすべがない。刻まれた文字は耳殻のような形とされるが、異なる見解を持つ学者もいるらしい。",
+        "kr": "고대 문자가 새겨진 석판. 원래는 어떤 구조물의 일부였던 것 같다. 모래 바닷속에서 얼마나 오래 잠들어 있었는지, 또 누구의 염원을 담고 있는지는 알 수 없다. 문자 모양은 귓바퀴와 비슷하지만, 다른 의견을 가진 학자도 있다",
+        "pt": "Uma Tabuleta de Pedra com um texto antigo que parece ter sido parte de alguma construção. Não se sabe há quanto tempo ela está perdida no mar de areia. Quem a criou e quem possui ela agora? O símbolo parece com uma aurícula, mas existem debates acadêmicos sobre a sua definição.",
+        "ru": "Каменная плита с древним символом, которая, похоже, когда-то была частью некоего здания. Сколько неизвестных мечтаний хранят в себе пески! Знак на этой плите напоминает ухо, однако не все учёные с этим согласны.",
+        "th": "แผ่นหินที่มีอักษรโบราณสลักอยู่ ดูเหมือนว่าเดิมทีมันจะเป็นส่วนหนึ่งของโครงสร้างบางอย่าง ไม่รู้ว่ามันหลับใหลอยู่ทะเลทรายมานานเท่าไหร่แล้ว และไม่รู้ว่ามันแบกรับแรงปรารถนาของใครเอาไว้บ้าง ตัวอักษรที่อยู่ด้านบนนั้น มีรูปร่างคล้ายกับใบหู แต่ก็มีนักวิชาการบางคนที่ไม่เห็นด้วยกับสิ่งนี้",
+        "vi": "Phiến đá cổ có khắc văn tự, có vẻ như vốn là một bộ phận của kết cấu nào đó. Không biết đã ngủ trong biển cát bao lâu, cũng không biết chứa đựng ước nguyện của ai. Văn tự trên đó có hình dạng giống như chiếc tai, nhưng cũng có một số học giả không có cùng ý kiến này."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

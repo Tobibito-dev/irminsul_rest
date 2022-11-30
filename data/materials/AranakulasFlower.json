@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Aranakula's Flower",
+        "de": "Blume von Aranakula",
+        "chs": "兰那库拉的花",
+        "cht": "蘭那庫拉的花",
+        "es": "Flor de Aranakula",
+        "fr": "Fleur d'Aranakula",
+        "id": "Bunga Aranakula",
+        "jp": "アランナクラの花",
+        "kr": "아란나쿨라의 꽃",
+        "pt": "Flor de Aranakula",
+        "ru": "Цветок Аранакулы",
+        "th": "ดอกไม้ของ Aranakula",
+        "vi": "Hoa Aranakula"
+    },
+    "id": 101819,
+    "materialDesc": {
+        "en": "A flower gifted to you by Aranakula.\\nFearful though Aranakula was, this little creature still ventured into the Fungus-infested forest to tend to \"the Memory of Stone.\"",
+        "de": "Eine von Aranakula geschenkte Blume.\\nAuch wenn Aranakula voller Ängste steckte, wagte sich das kleine Wesen doch in den voller Pilzbestien lauernden Wald, um nach dem „Steingedächtnis“ zu sehen.",
+        "chs": "兰那库拉赠送的花儿。\\n即使害怕，也要深入蕈兽的森林，照看「石头的记忆」。",
+        "cht": "蘭那庫拉贈送的花朵。\\n即使害怕，也要深入蕈獸的森林，照看「石頭的記憶」。",
+        "es": "Una flor que te dio Aranakula.\\nPor más miedo que nos dé, debemos acudir al bosque de los Hongos y cuidar de la piedra de los recuerdos.",
+        "fr": "Une fleur offerte par Aranakula.\\nEn dépit de sa grande peur, Aranakula s'est tout de même aventuré dans la forêt des Fongus afin de s'occuper de l'entretien du souvenir de la pierre.",
+        "id": "Bunga yang diberikan padamu oleh Aranakula.\\nMeskipun Aranakula takut, makhluk kecil ini masih berkelana ke hutan yang dipenuhi Fungus untuk mencari \"Kenangan Batu\".",
+        "jp": "アランナクラから貰った花。\\nアランナクラは怖がりながらも、「石の記憶」の世話をするためにキノコンの森の奥に足を踏み入れなければならなかった。",
+        "kr": "아란나쿨라가 선물한 꽃.\\n아무리 두려워도 「돌의 기억」을 돌보려면 버섯몬의 숲으로 들어가야 한다",
+        "pt": "Flor dada por Aranakula.\\nPode ter medo, mas o medo não impedirá você de entrar na floresta de Cogumelos e de cuidar da \"Memória de Pedra\".",
+        "ru": "Цветок, подаренный Аранакулой.\\nАранакула переборол свой страх, зашёл в лес, полный плесенников, и очистил каменные воспоминания.",
+        "th": "ดอกไม้ที่ Aranakula มอบให้\\nแม้จะหวาดกลัว แต่ก็ต้องเข้าไปยังส่วนลึกของป่าที่เต็มไปด้วย Fungus เพื่อคอยดูแล \"ความทรงจำของก้อนหิน\"",
+        "vi": "Hoa Aranakula tặng.\\nDù sợ hãi, cũng phải đi sâu vào rừng Nấm Quỷ chăm sóc \"Ký Ức Của Đá\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

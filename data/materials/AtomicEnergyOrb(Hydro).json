@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Atomic Energy Orb (Hydro)",
+        "de": "Kernenergiekugel (Hydro)",
+        "chs": "原子能量球(水)",
+        "cht": "原子能量球(水)",
+        "es": "Orbe de energía atómica (Hydro)",
+        "fr": "Orbe d'énergie atomique (Hydro)",
+        "id": "Atomic Energy Orb (Hydro)",
+        "jp": "原子エネルギーボール(水)",
+        "kr": "원자 에너지 오브(물)",
+        "pt": "Orbe de Energia Atômico (Hydro)",
+        "ru": "Сфера атомной энергии (Гидро)",
+        "th": "Atomic Energy Orb (Hydro)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Thủy)"
+    },
+    "id": 2018,
+    "materialDesc": {
+        "en": "Atomic Energy Orb (Hydro)",
+        "de": "Kernenergiekugel (Hydro)",
+        "chs": "原子能量球(水)",
+        "cht": "原子能量球(水)。",
+        "es": "Orbe de energía atómica (Hydro)",
+        "fr": "Orbe d'énergie atomique (Hydro)",
+        "id": "Atomic Energy Orb (Hydro)",
+        "jp": "元素エネルギーボール(水)",
+        "kr": "원자 에너지 오브(물)",
+        "pt": "Orbe de Energia Atômico (Hydro)",
+        "ru": "Сфера атомной энергии (Гидро)",
+        "th": "Atomic Energy Orb (Hydro)",
+        "vi": "Cầu Năng Lượng Nguyên Tử (Thủy)"
+    },
+    "materialType": "MATERIAL_ADSORBATE"
+}

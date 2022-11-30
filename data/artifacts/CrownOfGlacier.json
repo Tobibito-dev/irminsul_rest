@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Crown of Glacier",
+        "de": "Gletscherkrone",
+        "chs": "冰河之冠",
+        "cht": "冰河之冠",
+        "es": "Corona Glacial",
+        "fr": "Diadème de glacier",
+        "id": "Crown of Glacier",
+        "jp": "氷河の冠",
+        "kr": "빙하의 왕관",
+        "pt": "Coroa Glacial",
+        "ru": "Корона мёрзлых рек",
+        "th": "Crown of Glacier",
+        "vi": "Nón Băng Giá"
+    },
+    "id": 23388,
+    "setId": 15004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

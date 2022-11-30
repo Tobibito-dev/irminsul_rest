@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Philosophies of the Land of Wind",
+        "de": "Philosophie des Reiches des Windes",
+        "chs": "风土的哲学",
+        "cht": "風土的哲學",
+        "es": "Filosofía de la Tierra del Viento",
+        "fr": "Philosophie de la Terre venteuse",
+        "id": "Philosophies of the Land of Wind",
+        "jp": "風土の哲学",
+        "kr": "풍토의 철학",
+        "pt": "Filosofias da Terra do vento",
+        "ru": "Философия царства ветров",
+        "th": "Philosophies of the Land of Wind",
+        "vi": "Triết Lý Truyền Thống"
+    },
+    "id": 116005,
+    "materialDesc": {
+        "en": "You reached an epiphany during your travels in Mondstadt, the Land of Wind. The collection of items within can be used to upgrade your Talents.\\n\\nAfter using this item, you may select one of the following rewards:\\n·Philosophies of Freedom\\n·Philosophies of Resistance\\n·Philosophies of Ballad",
+        "de": "Auf deinen Reisen im Reich des Windes Monstadt hast du eine Erkenntnis erlangt. Sammelst du die darin enthaltenen Objekte, kannst du deine Fertigkeiten verbessern.\\n\\nNach dem Anwenden kannst du eine der folgenden Belohnungen wählen:\\n- Philosophie der „Freiheit“\\n- Philosophie des „Widerstand“\\n- Philosophie der „Poesie“",
+        "chs": "在风之国土「蒙德」的旅行中有所领悟，内部装有可以提升技艺的典藏。\\n\\n使用后可从以下选项中选择一项作为奖励:\\n·「自由」的哲学\\n·「抗争」的哲学\\n·「诗文」的哲学",
+        "cht": "在風之國土「蒙德」的旅行中有所領悟，內部裝有可以提升技藝的典藏。\\n\\n使用後可從以下選項中選擇一項作為獎勵:\\n·「自由」的哲學\\n·「抗爭」的哲學\\n·「詩文」的哲學",
+        "es": "Tuviste una epifanía durante tus viajes en Mondstadt, el Reino del Viento. La colección de objetos en su interior puede usarse para mejorar tus talentos.\\n\\nAl usar este objeto, podrás elegir una de las siguientes recompensas:\\n·Filosofía de la libertad\\n·Filosofía de la resistencia\\n·Filosofía de la poesía",
+        "fr": "Vous avez eu une illumination à Mondstadt, le pays de l'élément Anémo. Cette collection d'objets pourra vous servir à améliorer vos aptitudes.\\n\\nAprès usage, vous recevrez une récompense à choisir entre :\\n· Guide de la Liberté\\n· Guide de la Résistance\\n· Guide de la Poésie",
+        "id": "Kamu mendapat pencerahan selama perjalanmu di Mondstadt, Land of Wind. Koleksi yang ada di dalamnya dapat digunakan untuk upgrade Talenta.\\n\\nSetelah digunakan, kamu dapat memilih salah satu untuk dijadikan sebagai hadiah.\\n·Philosophies of \"Freedom\"\\n·Philosophies of \"Ballad\"",
+        "jp": "風の国「モンド」の旅の途中で理解したもの、内部には技を鍛える典籍が入っている。\\n\\n使用すると以下から1つ獲得できる:\\n·「自由」の哲学\\n·「抗争」の哲学\\n·「詩文」の哲学",
+        "kr": "바람의 나라 「몬드」를 여행하다 깨달은 것으로 기예를 향상시킬 수 있는 소장품이 들어있다.\\n\\n사용 후 아래 보상 중 한 가지를 선택할 수 있다:\\n·「자유」의 철학\\n·「투쟁」의 철학\\n·「시문」의 철학",
+        "pt": "Você alcançou uma epifania durante suas viagens em Mondstadt, a Terra de Anemo.\\n\\nDepois de usar este item, você pode selecionar uma das seguintes recompensas:\\n· Filosofia de \"Liberdade\"\\n· Filosofia de \"Resistência\"\\n· Filosofia de \"Balada\"",
+        "ru": "Во время своих странствий по Мондштадту вас постигло озарение. Предметы из этого набора могут быть использованы для улучшения ваших талантов.\\n\\nПосле использования этого предмета вы сможете выбрать одну из следующих наград:\\n· Философия о «Свободе»\\n· Философия о «Борьбе»\\n· Философия о «Поэзии»",
+        "th": "ความเข้าใจทั้งหมดที่เกิดขึ้นระหว่างการเดินทางในดินแดนแห่งลมอย่าง \"Mondstadt\" ซึ่งภายในมีคอลเลกชันที่ช่วยพัฒนาทักษะได้\\n\\nหลังจากใช้แล้วสามารถเลือกของรางวัลหนึ่งอย่างจากตัวเลือกต่อไปนี้ได้:\\n·Philosophies of Freedom\\n·Philosophies of Resistance\\n·Philosophies of Ballad",
+        "vi": "Phát hiện ra trong chuyến hành trình đến Mondstadt - vùng đất của gió, trong đó có chứa bí quyết để nâng cao kỹ nghệ.\\n\\nDùng xong có thể chọn 1 phần thưởng sau đây:\\n·Triết học của \"Tự Do\"\\n·Triết học của \"Kháng Chiến\"\\n·Triết học của \"Thơ Văn\""
+    },
+    "materialType": "MATERIAL_SELECTABLE_CHEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Someone's Diary I: Yaoguang Shoal",
+        "de": "Tagebuch eines Unbekannten I – Yaoguang-Untiefe",
+        "chs": "谁人的日志·其一·瑶光滩",
+        "cht": "誰人的日誌·其一·瑤光灘",
+        "es": "Diario de alguien (I): Costa Yaoguang",
+        "fr": "Journal d'un inconnu I - Bancs de Yaoguang",
+        "id": "Buku Harian Seseorang I: Yaoguang Shoal",
+        "jp": "誰かの日誌·その1·瑶光の浜",
+        "kr": "누군가의 일지·첫 번째·요광 해안",
+        "pt": "Diário de Alguém I - Costa de Yaoguang",
+        "ru": "Чей-то дневник. Часть I. Отмель Яогуан",
+        "th": "ไดอารี่ของใครบางคน I - Yaoguang Shoal",
+        "vi": "Nhật ký của ai 1 - Dao Quang Đàm"
+    },
+    "id": 100230,
+    "materialDesc": {
+        "en": "A diary left behind by someone in the wilderness that tells of the owner's unfortunate encounters at Yaoguang Shoal.",
+        "de": "Das Tagebuch eines Unbekannten, zurückgelassen in der Wildnis. Es beschreibt eine unheilvolle Begegnung in der Yaoguang-Untiefe.",
+        "chs": "某人遗落在野外的日志，描述了其人在瑶光滩的不幸遭遇。",
+        "cht": "某人遺落在野外的日誌，描述了其人在瑤光灘的不幸遭遇。",
+        "es": "Un diario dejado por alguien en la naturaleza. Describe un encuentro desafortunado en la Costa Yaoguang.",
+        "fr": "Un journal laissé par quelque inconnu dans la nature, racontant la mésaventure de son propriétaire sur les Bancs de Yaoguang.",
+        "id": "Sebuah buku harian yang tertinggal di alam liar, menceritakan tentang kejadian-kejadian malang yang ditemui pemiliknya di Yaoguang Shoal.",
+        "jp": "誰かが荒野に落とした日誌、その人が瑶光の浜で遭遇した不幸な出来事が記録されている。",
+        "kr": "누군가가 야외에 흘리고 간 일지. 요광 해안에서 발생한 불행한 일에 대해 서술하고 있다",
+        "pt": "Um diário deixado para trás por alguém no deserto que conta os infelizes eventos do proprietário na Costa Yaoguang.",
+        "ru": "Дневник невезучего путешественника, рассказывающий о событиях, произошедших с этим путешественником на отмели Яогуан.",
+        "th": "บันทึกที่ถูกลืมไว้อยู่กลางป่าของใครบางคน อธิบายถึงความโชคร้ายของเขาที่หาด Yaoguang",
+        "vi": "Cuốn nhật ký của ai đó thất lạc trong rừng hoang, kể lại những câu chuyện bất hạnh mà người này gặp phải ở Dao Quang Đàm."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

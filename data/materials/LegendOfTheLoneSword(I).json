@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Legend of the Lone Sword (I)",
+        "de": "Das Schwert in der Einöde I",
+        "chs": "荒山孤剑录·一",
+        "cht": "荒山孤劍錄·一",
+        "es": "La leyenda de la espada solitaria (I)",
+        "fr": "L'Épée solitaire du mont désolé - Partie I",
+        "id": "Pedang Sebatang Kara (I)",
+        "jp": "荒山孤剣録·一",
+        "kr": "황산고검록·Ⅰ",
+        "pt": "Espada Solitária em Terra Estéril (I)",
+        "ru": "Одинокий клинок в пустошах I",
+        "th": "บันทึกดาบเดี่ยวแห่งเขาหวงซาน I",
+        "vi": "Hoang Sơn Cô Kiếm Lục I"
+    },
+    "id": 100590,
+    "materialDesc": {
+        "en": "A popular martial arts novel in Liyue Harbor. In a world without elemental energy or alchemy, a tale unfolds of love and hate between friends and foes. This volume tells of the origins of Jin the Seventy-Second's revenge.",
+        "de": "Ein in Liyue überaus beliebter Kampfkunstroman. Er spielt in einer Welt ohne Elementarkräfte und Alchimie. Die Geschcihte dreht sich dabei um Liebe und Hass. In diesem Band geht es um den Beginn der Rache von Jin LXXII.",
+        "chs": "流行璃月港的武侠小说，讲述了一个没有元素力与炼金术的世界中发生的爱恨情仇故事。本册讲述了金七十二郎复仇的开始。",
+        "cht": "流行璃月港的武俠小說，講述了一個沒有元素力與煉金術的世界中發生的愛恨情仇故事。本冊講述了金七十二郎復仇的開始。",
+        "es": "Una popular novela de artes marciales de Liyue. Una historia de amor y odio, de amistad y enemistad, que tiene lugar en un mundo sin elementos y alquimia. En este volumen, se relata el comienzo de la venganza de Jin 72.",
+        "fr": "Un roman d'arts martiaux populaire à Liyue. Dans un monde sans énergie élémentaire et sans alchimie, une histoire d'amour et de haine se dévoile. Ce tome narre le début de la vengeance de Jin le Soixante-douzième.",
+        "id": "Novel seni bela diri populer di Liyue Harbor menceritakan kisah cinta dan kebencian di dunia tanpa kekuatan unsur dan alkimia. Buku ini menceritakan awal dari balas dendam Jin si Tujuh Puluh Dua dendam.",
+        "jp": "璃月港で流行ってる武侠小説、元素力と錬金術のない世界で起こった愛と憎しみの物語。本巻は金七十二郎の復習の始まりを述べた一冊。",
+        "kr": "리월항에서 유행하는 무협 소설, 원소의 힘과 연금술이 없던 세계에서 발생한 사랑과 원한의 이야기이다. 이 책에는 금칠십이랑의 복수의 시작 내용이 적혀있다",
+        "pt": "Um romance de artes marciais muito popular em Liyue. Ocorre em um mundo sem poderes elementais e alquimia. A história gira em torno de amor e ódio. Este volume é sobre o início da vingança do Jin LXXII.",
+        "ru": "Роман о боевых искусствах, популярный в Ли Юэ. В мире, лишённом элементов и алхимии, разворачивается история о вражде и любви. Первая книга рассказывает об истоках мести Цзиня Семьдесят второго.",
+        "th": "นวนิยายศิลปะการต่อสู้ที่ได้รับความนิยมมากใน Liyue ได้บอกเล่าเรื่องราวความรักและความแค้นที่เกิดขึ้นในโลกที่ไม่มีพลังงานธาตุและการเล่นแร่แปรธาตุ หนังสือเล่มนี้ได้บอกเล่าถึงจุดเริ่มต้นการแก้แค้นของ Jin ที่ 72",
+        "vi": "Tiểu thuyết kiếm hiệp nổi tiếng ở Liyue, kể lại câu chuyện về tình yêu, sự căm phẫn, lòng yêu thương và sự thù địch trong thế giới không bị ảnh hưởng bởi nguyên tố và thuật giả kim. Tập truyện này kể về quá trình phục thù của Kim Thất Thập Nhị Lang."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

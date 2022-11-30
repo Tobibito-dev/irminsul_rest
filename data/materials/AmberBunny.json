@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amber: Bunny",
+        "de": "Amber – Hoppel",
+        "chs": "安柏·兔兔",
+        "cht": "安柏·兔兔",
+        "es": "Amber - Barón Bunny",
+        "fr": "Amber - Baron Lapinou",
+        "id": "Amber: Bunny",
+        "jp": "アンバー·ウサギ",
+        "kr": "엠버·토끼",
+        "pt": "Amber - Baron Bunny",
+        "ru": "Барон Зайчик",
+        "th": "Amber - Baron Bunny",
+        "vi": "Amber - Con Thỏ"
+    },
+    "id": 210003,
+    "materialDesc": {
+        "en": "Namecard style.\\n\"It's Baron Bunny!\"",
+        "de": "Ein Motiv für Namenskärtchen.\\n„Häschen hüpf!“",
+        "chs": "名片纹饰。\\n「是兔兔伯爵哦！」",
+        "cht": "名片紋飾。\\n「是兔兔伯爵哦！」",
+        "es": "Diseño de tarjeta de presentación.\\n“¡Es Barón Bunny!”",
+        "fr": "Thème.\\n« Baron Lapinou ! »",
+        "id": "Style kartu nama.\\n\"Sang Baron Bunny!\"",
+        "jp": "名刺の飾り紋。\\n「ウサギ伯爵だよ！」",
+        "kr": "명함 스킨.\\n「토끼 백작이야!」",
+        "pt": "Estilo de Cartão de Visita.\\n\"É o Barão Coelho!\"",
+        "ru": "Именная карта.\\nЭто же Барон Зайчик!",
+        "th": "ลายนามบัตร\\n\"It's Baron Bunny!\"",
+        "vi": "Hoa văn danh thiếp.\\n\"Là bá tước thỏ đó!\""
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Godwin's Letter",
+        "de": "Godwins Brief",
+        "chs": "古德温的信",
+        "cht": "古德溫的信",
+        "es": "Carta de Godwin",
+        "fr": "Lettre de Godwin",
+        "id": "Surat Godwin",
+        "jp": "グッドウィンの手紙",
+        "kr": "갓윈의 편지",
+        "pt": "Carta de Godwin",
+        "ru": "Письмо Годвина",
+        "th": "จดหมายของ Godwin",
+        "vi": "Thư Của Godwin"
+    },
+    "id": 100348,
+    "materialDesc": {
+        "en": "A love letter from Godwin to Glory detailing their love and the intimate things they did, which would make any reader blush. However, only the last part is somewhat memorable.",
+        "de": "Ein dicker Brief von Godwin an Glory. Das meiste lässt einen einfach nur rot werden. All die detaillierten Beschreibungen der Dinge, die man nun einmal als Pärchen so macht, lassen einen kurz zögern, aber dann doch schnell weiterlesen. Wirklichen Inhalt hat nur der letzte Teil.",
+        "chs": "古德温给葛罗丽的信。厚厚的一大沓，大部分是让人脸红心跳的奔放示爱，和情侣之间亲昵行为的详细描述，让人不由得一目十行地往下快速阅读，实际上能记住的只有最后一段。",
+        "cht": "古德溫給葛蘿麗的信。厚厚的一大疊，大部分是讓人臉紅心跳的奔放示愛，和情侶之間親暱行為的詳細描述，讓人不由得一目十行地往下快速閱讀，實際上能記住的只有最後一段。",
+        "es": "Una carta de amor para Glory escrita por Godwin. Narra con detalle su amor y una serie de cosas íntimas que harían que cualquier lector se sonrojara. Sin embargo, solo la última parte es algo más memorable.",
+        "fr": "Une lettre pour Gloria de la part de Godwin. Elle décrit certains détails de leur vie intime qu'on se passerait bien de lire. Seul le dernier paragraphe mérite de retenir votre attention.",
+        "id": "Surat cinta dari Godwin kepada Glory. Berisi cerita cinta mereka dan hal-hal intim yang mereka lakukan, sehingga dapat membuat pembaca malu. Namun, hanya bagian terakhirnya yang agak berkesan.",
+        "jp": "グッドウィンからグローリーへの手紙。積むほど書いたらしく、内容の大半は愛情表現や恋人同士の行為に関するもの。思わず早く読んでしまい、実際覚えた内容は最後の一段落だけ。",
+        "kr": "갓윈이 글로리에게 보내는 편지. 대부분의 내용이 두근두근한 사랑 고백과 커플 간의 애정행각이 잔뜩 적혀있어 눈을 떼지 못할 정도로 빠르게 읽히지만, 실제로 기억나는 것은 마지막 부분뿐이다",
+        "pt": "Uma carta de amor de Godwsin para Glory, relatando o amor entre eles e coisas particulares de constranger qualquer leitor. Porém, a última parte é, de alguma forma, memorável.",
+        "ru": "Любовное письмо от Годвина к Глории. Годвин настолько подробно описывает свои романтические отношения с Глорией, что некоторые пикантные части этого письма способны вогнать в краску даже самого искушённого читателя. Однако кроме этих частей в письме больше нет ничего примечательного.",
+        "th": "จดหมายหนา ๆ กองโต ๆ ที่ Godwin เขียนถึง Glory ซึ่งมีเนื้อหาที่จะทำให้ผู้อ่านต้องหน้าแดงและใจเต้นซะเป็นส่วนใหญ่ โดยจดหมายได้อธิบายถึงความรักระหว่างคนทั้งสองอย่างละเอียดซึ่งทำให้ผู้อ่านต้องอดใจไม่ได้ที่จะอ่านต่อไปจนจบแต่กลับจำได้แค่ท่อนสุดท้ายก่อนจบเพียงเท่านั้น",
+        "vi": "Thư của Godwin gửi cho Glory. Một xấp rất dày, đa số là lời đường mật yêu đương khiến người khác đỏ mặt, miêu tả chi tiết hành động của những cặp tình nhân, làm cho người ta phải ngại ngùng đọc nhanh xuống dưới, thực ra thì chỉ nhớ được đoạn cuối cùng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

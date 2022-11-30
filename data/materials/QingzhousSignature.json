@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Qingzhou's Signature",
+        "de": "Qingzhous Autogramm",
+        "chs": "清昼的签名",
+        "cht": "清晝的簽名",
+        "es": "Autógrafo de Chingzhou",
+        "fr": "Signature de Qingzhou",
+        "id": "Tanda Tangan Qingzhou",
+        "jp": "清昼のサイン",
+        "kr": "청주의 사인",
+        "pt": "Assinatura de Qingzhou",
+        "ru": "Подпись Цин Чжоу",
+        "th": "ลายเซ็นของ Qingzhou",
+        "vi": "Chữ Ký Qingzhou"
+    },
+    "id": 100688,
+    "materialDesc": {
+        "en": "A signature personally penned by the Liyue poet, Qingzhou. He mentioned that you can exchange this signature for a copy of his new anthology at Wanwen Bookhouse. Well, no one knows when he will finish writing that anthology, but at least it makes for a nice memento.",
+        "de": "Ein Autogramm des Dichters Qingzhou aus Liyue persönlich. Damit sollst du wohl seine neuste Gedichtsammlung in der Buchhandlung Wanwen erhalten können. Bedauerlicherweise ist unbekannt, wann er diese Sammlung überhaupt fertigstellen wird ... Wenigstens ist diese Unterschrift ein nettes Andenken.",
+        "chs": "璃月诗人清昼亲自挥笔写下的签名。据说凭此签名能前往万文集舍兑换清昼的全新诗集。虽然不知道清昼什么时候才能写好那本诗集…但这份签名本身也能算是个纪念。",
+        "cht": "璃月詩人清晝親自揮筆寫下的簽名。據說憑此簽名能前往萬文集舍兌換清晝的全新詩集。雖然不知道清晝什麼時候才能寫好那本詩集…但這份簽名本身也能算是個紀念。",
+        "es": "Un autógrafo firmado personalmente por Chingzhou, un poeta de Liyue. Según él, puedes intercambiar este autógrafo por una copia de su nueva antología de poemas en la Casa de Libros Wanwen. Nadie sabe cuándo terminará de escribirla, pero al menos es un bonito recuerdo.",
+        "fr": "Une signature de la main du poète de Liyue, Qingzhou. Il a mentionné que vous pouviez l'échanger contre une copie de sa nouvelle anthologie à la Librairie Wanwen, le problème est que personne ne sait quand elle sera terminée. Au moins, cela fait un joli souvenir.",
+        "id": "Tanda tangan yang ditulis sendiri oleh seorang penyair dari Liyue yang bernama Qingzhou. Konon dengan tanda tangan ini, kamu bisa pergi ke Wanwen Bookhouse untuk menukar antologi puisi baru Qingzhou. Walaupun entah kapan antologi puisi itu selesai ditulis... tapi, tanda tangan ini pun bisa dianggap sebagai sebuah cendera mata.",
+        "jp": "璃月の詩人清昼の直筆サイン。このサインで、万文集舎から清昼の最新の詩集と引き換えられるらしい。清昼のその詩集がいつ完結するかはわからないが…このサイン自体が記念品としてもわるくはない。",
+        "kr": "리월 시인 청주의 친필 사인. 이 사인을 만문집사에 가지고 가면 청주의 새로운 시집으로 교환할 수 있다고 한다. 청주가 언제쯤 그 시집을 다 쓸진 모르겠지만… 사인 자체만으로도 기념이라고 할 수 있다",
+        "pt": "Uma assinatura escrita pessoalmente pelo poeta de Liyue, Qingzhou. Ele mencionou que você pode trocar essa assinatura por uma cópia de sua nova antologia na Biblioteca Wanwen. Mas ninguém sabe quando ele terminará de escrever essa antologia, de qualquer maneira, é uma boa lembrança.",
+        "ru": "Подпись, оставленная Цин Чжоу, поэтом из Ли Юэ. Говорят, эту подпись можно обменять на совершенно новый сборник стихов Цин Чжоу в книжном магазине «Ваньвэнь». Конечно, никто не знает, когда он допишет сборник... Но эту подпись можно считать сувениром.",
+        "th": "ลายเซ็นที่นักกวี Qingzhou แห่ง Liyue เซ็นด้วยตัวเอง ว่ากันว่าสามารถนำลายเซ็นนี้ไปแลกบทกวีคัดสรรชุดใหม่ของ Qingzhou ได้ที่ร้านหนังสือ Wanwen Bookhouse ถึงแม้ไม่รู้ว่าเมื่อไร Qingzhou จะเขียนบทกวีชุดใหม่เสร็จ... แต่อย่างน้อยลายเซ็นนี้ก็ถือเป็นของที่ระลึกชิ้นนึงล่ะนะ",
+        "vi": "Một chữ ký do chính nhà thơ Qingzhou của Liyue ký. Người ta nói rằng với chữ ký này, bạn có thể đến Vạn Văn Tập để đổi lấy tập thơ mới của Qingzhou. Tuy không biết bao giờ Qingzhou mới viết được tập thơ... nhưng bản thân chữ ký này cũng có thể coi như một kỷ vật."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diluc Test Package",
+        "de": "None",
+        "chs": "(test)迪卢克测试包-cb1用",
+        "cht": "迪盧克測試包",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "ディルックテストパック",
+        "kr": "다이루크 테스트 패키지",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "id": 3012,
+    "materialDesc": {
+        "en": "Obtained Diluc, 3-Star White Iron Greatsword, Diluc Stardust x16",
+        "de": "None",
+        "chs": "(test)获得角色迪卢克、3星武器白铁大剑、迪卢克的星辉点x16、迪卢克的星尘点x16",
+        "cht": "獲得角色迪盧克、3星武器白鐵大劍、迪盧克的星輝點x16、迪盧克的星塵點x16",
+        "es": "None",
+        "fr": "None",
+        "id": "None",
+        "jp": "ディルック、星3白鉄の大剣、ディルックのスターダストx16を獲得する",
+        "kr": "다이루크 캐릭터 카드, ★3 무기 백주철 대검, 다이루크's 스타더스트x16 획득",
+        "pt": "None",
+        "ru": "None",
+        "th": "None",
+        "vi": "None"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

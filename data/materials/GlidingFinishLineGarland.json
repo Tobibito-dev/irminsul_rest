@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gliding Finish Line Garland",
+        "de": "Blumenkranz am Flugendpunkt",
+        "chs": "飞行终点花环",
+        "cht": "飛行終點花環",
+        "es": "Guirnalda de línea de meta de vuelo",
+        "fr": "Ligne d'arrivée (Planage)",
+        "id": "Bunga Garis Akhir Penerbangan",
+        "jp": "飛行ゴールガーランド",
+        "kr": "비행 결승점 화환",
+        "pt": "Grinalda de Faixa de Linha de Chegada de Planagem",
+        "ru": "Финишный венок полёта",
+        "th": "Gliding Finish Line Garland",
+        "vi": "Vòng Hoa Bay Lượn"
+    },
+    "id": 100009,
+    "materialDesc": {
+        "en": "Marker indicating the finish line of the Gliding Competition finals.",
+        "de": "Objekt, das das Ende für das Finale der Flugmeisterschaften anzeigt.",
+        "chs": "飞行决赛终点的标记物",
+        "cht": "飛行決賽終點的標記物。",
+        "es": "Marcador que señala la línea de meta de las Finales de la Competición de Planeo.",
+        "fr": "Une bande qui indique la ligne d'arrivée lors de la finale du Championnat de planage.",
+        "id": "Benda yang menandakan garis finish lomba meluncur.",
+        "jp": "飛行レース決勝戦のゴールマーカー",
+        "kr": "비행 결승전 결승점의 표식",
+        "pt": "Marca sinalizadora da linha de chagada da Final da Competição de Planagem.",
+        "ru": "Венок, отмечающий финишную линию во время финального этапа соревнований по полёту.",
+        "th": "เครื่องหมายสำหรับบอกจุดที่เป็นเส้นชัยของการแข่งขันการร่อนเวหารอบชิงชนะเลิศ",
+        "vi": "Vật đánh dấu điểm cuối của Chung Kết Bay Lượn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

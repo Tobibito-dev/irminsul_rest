@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Spice",
+        "de": "Harra-Würze",
+        "chs": "香辛料",
+        "cht": "香辛料",
+        "es": "Especias",
+        "fr": "Épice",
+        "id": "Spice",
+        "jp": "香辛料",
+        "kr": "향신료",
+        "pt": "Tempero",
+        "ru": "Пряность",
+        "th": "เครื่องเทศ",
+        "vi": "Gia Vị"
+    },
+    "id": 110014,
+    "materialDesc": {
+        "en": "A seasoning with varied flavors. It is made from dried Harra Fruits and can enrich the taste of a dish. Therefore, Sumeru locals say, \"Spice goes well with anything.\"",
+        "de": "Ein Gewürz zusammengesetzt aus vielen Aromen. Geschaffen aus getrockneten Harra-Früchten. Da es aufgrund seines vielschichtigen Geschmacks als Gewürz für die verschiedensten Gerichte geeignet ist, sagt man in Sumeru „Harra-Würze passt zu allem“.",
+        "chs": "复合口味的调味剂。由干燥的香辛果加工而成。能为料理赋予多层次的风味，因而坊间有着「万物皆可香辛料」的说法。",
+        "cht": "複合口味的調味劑。由乾燥的香辛果加工而成。能為料理賦予多層次的風味，因而坊間有著「萬物皆可香辛料」的說法。",
+        "es": "Un condimento derivado de la fusión de distintos sabores. Está hecho a partir de frutos harra secos. Aporta toda una gama de sensaciones culinarias a los platos en los que se usa. De ahí que la gente lo llame “el multifruto”.",
+        "fr": "Un condiment issu de la fusion de différentes saveurs que l'on fabrique à partir de fruits harras séchés. Il apporte toute une gamme de sensations culinaires aux plats dans lesquels il est utilisé. C'est pourquoi on dit qu'il n'y a pas un seul aliment qui ne lui convienne pas.",
+        "id": "Penyedap dengan rasa yang kompleks. Terbuat dari Harra Fruit yang sudah dikeringkan dan diproses. Bumbu ini bisa memberikan beberapa lapis rasa pada hidangan, sehingga diberi nama \"Bumbu Sejuta Hidangan\".",
+        "jp": "複雑な味がする調味料。乾燥したハッラの実から作られている。料理に豊かな風味を与えられるため、巷では「万物に香辛料」とも言われている。",
+        "kr": "복합적인 맛의 조미료. 말린 향신과를 가공해 제작했다. 요리에 다양한 맛을 더해주어 민간에는 「어떤 요리든 향신료가 답이다」라는 명언도 전해지고 있다",
+        "pt": "Um condimento com uma variedade de sabores. É feito de Fruta Harra seca e pode aprimorar o sabor de um prato. Portanto, os locais de Sumeru dizem, \"esse tempero vai bem com tudo\".",
+        "ru": "Пряность, обладающая интересным и сложным вкусом. Изготавливается из сушёного фрукта харра. Дополняет вкус любого блюда, поэтому на прилавках уличных торговцев её ещё называют «Универсальной приправой».",
+        "th": "เครื่องปรุงที่มีรสชาติหลากหลาย ซึ่งแปรรูปมาจาก Harra Fruit ตากแห้ง สามารถเพิ่มรสชาติที่เหนือชั้นให้กับเมนูอาหาร ดังนั้นจึงมีคำกล่าวที่ว่า \"เครื่องเทศล้วนเข้ากันได้กับทุกสิ่ง\"",
+        "vi": "Gia vị hợp khẩu vị. Chế biến từ Quả Harra sấy khô. Có thể tạo ra nhiều tầng hương vị cho món ăn, vì vậy trên phố có câu \"gia vị là tất cả\"."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

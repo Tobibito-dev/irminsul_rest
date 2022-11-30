@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Floral Zither",
+        "de": "Blumenzither",
+        "chs": "镜花之琴",
+        "cht": "鏡花之琴",
+        "es": "Mandolina floral",
+        "fr": "Cithare florale",
+        "id": "Floral Zither",
+        "jp": "鏡花の琴",
+        "kr": "거울꽃의 현악기",
+        "pt": "Cítara Floral",
+        "ru": "Цветочная цитра",
+        "th": "Floral Zither",
+        "vi": "Đàn Vang Vọng"
+    },
+    "id": 220044,
+    "materialDesc": {
+        "en": "A musical instrument that can be used in performances.\\nIt is made of rather unique materials, and its craftsmanship is quite different from the designs that are currently in vogue. An unpredictable strength has been woven into the ethereal strings that can even allow it to cause the illusions within the heart of its player to surface.\\nThere is an old adage in Liyue: \"the longer one's eye of the flower drinks, the deeper one's heart into the mire sinks.\" It seems that only the strong-willed may use this instrument.",
+        "de": "Ein Musikinstrument, das bei Aufführungen verwendet werden kann.\\nEs ist aus ziemlich einzigartigen Materialien gefertigt und seine Handwerkskunst unterscheidet sich deutlich von den Entwürfen, die derzeit im Trend sind. In die ätherischen Saiten ist eine unvorhersehbare Kraft eingewoben, die es ihm sogar ermöglicht, die Illusionen im Herzen seines Spielers zum Vorschein zu bringen.\\nEs gibt ein altes Sprichwort in Liyue: „Je länger das Auge die blumenhaften Illusionen nascht, desto tiefer sinkt die Seele in den Sumpf der Versuchung.“ Es scheint, dass nur die Willensstarken dieses Instrument benutzen dürfen.",
+        "chs": "使用后，可以进行演奏的乐器。\\n材质特异，工艺与市面流行之物大为不同。空灵的弦音中似乎蕴含着一股不可捉摸的力量，甚至能勾出乐者心中潜藏的幻想。\\n璃月有古诫：镜花迷眼，泥形溺心则陷。如此看，只有意志坚定者才能驾驭此物吧。",
+        "cht": "使用後，可以進行演奏的樂器。\\n材質特異，工藝與市面流行之物大為不同。空靈的弦音中似乎蘊含著一股不可捉摸的力量，甚至能勾出樂者心中潛藏的幻想。\\n璃月有古誡：鏡花迷眼，泥形溺心則陷。如此看，只有意志堅定者才能駕馭此物吧。",
+        "es": "Un instrumento para tocar música.\\nEstá hecho con unos materiales muy especiales, y su diseño y fabricación son bastante diferentes a los que se estilan hoy en día. Sus etéreas cuerdas parecen contener un poder insondable capaz incluso de evocar las fantasías más escondidas de quien lo toque.\\nComo reza un antiguo dicho de Liyue: “Cuanto más mire el ojo a la flor, más se hundirá en el fango el corazón”. Así pues, solo aquellos con una voluntad de hierro son capaces de dominar este instrumento.",
+        "fr": "Un instrument de musique pouvant être utilisé lors de prestations.\\nIl est fait de matériaux plutôt uniques et sa conception est très différente des modèles actuellement en vogue. Une force imprévisible a été tissée dans ses cordes éthérées, ce qui peut même lui permettre de révéler les illusions dans le cœur de la personne qui en joue.\\nIl existe un vieil adage à Liyue : « Plus les yeux fixent la fleur, plus le cœur s'enfonce dans le marais ». Il semble que seuls ceux dont la volonté est forte puissent utiliser cet instrument.",
+        "id": "Alat musik yang dapat digunakan dalam pertunjukan.\\nTerbuat dari bahan yang agak unik, dan sepertinya sangat berbeda dari desain yang sedang populer saat ini. Kekuatan tak terduga telah terjalin ke dalam benang halus yang bahkan memungkinkannya memunculkan ilusi di dalam hati pemainnya.\\nAda pepatah lama di Liyue yang berbunyi: \"Semakin lama mata memandang sebuah ilusi yang indah, semakin dalam pula hati seseorang akan terseret ke dalam godaannya.\" Tampaknya hanya orang yang berkemauan keras yang bisa menggunakan alat musik ini.",
+        "jp": "使用すると、演奏ができる楽器。\\n特殊な材質で、市場に出回っている物と工芸がまったく違う。透き通るような弦の音に、不思議な力が宿っているらしく、演奏者の中に秘められている幻想を引き出すことができる。\\n璃月にはこういう訓戒がある——鏡花が目を魅了し、泥に耽溺せば心も陥ってしまう。どうやら、揺るぎない意志を持つ者のみが、これを扱えるらしい。",
+        "kr": "연주할 수 있는 악기.\\n재질이 특이하고, 시중에 유행하는 것과 아주 다른 제작 방식으로 만들어진 악기. 맑은 현음엔 연주자 마음속에 숨겨진 환상까지 그려낼 수 있을 것 같은 알 수 없는 힘이 담겨 있는 것 같다.\\n리월에는 거울은 눈을 어지럽히고, 진흙같이 무른 마음은 쉽게 함정에 빠진다라는 오래된 속담이 하나 있다. 이처럼 의지가 굳건한 자만이 이 악기를 다룰 수 있다고 한다",
+        "pt": "Um instrumento musical que pode ser usado em apresentações. É feito de materiais bastante singulares, e tem uma destreza muito distinta dos modelos que estão atualmente em moda. Uma força imprevisível foi tecida nas cordas etéreas que podem até mesmo permitir que as ilusões dentro do coração de seu tocador surjam.\\nHá um velho ditado em Liyue: \"Quanto mais os olhos fixam o olhar na alma, mais profundo se afunda no pântano.\" Assim, apenas aqueles com vontade de ferro são capazes de dominar este instrumento.",
+        "ru": "Музыкальный инструмент, который можно использовать для музыкальных выступлений.\\nИзготовлен из уникальных материалов. Его дизайн и способ изготовления отличаются от тех, что в моде сейчас. В его бесплотных струнах словно заключена непостижимая сила, способная пробудить даже самые потаённые фантазии исполнителя.\\nВ Ли Юэ есть старая пословица: «Чем дольше глаз смотрит на цветок, тем глубже сердце погружается в западню». Только волевые люди могут использовать этот инструмент.",
+        "th": "เมื่อใช้งาน สามารถใช้งานเล่นเป็นเครื่องดนตรีได้\\nวัสดุมีเอกลักษณ์เฉพาะ และมีฝีมือการประดิษฐ์ต่างจากที่นิยมในท้องตลาดอย่างมาก ดูเหมือนว่าจะมีพลังที่ไม่อาจคาดเดาแฝงอยู่ในเสียงสายพิณที่จับต้องไม่ได้ จนถึงขั้นสามารถเรียกภาพมายาที่ซ่อนเร้นอยู่ในจิตใจของนักดนตรีได้\\nสุภาษิตโบราณใน Liyue ว่าไว้: ดอกไม้ในกระจกอาจสะกดสายตา หากหลงระเริงไปกับโคลนก็อาจดำดิ่งจมลึกลงไปในนั้น จึงมีเพียงผู้ที่มีใจแน่วแน่เท่านั้นที่จะสามารถใช้เครื่องมือนี้ได้",
+        "vi": "Nhạc cụ có thể dùng để diễn tấu.\\nChất gỗ đặc biệt, kỹ nghệ rất khác biệt so với các loại phổ biến trên thị trường. Trong âm điệu trầm bổng hàm chứa một nguồn sức mạnh không thể chạm vào, thậm chí có thể tạo ra ảo giác tiềm ẩn trong tâm tư của người nhạc sĩ.\\nLiyue xưa có câu: Hoa trong gương mê ảo, cạm bẫy trong lòng người. Nếu như vậy, chỉ có người có ý chí kiên định mới có thể điều khiển được nó."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

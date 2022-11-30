@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Instructions: Dendroculus Resonance Stone",
+        "de": "Erläuterung: Dendroculus-Resonanzstein",
+        "chs": "说明：草神瞳共鸣石",
+        "cht": "說明：草神瞳共鳴石",
+        "es": "Instrucciones: Roca de resonancia de dendróculus",
+        "fr": "Instructions : Pierre de résonance Dendroculus",
+        "id": "Panduan: Dendroculus Resonance Stone",
+        "jp": "説明：草神の瞳の共鳴石",
+        "kr": "설명서: 풀의 신의 눈동자 공명석",
+        "pt": "Instruções: Pedra de Ressonância de Dendroculus",
+        "ru": "Инструкции: Камень эха дендрокула",
+        "th": "คู่มือ: Dendroculus Resonance Stone",
+        "vi": "Giải Thích: Đá Cộng Hưởng Thảo Thần Đồng"
+    },
+    "id": 221057,
+    "materialDesc": {
+        "en": "Detailed step-by-step instructions for making a Dendroculus Resonance Stone. Master them and you will be able to create a tool to guide you to Dendroculi.",
+        "de": "Anleitung mit detaillierten Schritten zur Herstellung von „Dendroculus -Resonanzstein“. Hiermit kannst du ein Objekt herstellen, mit dessen Hilfe du verlorene Dendroculi finden kannst.",
+        "chs": "步骤详实的说明，记载着「草神瞳共鸣石」的制作方法。掌握后，可以制作寻找「散失的草神瞳」的道具。",
+        "cht": "步驟詳實的說明，記載著「草神瞳共鳴石」的製作方法。掌握後，可以製作尋找「散失的草神瞳」的道具。",
+        "es": "Instrucciones detalladas para fabricar una Roca de resonancia de dendróculus. Tras obtenerlas, puedes fabricar un objeto para encontrar dendróculus.",
+        "fr": "Instructions détaillées pour la fabrication d'une Pierre de résonance Dendroculus. Une fois maîtrisées, celles-ci vous permettront de créer un outil capable de localiser les Dendroculus.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Dendroculus Resonance Stone\". Setelah menguasainya, kamu bisa membuatnya untuk mencari item \"Dendroculus\".",
+        "jp": "「草神の瞳の共鳴石」の詳しい作り方が載っている説明書。習得後は、「失われた草神の瞳」を探知できるアイテムを作れるようになる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설명서로 「풀의 신의 눈동자 공명석」의 제작 방법이 적혀있다. 습득 후 「잃어버린 풀의 신의 눈동자」를 찾을 수 있는 아이템을 제작할 수 있다",
+        "pt": "Instruções detalhadas para fazer uma Pedra de Ressonância de Dendroculus. Depois de obtê-las, você poderá fazer uma ferramenta que ajudará a encontrar Dendroculus.",
+        "ru": "Подробные инструкции по изготовлению предмета «Камень эха дендрокула». Выучив их, вы сможете создать инструмент, который направит вас к дендрокулам.",
+        "th": "คำอธิบายการสร้าง Dendroculus Resonance Stone โดยละเอียด ศึกษาให้เชี่ยวชาญ แล้วมันจะเป็นอุปกรณ์นำทางของคุณในการค้นหา Dendroculus ได้",
+        "vi": "Nói rõ từng bước thực hiện, ghi lại cách làm \"Đá Cộng Hưởng Thảo Thần Đồng\". Có thể dùng để chế tạo đạo cụ tìm \"Thảo Thần Đồng\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

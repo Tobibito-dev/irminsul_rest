@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Sacred Seal: Raised Arm",
+        "de": "Heiliger Siegelstein – Erhobener Arm",
+        "chs": "圣章石·举臂",
+        "cht": "聖章石·舉臂",
+        "es": "Piedra sagrada: Brazo elevado",
+        "fr": "Sceau sacré : Bras levés",
+        "id": "Segel Suci: Angkat Tangan",
+        "jp": "ヒエログリフタブレット·上げた腕",
+        "kr": "신성한 봉인석·팔 올리기",
+        "pt": "Selo Sagrado: Braço Levantado",
+        "ru": "Скрижаль: Поднятая рука",
+        "th": "ผนึกศักดิ์สิทธิ์ - ชูแขน",
+        "vi": "Đá Thánh Chương - Giơ Tay"
+    },
+    "id": 101971,
+    "materialDesc": {
+        "en": "A stone plate with ancient text on it that seems to have once been part of a certain building. The desert sands play host to many an unknown wish. Who made them, and who carries them now? Either way, researchers believe this symbol to have been a phonetic symbol, and that its extended meanings may have included respect or submission.",
+        "de": "Eine Steinplatte, in die antike Zeichen eingraviert sind, die einst Teil eines Gebäudes gewesen zu sein scheint. Nachdem sie viele Jahre im Sandmeer geschlummert hat, weiß niemand mehr, wessen Wünsche sie trägt. Gelehrte sind der Ansicht, die Zeichen seien wahrscheinlich nicht nur phonetisch, sondern hätten auch eine von Ehrfurcht und Gehorsamkeit erfüllte Bedeutung.",
+        "chs": "刻有古老文字的石板，似乎原本是某种构筑物的一部分。在沙海中沉睡了不知几许，又不知承载了谁人的祈愿。学者们认为这个文字既是表音符号，可能也还有尊敬、服从的引申含义。",
+        "cht": "刻有古老文字的石板，似乎原本是某種構築物的一部分。在沙海中沉睡了不知幾許，又不知承載了誰人的祈願。學者們認為這個文字既是表音符號，可能也還有尊敬、服從的引申含義。",
+        "es": "Una placa de piedra con una inscripción antigua. Parece que originariamente formaba parte de algún tipo de estructura. No se sabe desde hace cuánto tiempo se encuentra inactiva en medio del mar de arena. Tampoco se sabe a quién pertenecen los deseos que contiene. Los eruditos creen que su inscripción era un símbolo fonético que pudo haber significado “respeto” o “sumisión”.",
+        "fr": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Quoi qu'il en soit, les chercheurs pensent que ce symbole était un signe phonétique et que ses significations étendues peuvent avoir inclus le respect ou la soumission.",
+        "id": "Batu yang ditulisi simbol kuno, tampaknya pernah menjadi bagian dari suatu bangunan. Entah berapa banyak harapan yang sudah terlelap di dalam padang pasir, entah berapa banyak pula mimpi yang telah diangkut olehnya. Para peneliti menganggap bahwa tulisan di atasnya melambangkan bunyi, dan mungkin turut mengandung makna \"hormat\" dan \"takluk\".",
+        "jp": "古い文字が刻まれた石板。元はとある構築物の一部だったようだ。砂海に眠っていた時間は計り知れず、背負った祈りの主も今や知るすべがない。この文字は表音記号であると同時に、尊敬、服従といった派生の意味もあったと学者たちは考えている。",
+        "kr": "고대 문자가 새겨진 석판. 원래는 어떤 구조물의 일부였던 것 같다. 모래 바닷속에서 얼마나 오래 잠들어 있었는지, 또 누구의 염원을 담고 있는지는 알 수 없다. 학자들은 이 문자는 표음문자인 동시에 존경과 복종의 뜻도 담겨 있을 거라고 생각한다",
+        "pt": "Uma Tabuleta de Pedra com um texto antigo que parece ter sido parte de alguma construção. Não se sabe há quanto tempo ela está perdida no mar de areia. Quem a criou e quem possui ela agora? Os estudiosos acreditam ser um símbolo fonético e que o seu significado também pode ser compreendido como um sinal de respeito e submissão.",
+        "ru": "Каменная плита с древним символом, которая, похоже, когда-то была частью некоего здания. Сколько неизвестных мечтаний хранят в себе пески! Знатоки полагают, что этот символ представляет собой музыкальную ноту, но может также означать уважение и покорность.",
+        "th": "แผ่นหินที่มีอักษรโบราณสลักอยู่ ดูเหมือนว่าเดิมทีมันจะเป็นส่วนหนึ่งของโครงสร้างบางอย่าง ไม่รู้ว่ามันหลับใหลอยู่ทะเลทรายมานานเท่าไหร่แล้ว และไม่รู้ว่ามันแบกรับแรงปรารถนาของใครเอาไว้บ้าง เหล่านักวิชาการเชื่อว่าตัวอักษรนี้ อาจไม่ได้เป็นเพียงสัญลักษณ์ของเสียงเท่านั้น แต่ยังมีความเป็นไปได้ว่า มันอาจจะหมายถึงความเคารพและเชื่อฟังอีกด้วย",
+        "vi": "Phiến đá cổ có khắc văn tự, có vẻ như vốn là một bộ phận của kết cấu nào đó. Không biết đã ngủ trong biển cát bao lâu, cũng không biết chứa đựng ước nguyện của ai. Các học giả cho rằng ký tự này không chỉ là một biểu tượng ngữ âm, mà có thể còn có ý nghĩa mở rộng về sự tôn kính và phục tùng."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

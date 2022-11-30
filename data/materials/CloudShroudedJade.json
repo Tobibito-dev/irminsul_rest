@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cloud-Shrouded Jade",
+        "de": "Wolkenumhüllte Jade",
+        "chs": "云遮玉",
+        "cht": "雲遮玉",
+        "es": "Jade entre las nubes",
+        "fr": "Jade de nuages",
+        "id": "Cloud-Shrouded Jade",
+        "jp": "雲隠し玉",
+        "kr": "옥을 가린 구름",
+        "pt": "Nuvens Sobre Jade",
+        "ru": "Окутанный облаками нефрит",
+        "th": "Cloud-Shrouded Jade",
+        "vi": "Vân Già Ngọc"
+    },
+    "id": 108373,
+    "materialDesc": {
+        "en": "Yun Jin's specialty. This sweet and sticky snack will somehow not affect your throat in any negative way, which is why it's Yun Jin's favorite. The aftertaste is most elegant, not something one would get sick of quickly. Come to think of it... This is quite a decent bit more than she would usually make for herself — but who are you to question her kindness?",
+        "de": "Yun Jins Spezialzubereitung. Dieser süße und klebrige Snack wirkt sich in keiner Weise negativ auf den Hals aus, weshalb er Yun Jins Lieblingsspeise ist. Der Nachgeschmack ist sehr elegant, nichts, wovon man schnell satt wird. Wenn ich es mir recht überlege ... Das ist ziemlich viel mehr, als sie normalerweise für sich selbst zubereitet. Aber warum sollte man ihre Freundlichkeit in Frage stellen?",
+        "chs": "云堇的特色料理。香甜糯口的点心，不会对嗓子产生什么影响，是云堇最中意的甜品。回味清雅，即使多吃一些也不会腻。这样想来…分量的确比她平时做给自己吃的更足些。这也是她的善意吧。",
+        "cht": "雲堇的特色料理。香甜糯口的點心，不會對嗓子產生什麼影響，是雲堇最中意的甜品。回味清雅，即使多吃一些也不會膩。這樣想來…分量的確比她平時做給自己吃的更足些。這也是她的善意吧。",
+        "es": "La especialidad de Yun Jin. Este postre, su preferido, es dulce, esponjoso y nunca sienta mal al cuerpo. Su sabor es tan ligero que, aunque comas mucho, no te empalagará. Por cierto, parece que puso más cantidad de la que suele hacer para sí misma. Qué buena persona es.",
+        "fr": "Spécialité culinaire de Yun Jin. Cette collation sucrée et collante n'affectera pas votre gorge, c'est la raison pour laquelle c'est la préférée de Yun Jin. L'arrière-goût est des plus raffinés, pas quelque chose dont on se lasse facilement. À bien y réfléchir, il y en a plus qu'elle n'en ferait pour elle-même, mais vous n'allez quand même pas vous plaindre de sa gentillesse...",
+        "id": "Hidangan andalan Yun Jin. Camilan manis dan lengket ini tidak akan memengaruhi tenggorokan, karena itulah camilan ini adalah camilan favorit Yun Jin. Rasanya yang ringan dan tidak akan membuat orang merasa bosan. Dipikir-pikir, porsinya memang sedikit lebih banyak dari yang biasanya dia buat untuk dirinya sendiri. Mungkin inilah bentuk dari kebaikan hatinya.",
+        "jp": "雲菫のオリジナル料理。喉に負担をかけない、甘くてもちもちとしたお菓子。雲菫の大好物である。後味が軽く、たくさん食べても飽きがこない。よく見ると、普段彼女が自分のために作るものより量が多い。これも彼女の優しさなのだろう。",
+        "kr": "운근의 특제 요리. 달콤하고 부드러우며, 먹어도 목에 영향이 없는 후식이라 운근이 가장 좋아하는 디저트다. 깔끔한 맛이라 많이 먹어도 질리지 않는다. 그래서 평소 자신이 먹는 양보다 넉넉하게 만들었다. 이 또한 운근의 호의가 아닐까",
+        "pt": "Especialidade de Yunjin. Este lanche doce e pegajoso de alguma forma não afetará sua garganta de forma negativa, e é por isso que é o favorito de Yunjin. O gosto residual é elegante, não é algo de que alguém se cansasse rapidamente. Pensando bem... Isto é um pouco mais decente do que ela normalmente faria para si mesma — mas quem é você para questionar a gentileza dela?",
+        "ru": "Особое блюдо Юнь Цзинь. Этот сладкий, клейкий десерт ни в коем случае не навредит горлу, поэтому Юнь Цзинь его так любит. Лёгкое, совсем не приторное послевкусие позволяет съесть чуть побольше. Если подумать... она приготовила больше, чем готовит обычно для себя. Какой прекрасный человек!",
+        "th": "เมนูพิเศษของ Yun Jin ของทานเล่นที่ทั้งหอมหวานและเหนียวหนึบ แต่ก็ไม่ได้ส่งผลกระทบต่อลำคอแต่อย่างใด เป็นของหวานที่ Yun Jin ชื่นชอบที่สุด มีรสชาติที่ประณีตติดปลายลิ้น ซึ่งถึงแม้ว่าจะทานมากไปหน่อย แต่ก็ยังไม่รู้สึกเลี่ยน แต่จะว่าไปแล้ว... ดูเหมือนว่าปริมาณจะมากกว่าตอนปกติที่เธอทำให้ตัวเองทานอยู่สักหน่อย นี่น่าจะเป็นความปรารถนาดีของเธอล่ะนะ",
+        "vi": "Món ăn đặc sắc của Yun Jin. Món tráng miệng thơm ngọt và sẽ không gây hại đến cổ họng mình. Dư vị thanh tao khiến cho bản thân không bị ngán dù đã ăn quá nhiều. Có vẻ như... lượng thức ăn thực sự nhiều hơn so với khẩu phần ăn thường ngày của cô ấy, có lẽ đây cũng là lòng tốt của Yun Jin."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

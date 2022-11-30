@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Minty Meat Rolls",
+        "de": "Rezept: Minzröllchen",
+        "chs": "食谱：兽肉薄荷卷",
+        "cht": "食譜：獸肉薄荷捲",
+        "es": "Receta: Rollitos de carne y menta",
+        "fr": "Recette : Rouleaux de viande à la menthe",
+        "id": "Resep: Minty Meat Rolls",
+        "jp": "レシピ：ミントの獣肉巻き",
+        "kr": "레시피: 허브 고기말이",
+        "pt": "Receita: Enroladinho de Carne com Menta",
+        "ru": "Рецепт: Мясные рулетики с мятой",
+        "th": "สูตรอาหาร: Minty Meat Rolls",
+        "vi": "Công thức: Thịt Rừng Cuộn Bạc Hà"
+    },
+    "id": 109447,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Minty Meat Rolls.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Minzröllchen“.",
+        "chs": "步骤详实的食谱，记载着「兽肉薄荷卷」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「獸肉薄荷捲」的製作方法。",
+        "es": "Receta paso a paso para hacer unos rollitos de carne y menta.",
+        "fr": "Étapes de préparation des rouleaux de viande à la menthe.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Minty Meat Rolls.",
+        "jp": "「ミントの獣肉巻き」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「허브 고기말이」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer o Enroladinho de Carne com Menta.",
+        "ru": "Подробный рецепт приготовления блюда «Мясные рулетики с мятой».",
+        "th": "สูตรอธิบายวิธีทำ \"Minty Meat Roll\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thịt Rừng Cuộn Bạc Hà\""
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

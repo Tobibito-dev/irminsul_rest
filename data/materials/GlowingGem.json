@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Glowing Gem",
+        "de": "Perle der Dämmerung",
+        "chs": "霞色宝珠",
+        "cht": "霞色寶珠",
+        "es": "Gema arrebol",
+        "fr": "Gemme lumineuse",
+        "id": "Glowing Gem",
+        "jp": "霞色の宝珠",
+        "kr": "노을빛 보주",
+        "pt": "Pérola Brilhante",
+        "ru": "Светящийся самоцвет",
+        "th": "Glowing Gem",
+        "vi": "Bảo Châu Hoàng Hôn"
+    },
+    "id": 200110,
+    "materialDesc": {
+        "en": "Specialized refinement material for Fading Twilight.\\nCor Lapis delicately refined by ancient arts practiced by the early inhabitants of The Chasm. It glimmers slightly with a light that resembles either the radiance of dawn or the dying twilight. Appearing in caverns where none may see either form of light, it must have brought some small comfort to those who fought against the dark enemy.",
+        "de": "Spezielles Verfeinerungsmaterial für „Ausklingende Dämmerung“.\\nEine Perle aus Cor Lapis, die durch die alten Künste der frühen Bewohner der Großen Kluft verfeinert wurde. Sie schimmert leicht in einem Licht, das dem Glanz der Morgen- oder Abenddämmerung ähnelt. Sie taucht in Höhlen auf, in denen niemand eine der beiden Lichtformen sehen kann, und muss denjenigen, die gegen den dunklen Feind kämpften, einen kleinen Trost gebracht haben.",
+        "chs": "「落霞」专用的精炼道具。\\n以层岩巨渊先民的古老工艺精致打磨而成的石珀宝珠。能够微微散发出如同黎明或夕暮的辉光。对于在不见天日的岩窟中，与漆黑之敌战斗的人而言，或许能带来小小的慰藉吧。",
+        "cht": "「落霞」專用的精煉道具。\\n以層岩巨淵先民的古老工藝精緻打磨而成的石珀寶珠。能夠微微散發出如同黎明或夕暮的輝光。對於在不見天日的岩窟中，與漆黑之敵戰鬥的人而言，或許能帶來小小的慰藉吧。",
+        "es": "Objeto de refinamiento exclusivo para el arma “Desvanecimiento del Crepúsculo”.\\nUna gema de cor lapis pulida mediante las intrincadas técnicas artesanales de los antiguos pobladores de la Sima. Emite un brillo similar al del amanecer o del crepúsculo. Este objeto ofrece su compañía a aquellas personas que luchan contra la oscuridad en las cuevas a las que nunca llega la luz del sol.",
+        "fr": "Matériau de raffinement spécial pour le Crépuscule couchant.\\nUne pierre en cœur de lapis qui a été polie en utilisant les techniques artisanales complexes des premiers habitants du Gouffre. Elle scintille légèrement, projetant une lueur qui ressemble soit à l'éclat de l'aube, soit au déclin du crépuscule. Cette gemme offre de la compagnie à ceux qui luttent contre les ténèbres dans les grottes que la lumière du soleil ne peut atteindre.",
+        "id": "Material refinement khusus untuk Fading Twilight.\\nCor Lapis yang disempurnakan dengan penuh kehati-hatian oleh seni kuno yang dipraktikkan oleh penduduk The Chasm yang dulu. Bisa memancarkan kilauan cahaya yang mirip dengan cahaya fajar atau cahaya senja. Mungkin bisa memberikan sedikit kenyamanan bagi mereka yang berperang melawan musuh hitam di dalam gua yang tidak pernah disinari oleh cahaya matahari.",
+        "jp": "「落霞」専用の精錬アイテム。\\n層岩巨淵の先祖の古き技法で精巧に磨かれた石珀の宝珠。黎明や夕暮れのような淡い光を放つ。太陽の見えない岩の洞窟で漆黒と戦う人々に、ささやかな安らぎを与えてくれるだろう。",
+        "kr": "「노을」 전용 재련 아이템.\\n층암거연에 살았던 주민의 고대 제작 방식으로 만든 콜 라피스 보주. 어렴풋이 새벽이나 석양 시간에 볼 수 있는 빛을 발산하고 있다. 햇빛이 들지 않는 바위 동굴 속에서 암흑의 적과 전투하는 사람들에게 작은 희망을 선사할 수 있을 것이다",
+        "pt": "Material especializado de Refinamento para o Crepúsculo Desvanecido.\\nCor Lapis delicadamente refinada através de antigas técnicas artísticas pelos primeiros habitantes do Despenhadeiro. Emite uma luz fraca que lembra o primeiro raio de sol ao amanhecer, ou o desvanecimento da luz do dia ao anoitecer. Aparecendo em cavernas que não veem um único raio de sol, deve ter trazido algum conforto para aqueles que vieram aqui para desafiar o inimigo maléfico.",
+        "ru": "Особый материал пробуждения оружия Гаснущие сумерки.\\nКор Ляпис, искусно обработанный по древним технологиям первых жителей Разлома. Он излучает слабый свет, который похож то ли на предрассветное сияние, то ли на затухающие сумерки. В глубоких пещерах, где царит беспросветная тьма, он, должно быть, приносил некоторое утешение тем, кто сражался против зловещих врагов.",
+        "th": "วัสดุขัดเกลาอาวุธสำหรับ \"Fading Twilight\"\\nอัญมณี Cor Lapis ที่ขัดอย่างประณีตด้วยงานฝีมือโบราณของบรรพบุรุษแห่ง Chasm สามารถเปล่งแสงราวกับช่วงรุ่งอรุณและยามตะวันตกดินออกมาได้ บางทีนี่อาจเป็นการปลอบใจเล็กน้อยให้กับผู้ที่ต่อสู้กับศัตรูแห่งความมืดในถ้ำที่มองไม่เห็นแสงตะวันก็ได้ล่ะมั้ง",
+        "vi": "Đạo cụ tinh luyện chuyên dụng của \"Lạc Hà\".\\nThạch phách bảo châu được chế tạo từ công nghệ cổ xưa của cư dân xa xưa ở Vực Đá Sâu. Có thể phát ra tia sáng le lói như ánh bình minh hoặc hoàng hôn. Đối với cư dân ở trong hang đá không thấy ánh mặt trời và luôn chiến đấu với bóng đêm mà nói, có lẽ sẽ mang lại một chút an ủi nhỏ nhoi."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

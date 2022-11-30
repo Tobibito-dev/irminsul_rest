@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Intact Training Dummy",
+        "de": "Vollständiger Holzpfahl",
+        "chs": "完整的木桩",
+        "cht": "完整的木樁",
+        "es": "Maniquí de entrenamiento intacto",
+        "fr": "Mannequin complet",
+        "id": "Boneka Kayu Utuh",
+        "jp": "完全な杭",
+        "kr": "훈련용 말뚝",
+        "pt": "Manequim de Madeira de Treino Intacto",
+        "ru": "Целый тренировочный манекен",
+        "th": "Intact Training Dummy",
+        "vi": "Cọc gỗ hoàn chỉnh"
+    },
+    "id": 100365,
+    "materialDesc": {
+        "en": "An intact training dummy. Very sturdy, perfect for training.",
+        "de": "Ein vollständig intakter Holzpfahl, stabil und unbeschadet, eignet sich gut fürs Training.",
+        "chs": "十分完好的木桩。牢固可靠，很适合用于训练。",
+        "cht": "十分完好的木樁。牢固可靠，很適合用於訓練。",
+        "es": "Un maniquí de entrenamiento intacto. Muy resistente y perfecto para entrenar.",
+        "fr": "Un mannequin intact. Solide et parfait pour l'entraînement.",
+        "id": "Boneka latihan yang masih bagus. Sangat kuat, cocok untuk latihan.",
+        "jp": "形が綺麗な杭。かなり丈夫で、訓練に最適なアイテム。",
+        "kr": "멀쩡한 말뚝. 아주 견고해서 훈련에 적합하다",
+        "pt": "Um manequim de treinamento intacto. Bastante resistente, perfeito para treinamentos.",
+        "ru": "Тренировочный манекен в отличном состоянии. Так и хочется его ударить.",
+        "th": "หุ่นไม้ที่ดีพร้อมและสามารถใช้งานได้อย่างเต็มที่ เหมาะที่จะใช้เพื่อฝึกฝนเป็นอย่างมาก",
+        "vi": "Cọc gỗ hoàn hảo. Vô cùng chắc chắn, rất thích hợp để tập luyện."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

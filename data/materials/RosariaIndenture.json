@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rosaria: Indenture",
+        "de": "Rosaria – Knechtschaft",
+        "chs": "罗莎莉亚·苦役",
+        "cht": "蘿莎莉亞·苦役",
+        "es": "Rosaria - Servidumbre",
+        "fr": "Rosalia - Éternel labeur",
+        "id": "Rosaria: Indenture",
+        "jp": "ロサリア·苦役",
+        "kr": "로자리아·고역",
+        "pt": "Rosaria: Trabalho Forçado",
+        "ru": "Каторга",
+        "th": "Rosaria - Indenture",
+        "vi": "Rosaria - Khổ Sai"
+    },
+    "id": 210063,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe unselfish warmth and goodwill of the people is, to her, a kindness that she must repay, and so it is an indenture that follows her forever.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDie uneigennützige Herzlichkeit und das Wohlwollen der Menschen sind für sie eine Freundlichkeit, die sie zurückzahlen muss, und so ist es eine Verpflichtung, die sie für immer begleitet.",
+        "chs": "名片纹饰。\\n人们无私散出的温暖和善意，在她心里就是必须回报的恩情，因此也是永生伴随她的苦役。",
+        "cht": "名片紋飾。\\n人們無私散出的溫暖和善意，在她心裡就是必須回報的恩情，因此也是永生伴隨她的苦役。",
+        "es": "Diseño de tarjeta de presentación.\\nLa calidez y buena voluntad de las personas que no esperan nada a cambio son, para ella, un acto de generosidad que se debe devolver. Por tanto, esto se convierte en un acto de servidumbre que la sigue a todas partes.",
+        "fr": "Thème.\\nLa bienveillance et la gentillesse désintéressées sont des qualités qui, selon elles, se doivent d'être compensées par un éternel labeur.",
+        "id": "Style kartu nama.\\nKeramahan dan kebaikan orang-orang yang tulus kepadanya, ada suatu hal yang dia rasa harus dibalas. Ini adalah sumpah yang akan dia turuti selamanya.",
+        "jp": "名刺の飾り紋。\\n人々が醸し出す暖かさと優しさは、彼女にとって必ず返さなければいけない恩恵。同時に、彼女に一生付きまとう苦役でもある。",
+        "kr": "명함 스킨.\\n그녀에게 있어 사람들의 사심 없는 따뜻함과 호의는 반드시 보답해야 하는 은혜이며, 평생 그녀를 따라다닐 고역이기도 하다",
+        "pt": "Estilo de Cartão de Visita.\\nO acolhimento altruísta e a boa vontade do povo são, para ela, uma gentileza que deve ser retribuída e, portanto, um compromisso que ela sempre cumprirá.",
+        "ru": "Именная карта.\\nДля неё бескорыстно отдаваемые людьми теплота и дружелюбие - это та доброта, за которую нужно платить, и потому это её личная вечная каторга.",
+        "th": "ลายนามบัตร\\nความอ่อนโยนและความปรารถนาดีที่ไร้ซึ่งความเห็นแก่ตัวของผู้คน คือบุญคุณที่เธอต้องตอบแทน ดังนั้นนี่จึงเป็นสิ่งที่ติดตามตัวเธอไปตลอดชีวิต",
+        "vi": "Hoa văn danh thiếp.\\nSự ấm áp và lòng nhân ái mà con người vị tha tỏa ra chính là lòng tốt cần phải đền đáp trong trái tim cô, vì vậy, đó cũng là gian lao khó khăn mà cuộc sống vĩnh hằng đồng hành cùng cô."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

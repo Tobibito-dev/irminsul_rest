@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Travel Notes: Heavenly General",
+        "de": "Erlebnispass – Himmlischer General",
+        "chs": "纪行·神将",
+        "cht": "紀行·神將",
+        "es": "PB - General celestial",
+        "fr": "PB - Général céleste",
+        "id": "Catatan Perjalanan: Jenderal Langit",
+        "jp": "紀行·神将",
+        "kr": "기행·신장(神將)",
+        "pt": "Passe de Batalha: General Divino",
+        "ru": "Божественный генерал",
+        "th": "บันทึก - แม่ทัพแห่งสรวงสวรรค์",
+        "vi": "Nhật Ký Hành Trình - Thần Tướng"
+    },
+    "id": 210102,
+    "materialDesc": {
+        "en": "Namecard style.\\n\"You were not created to punish evil. But as to what your purpose is... I fear that I, too, do not know.\"",
+        "de": "Ein Motiv für Namenskärtchen.\\n„Du wurdest nicht geschaffen, um das Böse zu bestrafen. Aber was deine Bestimmung ist ... Ich fürchte, dass auch ich es nicht weiß.“",
+        "chs": "名片纹饰。\\n「你的存在意义，可并非恶行罚示哦。至于是什么，小生也不知道。」",
+        "cht": "名片紋飾。\\n「你的存在意義，可並非惡行罰示哦。至於是什麼，小生也不知道。」",
+        "es": "Diseño de tarjeta de presentación.\\n“El sentido de tu existencia no es castigar el mal. ¿Que cuál es? Yo tampoco lo sé”.",
+        "fr": "Thème.\\n« Ce n'est point pour punir le mal que tu as été créé. Mais quel est ton but... Je crains de ne pas le savoir non plus. »",
+        "id": "Style Kartu Nama.\\n\"Kamu tidak diciptakan untuk menghukum kejahatan. Lalu apa tujuanmu ... Sepertinya, aku juga tidak tahu jawabannya\".",
+        "jp": "名刺の飾り紋。\\n「お主の存在意義は、決して悪行罰示などではない。だが、それが一体なんなのか、小生にも分からぬ。」",
+        "kr": "명함 스킨.\\n「그대가 존재하는 의미는 악을 벌하기 위함이 아니오. 뭔지는 나도 잘 모르겠소」",
+        "pt": "Estilo de Cartão de Visita.\\n\"Você não foi criado para punir o mal. Mas quanto ao seu propósito... Temo que também não saiba\".",
+        "ru": "Именная карта.\\n«Ты не был создан для того, чтобы карать зло. Что касается твоего истинного предназначения... боюсь, что я тоже не знаю».",
+        "th": "ลวดลายนามบัตร\\n\"เจ้าไม่ได้ถูกสร้างมาเพื่อลงโทษความชั่วร้าย แต่เพราะสิ่งใดนั้น... ข้าเองก็ไม่รู้เช่นกัน\"",
+        "vi": "Hoa văn danh thiếp.\\n\"Sự tồn tại của bạn không phải để trừng phạt cái ác. Nhưng để làm gì thì tôi đây cũng không biết.\""
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

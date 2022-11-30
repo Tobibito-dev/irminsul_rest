@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Instructor's Brooch",
+        "de": "Ausbilderbrosche",
+        "chs": "教官的胸花",
+        "cht": "教官的胸花",
+        "es": "Broche del Instructor",
+        "fr": "Broche de l'Instructeur",
+        "id": "Instructor's Brooch",
+        "jp": "教官の花飾り",
+        "kr": "교관의 브로치",
+        "pt": "Broche de Instrutor",
+        "ru": "Брошь инструктора",
+        "th": "Instructor's Brooch",
+        "vi": "Hoa Giáo Quan"
+    },
+    "id": 23519,
+    "setId": 10007,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

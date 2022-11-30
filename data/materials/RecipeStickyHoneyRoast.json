@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Sticky Honey Roast",
+        "de": "Rezept: Honigmöhren-Fleischpfanne",
+        "chs": "食谱：蜜酱胡萝卜煎肉",
+        "cht": "食譜：蜜醬胡蘿蔔煎肉",
+        "es": "Receta: Asado a la miel",
+        "fr": "Recette : Délice de viande et carottes au miel",
+        "id": "Resep: Sticky Honey Roast",
+        "jp": "レシピ：ニンジンとお肉のハニーソテー",
+        "kr": "레시피: 허니캐럿그릴",
+        "pt": "Receita: Carne Frita com Cenoura e Mel",
+        "ru": "Рецепт: Медовое мясо с морковкой",
+        "th": "สูตรอาหาร: Sticky Honey Roast",
+        "vi": "Công Thức: Thịt Nướng Mật Ong"
+    },
+    "id": 109205,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Sticky Honey Roast.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Honigmöhren-Fleischpfanne“.",
+        "chs": "步骤详实的食谱，记载着「蜜酱胡萝卜煎肉」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「蜜醬胡蘿蔔煎肉」的製作方法。",
+        "es": "Receta paso a paso para hacer un asado a la miel.",
+        "fr": "Étapes de préparation du délice de viande et carottes au miel.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Sticky Honey Roast.",
+        "jp": "「ニンジンとお肉のハニーソテー」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「허니캐럿그릴」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo da \"Carne Frita com Cenoura e Mel\".",
+        "ru": "Подробный рецепт приготовления блюда «Медовое мясо с морковкой».",
+        "th": "สูตรอธิบายวิธีทำ \"Sticky Honey Roast\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Thịt Nướng Mật Ong\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

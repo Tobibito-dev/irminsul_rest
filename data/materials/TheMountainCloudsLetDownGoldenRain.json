@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Mountain Clouds Let Down Golden Rain",
+        "de": "Von Bergwolken fällt der goldene Regen",
+        "chs": "云山复沓百雨金",
+        "cht": "雲山復沓百雨金",
+        "es": "Lluvia áurea celeste",
+        "fr": "Des nuages de montagne, la pluie dorée tombe",
+        "id": "The Mountain Clouds Let Down Golden Rain",
+        "jp": "花雨に重なる雲山",
+        "kr": "꽃비에 겹치는 구름 산",
+        "pt": "As Nuvens Montanhosas Jorram Chuva Dourada",
+        "ru": "Горные облака роняют чудесный дождь",
+        "th": "เมฆโปรยปรายสายฝนสีทอง",
+        "vi": "Mây Trôi Nghìn Trùng Đón Tiếng Mưa"
+    },
+    "id": 223001,
+    "materialDesc": {
+        "en": "A classic \"cloud blue\" firework that will display its inner-and-outer-segmented design after exploding in mid-air like a profusely-blooming flower.",
+        "de": "Ein klassisches „wolkenblaues“ Feuerwerk, das nach der Explosion in der Luft wie eine üppig blühende Blume seine innere und äußere Form zeigt.",
+        "chs": "「云山蓝」色的经典烟花，升空爆炸后，呈现出内外双层的结构，形如盛开的繁花。",
+        "cht": "「雲山藍」色的經典煙花，升空爆炸後，呈現出內外雙層的結構，形如盛開的繁花。",
+        "es": "Un fuego artificial que, al explotar, forma dos anillos que se asemejan a una hermosa flor.",
+        "fr": "Un feu d'artifice bleu-nuage qui montre ses formes aussi bien intérieures qu'extérieures après avoir explosé dans le ciel comme une fleur qui s'épanouit.",
+        "id": "Kembang api klasik berwarna \"biru awan\" yang setelah meledak di udara akan memperlihatkan desain bagian dalam dan luarnya seperti bunga yang bermekaran.",
+        "jp": "「雲山藍」という名の色を咲かす古典的な花火。打ち上げた後、内と外の二重構造により空に満開の花を咲かす。",
+        "kr": "「청색 운산」색의 전통 폭죽. 하늘로 솟아오르면, 내부 외부의 총 두 겹으로 이루어진 모습이 꼭 활짝 핀 꽃 같다",
+        "pt": "Um fogo de artifício \"azul nuvem\" que ao explodir exibirá sua aparência interior e exterior como uma flor desabrochando.",
+        "ru": "Классический небесно-голубой фейерверк. Когда он взрывается, то образует два кольца, напоминающие красивый цветок.",
+        "th": "ดอกไม้ไฟคลาสสิกสี \"คอปเปอร์ซัลเฟต\" เมื่อแตกตัวแล้ว ก็จะเผยให้เห็นถึงโครงสร้างชั้นในและชั้นนอก ราวกับรูปร่างของดอกไม้ที่กำลังเบ่งบาน",
+        "vi": "Pháo hoa kinh điển có màu Vân Sơn Lam, sau khi bay lên trời cao và nổ tung, sẽ tạo ra kết cấu hai tầng, trông như một đóa hoa đang độ rực rỡ."
+    },
+    "materialType": "MATERIAL_FIREWORKS"
+}

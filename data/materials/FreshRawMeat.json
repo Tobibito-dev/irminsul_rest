@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Raw Meat",
+        "de": "Frisches rohes Fleisch",
+        "chs": "新鲜的兽肉",
+        "cht": "新鮮的獸肉",
+        "es": "Carne cruda fresca",
+        "fr": "Viande crue fraîche",
+        "id": "Raw Meat Segar",
+        "jp": "新鮮な獣肉",
+        "kr": "신선한 짐승고기",
+        "pt": "Carne Crua Fresca",
+        "ru": "Свежее сырое мясо",
+        "th": "Raw Meat สด ๆ",
+        "vi": "Thịt Rừng Tươi"
+    },
+    "id": 100757,
+    "materialDesc": {
+        "en": "Fresh meat rendered from a fresh hunt. It is both firm and tender.",
+        "de": "Rohes Fleisch, das von einer kürzlichen Jagd stammt. Es ist sowohl knackig als auch zart.",
+        "chs": "刚从猎物身上取下的新鲜兽肉，肉质紧实鲜嫩。",
+        "cht": "剛從獵物身上取下的新鮮獸肉，肉質緊實鮮嫩。",
+        "es": "Carne cruda de una presa recién cazada. Es firme y tierna a la vez.",
+        "fr": "Du gibier frais qui vient d'être chassé. Il est ferme et tendre à la fois.",
+        "id": "Daging segar yang dihasilkan dari perburuan segar. Teksturnya padat dan lembut.",
+        "jp": "捕りたての獲物のから得た新鮮な獣肉。ぎっしりしたジューシーな肉質だ。",
+        "kr": "갓 잡은 사냥감에서 얻은 신선한 짐승고기. 육질이 탄탄하고 부드럽다",
+        "pt": "Carne Crua de um Javali. Sua textura é densa e macia.",
+        "ru": "Свежее мясо только что убитой дичи. Оно плотное и нежное.",
+        "th": "Raw Meat สด ๆ ที่เพิ่งเก็บมาจากเหยื่อ คุณภาพของเนื้อทั้งสดใหม่และนุ่มมาก",
+        "vi": "Miếng thịt vừa lấy được từ động vật, trông rất tươi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

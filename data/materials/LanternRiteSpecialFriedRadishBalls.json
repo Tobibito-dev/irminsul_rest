@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lantern Rite Special Fried Radish Balls",
+        "de": "Frittierte Rettichbällchen fürs Laternenritual",
+        "chs": "海灯节特色炸萝卜丸子",
+        "cht": "海燈節特色炸蘿蔔丸子",
+        "es": "Albóndigas de rábano fritas del Rito de la Linterna",
+        "fr": "Boulettes de radis frites façon Festival des lanternes",
+        "id": "Lantern Rite Special Fried Radish Ball",
+        "jp": "海灯祭特別大根の揚げ団子",
+        "kr": "해등절 특별 무완자 튀김",
+        "pt": "Bolinhas de Rabanete Fritas Especial do Ritual de Lanternas",
+        "ru": "Особые редисовые шарики Праздника морских фонарей",
+        "th": "Lantern Rite Special Fried Radish Balls",
+        "vi": "Củ Cải Viên Chiên Đặc Biệt Tết Hải Đăng"
+    },
+    "id": 108216,
+    "materialDesc": {
+        "en": "Traditional cuisine made to celebrate Lantern Rite. Fragrant and crispy. Make sure to eat them while they're hot!",
+        "de": "Eine traditionelle Köstlichkeit zum Anlass des Laternenrituals. Man sollte sie essen, solange sie heiß und knusprig sind.",
+        "chs": "为庆祝海灯节而制作的传统佳肴。有着脆嫩酥香的独特口感，适合趁热吃。",
+        "cht": "為慶祝海燈節而製作的傳統佳餚。有著脆嫩酥香的獨特口感，適合趁熱吃。",
+        "es": "Una comida tradicional típica del Rito de la Linterna. Tienen una textura tierna y crujiente, por lo que lo ideal es comerlas mientras están calientes.",
+        "fr": "Un plat traditionnel de Liyue que l'on cuisine lors du Festival des lanternes. Parfumées et croustillantes, mangez-les tant qu'elles sont chaudes !",
+        "id": "Hidangan tradisional yang dimasak untuk merayakan Lantern Rite. Sangat harum dan garing. Enak sekali jika dimakan selagi masih panas.",
+        "jp": "海灯祭を祝うために作られた伝統料理。柔らかくて香りの良い独特な食感。熱いうちに食べるのがオススメ。",
+        "kr": "해등절을 축하하기 위해 만든 전통 요리. 바삭하고 부드러운 식감으로 뜨거울 때 먹어야 한다",
+        "pt": "Cozinha tradicional feita para celebrar o Ritual de Lanternas. Aroma incrível e crocantes. Coma enquanto ainda está quente!",
+        "ru": "Традиционное блюдо, приготовленное специально для Праздника морских фонарей. Ароматные и хрустящие шарики из редиса. Нужно есть, пока не остыли!",
+        "th": "อาหารสูตรดั้งเดิมที่ทำขึ้นเพื่อฉลองเทศกาล Lantern Rite ที่มีกลิ่นหอมและกรอบอร่อย แนะนำให้ทานตอนที่ยังร้อนด้วยนะ",
+        "vi": "Món ăn truyền thống được làm ra để mừng Tết Hải Đăng. Dòn mềm thơm ngọt, thích hợp ăn nóng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

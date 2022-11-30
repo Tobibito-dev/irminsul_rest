@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Golden Crab",
+        "de": "Leckerer Goldkrebs",
+        "chs": "美味的黄金蟹",
+        "cht": "美味的黃金蟹",
+        "es": "Cangrejo dorado delicioso",
+        "fr": "Crabe doré (délicieux)",
+        "id": "Delicious Golden Crab",
+        "jp": "美味しそうな黄金ガニ",
+        "kr": "맛있는 골든크랩",
+        "pt": "Caranguejo Dourado Delicioso",
+        "ru": "Вкусный золотистый краб",
+        "th": "Golden Crab แสนอร่อย",
+        "vi": "Cua Hoàng Kim Ngon"
+    },
+    "id": 108103,
+    "materialDesc": {
+        "en": "A crab dish cooked in the ancient ways. The aroma of the crab meat inundates the room the instant it leaves the frying pan, and a single bite fills one's palate with the countless rustic flavors of a fishing village hometown. It seems that such simple yet timeless village customs held the secret to this lavish, golden sumptuousness all along.",
+        "de": "Ein Krebsfleischgericht, das auf traditionelle Weise zubereitet wird. Der Duft des Krebsfleischs ist noch meilenweit zu riechen. Hat man das Glück, es zu probieren, findet man sich in einem Fischerdorf wieder, in dem dieser ursprüngliche und doch luxuriöse Geschmack Teil einer ländlichen Kultur ist und das Gefühl von Geborgenheit vermittelt.",
+        "chs": "古法烹制的蟹肉料理。蟹肉出锅即飘香千里，浅尝一口，唇齿间便满是水乡渔村的万种风情，原来黄金的极度奢华，就藏于古朴隽永的文化之中。",
+        "cht": "古法烹製的蟹肉料理。蟹肉出鍋即飄香千里，淺嘗一口，唇齒間便滿是水鄉漁村的萬種風情，原來黃金的極度奢華，就藏於古樸雋永的文化之中。",
+        "es": "Un plato de cangrejo cocinado a la antigua usanza. El aroma a cangrejo inunda la habitación al instante en el que sale de la sartén. Un solo bocado es suficiente para sentir en el paladar la insondable y conmovedora belleza de un típico pueblo pesquero. Parece que la dorada opulencia de este plato se debe nada más y nada menos que a su sencillez.",
+        "fr": "Un plat de crabe cuisiné à l'ancienne qui ne vole pas son nom. La viande de crabe dégage un arôme qui embaume toute la pièce dès qu'elle quitte la poêle. Une bouchée suffit à nous transporter dans un village de pêcheurs. Après tout, le bonheur réside dans la simplicité.",
+        "id": "Sebuah masakan kepiting dimasak dengan cara kuno. Aroma daging kepiting langsung menyebar ke seluruh ruangan ketika diangkat dari penggorengan, satu gigitan dapat memuaskan selera seseorang dengan berbagai rasa yang tak bisa dilukiskan dari kota kelahiran desa nelayan. Tampaknya adat istiadat sebuah desa yang sederhana namun tak lekang oleh waktu adalah rahasia dari rasa ini.",
+        "jp": "古いレシピ通りに作られたカニ料理。遠くからでも分かるカニの香り、一口食べてみるとその潮の香りが口に広がり、黄金のような華やかさと長く伝わる文化の美を体験できる一品。",
+        "kr": "옛 방식대로 만든 게살 요리. 요리의 향이 천리 밖까지 퍼지며, 한입 베어 물면 어촌의 향기가 입안 가득 퍼지면서 황금의 화려함이 소박하고 심오한 문화 속에 숨겨져 있다는 걸 깨닫게 된다",
+        "pt": "Um prato de caranguejo cozido à moda antiga. O aroma da carne de caranguejo inunda a sala no instante em que sai da frigideira, e uma única mordida enche o paladar com os inúmeros sabores rústicos de uma cidade natal de uma vila de pescadores. Parece que costumes tão simples, mas atemporais, da vila mantinham em segredo esse luxo suntuoso e dourado o tempo todo.",
+        "ru": "Блюдо из краба, приготовленное по древнему рецепту. Как только вы снимаете сковороду с огня, аромат крабового мяса разлетается по всему дому. Один укус заполняет вас палитрой бесчисленных ароматов рыбацкой деревни. Кажется, что такие простые, но в то же время не подвластные времени, деревенские традиции издревле скрывали секрет великолепия этого блюда.",
+        "th": "เมนูปูสูตรโบราณ เนื้อปูที่ออกจากเตาแล้ว ส่งกลิ่นหอมไปทั่ว เมื่อลิ้มรสแล้ว ในปากเต็มไปด้วยรสชาติวิถีชีวิตอันหลากหลาย ของหมู่บ้านชาวประมง ความหรูหราของทองคำนั้น ที่แท้ซ่อนอยู่ในวัฒนธรรมโบราณอันลึกซึ้งนี่เอง",
+        "vi": "Món cua nấu theo cách cổ xưa. Thịt cua vừa hoàn thành đã có hương thơm ngàn dặm, ngâm nhi một chút sẽ cảm nhận được phong cảnh làng cá. Thì ra giá trị đắt đỏ của nó nằm ở giá trị văn hóa mộc mạc xa xưa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

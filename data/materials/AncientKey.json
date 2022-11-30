@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Key",
+        "de": "Uralter Schlüssel",
+        "chs": "陈旧的钥匙",
+        "cht": "陳舊的鑰匙",
+        "es": "Llave antigua",
+        "fr": "Clé ancienne",
+        "id": "Kunci Kuno",
+        "jp": "古びた鍵",
+        "kr": "낡은 열쇠",
+        "pt": "Chave Antiga",
+        "ru": "Потёртый ключ",
+        "th": "กุญแจเก่าแก่",
+        "vi": "Chìa Khóa Cũ Kỹ"
+    },
+    "id": 120031,
+    "materialDesc": {
+        "en": "A key stolen by a Masked Weasel. If there is a key, then there must be a lock that matches it. But what would an abandoned hospital still have to hide?",
+        "de": "Ein von Maskenmardern gestohlener Schlüssel. Da es einen Schlüssel gibt, sollte es auch ein dazugehöriges Schloss geben. Dieses Krankenhaus wurde eindeutig schon lange verlassen, aber was könnte sich hier noch verbergen?",
+        "chs": "被面具鼬偷走的钥匙。既然有钥匙那么就有对应的锁，明明这座医院已经被废弃，却还要隐藏起来的东西，会是什么呢？",
+        "cht": "被面具鼬偷走的鑰匙。既然有鑰匙那麼就有對應的鎖，明明這座醫院已經被廢棄，卻還要隱藏起來的東西，會是什麼呢？",
+        "es": "Una llave que robó un hurón enmascarado. Si existe una llave, debe haber una cerradura que le corresponda. Es obvio que este hospital ha estado abandonado desde hace mucho tiempo, ¿pero qué más podría esconder?",
+        "fr": "Une clé qui a été volée par une belette masquée. S'il y a une clé, alors il doit y avoir une serrure qui lui correspond. Mais qu'est-ce qu'un hôpital abandonné peut bien receler ?",
+        "id": "Kunci yang dicuri oleh Masked Weasel. Kalau ada kuncinya, pasti ada gembok yang cocok dengannya. Jelas-jelas rumah sakit ini sudah ditinggalkan, tapi kenapa ia masih perlu benda yang disembunyikan?",
+        "jp": "仮面イタチに盗まれた鍵。鍵があるならば、それに応じた錠があるはず。だが、この廃病院で、そうまでして隠す必要のあったものとは一体何だろう？",
+        "kr": "가면 족제비가 훔쳐 간 열쇠. 열쇠에는 열쇠와 딱 맞는 자물쇠가 있다. 폐병원에 숨겨진 물건이 있다면 그건 대체 뭘까?",
+        "pt": "Uma chave roubada por um Furão Ladrão. Se há uma chave, então há uma fechadura. Esse hospital claramente foi abandonado, e está escondendo algo. O que será?",
+        "ru": "Ключ, украденный хорьком в маске. Если есть ключ, то должен быть и замок. Но что может скрываться в заброшенной больнице?..",
+        "th": "กุญแจที่ถูก Masked Weasel ขโมยไป หากมีกุญแจอยู่ ก็ต้องมีล็อกที่สอดคล้องกันอยู่ด้วยแน่ แม้โรงพยาบาลแห่งนี้จะถูกทิ้งร้างไปแล้ว แต่กลับยังมีสิ่งของที่ถูกซ่อนอยู่ มันจะเป็นอะไรกันนะ?",
+        "vi": "Chìa khóa bị Chồn Mặt Nạ đánh cắp. Có chìa khóa thì sẽ có ổ khóa tương ứng, rõ ràng bệnh viện này đã bị bỏ hoang, nhưng vẫn che giấu thứ gì đó, đó là gì chứ?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

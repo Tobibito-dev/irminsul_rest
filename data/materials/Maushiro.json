@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Maushiro",
+        "de": "Maushiro",
+        "chs": "木簧笛",
+        "cht": "木簧笛",
+        "es": "Maushiro",
+        "fr": "Maushiro",
+        "id": "Maushiro",
+        "jp": "マウシロ",
+        "kr": "마우시로",
+        "pt": "Maushiro",
+        "ru": "Маусиро",
+        "th": "Maushiro",
+        "vi": "Maushiro"
+    },
+    "id": 100952,
+    "materialDesc": {
+        "en": "The item that Sumida sent you to find.\\nThis Maushiro appears to have been left behind by someone before they left Tsurumi Island.\\nAccording to what Ruu tells you, the Maushiro are not musical instruments. Instead, they were used by the locals as a means of locating one another amidst the fog that shrouded their home.",
+        "de": "Der Gegenstand, den du für Sumida finden sollst. \\nDiese Maushiro scheint von jemandem zurückgelassen worden zu sein, bevor er die Insel Tsurumi verlassen hat.\\nNach dem, was Ruu dir erzählt hat, sind die Maushiro keine Musikinstrumente. Stattdessen wurden sie von den Einheimischen benutzt, um sich in dem Nebel, der ihre Heimat umhüllte, gegenseitig zu orten.",
+        "chs": "墨田委托你寻找的物品。\\n似乎是某人离开鹤观前，留下的木簧笛。\\n依照阿瑠的说法，木簧笛并不是乐器，而是鹤观生活在迷雾中的人们，定位同伴的道具。",
+        "cht": "#墨田委託{F#妳}{M#你}尋找的物品。\\n似乎是某人離開鶴觀前，留下的木簧笛。\\n依照阿瑠的說法，木簧笛並不是樂器，而是鶴觀生活在迷霧中的人們，定位同伴位置的道具。",
+        "es": "El objeto que Sumida te encomendó encontrar.\\nParece que alguien lo dejó atrás antes de marcharse de la Isla Tsurumi.\\nSegún Ruu, el maushiro no es un instrumento musical, sino una herramienta que los nativos de Tsurumi utilizan para encontrar a sus compañeros entre la niebla.",
+        "fr": "L'objet que Sumida vous a envoyé chercher.\\nCe maushiro semble avoir été laissé par une personne avant son départ de l'Île de Tsurumi.\\nSelon Ruu, les maushiro ne sont pas des instruments de musique. Les habitants de l'île s'en servent pour indiquer leur position dans le brouillard.",
+        "id": "Sumida memintamu untuk mencari benda ini.\\nSepertinya Maushiro ini ditinggalkan seseorang sebelum mereka pergi dari Pulau Tsurumi.\\nMenurut cerita Ruu, Maushiro bukan sebuah alat musik. Melainkan sebuah alat yang digunakan orang lokal untuk menemukan satu sama lain di tengah kabut yang menyelimuti rumah mereka.",
+        "jp": "墨田に頼まれた探し物。\\nある人が鶴観を離れた時に残したものらしい。\\nルーによると、マウシロは楽器ではなく、鶴観の謎の霧の中で暮らす人々が仲間の居場所を特定するための道具である。",
+        "kr": "스미다가 찾아달라고 의뢰한 물품.\\n누군가 츠루미를 떠나기 전에 남긴 마우시로인 것 같다.\\n류의 말에 따르면 나무피리는 악기가 아니라, 츠루미의 안갯속에서 사는 사람들이 서로의 위치를 확인하기 위해 사용하는 도구라고 한다",
+        "pt": "O item que Sumida te mandou procurar.\\nEssa Maushiro parece ter sido deixada para trás por alguém antes de terem saído da Ilha Tsurumi.\\nSegundo o que Ruu te contou, a Maushiro não é um instrumento musical. Na verdade, eram usadas pelos habitantes como uma forma de se localizarem em meio ao nevoeiro que cobria seu lar.",
+        "ru": "Предмет, который поручила вам найти Сумида.\\nПохоже, кто-то оставил эту маусиро перед тем, как покинуть остров Цуруми.\\nПо словам Ру, маусиро не является музыкальным инструментом. Она использовалась местными жителями для определения местонахождения друг друга в тумане.",
+        "th": "สิ่งที่ Sumida ขอให้คุณตามหา\\nดูเหมือนจะเป็น Maushiro ที่ใครบางคนทิ้งไว้ก่อนที่จะออกจากเกาะ Tsurumi\\nจากคำพูดของ Ruu แล้ว Maushiro นั้นไม่ใช่เครื่องดนตรี แต่กลับเป็นอุปกรณ์ที่ผู้คนซึ่งต้องใช้ชีวิตอยู่ท่ามกลางหมอกอันหนาทึบของเกาะ Tsurumi ใช้เพื่อระบุตำแหน่งของพวกเดียวกัน",
+        "vi": "Vật phẩm mà Sumida nhờ bạn tìm.\\nHình như là Maushiro mà ai đó đã để lại trước khi rời khỏi Đảo Tsurumi.\\nTheo cách nói của Ruu, Maushiro không phải nhạc cụ, mà là đạo cụ dùng để định vị bạn đồng hành của những người sống trong màn sương ở Đảo Tsurumi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

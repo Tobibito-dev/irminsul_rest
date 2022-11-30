@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rock Garden Carving Tools",
+        "de": "Steinmetzwerkzeug für den Steingarten",
+        "chs": "假山雕刻工具",
+        "cht": "假山雕刻工具",
+        "es": "Brocha para rocallas",
+        "fr": "Outils de sculpture pour jardin de rocaille",
+        "id": "Alat Pahat Taman Batu",
+        "jp": "築山彫刻道具",
+        "kr": "가산 조각 도구",
+        "pt": "Cinzel para Jardim de Rochas",
+        "ru": "Инструмент для работы с рокарием",
+        "th": "เครื่องมือแกะสลักหินประดับสวน",
+        "vi": "Công Cụ Điêu Khắc Hòn Non Bộ"
+    },
+    "id": 101843,
+    "materialDesc": {
+        "en": "Carving tools that you found on the Inazuma-style mountains. You might be able to use them to carve the base materials you have into a rock garden.",
+        "de": "Ein Steinmetzwerkzeug, das in den für Inazuma typischen Bergen aufgetaucht ist. Es sieht aus, als könne es zum Modellieren von Steinmaterial für den Steingarten verwendet werden.",
+        "chs": "雕刻工具，出现在稻妻风格的山体上。或许可以用它将石料雕刻成假山。",
+        "cht": "雕刻工具，出現在稻妻風格的山體上。或許可以用它將石料雕刻成假山。",
+        "es": "Una herramienta de esculpido que apareció en las montañas características de Inazuma. Quizá pueda usarse para arreglar rocallas.",
+        "fr": "Des outils de sculpture que vous avez trouvés dans des montagnes qui ressemblent à celles d'Inazuma. Ils vous seront utiles pour travailler la pierre.",
+        "id": "Alat pahat yang muncul di pegunungan bergaya Inazuma. Benda ini mungkin bisa digunakan untuk mengukir bahan dasar yang dimiliki menjadi taman batu.",
+        "jp": "稲妻風の築山で使われる彫刻道具。石を彫って築山を作るのに使えるかもしれない。",
+        "kr": "이나즈마 테마의 산에서 찾을 수 있는 조각 도구. 석재를 가산으로 조각하는 데 사용할 수 있다",
+        "pt": "Ferramenta de esculpimento que você encontrou nas montanhas no estilo de Inazuma. Você talvez possa usá-la para esculpir a matéria-prima que possui em um jardim de pedra.",
+        "ru": "Инструмент для работы с рокарием. Этот инструмент вы нашли в горах в стиле Инадзумы. Возможно, вы сможете использовать его для создания камней для рокария из имеющихся у вас материалов.",
+        "th": "เครื่องมือตกแต่งที่พบบนภูเขาสไตล์ Inazuma บางทีมันอาจจะใช้ตกแต่งหินให้เป็นหินประดับสวนได้นะ",
+        "vi": "Công cụ điêu khắc, xuất hiện trên những ngọn núi mang phong cách Inazuma. Có lẽ có thể dùng nó để điêu khắc hòn non bộ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

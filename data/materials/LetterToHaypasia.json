@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Letter to Haypasia",
+        "de": "Brief an Haypasia",
+        "chs": "给海芭夏的信",
+        "cht": "給海芭夏的信",
+        "es": "Carta para Haypasia",
+        "fr": "Lettre pour Haypasia",
+        "id": "Surat untuk Haypasia",
+        "jp": "ハイパシアへの手紙",
+        "kr": "하이파시아에게 보내는 편지",
+        "pt": "Carta para Haypasia",
+        "ru": "Письмо Хайпасии",
+        "th": "จดหมายที่เขียนถึง Haypasia",
+        "vi": "Thư Gửi Haypasia"
+    },
+    "id": 101926,
+    "materialDesc": {
+        "en": "A letter from Tighnari to Haypasia. In the letter, Tighnari explains your identity and situation after coming to Sumeru and requests that Haypasia help clear up your doubts.",
+        "de": "#Ein Brief, den Tighnari an Haypasia geschrieben hat. In dem Brief stellt Tighnari {F#die Reisende}{M#den Reisenden} vor und erklärt die Situation nach {F#ihrer}{M#seiner} Ankunft in Sumeru. Er drückt darin auch klar aus, dass er hofft, Haypasia könne {F#der Reisenden}{M#dem Reisenden} bei der Beantworung {F#ihrer}{M#seiner} Fragen behilflich sein.",
+        "chs": "提纳里写给海芭夏的信，信中简要介绍了旅行者身份与来到须弥后的种种情况，并言明希望她能为旅行者答疑解惑。",
+        "cht": "提納里寫給海芭夏的信，信中簡要介紹了旅行者身分與來到須彌後的種種情況，並言明希望她能為旅行者答疑解惑。",
+        "es": "Una carta que escribió Tignari para Haypasia. En la carta, Tignari explica quién eres y todo lo ocurrido desde que llegaste a Sumeru, y solicita a Haypasia que te ayude a aclarar tus dudas.",
+        "fr": "Une lettre de Tighnari destinée à Haypasia. Dans cette lettre, Tighnari vous présente et raconte les détails de votre situation après votre arrivée à Sumeru avant de demander à Haypasia de vous aider à répondre à toutes vos interrogations.",
+        "id": "Surat dari Tighnari untuk Haypasia. Di dalam surat tersebut, Tighnari menjelaskan identitas dan situasimu datang ke Sumeru dan meminta agar Haypasia membantu mencerahkan keraguanmu.",
+        "jp": "ティナリがハイパシアに書いてくれた手紙。旅人の身分とスメールに来てからの状況を要約してある。旅人の質問に答えてあげて欲しいという内容もあった。",
+        "kr": "타이나리가 하이파시아에게 쓴 편지. 여행자에 대한 궁금증을 풀어줄 수 있길 바라며 여행자의 신분과 수메르에 도착한 뒤 있었던 일들을 간략하게 적었다",
+        "pt": "#A carta escrita por Tighnari para Haypasia, onde ele lhe apresentou {M#o}{F#a} Viajante e falou de várias situações ocorridas depois dele ter chegado a Sumeru. Além disso, ele também lhe pediu para tirar algumas dúvidas d{M#o}{F#a} Viajante.",
+        "ru": "Письмо Хайпасии от Тигнари. В письме он кратко представляет вас Хайпасии, рассказывает обо всём, что случилось с вами после прибытия в Сумеру, и выражает надежду, что Хайпасия сможет ответить на ваши вопросы.",
+        "th": "จดหมายที่ Tighnari เขียนถึง Haypasia ด้านในมีการเขียนแนะนำตัวและบอกเล่าถึงสถานการณ์ต่าง ๆ หลังจากที่นักเดินทางมาถึง Sumeru แล้ว และคาดหวังว่าเธอจะสามารถตอบคำถามและข้อสงสัยของนักเดินทางได้",
+        "vi": "Thư Tighnari viết cho Haypasia, bức thư giới thiệu ngắn gọn danh tính của Nhà Lữ Hành và các tình huống khác nhau sau khi đến Sumeru, đồng thời bày tỏ hy vọng rằng cô có thể trả lời các câu hỏi của Nhà Lữ Hành."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

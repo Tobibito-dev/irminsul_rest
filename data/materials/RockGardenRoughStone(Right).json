@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rock Garden Rough Stone (Right)",
+        "de": "Steingarten-Rohling (rechts)",
+        "chs": "假山原石（右）",
+        "cht": "假山原石（右）",
+        "es": "Piedra para rocalla (derecha)",
+        "fr": "Cailloux bruts de jardin (droite)",
+        "id": "Batu Kasar Taman Batu (Kanan)",
+        "jp": "築山原岩（右）",
+        "kr": "가산 원석 (우)",
+        "pt": "Pedra Áspera do Jardim de Rochas (Direita)",
+        "ru": "Камень рокария (правый)",
+        "th": "หินกรวดสวน (ขวา)",
+        "vi": "Đá Hòn Non Bộ (Phải)"
+    },
+    "id": 101841,
+    "materialDesc": {
+        "en": "Mountain rocks. They look suited in all ways to be used as base materials from which to carve rocks for the bonsai's right side.",
+        "de": "Bergfelsen. Ein in jeder Hinsicht als Fels für die rechte Seite der Miniaturlandschaft geeigneter Naturstein.",
+        "chs": "山间的石块。各方面来看都很适合作为盆景右侧山石的雕刻用原料。",
+        "cht": "山間的石塊。各方面來看都很適合作為盆景右側山石的雕刻用原料。",
+        "es": "Una piedra que yacía entre las  montañas. Se mire por donde se mire, es perfecta para grabarla y usarla como piedra ornamental en el lado derecho del bonsái.",
+        "fr": "Des pierres de montagne. Elles semblent parfaites pour tailler un ornement à placer sur le côté droit du bonsaï.",
+        "id": "Batuan pegunungan. Dilihat dari berbagai aspek, batu ini sangat cocok digunakan sebagai bahan baku ukiran batu di sisi kanan bonsai.",
+        "jp": "山から採った石。あらゆる面において、盆景の右側に配置する石の彫刻材として適している。",
+        "kr": "산에서 수집한 돌덩이. 분재 오른쪽 산석의 조각용 원료로 사용하는 데 매우 적합하다",
+        "pt": "Uma pedra das montanhas. Parece ser ideal para ser usada como matéria-prima para esculpir rochas para o lado direito do bonsai.",
+        "ru": "Горный камень. Во всех отношениях подходит в качестве базового материала при изготовлении камней для правой стороны бонсая.",
+        "th": "หินจากในภูเขา ดูเหมาะสมที่จะนำไปใช้เป็นวัสดุพื้นฐานในการแกะสลักหินฝั่งด้านขวาของกระถางบอนไซ",
+        "vi": "Đá trên núi. Về mọi mặt, nó rất thích hợp làm nguyên liệu để chạm khắc hòn non bộ bên phải chậu bonsai."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

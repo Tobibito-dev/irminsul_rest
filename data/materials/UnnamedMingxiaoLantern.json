@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Unnamed Mingxiao Lantern",
+        "de": "Mingxiao-Laterne ohne Namen",
+        "chs": "未署名的明霄灯",
+        "cht": "未署名的明霄燈",
+        "es": "Linterna mingxiao sin firma",
+        "fr": "Lanterne Mingxiao sans nom",
+        "id": "Lentera Mingxiao Tak Bernama",
+        "jp": "名前の無い明霄の灯",
+        "kr": "서명 안 한 명소등",
+        "pt": "Lanterna Celeste Sem Assinatura",
+        "ru": "Неподписанный лунный фонарь",
+        "th": "โคม Mingxiao ของคนนิรนาม",
+        "vi": "Đèn Minh Tiêu chưa ký tên"
+    },
+    "id": 100724,
+    "materialDesc": {
+        "en": "\"I wish for good fortune...\"",
+        "de": "„Ich hoffe, dass nichts Schlimmes passieren wird.“",
+        "chs": "「希望一切顺利…」",
+        "cht": "「希望一切順利…」",
+        "es": "“Que todo vaya bien...”",
+        "fr": "« Je prie que tout se passe bien... »",
+        "id": "\"Semoga semua hal lancar...\"",
+        "jp": "「全てが上手くいくように…」",
+        "kr": "「모든 게 순조롭길…」",
+        "pt": "\"Espero que tudo corra bem...\"",
+        "ru": "«Желаю, чтобы у всех всё сложилось хорошо...»",
+        "th": "\"ขอให้ทุกอย่างผ่านไปได้ด้วยดี...\"",
+        "vi": "\"Mong mọi việc thuận lợi...\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

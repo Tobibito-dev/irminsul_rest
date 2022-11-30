@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amber",
+        "de": "Amber",
+        "chs": "安柏",
+        "cht": "安柏",
+        "es": "Amber",
+        "fr": "Amber",
+        "id": "Amber",
+        "jp": "アンバー",
+        "kr": "엠버",
+        "pt": "Amber",
+        "ru": "Эмбер",
+        "th": "Amber",
+        "vi": "Amber"
+    },
+    "id": 1021,
+    "materialDesc": {
+        "en": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+        "de": "Ein Mädchen voller Lebenskraft und gleichzeitig die beste, wenn auch einzig verbliebene, Kundschafterin des Ordo Favonius.",
+        "chs": "永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。",
+        "cht": "永遠充滿活力的女孩，騎士團最優秀、同時也是最後的偵察騎士。",
+        "es": "Siempre enérgica y llena de vida, Amber es la mejor Exploradora de los Caballeros de Favonius, aunque también es la única...",
+        "fr": "Une jeune fille pleine d'énergie. Elle est la seule et unique Éclaireuse de l'Ordre de Favonius.",
+        "id": "Gadis periang yang selalu energik dan penuh semangat. Amber adalah Outrider terbaik (dan juga satu-satunya) di Knights of Favonius.",
+        "jp": "元気満々な女の子、騎士団で最も優秀で、最後の偵察騎士である。",
+        "kr": "항상 활력이 넘치는 여자아이. 기사단에서 가장 우수한 최후의 정찰 기사다",
+        "pt": "Sempre energética e cheia de vida, a Amber é a melhor, mas também a última Aventureira dos Cavaleiros de Favonius.",
+        "ru": "Энергичная и весёлая Эмбер. Лучший и единственный скаут Ордо Фавониус.",
+        "th": "เด็กสาวผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ ยอดฝีมือแห่งกองอัศวินและเป็นอัศวินลาดตระเวนคนสุดท้าย",
+        "vi": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

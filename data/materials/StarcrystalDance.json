@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starcrystal Dance",
+        "de": "Tanz der funkelnden Sterne",
+        "chs": "星晶之舞",
+        "cht": "星晶之舞",
+        "es": "Danza estrellada",
+        "fr": "Fragment d'étoile",
+        "id": "Starcrystal Dance",
+        "jp": "星晶の舞",
+        "kr": "별수정의 춤",
+        "pt": "Dança do Cristal Estelar",
+        "ru": "Танец звёзд",
+        "th": "Starcrystal Dance",
+        "vi": "Vũ Điệu Tinh Thể"
+    },
+    "id": 200243,
+    "materialDesc": {
+        "en": "When a character obtains an Elemental Shard created by a Geo Elemental Reaction, a small shockwave will be unleashed that will deal 500% of that character's ATK as DMG to nearby opponents. Additionally, all characters in the party gain a 40% Geo DMG Bonus for 10s after this effect is triggered. These effects can be triggered once every 5s and this CD is shared between all party members.",
+        "de": "Erzeugt beim Erhalten von durch Geo-Reaktionen entstehenden Splittern durch die Figur eine kleine Druckwelle, die Gegnern in der Umgebung Schaden basierend auf 500 % des ANG der Figur zufügt. Erhöht den Geo-Schaden aller Truppenmitglieder nach dem Auslösen dieses Effekts 10 s lang um 40 %. 5 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色获得岩元素反应产生的晶片时，会释放小型冲击波，基于该角色的攻击力的500%对周围的敌人造成伤害。此外，触发该效果后的10秒内，队伍中所有角色获得40%岩元素伤害加成。该效果每5秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色獲得岩元素反應產生的晶片時，會釋放小型衝擊波，基於該角色的攻擊力的500%對周圍的敵人造成傷害。此外，觸發該效果後的10秒內，隊伍中所有角色獲得40%岩元素傷害加成。該效果每5秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Cuando el personaje obtiene un fragmento creado mediante una Reacción Elemental, se genera una pequeña onda de choque que inflige a los enemigos cercanos un daño basado en el 500% del ATQ de ese personaje. Además, tras activar este efecto, todos los miembros del equipo obtienen un 40% de Bono de Daño Geo durante 10 s. Este efecto puede activarse una vez cada 5 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'un personnage obtient un fragment élémentaire créé par une réaction Géo, il libère une petite onde de choc, infligeant des DGT aux ennemis proches équivalant à 500 % de son ATQ. De plus, tous les personnages de l'équipe bénéficient d'un bonus de DGT Géo de 40 % pendant 10 s. Cet effet peut être déclenché une fois toutes les 5 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Saat Karakter memperoleh Elemental Shard dari Reaksi Crystallize, akan melancarkan serangan gelombang kecil ke musuh di sekitar, mengakibatkan DMG sebesar 500% ATK Karakter yang memicu. Selain itu, seluruh anggota party memperoleh 40% Geo DMG Bonus selama 10 detik setelah efek terpicu. Efek ini dapat terpicu setiap 5 detik, dan CD efek berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターが岩元素反応で生成した欠片を獲得すると、小さな衝撃波を発動し、キャラクター攻撃力の500%分周囲の敵にダメージを与える。また、この効果を発動した後の10秒内、チーム全員の岩元素ダメージ+40%。この効果は5秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 바위 원소 반응으로 만들어진 결정 조각 획득 시 작은 충격파를 방출해 주변의 적에게 캐릭터 공격력 500%의 피해를 입힌다. 또한, 해당 효과 발동 후 10초 동안 파티 내 모든 캐릭터가 바위 원소 피해 보너스를 40% 획득한다. 해당 효과는 5초마다 1회 발동되며 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Quando um Personagem obtém um Fragmento Elemental criado por uma Reação Geo Elemental, uma pequena Onda de Choque será desencadeada e infligirá Dano baseado em 500% do ATQ do Personagem em oponentes próximos. Além disso, todos os Personagens da Equipe ganham 40% de Bônus de Dano Geo por 10s. Esses efeitos podem ser ativado uma vez a cada 5s e o Tempo de Recarga é compartilhado entre todos os membros da Equipe.",
+        "ru": "Когда персонаж поднимает элементальный осколок, созданный элементальной реакцией Гео, возникает небольшая ударная волна, которая наносит окружающим врагам урон в 500% от силы атаки персонажа. Кроме того, все члены отряда на 10 сек. получают 40% бонус Гео урона. Эффект возникает раз в 5 сек. Время отката общее для всех членов отряда.",
+        "th": "เมื่อตัวละครได้รับเศษเสี้ยวที่เกิดจากปฏิกิริยาธาตุหิน จะปล่อยคลื่นกระแทกขนาดเล็กออกมา สร้างความเสียหายให้กับศัตรูโดยรอบเป็น 500% ของพลังโจมตีของตัวละครดังกล่าว นอกจากนั้นภายใน 10 วินาที หลังจากที่เกิดเอฟเฟกต์นี้ ตัวละครทั้งหมดในทีมจะได้รับโบนัสความเสียหายหิน 40% โดยที่เอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 5 วินาที และตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Khi nhân vật nhận được mảnh tạo ra bởi phản ứng nguyên tố nham sẽ phát ra sóng xung kích nhỏ, gây sát thương cho kẻ địch xung quanh dựa trên 500 tấn công của nhân vật này. Ngoài ra, trong 10s sau khi kích hoạt hiệu ứng này, tất cả nhân vật trong đội sẽ nhận 40% buff sát thương nguyên tố nham. Hiệu ứng này mỗi 5s kích hoạt một lần, tất cả nhân vật trong đội đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

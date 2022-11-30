@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mitachurl Loot",
+        "de": "Beute von Mitachurlen",
+        "chs": "丘丘人暴徒战利品",
+        "cht": "丘丘人暴徒戰利品",
+        "es": "Botín de Mitachurl",
+        "fr": "Trophée de Brutoviandu",
+        "id": "Barang dari Mitachurl",
+        "jp": "ヒルチャール·暴徒戦利品",
+        "kr": "츄츄 폭도 전리품",
+        "pt": "Loot de Mitachurls",
+        "ru": "Добыча с митачурла",
+        "th": "ของที่ระลึกจากชัยชนะของ Mitachurl",
+        "vi": "Chiến lợi phẩm từ bạo đồ Hilichurl"
+    },
+    "id": 100517,
+    "materialDesc": {
+        "en": "A trophy taken from a Mitachurl. It seems to be capable of producing a very loud sound, but that probably won't be enough to shake a certain group of people free of their arrogance.",
+        "de": "Beute, die du von einem besiegten Mitachurl erhalten hast. Sieht so aus, als könnte man damit Töne erzeugen. So kräftig man auch hineinblies, die Arroganz geiwsser Personen lässt sich damit nicht wegblasen.",
+        "chs": "从丘丘人暴徒身上拿到的战利品，看起来似乎能吹出很响的声音，不过，应该也无法把某些人从傲慢之心中吹醒。",
+        "cht": "從丘丘人暴徒身上拿到的戰利品，看起來似乎能吹出很響的聲音，不過，應該也無法把某些人從傲慢之心中吹醒。",
+        "es": "Un trofeo tomado de un Mitachurl. Al parecer, es capaz de producir un sonido muy fuerte, pero quizás no sea suficiente para sacudir y sacar a un cierto grupo de personas de su arrogancia.",
+        "fr": "Un butin trouvé sur un Brutoviandu. Cet objet peut produire un son assourdissant, mais pas assez pour dissuader les plus arrogants...",
+        "id": "Barang yang dijatuhkan oleh Mitachurl. Sepertinya bisa menghasilkan suara yang nyaring, tapi rasanya tidak cukup untuk menyadarkan orang dari kesombongannya.",
+        "jp": "ヒルチャール·暴徒から取った戦利品。大きな音を出せるようだが、傲慢に浸っている一部の人を呼び起こすことはできないだろう。",
+        "kr": "츄츄 폭도한테서 얻은 전리품. 불면 큰 소리를 낼 수 있을 것 같지만, 오만한 사람들의 마음을 깨울 순 없을 것 같다",
+        "pt": "Um troféu retirado de um Mitachurl. Parece ser capaz de produzir um som muito alto, mas isso provavelmente não será suficiente para livrar um certo grupo de pessoas de sua arrogância.",
+        "ru": "Добыча, полученная после победы над митачурлом. Кажется, что она способна издавать очень громкий звук, но этого, вероятно, будет недостаточно, чтобы избавить определённую группу людей от их высокомерия.",
+        "th": "ของที่ระลึกจากชัยชนะที่เอามาจาก Mitachurl ดูเหมือนจะสามารถเป่าเสียงที่ดังกังวานออกมาได้ แต่คงไม่มีทางจะปลุกบางคนให้ตื่น จากความโอหังได้",
+        "vi": "Chiến lợi phẩm được lấy từ bạo đồ Hilichurl, dường như có thể thổi ra âm thanh. Thế nhưng đối với một số người, âm thanh này khó có thể xóa bỏ sự ngạo mạn trong họ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

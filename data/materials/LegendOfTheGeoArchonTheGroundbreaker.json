@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Legend of the Geo Archon: The Groundbreaker",
+        "de": "Legende des Geo-Archons: Gott des Aufbruchs",
+        "chs": "岩神传说：开拓之神",
+        "cht": "岩神傳說：開拓之神",
+        "es": "Leyenda del Arconte Geo: El patrono de los pioneros",
+        "fr": "Légende de l'Archon Géo - Le Dieu des colons",
+        "id": "Legenda Archon Geo: Pemisah Daratan",
+        "jp": "岩神の伝説：開拓の神",
+        "kr": "바위 신의 전설: 개척의 신",
+        "pt": "Lenda do Arconte Geo: Deus do Desenvolvimento",
+        "ru": "Легенда о Гео Архонте: Первопроходец",
+        "th": "ตำนานเทพแห่งหิน: เทพเจ้าแห่งการบุกเบิก",
+        "vi": "Truyền thuyết Nham Thần: Thần Khai Sáng"
+    },
+    "id": 100367,
+    "materialDesc": {
+        "en": "Stories about the Geo Archon and his divine duties as The Groundbreaker.",
+        "de": "Erzählungen über den Herrscher über die Felsen als „Gott des Aufbruchs“.",
+        "chs": "关于岩王爷「开拓之神」神职的传说故事。",
+        "cht": "關於岩王爺「開拓之神」神職的傳說故事。",
+        "es": "Historias en torno al “Patrono de los pioneros”, el Rey Geo.",
+        "fr": "À propos de l'histoire légendaire concernant le titre « Dieu des colons » du Souverain de la Roche.",
+        "id": "Cerita-cerita tentang Archon Geo dan tugas mulianya sebagai Pemisah Daratan.",
+        "jp": "岩王帝君の「開拓の神」としての伝説。",
+        "kr": "암왕제군이 「개척의 신」으로서 남긴 전설",
+        "pt": "Histórias sobre o Arconte Geo como o Destruidor de Terra.",
+        "ru": "Истории про Гео Архонта, в которых он предстаёт как Первопроходец.",
+        "th": "เกี่ยวกับลอร์ดแห่งหิน ตำนานเรื่องเล่าของ \"เทพเจ้าแห่งการบุกเบิก\"",
+        "vi": "Truyền thuyết về \"Thần Khai Sáng\" Nham Vương Gia."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

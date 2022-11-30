@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Siblings' Flowers",
+        "de": "Blumen der Geschwister",
+        "chs": "「兄妹们」的花",
+        "cht": "「兄妹們」的花",
+        "es": "Flor fraternal",
+        "fr": "Fleur des « frères »",
+        "id": "Bunga Persaudaraan",
+        "jp": "「兄妹たち」の花",
+        "kr": "「남매들」의 꽃",
+        "pt": "Flor dos Irmãos",
+        "ru": "Цветок «сестры и её братьев»",
+        "th": "ดอกไม้ของ \"เหล่าพี่น้อง\"",
+        "vi": "Hoa \"Anh Em\""
+    },
+    "id": 101827,
+    "materialDesc": {
+        "en": "Flowers gifted by Arapacati and her brothers.\\nLonging to be connected as \"siblings\" are, these Aranara have each taken on the role of sister or brother. Their obsession with cooking stems from the wish to share food with family.\\nThat being said, an Aranara's tastebuds are not to be trusted.",
+        "de": "Die von Arapacati und ihren „Brüdern“ geschenkten Blumen.\\nDie Aranara, die seit Langem die Rolle von „Bruder und Schwester“ spielen, weil sie sich nach der Verbindung zwischen den Geschwistern sehnen. Ihre Besessenheit mit dem Kochen entstammt ihrem Wunsch, Essen mit ihren Liebsten zu teilen.\\nAber auf jeden Fall sind die Geschmacksknospen der Aranara nicht besonders vertrauenerweckend.",
+        "chs": "兰帕卡提与「哥哥们」赠送的花儿。\\n因为向往「兄妹」之间的牵绊，而长久扮演着「兄妹」的兰那罗。对烹饪的痴迷也是来自与亲人分享食物的愿望。\\n但无论如何，兰那罗的味蕾实在令人无法信任。",
+        "cht": "蘭帕卡提與「哥哥們」贈送的花朵。\\n因為嚮往「兄妹」之間的牽絆，而長久扮演著「兄妹」的蘭那羅。對烹飪的癡迷也是來自與親人分享食物的願望。\\n但無論如何，蘭那羅的味蕾實在令人無法信任。",
+        "es": "Un regalo de Arapacati y sus hermanos.\\nDebido al vínculo fraternal que mantienen entre sí, estos aranara mantienen desde hace tiempo los roles de hermana y hermanos. Su obsesión por la cocina también viene del deseo de compartir la comida con la familia.\\nPero no importa cómo, el gusto de los aranara nunca será de fiar.",
+        "fr": "Une fleur offerte par Arapacati et ses « frères ».\\nDésireux d'avoir des liens forts comme ceux qu'ont des frères et sœurs, ces aranaras ont chacun endossé le rôle de sœur ou de frère. Leur obsession pour la cuisine provient du désir de partager de la nourriture avec leur famille.\\nQuoi qu'il en soit, il est impossible de faire confiance aux goûts culinaires des aranaras.",
+        "id": "Bunga yang diberikan oleh Arapacati dan saudara-saudaranya.\\nKerinduan untuk terhubung sebagai \"saudara\", masing-masing Aranara mengambil peran sebagai saudara. Obsesi mereka dalam memasak bermula dari keinginan untuk berbagi makanan dengan keluarga.\\nNamun demikian, indera perasa Aranara tidak bisa dipercaya.",
+        "jp": "アランパカティと「お兄ちゃんたち」から貰った花。\\n「兄妹」の絆に憧れ、彼らは長きに渡って「兄妹」を演じてきた。料理へのこだわりも、家族と料理を共有したいという想いから来るもの。\\n…だが、アランナラの味覚は信用できない。",
+        "kr": "아란파카티와 「오빠들」이 선물한 꽃.\\n「남매」간의 관계를 동경하여 오랫동안 「남매」를 연기해왔다. 요리에 대한 집착도 가족과 음식을 나누고 싶다는 마음에서 비롯되었다.\\n하지만 아란나라의 미뢰는 도저히 믿을 수가 없다",
+        "pt": "Flor dada por Arapacati e seus irmãos.\\nFascinados pelo laço entre \"irmão e irmã\", os Aranaras convivem como irmãos, e o fascínio pela culinária também vem do desejo de poder compartilhar a comida com os entes queridos.\\nMas de qualquer forma, o gosto dos Aranaras não é muito confiável.",
+        "ru": "Цветок, подаренный Арапакати и её «братьями».\\nНадеясь узнать, что такое родственные узы, эти аранары изображают из себя семью. Они так одержимы кулинарией, потому что мечтают разделить пищу со своими домочадцами.\\nОднако доверять вкусовым рецепторам аранар всё же не стоит.",
+        "th": "ดอกไม่ที่ Arapacati และเหล่าพี่ชายมอบให้\\nเพราะโหยหาความผูกพันระหว่างพี่น้อง ความหลงใหลในการทำอาหารของ Aranara ที่สวมบทบาทเป็นพี่น้อง ก็มาจากความปรารถนาที่อยากจะแบ่งปันอาหารให้กับคนในครอบครัวได้ทาน\\nแต่อย่างไรก็ตาม ต่อมรับรสของ Aranara ก็เชื่อถือไม่ได้เลยสักนิดเดียว",
+        "vi": "Hoa Arapacati và \"các anh\" tặng.\\nVì khao khát sự gắn bó giữa \"tình anh chị em\", Aranara đã đóng vai \"anh chị em\" trong một thời gian dài. Nỗi ám ảnh về việc nấu nướng cũng xuất phát từ mong muốn được chia sẻ thức ăn với những người thân yêu.\\nNhưng dù thế nào, vị giác của Aranara thật sự khiến người khác không thể tin được."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

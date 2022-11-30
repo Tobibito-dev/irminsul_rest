@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mondstadt: Hero's Fame",
+        "de": "Mondstadt – Heldenruhm",
+        "chs": "蒙德·英名",
+        "cht": "蒙德·英名",
+        "es": "Mondstadt - Fama",
+        "fr": "Mondstadt - Célébrité",
+        "id": "Mondstadt: Ketenaran",
+        "jp": "モンド·英名",
+        "kr": "몬드·명예",
+        "pt": "Mondstadt - Fama",
+        "ru": "Почётный рыцарь",
+        "th": "Mondstadt - Hero's Fame",
+        "vi": "Mondstadt - Lẫy Lừng"
+    },
+    "id": 210047,
+    "materialDesc": {
+        "en": "Namecard style.\\nThe name of the Honorary Knight has spread far and wide among the citizenry.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDer Ruf des Ehrenritters hat sich in der ganzen Stadt verbreitet.",
+        "chs": "名片纹饰。\\n荣誉骑士的好名声早已远扬全城。",
+        "cht": "名片紋飾。\\n榮譽騎士的好名聲早已遠揚全城。",
+        "es": "#Diseño de tarjeta de presentación.\\nTu reputación como {F#Caballera Honoraria}{M#Caballero Honorario} se ha extendido por toda la ciudad.",
+        "fr": "Thème.\\nLe nom du chevalier honoraire résonne dans chaque recoin de la cité.",
+        "id": "Style kartu nama.\\nNama Honorary Knight telah dikenal oleh seluruh penduduk kota.",
+        "jp": "名刺の飾り紋。\\n栄誉騎士の名声は城内全てに広まっている。",
+        "kr": "명함 스킨.\\n명예 기사의 명성은 이미 성 전역에 퍼졌다",
+        "pt": "Estilo de Cartão de Visita.\\nA reputação do Cavaleiro Honorável se espalhou por toda a cidade.",
+        "ru": "Именная карта.\\nСлавное имя почётного рыцаря уже известно всему городу.",
+        "th": "ลายนามบัตร\\nชื่อเสียงของอัศวินผู้มีเกียรติได้แพร่กระจายไปทั่วทั้งเมือง",
+        "vi": "Hoa văn danh thiếp.\\nDanh tiếng của Kỵ Sĩ Danh Dự sớm đã truyền khắp trong thành."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

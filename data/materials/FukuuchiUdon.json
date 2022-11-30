@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fukuuchi Udon",
+        "de": "Fukuuchi-Udon",
+        "chs": "福内乌冬",
+        "cht": "福內烏龍",
+        "es": "Udon de la fortuna",
+        "fr": "Udon porte-bonheur",
+        "id": "Fukuuchi Udon",
+        "jp": "福は内うどん",
+        "kr": "후쿠우치 우동",
+        "pt": "Udon da Fortuna",
+        "ru": "Лапша удон на удачу",
+        "th": "Fukuuchi Udon",
+        "vi": "Mì Udon Fukuuchi"
+    },
+    "id": 108380,
+    "materialDesc": {
+        "en": "Yae Miko's specialty. The Fried Tofu in here is specially made by the solemn Lady Kitsune. It is said that if you eat it all at one go with sincerity in your heart, you will have the protection of the Great Kitsune — misfortune shall flee and fortune abound!",
+        "de": "Yae Mikos Spezialzubereitung. Der frittierte Tofu in der Mitte ist ganz besonders, höchstpersönlich zubereitet von dem „Fräulein Kitsune“. Es heißt, wenn man großen Respekt im Herzen vor dem Fräulein Kitsune hegt, reicht es, die ganze Schüssel auf einmal leerzuessen, schon aus, um einen ganzen Tag lang gesegnet zu sein. Alles Unglück wird abgewehrt und allerlei Glück wird hergebracht.",
+        "chs": "八重神子的特色料理。中间的油豆腐是庄重的「狐狸小姐」的特殊定制品，据说如果心怀诚意，一口气全部吃完的话，接下去的一整天内都能得到「狐仙大人」的庇佑，晦气远远，福气满满。",
+        "cht": "八重神子的特色料理。中間的油豆腐是莊重的「狐狸小姐」的特殊定製品，據說如果心懷誠意，一口氣全部吃完的話，接下去的一整天內都能得到「狐仙大人」的庇佑，晦氣遠遠，福氣滿滿。",
+        "es": "La especialidad de Yae Miko. El tofu frito del centro es el preparado estrella de la Srta. Kitsune. Dicen que, si uno alberga una gran honestidad en su interior, con un solo bocado de este plato, será bendecido por la gran Kitsune durante un día entero, con lo que alejará la mala suerte y se impregnará de la buena.",
+        "fr": "Spécialité culinaire de Yae Miko. Le tofu frit a été spécialement préparé par la solennelle dame Kitsune. Il paraît que si vous mangez tout d'une traite de bon cœur, vous aurez la protection de la grande Kitsune. Le malheur s'enfuira et la fortune vous sourira !",
+        "id": "Hidangan andalan Yae Miko. Tahu goreng di sini dibuat khusus oleh Lady Kitsune yang sungguh-sungguh. Dikatakan bahwa kalau kamu memakannya sekaligus dengan ketulusan hatimu, kamu akan mendapatkan perlindungan dari Kitsune yang Agung — kemalangan akan berlalu dan keberuntungan akan berlimpah!",
+        "jp": "八重神子のオリジナル料理。真ん中に載っている油揚げは「狐お姉さん」のれっきとした特注品である。真心を込めて一気に食べると、その日はまる一日「仙狐様」のご加護を受けられ、不運を遠ざけ強運に恵まれると言われている。",
+        "kr": "야에 미코의 특제 요리. 중간에 있는 유부는 점잖은 「여우 아가씨」의 특별 주문 작품이다. 소문에 따르면 경건한 마음으로 한입에 해치우면 그날은 「여우 아가씨」의 비호를 받아 불운은 멀어지고 행운만 가득한 하루가 된다고 한다",
+        "pt": "#A especialidade de Yae Miko. O Tofu Frito do meio é especialmente feito pela solene Madame Kitsune. Diz-se que se você comer tudo de uma vez com um coração sincero, será abençoad{F#a}{M#o} pela proteção da Grande Kitsune. Pode dizer adeus ao azar, porque a sorte virá até você!",
+        "ru": "Особое блюдо Яэ Мико. Жареный тофу в центре - фирменный ингредиент госпожи Кицунэ. Говорят, что если съесть всё за один раз с искренностью в сердце, то вы получите благословение божественной Кицунэ - несчастья отступят, а удача будет сопутствовать вам во всём!",
+        "th": "เมนูพิเศษของ Yae Miko เต้าหู้ทอดที่อยู่ตรงกลางเป็นของที่ \"คุณ Kitsune\" ที่เคร่งขรึมสั่งทำเป็นพิเศษ ว่ากันว่าถ้าคุณกินมันให้หมดในครั้งเดียวด้วยความจริงใจ ตลอดทั้งวันถัดไปคุณจะได้รับการคุ้มครองจาก Great Kitsune ให้โชคร้ายจะหนีไปและมีโชคลาภมากมาย!",
+        "vi": "Món ăn đặc biệt của Yae Miko. Món đậu phụ béo ngậy ở giữa là món đặc biệt do \"tiểu thư hồ ly\" làm, tương truyền rằng nếu bạn thành tâm và ăn hết một lượt, bạn sẽ được \"tiên hồ\" phù hộ gặp nhiều may mắn, hạnh phúc ngập tràn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

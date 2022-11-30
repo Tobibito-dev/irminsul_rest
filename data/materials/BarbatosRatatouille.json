@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Barbatos Ratatouille",
+        "de": "Windgott-Ragout",
+        "chs": "风神杂烩菜",
+        "cht": "風神雜燴菜",
+        "es": "Puchero de Barbatos",
+        "fr": "Ragoût de l'Archon Anémo",
+        "id": "Barbatos Ratatouille",
+        "jp": "風神ヒュッツポット",
+        "kr": "바람신의 잡채",
+        "pt": "Ensopado do Arconte Anemo",
+        "ru": "Солянка Архонта",
+        "th": "Barbatos Ratatouille",
+        "vi": "Thập Cẩm Phong Thần"
+    },
+    "id": 108111,
+    "materialDesc": {
+        "en": "A simple chowder with a long history. The ingredients are similarly traditional and simple. No matter where you are, a piping-hot chowder of this sort can always give you a sense of real and unsurpassed satisfaction.",
+        "de": "Ein einfaches Gericht mit langer Tradition. Auch die Zutaten sind so traditionell wie schlicht. Wo man sich auch aufhält, eine Schüssel heißes Ragout erfüllt einen mit wahrhaftiger Zufriedenheit.",
+        "chs": "历史悠久的简单菜肴。用料传统而朴实。无论身处何方，这样一碗热乎乎杂烩菜所提供的满足感都是无比真实的。",
+        "cht": "歷史悠久的簡單菜餚。用料傳統而樸實。無論身處何方，這樣一碗熱乎乎雜燴菜所提供的滿足感都是無比真實的。",
+        "es": "Una sopa simple con una larga historia. Está hecha con ingredientes sencillos y tradicionales. Estés donde estés, una sopa caliente como esta siempre te brindará una insuperable sensación de satisfacción.",
+        "fr": "Un plat simple et traditionnel aux ingrédients ordinaires. Un bol de ce ragoût chaud vous remplira la panse où que vous soyez.",
+        "id": "Hidangan sederhana dengan sejarah yang panjang. Menggunakan bahan tradisional dan sederhana. Tidak peduli di mana pun kamu berada, sup panas ini selalu bisa memberimu kepuasan nyata yang tak tertandingi.",
+        "jp": "長い歴史を持つ簡単な料理、どこにもあるような材料しか使っていない。どこにいても、こういうアツアツの料理がくれる満足感に勝てるものはない。",
+        "kr": "유서 깊은 간단한 반찬. 재료는 전통적이고 소박하다. 따듯한 잡채 한 그릇으로 진정한 만족감을 느낄 수 있다",
+        "pt": "Uma ensopado de longa data. Os ingredientes são simples e tradicionais. Não importa quem você seja, uma sopa quentinha como esta pode sempre lhe dar uma sensação de satisfação indescritível.",
+        "ru": "Простой суп с богатой историей. Анемо Архонт завещал людям готовить это блюдо только из простых ингредиентов. Где бы вы ни находились, эта горячая солянка придаст вам ощущение настоящего, неподдельного удовольствия.",
+        "th": "อาหารง่าย ๆ ที่มีประวัติยาวนาน ใช้วัตถุดิบดั้งเดิมและเรียบง่าย ไม่ว่าคุณจะอยู่ที่ไหน ความพึงพอใจที่ได้รับจากซุปเข้มข้นร้อน ๆ นั้นเป็นเรื่องที่สุดยอดที่สุด",
+        "vi": "Món ăn đơn giản với lịch sử lâu đời. Nguyên liệu truyền thống đơn giản. Bất kể bạn ở đâu, thì một đĩa rau thập cẩm nóng hổi sẽ luôn làm bạn hài lòng."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

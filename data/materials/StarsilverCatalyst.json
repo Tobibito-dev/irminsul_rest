@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starsilver Catalyst",
+        "de": "Sternsilbererzkatalysator",
+        "chs": "星银矿触媒",
+        "cht": "星銀礦觸媒",
+        "es": "Catalizador de argento estelar",
+        "fr": "Catalyseur en argétoile",
+        "id": "Katalis Starsilver",
+        "jp": "星銀鉱触媒",
+        "kr": "성은 광석 촉매",
+        "pt": "Catalisador de Minério de Prata Estrelada",
+        "ru": "Катализное звёздное серебро",
+        "th": "Starsilver Catalyst",
+        "vi": "Chất Xúc Tác Quặng Tinh Ngân"
+    },
+    "id": 100727,
+    "materialDesc": {
+        "en": "Starsilver ore collected along the way. It looks similar to regular Starsilver, but upon closer inspection by Albedo, it can be used as an alchemical catalyst.",
+        "de": "Entlang des Weges gesammeltes Sternsilbererz. Man glaubt erst nicht, dass es sich von gewöhnlichen Sternsilbererzen unterscheidet, aber Albedo ist der Meinung, dass es sich ideal für den Einsatz in alchimistischen Prozessen als Katalysator eignet.",
+        "chs": "沿路收集的星银矿石，看上去和普通的星银矿差别不大，但经阿贝多判断，很适合用作炼金术的触媒。",
+        "cht": "沿路收集的星銀礦石，看上去和普通的星銀礦差別不大，但經阿貝多判斷，很適合用作煉金術的觸媒。",
+        "es": "Un tipo de argento estelar recolectable. Parece igual que otros minerales de su misma clase, pero según Albedo, este puede ser muy útil como catalizador alquímico.",
+        "fr": "Du minerai d'argétoile ramassé en chemin. Bien qu'il ressemble à de l'argétoile normal, ce minerai pourrait servir de catalyseur alchimique selon les dires d'Albedo.",
+        "id": "Starsilver yang dikumpulkan di sepanjang jalan terlihat tidak jauh berbeda dengan Starsilver pada umumnya. Namun menurut penilaian Albedo, Starsilver itu sangat cocok untuk digunakan sebagai Catalyst alkimia.",
+        "jp": "道路脇で収集した星銀鉱石。見た目は普通のものと変わらないが、アルベドによると、錬金術の触媒に非常に適しているらしい。",
+        "kr": "길을 따라가며 수집한 성은 광석. 평범한 성은 광석과 별반 다를 게 없어 보이지만 알베도는 연금술 촉매제로 쓸만하다고 생각하는 것 같다",
+        "pt": "Minério de Prata Estrelada coletado ao longo do caminho. Parece semelhante a Prata Estrelada comum, mas após uma inspeção mais detalhada por Albedo, ele pode ser usado como um catalisador alquímico.",
+        "ru": "Собранная вдоль тропы руда звёздного серебра. Вам не кажется, что она чем-то отличается от обычной руды звёздного серебра, однако, по мнению Альбедо, она идеально подходит для использования в алхимических процессах в качестве катализатора.",
+        "th": "แร่ Starsilver ที่รวบรวมได้ระหว่างทาง ดูแล้วไม่แตกต่างจาก Starsilver ทั่วไปมากนัก แต่จากการตรวจสอบของ Albedo แล้ว นี่เหมาะสำหรับใช้เป็นตัวเร่งปฏิกิริยาในการเล่นแร่แปรธาตุได้",
+        "vi": "Quặng Tinh Ngân thu thập trên đường, trông có vẻ không khác biệt gì mấy với Quặng Tinh Ngân thông thường, nhưng theo Albedo, đây là chất xúc tác thích hợp cho thuật giả kim."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

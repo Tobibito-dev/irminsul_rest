@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Literature Club",
+        "de": "Literaturklub",
+        "chs": "文学团",
+        "cht": "文學團",
+        "es": "El círculo literario",
+        "fr": "Club de littérature",
+        "id": "Klub Literatur",
+        "jp": "文学団",
+        "kr": "문학단",
+        "pt": "Clube de Literatura",
+        "ru": "Литературный клуб",
+        "th": "แวดวงวรรณกรรม",
+        "vi": "Hội Văn Học"
+    },
+    "id": 100863,
+    "materialDesc": {
+        "en": "A traditional novel. The packaging states that this novel has a \"rigorous plot and setting\"...",
+        "de": "Ein traditioneller Roman. Auf dem Umschlag steht, dass diesem Roman eine „rigorose Handlung“ zugrunde liegt ...",
+        "chs": "一本传统小说。据腰封看，这本小说似乎有着「严谨的剧情和设定」…",
+        "cht": "一本傳統的小說。根據書腰的介紹，這本小說似乎有著「嚴謹的劇情和設定」…",
+        "es": "Una novela tradicional. Según se muestra en la cubierta, parece que esta novela contiene “una trama estricta y complejidades diversas”.",
+        "fr": "Un roman traditionnel. La couverture indique que ce roman a une « intrigue et un cadre rigoureux »...",
+        "id": "Sebuah novel tradisional. Kemasannya menunjukkan kalau novel ini mempunyai \"plot dan alur cerita yang serius\"...",
+        "jp": "伝統的な小説。帯の紹介によると、この小説は「厳密な設定とストーリー」が特徴らしい…",
+        "kr": "클래식 소설. 책의 띠지로 보면, 「치밀하게 짜여진 스토리와 설정」이 특징인 작품인 듯하다…",
+        "pt": "Uma história tradicional. A embalagem afirma que esta história tem um \"enredo complexo e cenários detalhados\"...",
+        "ru": "Традиционный роман. Манжета книги гласит о её «скрупулёзном сюжете и времени и месте действия»...",
+        "th": "นวนิยายแบบดั้งเดิม ดูจากสายคาดหนังสือแล้ว นิยายเรื่องนี้ดูเหมือนจะมี \"พล็อตและการเดินเรื่องที่รอบคอบ\"...",
+        "vi": "Một cuốn tiểu thuyết truyền thống. Cuốn tiểu thuyết này dường như có \"cốt truyện và giả định rất chặt chẽ\"..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

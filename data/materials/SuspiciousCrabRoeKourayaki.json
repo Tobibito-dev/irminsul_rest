@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Crab Roe Kourayaki",
+        "de": "Misslungenes Krebsrogen-Kourayaki",
+        "chs": "奇怪的蟹黄壳壳烧",
+        "cht": "奇怪的蟹黃殼殼燒",
+        "es": "Caparazón de cangrejo con huevas extraño",
+        "fr": "Kourayaki d'œufs de crabe (suspect)",
+        "id": "Suspicious Crab Roe Kourayaki",
+        "jp": "微妙なかにみそ甲羅焼き",
+        "kr": "이상한 게딱지 구이",
+        "pt": "Ovas de Caranguejo Assadas Estranhas",
+        "ru": "Странный крабовый кораяки",
+        "th": "Crab Roe Kourayaki รสประหลาด",
+        "vi": "Gạch Cua Xào Kỳ lạ"
+    },
+    "id": 108294,
+    "materialDesc": {
+        "en": "A crab meat dish that has been cooked directly over the flames. The crushed shell-fragments and the crab roe have been slurried together. Butting your teeth up against those hard bits is one thing, but irrecoverable is any desire you may have had to enjoy the food.",
+        "de": "Ein Krebsfleischgericht, das direkt über der Flamme gegart wurde. Die zerkleinerten Schalenfragmente und der Krebsrogen wurden miteinander vermischt. Sich die Zähne an diesen harten Teilen zu stoßen ist eine Sache, aber unwiederbringlich ist jeder Wunsch, das Essen zu genießen.",
+        "chs": "直火烤制的蟹肉料理。蟹壳的碎屑和蟹黄混合在了一起，磕牙倒是小事，渴望享受美食的心情却难以复原。",
+        "cht": "直火烤製的蟹肉料理。蟹殼的碎屑和蟹黃混合在了一起，磕牙倒是小事，渴望享受美食的心情卻難以復原。",
+        "es": "Un plato de cangrejo cocinado directamente con fuego. Las huevas se han mezclado con fragmentos del caparazón. Lo peor no es masticar esos fragmentos, sino la decepción de no poder cumplir tu deseo de comer algo delicioso.",
+        "fr": "Un plat de chair de crabe cuit directement à la flamme. Des fragments de carapace broyés ont été mélangés aux œufs de crabe. Se cogner les dents sur des morceaux durs est une chose, mais l'envie de savourer un mets délicat, elle, est irrécupérable.",
+        "id": "Sajian daging kepiting yang sudah dimasak langsung di atas api. Pecahan cangkang yang dihancurkan dan telur kepiting dihaluskan secara bersamaan. Menggigit bagian-bagian keras itu memang jadi masalah, tapi keinginan untuk memakan masakan ini sudah tidak akan kembali lagi.",
+        "jp": "炭火で焼き上げたカニ料理。カニの殻の屑とかにみそが混ざり合っている。歯に挟まること自体は大事ではないが、料理を楽しむという気持ちは跡形もなくなった。",
+        "kr": "직화로 구운 게살 요리. 게딱지 부스러기와 게장이 섞여 있다. 게딱지가 씹히는 건 사소한 일이지만, 미식을 맛보고 싶었던 갈망의 마음을 되돌리기는 어려울 것이다",
+        "pt": "Um prato de caranguejo que foi cozinhado diretamente sobre o fogo. Os fragmentos de sua casca e as suas ovas foram misturadas juntas. Morder esses pedaços é uma coisa, mas irrecuperável é qualquer desejo que você possa ter tido de apreciar essa comida.",
+        "ru": "Блюдо из краба, приготовленное на открытом огне. То, что крошки панциря смешались с икрой и врезаются в зубы и дёсны, может, и пустяк, но наслаждения от блюда уже не получить.",
+        "th": "เมนูเนื้อปูที่ย่างกับไฟโดยตรง กระดองปูบดและไข่ปูที่ผสมเข้าด้วยกัน หากกินแล้วจะเสียดแทงฟันนั้นถือเป็นเรื่องเล็กน้อย เพราะอารมณ์ที่อยากเพลิดเพลินกับอาหารอันเลิศรสนั้นยากที่จะหวนคืน",
+        "vi": "Món thịt cua được nướng trực tiếp. Những mảnh vụn của mai cua và gạch cua bị trộn lẫn vào nhau, mắc răng là chuyện nhỏ, nhưng tâm trạng háo hức thưởng thức món ăn thì khó mà hồi phục được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

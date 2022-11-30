@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yae Miko: Kitsune Dreaming",
+        "de": "Yae Miko – Fuchs im Traum",
+        "chs": "八重神子·梦狐",
+        "cht": "八重神子·夢狐",
+        "es": "Yae Miko - Kitsune onírica",
+        "fr": "Yae Miko - Kitsune rêveuse",
+        "id": "Yae Miko: Kitsune Dreaming",
+        "jp": "八重神子·夢狐",
+        "kr": "야에 미코·여우의 꿈",
+        "pt": "Yae Miko: Kitsune Onírica",
+        "ru": "Мечтательная кицунэ",
+        "th": "Yae Miko - ความฝันแห่ง Kitsune",
+        "vi": "Yae Miko - Hồ Ly Mơ Mộng"
+    },
+    "id": 210112,
+    "materialDesc": {
+        "en": "Namecard style.\\nWhere can Yae Miko's fox form be found? In your dreams, that's where.",
+        "de": "Ein Motiv für Namenskärtchen.\\nWo in aller Welt könnte man eigentlich Yae Mikos Fuchsgestalt sehen? Vielleicht nur im Traum.",
+        "chs": "名片纹饰。\\n八重神子的狐狸形态在哪里能看到呢？在梦里吧。",
+        "cht": "名片紋飾。\\n八重神子的狐狸形態在哪裡能看到呢？在夢裡吧。",
+        "es": "Diseño de tarjeta de presentación.\\n¿Dónde se puede ver a Yae Miko en su forma de kitsune? ¿En sueños?",
+        "fr": "Thème.\\nOù peut-on apercevoir la forme de renard de Yae Miko ? Dans vos rêves, évidemment.",
+        "id": "Style kartu nama.\\nDi manakah kamu bisa menemukan wujud rubah Yae Miko? Di dalam mimpi.",
+        "jp": "名刺の飾り紋。\\n八重神子の狐姿はどこで見られるかって？夢の中かな。",
+        "kr": "명함 스킨.\\n야에 미코의 여우 모습은 언제 볼 수 있을까? 꿈속에서?",
+        "pt": "Estilo de Cartão de Visita.\\nOnde pode ser encontrada a forma de raposa de Yae Miko? Em seus sonhos.",
+        "ru": "Именная карта.\\nГде можно найти форму кицунэ Яэ Мико? Во снах.",
+        "th": "ลายนามบัตร\\nจะดูร่างจิ้งจอกของ Yae Miko ได้ที่ไหนกันนะ? ในฝันไงล่ะ",
+        "vi": "Hoa văn danh thiếp.\\nCó thể nhìn thấy Yae Miko trong hình dạng hồ ly ở đâu? Mơ đi sẽ thấy."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

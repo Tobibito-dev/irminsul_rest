@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Panipuri",
+        "de": "Leckere Panipuri",
+        "chs": "美味的绿汁脆球",
+        "cht": "美味的綠汁脆球",
+        "es": "Panipuri delicioso",
+        "fr": "Panipuris (délicieux)",
+        "id": "Delicious Panipuri",
+        "jp": "美味しそうなパニプリ",
+        "kr": "맛있는 파니푸리",
+        "pt": "Panipuri Delicioso",
+        "ru": "Вкусные пани пури",
+        "th": "Panipuri แสนอร่อย",
+        "vi": "Panipuri Ngon"
+    },
+    "id": 108411,
+    "materialDesc": {
+        "en": "A delicacy that is served with dipping sauce. The round panipuri balls remind you of Slimes. Anticipate the mysterious, bright-colored juice within, and bring it to your mouth — the coolness, sourness, and tingling sensations are bouncing freely on your tongue as if someone has ignited a stick of dreamy dynamite. No wonder that some people in Sumeru are so obsessed with it...",
+        "de": "Ein mit einer Soße verzehrter Imbiss. Die runden Panipuri erinnern dich an Schleim. Wenn du es in die geheimnisvolle, leuchtende Soße tauchst und zum Mund führst, prallen die kühlen, sauren und prickelnden Eindrücke auf deiner Zunge ab, als hätte jemand ein traumhaftes Dynamit gezündet. Kein Wunder, dass manche Menschen in Sumeru so besessen von diesem Essen sind ...",
+        "chs": "蘸汁食用的小吃。如同史莱姆一般圆滚滚的脆球，盛着鲜艳神秘的汁水。刚一入口，清凉、刺激、酸爽等多重口味，瞬间在舌尖炸开，带给人如梦似幻般的冲击感。难怪有的须弥人会对此如痴如醉…",
+        "cht": "蘸汁食用的小吃。如同史萊姆一般圓滾滾的脆球，盛著鮮豔神秘的汁水。剛一入口，清涼、刺激、酸爽等多重口味，瞬間在舌尖炸開，帶給人如夢似幻般的衝擊感。難怪有的須彌人會對此如癡如醉…",
+        "es": "Un aperitivo servido con una salsa para mojar. Son unas bolitas crujientes y redondas como un Slime, rellenas de brillantes y misteriosos jugos. Al entrar en la boca, una multitud de sabores frescos, ácidos y agrios explotan en un instante en la lengua creando una combinación de sabores de ensueño. No es de extrañar que haya gente de Sumeru obsesionada con este plato.",
+        "fr": "Une collation que l'on mange en la trempant dans la sauce qui l'accompagne. Des boulettes croquantes toutes rondes comme des Blobs. Trempez-les dans cette mystérieuse sauce aux couleurs vives, et portez-les à votre bouche. Les sensations de fraîcheur, d'aigreur et de picotement viendront tour à tour envahir votre langue et exploser tel un feu d'artifice de saveurs fantaisistes. Pas étonnant que certains habitants de Sumeru soient si obsédés par ce mets...",
+        "id": "Makanan ringan yang dimakan bersama dengan saus cocol. Panipuri yang bulat mengingatkanmu pada seekor Slime. Celupkan ke dalam saus yang berwarna terang dan misterius tersebut, lalu masukkanlah itu ke dalam mulutmu ... rasa segar, asam, dan menggelitik akan meledak-ledak di lidahmu seakan-akan ada seseorang yang meledakkan sebuah dinamit penuh rasa. Tidak heran beberapa orang di Sumeru sangat terobsesi dengan makanan ini ....",
+        "jp": "ソースを付けて食べるお菓子。スライムのように丸いパニプリに、鮮やかで不思議なソースを十分に付けて口に入れると、清涼感とピリッとした辛さ、そして酸味が一瞬にして舌の上で爆発し、夢のような衝撃を与えてくれる。どうりで一部のスメール人が、この食べ物に夢中なわけだ…",
+        "kr": "소스를 찍어 먹는 간식. 슬라임처럼 동그란 볼에 산뜻하고 신비로운 소스를 곁들인다. 한입 베어 물면 상큼함, 짜릿함, 새콤함 등 다양한 맛들이 혀끝에서 폭발을 일으켜 환상 같은 맛의 충격을 선사한다. 어쩐지 이 맛에 푹 빠진 수메르 사람들이 있더라니…",
+        "pt": "Uma iguaria que é servida com molho para que possa ser mergulhado. O panipuri redondo te lembra os slimes. Mergulhe no misterioso e brilhante molho, e coloque em sua boca — em instantes uma mistura de sabores frescos, azedos e sensações formigantes saltitam por todos os lados em sua língua, como se alguém tivesse aceso uma dinamite sonhadora. Não é à toa que as pessoas de Sumeru são obcecadas por isso...",
+        "ru": "Закуска с соусом-дип. Шарики пани пури круглые и упругие, словно слаймы. Окуните шарик в волшебный соус и поднесите ко рту - вас ждёт взрыв яркого, освежающего, невероятного вкуса, вкуса сбывшейся мечты. Стоит ли удивляться, что некоторые жители Сумеру просто одержимы этим блюдом...",
+        "th": "ของทานเล่นพร้อมซอส Puri ก้อนกลมที่มนดุ๊กดิ๊กคล้าย Slime เสิร์ฟพร้อมน้ำซอสลึกลับสีสันสดใส เมื่อนำเข้าปาก จะสัมผัสได้ถึงความสดชื่น, จัดจ้าน, เปรี้ยวซ่า ฯลฯ ทำให้ปลายลิ้นเริงระบำได้ในทันที ราวกับความฝันที่นำมาซึ่งความตื่นเต้น ไม่แปลกใจเลยที่ชาว Sumeru จะหลงใหลในเจ้าสิ่งนี้...",
+        "vi": "Món ăn vặt rưới sốt. Những viên bánh giòn tan, tròn tròn như Slime, được chan nước sốt sáng màu huyền bí. Ngay khi vừa cho vào miệng, hương vị thanh mát, kích thích, chua chua và các hương vị khác ngay lập tức bùng nổ trên đầu lưỡi, mang đến cho người thưởng thức cảm giác như mơ. Không có gì lạ khi người dân Sumeru lại bị cuốn hút bởi điều này..."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

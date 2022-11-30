@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Bottle",
+        "de": "Besondere Flasche",
+        "chs": "特别的水瓶",
+        "cht": "特別的水瓶",
+        "es": "Botella especial",
+        "fr": "Bouteille spéciale",
+        "id": "Botol Spesial",
+        "jp": "特別な水筒",
+        "kr": "특이한 물병",
+        "pt": "Garrafa Especial",
+        "ru": "Особая бутылка воды",
+        "th": "ขวดพิเศษ",
+        "vi": "Bình Nước Đặc Biệt"
+    },
+    "id": 100766,
+    "materialDesc": {
+        "en": "A bottle you received from Connor. It contains the key to resolving this incident.",
+        "de": "Eine Flasche, die du von Connor erhalten hast. Sie enthält den Schlüssel zur Lösung dieses Ereignisses.",
+        "chs": "从康纳那里取得的水瓶。里面装着解决事件的关键。",
+        "cht": "從康納那裡取得的水瓶。裡面裝著解決事件的關鍵。",
+        "es": "Una botella que te dio Connor. Contiene la clave para resolver este incidente.",
+        "fr": "Une bouteille reçue de Connor. Elle contient la solution à... certains accidents.",
+        "id": "Botol yang kamu terima dari Connor. Di dalamnya berisi kata kunci untuk menyelesaikan perkara ini.",
+        "jp": "コナーから貰った水筒。事件解決の鍵が入っている。",
+        "kr": "코너한테 받은 물병. 사건 해결의 핵심이 들어있다",
+        "pt": "Uma garrafa que você recebeu de Connor. Ela contém a chave para resolver esse incidente.",
+        "ru": "Бутылка воды, полученная от Коннора. В ней содержится ключ к решению этого происшествия.",
+        "th": "ขวดน้ำที่ได้มาจาก Connor ด้านในใส่เนื้อหาที่เป็นกุญแจสำคัญในการแก้ไขสถานการณ์เอาไว้",
+        "vi": "Bình nước lấy được từ Connor, bên trong chứa thứ có thể giải quyết sự việc."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

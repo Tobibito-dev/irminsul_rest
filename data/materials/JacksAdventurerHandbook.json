@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jack's Adventurer Handbook",
+        "de": "Jacks Abenteurerlizenz",
+        "chs": "杰克的冒险之证",
+        "cht": "傑克的冒險之證",
+        "es": "Manual del aventurero de Jack",
+        "fr": "Guide de l'aventurier de Jack",
+        "id": "Panduan Petualang Jack",
+        "jp": "ジャックの冒険の証",
+        "kr": "잭의 모험 핸드북",
+        "pt": "Licença de Aventura de Jack",
+        "ru": "Лицензия Джека",
+        "th": "คู่มือนักผจญภัยของ Jack",
+        "vi": "Bằng Chứng Mạo Hiểm của Jack"
+    },
+    "id": 100603,
+    "materialDesc": {
+        "en": "Jack's Adventurer Handbook. Issued by the Guild to every newly recruited adventurer, Jack has carefully wrapped his in a cloth and packed it into a box.",
+        "de": "Die Abenteurerlizenz von Jack. Die Abenteurergilde gibt jedem neuen Mitglied eine Abenteurerlizenz. Jack hat seine vorsichtig eingepackt und in eine Schachtel gesteckt.",
+        "chs": "杰克的冒险之证。冒险家协会的冒险家们人手一册的冒险之证，被杰克细心地用布包好，装在了盒子里。",
+        "cht": "傑克的冒險之證。冒險家協會的冒險家們人手一冊的冒險之證，被傑克細心地用布包好，裝在了盒子裡。",
+        "es": "El Manual del aventurero de Jack. El Gremio de Aventureros da una copia a todos los nuevos aventureros. Jack ha envuelto cuidadosamente el suyo en un paño y lo ha guardado en una caja.",
+        "fr": "Le Guide de l'aventurier de Jack qui l'a soigneusement emballé dans un tissu, puis mis dans une boîte. Tous les aventuriers de la Guilde possèdent cet ouvrage.",
+        "id": "Panduan Petualang milik Jack. Buku panduan yang dimiliki oleh setiap petualang di Adventurers' Guild. Buku ini dibungkus dengan kain dan dikemas ke dalam kotak oleh Jack.",
+        "jp": "ジャックの冒険の証。冒険者協会の人間なら、必ず持っている冒険の証。ジャックは布で包み、箱の中に保存している。",
+        "kr": "잭의 모험 핸드북. 모험가 길드의 모험가들이 모드 지니고 있는 모험 핸드북. 잭이 꼼꼼히 싸서 상자 안에 넣어뒀다",
+        "pt": "Licença de Aventura do Jack. Emitida pela Guilda de Aventureiros a todos os aventureiros recém-recrutados, O Jack embrulhou cuidadosamente a sua em um pano e a colocou em uma caixa.",
+        "ru": "Лицензия искателя приключений Джека. Выдаётся Гильдией искателей приключений каждому новоиспечённому искателю приключений. Джек бережно завернул её в кусок холста и положил в коробку.",
+        "th": "คู่มือนักผจญภัยของ Jack คู่มือของเหล่านักผจญภัยแห่งกิลด์นักผจญภัยที่ Jack ใช้ผ้าห่อและเก็บไว้ในกล่องเป็นอย่างดี",
+        "vi": "Bằng Chứng Mạo Hiểm là cuốn sổ được Hiệp Hội Nhà Mạo Hiểm trao cho từng Nhà Mạo Hiểm. Bằng Chứng Mạo Hiểm của Jack được bọc cẩn thận bằng vải và cất kín trong hộp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

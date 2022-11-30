@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Mist Flower Corolla",
+        "de": "Eisnebelblumenblüte",
+        "chs": "冰雾花花朵",
+        "cht": "冰霧花花朵",
+        "es": "Pistilo de flor helada",
+        "fr": "Corolle de fleur de brume",
+        "id": "Mist Flower Corolla",
+        "jp": "霧氷花の花蕊",
+        "kr": "서리꽃 꽃술",
+        "pt": "Flor da Neblina",
+        "ru": "Туманный цветок (венчик)",
+        "th": "Mist Flower Corolla",
+        "vi": "Đóa Băng Vụ Hoa"
+    },
+    "id": 100052,
+    "materialDesc": {
+        "en": "A flower bud encased in solid ice. Even after being picked, the flower continues to emit cold.",
+        "de": "Ein in festes Eis gehülltes Staubblatt. Auch nachdem es den Stängel verlassen hat, strömt es unaufhörlich Kälte ab.",
+        "chs": "封闭在坚冰当中的花芯。即使离开了植株也持续散发着寒气的冰凉植物。",
+        "cht": "封閉在堅冰當中的花芯。即使離開了植株也持續散發著寒氣的冰涼植物。",
+        "es": "Un pistilo de flor envuelto en hielo sólido. Incluso después de cortarlo, sigue desprendiendo frío.",
+        "fr": "La partie supérieure d'une fleur de brume prise dans la glace. Elle continue d'émettre de l'air froid après cueillette.",
+        "id": "Kuncup bunga yang seluruh permukaannya tertutup es. Tetap memancarkan hawa dingin bahkan setelah lama dipetik.",
+        "jp": "固い氷に閉ざされた花蕊。摘み取っても凍えるような冷気を放つ植物。",
+        "kr": "얼음 속에 갇혀있는 꽃술. 줄기에서 떨어져도 여전히 서늘한 한기를 내뿜는다",
+        "pt": "Um broto de flor envolta em gelo sólido. Mesmo depois de ser colhida, a flor continua a emitir frio.",
+        "ru": "Цветок, скованный в вечном льду. Даже будучи сорванным, этот цветок испускает холод.",
+        "th": "ดอกไม้ที่ถูกห้อมล้อมด้วยน้ำแข็ง แม้จะถูกเด็ดออกมาแล้วก็ยังสามารถปลดปล่อยความเย็นได้อยู่ดี",
+        "vi": "Đóa hoa nằm trong băng, cho dù rời khỏi cây cũng vẫn toát ra hàn khí lạnh lẽo."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

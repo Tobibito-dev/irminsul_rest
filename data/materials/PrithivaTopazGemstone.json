@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Prithiva Topaz Gemstone",
+        "de": "Prithiva-Topas",
+        "chs": "坚牢黄玉",
+        "cht": "堅牢黃玉",
+        "es": "Topacio prithiva",
+        "fr": "Pierre de topaze prithiva",
+        "id": "Prithiva Topaz Gemstone",
+        "jp": "堅牢なトパーズ",
+        "kr": "단단한 황옥",
+        "pt": "Gema de Topázio Prithiva",
+        "ru": "Драгоценный топаз Притхива",
+        "th": "Prithiva Topaz Gemstone",
+        "vi": "Hoàng Ngọc Cứng"
+    },
+    "id": 104174,
+    "materialDesc": {
+        "en": "Character Ascension material.\\n\"The currencies that flow through this land are my flesh and blood.\\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\\nThis is the trust I have placed in them. Betray it, and you taint my blood.\"",
+        "de": "Material für den Figurenaufstieg.\\n„Das Geld im gesamten Lande ist ein Teil meiner selbst.“\\n„Damit sichere ich die Errungenschaften, die die Menschen mit ihrem Schweiß und ihrer Weisheit geschaffen haben, für die Zukunft.“\\n„Ich zeige damit mein Vertrauen in die Menschheit. Sollte ich sie enttäuschen, würde mein Blut unrein.“",
+        "chs": "角色突破素材。\\n「大陆所流通的一切银钱皆是我的血肉。\\n「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。\\n「这是我对众生的信任，辜负了它就是玷污了我的血。」",
+        "cht": "角色突破素材。\\n「大陸所流通的一切銀錢皆是我的血肉。」\\n「我在以這樣的方式，為人類一切的汗水、智慧和未來做擔保。」\\n「這是我對眾生的信任，辜負了它就是玷污了我的血。」",
+        "es": "Material de ascensión de personaje.\\n“La moneda que circula por este mundo es mi sangre y mi cuerpo”.\\n“Protejo el trabajo duro, la sabiduría y el futuro de la gente”.\\n“Esta es la confianza que deposito en ella. Si la defraudas, mancharás mi sangre”.",
+        "fr": "Matériau d'élévation de personnage.\\n« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »\\n« Je garantis la sueur, la sagesse et l'avenir des humains de cette manière. »\\n« C'est la confiance que je place en vous. Si vous la trahissez, vous tacherez mon sang. »",
+        "id": "Material Ascension Karakter.\\n\"Mata uang di tanah ini adalah darah.\"\\n\"Aku adalah penjamin kerja keras, kebijaksanaan, dan masa depan rakyat.\"\\n\"Ini adalah kepercayaan yang aku berikan kepada mereka. Khianat itu, berarti kamu menodai darahku.\"",
+        "jp": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
+        "kr": "캐릭터 돌파 소재.\\n「대륙에서 유통되고 있는 은전은 전부 나의 피와 살이다」\\n「난 이 방법으로 인간들의 땀과 지혜, 미래에 대해 보증을 선 것이다」\\n「이는 중생에 대한 내 믿음이다. 이 믿음을 저버리는 것은 나의 피를 더럽히는 짓이다」",
+        "pt": "Material de Ascensão de Personagem.\\n\"O preço que se paga nesta terra é com o sangue.\"\\n\"Eu sou o que garante do trabalho duro, da sabedoria e do futuro das pessoas.\"\\n\"Esta é a confiança que depositei neles. Me traia, e você será manchado com o meu sangue.\"",
+        "ru": "Материал возвышения персонажа.\\n«Валютой здесь является кровь.\\nЯ гарант усердия, мудрости и будущего народа.\\nТаково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».",
+        "th": "วัสดุเลื่อนขั้นตัวละคร\\nเงินทั้งหมดที่หมุนเวียนอยู่ในแผ่นดินใหญ่คือเนื้อและเลือดของฉัน\\n\"ด้วยวิธีนี้ฉันเป็นผู้รับประกันหยาดเหงื่อ ปัญญา และอนาคตของมนุษยชาติทั้งหมด\"\\n\"นี่คือความเชื่อของฉันที่มีต่อสิ่งมีชีวิต การทรยศต่อมันจะทำให้เลือดของฉันต้องแปดเปื้อน\"",
+        "vi": "Nguyên liệu đột phá nhân vật.\\n\"Tất cả tiền bạc lưu thông trên đại lục này đều là máu thịt của tôi.\"\\n\"Tôi dùng cách như vậy, là để đảm bảo cho tất cả mồ hôi, trí tuệ và tương lai của nhân loại.\\nĐây là sự tín nhiệm của tôi với chúng sinh, phụ lòng nó chính là làm vấy bẩn máu của tôi.\""
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

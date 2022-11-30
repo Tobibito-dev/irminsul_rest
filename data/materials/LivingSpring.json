@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Living Spring",
+        "de": "Lebendiges Quellwasser",
+        "chs": "活源水",
+        "cht": "活源水",
+        "es": "Agua del manantial vital",
+        "fr": "Source vivante",
+        "id": "Sumber Air Kehidupan",
+        "jp": "活源水",
+        "kr": "활원수",
+        "pt": "Fonte de Água Viva",
+        "ru": "Вода из живого источника",
+        "th": "Living Spring",
+        "vi": "Suối Nguồn"
+    },
+    "id": 101860,
+    "materialDesc": {
+        "en": "Water obtained from the source of the rivers flowing across Apam Woods. According to Arapas, soup made from such spring water is a Supreme Delicacy. But one wonders if it really is any different from ordinary water...",
+        "de": "Wasser, das aus der Quelle eines Flusses des Apam-Waldes gesammelt wurde. Laut Arapas ist die mit diesem Quellwasser zubereitete Suppe eine „größte Delikatesse“. Aber man muss sich wirklich fragen, wo der Unterschied zu normalem Wasser liegt ...",
+        "chs": "在水天丛林的河流源头收集到的水，按兰阿帕斯所说，用此处的活源水做出的汤，就是「至上珍馐」。但这真的和普通的水有差别吗…",
+        "cht": "在水天叢林的河流源頭收集到的水，按蘭阿帕斯所說，用此處的活源水做出的湯，就是「至上珍饈」。但這真的和普通的水有差別嗎…",
+        "es": "Agua obtenida del nacimiento del río que fluye a través de la Floresta Apam. Según Arapas, la sopa elaborada con el agua del manantial vital es el manjar supremo. Pero... ¿de verdad es diferente al agua común y corriente?",
+        "fr": "De l'eau de la source des rivières qui traversent les Bois d'Apam. C'est avec cette eau de source que l'on prépare la soupe connue sous le nom de « suprême délicatesse ». Malgré tout, c'est à se demander si elle est vraiment différente d'une eau ordinaire...",
+        "id": "Air yang diperoleh dari sumber sungai yang mengalir melintasi Apam Woods. Sup yang Arapas bilang terbuat dari mata air ini akan menghasilkan kelezatan yang hakiki. Tapi orang jadi bertanya-tanya apakah itu benar-benar berbeda dari air biasa apa tidak sih ....",
+        "jp": "水天密林にある川の源から汲んできた水。アランパスによると、この水を使って出来上がったスープはまさに「至高のごちそう」らしい。でも、本当に普通の水と違うのだろうか…",
+        "kr": "수천삼림에 있는 강의 근원에서 수집한 물. 아란파스의 말에 따르면 이곳의 활원수로 만든 수프는 「최고의 진미」라고 한다. 그런데 정말로 평범한 물이랑 다를까…",
+        "pt": "Água recolhida na nascente dos rios da Floresta Apam. Segundo Arapas, a sopa feita com essa água nascente é \"a iguaria suprema\". Mas essa água é realmente é diferente da água comum...?",
+        "ru": "Вода, собранная из ключа, питающего реки, что текут через чащу Апам. Арапас уверяет, что нет ничего вкуснее «величайшего лакомства» - супа, приготовленного на такой воде. Интересно, неужели она правда отличается от обычной воды...",
+        "th": "น้ำที่ได้มาจากต้นน้ำใน Apam Woods ตามคำกล่าวของ Arapas น้ำซุปที่ทำจาก Living Spring นั้นคือ \"สุดยอดแห่งความอร่อย\" แต่มันจะแตกต่างจากน้ำธรรมดาทั่วไปจริง ๆ น่ะเหรอ...",
+        "vi": "Nước lấy ở đầu nguồn của con sông ở Rừng Apam, theo như Arapas nói, món canh được nấu bằng nước ở đây là \"Món Ăn Quý Nhất\". Nhưng nó thật sự khác với nước bình thường sao..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

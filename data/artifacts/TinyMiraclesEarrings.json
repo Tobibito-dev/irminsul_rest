@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Tiny Miracle's Earrings",
+        "de": "Wunderohrhänger",
+        "chs": "奇迹耳坠",
+        "cht": "奇蹟耳墜",
+        "es": "Aretes del Milagro",
+        "fr": "Boucles d'oreilles du Miracle",
+        "id": "Tiny Miracle's Earrings",
+        "jp": "奇跡のピアス",
+        "kr": "기적의 귀걸이",
+        "pt": "Brincos do Milagre",
+        "ru": "Серёжки маленького чуда",
+        "th": "Tiny Miracle's Earrings",
+        "vi": "Bông Tai Kỳ Tích"
+    },
+    "id": 54534,
+    "setId": 10004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

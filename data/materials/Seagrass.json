@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Seagrass",
+        "de": "Seegras",
+        "chs": "海草",
+        "cht": "海草",
+        "es": "Alga",
+        "fr": "Herbe marine",
+        "id": "Seagrass",
+        "jp": "海草",
+        "kr": "해초",
+        "pt": "Erva Marinha",
+        "ru": "Морская водоросль",
+        "th": "Seagrass",
+        "vi": "Rong Biển"
+    },
+    "id": 101210,
+    "materialDesc": {
+        "en": "A plant that grows in shallow seas. It adds a unique flavor to dishes.",
+        "de": "Eine Pflanze, die in flachen Meeren wächst. Sie verleiht den Gerichten einen einzigartigen Geschmack.",
+        "chs": "生长在浅海中的植物，能为菜肴增添特殊的风味。",
+        "cht": "生長在淺海中的植物，能為菜餚增添特殊的風味。",
+        "es": "Una planta que crece en zonas poco profundas de la costa. Proporciona un sabor especial a la comida.",
+        "fr": "Une plante qui pousse dans les eaux peu profondes, pouvant ajouter une saveur unique aux plats.",
+        "id": "Tumbuhan yang tumbuh di laut dangkal. Tumbuhan ini menambahkan rasa unik pada hidangan.",
+        "jp": "浅海で育つ植物。料理に使うと不思議な味を堪能することができる。",
+        "kr": "얕은 바다에서 자라고 있는 식물. 요리에 특별한 맛을 더해줄 수 있다",
+        "pt": "Uma planta que cresce nas águas rasas. Pode dar um sabor único aos pratos.",
+        "ru": "Произрастает на морском мелководье. Придаёт блюдам своеобразный вкус.",
+        "th": "พืชที่เติบโตในเขตทะเลตื้น สามารถเพิ่มรสชาติที่พิเศษให้กับอาหารได้",
+        "vi": "Loài thực vật sinh trưởng ở vùng biển cạn, có thể tăng thêm hương vị cho món ăn."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bamboo Segment",
+        "de": "Bambussegment",
+        "chs": "竹节",
+        "cht": "竹節",
+        "es": "Segmento de bambú",
+        "fr": "Tige de bambou",
+        "id": "Bamboo Segment",
+        "jp": "竹材",
+        "kr": "죽절",
+        "pt": "Segmento de Bambu",
+        "ru": "Бамбук",
+        "th": "ท่อนไม้ไผ่",
+        "vi": "Đốt Trúc"
+    },
+    "id": 101305,
+    "materialDesc": {
+        "en": "Segments of bamboo that are light and far stronger than their humble appearance might suggest. It lets off a light fragrance.\\nCan be used to create furnishings.",
+        "de": "Bambussegmente, die leicht und viel stärker sind, als ihr bescheidenes Aussehen vermuten lässt. Sie verströmen einen leichten Duft.\\nKann zum Herstellen von Dekoration verwendet werden.",
+        "chs": "翠竹的竹段，轻巧而结实，远比谦逊的外表坚韧，散发着独特的清幽气息。\\n可用于制作摆设。",
+        "cht": "翠竹的竹段，輕巧而結實，遠比謙遜的外表堅韌，散發著獨特的清幽氣息。\\n可用於製作擺設。",
+        "es": "Segmento de bambú muy ligero y mucho más resistente de lo que parece. Emite una agradable fragancia.\\nPuede utilizarse para fabricar decoraciones.",
+        "fr": "Une tige de bambou qui est plus légère et solide que son apparence le suggère. Elle dégage un doux parfum.\\nPeut être utilisé pour fabriquer des décorations.",
+        "id": "Bagian-bagian bambu yang sangat ringan dan jauh lebih kuat dari penampilannya. Memancarkan sebuah aroma yang menenangkan.\\nDapat digunakan untuk membuat perabotan.",
+        "jp": "軽くて丈夫な竹の節。その素朴な見た目とは裏腹に、独特の奥ゆかしさを醸し出している。\\n調度品の製作に使うことができる。",
+        "kr": "청죽의 대나무는 가볍고 튼튼하며, 수수한 외관과는 달리 단단하며 특유의 향기가 난다.\\n장식 제작용으로 사용할 수 있다",
+        "pt": "Segmentos de bambu que são leves e muito mais fortes do que seu aspecto simples aparenta. Exalam uma leve fragrância.\\nPode ser usado para fabricar Decorações.",
+        "ru": "Сегменты бамбука, лёгкие и намного более прочные, чем можно предположить, глядя на их скромный внешний вид. Источают лёгкий аромат.\\nСлужит для изготовления декора.",
+        "th": "ท่อนไม้ไผ่ของต้นไผ่สีเขียว มีน้ำหนักค่อนข้างเบาและมีความแข็งแรงทนทาน ลักษณะที่เรียบง่ายและมีกลิ่นอายที่เงียบสงบซึ่งมีความเป็นเอกลักษณ์\\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+        "vi": "Đoạn trúc xanh, nhẹ nhưng chắc, kiên cố hơn vẻ bề ngoài khiêm tốn, toát lên khí chất thanh tịnh độc đáo.\\nCó thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_WOOD"
+}

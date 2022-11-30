@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Baklava",
+        "de": "Leckeres Baklava",
+        "chs": "美味的千层酥酥",
+        "cht": "美味的千層酥酥",
+        "es": "Baklava delicioso",
+        "fr": "Baklava (délicieux)",
+        "id": "Delicious Baklava",
+        "jp": "美味しそうなバクラヴァ",
+        "kr": "맛있는 바클라바",
+        "pt": "Baklava Delicioso",
+        "ru": "Вкусная пахлава",
+        "th": "Baklava แสนอร่อย",
+        "vi": "Baklava Ngon"
+    },
+    "id": 108453,
+    "materialDesc": {
+        "en": "A traditional Sumeru dessert. A certain researcher once said that the people of Sumeru can be split into two categories. Those who eat desserts to live, and those who live to eat desserts. The thin puff pastry layers of this dish, and the bone-piercing aroma of butter and honey, may yet consign all who taste it into the second camp.",
+        "de": "Eine traditionelle Süßspeise Sumerus. Ein Gelehrter sagte einst, die Menschen von Sumeru könnten einfach in zwei Typen unterteilt werden. Der erste Typ isst Süßspeisen, um zu leben. Der zweite wiederum lebt, um Süßspeisen zu essen. Dieser sich in unzähligen Schichten auftürmende Blätterteig mit dem markanten Aroma von geschmolzener Butter und Honig bringt alle Menschen, die dieses Gericht probieren, dazu, vom ersten zum zweiten Typ überzutreten.",
+        "chs": "传统的须弥甜点。某位学者曾经说过，须弥人可以简单地分为两类，第一类是为活着而吃甜点，第二类则是为吃甜点而活着。这层层相叠的薄薄酥皮，加上丝丝渗入骨髓般的黄油和蜜糖的香气，怕是所有品尝之人都会被拉入第二类的阵营吧。",
+        "cht": "傳統的須彌甜點。某位學者曾經說過，須彌人可以簡單地分為兩類，第一類是為活著而吃甜點，第二類則是為吃甜點而活著。這層層相疊的薄薄酥皮，加上絲絲滲入骨髓般的奶油和蜜糖的香氣，恐怕所有品嚐之人都會拉入第二類的陣營吧。",
+        "es": "Un postre tradicional de Sumeru. Un erudito una vez dijo que existen dos tipos de personas: los que comen postres para vivir y los que viven para comerlos. Las finas capas del hojaldre, combinadas con el aroma de la mantequilla y la miel que se cuela por los huesos, atraerán a cualquiera que lo pruebe.",
+        "fr": "Un dessert traditionnel sumérien. Un certain chercheur a un jour dit que les Sumériens pouvaient être divisés en deux catégories : ceux qui mangent des desserts pour vivre et ceux qui vivent pour manger des desserts ! Les fines couches de pâte feuilletée de ce plat et l'arôme perçant du beurre et du miel peuvent toutefois envoyer tous ceux qui le goûtent dans le deuxième camp...",
+        "id": "Makanan pencuci mulut tradisional dari Sumeru. Seorang peneliti pernah mengatakan kalau secara sederhananya, masyarakat Sumeru bisa dibagi menjadi dua kategori: mereka yang makan hidangan pencuci mulut untuk hidup, dan mereka yang hidup hanya untuk makan hidangan pencuci mulut. Selapis demi selapis lapisan renyah hidangan ini, dan aroma mentega dan madu yang meresap sampai ke sumsum tulang belakangnya ... sepertinya setiap orang yang mencicipinya akan jatuh ke dalam kategori orang kedua.",
+        "jp": "スメールの伝統的なデザート。とある学者はこう言った——スメール人は二種類に分けることができる。一方は生きるためにデザートを食べる人、もう一方はデザートを食べるために生きている人だ——…薄いシュー生地が重ねられた層と、骨の髄まで染み渡る、バターとハチミツの香り。これを味わった人は、誰もが後者の仲間入りをせざるを得ないだろう。",
+        "kr": "수메르의 전통 디저트. 한 학자에 따르면, 수메르인은 크게 살기 위해 디저트를 먹는 수메르인과 디저트를 먹기 위해 사는 수메르인으로 나뉜다고 한다. 겹겹이 쌓인 얇고 바삭한 껍질에 뼛속까지 스며드는 버터와 꿀의 은은한 향이 어우러져, 한번 맛보면 누구나 디저트를 먹기 위해 사는 사람으로 변할 것이다",
+        "pt": "Uma sobremesa tradicional de Sumeru. Um certo pesquisador uma vez disse que as pessoas de Sumeru podem ser separadas em duas categorias. Aqueles que comem sobremesa para viver, e aqueles que vivem para comer sobremesa. As camadas folheadas finas deste prato, e o aroma perfurante de manteiga e mel, talvez seja capaz de realocar todos aqueles que comem esta sobremesa para o segundo grupo.",
+        "ru": "Традиционный десерт Сумеру. Один исследователь как-то сказал, что жителей Сумеру можно разделить на две категории. Есть те, кто ест десерты, чтобы жить, и те, кто живёт, чтобы есть десерты. Тонкие слои теста и пронизывающий до костей аромат масла и мёда с лёгкостью перетянут многих во второй лагерь.",
+        "th": "ขนมหวานดั้งเดิมของ Sumeru เคยมีนักวิชาการบางคนกล่าวเอาไว้ว่า ชาว Sumeru สามารถแบ่งออกได้เป็นสองประเภท ประเภทแรกคือกินของหวานเพื่อให้มีชีวิตอยู่ ส่วนประเภทที่สองก็คือมีชีวิตอยู่เพื่อกินของหวาน แป้งพัฟฟ์แผ่นบางที่ซ้อนทับกันเป็นชั้น ผสมกับเนยและน้ำผึ้งกลิ่นหอมหวานที่ซึมซาบเข้าสู่ภายใน เกรงว่าผู้คนที่ได้ลิ้มลองมัน คงถูกฉุดกระชากเข้าไปอยู่ในประเภทที่สองเป็นแน่",
+        "vi": "Món tráng miệng Sumeru truyền thống. Một học giả từng nói rằng, người Sumeru đơn giản có thể chia thành hai loại, đó là người ăn món tráng miệng để sống, và người sống để ăn món tráng miệng. Những lớp bánh phồng mỏng, thơm mùi bơ và mật ong thấm vào tận xương tủy, có lẽ những ai nếm thử sẽ bị lôi vào loại thứ hai."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

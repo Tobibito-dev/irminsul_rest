@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bag of Transaction Funds",
+        "de": "Beutel mit Geldmitteln",
+        "chs": "交易资金袋",
+        "cht": "交易資金袋",
+        "es": "Bolsa de fondos para transacciones",
+        "fr": "Fonds de transaction",
+        "id": "Kantong Dana untuk Transaksi",
+        "jp": "取引用モラ袋",
+        "kr": "거래 자금 주머니",
+        "pt": "Bolsa de Fundo de Transação",
+        "ru": "Мора для сделки",
+        "th": "ถุงเงินทุนสำหรับการแลกเปลี่ยน",
+        "vi": "Túi Tiền Giao Dịch"
+    },
+    "id": 101929,
+    "materialDesc": {
+        "en": "A bag of Mora given by Alhaitham for purchasing Canned Knowledge. You can feel the heavy weight of the bag.",
+        "de": "Von Alhaitham bereitgestellt, darin befinden sich die nötigen Geldmittel zum Erwerb von Wissenskonserven, liegt ziemlich schwer in der Hand.",
+        "chs": "由艾尔海森提供，用以购买罐装知识的交易资金，放在手上沉甸甸的。",
+        "cht": "由艾爾海森提供，用以購買罐裝知識的交易資金，放在手上沉甸甸的。",
+        "es": "Una bolsa con Moras que te dio Alhacén para comprar cápsulas de conocimiento. Puedes sentir el peso de su contenido.",
+        "fr": "Un sac de moras que vous a donné Alhaitham pour acheter des concentrés de connaissances. On peut sentir à quel point il est lourd quand on le tient dans une main.",
+        "id": "Sekantong Mora yang diberikan Alhaitham untuk membeli Kapsul Pengetahuan. Kamu bisa merasakan beban berat dari kantong tersebut.",
+        "jp": "アルハイゼンから貰った、缶詰知識を買うためのモラが入った袋。手に持つとずっしりしている。",
+        "kr": "알하이탐이 제공한 거래 자금. 항아리 지식을 구매하는 데 사용된다. 주머니가 꽤 묵직하다",
+        "pt": "Bolsa de fundos fornecidos por Alhaitham para comprar Conhecimentos Enlatados. É bastante pesada.",
+        "ru": "Увесистый мешок от аль-Хайтама, набитый морой для покупки Капсул знаний.",
+        "th": "เงินทุนสำหรับแลกเปลี่ยนที่ Alhaitham จัดเตรียมไว้ให้ซื้อผลึกความรู้ รู้สึกได้ถึงหนักอึ้งเมื่อถืออยู่ในมือ",
+        "vi": "Một túi Mora do Alhaitham cung cấp, dùng để mua Hũ Tri Thức, cầm rất nặng tay."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

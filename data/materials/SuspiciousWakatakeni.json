@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Wakatakeni",
+        "de": "Misslungenes Wakatakeni",
+        "chs": "奇怪的若竹煮",
+        "cht": "奇怪的若竹煮",
+        "es": "Brotes de bambú hervidos extraños",
+        "fr": "Wakatakeni (suspect)",
+        "id": "Suspicious Wakatakeni",
+        "jp": "微妙な若竹煮",
+        "kr": "이상한 와카타케니",
+        "pt": "Wakatakeni Estranho",
+        "ru": "Странный вакатакэни",
+        "th": "Wakatakeni รสประหลาด",
+        "vi": "Món Wakatakeni Kỳ Lạ"
+    },
+    "id": 108345,
+    "materialDesc": {
+        "en": "A light-colored vegetarian dish. The seaweed takes forever to swallow and the overly-hard bamboo shoots look like they might wear out the teeth. Probably best left looked at but not eaten.",
+        "de": "Ein helles, vegetarisches Gericht. Der Seetang lässt sich ewig kauen, bis man ihn endlich herunterschlucken kann, und die überharten Bambussprossen sehen aus, als könnten sie die Zähne verschleißen. Wahrscheinlich am besten nur zum Anschauen, aber nicht zum Essen.",
+        "chs": "色泽淡雅的素菜。裙带菜需要咀嚼很久才能下咽，过硬的笋则给人一种会磨坏牙齿的错觉，也就看着比较养眼了。",
+        "cht": "色澤淡雅的素菜。裙帶菜需要咀嚼很久才能下嚥，過硬的筍則給人一種會磨壞牙齒的錯覺，也就外表比較養眼了而已。",
+        "es": "Un plato vegetariano de color claro. Hay que masticar durante siglos el alga para poder tragarla, y los brotes de bambú están tan duros que parece que te van a romper los dientes. El único pro es que el plato es visualmente atractivo.",
+        "fr": "Un plat végétarien aux couleurs claires. Les algues sont difficiles à mâcher et les pousses de bambou dures risquent de vous abîmer les dents. Tout compte fait, il vaudrait mieux dévorer ce plat des yeux.",
+        "id": "Hidangan vegetarian berwarna pucat. Rumput lautnya butuh waktu yang lama untuk ditelan, sementara rebung yang terlalu keras sepertinya akan membuat gigi orang yang memakannya menjadi aus. Mungkin makanan ini lebih baik dilihat saja daripada dimakan.",
+        "jp": "薄い色合いの野菜料理。ワカメを飲み込むには長い時間噛む必要があり、硬すぎるタケノコを食べると歯が割れるような錯覚を覚える。見た目以外に取り柄がない。",
+        "kr": "단아한 색감의 야채 요리. 미역은 오래 씹어야 삼킬 수 있고, 죽순은 너무 딱딱해 이가 갈리는 것 같은 느낌을 주는, 보기에만 좋은 요리",
+        "pt": "Um prato vegetariano de cor clara. As algas levam uma eternidade para serem engolidas e os brotos de bambu excessivamente duros parecem até que podem desgastar os dentes. Provavelmente é melhor só dar uma olhada, mas não comer.",
+        "ru": "Изящное вегетарианское блюдо. Чтобы проглотить водоросли, их нужно долго жевать, а побеги бамбука настолько твёрдые, что кажется, будто о них можно сломать зубы. На это блюдо лучше смотреть, чем есть.",
+        "th": "อาหารมังสวิรัติสีอ่อนดูสง่างาม สาหร่ายวากาเมะที่ต้องเคี้ยวให้นานถึงจะกลืนลงคอได้ แต่หน่อไม้ที่แข็งเกินไปนั้น ทำให้คนรู้สึกว่ากัดแล้วฟันจะแตกออกเป็นเสี่ยง ๆ เป็นอาหารที่ดูแต่ก็พอแล้ว",
+        "vi": "Món chay với màu sắc thanh đạm. Rong biển phải nhai thật lâu mới dám nuốt, măng thì quá cứng, cắn vào muốn rụng răng, chỉ được cái vẻ bề ngoài mà thôi."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fatui Meal",
+        "de": "Mahlzeit der Fatui",
+        "chs": "愚人众的餐食",
+        "cht": "愚人眾的餐食",
+        "es": "Almuerzo Fatui",
+        "fr": "Repas de Fatui",
+        "id": "Makanan Fatui",
+        "jp": "ファデュイの食事",
+        "kr": "우인단의 식사",
+        "pt": "Comida dos Fatui",
+        "ru": "Еда Фатуи",
+        "th": "อาหารของ Fatui",
+        "vi": "Bữa Ăn Của Fatui"
+    },
+    "id": 101966,
+    "materialDesc": {
+        "en": "A meal box containing two Panipuri. Viktor and Vsevolod should be a little hungry by now...",
+        "de": "Ein Essenspaket mit zwei Portionen Panipuri. Viktor und Vsevolod sollten ein wenig hungrig sein ...",
+        "chs": "装有两份「绿汁脆球」的食盒。维克多和弗谢沃洛德应该已经有点饿了…",
+        "cht": "裝有兩份「綠汁脆球」的食盒。維克多和弗謝沃洛德應該已經有點餓了…",
+        "es": "Una caja con dos raciones de panipuri. Son para Viktor y Vsevolod, que al parecer tienen hambre.",
+        "fr": "Une boite contenant deux portions de panipuris. Victor et Vsevolod doivent avoir faim à l'heure qu'il est...",
+        "id": "Kotak makan berisi dua Panipuri. Viktor dan Vsevolod seharusnya sudah agar lapar sekarang ....",
+        "jp": "「パニプリ」が二つ入ったお弁当。ヴィクトルもフセヴォロドも、お腹が空いただろう…",
+        "kr": "「파니푸리」 두 개가 담긴 도시락. 빅토르와 프세볼로트도 배가 고프겠지…",
+        "pt": "Uma lancheira de duas porções de Panipuri. O Viktor e o Vsevolod devem estar com fome...",
+        "ru": "Коробка с двумя порциями пани пури. Должно быть, Виктор и Всеволод уже проголодались...",
+        "th": "กล่องอาหารที่มี \"Panipuri\" สองชิ้นอยู่ด้านใน ตอนนี้ Victor และ Vsevolod น่าจะเริ่มหิวกันแล้วล่ะ...",
+        "vi": "Hộp thức ăn có hai phần \"Panipuri\". Chắc là Viktor và Vsevolod đói rồi..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

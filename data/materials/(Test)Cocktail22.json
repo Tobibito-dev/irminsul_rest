@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "(TEST) Cocktail 22",
+        "de": "None",
+        "chs": "(test)酒22",
+        "cht": "（TEST）酒22",
+        "es": "(TEST) Coctel 22",
+        "fr": "(TEST) Vin 22",
+        "id": "None",
+        "jp": "（TEST）お酒22",
+        "kr": "(테스트) 술22",
+        "pt": "(TESTE) Vinho 22",
+        "ru": "(тест) Вино 22",
+        "th": "(TEST) เหล้า22",
+        "vi": "(TEST)Rượu 22"
+    },
+    "id": 100337,
+    "materialDesc": {
+        "en": "(TEST) The latest creation of the new bartender in Mondstadt",
+        "de": "None",
+        "chs": "(test)蒙德调酒新星的最新作品。",
+        "cht": "（TEST）蒙德調酒新星的最新作品。",
+        "es": "(TEST) La última creación del nuevo camarero en Mondstadt",
+        "fr": "(TEST) Le nouveau cocktail de Mondstadt.",
+        "id": "None",
+        "jp": "（TEST）モンドの新人バーテンダーの新作",
+        "kr": "(테스트) 몬드 바텐더 신성의 최신작",
+        "pt": "(TESTE) O mais novo coquetel de Mond.",
+        "ru": "(тест) Новое изделие мастера-винодела Мондштадта.",
+        "th": "(TEST) เหล้าคอกเทลสูตรใหม่ล่าสุดจากบาร์เทนเดอร์ดาวรุ่งแห่ง Mondstadt",
+        "vi": "(TEST) Tác phẩm mới nhất của ngôi sao điều chế rượu thành Mondstadt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

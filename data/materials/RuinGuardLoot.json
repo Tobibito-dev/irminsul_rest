@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ruin Guard Loot",
+        "de": "Beute von Ruinenwächtern",
+        "chs": "遗迹守卫战利品",
+        "cht": "遺蹟守衛戰利品",
+        "es": "Botín de Guardián de las Ruinas",
+        "fr": "Trophée du Gardien des ruines",
+        "id": "Barang dari Ruin Guard",
+        "jp": "遺跡守衛戦利品",
+        "kr": "유적 가디언 전리품",
+        "pt": "Loot de Guarda das Ruínas",
+        "ru": "Добыча со стража руин",
+        "th": "ของที่ระลึกจากชัยชนะของ Ruin Guard",
+        "vi": "Chiến lợi phẩm từ Thủ Vệ Di Tích"
+    },
+    "id": 100519,
+    "materialDesc": {
+        "en": "A trophy seized from a Ruin Guard. It does not appear to have much value as a collector's item. But it is heavy enough that it would cause a great deal of pain, were it to be dropped onto a certain arrogant someone's foot.",
+        "de": "Beute, die du von einem besiegten Ruinenwächter erhalten hast. Ihr Äußeres macht sie nicht gerade zu einem begehrten Sammlerobjekt. Sie ist aber schwer genug, um genügend Schmerzen zu verursachen, wenn sie auf die Füße gewisser arroganter Personen fiele.",
+        "chs": "从遗迹守卫身上取得的战利品。虽然外表看起来不怎么具有收藏价值，但足够沉重，如果砸在某位傲慢之徒的脚上，应该会很痛吧。",
+        "cht": "從遺蹟守衛身上取得的戰利品。雖然外表看起來不怎麼具有收藏價值，但足夠沉重，如果砸在某位傲慢之徒的腳上，應該會很痛吧。",
+        "es": "Un trofeo arrebatado a un Guardián de las Ruinas. No parece tener mucho valor como objeto de colección, pero es lo suficientemente pesado como para causar mucho dolor si se deja caer sobre el pie de cierta persona arrogante.",
+        "fr": "Un butin obtenu sur un Gardien des ruines, qui n'a pas grande valeur. Cependant, cet objet pourrait faire très mal si on venait à le lâcher sur le pied d'une certaine personne...",
+        "id": "Barang yang dijatuhkan oleh Ruin Guard. Tidak terlihat seperti barang koleksi yang bernilai tinggi. Namun cukup berat hingga bisa menyebabkan rasa sakit yang luar biasa jika jatuh ke atas kaki orang yang sombong.",
+        "jp": "遺跡守衛から取った戦利品。見た目からすればあまり価値はなさそう。でも重さがあるため、傲慢の人の足に落とせば充分痛いだろう。",
+        "kr": "유적 가디언에게서 얻은 전리품. 소장 가치는 없어 보이나 꽤 무거우니 이걸로 오만한 자의 발을 찧어 버리면 아파하겠지",
+        "pt": "Um troféu confiscado por um Guarda das Ruínas. Parece não ter muito valor como item de colecionador. Mas é pesado o suficiente para causar muita dor, se cair sobre o pé de alguém arrogante.",
+        "ru": "Добыча, полученная после победы над стражем руин. Похоже, эта вещь не имеет особой ценности для коллекционеров, однако, если швырнуть ей в чью-то высокомерную ногу, она может причинить достаточно сильную боль.",
+        "th": "ของที่ระลึกจากชัยชนะที่ได้มาจาก Ruin Guard แม้ว่าภายนอกจะดูไม่ควรค่าแก่การสะสมสักเท่าไหร่ แต่คงหนักพอที่จะทุบลงเท้าของคน โอหังบางคนแล้วรู้สึกเจ็บได้",
+        "vi": "Chiến lợi phẩm được lấy từ Thủ Vệ Di Tích. Tuy không có giá trị sưu tầm gì đặc biệt, thế nhưng nó đủ nặng để đập nát chân của những kẻ kiêu ngạo."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

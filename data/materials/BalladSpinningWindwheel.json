@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Ballad-Spinning Windwheel\"",
+        "de": "„Balladenspinnendes Windrad“",
+        "chs": "「牧歌与风车」",
+        "cht": "「牧歌與風車」",
+        "es": "Molino de viento de las baladas",
+        "fr": "Moulin à vent tournoyant",
+        "id": "\"Balada Kincir Angin\"",
+        "jp": "「牧歌と風車」",
+        "kr": "「목가와 풍차」",
+        "pt": "Canção Pastoral e Moinho de Vento",
+        "ru": "Пасторальная песня и ветряная мельница",
+        "th": "\"บทเพลงและกังหันลม\"",
+        "vi": "Mục Ca Và Cối Xay Gió"
+    },
+    "id": 391104,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Ballad-Spinning Windwheel.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Balladenspinnendes Windrad“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『牧歌与风车』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『牧歌與風車』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar Molino de viento de las baladas.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du moulin à vent tournoyant.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Balada Kincir Angin\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『牧歌と風車』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「목가와 풍차」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Canção Pastoral e Moinho de Vento\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Пасторальная песня и ветряная мельница».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"บทเพลงและกังหันลม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Mục Ca Và Cối Xay Gió\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

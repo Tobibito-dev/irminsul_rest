@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Deepwood Dweller's Estimation",
+        "de": "„Schätzung des Waldbewohners“",
+        "chs": "「林居之人的恰切」",
+        "cht": "「林居之人的恰切」",
+        "es": "Vecindad de los moradores del bosque",
+        "fr": "« Estimation de l'habitant des bois »",
+        "id": "Estimasi Penghuni Hutan",
+        "jp": "「森の民の剴切」",
+        "kr": "「숲 주민의 안락」",
+        "pt": "\"Estima do Morador do Bosque\"",
+        "ru": "Точность лесного жителя",
+        "th": "\"มัตตะของผู้คนแห่งพงไพร\"",
+        "vi": "Ước Tính Của Cư Dân Rừng Sâu"
+    },
+    "id": 390702,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making Deepwood Dweller's Estimation.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Schätzung des Waldbewohners“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『林居之人的恰切』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『林居之人的恰切』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar “Vecindad de los moradores del bosque”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'« Estimation de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Diagram yang berisi langkah-langkah untuk membuat \"Estimasi Penghuni Hutan\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『森の民の剴切』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「『숲 주민의 안락』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Estima do Morador do Bosque\".\\nDepois de usar, você pode entrar na interface de produção para vê-la.",
+        "ru": "Подробная схема изготовления предмета декора «Точность лесного жителя».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"มัตตะของผู้คนแห่งพงไพร\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ước Tính Của Cư Dân Rừng Sâu\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

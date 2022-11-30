@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Saga of Hamavaran (Preface)",
+        "de": "Hamavarans Kriege – Vorwort",
+        "chs": "哈玛瓦兰战记·前言",
+        "cht": "哈瑪瓦蘭戰記·前言",
+        "es": "Las guerras de Hamavaran: Prólogo",
+        "fr": "Les guerres d'Hamavaran - Préface",
+        "id": "Perang Hamavaran (Pengantar)",
+        "jp": "ハマヴァラーン戦記·序言",
+        "kr": "하마와란 전기·서막",
+        "pt": "Guerras Hamavaran - Prefácio",
+        "ru": "Войны Хамаварана (Предисловие)",
+        "th": "สงคราม Hamavaran (บทนำ)",
+        "vi": "Chiến Ký Hamavaran - Lời Mở Đầu"
+    },
+    "id": 101529,
+    "materialDesc": {
+        "en": "The prefaces of the new light novel \"The Saga of Hamavaran,\" now combined into their own separate volume due to a business model adjustment!",
+        "de": "Das Vorwort der neuen kurzen Erzählung „Hamavarans Kriege“, die aufgrund der Umstellung des Geschäftsmodells nun in einem eigenen Band zusammengefasst ist!",
+        "chs": "新锐轻小说《哈玛瓦兰战记》的前言，由于经营调整而单独成为一册！",
+        "cht": "新銳輕小說《哈瑪瓦蘭戰記》的前言，由於經營調整而單獨成為一冊！",
+        "es": "¡El prefacio de la nueva novela ligera «Las guerras de Hamavaran»! Ahora combinado con su propio volumen aparte debido a un ajuste de negocios.",
+        "fr": "La préface du nouveau roman « Les guerres d'Hamavaran » est maintenant disponible dans un volume séparé en raison d'ajustements commerciaux !",
+        "id": "Kata pengantar dari novel ringan baru \"Perang Hamavaran,\" sekarang digabungkan menjadi volume tersendiri karena penyesuaian model bisnis!",
+        "jp": "新たな娯楽小説『ハマヴァラーン戦記』の序文。経営調整のため、単独で一冊の本となった！",
+        "kr": "신예 라이트 노벨 《하마와란 전기(戰記)》의 서막. 경영 조정의 이유로 단독 편찬됐다!",
+        "pt": "Os prefácios do novo romance \"Guerras Hamavaran\", agora combinados em um único volume devido a um ajuste do modelo de negócios!",
+        "ru": "Предисловие к новому ранобэ «Войны Хамаварана», из-за бизнес-решения ставшее отдельной книгой!",
+        "th": "คำนำของไลท์โนเวลเรื่องใหม่ \"สงคราม Hamavaran\" กลายเป็นภาคแยกจากการปรับธุรกิจ",
+        "vi": "Lời mở đầu của quyển tiểu thuyết \"Chiến Ký Hamavaran\", do thay đổi kinh doanh nên đã sửa thành một tập!"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Five Pickled Treasures",
+        "de": "Misslungene fünf Essigschätze",
+        "chs": "奇怪的五宝腌菜",
+        "cht": "奇怪的五寶醃菜",
+        "es": "Cinco tesoros marinados extraños",
+        "fr": "Cinq trésors marinés (suspect)",
+        "id": "Suspicious Five Pickled Treasures",
+        "jp": "微妙な五宝漬物",
+        "kr": "이상한 다섯 보물 쓰케모노",
+        "pt": "Cinco Tesouros em Conserva Estranho",
+        "ru": "Странные пять драгоценных солений",
+        "th": "Five Pickled Treasures รสประหลาด",
+        "vi": "Dưa Muối Ngũ Bảo Kỳ Lạ"
+    },
+    "id": 108358,
+    "materialDesc": {
+        "en": "Pickled vegetables. That's what they say, obviously, but the result should probably not have such a sour smell. The tender texture is good and all, yes, but... Yeah, this is just way too sour. Maybe a Samachurl might appreciate this?",
+        "de": "Eingelegtes Gemüse. Das sagt man natürlich so, aber das Resultat sollte wahrscheinlich nicht so sauer riechen. Das zarte Mundgefühl ist gut, ja, aber ... Ja, das ist einfach viel zu sauer. Vielleicht würde es einem Samachurl besser schmecken?",
+        "chs": "腌制而成的素菜。不知道为什么成品散发着不同寻常的酸味。虽然微酸的口感能让人开胃，但这显然已经酸过了头。或许它更像是丘丘萨满会喜欢的食物？",
+        "cht": "醃製而成的素菜。不知道為什麼成品散發著不同尋常的酸味。雖然微酸的口感能讓人開胃，但這顯然已經酸過了頭。或許它更像是丘丘薩滿會喜歡的食物？",
+        "es": "Verduras marinadas. O eso dicen, pero el resultado no debería tener un olor tan ácido. El ligero sabor agrio sirve para abrir el apetito, pero esto es demasiado. Tal vez este plato le gustaría a un Samachurl...",
+        "fr": "Des légumes en saumure. Enfin, c'est ce que c'est censé être, mais leur odeur ne devrait pas être aussi aigre. Si la texture tendre est acceptable, le goût trop acide est loin d'ouvrir l'appétit... Peut-être que ce plat pourrait plaire à un Brutoshaman ?",
+        "id": "Sayuran acar. Entah mengapa hasil akhirnya memberikan rasa asam yang tidak biasa. Memang sih rasanya yang agak asam cukup menggugah selera ... tapi ini terlalu asam. Apa mungkin ini makanan yang kesukaan Samachurl?",
+        "jp": "野菜の漬物。なぜかは分からないが、変わった酸味を感じる。ほのかに酸っぱい味は食欲を引き出せるが、これは明らかに酸味が強すぎる。ヒルチャールシャーマンの好物かも？",
+        "kr": "소금에 절여 만든 야채 반찬. 완성품에서 특이한 신맛이 나는 이유는 모른다. 신맛은 입맛을 돋우지만, 이건 너무 시다. 이런 건 츄츄 샤먼이 좋아하지 않을까?",
+        "pt": "Vegetais em conserva. Não se sabe por que o produto final emite esse cheiro azedo. Apesar do gosto azedo ser prazeroso quando na boca, isso claramente está exageradamente azedo. Talvez seja uma comida que os Samachurls gostem?",
+        "ru": "Маринованные овощи. Точнее, так должно было быть, но разве у блюда должен быть такой кислый запах? Нежная текстура хороша и всё такое, да, но... Да, это слишком кисло. Может быть, шамачурлам понравится?",
+        "th": "เมนูผักดอง ไม่รู้ว่าเพราะอะไรมันถึงออกมาเปรี้ยวเกินบรรยาย ถึงแม้อาหารรสเปรี้ยวเล็กน้อยจะช่วยเพิ่มความอยากอาหารให้คนได้ แต่รสชาติเปรี้ยวเกินไปแบบนี้ คงจะมีแต่ Samachurl ที่ชอบอาหารชนิดนี้ล่ะมั้ง",
+        "vi": "Món dưa cải muối, không hiểu sao thành phẩm lại có vị chua đến lạ thường. Tuy rằng vị chua nhè nhẹ sẽ kích thích vị giác, nhưng chua như vầy thì hơi quá lố rồi. Có lẽ nó giống với món ăn mà Phù Thủy Hilichurl sẽ thích hơn?"
+    },
+    "materialType": "MATERIAL_FOOD"
+}

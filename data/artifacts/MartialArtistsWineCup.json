@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Martial Artist's Wine Cup",
+        "de": "Kampfkünstler-Weinkelch",
+        "chs": "武人的酒杯",
+        "cht": "武人的酒杯",
+        "es": "Copa de Vino del Artista Marcial",
+        "fr": "Coupe de l'Artiste martial",
+        "id": "Martial Artist's Wine Cup",
+        "jp": "武人の酒器",
+        "kr": "무인의 술잔",
+        "pt": "Taça de Vinho de Artista Marcial",
+        "ru": "Винный бокал воина",
+        "th": "Martial Artist's Wine Cup",
+        "vi": "Ly Rượu Võ Nhân"
+    },
+    "id": 56514,
+    "setId": 10006,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

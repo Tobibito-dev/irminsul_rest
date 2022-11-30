@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Divine Body from Guyun",
+        "de": "Heiligtum von Guyun",
+        "chs": "孤云寒林的神体",
+        "cht": "孤雲寒林的神體",
+        "es": "Cuerpo divino de Guyun",
+        "fr": "Corps divin de Guyun",
+        "id": "Divine Body from Guyun",
+        "jp": "孤雲寒林の神体",
+        "kr": "고운한림의 신체",
+        "pt": "Corpo Divino de Guyun",
+        "ru": "Останки богов Гуюнь",
+        "th": "Divine Body from Guyun",
+        "vi": "Thần Thể Rừng Băng Giá"
+    },
+    "id": 114016,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nThat which lurks within and animates this relic are the divine remains of lamenting gods. They are unrealized ideals, designs for a prosperous humanity that could never be. They may now lie deep within stone and sea, but they will not go quietly into the night.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nAlles, was geblieben ist, sind die ruhelosen Körper der Götter. Sie konnten ihr Vorhaben nicht vollenden, den Entwurf eines andersartigen, glücklichen Lebens der Menschen. Sie wurden vom Meer und den Felsen aufgenommen, geben sich ihrem Traum aber nicht hin.",
+        "chs": "赋予武器突破之力的材料。\\n于此躁动、作祟的，正是嗟叹连绵的众神圣骸之体。它们是未能实现的理想，对人类另一种幸福生活的描绘。它们以深海、层岩收纳，却不愿意就此入梦。",
+        "cht": "賦予武器突破之力的素材。\\n於此躁動、作祟的，正是嗟歎連綿的眾神聖骸之體。它們是未能實現的理想，對人類另一種幸福生活的描繪。它們以深海、層岩收納，卻不願意就此入夢。",
+        "es": "Material de ascensión de arma.\\nEn este objeto se agitan y se conservan los restos sagrados de los arcontes arrepentidos. Se trata de ideales no materializados y de otra forma de concebir la felicidad de la vida. Puede que ahora yazcan en las profundidades del mar y de las rocas, pero no pasarán inadvertidos en la noche.",
+        "fr": "Matériau d'élévation d'arme.\\nLes esprits de divinités oubliées animent cette relique. Ils incarnent des idéaux pour l'humanité qui ne virent jamais le jour, et reposent maintenant dans la pierre et les mers, sans jamais pouvoir disparaître vraiment.",
+        "id": "Material Ascension Senjata.\\nApa yang tersembunyi dan bersemayam pada benda ini adalah sisa-sisa dari para Dewa yang meratap. Cita-cita yang tidak tercapai, rancangan untuk kemakmuran manusia yang tidak tercapai. Mereka saat ini memang terbaring di dalam batu dan lautan, namun mereka tidak pernah bisa tenang.",
+        "jp": "武器に突破の力を付与する材料。\\nここで騒いで、災いしているのは嘆く神々の聖骸である。それは実現できなかった理想、人間のもう一つの幸せの描写、深海と岩層に収められながら、このまま夢に落ちることをよしとしない。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n여기서 소란을 피우고 장난을 치는 건 바로 탄식이 끊이지 않는 신들의 사체이다. 그들은 실현할 수 없는 이상으로 인류의 또 다른 행복한 삶을 묘사한 것이다. 그들은 심해와 층암 속에서 잠들길 거부하고 있다",
+        "pt": "Material de Ascensão de Armas.\\nAqui se escondem os restos sagrados dos Arcontes que se lamentam. São ideais não realizados, são tão profundos quanto o oceano e tão estratificados quanto as rochas, mas não se adentram silenciosamente na noite.",
+        "ru": "Материал возвышения оружия.\\nВ этой реликвии таятся останки древних скорбящих богов. Это их нереализованные идеи и планы по процветанию человечества, которым никогда не суждено воплотиться. Они могут лежать на дне моря или глубоко в недрах скалы, но они никогда не исчезнут с лица этого мира.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nเกิดขึ้นจากความมุ่งร้ายโดยไม่ได้ตั้งใจ พวกเขาคืออุดมคติที่ยังไม่สามารถทำให้เป็นจริง มันเป็นอีกรูปแบบหนึ่งของการใช้ชีวิตที่มีความสุข พวกมันลึกเท่ามหาสมุทรและซ้อนทับกันราวกับชั้นหิน แต่ไม่ได้มาเงียบๆตอนกลางคืนแน่",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nSự xao động cứ quấn lấy xương cốt của thần. Nó là những lý tưởng chưa thực hiện được, là sự miêu tả một cuộc sống hạnh phúc khác của nhân loại. Nó thu thập biển sâu, vách đá, nhưng lại không chịu bước vào trong mộng."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

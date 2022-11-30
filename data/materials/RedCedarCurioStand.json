@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Red Cedar Curio Stand",
+        "de": "Rot lackierter Kuriositätenständer aus Zedernholz",
+        "chs": "朱漆垂香木百宝阁",
+        "cht": "朱漆垂香木百寶閣",
+        "es": "Aparador de cedro fragante para pequeños objetos",
+        "fr": "Présentoir à merveilles rouge en cèdre",
+        "id": "Rak Pajangan Merah dari Kayu Aras",
+        "jp": "朱漆垂香の百宝閣",
+        "kr": "붉은 수향나무 진열장",
+        "pt": "Estante de Cedro Vermelho",
+        "ru": "Стенд для сувениров из красного кедра",
+        "th": "ชั้นไม้หอมโบราณสีแดง",
+        "vi": "Bách Bảo Các Thùy Hương Đỏ"
+    },
+    "id": 381207,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Red Cedar Curio Stand.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Rot lackierter Kuriositätenständer aus Zedernholz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「朱漆垂香木百宝阁」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「朱漆垂香木百寶閣」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Aparador de cedro fragante para pequeños objetos.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du présentoir à merveilles rouge en cèdre.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Rak Pajangan Merah dari Kayu Aras\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「朱漆垂香の百宝閣」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「붉은 수향나무 진열장」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Estante de Cedro Vermelho\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Стенд для сувениров из красного кедра».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ชั้นไม้หอมโบราณสีแดง\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bách Bảo Các Thùy Hương Đỏ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

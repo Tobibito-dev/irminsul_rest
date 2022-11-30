@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Raiden Shogun: Enlightenment",
+        "de": "Shougun Raiden – Aufklärung",
+        "chs": "雷电将军·开眼",
+        "cht": "雷電將軍·開眼",
+        "es": "Shogun Raiden - Iluminación",
+        "fr": "Shogun Raiden - Révélation",
+        "id": "Raiden Shogun: Enlightenment",
+        "jp": "雷電将軍·開眼",
+        "kr": "라이덴 쇼군·개안",
+        "pt": "Shogun Raiden: Iluminação",
+        "ru": "Просветление",
+        "th": "Raiden Shogun - Enlightenment",
+        "vi": "Raiden Shogun - Thức Tỉnh"
+    },
+    "id": 210092,
+    "materialDesc": {
+        "en": "Namecard style.\\nNot simply Ei, and not merely the Raiden Shogun. Observe yourself also with one stormy eye, and you will someday reach a breakthrough.",
+        "de": "Namenskärtchen.\\nNicht nur Ei, und nicht nur Shougun Raiden. Beobachte auch dich selbst mit einem stürmischen Auge, und du wirst eines Tages einen Durchbruch erreichen.",
+        "chs": "名片纹饰。\\n不仅是影，也不只是将军。留一只雷曜之眼观照自己，方能得始终。",
+        "cht": "名片紋飾。\\n不僅是影，也不只是將軍。留一隻雷曜之眼觀照自己，方能得始終。",
+        "es": "Diseño de tarjeta de presentación.\\nNo es ni solamente Ei, ni solamente la Shogun Raiden. Obsérvate con un ojo tormentoso y algún día conseguirás una gran hazaña.",
+        "fr": "Thème.\\nJe ne suis pas seulement Ei, ni simplement la Shogun Raiden. Observez d'un œil tempétueux et vous trouverez votre éternité.",
+        "id": "Style kartu nama.\\nBukan hanya Ei yang biasa, apalagi sekadar Raiden Shogun. Coba gunakan satu mata petir untuk mengamati dirimu sendiri, maka terobosan akan kamu capai suatu hari nanti.",
+        "jp": "名刺の飾り紋。\\n影でもなく、将軍でもない。雷曜の眼で自分を映すことで、己を保つことができる。",
+        "kr": "명함 스킨.\\n단순히 에이(影)만 뜻하는 것도 아니며, 쇼군만 뜻하는 것도 아니다. 번개의 눈을 남겨 자신을 바라봐야만 시작과 끝을 알 수 있다",
+        "pt": "Estilo de Cartão de Visita.\\nNão só Ei, mas também não apenas a Shogun Raiden. Observe-se também como um olho tempestuoso, e um dia você também alcançará uma ruptura.",
+        "ru": "Именная карта.\\nНе только Эи, и не просто сёгун Райдэн. Дай оку грома наблюдать за тобой, и однажды ты достигнешь просветления.",
+        "th": "ลวดลายนามบัตร\\nไม่ใช่เพียงแค่ Ei และโชกุน Raiden เท่านั้น การสังเกตตัวเองด้วยดวงตาแห่งพายุหนึ่งข้าง จะช่วยให้คุณผ่านอุปสรรคไปได้เสมอ",
+        "vi": "Hoa văn danh thiếp.\\nKhông chỉ là Ei, cũng không chỉ là Shogun. Hãy tự quan sát chính mình bằng một con mắt gai góc, và một ngày nào đó sẽ có thể đột phá được giới hạn."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

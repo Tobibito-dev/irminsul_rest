@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Damaged Replica",
+        "de": "Beschädigte Repliken",
+        "chs": "虚损之拓本",
+        "cht": "虛損之拓本",
+        "es": "Réplica anómala",
+        "fr": "Réplique endommagée",
+        "id": "Damaged Replica",
+        "jp": "虚損した拓本",
+        "kr": "파손된 탁본",
+        "pt": "Réplica Danificada",
+        "ru": "Пустая копия",
+        "th": "Damaged Replica",
+        "vi": "Bản Sao Hư Hại"
+    },
+    "id": 133,
+    "materialDesc": {
+        "en": "Shikigami replicas whose charm magic has long since faded. They cannot reawaken Shiki Taishou's memories, but if gathered together, they can still help him reclaim his past power.\\nUse these items in the Labyrinth Warriors event to enhance Shiki Taishou's abilities.",
+        "de": "Shikigami-Repliken, deren Zaubersprüche schon lange verblasst sind. Sie können Shiki Taishous Erinnerungen nicht wiedererwecken, aber wenn sie gesammelt werden, können sie ihm dennoch helfen, seine vergangene Macht zurückzugewinnen.\\nVerwende diese Gegenstände in der Aktion Labyrinthkrieger, um Shiki Taishous Fertigkeiten zu verbessern.",
+        "chs": "符法之力早已淡化的式神拓本，无法唤醒「式大将」的记忆，但积少成多后，还是能协助「式大将」寻回往年的力量。\\n在「谜境悬兵」活动中，可以用来强化「式大将」的能力。",
+        "cht": "符法之力早已淡化的式神拓本，無法喚醒「式大將」的記憶，但積少成多後，還是能協助「式大將」尋回往年的力量。\\n在「謎境懸兵」活動中，可以用來強化「式大將」的能力。",
+        "es": "Una réplica de shikigami cuyo poder mágico se debilitó hace tiempo. Con una sola, no se pueden despertar los recuerdos de Shiki Taishou, pero si acumulas varias, al menos podrás ayudarle a recuperar la fuerza que tenía en el pasado.\\nPuede utilizarse en el evento «Dominio del guerrero» para fortalecer a Shiki Taishou.",
+        "fr": "Une réplique shikigami dont les pouvoirs magiques se sont estompés depuis longtemps. Elle ne peut pas redonner la mémoire à Shiki Taishou, mais peut l'aider à récupérer sa force d'antan si vous en réunissez plusieurs.\\nUtilisez-les pendant l'événement « Guerriers du labyrinthe » pour renforcer les pouvoirs de Shiki Taishou.",
+        "id": "Replika Shikigami yang kekuatan Charm Magic-nya sudah lama memudar dan tidak dapat membangunkan ingatan Shiki Taishou. Tapi kalau dikumpulkan dalam jumlah banyak, replika ini dapat membantu Shiki Taishou memperoleh kembali kekuatannya.\\nGunakan item ini di Event Pejuang Labirin untuk meningkatkan kemampuan Shiki Taishou.",
+        "jp": "符術の力がすでに薄れている式神の拓本。「式大将」の記憶を蘇らせることはできないが、多く貯めると、「式大将」が昔の力を取り戻すのを手伝うことができる。\\nイベント「謎境一騎」において、「式大将」の能力を強化することができる。",
+        "kr": "부적술의 힘이 이미 옅어져버린 시키가미 탁본. 「시키 대장」의 기억은 불러올 수 없지만, 일정 수량을 모으면 「시키 대장」이 당시의 힘을 되찾는 데 도움을 줄 수 있다.\\n「미로의 전사」 이벤트에서 「시키 대장」의 힘을 강화시키는 데 사용할 수 있다",
+        "pt": "Uma réplica Shikigami cujo poder mágico se desvaneceu há muito tempo. Elas não podem despertar as memórias de Shiki Taishou, mas, se reunidas, ainda podem ajudá-lo a recuperar seu antigo poder.\\nUse estes itens no evento Guerreiros do Labirinto para melhorar as habilidades de Shiki Taishou.",
+        "ru": "Копия сикигами, чья магия амулетов давно угасла. Они не могут пробудить воспоминания Сики Тайсё, но если их собрать вместе, они помогут ему вернуть былую силу.\\nИспользуйте этот предмет в событии «Воины лабиринта», чтобы улучшить способности Сики Тайсё.",
+        "th": "หุ่นจำลองของ Shikigami ที่พลังแห่งเครื่องรางได้จางหายไปนานแล้ว ไม่สามารถปลุกความทรงจำของ \"Shiki Taishou\" ได้ แต่เมื่อสะสมทีละนิดละน้อยจนเยอะแล้วจะสามารถช่วยให้ \"Shiki Taishou\" ค้นหาความแข็งแกร่งในอดีตกลับมาได้\\nในช่วงกิจกรรม \"ทหารผู้กล้าแห่งแดนพิศวง\" สามารถใช้เพื่อเพิ่มความสามารถให้กับ \"Shiki Taishou\" ได้",
+        "vi": "Bản sao Shikigami với sức mạnh bùa phép đã nhạt nhòa từ lâu, không thể thức tỉnh ký ức Shiki Taishou, nhưng tích lũy đủ nhiều sẽ có thể giúp Shiki Taishou tìm được sức mạnh năm xưa.\\nCó thể dùng để cường hóa sức mạnh Shiki Taishou trong sự kiện \"Chiến Binh Bí Ẩn\"."
+    },
+    "materialType": false
+}

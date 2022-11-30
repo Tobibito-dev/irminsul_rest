@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Key",
+        "de": "Schlüssel",
+        "chs": "钥匙",
+        "cht": "鑰匙",
+        "es": "Llave",
+        "fr": "Clé",
+        "id": "Kunci",
+        "jp": "鍵",
+        "kr": "열쇠",
+        "pt": "Chave",
+        "ru": "Ключ",
+        "th": "กุญแจ",
+        "vi": "Chìa Khóa"
+    },
+    "id": 101835,
+    "materialDesc": {
+        "en": "A key that you found near the mysterious plant. This may be used to open a certain door in a high-up location within Xinyan's Mirage.",
+        "de": "In der Nähe von rätselhaften Pflanzen kann ein Schlüssel gefunden werden. Wahrscheinlich kann er benutzt werden, um ein bestimmtes Tor hoch oben in Xinyans Illusion zu öffnen.",
+        "chs": "在奇妙的植物附近找到的钥匙，应该可以用来开启辛焱幻境中某扇位于高处的门扉。",
+        "cht": "在奇妙的植物附近找到的鑰匙，應該可以用來開啟辛焱幻境中某扇位於高處的門扉。",
+        "es": "Una llave encontrada cerca de una planta extraña. Debería poder abrir alguna puerta situada en un lugar alto de la ilusión de Xinyan.",
+        "fr": "Une clé que vous avez trouvée près de mystérieuses plantes. Elle peut ouvrir une certaine porte à un endroit situé en altitude dans l'illusion de Xinyan.",
+        "id": "Kunci yang ditemukan di dekat tumbuhan misterius. Benda ini dapat digunakan untuk membuka pintu tertentu yang ada di tempat tinggi di dalam alam fantasi Xinyan.",
+        "jp": "奇妙な植物の近くで見つけた鍵。これがあれば、辛炎の幻境で高い所にある扉を開けられるかもしれない。",
+        "kr": "기묘한 식물 근처에서 찾은 열쇠. 신염의 환각 비경에서 높은 곳에 위치한 어떤 문을 열 수 있다",
+        "pt": "Uma chave que você encontrou perto de plantas misteriosas. Provavelmente pode ser usada para abrir uma certa porta num lugar alto da Miragem de Xinyan.",
+        "ru": "Ключ, который вы нашли возле таинственных растений. С его помощью можно открыть определённую дверь, расположенную высоко в мире грёз Синь Янь.",
+        "th": "กุญแจที่พบใกล้พืชมหัศจรรย์ น่าจะเอาไว้ใช้เปิดประตูที่อยู่บนที่สูงในมิติมายาของ Xinyan",
+        "vi": "Chìa khóa được tìm thấy gần cây kỳ diệu, chắc hẳn có thể dùng để mở cánh cửa trên cao trong ảo cảnh của Xinyan."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

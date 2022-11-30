@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Heatshield Potion",
+        "de": "Hitzebeständigkeitstrank",
+        "chs": "耐热药剂",
+        "cht": "耐熱藥劑",
+        "es": "Poción de resistencia térmica",
+        "fr": "Potion de résistance Pyro",
+        "id": "Heatshield Potion",
+        "jp": "耐熱薬剤",
+        "kr": "내열 포션",
+        "pt": "Poção de Resistência ao Calor",
+        "ru": "Зелье теплового щита",
+        "th": "Heatshield Potion",
+        "vi": "Thuốc Chịu Nhiệt"
+    },
+    "id": 111006,
+    "materialDesc": {
+        "en": "A miraculous potion that boosts Pyro RES and makes one able to withstand high heat.\\nIt works not by cooling the body, but by helping the body acclimate to high temperatures.",
+        "de": "Ein wundersamer Trank, der einen große Hitze aushalten lässt und den Pyro-Widerstand erhöht.\\nEr kühlt den Körper nicht etwa von innen, sondern gewöhnt den Körper an hohe Temperaturen, sodass man kein unangenehmes Gefühl dabei hat.",
+        "chs": "让人忍耐高热的奇特药剂，能提升火元素抗性。\\n原理并不是让人身体变得凉爽，而是让人习惯高温，以此降低置身其中的不适感。",
+        "cht": "讓人忍耐高熱的奇特藥劑，能提升火元素抗性。\\n原理並不是讓人身體變得涼爽，而是讓人習慣高溫，以此降低置身其中的不適感。",
+        "es": "Una poción milagrosa que potencia la RES Pyro y la tolerancia al calor.\\nSe basa en el principio de hacer que el cuerpo se adapte al calor en lugar de hacer que entre en frío.",
+        "fr": "Une potion mystérieuse qui permet de résister aux environnements à haute température et augmente la RÉS Pyro.\\nSon principe d'action consiste à adapter le corps à la chaleur plutôt que de le refroidir.",
+        "id": "Ramuan ajaib yang meningkatkan Pyro RES dan membuatmu tahan terhadap suhu tinggi.\\nPrinsipnya adalah membuat tubuh beradaptasi dengan panas dibandingkan mendinginkan tubuh.",
+        "jp": "飲むと酷暑にも耐えられる不思議な薬剤。炎元素耐性が上がる。\\nその原理は体を冷やすのでなく、暑さに慣れさせることである。",
+        "kr": "고온을 견디게 해주는 기이한 포션. 불 원소 내성을 올릴 수 있다.\\n원리는 몸의 온도를 낮추는 게 아니라, 고온에 적응시켜 불편함을 줄이는 것이다",
+        "pt": "Uma poção milagrosa que impulsiona a RES Pyro e faz com que aguente grande calor.\\nO princípio de fazer o corpo se adptar ao calor ao invés de resfriá-lo.",
+        "ru": "Чудотворное зелье, которое повышает Пиро сопротивление и стойкость к высоким температурам.\\nПринцип эффективности этого зелья заключается в том, что оно адаптирует тело к теплу, а не остужает его.",
+        "th": "ยาช่วยให้ทนต่อความร้อน สามารถเพิ่มความต้านทานไฟได้ \\nหลักการของมันไม่ใช่การทำให้ตัวของคนใช้เย็น แต่เป็นการทำให้คนชินกับอุณหภูมิที่สูง",
+        "vi": "Loại thuốc đặc biệt giúp con người chịu đựng được nhiệt độ cao, tăng kháng Nguyên Tố Hỏa.\\nNguyên lý của nó không phải khiến người ta cảm thấy mát mẻ, mà là giúp quen với nhiệt độ cao, từ đó giảm đi sự khó chịu."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Breeze-Blessed Bed",
+        "de": "Brisenbelüftetes Bett",
+        "chs": "柔风加护的床榻",
+        "cht": "柔風加護的床榻",
+        "es": "Cama baja suave como la brisa",
+        "fr": "Lit « Douce brise »",
+        "id": "Ranjang Sesejuk Angin",
+        "jp": "そよ風に守られたベッド",
+        "kr": "바람의 가호를 받는 침대",
+        "pt": "Cama Suave Como a Brisa",
+        "ru": "Кровать благословения ветра",
+        "th": "เตียงพื้นเตี้ยทรงโบราณแห่งสายลม",
+        "vi": "Giường Bảo Vệ Êm Ái"
+    },
+    "id": 381401,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Breeze-Blessed Bed.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Brisenbelüftetes Bett“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「柔风加护的床榻」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「柔風加護的床榻」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar una Cama baja suave como la brisa.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du lit « Douce brise ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Ranjang Sesejuk Angin\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「そよ風に守られたベッド」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「바람의 가호를 받는 침대」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Cama Suave Como a Brisa\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Кровать благословения ветра».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"เตียงพื้นเตี้ยทรงโบราณแห่งสายลม\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Giường Bảo Vệ Êm Ái\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ore Slag",
+        "de": "Erzschlacke",
+        "chs": "矿渣",
+        "cht": "礦渣",
+        "es": "Escoria",
+        "fr": "Débris de minerai",
+        "id": "Ampas Bijih Besi",
+        "jp": "鉱滓",
+        "kr": "광석 잔해",
+        "pt": "Escória de Minérios",
+        "ru": "Рудный шлак",
+        "th": "Ore Slag",
+        "vi": "Xỉ Khoáng"
+    },
+    "id": 101547,
+    "materialDesc": {
+        "en": "Slag left behind amidst some ore on Dragonspine. The valuable portions have been taken away, and the rest is just worthless, useless dross — or at least, that's how people might be inclined to see it. They would have carried it off as well otherwise, right?",
+        "de": "Schlacke, die inmitten von Erz auf dem Drachengrat zurückgelassen wurde. Die wertvollen Teile wurden weggeschafft und der Rest ist nur noch wertlose, nutzlose Schlacke ... Oder zumindest könnte man es so sehen. Sonst hätten die Menschen die Schlacke doch auch weggenommen, oder?",
+        "chs": "雪山矿堆中遗留的矿渣。珍贵的部分被挑走，余下的部分则为渣，一钱不值，百无一用，这就是世人对渣的看法吧。否则为何不把它们也带走呢?",
+        "cht": "雪山礦堆中遺留的礦渣。珍貴的部分被挑走，餘下的部分則為渣，一錢不值，百無一用，這就是世人對渣的看法吧。否則為何不把它們也帶走呢?",
+        "es": "Restos que había entre un montón de minerales en Espinadragón. La parte valiosa ya se la llevaron, y lo que queda no valdría ni un Mora. No me extraña que se le denomine “escoria”. Si no, ¿por qué nadie querría llevársela?",
+        "fr": "Des débris de minerai dans les Monts Dosdragon. Les parties précieuses ont toutes été extraites, ne laissant que des restes sans utilité ou valeur... Du moins, c'est ce que l'on peut en déduire. Sinon, les gens les emporteraient avec eux, n'est-ce pas ?",
+        "id": "Serpihan yang tertinggal dari bijih besi di Dragonspine, bagian-bagian yang berharga telah diambil, dan sisanya hanyalah sampah yang tidak berharga dan tidak berguna — atau setidaknya, begitulah menurut orang-orang. Jika tidak, pasti sudah dibawa pergi juga oleh mereka, kan?",
+        "jp": "雪山の採掘地に残された鉱滓。貴重な部分は取られ、残りはくずとなった。何の価値もない、これは人々がくずに対しての考えだろう。そうでなければ、なぜ持って帰らないのか？",
+        "kr": "설산의 광석 더미에 남겨진 광석 잔해. 값어치가 있는 부분은 누군가가 골라갔고, 잔여 부분인 잔해는 가치도 없고 쓸모도 없다. 이게 세상 사람들이 잔해에 대한 인식이겠지. 그게 아니라면 잔해까지도 가져가지 않았을까?",
+        "pt": "Escória deixada para trás entre alguns minérios na Espinha do Dragão. As porções valiosas foram levadas, e o resto não tem valor nenhum. Ou pelo menos é assim que as pessoas veem, caso contrário, teriam pegado para elas, não é?",
+        "ru": "Шлак, оставшийся после добычи руды на Драконьем хребте. Всю ценную руду давно унесли, а оставшееся - просто никчемный, бесполезный шлак. По крайней мере, люди склонны так полагать. В противном случае его бы здесь уже не было, не так ли?",
+        "th": "เศษแร่ที่หลงเหลืออยู่ใน Dragonspine แร่ที่มีค่าถูกขุดไปแล้ว ส่วนที่เหลืออยู่ก็เป็นเพียงเศษซากที่ไร้ค่าและไร้ประโยชน์ นี่คงเป็นมุมมองที่คนมีต่อเศษซากพวกนี้ ไม่งั้นก็คงหยิบพวกมันไปด้วยตั้งแต่แรกแล้วใช่มั้ยล่ะ?",
+        "vi": "Xỉ khoáng còn sót lại trong mỏ khoáng Tuyết Sơn. Những phần quý đã được lấy đi, chỉ còn lại số xỉ này, không đáng một xu, cũng không dùng vào việc gì được, đây là cách mà người đời đối đãi chăng? Nếu không thì tại sao không lấy chúng đi chứ?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

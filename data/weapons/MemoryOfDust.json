@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Memory of Dust",
+        "de": "Ketten des Diesseits",
+        "chs": "尘世之锁",
+        "cht": "塵世之鎖",
+        "es": "Candado Terrenal",
+        "fr": "Chaînes mortelles",
+        "id": "Memory of Dust",
+        "jp": "浮世の錠",
+        "kr": "속세의 자물쇠",
+        "pt": "Memória da Poeira",
+        "ru": "Память о пыли",
+        "th": "Memory of Dust",
+        "vi": "Khóa Trần Thế"
+    },
+    "id": 14504,
+    "type": "WEAPON_CATALYST",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 45.9364013671875
+        },
+        {
+            "type": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 0.1080000028014183
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0859999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.1710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2569999694824219,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.343000054359436,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4290000200271606,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.5160000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6019999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6890000104904175,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.774999976158142,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8619999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9490000009536743,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.0360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.124000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2109999656677246,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2990000247955322,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.385999917984009,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4739999771118164,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.562000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.6500000953674316,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.73799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8269999027252197,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9149999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.003999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.0929999351501465,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.181999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2709999084472656,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.359999895095825,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.450000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.5390000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.628999948501587,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7190001010894775,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.809000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.8989999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.989000082015991,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.079999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.261000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.3520002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.442999839782715,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.533999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.625,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.808000087738037,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.900000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.992000102996826,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.084000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.176000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.26800012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.360000133514404,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.453000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.546000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.638000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.730999946594238,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.824999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.918000221252441,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.011000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.105000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.197999954223633,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.291999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.386000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.480000019073486,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.574999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.669000148773193,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.763000011444092,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.857999801635742,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.953000068664551,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.047999858856201,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.14300012588501,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.23799991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.334000110626221,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.428999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.525000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.620999813079834,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.7170000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.813000202178955,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.908999919891357,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.005000114440918,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.10200023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.199000358581543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.295000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.392000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.48900032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.586999893188477,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.684000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.781999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.878999710083008,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.97700023651123,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.074999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.17300033569336,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.270999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.369999885559082,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.468000411987305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.567000389099121,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.666000366210938,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.765000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.86400032043457,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.963000297546387,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.062000274658203,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.161999702453613,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_ATTACK_PERCENT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 14504,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114021,
+                    "count": 5
+                },
+                {
+                    "id": 112041,
+                    "count": 5
+                },
+                {
+                    "id": 112005,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 5
+                },
+                {
+                    "id": 112041,
+                    "count": 18
+                },
+                {
+                    "id": 112005,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114022,
+                    "count": 9
+                },
+                {
+                    "id": 112042,
+                    "count": 9
+                },
+                {
+                    "id": 112006,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 5
+                },
+                {
+                    "id": 112042,
+                    "count": 18
+                },
+                {
+                    "id": 112006,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114023,
+                    "count": 9
+                },
+                {
+                    "id": 112043,
+                    "count": 14
+                },
+                {
+                    "id": 112007,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 14504,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114024,
+                    "count": 6
+                },
+                {
+                    "id": 112043,
+                    "count": 27
+                },
+                {
+                    "id": 112007,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+        "de": "Ein steinernes Schloss, das längst vergangene Erinnerungen verschlossen hält. Nach unendlichen Umwandlungen zeigt es seine wahre Kraft.",
+        "chs": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。",
+        "cht": "蘊含著某種悠遠記憶的石鎖，隨著無窮的變換透露出其中的力量。",
+        "es": "Un candado de piedra que contiene algún tipo de recuerdo ancestral y revela su poder con infinitas transformaciones.",
+        "fr": "Une arme en pierre lourde et porteuse de souvenirs lointains. Ses transformations incessantes révèlent la puissance qui l'habite.",
+        "id": "Kunci batu yang berisi memori dari masa lalu, dapat mengeluarkan kekuatan seiring dengan perubahannya yang tidak terbatas.",
+        "jp": "ある遠い昔の記憶が秘められている石の錠。窮まりない変化の中からその力が伺える。",
+        "kr": "어느 오래된 기억을 품고 있는 돌 자물쇠. 끝없는 변화 속에서 그 힘을 엿볼 수 있다",
+        "pt": "Uma fechadura de pedra contendo memórias distantes. Suas infinitas transformações revelam seu poder interior.",
+        "ru": "Камень, содержащий далёкие воспоминания. Нескончаемые изменения обнажили его внутреннюю силу.",
+        "th": "ทุ่นหินที่เต็มไปด้วยความทรงจำอันแสนยาวนาน การเปลี่ยนแปลงที่ไม่มีที่สิ้นสุด ได้เผยให้เห็นถึงพลังของมัน",
+        "vi": "Chiếc khóa bằng đá dường như ẩn chứa những dòng lịch sử cổ xưa nào đó, sự thay đổi của thời gian khiến nó để lộ ra sức mạnh trong đó."
+    },
+    "flavor": {
+        "en": "\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\nHe remembers meeting the young woman with the billowing sleeves, remembers the way she acted solemn, yet seemed joyful when she presented him this token.\nWhat a silly notion. There was no formal contract between them. They were merely two people walking the same path for their own reasons...\nBut he remembers the scene of their first meeting anyway, when the Glaze Lilies were still in abundant bloom.\nHe also remembers those words she spoke at the end — again, amid the Glaze Lilies.\n\n\"Those little people are as small and fragile as dust.\"\n\"Because they are so small, they know not when they will lose their lives to disaster or strife, and so they are afraid.\"\n\"Because they are afraid, they try so hard to become more intelligent. This I understand.\"\n\"So I thought that since there is such a gulf between us in strength, I should use technique and wisdom instead.\"\n\"With your brawn and my brains, this city would surely become a great one.\"\nHer final smile was a lonely one, even as her form dissolved into the finest dust.\n\"It seems that our journey together has come to an end. As for that stone dumbbell, forget about it, would you?\"\n\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\n\"If you can unlock it—\"\nMany years passed, and he was never able to unlock that dumbbell, nor would he ever learn what might have followed that sentence.\nOver the years, the wild Glaze Lilies, too, dwindled till at last they were no more.\n",
+        "de": "\n„Dies ist ein Zeichen des Bündnisses und meine Herausforderung an dich.“\n„Meine ganze Weisheit ist hinter diesem Steinschloss verborgen.“\nEr erinnerte sich an das erste Mal, als er die junge Frau mit den weiten Ärmeln gesehen hatte, die ihm mit einem feierlichen und emotionalen Ausdruck das Symbol zeigte.\nWie dumm das war. Es war natürlich klar, dass es keinen offiziellen Vertrag gab und sie einfach zusammen, aber unabhängig voneinander fortschritten ...\nAber ich erinnerte mich noch an die Szene, in der sie sich zum ersten Mal trafen, die blühenden Glaslilien auf dem Feld,\nund an das, was sie zwischen den vielen Glaslilien sagte.\n\n„Diese unbedeutenden Menschen, die so klein und zerbrechlich sind wie Staubkörnchen ...“\n„Da sie so unbedeutend und klein sind, wissen sie nicht, ob sie an Naturkatastrophen oder von Menschen verursachten Katastrophen sterben werden. Daher haben sie immer Angst.“\n„Furcht bringt sie dazu, sich mehr anzustrengen und klüger sein zu wollen. Das ist verständlich.“\n„Da du viel stärker bist als ich, muss ich meine Fähigkeiten und meine Weisheit klug einsetzen.“\n„Mit deiner Kraft und meinem Verstand ... könnte diese Stadt Erstaunliches leisten.“\nAm Ende lächelte er traurig und zerfiel ganz langsam zu Staub ...\n„Ich scheine nicht mehr mit dir gehen zu können. Vergiss das Schloss!“\n\n„Dies ist ein Zeichen des Bündnisses und meine Herausforderung an dich.“\n„Meine ganze Weisheit ist hinter diesem Steinschloss verborgen.“\n„Falls du es jedoch öffnen kannst ...“\nIn all den Jahren konnte ich das Schloss nicht öffnen und wusste auch nicht, wie dieser Satz enden würde.\nMit der Zeit waren fast alle wilden Glaslilien verschwunden.\n",
+        "chs": null,
+        "cht": "\n「這是盟約的信物，也是我對你的挑戰」\n「我的一切智慧，都藏在這把石鎖之中」\n他想起初次見面，大衣袖的少女呈上信物時故作莊嚴而雀躍的樣子。\n真是愚蠢，明明就沒有正式的契約，明明只不過自顧自地一同行動…\n但就是會想起，過去琉璃百合盛放的原野上，兩人初次相見的情景，\n以及最後，在琉璃百合叢中，她說的話。\n\n「那些小小的人兒們，如同微塵般渺小又脆弱」\n「因為渺小，所以不知何時會殞命於天災人禍。所以總是害怕」\n「因為害怕，所以總是努力，想變得更聰明。我啊，是明白的」\n「所以我想，既然與你力量差距太大，那就運用技術與智慧吧」\n「同時具有你的力量與我的頭腦的話…這座城市會很了不起吧」\n她最後有些落寞地笑了笑，慢慢化作了無比細微的塵埃。\n「看來還是無法和你一同走下去了。那把鎖的事情，忘了它吧」\n\n「這是盟約的信物，也是我對你的挑戰」\n「我的一切智慧，都藏在這把石鎖之中」\n「如果能解開它的話——」\n許多年，他都沒能解開這把鎖，也不知道那句話的下文。\n隨著歲月變遷，如今野生的琉璃百合也幾乎不見蹤跡了。\n",
+        "es": "\n“Este es el símbolo del pacto, y también es el desafío que te propongo”.\n“Toda mi sabiduría está contenida en este candado”.\nRecordó la primera vez que había visto a la joven de amplias mangas, quien con expresión solemne y emocionada le mostraba el símbolo.\n¡Qué estupidez! Estaba claro que no había ningún contrato oficial y que simplemente iban juntos, pero de forma independiente.\nPero, aun así, recordaba la escena en la que se encontraron por primera vez, los lirios de cristal floridos en el campo,\ny al final, cuando ella habló entre las flores.\n\n“Esas personas insignificantes que son tan pequeñas y frágiles como motas de polvo...”\n“Como son insignificantes, no saben si morirán a causa de desastres naturales o provocados, y siempre tienen miedo”.\n“El miedo hace que se esfuercen y que quieran ser más inteligentes. Es comprensible”.\n“Como tú eres mucho más fuerte que yo, debo utilizar mis habilidades y mi sabiduría”.\n“Con tu fuerza y mi cerebro... esta ciudad sería increíble”.\nAl final, sonrió tristemente y se convirtió, muy despacio, en una mota de polvo.\n“Parece que no puedo seguir caminando contigo. ¡Olvida el asunto del candado!”.\n\n“Este es el símbolo del pacto, y también es el desafío que te propongo”.\n“Toda mi sabiduría está contenida en este candado”.\n“Si la liberaras...”\nEn todos estos años, no había sido capaz de acceder a la sabiduría contenida en el candado, ni sabía cómo terminaría aquella frase.\nCon el paso del tiempo, los lirios de cristal salvajes casi habían desaparecido.\n",
+        "fr": "\n« C'est le symbole du pacte, et c'est aussi le défi que je te propose. »\n« Toute ma sagesse est contenue dans ce fermoir de pierre. »\nIl se souvenait de leur première rencontre, quand la jeune fille aux longues manches lui avait montré le symbole, avec une expression qui mélangeait excitation et sérieux.\nC'est idiot ! Il était clair qu'il n'y avait aucun pacte officiel et qu'ils allaient simplement ensemble...\nMais il se souvenait de leur première rencontre quoi qu'il en soit, quand les lys vernis en fleurs abondaient.\nIl se rappelait aussi ces mots qu'elle prononça au milieu des lys vernis.\n\n« Ces êtres insignifiants sont aussi petits et fragiles que des grains de poussière... »\n« Ils sont si insignifiants qu'ils ne savent pas s'ils mourront d'une catastrophe naturelle ou de la main de l'homme, et passent leur vie dans une crainte continue. »\n« Cette peur les pousse à lutter pour devenir plus intelligents. C'est compréhensible... »\n« Puisqu'il y a une trop grande différence entre nos forces, je dois utiliser ma sagesse et mes compétences. »\n« Avec ta force et mon intelligence... Cette ville serait incroyable... »\nSon dernier sourire était un sourire solitaire, tandis qu'elle se transformer en la plus fine des poussières.\n« Je ne pourrai pas continuer avec toi. Oublie donc cette histoire de fermoir ! »\n\n« C'est le symbole du pacte, et c'est aussi le défi que je te propose. »\n« Toute ma sagesse est contenue dans ce fermoir de pierre. »\n« Si tu arrives à l'ouvrir... »\nLes années passèrent, sans qu'il arrive à ouvrir le fermoir, ni qu'il découvre la suite de cette phrase.\nEt au fil des années, les lys vernis sauvages disparurent progressivement.\n",
+        "id": "\n\"Ini adalah tanda perjanjian aliansi dan tantanganku untukmu.\"\n\"Semua kebijaksanaanku, semuanya tersegel di dalam batu ini\"\nDia ingat pertama kali dia bertemu, gadis dengan kemeja lengan panjang memberikan kepercayaannya dengan penampilannya yang serius namun ceria.\nBodoh sekali, jelas tidak ada kesepakatan resmi, mereka hanya bertindak bersama-sama saja...\nTapi aku baru teringat adegan ketika keduanya bertemu untuk pertama kalinya di lapangan di mana bunga lili bermekaran,\nSerta kata terakhir yang dia ucapkan, pada pertemuan itu.\n\n\"Orang-orang itu kecil dan rapuh seperti debu.\"\n\"Karena kecil, tidak tahu kapan akan terbunuh oleh bencana alam dan ulah manusia. Jadi selalu takut.\"\n\"Karena takut, jadi selalu bekerja keras dan ingin lebih pintar. Aku mengerti.\"\n\"Jadi kupikir, jika kekuatanku dibandingkan dengan kamu, itu terlalu lemah, maka gunakan saja teknik dan kebijaksanaan.\"\n\"Jika memiliki kekuatan dan pikiranku pada saat yang bersamaan... kota ini pasti akan menjadi hebat, bukan\"\nAkhirnya, dia tersenyum simpul dan perlahan berubah menjadi debu yang sangat halus.\n\"Sepertinya kita belum bisa pergi. Lupakan saja kunci itu.\"\n\n\"Ini adalah tanda perjanjian aliansi dan tantanganku untukmu.\"\n\"Semua kebijaksanaanku, semuanya tersegel di dalam batu ini\"\n\"Jika kamu bisa membukanya-\"\nBertahun-tahun kemudian, dia masih saja tidak bisa membuka kunci itu, dia juga tidak tahu sisa dari kalimat itu.\nSetelah bertahun-tahun berlalu, bunga bakung liar yang berkilauan pun sudah hampir punah.\n",
+        "jp": "\n「これが盟約の印であり、私からあなたへの挑戦状でもある」\n「わたしの全ての知恵を、この石錠に閉じ込めた」\n彼は初めて少女を見た時の事を思い出した。ぶかぶかな着物を着て、印を持った彼女は、わざとらしい位に真面目な顔をしていた。\n本当に愚かだ。まだ正式な契約を結んでいないと言うのに。\n彼はまた、昔、琉璃百合の咲き乱れる野原で、二人が初めて出会った情景を思い出した。\nそれと、琉璃百合の中で、彼女と最後に交わした言葉も。\n\n「あの小さな者達は、塵のようにちっぽけで軟弱だ」\n「ちっぽけだから、いつ自分達が天災や事故で死ぬのか、いつも怯えている」\n「怯えているから、もっと賢くなろうと、いつも努力している。私には分かる」\n「だから、あなたの力には遠く及ばないけど、私達は技術と知恵を使えばいいと思うの」\n「同時にあなたの力と私の頭脳があれば……この街は素晴らしい場所になるはずよ」\n彼女は寂しそうに笑うと、ゆっくりと細かい塵と化した。\n「やっぱり、あなたとは共に歩めそうにないわ。錠前の事は、忘れて」\n\n「これが盟約の印であり、私からあなたへの挑戦状でもある」\n「わたしの全ての知恵を、この石錠に閉じ込めた」\n「もし、これを解く事が出来るのなら——」\n何年経っても、彼にはそれを解く事が出来なかったし、その言葉の続きも知らなかった。\n月日が流れるにつれ、野生の琉璃百合もほとんど姿を消していった。\n",
+        "kr": "\n「이건 맹약의 증표이자 당신을 향한 내 도전이야」\n「내 모든 지혜를 이 돌 자물쇠 안에 숨겨 놓았어」\n그는 첫 만남에서 소매가 큰 옷을 입은 소녀가 진지하고 엄숙한 척하며 증표를 바치던 모습이 떠올랐다.\n정말 어리석었다. 아직 정식으로 계약을 체결하지도 않았는데…\n하지만 그는 과거 유리백합이 만발하던 들판에서 두 사람이 처음 만났던 상황을 떠올렸다.\n그리고 마지막에 유리백합 속에서 그녀와 나눈 말도.\n\n「저 조그만 사람들은 티끌처럼 작고 연약해」\n「아주 작아서 언제 재앙이나 사고로 죽을지를 항상 두려워하고 있지」\n「두려워하고 있기에 더 똑똑해지려고 노력하는 거라는 걸 난 알아」\n「당신 힘에는 많이 못 미치니까 기술과 지혜를 사용하면 될 것 같아」\n「당신의 힘과 내 두뇌가 함께한다면… 이 도시도 엄청 대단해지겠지」\n그녀는 마지막에 쓸쓸하게 웃더니 천천히 아주 작은 먼지가 되었다.\n「역시 당신과는 함께 하지 못할 것 같아. 자물쇠에 관한 일은 잊어」\n\n「이건 맹약의 증표이자 당신을 향한 내 도전이야」\n「내 모든 지혜를 이 돌 자물쇠 안에 숨겨 놓았어」\n「만약 이걸 열 수 있다면——」\n몇 년이 지나도 그는 이걸 열 수도 그리고 뒷말을 알 수도 없었다.\n세월이 지남에 따라 야생 유리백합도 거의 자취를 감추게 됐다.\n",
+        "pt": "\n\"Isso é o símbolo da aliança, também é o meu desafio para com você.\"\n\"Toda minha sabedoria, tudo selado dentro desta rocha.\"\nEle se lembrou da primeira vez que se encontraram, quando a jovem de mangas compridas lhe mostrou o símbolo e se fingiu de séria e ansiosa.\nÉ realmente estúpido, claramente não havia um acordo oficial, claramente estavam fazendo a mesma jornada mas de forma independente...\nMas se lembrava daquele ambiente onde os dois se viram a primeira vez, aquele campo cheio de Lírios-de-Vidro,\nBem como no final, quando, entre os Lírios-de-Vidro, ela falou.\n\n\"Aquelas pequenas crianças, tão fracas e pequenas como poeira.\"\n\"Por ser tão pequeno, posso morrer a qualquer momento. Sempre estou com medo.\"\n\"Eu tenho medo, portanto sempre estou me esforçando, quero me tornar mais esperto.\"\n\"Como a diferença entre nossas forças é muito grande eu preciso usar técnicas e sabedoria.\" \n\"Com sua força e o meu cérebro, essa cidade será maravilhosa.\"\nEla riu solitariamente, e lentamente tornou-se um minúsculo grão de poeira.\n\"Parece que ainda não somos capazes de ir. Esqueça sobre aquela fechadura.\"\n\n\"Isso é o símbolo da aliança, também é o meu desafio para com você.\"\n\"Toda minha sabedoria, tudo selado dentro desta rocha.\"\n\"Se você conseguir abri-la...\"\nHá muitos anos que ele não conseguia abrir a fechadura, e também não sabia o fim daquela frase.\nCom o passar dos anos, hoje quase não há sinal dos Lírios de Vidro selvagens.\n",
+        "ru": "\n«Это символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость».\nОн вспомнил, как при первой встрече она радостно преподнесла символ с притворной торжественностью.\nКакая глупость. Понятно, что договор не настоящий. Просто само собой получилось, что они остались вместе.\nОн вспоминал их первую встречу на поле цветущих глазурных лилий.\nОн вспоминал, как среди лилий она сказала:\n\n«Эти людишки такие ничтожные и слабые, словно пыль.\nИз-за ничтожности не знают, когда оборвётся их жизнь, и потому боятся.\nИз-за страха всё пыжатся, хотят стать умнее. А я знаю.\nИ вот я думаю - силой с тобой не сравниться, так надо использовать знания и умения.\nС твоей силой и моим умом... Этот город будет чудесным».\nПотом она как-то опустошённо улыбнулась и медленно превратилась в мелкую пыль.\n«Похоже, что всё-таки не смогу я быть вместе с тобой. А про тот замок... Забудь.\n\nЭто символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость.\nЕсли сможешь открыть...»\nОн так и не смог открыть замок. Он так и не знал окончания фразы.\nПрошло много лет. Сегодня от диких лилий уже почти не осталось следа.\n",
+        "th": "\n\"สิ่งนี้เป็นสัญลักษณ์แทนคำสัญญาของเรา และเป็นการท้าทายของฉันที่มีต่อนาย\"\n\"ความรู้ทั้งหมดของฉัน ใส่ไว้ในทุ่นหินนี้แล้ว\"\nเขายังจำครั้งแรกที่เจอกับเธอได้ สาวน้อยที่สวมเสื้อแขนพอง เธอยื่นของที่ระลึกนี้ให้ พร้อมทำท่าเคร่งขรึมแต่แฝงไปด้วยความขี้เล่น\nซื่อบื้อจริง ๆ เลย มันไม่มีสัญญาอะไรสักหน่อย ก็แค่คนสองคนที่ต้องร่วมทางกันด้วยเหตุผลของตัวเอง\nแต่เขาก็ยังจำฉากตอนที่พวกเขาเจอกันครั้งแรกได้อยู่ดี ตอนที่ดอก Glaze Lily บานสะพรั่งอยู่ในทุ่ง\nเขายังจำคำพูดสุดท้ายที่เธอพูดกับเขากลางทุ่งดอก Glaze Lily ได้ด้วย\n\n\"คนพวกนั้นตัวเล็กและบอบบางเหมือนฝุ่นธุลี\"\n\"เพราะพวกเขาตัวเล็ก จึงไม่รู้ว่าเมื่อไหร่จะต้องตายเพราะภัยธรรมชาติหรือภัยจากคนด้วยกัน พวกเขาถึงได้หวาดกลัว\"\n\"เพราะความกลัว พวกเขาถึงต้องดิ้นรนพยายามให้ตัวเองฉลาดขึ้น ฉันน่ะเข้าใจดี\"\n\"ฉันถึงได้คิดว่า ในเมื่อพลังของเรายังต่างกันมากเกินไป งั้นฉันก็ใช้เทคนิคและความรู้ดีกว่า\"\n\"ด้วยพลังของเธอ และมันสมองของฉัน... น่าจะทำให้เมืองนี้เป็นเมืองที่ดีเมืองนึง\"\nรอยยิ้มสุดท้ายของเธอช่างดูเดียวดาย และร่างของเธอค่อย ๆ สลายไปกลายเป็นส่วนหนึ่งของฝุ่นละออง\n\"ดูเหมือนว่าการเดินทางร่วมกันของเรามาถึงจุดจบแล้ว เรื่องของทุ่นหินนี้ นายก็ลืมมันไปซะเถอะ\"\n\n\"สิ่งนี้เป็นสัญลักษณ์แทนคำสัญญาของเรา และเป็นการท้าทายของฉันที่มีต่อนาย\"\n\"ความรู้ทั้งหมดของฉัน ใส่ไว้ในทุ่นหินนี้แล้ว\"\n\"ถ้าสามารถเปิดมันได้ล่ะก็——\"\nผ่านมาหลายปีแล้ว แต่เขาก็ยังไม่สามารถไขล็อกนั้นได้สักที และเขาก็ไม่รู้เลยว่าข้อความต่อจากข้อความนั้นคืออะไร\nเวลาผ่านไปอีกหลายปี จนกระทั่งดอก Glaze Lily โรยราไปจนไม่สามารถพบมันได้อีกแล้ว\n",
+        "vi": "\n\"Đây là tín vật của liên minh, cũng là sự thử thách của ta dành cho ngươi\"\n\"Tất cả trí tuệ của ta đều cất giữ trong ổ khóa bằng đá này\"\nAnh nhớ lại lần đầu tiên gặp mặt, cô gái mặc áo dài tay dâng lên tín vật với dáng vẻ trang trọng mà vui vẻ.\nĐúng là ngu ngốc, rõ ràng là không có giao kèo chính thức, rõ ràng chỉ là tự ý hành động cùng nhau...\nNhưng chỉ nhớ đến giây phút hai người gặp nhau lần đầu, trên thảo nguyên nở rộ bách hợp lưu ly, \nCũng như lời cuối cùng mà cô ấy nói, giữa những đóa bách hợp lưu ly.\n\n\"Những con người ấy, nhỏ bé và mong manh như hạt bụi\"\n\"Chính vì quá nhỏ bé, bởi vậy không biết khi nào sẽ bỏ mạng trong thiên tai hoạn nạn. Bởi vậy cứ luôn lo sợ\"\n\"Chính vì lo sợ, nên cứ luôn nỗ lực, mong muốn trở nên thông minh hơn. Ta hiểu điều đó\"\n\"Vì thế ta nghĩ, nếu sức mạnh của ta so với ngươi quá kém cỏi, thì cứ dùng kỹ thuật và trí tuệ\"\n\"Cùng lúc sở hữu sức mạnh của ngươi và trí óc của ta... thành phố này chắc chắn sẽ rất tuyệt phải không\"\nCuối cùng cô ấy lặng lẽ mỉm cười, rồi từ từ hóa thành hàng vạn hạt bụi li ti.\n\"Xem ra vẫn không thể cùng ngươi đi tiếp. Chuyện về chiếc ổ khóa đó, hãy quên nó đi\"\n\n\"Đây là tín vật của liên minh, cũng là sự thử thách của ta dành cho ngươi\"\n\"Tất cả trí tuệ của ta đều cất giữ trong ổ khóa bằng đá này\"\n\"Nếu có thể mở nó ra...\"\nRất nhiều năm sau, anh ấy vẫn không thể mở ổ khóa ấy, cũng không biết được vế còn lại của câu nói đó.\nTheo thời gian, cánh đồng bách hợp lưu ly ấy cũng đã biến mất không dấu vết.\n"
+    }
+}

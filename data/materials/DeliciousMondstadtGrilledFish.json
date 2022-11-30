@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Mondstadt Grilled Fish",
+        "de": "Leckerer gegrillter Fischspieß",
+        "chs": "美味的蒙德烤鱼",
+        "cht": "美味的蒙德烤魚",
+        "es": "Pescado a la parrilla de Mondstadt delicioso",
+        "fr": "Poisson grillé mondstadtois (délicieux)",
+        "id": "Delicious Mondstadt Grilled Fish",
+        "jp": "美味しそうなモンド風焼き魚",
+        "kr": "맛있는 몬드 생선구이",
+        "pt": "Peixe Grelhado de Mondstadt Delicioso",
+        "ru": "Вкусный рыбный шашлычок",
+        "th": "Mondstadt Grilled Fish แสนอร่อย",
+        "vi": "Cá Nướng Mondstadt Ngon"
+    },
+    "id": 108097,
+    "materialDesc": {
+        "en": "Fish grilled thoroughly with moderate fire, locking the delicious juice inside the meat under the crispy skin. A small bite is all that's needed to unlock its wondrous and delicious taste.",
+        "de": "Ein auf kleiner Flamme gegrillter Fischspieß. Eine dünne Fettschicht trennt die knusprige Haut von dem zarten Fleisch. Selbst der kleinste Happen bringt einen Mund voll Freude.",
+        "chs": "小火细烤的鱼串。火烤后的油脂细腻地分布在酥脆鱼皮与香嫩鱼肉之间，轻轻一抿就已满口留香。",
+        "cht": "慢火細烤的魚串。火烤後的油脂細膩地分佈在酥脆魚皮與香嫩魚肉之間，輕輕一抿就已滿口留香。",
+        "es": "Brocheta de pescado a la parrilla hecha a fuego lento. Después de cocinarse, la grasa se ha distribuido delicadamente entre la crujiente piel y la tierna y suave carne. Un simple bocado te traerá una desbordante alegría.",
+        "fr": "Poisson grillé à feu doux. Une délicate couche de graisse sépare la peau croustillante de la chair tendre. Une bouchée suffira à libérer son goût incroyable.",
+        "id": "Ikan yang dipanggang dengan api sedang, hasilnya adalah kulit ikan yang renyah dan daging ikan yang lembut. Cukup satu gigitan akan membuatmu ketagihan dengan kelezatannya.",
+        "jp": "弱火でじっくり焼き上げた魚。脂が乗ってて、一口で魚の旨味が口の中に広がる。",
+        "kr": "약불에 구운 생선 꼬치. 불에 구워낸 기름을 바삭한 생선 껍질과 연한 생선살 사이에 골고루 바른다. 베어 무는 순간 온 입안에 향이 가득 찬다",
+        "pt": "Peixe grelhado cuidadosamente em fogo moderado, mantendo o delicioso suco dentro da carne sob a pele crocante. Basta uma pequena mordida para sentir seu sabor maravilhoso e delicioso.",
+        "ru": "Пожаренная на среднем огне хрустящая рыбка. Такой способ жарки позволяет задержать рыбные соки под хрустящей корочкой. Хватает всего лишь маленького укуса, чтобы прочувствовать весь букет вкусов и ароматов этого шашлычка.",
+        "th": "ปลาเสียบไม้ย่างด้วยไฟอ่อน ๆ หลังการปรุงอาหารน้ำมันจะถูกกระจาย อย่างประณีตระหว่างหนังปลาที่กรอบ และเนื้อที่เนียนนุ่ม ซึ่งมันเต็มไปด้วยรสชาติ หลังจากกัดไปแค่คำเดียว",
+        "vi": "Xiên cá được nướng kỹ bằng lửa nhỏ. Sau khi nướng mỡ được trải đều trên da cá giòn rụm và thớ thịt thơm ngon, cắn một miếng là mùi thơm lan tỏa."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

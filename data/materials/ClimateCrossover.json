@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Climate Crossover",
+        "de": "Klimaübergang",
+        "chs": "气候相交之地",
+        "cht": "氣候相交之地",
+        "es": "Cruce de climas",
+        "fr": "« Croisée des climats »",
+        "id": "Wilayah Iklim Pancaroba",
+        "jp": "気候が交わる地",
+        "kr": "기후가 맞닿은 곳",
+        "pt": "Mudança de Clima",
+        "ru": "Климатический перекрёсток",
+        "th": "พื้นที่สภาพอากาศแปรปรวน",
+        "vi": "Khu Khí Hậu Giao Thoa"
+    },
+    "id": 350029,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up a \"Climate Crossover.\"\\nA strange area where different weather conditions interweave, and where plants with different specialties grow. At first, some scholars believed that this might be a result of abnormalities in the ley lines, but later investigations would reveal that this is simply one of Teyvat's many wondrous natural phenomena.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Klimaübergang“.\\nEin seltsames Gebiet, in dem verschiedene Wetterbedingungen ineinandergreifen und in dem Pflanzen mit unterschiedlichen Besonderheiten wachsen. Zunächst glaubten einige Gelehrte, dass dies ein Ergebnis von Elementaranomalien im Fluss der Elemente sein könnte, aber spätere Untersuchungen zeigten, dass dies einfach eine der vielen wundersamen Naturerscheinungen von Teyvat ist.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「气候相交之地」的放置方法。\\n多种气候相交的奇妙地带，生长着不同特点的植株。最初有学者认为这可能是地脉异常导致的结果，但随后的调查证明，这只是提瓦特大陆各种奇妙的自然现象之一。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「氣候相交之地」的放置方法。\\n多種氣候相交的奇妙地帶，生長著不同特點的植株。最初有學者認為這可能是地脈異常導致的結果，但隨後的調查證明，這只是提瓦特大陸各種奇妙的自然現象之一。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar Cruce de climas.\\nUna extraña zona donde se entrelazan diferentes climas y donde crecen plantas con características diferentes. En un principio, algunos eruditos creyeron que esto podría deberse a anomalías en las líneas ley, pero según las posteriores investigaciones, simplemente se trata de uno de los muchos maravillosos fenómenos naturales de Teyvat.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place de la « Croisée des climats ».\\nUne étrange zone où différentes conditions météorologiques se mêlent, et où poussent des plantes aux caractéristiques variées. Au départ, certains chercheurs pensaient que cela pouvait résulter d'anomalies dans les lignes énergétiques, mais des recherches ultérieures ont révélé qu'il s'agissait d'un des nombreux phénomènes extraordinaires de Teyvat.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Wilayah Iklim Pancaroba\".\\nSebuah wilayah aneh di mana cuaca yang berbeda-beda saling bercampur menjadi satu, dan tanaman-tanaman dengan karakteristik unik bertumbuh di tempat ini. Awalnya, para peneliti memercayai bahwa cuaca abnormal ini muncul karena gangguan di ley line, tetapi penelitian lebih lanjut menunjukkan bahwa ini hanyalah fenomena alam Teyvat yang menakjubkan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「気候が交わる地」の詳しい配置方法が載っている設計図。\\n複数の気候が交差する奇妙なところ。様々な特徴を持つ植物が生息している。地脈の異常による現象だと考える学者もいたが、その後の調査で、これはただのテイワット大陸で起こりうる怪奇な自然現象だということが分かった。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「기후가 맞닿은 곳」의 설치 방법이 기재되어 있다.\\n다양한 기후가 맞닿은 기묘한 지역. 다양한 특성의 식물이 자란다. 처음에 일부 학자들은 이것이 비정상적인 지맥 이상으로 인한 결과일 수 있다고 생각했지만 후속 조사에서는 이것이 티바트 대륙의 멋진 자연 현상 중 하나에 불과하다는 것을 증명했다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Mudança de Clima\".\\nUma área estranha onde diferentes condições climáticas se entrelaçam, e onde crescem plantas com diferentes especialidades. No início, alguns estudiosos acreditavam que isto poderia ser resultado de anormalidades nas Linhas Ley, mas investigações posteriores revelariam que este é simplesmente um dos muitos fenômenos naturais maravilhosos de Teyvat.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Климатический перекрёсток».\\nСтранная территория, где переплетаются различные климатические условия, и где растут растения с различными характеристиками. Сначала некоторые учёные считали, что это может быть результатом аномалий артерий земли. Позже исследования показали, что это просто один из многих занимательных природных феноменов Тейвата.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"พื้นที่สภาพอากาศแปรปรวน\" \\nโซนอากาศแปลกประหลาดที่ภูมิอากาศแตกต่างกัน มีพืชที่มีลักษณะแตกต่างกันเติบโตขึ้นมา ในตอนแรกนักวิชาการบางคนคิดว่านี่อาจเป็นผลมาจากกระแสพลังที่ผิดปกติ แต่การตรวจสอบในภายหลังได้พิสูจน์แล้วว่า นี่เป็นเพียงหนึ่งในปรากฏการณ์ทางธรรมชาติที่ยอดเยี่ยมใน Teyvet เท่านั้น\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Khu Khí Hậu Giao Thoa\".\\nMột vùng kỳ diệu với nhiều loại khí hậu đan xen, khiến nhiều loại thực vật với các đặc điểm khác nhau sinh trưởng. Ban đầu, có học giả cho rằng đây là kết quả của địa mạch bất thường gây ra, nhưng các cuộc điều tra sau đó đã chứng minh rằng, đây thực sự là một trong các hiện tượng tự nhiên kỳ diệu ở Teyvat.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

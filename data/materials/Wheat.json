@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wheat",
+        "de": "Weizen",
+        "chs": "小麦",
+        "cht": "小麥",
+        "es": "Trigo",
+        "fr": "Brin de blé",
+        "id": "Wheat",
+        "jp": "小麦",
+        "kr": "밀",
+        "pt": "Trigo",
+        "ru": "Пшеница",
+        "th": "Wheat",
+        "vi": "Tiểu Mạch"
+    },
+    "id": 100017,
+    "materialDesc": {
+        "en": "Golden, sun-kissed tassels. Needs to be ground down to flour for further use.",
+        "de": "Die goldenen Ähren strahlen pure Hoffnung aus. Sie müssen gedroschen und die Körner gemahlen werden. Mit Wasser und Feuer nehmen sie ihre letzte Form an.",
+        "chs": "金灿灿的穗子，让人充满希望。要经过磨砺与水火才能成为终极形态。",
+        "cht": "金燦燦的穗子，讓人充滿希望。要經過磨礪與水火才能成為終極形態。",
+        "es": "Un cereal dorado y tostado por el sol. Para usarlo, necesita ser molido hasta convertirse en harina.",
+        "fr": "Céréale dorée par le soleil qui donne de l'espoir et qui remplit la panse. Il s'agit d'un ingrédient de base dans une multitude de plats.",
+        "id": "Warnanya keemasan setelah terjemur matahari. Harus diolah menjadi Flour sebelum dapat digunakan.",
+        "jp": "キラキラした穂は人々に希望を与えてくれる。臼で挽いて水や火を加えると究極の形態になる。",
+        "kr": "황금빛의 이삭. 사람들에게 희망을 안겨준다. 물과 불의 단련을 거쳐야만 최종 형태로 변할 수 있다",
+        "pt": "Grãos dourados e tostados pelo sol. Necessitam ser moídos em farinha para usos posteriores.",
+        "ru": "Золотые колосья пшеницы. Перед употреблением в пищу необходимо перемолоть в муку, а муку замесить в тесто.",
+        "th": "พู่ที่ส่องประกายระยิบระยับ สามารถมอบความหวังให้แก่ผู้คนได้ ต้องนำไปแปรรูปก่อนจึงจะสามารถนำมาใช้ประโยชน์ได้",
+        "vi": "Màu vàng bắt mắt, khiến người ta tràn đầy hy vọng. Cần phải sàng lọc và mài giũa mới ra hình thái cuối cùng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

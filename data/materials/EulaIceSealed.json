@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Eula: Ice-Sealed",
+        "de": "Eula – Eissiegel",
+        "chs": "优菈·冰印",
+        "cht": "優菈·冰印",
+        "es": "Eula - Insignia Glacial",
+        "fr": "Eula - Sceau de glace",
+        "id": "Eula: Ice-Sealed",
+        "jp": "エウルア·氷印",
+        "kr": "유라·얼음 인장",
+        "pt": "Eula: Selado em Gelo",
+        "ru": "Морозная печать",
+        "th": "Eula - Ice-Sealed",
+        "vi": "Eula - Ấn Băng"
+    },
+    "id": 210070,
+    "materialDesc": {
+        "en": "Namecard style.\\nA cold heart is but a shell to protect oneself.",
+        "de": "Ein Motiv für Namenskärtchen.\\nEin kaltes Herz ist nur eine Hülle, um sich zu schützen.",
+        "chs": "名片纹饰。\\n冷酷的心只是保护自己的外壳。",
+        "cht": "名片紋飾。\\n冷酷的心只是保護自己的外殼。",
+        "es": "Diseño de tarjeta de presentación.\\nUn corazón de hielo no es más que una forma de protección.",
+        "fr": "Thème.\\nUn cœur froid n'est qu'une coquille pour se protéger.",
+        "id": "Style Kartu Nama.\\nHati yang dingin adalah cangkang untuk melindungi diri sendiri.",
+        "jp": "名刺の飾り紋。\\n冷酷な心は、自分を守るためのカモフラージュ。",
+        "kr": "명함 스킨.\\n차가운 마음은 스스로를 보호하는 껍데기일 뿐이다",
+        "pt": "Estilo de Cartão de Visita.\\nUm coração frio é apenas uma forma de se proteger.",
+        "ru": "Именная карта.\\nХолодное сердце лишь защищает уязвимую душу.",
+        "th": "ลายนามบัตร\\nหัวใจที่เย็นชานั่น เป็นเพียงเกราะที่ไว้ปกป้องตนเองเท่านั้น",
+        "vi": "Hoa văn danh thiếp.\\nTrái tim băng giá chỉ là lớp vỏ tự bảo vệ mình."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gnostic Hymn - Old Notes",
+        "de": "Gnostiker-Erlebnispass – Erste Aufzeichnungen",
+        "chs": "珍珠纪行·初稿",
+        "cht": "珍珠紀行·初稿",
+        "es": "Pase de Batalla del Gnóstico - Borrador",
+        "fr": "Pass de bataille « Gnostique » - Ébauche",
+        "id": "Gnostic Hymn - Old Notes",
+        "jp": "天空紀行·原稿",
+        "kr": "진주 기행·초안",
+        "pt": "Canção do Gnóstico - Anotações Antigas",
+        "ru": "Жемчужный гимн - Черновик",
+        "th": "BP อัศวิน-ฉบับร่าง",
+        "vi": "Nhật Ký Hành Trình Trân Châu - Khởi Đầu"
+    },
+    "id": 1201,
+    "materialDesc": {
+        "en": "An early draft of a traveler's tale, recording the many things they saw on their journey across the lands. But why does it exist? It is almost as if you have been here before...\\n\\nUse this item to unlock Gnostic Hymn for a single period.",
+        "de": "Aufzeichnungen über die vielen Erlebnisse, die jemand in Teyvat gemacht hat. Aber wie kommst du nur dazu? Warst du etwa schon einmal hier?\\n\\nAktiviert nach der Anwendung den Gnostiker-Erlebnispass für die aktuelle Saison.",
+        "chs": "用纪行文体写成的游记，记载了在大陆上旅行的种种见闻。不知道为什么会有这个初稿，难道你之前来过？\\n\\n使用后可以获得当期的珍珠纪行使用资格。",
+        "cht": "用紀行文體寫成的遊記，記載了在大陸上旅行的種種見聞。不知道為什麼會有這個初稿，難道之前來過？\\n\\n使用後可以獲得當期的珍珠紀行使用資格。",
+        "es": "Un diario de viaje en el que está escrito en orden cronológico todo lo que has visto y escuchado en tu viaje por Teyvat. No sabes por qué tienes este borrador. ¿Acaso has estado aquí antes?\\n\\nDespués de usarlo, podrás obtener el Pase de Batalla del Gnóstico actual.",
+        "fr": "#Une ébauche de l'histoire d'{M#un voyageur}{F#une voyageuse} à travers les contrées de Teyvat, comprenant des notes sur ses découvertes. Pourquoi ce document est-il en votre possession ? Avez-vous vécu ces aventures ?\\nUtilisez cet objet pour débloquer le Pass de bataille « Gnostique » pour une session.",
+        "id": "Catatan perjalanan awal seorang pengembara yang mencatat semua pengalamannya di berbagai negeri. Tapi kenapa catatan ini ada? Apa kamu pernah ke sini sebelumnya?\\n\\nGunakan item ini untuk membuka Gnostic Hymn untuk satu periode.",
+        "jp": "紀行文体で書かれた、大陸での旅の見聞を記録した旅行記。何故この原稿が存在するかわからない、もしかして以前来たことがある？\\n\\n使用すると今期の天空紀行が開放される。",
+        "kr": "기행문체로 쓰인 여행기. 대륙을 여행하며 보고 들었던 것들이 적혀있다. 초고가 왜 있는지는 모르겠다. 혹시 전에 와 봤어?\\n\\n사용 후 이번 진주 기행 사용 자격을 획득한다",
+        "pt": "Um rascunho inicial da história de um viajante, registrando as muitas coisas que eles viram em sua jornada pelas terras. Mas por que isso existe? É quase como se você já estivesse aqui antes...\\n\\nUse este item para desbloquear o Passe de Batalha do Gnóstico do período.",
+        "ru": "Путевые заметки, рассказывающие о разных интересных вещах, повстречавшихся вам на континенте. Не известно, откуда появился этот черновик. Возможно, вы уже были в этом мире?\\n\\nИспользование этого предмета даёт вам доступ к текущему Жемчужному гимну.",
+        "th": "บันทึกการเดินทางที่เอาไว้บันทึกสิ่งต่าง ๆ ที่ได้พบเจอในการเดินทางบนโลกกว้าง ไม่รู้ว่าทำไมถึงมีฉบับร่างนี้ได้ หรือว่าเธอเคยมาที่นี่มาก่อน?\\n\\nหลังจากใช้แล้วจะได้สิทธิ์ในการใช้ BP อัศวิน",
+        "vi": "Du ký được viết theo cách ghi lại hành trình, ghi chép vô vàn kiến thức trên lục địa. Không biết vì sao lại có bản nháp này, chẳng lẽ trước kia bạn đã từng đến?\\n\\nDùng xong có thể nhận tư cách sử dụng Nhật Ký Hành Trình Trân Châu."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

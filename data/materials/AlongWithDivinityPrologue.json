@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Along with Divinity: Prologue",
+        "de": "Bei den Göttern – Vorwort",
+        "chs": "与神性同行·序言",
+        "cht": "與神性同行·序言",
+        "es": "Caminando con los dioses: Prólogo",
+        "fr": "Avec les Dieux - Prologue",
+        "id": "Kesucian Menyertai: Prolog",
+        "jp": "神性と共に·序",
+        "kr": "신과 함께·프롤로그",
+        "pt": "Juntamente com a Divindade - Prólogo",
+        "ru": "Вместе с божествами. Пролог",
+        "th": "เดินในทางของพระเจ้า - คำนำ",
+        "vi": "Đồng Hành Với Thần (Mở Đầu)"
+    },
+    "id": 100181,
+    "materialDesc": {
+        "en": "\"Have you ever thought about what our lives would've been like without the archons?\"\\nCome and join the author in an exploration of \"divinity\" with humor and logic.",
+        "de": "„Hast du schon einmal darüber nachgedacht, wie ein Leben ohne die Götter wäre?“\\nUntersuche gemeinsam mit dem Autor den Götterbegriff auf logische und doch humorvolle Weise.",
+        "chs": "「你有没有思考过，假如没有了神，我们的生活会怎样？」\\n在理智而幽默的叙述中，与作者一同拨开那团名为「神性」的迷雾。",
+        "cht": "「你有沒有思考過，假如沒有了神，我們的生活會怎樣？」\\n在理智而幽默的敘述中，與作者一同撥開那團名為「神性」的迷霧。",
+        "es": "“¿Te has preguntado alguna vez cómo serían nuestras vidas sin divinidades?”.\\nÚnete al escritor en una exploración de las “divinidades” con humor y lógica”.",
+        "fr": "À quoi nos vies ressembleraient sans présence divine ?\\nAccompagnez l'auteur dans l'exploration du thème de la divinité avec objectivité et humour.",
+        "id": "\"Apakah kamu pernah berpikir, bagaimana jadinya hidup kita tanpa adanya Archon?\"\\nMari bersama-sama menelusuri misteri \"kesucian\" dengan logika dan canda tawa.",
+        "jp": "「もし神がいなかったら、私たちの生活はどうなっていたか、考えたことある？」\\n理性とユーモアの叙述の中で、作者と共に「神性」という名の霧を払おう。",
+        "kr": "「만약 신이 없다면 우리의 생활이 어떨지 생각해 본 적 있어?」\\n이성적이고 유머러스한 서술을 통해 작가와 함께 「신」을 둘러싼 미지의 안개를 걷어본다",
+        "pt": "\"Você já pensou como seria nossas vidas sem as divindades?\"\\nJunte-se ao escritor em uma exploração de \"divindades\" com humor e lógica.",
+        "ru": "«Задумывались ли вы когда-нибудь, какой бы могла быть жизнь без Архонтов?»\\nПрисоединяйтесь к автору в исследовании «божественности» с юмором и логикой.",
+        "th": "\"เคยคิดไหมว่าชีวิตของพวกเราจะเป็นยังไง ถ้าไม่มีเหล่าเทพธิดา?\"\\nมาร่วมอ่านเรื่องราวจากนักเขียนในการออกสำรวจและค้นหาตัวตนของ \"เทพเจ้า\" ด้วยเรื่องเล่าและหลักเหตุผลกันเถอะ",
+        "vi": "\"Bạn có từng nghĩ, nếu không có Thần, cuộc sống của chúng ta sẽ ra sao?\"\\nTrong câu chuyện lý trí pha chút hài hước, hãy cùng tác giả giải câu đố về \"Thần Tính\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

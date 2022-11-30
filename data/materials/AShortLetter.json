@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Short Letter",
+        "de": "Kurzer Brief",
+        "chs": "一封短信",
+        "cht": "一封短信",
+        "es": "Una carta corta",
+        "fr": "Courte lettre",
+        "id": "Sepucuk Surat Pendek",
+        "jp": "一通のメッセージ",
+        "kr": "한 통의 짧은 편지",
+        "pt": "Uma Carta Sucinta",
+        "ru": "Письмо",
+        "th": "จดหมายฉบับหนึ่ง",
+        "vi": "Bức Thư Ngắn"
+    },
+    "id": 120126,
+    "materialDesc": {
+        "en": "A short letter that was written in code. You do not know who wrote it or why, but it has ended up here all the same.",
+        "de": "Ein kurzer Brief, der in Geheimsprache geschrieben wurde. Du weißt nicht, von wem er stammt oder zu welchem Zweck er hierhin gelangt ist.",
+        "chs": "用密语写就的短信。不知是谁，出于何种目的置于此处。",
+        "cht": "用密語寫就的短信。不知是誰，出於何種目的置於此處。",
+        "es": "Una breve carta escrita en código. No sabes quién la escribió o por qué, pero ahí está.",
+        "fr": "Un message court écrit en langage codé. Vous ne savez pas qui en est l'auteur et pourquoi il a été laissé ici.",
+        "id": "Sepucuk surat pendek yang ditulis dengan berbagai kode. Kamu tidak tahu siapa yang menulisnya dan kenapa, dan tidak tahu juga kenapa ada di sini.",
+        "jp": "暗号で書かれたメッセージ。誰が、どんな目的でここに置いたかはわからない。",
+        "kr": "암호로 적힌 짧은 편지. 누가, 어떤 목적으로 여기에 두었는지는 알 수 없다",
+        "pt": "Uma carta sucinta escrita em códigos. Você não sabe quem a escreveu ou porque ela foi escrita, mas ela acabou aqui de toda forma.",
+        "ru": "Короткое письмо, написанное неким шифром. Вы не знаете, кто и зачем его написал, и как оно здесь очутилось.",
+        "th": "จดหมายสั้นที่เขียนด้วยรหัสลับ ไม่รู้ว่าเป็นของใคร และมาอยู่ที่นี่ด้วยเป้าหมายอะไร",
+        "vi": "Bức thư ngắn viết bằng mật ngữ. Không biết ai đã viết nó, tại sao hoặc mục đích xuất hiện ở đây."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Bamboo Shoot Soup",
+        "de": "Leckere Bambussuppe mit Fleischeinlage",
+        "chs": "美味的腌笃鲜",
+        "cht": "美味的醃篤鮮",
+        "es": "Sopa de brotes de bambú deliciosa",
+        "fr": "Soupe de porc aux pousses de bambou (délicieuse)",
+        "id": "Delicious Bamboo Shoot Soup",
+        "jp": "美味しそうな腌篤鮮",
+        "kr": "맛있는 죽순 수프",
+        "pt": "Sopa de Bambu Deliciosa",
+        "ru": "Вкусный свиной суп с бамбуком",
+        "th": "Salted Pork Soup แสนอร่อย",
+        "vi": "Măng Chua Tươi Ngon"
+    },
+    "id": 108154,
+    "materialDesc": {
+        "en": "A soup dish that's been stewed for a good long while. One whiff is enough to whet one's appetite greatly, and the concentrated flavors fill your body with every spoonful of soup. It is almost like spreading a pair of wings and walking on clouds.",
+        "de": "Eine Suppe, die lange geköchelt wird. Der Duft allein lässt einem das Wasser im Munde zusammenlaufen. Ein Löffel Suppe steckt schon so voller Geschmack, dass es kribbelt. In diesem Moment könnte man meinen, auf einer Wolke des Genusses zu schweben.",
+        "chs": "久经炖煮的汤羹。轻轻一闻已觉食欲大振，一勺高汤入口，浓缩至极的鲜味顷刻浸染周身。如同展开双翼拂晓直上，凌空漫步在由香气凝成的云端。",
+        "cht": "久經燉煮的湯羹。輕輕一聞已覺食欲大振，一勺高湯入口，濃縮至極的鮮味頃刻浸染全身。如同展開雙翼拂曉直上，凌空漫步在由香氣凝成的雲端。",
+        "es": "Un caldo hervido durante mucho tiempo. El mero hecho de olerlo ya abre el apetito y, al probar la primera cucharada, su intenso sabor se extiende por todo el cuerpo. Es como extender tus alas y volar hacia el alba entre nubes fragantes.",
+        "fr": "Une soupe longuement mijotée. Une bouffée suffit à ouvrir l'appétit, et dès la première cuillerée, ses saveurs intenses vous emportent. C'est comme si vos ailes se déployaient et vous emportaient dans les airs.",
+        "id": "Hidangan sup yang sudah lama direbus. Menghirup aromanya saja sudah cukup untuk membangkitkan selera makan, apalagi mencicipi sesendok supnya yang pekat akan langsung merasakan kelezatannya. Begitu lezat hingga terasa seperti terbang ke awan.",
+        "jp": "長い時間をかけて煮込んだスープ。匂いだけで食欲が湧き、一口飲めば凝縮された旨味が体を駆け巡る。翼を広げ香しい雲の間を散策している気分になる。",
+        "kr": "오래 끓인 수프. 냄새만 맡아도 군침이 흐른다. 한입 떠먹으면 진한 맛이 온몸에 퍼진다. 양 날개를 펴고 날아올라 구름 위를 걷는 듯한 느낌이다",
+        "pt": "Um prato de sopa que foi fervida durante muito tempo. Um simples cheiro é suficiente para aguçar muito o apetite, e os sabores concentrados enchem o seu corpo a cada colher de sopa cheinha. É quase como abrir um par de asas e caminhas sobre as nuvens.",
+        "ru": "Суп, варившийся долгое время. Только вдохнёшь его аромат - и сразу хочется есть, а ложечки его достаточно, чтобы густой приятный вкус окутал вас целиком. Кажется, если вкусить его, то за спиной будто расправятся крылья и унесут вас ввысь, к облакам.",
+        "th": "ซุปที่ผ่านการตุ๋นเป็นเวลานาน แค่ได้กลิ่นก็กระตุ้นต่อมอยากอาหาร แค่ชิมเพียงช้อนเดียว รสชาติอันเข้มข้นก็แผ่ซ่านไปทั่วร่างกาย เหมือนได้กางปีกโผบินไปในมวลเมฆที่ส่งกลิ่นหอม",
+        "vi": "Canh được hầm kỹ. Chỉ cần ngửi thôi cũng khiến cảm giác thèm ăn ùa về. Nhấp một ngụm, vị ngon ngọt dần lan tỏa khắp cơ thể. Nếu như có thể dang rộng đôi cánh bay lên trời xanh rồi dạo bước trên những đám mây thơm phức thì thật tuyệt."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

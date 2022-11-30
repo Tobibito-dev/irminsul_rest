@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Bloodstained Final Hour",
+        "de": "Uhr des Blutbefleckten",
+        "chs": "骑士染血之时",
+        "cht": "騎士染血之時",
+        "es": "Reloj del Caballero Sanguinario",
+        "fr": "Sablier du Chevalier ensanglanté",
+        "id": "Bloodstained Final Hour",
+        "jp": "騎士が血に染めた時",
+        "kr": "피에 물든 기사의 시계",
+        "pt": "Relógio do Cavaleiro Sanguinário",
+        "ru": "Час долга рыцаря крови",
+        "th": "Bloodstained Final Hour",
+        "vi": "Đồng Hồ Kỵ Sĩ Nhuốm Máu"
+    },
+    "id": 24715,
+    "setId": 15008,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

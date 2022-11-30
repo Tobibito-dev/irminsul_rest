@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Crystal Shrimp",
+        "de": "Leckere Kristallgarnelen",
+        "chs": "美味的水晶虾",
+        "cht": "美味的水晶蝦",
+        "es": "Camarones de cristal deliciosos",
+        "fr": "Crevettes cristallines (délicieuses)",
+        "id": "Delicious Crystal Shrimp",
+        "jp": "美味しそうな水晶蝦",
+        "kr": "맛있는 수정 새우딤섬",
+        "pt": "Camarão de Cristal Delicioso",
+        "ru": "Вкусные кристальные баоцзы",
+        "th": "Crystal Shrimp แสนอร่อย",
+        "vi": "Tôm Pha Lê Ngon"
+    },
+    "id": 108106,
+    "materialDesc": {
+        "en": "One of Liyue's traditional snacks. The outer skin is as clear its crystal namesake, and when it enters the mouth, one's tongue could be forgiven for thinking that the fresh shrimp within is still alive. Those who eat it can only lament that four pieces per serving is far, far too few.",
+        "de": "Eine der traditionellen Leckereien aus Liyue. Die wie Kristall anmutende Hülle ist dünn und durchscheinend. Einmal im Mund scheinen die Garnelen hin- und herzuhüpfen, als wären sie noch lebendig. Bedauernswert ist aber ganz allein, dass vier Stück viel zu wenig für eine Portion sind.",
+        "chs": "璃月的传统点心之一。外皮如水晶般晶莹剔透，送入口中，舌尖仿佛有鲜活的虾在蹦跳。直让人感叹一份四只的数量实在不够大快朵颐。",
+        "cht": "璃月的傳統點心之一。外皮如水晶般晶瑩剔透，送入口中，舌尖仿佛有鮮活的蝦在蹦跳。直讓人感嘆一份四隻的數量實在不夠大快朵頤。",
+        "es": "Uno de los aperitivos tradicionales de Liyue. La masa, brillante y traslúcida, hace honor al nombre de este plato. Los camarones tienen un sabor tan fresco que uno puede hasta sentirse culpable comiéndolos. Quien deguste este plato de cuatro rollos siempre se quedará con ganas de más.",
+        "fr": "L'une des spécialités de Liyue. La peau est aussi transparente que du cristal et vous seriez pardonné pour avoir pensé que la crevette était encore vivante au vu de sa fraîcheur. Le seul reproche qu'on pourrait faire à ces raviolis est qu'il n'y en a pas assez...",
+        "id": "Salah satu cemilan tradisional Liyue. Kulit luarnya sangat jernih dan ketika di dalam mulut, rasa di lidah seolah membuat seseorang berpikir udang itu masih hidup. Mereka yang memakannya selalu mengeluh bahwa 4 potong per porsi benar-benar tidak cukup.",
+        "jp": "璃月の伝統点心の一つ。皮は水晶のように透き通り、プリプリのエビが口の中で踊っているような食感が楽しめる、おかわりがしたくなる一品。",
+        "kr": "신선한 새우가 통째로 들어간 리월의 전통 과자. 수정처럼 투명하고 피를 집어 입에 넣으면 새우가 살아있는 것처럼 혀끝이 춤을 춘다. 감탄사가 절로 나오는 맛있는 딤섬이 4개밖에 안 된다는 게 매우 아쉽다",
+        "pt": "Um dos lanches tradicionais de Liyue. A pele externa é tão clara quanto seu nome de cristal e, quando entra na boca, a língua pode ser perdoada por pensar que o camarão fresco ainda está vivo. Quem a come só pode lamentar que quatro pedaços por porção sejam muito, muito pouco.",
+        "ru": "Одно из традиционных блюд Ли Юэ. Внешняя оболочка кристально чиста и прозрачна, как того требует название, а креветка внутри кажется живой. Остаётся только критиковать это блюдо за то, что четыре креветки в порции - недопустимо мало.",
+        "th": "หนึ่งในอาหารว่างดั้งเดิมของ Liyue ผิวด้านนอกใสเหมือนคริสตัล เมื่อเข้าปากแล้วราวกับมีกุ้งเป็น ๆ กระโดดอยู่ที่ลิ้น จนทำให้รู้สึกว่าชุดหนึ่งมีสี่ชิ้นนั้นช่างไม่เพียงพอ",
+        "vi": "Một trong những món điểm tâm truyền thống của Liyue. Vỏ trong như pha lê, cắn nhẹ một miếng dường như cảm nhận được tôm tươi đang nhảy múa. Sự nuối tiếc duy nhất chính là 1 phần 4 chiếc quá ít."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

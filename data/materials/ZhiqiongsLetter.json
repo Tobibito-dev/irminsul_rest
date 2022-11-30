@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Zhiqiong's Letter",
+        "de": "Zhiqiongs Brief",
+        "chs": "志琼的信",
+        "cht": "志瓊的信",
+        "es": "Carta de Zhichiong",
+        "fr": "Lettre de Zhiqiong",
+        "id": "Surat Zhiqiong",
+        "jp": "志璇の手紙",
+        "kr": "지경의 편지",
+        "pt": "Carta de Zhiqiong",
+        "ru": "Письмо Чжи Цюн",
+        "th": "จดหมายของ Zhiqiong",
+        "vi": "Thư Của Zhiqiong"
+    },
+    "id": 101724,
+    "materialDesc": {
+        "en": "A letter left by a young adventurer. There is a slightly bitter scent of Qingxin on this piece of paper.",
+        "de": "Ein Brief von einer jungen Abenteurerin. Das Stück Papier riecht leicht bitter nach Qingxin.",
+        "chs": "一位年轻冒险家留下的信，带着一点点苦涩的清心气味。",
+        "cht": "一位年輕冒險家留下的信，帶著一點點苦澀的清心氣味。",
+        "es": "Una carta de una joven aventurera con un olor a flor chingxin ligeramente amargo.",
+        "fr": "Une lettre laissée par une jeune aventurière. Elle porte un parfum légèrement amer de fleur de Qingxin.",
+        "id": "Surat yang ditinggalkan oleh seorang petualang muda. Ada sedikit aroma bunga Qingxin yang tercium pada kertasnya.",
+        "jp": "ある若い冒険者が残した手紙。ほんのりと清心の苦い香りが漂っている。",
+        "kr": "젊은 모험가가 남긴 편지, 쌉싸름한 청심의 향이 은은하게 풍긴다",
+        "pt": "Uma carta deixada por uma jovem aventureira. Há um cheiro amargo de Qingxin nela.",
+        "ru": "Письмо, оставленное молодым искателем приключений. Оно источает горьковатый аромат цветка цинсинь.",
+        "th": "จดหมายที่นักผจญภัยวัยรุ่นคนหนึ่งทิ้งไว้ มีกลิ่นขมของ Qingxin เจือจางติดอยู่ด้วย",
+        "vi": "Thư của một nhà mạo hiểm trẻ tuổi để lại, có hương thơm mát nhưng hơi đắng chát."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

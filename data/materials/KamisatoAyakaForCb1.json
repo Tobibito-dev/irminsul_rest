@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kamisato Ayaka - for CB1",
+        "de": "Kamisato Ayaka – für CB1",
+        "chs": "(test)神里绫华-cb1用",
+        "cht": "神里綾華",
+        "es": "Kamisato Ayaka- Para cb1",
+        "fr": "Ayaka Kamisato - pour bêta-test 1",
+        "id": "Kamisato Ayaka",
+        "jp": "神里綾華",
+        "kr": "카미사토 아야카-cb1",
+        "pt": "Kamisato Ayaka",
+        "ru": "Камисато Аяка (CB1)",
+        "th": "Kamisato Ayaka - cb1 ใช้",
+        "vi": "Kamisato Ayaka-cho cb1"
+    },
+    "id": 3004,
+    "materialDesc": {
+        "en": "Get Lv.15 Kamisato Ayaka",
+        "de": "Kamisato Ayaka St. 15 erhalten.",
+        "chs": "(test)获得15级角色神里绫华",
+        "cht": "獲得15級角色神里綾華。",
+        "es": "Obtén a Kamisato Ayaka Niv. 15",
+        "fr": "Ayaka Kamisato Niv.15 obtenue.",
+        "id": "Mendapatkan Kamisato Ayaka Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)",
+        "jp": "Lv15の神里綾華を獲得する",
+        "kr": "Lv.15 카미사토 아야카 획득",
+        "pt": "Obteve Kamisato Ayaka Nv.15",
+        "ru": "Получите Камисато Аяка 15 уровня",
+        "th": "ได้รับ Ayaka Kamisato Lv.15",
+        "vi": "Nhận Kamisato Ayaka cấp 15"
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

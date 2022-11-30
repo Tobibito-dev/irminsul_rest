@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Yellow Dye",
+        "de": "Gelbe Farbe",
+        "chs": "黄色染料",
+        "cht": "黃色染料",
+        "es": "Tinte amarillo",
+        "fr": "Teinture jaune",
+        "id": "Yellow Dye",
+        "jp": "黄色の染料",
+        "kr": "노란색 염료",
+        "pt": "Tinta Amarela",
+        "ru": "Жёлтая краска",
+        "th": "สีย้อมสีเหลือง",
+        "vi": "Thuốc Nhuộm Vàng"
+    },
+    "id": 101403,
+    "materialDesc": {
+        "en": "Yellow dye. It will surely be of use in making furnishings.",
+        "de": "Gelber Farbstoff. Er wird sicherlich bei der Herstellung von Dekorationen verwendet werden.",
+        "chs": "黄色的染料。制作摆设时应该能派上用场。",
+        "cht": "黃色的染料。製作擺設時應該能派上用場。",
+        "es": "Tinte amarillo. Será útil a la hora de fabricar decoraciones.",
+        "fr": "Teinture de couleur jaune. Cet objet vous sera utile dans la fabrication de décorations.",
+        "id": "Cat berwarna kuning. Pasti bisa digunakan untuk membuat perabotan.",
+        "jp": "接触したものを黄色に染める染料。調度品を製作する時に使えるかもしれない。",
+        "kr": "노랑색 염료. 장식 제작에 유용하게 쓰인다",
+        "pt": "Tinta amarela. Certamente será útil para fazer Decorações.",
+        "ru": "Жёлтый краситель. Безусловно пригодится для изготовления декора.",
+        "th": "สีย้อมสีเหลือง เมื่อสร้างเฟอร์นิเจอร์ สามารถนำไปใช้ในการตกแต่งได้",
+        "vi": "Thuốc nhuộm vàng, có thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

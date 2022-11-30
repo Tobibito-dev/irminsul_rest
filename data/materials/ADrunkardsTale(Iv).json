@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Drunkard's Tale (IV)",
+        "de": "Erzählungen eines Betrunkenen IV",
+        "chs": "醉客轶事·四",
+        "cht": "醉客軼事·四",
+        "es": "Cuentos de un borracho (IV)",
+        "fr": "Chroniques d'un ivrogne - Partie IV",
+        "id": "Kisah Pemabuk (IV)",
+        "jp": "酔っぱらいの逸話·4",
+        "kr": "취객 일화·Ⅳ",
+        "pt": "Um Conto de Bêbados (IV)",
+        "ru": "История пьяницы IV",
+        "th": "เรื่องราวของลูกค้าขี้เมา-4",
+        "vi": "Chuyện Kẻ Say IV"
+    },
+    "id": 100580,
+    "materialDesc": {
+        "en": "One of many drinking tales popularly told in Mondstadt. This wolf told a tale of wine and wolf to a drunken man of Mondstadt.",
+        "de": "Eine der Geschichten, die man sich unter den Trinkern in Mondstadt erzählt. Dieser Band handelt von der Geschichte über Wein und Wölfe, die der Wolf dem Säufer erzählt.",
+        "chs": "传扬蒙德的醉客故事之一，本卷是孤狼为醉汉讲述的，关于酒与狼的故事。",
+        "cht": "傳揚蒙德的醉客故事之一，本卷是孤狼為醉漢講述的，關於酒與狼的故事。",
+        "es": "Uno de los muchos cuentos populares de Mondstadt que se narran mientras se bebe. Un lobo le cuenta una historia de vinos y lobos a un borracho de Mondstadt.",
+        "fr": "Une histoire racontée dans les tavernes de Mondstadt. Dans ce tome, le loup solitaire raconte une histoire au sujet du vin et des loups à l'ivrogne.",
+        "id": "Salah satu kisah populer yang sering diceritakan oleh peminum anggur di Mondstadt. Serigala ini adalah serigala yang menceritakan tentang seorang pemabuk dan serigala.",
+        "jp": "モンドで言い伝えられている酒飲みの物語の1つ。本巻では、孤狼が酔っぱらいにお酒と狼のことを教えた。",
+        "kr": "몬드에서 전해 내려오는 취객의 이야기 중 하나. 외톨이 늑대가 취객에게 술과 늑대에 관한 이야기를 들려주는 내용",
+        "pt": "Um dos contos mais populares entre os bebedores de Mondstadt. Este volume é uma história sobre o vinho e o lobo contada pelo lobo solitário para o bêbado.",
+        "ru": "Популярная застольная байка Мондштадта. Заключительный том, в котором серый поведал пьянице историю волка и вина.",
+        "th": "หนึ่งในเรื่องเล่าของนักดื่มชาว Mondstadt เป็นเรื่องของหมาป่าผู้โดดเดี่ยว ที่ได้เล่าเรื่องราวเกี่ยวกับเหล้าและหมาป่าให้คนเมาฟัง",
+        "vi": "Một trong những câu chuyện mà khách uống rượu lan truyền ở Mondstadt, quyển này là câu chuyện mà con sói kể cho người say rượu nghe, một câu chuyện về rượu và sói."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

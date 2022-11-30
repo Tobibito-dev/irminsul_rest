@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bizarre Cocktail",
+        "de": "Verpanschtes Getränk",
+        "chs": "味道混杂的酒",
+        "cht": "味道混雜的酒",
+        "es": "Cóctel insólito",
+        "fr": "Cocktail étrange",
+        "id": "Koktail yang \"Unik\"",
+        "jp": "味が混ざったカクテル",
+        "kr": "맛이 뒤섞인 술",
+        "pt": "Coquetel Bizarro",
+        "ru": "Странный коктейль",
+        "th": "Bizarre Cocktail",
+        "vi": "Rượu mùi vị hỗn tạp"
+    },
+    "id": 100326,
+    "materialDesc": {
+        "en": "There are tastes of different liquors aside from the distilled liquor... This is not what Draff wanted.",
+        "de": "Außer der eigentlichen Spirituose schmeckt man noch einige andere Dinge. Was Draff wollte, ist das allerdings nicht.",
+        "chs": "除了蒸馏酒的本味，能尝出许多味道的酒品。杜拉夫想要的似乎并不是这种酒…",
+        "cht": "除了蒸餾酒的本味，能嘗出許多味道的酒品。杜拉夫想要的似乎並不是這種酒…",
+        "es": "Aparte del sabor a licor destilado, tiene sabores de otras bebidas... Definitivamente no es lo que Draff quería.",
+        "fr": "Cette boisson comporte les saveurs de plusieurs alcools différents. Ce n'est pas ce que Draff voulait...",
+        "id": "Ada rasa lain selain rasa dari proses penyulingan... bukan ini yang Draff inginkan.",
+        "jp": "蒸留酒の味の他にも数種類の酒の味がする。ドゥラフが言っていた酒はこれではない…",
+        "kr": "증류주 본연의 맛 외에도 다른 맛들도 느낄 수 있다. 두라프가 원한 술은 이런 게 아닌데…",
+        "pt": "Além do licor destilado, existem sabores de licores diferentes... Não era isso que Draff queria.",
+        "ru": "Вкус алкоголя слишком смазанный. Драфф явно говорил о чём-то другом.",
+        "th": "นอกจากรสชาติดั้งเดิมของสุรากลั่นแล้ว ยังเป็นเหล้าที่ให้รสอื่น ๆ อีกมากมาย ดูเหมือนว่า Draff จะไม่ได้ต้องการเหล้าอย่างนี้...",
+        "vi": "Ngoài vị rượu chưng cất vốn có, còn có mùi vị của rất nhiều loại khác. Thứ mà Draff muốn dường như không phải loại rượu này..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

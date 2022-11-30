@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious More-and-More",
+        "de": "Leckeres Nochvielmehr",
+        "chs": "美味的多多烧",
+        "cht": "美味的多多燒",
+        "es": "Más y más delicioso",
+        "fr": "Fourre-tout exquis (délicieux)",
+        "id": "Delicious More-and-More",
+        "jp": "美味しそうなお好み焼き",
+        "kr": "맛있는 다다야끼",
+        "pt": "Mais e Mais Delicioso",
+        "ru": "Вкусный жареный тото",
+        "th": "More-and-More แสนอร่อย",
+        "vi": "Toto Nướng Ngon"
+    },
+    "id": 108335,
+    "materialDesc": {
+        "en": "A snack grilled on an iron plate. The rich ingredients have been stacked atop one another. One bite into the crisp outer layer reveals the soft tenderness within. The lovely sauce clothes the condiments luxuriously, flowing between lips and teeth alike en route to the stomach. Even the aroma that lingers in the air has ascended to become part of its unforgettable deliciousness.",
+        "de": "Ein Snack, der auf einer Eisenplatte gegrillt wird. Die reichhaltigen Zutaten wurden übereinander gestapelt. Ein Biss in die knusprige äußere Schicht offenbart die weiche Zartheit im Inneren. Die liebliche Soße kleidet die Gewürze üppig ein und fließt zwischen Lippen und Zähnen gleichermaßen auf dem Weg in den Magen. Sogar das Aroma, das in der Luft liegt, ist zu einem Teil der unvergesslichen Köstlichkeit aufgestiegen.",
+        "chs": "铁板烧制的小吃。丰富的食材层层堆叠，一口下去，外层酥脆，中间松软。香滑的酱汁像给馅料穿上一层丝质的外衣，从唇齿间一溜烟滑入腹中。连空中残留的香气，也已升华成难以忘怀的美味。",
+        "cht": "鐵板燒製的小吃。豐富的食材層層堆疊，一口下去，外層酥脆，中間鬆軟。香滑的醬汁像給餡料穿上一層絲質的外衣，從唇齒間一溜煙滑入腹中。連空中殘留的香氣，也已昇華成難以忘懷的美味。",
+        "es": "Un aperitivo hecho a la plancha. Los ingredientes están apilados unos sobre otros y tienen una textura crujiente por fuera y tierna por dentro. La cremosa salsa cubre los demás ingredientes a la perfección, los cuales se deslizan suavemente desde tu boca hacia tu estómago. Hasta el aroma que desprende es una parte inolvidable de este manjar.",
+        "fr": "Un encas préparé sur une plaque chauffante. Les délicieux ingrédients sont empilés les uns sur les autres. L'extérieur est croustillant quand vous mordez dedans et laisse place à un cœur tendre. La sauce onctueuse, qui nappe finement la garniture, glisse entre vos lèvres et vos dents pour se retrouver dans votre estomac en un clin d'œil. L'arôme qui reste dans l'air fait partie de cette expérience gustative inoubliable.",
+        "id": "Camilan yang dipanggang di plat besi besar (teppan). Bahan makanan yang beragam bertumpuk satu sama lain. Dalam satu gigitan saja, kamu dapat merasakan perpaduan antara kulit luar yang garing dan isi dalamnya yang lembut. Aroma dari saus yang menyelimuti isinya dengan sempurna, menyelinap melewati bibir dan sela gigi, lalu masuk ke dalam perut dengan mulus. Bahkan sisa aromanya yang tertinggal di udara dapat membawa rasa kelezatan yang sulit terlupakan.",
+        "jp": "鉄板で焼き上げた食べ物。豊かな食材が重ね合わせ、噛むと外はサクサクで、中は柔らかい。滑らかなソースが具材に絹の衣を着せたように、唇と歯の間からお腹へするりと滑り込む。空気の中に残っている香りも、忘れがたいものとなった。",
+        "kr": "철판구이 요리. 풍부한 식자재들이 겹겹이 쌓여있다. 한입 베어 물면, 겉은 바삭하고 속은 말랑하며 향긋하고 부드러운 소스는 속 재료에 실크 겉옷을 입힌 듯 입술 사이로 미끄러져 들어온다. 공기 속에 남은 향기마저 잊을 수 없는 맛으로 승화된다고 해도 과언이 아니다",
+        "pt": "Um lanche grelhado em uma chapa de ferro. Os ingredientes intensos foram colocados uns sobre os outros. Uma mordida na camada externa crocante revela a maciez delicada de dentro. O adorável molho reveste os condimentos luxuosamente, fluindo entre os lábios e os dentes a caminho do estômago. Até o aroma que paira no ar é algo inesquecível.",
+        "ru": "Закуска, приготовленная на тэппане. Насыщенные ингредиенты уложены друг на друга, внешний слой хрустящий, середина мягкая. Гладкий соус, словно шелковистая оболочка, в мгновение ока соскальзывает с губ прямо в живот. Даже витающий в воздухе аромат превращается в незабываемое лакомство.",
+        "th": "อาหารว่างที่ย่างบนกระทะร้อน ส่วนผสมที่เข้มข้นจะซ้อนกันเป็นชั้น ๆ กรอบนอกนุ่มใน ซอสครีมที่ปรุงรสอย่างดี ไหลผ่านริมฝีปากและฟันลงไปสู่ท้อง แม้แต่กลิ่นหอมที่ลอยอยู่ในอากาศก็ยังหอมหวานจนลืมไม่ลง",
+        "vi": "Món ăn vặt được nướng trên chảo thép. Các nguyên liệu phong phú được xếp chồng lên nhau, lớp ngoài giòn, nhân giữa mềm. Nước sốt phủ lên nhân bánh giống như một lớp áo khoác mềm mịn, một làn khói xuyên qua môi và kẽ răng vào bụng. Ngay cả mùi thơm đọng lại trong không khí cũng được thăng hoa thành một món ngon khó quên."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

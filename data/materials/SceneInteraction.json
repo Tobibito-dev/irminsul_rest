@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Scene Interaction",
+        "de": "Interaktion am Handlungsort",
+        "chs": "场景交互",
+        "cht": "場景互動",
+        "es": "Interacción de escena",
+        "fr": "Interaction avec le décor",
+        "id": "Interaksi Adegan",
+        "jp": "シーン操作",
+        "kr": "장면 상호작용",
+        "pt": "Interação de cena",
+        "ru": "Взаимодействие со сценой",
+        "th": "Scene Interaction",
+        "vi": "Tương Tác Khu Vực"
+    },
+    "id": 100177,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

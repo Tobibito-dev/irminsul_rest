@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Little Yue's Gift",
+        "de": "Yues Geschenk",
+        "chs": "小月的礼物",
+        "cht": "小月的禮物",
+        "es": "Regalo del Pequeño Yue",
+        "fr": "Cadeau de Petit Yue",
+        "id": "Hadiah Little Yue",
+        "jp": "小月のプレゼント",
+        "kr": "소월의 선물",
+        "pt": "Presentes do Pequeno Yue",
+        "ru": "Подарок малыша Юэ",
+        "th": "ของขวัญของ Little Yue",
+        "vi": "Quà của Yue"
+    },
+    "id": 100596,
+    "materialDesc": {
+        "en": "A toy made from Starconches by Little Yue. It might not capture the sound of the sea, but it certainly captures the amount of thought he put into it.",
+        "de": "Ein kleines Spielzeug, das Yue aus Sternmuscheln gebastelt hat. Selbst wenn man damit nicht das Rauschen des Meeres hören kann, ist der Gedanke dahinter offensichtlich.",
+        "chs": "小月用星螺做成的小玩具。虽然不知道能不能听见大海的声音，但他的心意应该能听得很清楚吧。",
+        "cht": "小月用星螺做成的小玩具。雖然不知道能不能聽見大海的聲音，但他的心意應該能聽得很清楚吧。",
+        "es": "Un juguete que hizo el Pequeño Yue con caracolas estelares. Puede que no se oiga el sonido del mar, pero sí la buena intención con que lo hizo.",
+        "fr": "Un jouet fabriqué par Petit Yue à partir de conques d'étoile. On n'entend peut-être pas le bruit de l'océan, mais on y devine au moins l'attention de l'enfant.",
+        "id": "Mainan yang dibuat oleh Little Yue menggunakan Starconch. Mungkin mainan ini tidak bisa menangkap suara laut, tapi jauh di dalam hatinya dia pasti bisa mendengarnya.",
+        "jp": "小月が真面目に星螺で作ったおもちゃ。海の音が聞こえるかどうかはともかく、彼の思いの音ははっきりと聞こえるだろう。",
+        "kr": "소월이 별소라로 만든 장난감. 파도 소리가 들릴지 안 들릴진 몰라도 그의 마음은 잘 들리겠지…",
+        "pt": "Um pequeno brinquedo que o Pequeno Yue fez com conchas. Mesmo que você não consiga ouvir o som do mar, o pensamento é óbvio.",
+        "ru": "Игрушка из звёздных ракушек. Шум морских волн она услышать не поможет, но очевидно, что малыш Юэ очень старался.",
+        "th": "Little Yue ใช้ Starconch ทำเป็นของเล่น ถึงแม้ไม่รู้ว่าจะได้ยินเสียงของทะเลหรือไม่ แต่ใจของเขาก็น่าจะได้ยินอย่างชัดเจนล่ะมั้งนะ",
+        "vi": "Bé Yue làm món đồ chơi từ Ốc Sao. Tuy không biết có thể nghe được tiếng sóng nơi biển rộng hay không, nhưng sâu thẳm trong trái tim của cậu bé có lẽ đã nghe thấy rất rõ rồi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

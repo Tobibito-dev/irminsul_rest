@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Focusing Crystals",
+        "de": "Potenzial der Kristalle",
+        "chs": "结晶赋能",
+        "cht": "結晶賦能",
+        "es": "Poder cristalino",
+        "fr": "Puissance cristalline",
+        "id": "Focusing Crystals",
+        "jp": "結晶吸収",
+        "kr": "에너지 결정",
+        "pt": "Energia Cristalizada",
+        "ru": "Кристаллы фокусировки",
+        "th": "Focusing Crystals",
+        "vi": "Năng Lượng Kết Tinh"
+    },
+    "id": 200252,
+    "materialDesc": {
+        "en": "When a character obtains an Elemental Shard created by a Crystallize Reaction, they will regenerate 2 Energy for all members of the party. This effect can be triggered once every 2s and this CD is shared between all party members.",
+        "de": "Stellt beim Erhalten von durch die Kristallisation entstehenden Splittern durch die Figur allen Truppenmitgliedern 2 Punkte Elementarenergie wieder her. 2 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色获得结晶反应产生的晶片时，会为队伍中所有角色恢复2点元素能量。该效果每2秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色獲得結晶反應產生的晶片時，會為隊伍中所有角色恢復2點元素能量。該效果每2秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Cuando el personaje obtiene un fragmento creado mediante una reacción de Cristalización, todos los miembros del equipo regeneran 2 pts. de Energía Elemental. Este efecto puede activarse una vez cada 2 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'un personnage obtient un fragment élémentaire créé par une réaction de Cristallisation, il restaure 2 pts d'énergie pour tous les personnages de l'équipe. Cet effet peut être déclenché une fois toutes les 2 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Saat Karakter memperoleh Elemental Shard yang terbentuk dari Reaksi Crystallize, Karakter tersebut akan memulihkan 2 Energy seluruh anggota party. Efek terpicu setiap 2 detik dan CD tersebut berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターが結晶反応で生成した欠片を獲得すると、チーム内全員の元素エネルギーを2回復する。この効果は2秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 결정 반응으로 생성된 결정 조각을 획득하면 파티 내 모든 캐릭터가 원소 에너지를 2pt 회복한다. 해당 효과는 2초마다 최대 1회 발동되며, 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Quando um personagem obtém um Fragmento Elemental criado por uma Reação de Cristalização, ele irá regenerar 2 de Energia para todos os membros da Equipe. Esse efeito pode ser ativado uma vez a cada 2s e o Tempo de Recarga é compartilhado entre todos os membros da Equipe.",
+        "ru": "Когда персонаж поднимает элементальный осколок, созданный реакцией Кристалл, все члены отряда восстанавливают 2 ед. энергии. Эффект возникает раз в 2 сек. Время отката общее для всех членов отряда.",
+        "th": "เมื่อตัวละครได้รับเศษเสี้ยวที่เกิดจากปฏิกิริยาการตกผลึก จะฟื้นฟูพลังงานธาตุ 2 หน่วย ให้แก่ตัวละครทั้งหมดในทีม โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Khi nhân vật nhận được mảnh tạo ra bởi phản ứng kết tinh sẽ hồi 2 năng lượng nguyên tố cho tất cả nhân vật trong đội. Hiệu ứng này mỗi 2s kích hoạt một lần, tất cả nhân vật đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

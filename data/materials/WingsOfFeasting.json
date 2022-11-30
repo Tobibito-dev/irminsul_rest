@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wings of Feasting",
+        "de": "Flügel der Festgelage",
+        "chs": "飨宴之翼",
+        "cht": "饗宴之翼",
+        "es": "Alas del Banquete",
+        "fr": "Ailes d'agapes",
+        "id": "Wings of Feasting",
+        "jp": "饗宴の翼",
+        "kr": "향연의 날개",
+        "pt": "Asas do Banquete",
+        "ru": "Планер великого пиршества",
+        "th": "Wings of Feasting",
+        "vi": "Đôi Cánh Dạ Yến"
+    },
+    "id": 140007,
+    "materialDesc": {
+        "en": "A pair of wings that memorialize great banquets or ordinary dinners. All the enjoyment of a feast, for the price of a simple meal.",
+        "de": "Ein Windgleiter, der an ein großartiges Bankett oder ein gewöhnliches Abendessen erinnert. Der Genuss eines ganzen Festes zum Preis einer einfachen Mahlzeit.",
+        "chs": "纪念盛宴或者普通晚饭的风之翼。盛宴级别的享受，普通晚饭的价钱。",
+        "cht": "紀念盛宴或者普通晚飯的風之翼。盛宴級別的享受，一般晚餐的價錢。",
+        "es": "Un planeador que conmemora un gran banquete o una cena común y corriente. El deleite está asegurado en un festín, mientras que un precio asequible es lo que distingue a una cena cotidiana.",
+        "fr": "Un modèle de planeur conçu pour célébrer un festin ou un dîner. Un repas de luxe au prix d'un repas ordinaire.",
+        "id": "Wind Glider untuk pesta peringatan atau makan malam biasa. Kenikmatan makanan pesta mewah, dengan harga makanan biasa.",
+        "jp": "宴会や普段の夕食を記念する風の翼。いつもの夕食の手軽さで、宴会と同じ楽しみを。",
+        "kr": "성대한 연회 혹은 평범한 만찬을 기념하는 바람의 날개. 평범한 만찬의 가격으로 성대한 연회를 즐길 수 있다",
+        "pt": "Um planador para celebrar grandes banquetes ou jantares comuns. Uma refeição luxuosa pelo preço de um prato simples.",
+        "ru": "Планер в память о великих пиршествах или обычных ужинах. Все наслаждения грандиозного торжества по цене ужина.",
+        "th": "เครื่องร่อนเวหาสำหรับงานเลี้ยงที่ระลึกอันใหญ่โตหรือมื้ออาหารค่ำอันแสนจะธรรมดา ความเพลิดเพลินในระดับงานเฉลิมฉลอง ที่มาพร้อมกับราคาของมื้ออาหารค่ำที่ธรรมดาทั่วไป",
+        "vi": "Phong Chi Dực cho một bữa tiệc tưởng niệm hoặc bữa tối bình thường. Hưởng thụ sự quý tộc với giá cả bình dân."
+    },
+    "materialType": "MATERIAL_FLYCLOAK"
+}

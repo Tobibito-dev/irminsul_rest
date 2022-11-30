@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Hurricane Seed",
+        "de": "Orkansamen",
+        "chs": "飓风之种",
+        "cht": "颶風之種",
+        "es": "Semilla de huracán",
+        "fr": "Graine d'ouragan",
+        "id": "Hurricane Seed",
+        "jp": "暴風の種",
+        "kr": "폭풍의 씨앗",
+        "pt": "Semente de Furacão",
+        "ru": "Семя урагана",
+        "th": "Hurricane Seed",
+        "vi": "Hạt Giống Bão"
+    },
+    "id": 113001,
+    "materialDesc": {
+        "en": "The imploded form of an Anemo Hypostasis upon its defeat.\\nContains the essence of Anemo energy.\\nIt is said that the power to create hurricanes resides within its seemingly fragile body. This butterfly of pure Anemo energy must surely be waiting for the day when it can conjure up storms once again.",
+        "de": "Die konzentrierte Form einer Anemo-Hypostase, nachdem sie besiegt worden ist. In ihr steckt pure Anemo-Kraft.\\nMan sagt, dass der Flügelschlag eines Schmetterlings die Kraft birgt, einen ganzen Orkan auszulösen. Dieser Schmetterling, der aus reiner Anemo-Kraft besteht, wartet gewiss auf den Tag, an dem er erneut einen Sturm entfachen kann.",
+        "chs": "无相之风被击败后，所坍缩成的形态。其中蕴含着至纯的风之力。\\n传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量。这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天吧。",
+        "cht": "無相之風被擊敗後，所坍縮成的形態。其中蘊含著至純的風之力。\\n傳說在纖細脆弱的蝴蝶體內，也藏有引發颶風的力量。這由純粹的風構成的蝴蝶，無疑在等待著再次召來暴風的那一天吧。",
+        "es": "La forma condensada del Hipostasis Anemo después de ser derrotado. En su interior contiene poder Anemo puro.\\nSe dice que una mariposa frágil y débil contiene el poder para generar un huracán. Esta mariposa hecha de viento puro, sin duda, espera el día para volver a invocar la tormenta.",
+        "fr": "La forme effondrée d'une Hypostase Anémo après avoir été vaincue. Elle contient un pouvoir Anémo d'une grande pureté.\\nLa légende raconte qu'un petit papillon fragile possède également le pouvoir de provoquer un ouragan. Ce papillon fait partie du vent pur, attendant avec patience le jour pour invoquer à nouveau l'ouragan.",
+        "id": "Bentuk Anemo Hypostasis setelah dikalahkan.\\nBerisi esensi energi Anemo.\\nKonon, tubuhnya yang rapuh ini memiliki kekuatan untuk menciptakan badai. Kupu-kupu yang murni dengan energi Anemo ini pasti sedang menunggu datangnya hari di mana dia bisa menciptakan badai lagi.",
+        "jp": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
+        "kr": "패배한 무상의 바람이 붕괴하며 형성된 형태로, 순수한 바람의 힘을 담고 있다.\\n가늘고 약한 나비의 체내에도 폭풍을 일으키는 힘이 숨겨져 있다고 한다. 순수한 바람으로 이루어진 나비는 다시금 폭풍을 부를 그날을 하염없이 기다리고 있다",
+        "pt": "A forma implodida de uma Hypostasis Anemo após sua derrota.\\nEle contém a essência da energia Anemo.\\nDizem que o poder de criar furacões reside dentro de seu corpo aparentemente frágil. Essa borboleta de pura energia Anemo deve estar esperando o dia para evocar tempestades mais uma vez.",
+        "ru": "Разрушенная форма Анемо гипостазиса, содержащая концентрированную энергию Анемо.\\nГоворят, что в его, казалось бы, хрупком теле хранится способность создавать вихри. Эта бабочка из чистой энергии Анемо ждёт дня, когда снова сможет вызвать бурю.",
+        "th": "รูปร่างหลังจากที่ Anemo Hypostasis ถูกโค่นลงและพังทลาย ข้างในอัดแน่นไปด้วยพลังของลมอันแสนบริสุทธิ์\\nตำนานเล่าว่าผีเสื้อที่แสนบอบบางนั้นก็สามารถทำให้เกิดลมพายุได้ ไม่ต้องสงสัยเลยว่าเจ้าผีเสื้อที่ทำจากลมบริสุทธิ์นี้กำลังรอคอยวันที่จะเรียกพายุอีกครั้งอย่างแน่นอน",
+        "vi": "Sau khi đánh bại Phong Nguyên Bản hình thành nên thể cô đặc. Nó chứa sức mạnh của gió thuần khiết.\\nNgười ta nói rằng những chú bướm với đôi cánh mỏng manh cũng chứa đựng sức mạnh đem đến bão tố. Những chú bướm được tạo ra bằng gió thuần khiết này chắc chắn đang chờ ngày gọi bão trở lại."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wild Glaze Lily",
+        "de": "Wilde Glaslilie",
+        "chs": "野生琉璃百合",
+        "cht": "野生琉璃百合",
+        "es": "Lirio de cristal salvaje",
+        "fr": "Lys verni sauvage",
+        "id": "Glaze Lily Liar",
+        "jp": "野生の琉璃百合",
+        "kr": "야생 유리백합",
+        "pt": "Lírio de Vidro Selvagem",
+        "ru": "Дикая глазурная лилия",
+        "th": "Wild Glaze Lily",
+        "vi": "Bách Hợp Lưu Ly Dại"
+    },
+    "id": 100606,
+    "materialDesc": {
+        "en": "Wild Glaze Lilies used in the Rite of Parting.\\nDue to geological changes, Glaze Lilies have lost their natural habitat. They say that these plants understand human hearts, and will grow to be especially beautiful if serenaded with deep and meaningful songs.",
+        "de": "Wilde Glaslilien, die zum Adeptenabschied verwendet werden.\\nAugrund von Veränderungen der natürlichen Umgebung haben Glaslilien ihren ursprünglichen Lebensraum verloren. Man erzählt sich, dass diese Pflanzen die Gedanken von Menschen lesen können. Singt man ihnen gefühlvoll etwas vor, sollten sie mit besonderer Pracht erblühen.",
+        "chs": "用于「送仙典仪」的野生琉璃百合。\\n因为天地异变，琉璃百合失去了自然生长的环境。据说这是通人心的植物，在感情丰沛的歌声中会开放得格外美丽。",
+        "cht": "用於「送仙典儀」的野生琉璃百合。\\n因為天地異變，琉璃百合失去了自然生長的環境。據說這是通人心的植物，在感情豐沛的歌聲中會開放得格外美麗。",
+        "es": "Lirios de cristal utilizados en el Rito del Ascenso.\\nDebido a los cambios geológicos, estas flores han perdido su hábitat natural. Dicen que entienden los corazones humanos y florecen al escuchar canciones cargadas de emoción.",
+        "fr": "Un lys verni utilisé lors du rituel de l'ascension.\\nLes changements géologiques se sont soldés par la perte de l'habitat des lys vernis. On raconte que ces fleurs sont capables de comprendre le cœur des hommes, et poussent en beauté lorsqu'elles sont bercées de musique riche en émotions.",
+        "id": "Glaze Lily Liar yang digunakan dalam Rite of Parting.\\nKarena perubahan geologis, Glaze Lily Liar telah kehilangan habitat aslinya. Dipercaya bahwa tanaman ini bisa memahami isi hati manusia, dan akan tumbuh dengan sangat indah di tengah nyanyian yang menjiwai.",
+        "jp": "「送仙儀式」に使われる野生の琉璃百合。\\n天変地異により、琉璃百合の生息地は失われた。これは心が通じ合う者たちの植物であり、心のこもった歌声の中で格別に美しく咲き誇る。",
+        "kr": "「송신의례」에 사용되는 야생 유리백합.\\n천지의 변화로 유리백합의 생태지가 사라지게 됐다. 이건 사람의 마음을 이해하는 식물로 감정이 듬뿍 깃든 노래를 들으면 더욱 예쁘게 피어난다고 한다",
+        "pt": "Lírios-de-Vidro utilizados no Ritual de Ascensão.\\nDevido as mudanças geológicas, os Lírios-de-Vidro perderam seu habitat natural. Dizem que essas plantas entendem os corações humanos, e crescerão até se tornarem particularmente lindas entre músicas que estão cheias de emoções.",
+        "ru": "Дикие глазурные лилии, использующиеся для Церемонии Вознесения. \\nИз-за изменений в экосфере глазурные лилии больше не встречаются в дикой природе. Говорят, эти цветы понимают эмоции людей и вырастают особенно красивыми, если слышат наполненные чувствами песни.",
+        "th": "ดอก Glaze Lily ป่าที่ใช้ใน \"พิธีส่งเซียน\"\\nเนื่องจากการเปลี่ยนแปลงทางภูมิศาสตร์ ทำให้ดอก Glaze Lily เหล่านี้สูญเสียสภาพแวดล้อมที่เติบโตตามธรรมชาติไป ว่ากันว่ามันสามารถเข้าใจจิตใจของผู้คน และเติบโตได้อย่างงดงามเมื่ออยู่ท่ามกลางเสียงเพลงที่ไพเราะ",
+        "vi": "Bách Hợp Lưu Ly dùng cho \"Điển Lễ Tiễn Tiên\".\\nDo đất trời thay đổi, Bách Hợp Lưu Ly mất đi môi trường sinh trưởng, nghe nói đây là loài thực vật thấu hiểu lòng người, sẽ nở rất đẹp khi ở gần giọng hát truyền cảm."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Guidance of the Land of Wind",
+        "de": "Weisungen des Reiches des Windes",
+        "chs": "风土的指引",
+        "cht": "風土的指引",
+        "es": "Guía de la Tierra del Viento",
+        "fr": "Conseil de la Terre venteuse",
+        "id": "Guidance of the Land of Wind",
+        "jp": "風土の導き",
+        "kr": "풍토의 인도",
+        "pt": "Guia da Terra do Vento",
+        "ru": "Указания царства ветров",
+        "th": "Guidance of the Land of Wind",
+        "vi": "Hướng Dẫn Của Gió Và Đất"
+    },
+    "id": 116004,
+    "materialDesc": {
+        "en": "You made a discovery during your travels in Mondstadt, the Land of Wind. The collection of items within can be used to upgrade your Talents.\\n\\nAfter using this item, you may select one of the following rewards:\\n·Guide to Freedom\\n·Guide to Resistance\\n·Guide to Ballad",
+        "de": "Auf deinen Reisen im Reich des Windes Mondstadt hast du eine Entdeckung gemacht. Sammelst du die darin enthaltenen Objekte, kannst du deine Fertigkeiten verbessern.\\n\\nNach dem Anwenden kannst du eine der folgenden Belohnungen wählen:\\n- Anleitung zur „Freiheit“\\n- Anleitung zum „Widerstand“\\n- Anleitung zur „Poesie“",
+        "chs": "在风之国土「蒙德」的旅行中有所发现，内部装有可以提升技艺的典藏。\\n\\n使用后可从以下选项中选择一项作为奖励:\\n·「自由」的指引\\n·「抗争」的指引\\n·「诗文」的指引",
+        "cht": "在風之國土「蒙德」的旅行中有所發現，內部裝有可以提升技藝的典藏。\\n\\n使用後可從以下選項中選擇一項作為獎勵:\\n·「自由」的指引\\n·「抗爭」的指引\\n·「詩文」的指引",
+        "es": "Hiciste un descubrimiento durante tus viajes en Mondstadt, el Reino del Viento. La colección de objetos en su interior puede usarse para mejorar tus talentos.\\n\\nAl usar este objeto, podrás elegir una de las siguientes recompensas:\\n·Guía de la libertad\\n·Guía de la resistencia\\n·Guía de la poesía",
+        "fr": "Vous avez fait une découverte à Mondstadt, le pays de l'élément Anémo. Cette collection d'objets pourra vous servir à améliorer vos aptitudes.\\n\\nAprès usage, vous recevrez une récompense à choisir entre :\\n· Guide de la Liberté\\n· Guide de la Résistance\\n· Guide de la Poésie",
+        "id": "Kamu menemukan beberapa hal selama bertualang di Mondstadt, Land of Wind. Koleksi yang ada di dalamnya dapat digunakan untuk upgrade Talenta.\\n\\nSetelah digunakan, kamu dapat memilih salah satu untuk dijadikan sebagai hadiah.\\n·Guide to \"Freedom\"\\n·Guide to \"Resistance\"\\n·Guide to \"Ballad\"",
+        "jp": "風の国「モンド」の旅の途中で発見したもの、内部には技を鍛える典籍が入っている。\\n\\n使用すると以下から1つ獲得できる:\\n·「自由」の導き\\n·「抗争」の導き\\n·「詩文」の導き",
+        "kr": "바람의 나라 「몬드」를 여행하다 발견한 것으로 기예를 향상시킬 수 있는 소장품이 들어있다.\\n\\n사용 후 아래 보상 중 한 가지를 선택할 수 있다:\\n·「자유」의 인도\\n·「투쟁」의 인도\\n·「시문」의 인도",
+        "pt": "Você fez uma descoberta durante suas viagens em Mondstadt. A coleção de itens em seu interior podem ser usadas para aprimorar seus Talentos.\\n\\nDepois de usar este item, você pode selecionar uma das seguintes recompensas:\\n· Guia de \"Liberdade\"\\n· Guia de \"Resistência\"\\n· Guia de \"Balada\"",
+        "ru": "Во время своих странствий по Мондштадту вы совершили открытие. Предметы из этого набора могут быть использованы для улучшения ваших талантов.\\n\\nПосле использования этого предмета вы сможете выбрать одну из следующих наград:\\n· Указания о «Свободе»\\n· Указания о «Борьбе»\\n· Указания о «Поэзии»",
+        "th": "สิ่งที่ค้นพบทั้งหมดระหว่างการเดินทางในดินแดนแห่งลมอย่าง \"Mondstadt\" ซึ่งภายในมีคอลเลกชันที่ช่วยพัฒนาทักษะได้\\n\\nหลังจากใช้แล้วสามารถเลือกของรางวัลหนึ่งอย่างจากตัวเลือกต่อไปนี้ได้:\\n·Guide to Freedom\\n·Guide to Resistance\\n·Guide to Ballad",
+        "vi": "Phát hiện ra trong chuyến hành trình đến Mondstadt - vùng đất của gió, trong đó có chứa bí quyết để nâng cao kỹ nghệ.\\n\\nDùng xong có thể chọn 1 phần thưởng sau đây:\\n·Hướng Dẫn Của \"Tự Do\"\\n·Hướng Dẫn Của \"Kháng Chiến\"\\n·Hướng Dẫn Của \"Thơ Văn\""
+    },
+    "materialType": "MATERIAL_SELECTABLE_CHEST"
+}

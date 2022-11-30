@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diagram: NRE (Menu 30)",
+        "de": "Bauplan: Praktischer Nahrungsbeutel Nr. 30",
+        "chs": "图谱：叁零式·便携营养袋",
+        "cht": "圖譜：參零式·隨身營養袋",
+        "es": "Plano: Bolsita nutritiva (Versión n.º 30)",
+        "fr": "Plan : Poche nutritive V30",
+        "id": "Diagram: NRE (Menu 30)",
+        "jp": "図譜：三〇式·携帯式栄養袋",
+        "kr": "설계도: 삼공식·영양키트",
+        "pt": "Diagrama: Bolsa Nutritiva (V. 30)",
+        "ru": "Диаграмма: Сухпаёк (Меню № 30)",
+        "th": "แบบแปลน: NRE (Menu 30)",
+        "vi": "Bản Vẽ: Túi Dinh Dưỡng Bỏ Túi - Mẫu 30"
+    },
+    "id": 221008,
+    "materialDesc": {
+        "en": "A detailed step-by-step diagram for making a Nutrition, Ready-to-Eat (NRE) meal-in-a-pouch. Learn it and you can create a tool that makes ingesting food much quicker.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Praktischer Nahrungsbeutel Nr. 30“. Mit dieser Anleitung kannst du einen Beutel basteln, mit dem die Nahrungsaufnahme deutlich erleichtert wird.",
+        "chs": "步骤详实的图谱，记载着「叁零式·便携营养袋」的制作方法。掌握后，可以制作让人能快速进食的道具。",
+        "cht": "步驟詳實的圖譜，記載著「參零式·隨身營養袋」的製作方法。掌握後，可以製作讓人能快速進食的道具。",
+        "es": "Planos detallados para fabricar una Bolsita nutritiva (Versión n.º 30). Apréndelos para crear un objeto con el que comer más rápido.",
+        "fr": "Plan détaillé pour la construction d'une Poche nutritive V30. Apprenez-le et fabriquez cet outil qui vous permettra d'ingérer vos aliments plus rapidement.",
+        "id": "Penjelasan terperinci tentang proses pembuatan makanan instan \"Nutrition, Ready-to-Eat (NRE)\". Setelah menguasainya, kamu bisa menciptakan alat yang bisa membuat makanan diserap lebih cepat.",
+        "jp": "「三〇式·携帯式栄養袋」の詳しい作り方が載っている図譜。習得後、素早く料理を食べるアイテムを作れるようになる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설계도로 「삼공식·영양키트」의 제작 방법이 적혀있다. 습득하면 빨리 먹을 수 있는 아이템을 제작할 수 있다",
+        "pt": "Um diagrama detalhado passo a passo de como fazer uma Bolsa Nutritiva (V.30). Com ele, você poderá fazer um item que permite comer comida muito mais rapidamente.",
+        "ru": "Подробная диаграмма создания предмета «Сухпаёк (Меню № 30)». Изучите её, чтобы создать предмет, позволяющий ускорить приём пищи.",
+        "th": "แบบแปลนอธิบายวิธีทำสารอาหารพร้อมทาน Nutrition, Ready-to-Eat (NRE) โดยละเอียด ศึกษาให้เชี่ยวชาญ แล้วคุณจะสามารถทำอาหารพร้อมทานได้ทุกเมื่อ",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"Túi Dinh Dưỡng Bỏ Túi - Mẫu 30\". Có thể chế tạo đạo cụ ăn nhanh"
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

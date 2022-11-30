@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Windtrace Coins",
+        "de": "Fluchttaler",
+        "chs": "迷踪币",
+        "cht": "迷蹤幣",
+        "es": "Moneda de la rebelión",
+        "fr": "Jetons de traque",
+        "id": "Windtrace Coin",
+        "jp": "追跡コイン",
+        "kr": "행방 코인",
+        "pt": "Moeda do Labirinto",
+        "ru": "Скрытые монеты",
+        "th": "Windtrace Coin",
+        "vi": "Tiền Lạc Lối"
+    },
+    "id": 123,
+    "materialDesc": {
+        "en": "The currency that is awarded for participating in Windtrace.\\nThe \"background settings\" of this same game will change in different areas. Though it is still a game of chase-and-catch, the fleeing party are named the \"Rebels\" in Mondstadt, while their pursuer is the \"Hunter,\" symbols both of the ancient resistance and oppression.\\nOf course, the children of Mondstadt know well that this is just a game, and no true sense of enmity emerges as they play.",
+        "de": "Die Währung, die man für die Teilnahme an Windflucht erhält.\\nDie „Hintergrundeinstellungen“ desselben Spiels werden sich in verschiedenen Gebieten ändern. Obwohl es immer noch ein Spiel des Jagens und Fangens ist, werden die Flüchtenden in Mondstadt die „Rebellen“ genannt, während ihr Verfolger der „Jäger“ ist, Symbole sowohl für den alten Widerstand als auch für die Unterdrückung.\\nNatürlich wissen die Kinder von Mondstadt gut, dass dies nur ein Spiel ist und kein wahres Gefühl der Feindschaft entsteht, während sie spielen.",
+        "chs": "参与「风行迷踪」，能获得的奖励代币。\\n在不同的地区，同一种游戏也会有着不同的「背景设定」。譬如说，同样是追逐捕捉的嬉闹，在蒙德就会将逃逸者称为「游侠」，而追捕者是「猎手」，象征着遥远过去的抗争与压制。\\n当然，蒙德的孩子们对这是一场游戏心知肚明，并不会在玩闹中产生真正的对立意识。",
+        "cht": "參與「風行迷蹤」，能獲得的獎勵代幣。\\n在不同的地區，同一種遊戲也會有著不同的「背景設定」。譬如說，同樣是追逐捕捉的嬉鬧，在蒙德就會將逃逸者稱為「遊俠」，而追捕者是「獵手」，象徵著遙遠過去的抗爭與壓制。\\n當然，蒙德的孩子們對這是一場遊戲心知肚明，並不會在玩鬧中產生真正的對立意識。",
+        "es": "La moneda que se gana al participar en «Cazadores y rebeldes».\\nEn distintos sitios, el mismo juego puede tener características diferentes. Por ejemplo, este es el típico juego de perseguir y atrapar, pero en Mondstadt los que escapan se llaman “rebeldes” y los que persiguen son los “cazadores” porque simbolizan la resistencia y la represión del pasado.\\nPor supuesto, los niños de Mondstadt saben que es solo un juego y no se enemistan cuando juegan.",
+        "fr": "#La devise obtenue à l'issue d'une participation au jeu «{NON_BREAK_SPACE}Poursuite du vent{NON_BREAK_SPACE}».\\nL'histoire de ce jeu changera selon les différentes zones. Bien que ce soit toujours un jeu de chasse-et-capture, à Mondstadt, les fuyards sont appelés des «{NON_BREAK_SPACE}rebelles{NON_BREAK_SPACE}» tandis que le poursuivant est un «{NON_BREAK_SPACE}chasseur{NON_BREAK_SPACE}», deux symboles de l'ancienne résistance et de l'oppression.\\nBien sûr, les enfants mondstadtois savent bien qu'il ne s'agit que d'un jeu et aucun véritable sentiment d'animosité ne découle de ces parties.",
+        "id": "Mata uang yang didapatkan dari mengikuti \"Jejak Sang Angin\".\\n\"Latar belakang\" dari jenis permainan yang sama bisa berubah sesuai dengan wilayah. Meskipun ini adalah permainan petak umpet biasa, pihak yang harus kabur akan diberi nama \"Pemberontak\" di Mondstadt, dan pihak yang mengejar adalah \"Pemburu\", yang melambangkan perjuangan dan penindasan pada masa lampau.\\nTentu saja para anak-anak di Mondstadt tahu bahwa ini hanya sebuah permainan, mereka tidak akan bermusuhan hanya karena permainan ini.",
+        "jp": "「風の行方」に参加すると獲得できるコイン。\\n同じゲームであっても、地域によって「背景設定」が異なることがある。例えば、同じく追いかけて捕まえるという遊びでも、モンドでは逃亡者を「レンジャー」、追跡者を「ハンター」と呼び、遠い過去にあった抗争と抑圧を象徴する。\\nもちろん、モンドの子どもたちは、これをただの遊びだと認識しているため、本当に敵意を向き合うことはない。",
+        "kr": "「바람의 행방」 참여 시 「행방 코인」을 획득할 수 있다.\\n같은 게임도 지역마다 서로 다른 「배경 설정」을 가지고 있다. 예를 들어, 같은 술래잡기 게임이라도 몬드에서는 도망자를 「레인저」, 추격자를 「헌터」라고 하며 옛 항쟁과 억압을 상징한다.\\n물론 몬드의 아이들은 이것이 게임이라는 걸 인지하고 있으며 진짜 마찰을 일으키진 않는다",
+        "pt": "Uma moeda obtida ao participar do \"Labirinto de Vento\".\\nEm diferentes regiões, o mesmo jogo pode ter diferentes \"definições de contexto\". Por exemplo, para um jogo de caça, o povo de Mondstadt chama os fugitivos de Cavaleiros Errantes e os perseguidores de Caçadores. Isso representa a revolta e repressão nos tempos antigos.\\nMas, é claro, as crianças entendem muito bem que isso é apenas um jogo e não têm uma mentalidade de confronto ao jogar.",
+        "ru": "Участвуйте в событии «По следам ветра» и получите жетоны в награду.\\nВ разных местах одна и та же игра может иметь разные сопутствующие сюжеты. Например, погоня и преследование. Тех, кто спасается бегством, в Мондштадте называют «мятежниками», а их преследователей - «охотниками», потому что они символизируют сопротивление и репрессии прошлого.\\nРазумеется, даже дети знают, что это всего лишь игра, и во время игры не возникает истинного чувства вражды.",
+        "th": "เข้าร่วม \"เส้นทางแห่งสายลม\" เพื่อรับเหรียญรางวัล \\nซึ่งแต่ละพื้นที่ แม้ว่าจะเป็นเกมเดียวกันแต่ก็มี \"กติกาเบื้องหลัง\" ที่แตกต่างกัน เช่น การเล่นวิ่งไล่จับ ใน Mondstadt ผู้หลบหนีจะเรียกว่า \"ผู้ต่อต้าน\" และผู้ไล่ตามคือ \"ผู้ล่า\" ซึ่งเป็นสัญลักษณ์ของการต่อสู้และการปราบปรามในอดีตอันไกลโพ้น \\nแต่แน่นอนว่า เด็ก ๆ ใน Mondstadt รู้ว่านี่คือเกม และไม่ได้รู้สึกว่าอีกฝ่ายเป็นฝ่ายตรงข้ามจริง ๆ",
+        "vi": "Tham gia \"Cơn Gió Lạc Lối\" có thể nhận tiền thưởng.\\nCùng một loại trò chơi nhưng trong những khu vực khác nhau cũng sẽ có \"bối cảnh\" khác nhau. Ví dụ, cùng là trò đuổi bắt, nhưng ở Mondstadt sẽ gọi kẻ chạy trốn là Hiệp Sĩ, còn kẻ truy bắt là Thợ Săn, tượng trưng cho sự đấu tranh và đàn áp trong quá khứ.\\nĐương nhiên bọn trẻ ở Mondstadt biết rõ đây chỉ là một trò chơi và sẽ không nảy sinh ý nghĩ thù địch gì trong lúc chơi cả."
+    },
+    "materialType": false
+}

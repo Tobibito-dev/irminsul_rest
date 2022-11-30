@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Chasm",
+        "de": "Errungenschaft – Große Kluft",
+        "chs": "成就·层岩",
+        "cht": "成就·層岩",
+        "es": "Logro - Sima",
+        "fr": "Succès - Gouffre",
+        "id": "Achievement: Situs Pertambangan",
+        "jp": "アチーブメント·層岩",
+        "kr": "업적·층암",
+        "pt": "Conquista: Despenhadeiro",
+        "ru": "Разлом",
+        "th": "ความสำเร็จ - Chasm",
+        "vi": "Thành Tựu - Núi Đá"
+    },
+    "id": 210117,
+    "materialDesc": {
+        "en": "Namecard style.\\nWhere once miners industriously delved and tunneled, now all is silent. Only the Glazed Sand Crystal and marrows of stone, both millennia-old, still give off any brilliance.",
+        "de": "Ein Motiv für Namenskärtchen.\\nEinst liefen die Minenarbeiter in den Bergwerken herum. Aber jetzt umhüllt alles die menschenleere Stille. Nur der Kristallsand und die Achate schimmern noch in dem Dunkel.",
+        "chs": "名片纹饰。\\n矿工曾奔忙穿梭的栈道与矿山，如今被寂静笼罩。仅有千年的琉璃晶砂与玉髓闪烁着幽光。",
+        "cht": "名片紋飾。\\n礦工曾奔忙穿梭的棧道與礦山，如今被寂靜籠罩。僅有千年的琉璃晶砂與玉髓閃爍著幽光。",
+        "es": "Diseño de tarjeta de presentación.\\nLas minas que una vez estuvieron repletas de andamios y vetas de minerales ahora yacen envueltas en el silencio. Solo queda el destello de los milenarios yacimientos de arena cristalizada y calcedonia.",
+        "fr": "Thème.\\nLà où autrefois les mineurs creusaient assidûment des tunnels ne reste que le silence. Seuls les cristaux émaillés et les moelles pierreuses, tous deux millénaires, dégagent encore un faible éclat.",
+        "id": "Style kartu nama.\\nTempat yang dulunya ramai dilalui oleh para penambang sekarang terlelap dalam kesunyian. Kini hanya tersisa Glazed Sand Crystal dan bebatuan yang terus bersinar setelah seribu tahun lamanya.",
+        "jp": "名刺の飾り紋。\\nかつて鉱夫たちが駆け抜けた桟道や坑道は今や静寂に包まれ、千年を経た琉璃晶砂と玉髄だけが、幽玄たる光を放っている。",
+        "kr": "명함 스킨.\\n광부들이 바쁘게 오가던 잔도와 광산은 오늘날 고요함으로 뒤덮였고, 천 년 된 유리 모래와 옥수만 은은하게 빛 나고 있다",
+        "pt": "Estilo de Cartão de Visita.\\nOnde muitos mineradores antigamente extraíam minérios, agora está completamente silenciosa. Somente o brilho suave dos Cristais de Areia Vitrificada e das calcedônias, de milhares de anos, permaneceu.",
+        "ru": "Именная карта.\\nТам, где когда-то носились вагонетки и деловито сновали шахтёры, теперь воцарилось молчание. Лишь кристаллы глазурного песка и самоцветы, древние как сам мир, поблескивают тусклым светом.",
+        "th": "ลายนามบัตร\\nเส้นทางและตรอกถ้ำที่คนงานเหมืองเคยวิ่งวุ่นทำงาน ในตอนนี้กลับปกคลุมไปด้วยความเงียบงัน มีเพียงผลึกคริสตัลและหินแร่นับพันปีที่ยังคงส่องประกายแสงสลัว",
+        "vi": "Hoa văn danh thiếp.\\nNhững con đường ván gỗ và hầm mỏ nơi những người thợ mỏ từng lao qua, giờ đã bị bao phủ bởi sự im lặng. Chỉ có Mã Não và Tinh Thể Lưu Ly ngàn năm còn le lói chút ánh sáng mờ ảo."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

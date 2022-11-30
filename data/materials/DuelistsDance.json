@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Duelist's Dance",
+        "de": "Duelltanz",
+        "chs": "决斗之舞",
+        "cht": "決鬥之舞",
+        "es": "Danza del duelo",
+        "fr": "Danse du bretteur",
+        "id": "Duelist's Dance",
+        "jp": "決闘の舞",
+        "kr": "결투의 춤",
+        "pt": "Dança do Duelo",
+        "ru": "Танец поединка",
+        "th": "Duelist's Dance",
+        "vi": "Vũ Điệu Quyết Đấu"
+    },
+    "id": 200241,
+    "materialDesc": {
+        "en": "When a character hits opponents, a shockwave will be unleashed that deals AoE True DMG. When characters are at full HP, the DMG dealt will be increased further. This effect can be triggered once every 5s per player's party.",
+        "de": "Löst nach dem Treffen von Gegnern durch Angriffe eine Druckwelle aus, die tatsächlichen Flächenschaden verursacht. Erhöht den verursachten Schaden bei vollen LP der auslösenden Figur. 5 s Abklingzeit für jede Spielertruppe.",
+        "chs": "角色的攻击命中敌人后，将会释放冲击波，造成范围真实伤害。角色生命值满时，造成的伤害会进一步提升。该效果每个玩家队伍每5秒至多触发一次。",
+        "cht": "角色的攻擊命中敵人後，將會釋放衝擊波，造成範圍真實傷害。角色生命值滿時，造成的傷害會進一步提升。該效果每個玩家隊伍每5秒至多觸發一次。",
+        "es": "Cuando un personaje golpea a un enemigo, se genera una onda de choque que inflige Daño Verdadero en el AdE. Cuando la Vida del personaje está al máximo, inflige aún más daño. El equipo solo puede activar este efecto una vez cada 5 s.",
+        "fr": "Lorsqu'un personnage touche un ennemi, il libère une onde de choc qui inflige des DGT réels de zone. Lorsque les PV du personnage sont au maximum, les DGT infligés sont augmentés. Cet effet peut être déclenché une fois toutes les 5 s par équipe.",
+        "id": "Setelah serangan Karakter mengenai musuh, Karakter tersebut akan melancarkan serangan gelombang yang mengakibatkan True DMG Area. Saat HP Karakter penuh, DMG yang diakibatkan akan jauh lebih besar. Efek ini dapat dipicu oleh setiap party pemain setiap 5 detik.",
+        "jp": "キャラクターの攻撃が敵に命中すると衝撃波を発動し、範囲確定ダメージを与える。キャラクターのHPが満タンの時、与えるダメージはさらにアップする。この効果は各プレイヤーのチームごとに5秒に1回のみ発動可能。",
+        "kr": "캐릭터의 공격이 적을 명중하면 충격파를 방출해 범위 고정 피해를 준다. 캐릭터의 HP가 가득차면, 가하는 피해가 더욱 증가한다. 플레이어 파티마다 해당 효과를 5초마다 최대 1회 발동한다",
+        "pt": "Quando um personagem atinge os oponentes, uma Onda de Choque será desencadeada e infligirá Dano Real em uma AdE. Quando a Vida do personagem estiver cheia, o Dano causado será aumentado ainda maior. Esse efeito pode ser ativado uma vez a cada 5s por jogador da equipe.",
+        "ru": "Когда персонаж попадает по врагу, появляется ударная волна, которая наносит истинный урон по площади. Если у персонажа максимум HP, то урон волны будет выше. Эффект может возникнуть для всего отряда один раз в 5 сек.",
+        "th": "หลังจากที่การโจมตีของตัวละครถูกศัตรู จะปล่อยคลื่นกระแทกออกมา ทำให้เกิดความเสียหายจริงเป็นวงกว้าง และเมื่อพลังชีวิตของตัวละครเต็ม ความเสียหายที่สร้างจะเพิ่มขึ้นไปอีกขั้น ซึ่งเอฟเฟกต์นี้ จะเกิดขึ้นกับตัวละครในทีมของผู้เล่นแต่ละคนได้มากสุดหนึ่งครั้ง ในทุก 5 วินาที",
+        "vi": "Nhân vật sau khi đánh trúng kẻ địch sẽ tạo ra sóng xung kích, gây sát thương chuẩn diện rộng. Khi nhân vật đầy HP sẽ tăng thêm lượng sát thương gây ra. Hiệu ứng này mỗi đội người chơi mỗi 5s tối đa kích hoạt 1 lần."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

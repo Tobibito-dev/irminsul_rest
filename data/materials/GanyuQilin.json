@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ganyu: Qilin",
+        "de": "Ganyu – Qilin",
+        "chs": "甘雨·麟迹",
+        "cht": "甘雨·麟跡",
+        "es": "Ganyu - Chilin",
+        "fr": "Ganyu - Qilin",
+        "id": "Ganyu: Qilin",
+        "jp": "甘雨·麒麟の跡",
+        "kr": "감우·기린 흔적",
+        "pt": "Ganyu - Qilin",
+        "ru": "Цилинь",
+        "th": "Ganyu - กิเลน",
+        "vi": "Ganyu - Lân Tích"
+    },
+    "id": 210053,
+    "materialDesc": {
+        "en": "Namecard style.\\nDo no harm to plant nor insect.",
+        "de": "Ein Motiv für Namenskärtchen.\\nNaturschutzgebiet. Betreten der Grünflächen verboten.",
+        "chs": "名片纹饰。\\n不折草，不履虫。",
+        "cht": "名片紋飾。\\n不折草，不履蟲。",
+        "es": "Diseño de tarjeta de presentación.\\nSin misericordia, sin clemencia.",
+        "fr": "Thème.\\nRespectez la nature.",
+        "id": "Style kartu nama.\\nJangan merusak rumput, jangan menginjak serangga.",
+        "jp": "名刺の飾り紋。\\n草を折らず、虫を履まず。",
+        "kr": "명함 스킨.\\n풀을 꺾지 않고, 벌레를 죽이지 않는다",
+        "pt": "Estilo de Cartão de Visita.\\nNão faça mal às plantas nem a insetos.",
+        "ru": "Именная карта.\\nНе навреди ни травинке, ни жучку.",
+        "th": "ลายนามบัตร\\nไม่ทำลายใบหญ้า ไม่เหยียบย่ำแมลง",
+        "vi": "Hoa văn danh thiếp.\\nKhông bẻ cỏ, không giết sâu."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

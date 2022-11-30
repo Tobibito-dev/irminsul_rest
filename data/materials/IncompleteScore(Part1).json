@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Incomplete Score (Part 1)",
+        "de": "Unvollständiges Notenheft (Teil 1)",
+        "chs": "残缺乐谱（上半章）",
+        "cht": "殘缺樂譜（上半章）",
+        "es": "Partitura incompleta (Parte 1)",
+        "fr": "Partition incomplète (Partie 1)",
+        "id": "Partitur yang Tidak Lengkap (Bagian Awal)",
+        "jp": "破れた楽譜（前半）",
+        "kr": "불완전한 악보(상)",
+        "pt": "Partitura Incompleta (Parte 1)",
+        "ru": "Незаконченные ноты (Часть 1)",
+        "th": "Incomplete Score (Part 1)",
+        "vi": "Mảnh nhạc phổ (nửa chương đầu)"
+    },
+    "id": 100103,
+    "materialDesc": {
+        "en": "The first half of the sheet music for \"Yellow.\" \"S to J\" is written in the bottom right corner.",
+        "de": "Die erste Hälfte des Notenhefts für das Stück „Yellow“. In der Ecke rechts unten steht „Für J, von S“.",
+        "chs": "《Yellow》的上半章乐谱，右下角标记着\"S to J\"的字样",
+        "cht": "《Yellow》的上半章樂譜，右下角標記著「S to J」的字樣。",
+        "es": "La primera mitad de la partitura de «Yellow». “S a J” está escrito en la esquina inferior derecha.",
+        "fr": "La première partie de la partition de « Yellow » avec l'inscription « pour J de la part de S » sur le coin droit en bas de page.",
+        "id": "Lembaran musik bagian awal untuk lagu berjudul \"Yellow\". Terdapat inisial \"S to J\" di pojok kanan bawah.",
+        "jp": "『Yellow』の前半の楽譜。右下に「S to J」の文字が記されている。",
+        "kr": "《Yellow》 악보의 앞 부분. 오른쪽 밑에 \"S to J\"라는 글자가 표기되어 있다",
+        "pt": "A primeira parte da partitura da música \"Yellow\". com \"S to J\" escrito no canto inferior direito.",
+        "ru": "Первая половина нот для «Yellow». В правом нижнем углу написано «от S для J».",
+        "th": "ครึ่งแรกของโน้ตดนตรีสำหรับ \"Yellow\" มีเขียนว่า \"S to J\" ที่มุมขวาล่างด้วย",
+        "vi": "Nửa chương đầu nhạc phổ \"Yellow\", bên góc phải có ghi \"S to J\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

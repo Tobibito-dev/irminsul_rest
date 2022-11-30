@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Pale Princess and the Six Pygmies (VI)",
+        "de": "Schneemädchen und die sechs Winzlinge – Band VI",
+        "chs": "白之公主与六侏儒·卷六",
+        "cht": "白之公主與六侏儒·卷六",
+        "es": "La Princesa de las Nieves y los seis enanos (VI)",
+        "fr": "Princesse Neige et les Six Nains - Tome VI",
+        "id": "Putri Putih dan Enam Kurcaci (VI)",
+        "jp": "白姫と六人の小人·6",
+        "kr": "하얀 공주와 여섯 난쟁이·권6",
+        "pt": "A Branca de Neve e os 6 Anões (VI)",
+        "ru": "Снежная принцесса и шесть карликов. Том VI",
+        "th": "เจ้าหญิงหิมะกับคนแคระทั้งหก (VI)",
+        "vi": "Công Chúa Bạch Chi và 6 Chú Lùn (VI)"
+    },
+    "id": 100220,
+    "materialDesc": {
+        "en": "A fairytale story that has been told throughout Teyvat for ages. This installment tells of how the Six Pygmies managed to implement their nefarious plot.",
+        "de": "Ein Märchen, das man sich schon lange überall in Teyvat erzählt. In diesem Band wird dargestellt, wie die sechs Winzlinge ihren gemeinen Plan in die Tat umsetzen.",
+        "chs": "在提瓦特大陆各地流传已久的童话，这一册讲述了六侏儒如何实施他们恶毒的计划。",
+        "cht": "在提瓦特大陸各地流傳已久的童話，這一冊講述了六侏儒如何實施他們惡毒的計畫。",
+        "es": "Un cuento muy conocido en Teyvat. En este capítulo, se explica cómo los seis enanos llevaron a cabo su maligno plan.",
+        "fr": "Un conte traditionnel populaire en Teyvat. Dans ce sixième tome, les six nains élaborent l'exécution de leur plan.",
+        "id": "Dongeng yang terkenal di seluruh Teyvat sejak zaman dahulu. Jilid ini menceritakan tentang bagaimana 6 kurcaci melaksanakan rencana mereka.",
+        "jp": "テイワット各地に古くから伝わってきた童話。六人の小人の卑怯な計画の実行を語る一冊。",
+        "kr": "티바트 대륙 전역에서 오랫동안 전해져 온 동화. 여섯 난쟁이의 악독한 계획에 대한 내용이 자세히 담겨있다",
+        "pt": "Um conto muito conhecido em Teyvat. Este capítulo conta como que os 6 anões implantaram seus planos maliciosos.",
+        "ru": "Сказка, которую рассказывали взрослые своим детям по всему Тейвату. Эта часть повествует о том, как Шести Карликам удалось привести свой план в действие.",
+        "th": "เทพนิยายที่เล่าขานกันมานานใน Teyvat ในเล่มนี้จะเล่าถึงวิธีการดำเนินแผนชั่วร้ายของเหล่าคนแคระทั้งหก",
+        "vi": "Là câu chuyện cổ tích được lưu truyền từ rất lâu ở Teyvat, quyển này kể về việc 6 chú lùn thực hiện âm mưu như thế nào."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

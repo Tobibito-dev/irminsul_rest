@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Diligence of the City of Wisdom",
+        "de": "„Einfachheit und Fleiß in der Stadt der Weisheit“",
+        "chs": "「智慧之城的勤朴」",
+        "cht": "「智慧之城的勤樸」",
+        "es": "Dedicación de la ciudad de la sabiduría",
+        "fr": "#« Diligence de la cité de la sagesse{NON_BREAK_SPACE}»",
+        "id": "Dedikasi Kota Kebijaksanaan",
+        "jp": "「知恵の都の勤労」",
+        "kr": "「지혜의 성의 근면 성실」",
+        "pt": "Frugalidade da Cidade da Sabedoria",
+        "ru": "Усердие города мудрости",
+        "th": "\"ความขันแข็งของเมืองแห่งปัญญา\"",
+        "vi": "Sự Cần Mẫn Của Thành Phố Trí Tuệ"
+    },
+    "id": 390728,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making Diligence of the City of Wisdom.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Einfachheit und Fleiß in der Stadt der Weisheit“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『智慧之城的勤朴』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『智慧之城的勤樸』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar “Dedicación de la ciudad de la sabiduría”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "#Étapes de fabrication de la «{NON_BREAK_SPACE}Diligence de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat Kerajinan Kota Kebijaksanaan.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『知恵の都の勤労』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면. 「『지혜의 성의 근면 성실』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Frugalidade da Cidade da Sabedoria.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Усердие города мудрости».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ความขันแข็งของเมืองแห่งปัญญา\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Sự Cần Mẫn Của Thành Phố Trí Tuệ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

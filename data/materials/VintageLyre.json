@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vintage Lyre",
+        "de": "Alte Leier",
+        "chs": "老旧的诗琴",
+        "cht": "老舊的詩琴",
+        "es": "Lira antigua",
+        "fr": "Lyre ancienne",
+        "id": "Vintage Lyre",
+        "jp": "古びたライアー",
+        "kr": "낡은 하프",
+        "pt": "Lira Antiga",
+        "ru": "Старинная лира",
+        "th": "พิณเก่าแก่",
+        "vi": "Đàn Cổ"
+    },
+    "id": 220066,
+    "materialDesc": {
+        "en": "Use this traditional instrument from Mondstadt to play songs. It may work wonders when played in the forests of Sumeru.\\nA vintage lyre borrowed from Amadhiah in Vimara Village.\\nMondstadt has a long-standing tradition of poetry and song. Bards from there tend to address their instruments as \"Friend\" or \"Partner.\" Thus, one of them trusting Amadhiah with the instrument was nothing less than a gesture of intimacy and trust.",
+        "de": "Mit diesem traditionellen Instrument aus Mondstadt kannst du Melodien spielen. Es kann Wunder bewirken, wenn es in den Wäldern von Sumeru gespielt wird.\\nEine alte Leier, die du dir von Amadhiah im Dorf Vimara geliehen hast.\\nMondstadt hat eine lange Tradition in Poesie und Gesang. Barden von dort neigen dazu, ihre Instrumente als „Freund“ oder „Partner“ anzusprechen. Amadhiah das Instrument anzuvertrauen, war also nichts weniger als eine Geste der Vertrautheit und des Vertrauens.",
+        "chs": "使用后，可以进行演奏的蒙德传统乐器。在须弥的森林中，有时似乎能发挥神奇的效果。\\n从维摩庄的阿玛兹亚处借来的老旧诗琴。\\n蒙德有诗与歌的传统。吟游诗人会将自己乐器称为自己的「挚友」、「伴侣」，因此将乐器作为信物托付给阿玛兹亚无疑是十分亲密、充满信赖的行为。",
+        "cht": "使用後，可以進行演奏的蒙德傳統樂器。在須彌的森林中，有時似乎能發揮神奇的效果。\\n從維摩莊的阿瑪茲亞處借來的老舊詩琴。\\n蒙德有詩與歌的傳統。吟遊詩人會將自己樂器稱為自己的「摯友」、「伴侶」，因此將樂器作為信物託付給阿瑪茲亞無疑是十分親密、充滿信賴的行為。",
+        "es": "Con este instrumento tradicional de Mondstadt se pueden interpretar diferentes melodías. Es posible que tenga cierto efecto misterioso si lo tocas en los bosques de Sumeru.\\nUna lira antigua que tomaste prestada en la Aldea Vimara de Sumeru.\\nEn Mondstadt, la nación de la música y la poesía, los bardos se refieren a su instrumento como “querido amigo” o “compañero del alma”. Por eso, si uno de ellos confiara su instrumento a Amadhiah, significaría que guardan aprecio y confianza hacia su persona.",
+        "fr": "#Utilisez cet instrument traditionnel de Mondstadt pour faire de la musique. Il peut faire des merveilles lorsqu'il est joué dans les forêts de Sumeru.\\nIl s'agit d'une ancienne lyre empruntée à Amadhiah dans le Village de Vimara.\\nMondstadt est connue pour ses arts traditionnels de poésie et de chant. Les bardes qui y résident ont tendance à s'adresser à leurs instruments en les appelant «{NON_BREAK_SPACE}ami{NON_BREAK_SPACE}» ou « partenaire ». Ainsi, le fait que l'un d'entre eux confie un tel instrument à Amadhiah n'est rien de moins qu'un geste témoignant des liens étroits et de la confiance qui lient ces deux personnes.",
+        "id": "Gunakan alat musik tradisional dari Mondstadt ini untuk memainkan lagu. Alat musik ini mungkin bekerja dengan sangat baik ketika dimainkan di hutan Sumeru.\\nKecapi kuno yang dipinjam dari Amadhiah di Desa Vimara.\\nSejak lama Mondstadt sudah memiliki tradisi tentang puisi dan lagu. Penyair dari Mondstadt cenderung menyebut instrumen mereka sebagai \"Teman\" atau \"Rekan.\" Lalu salah satu dari mereka mempercayakan Amadhiah dengan instrumen sebagai lambang dari kepercayaan dan keakraban.",
+        "jp": "使用すると演奏ができるモンドの伝統的な楽器。スメールの森で、時に不思議な効果を発揮できる。\\nヴィマラ村のアマディアから借りた古びたライアー。\\nモンドには詩と歌の伝統がある。吟遊詩人は自分の楽器を「親友」とも「伴侶」とも呼ぶ。だから、楽器をしるしとして託されるというのは、信頼と親愛の証なのだ。",
+        "kr": "사용 시 연주가 가능한 몬드 전통 악기. 수메르의 숲에서 가끔 신기한 효과를 발휘하는 듯하다.\\n비마라 마을의 아마디아에게 빌린 낡은 하프.\\n몬드에는 시와 노래의 전통이 있다. 음유시인은 자신의 악기를 「참된 벗」 또는 「동반자」로 여기기 때문에 악기를 증표로 삼고, 아마디아에게 맡기는 것은 아주 큰 친밀감과 신뢰의 표시라고 볼 수 있다",
+        "pt": "Use esse instrumento tradicional de Mondstadt para tocar melodias. Ele pode ter um efeito peculiar quando tocado nas florestas de Sumeru.\\nUma Lira antiga emprestada de Amadhiah na Vila Vimara.\\nMondstadt possui uma longa tradição de poesia e música. Bardos de lá se referem aos seus instrumentos como \"amigos\" ou \"companheiros\". Por isso, dar esse instrumento a Amadhiah foi um profundo gesto de intimidade e confiança.",
+        "ru": "Используйте, чтобы призвать традиционный мондштадтский инструмент. В лесах Сумеру эта лира способна творить настоящие чудеса.\\nСтаринная лира, позаимствованная у Амадии из деревни Вимара.\\nМондштадт славится своей традицией слагать стихи и сочинять песни, а мондштадтские барды обращаются к своим инструментам не иначе, как «дорогой друг» или «верный товарищ». Значит, кто-то из бардов очень доверял Амадии и считал его близким другом, раз оставил ему свою лиру.",
+        "th": "หลังใช้งาน จะสามารถเล่นเครื่องดนตรีดั้งเดิมของ Mondstadt ได้ บางทีมันอาจจะเกิดผลลัพธ์มหัศจรรย์เมื่อเล่นในป่าของ Sumeru ก็ได้\\nพิณเก่าแก่ที่ยืมมาจาก Amadhiah ในหมู่บ้าน Vimara\\nMondstadt มีประเพณีการแต่งบทกวีและบทเพลงที่สืบทอดกันมา กวีพเนจรจะเรียกเครื่องดนตรีประจำตัวว่า \"สหายรัก\" หรือ \"คู่รัก\" เพราะฉะนั้นการฝากเครื่องดนตรีไว้กับ Amadhiah จึงเป็นพฤติกรรมแสดงถึงความสนิทสนมและไว้เนื้อเชื่อใจอย่างเต็มเปี่ยม",
+        "vi": "Nhạc cụ truyền thống Mondstadt, có thể diễn tấu sau khi sử dụng. Trong khu rừng của Sumeru, đôi khi có thể phát huy hiệu quả thần kỳ.\\nMột cây đàn cũ mượn ở chỗ Amadhiah của Làng Vimara.\\nMondstadt có truyền thống thơ ca. Nhà thơ sẽ gọi nhạc cụ của mình là \"bạn thân\", \"bạn đồng hành\", vì vậy việc giao nhạc cụ cho Amadhiah chắc chắn là rất thân mật và đáng tin cậy."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Endless Waltz",
+        "de": "Endloser Tanz",
+        "chs": "无尽之舞",
+        "cht": "無盡之舞",
+        "es": "Vals eterno",
+        "fr": "Valse éternelle",
+        "id": "Endless Waltz",
+        "jp": "無尽の舞",
+        "kr": "끝없는 춤",
+        "pt": "Dança Infinita",
+        "ru": "Вечный вальс",
+        "th": "Endless Waltz",
+        "vi": "Vũ Điệu Vô Tận"
+    },
+    "id": 200245,
+    "materialDesc": {
+        "en": "After using an Elemental Burst, all party members on the field will unleash one shockwave that scales on 600% of the ATK of the character that unleashed that shockwave, and which deals DMG to nearby opponents. This effect can occur once every 2s and its CD is shared between all characters in the party.",
+        "de": "Löst bei allen Figuren auf dem Feld nach dem Anwenden einer Spezialfähigkeit jeweils eine Druckwelle aus und fügt Gegnern in der Nähe Schaden basierend auf 600 % ANG der die Druckwelle auslösenden Figur zu. 2 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "施放元素爆发后，场上所有角色都将各自释放一次冲击波，基于释放冲击波的角色的攻击力的600%，对附近的敌人造成伤害。该效果每2秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "施放元素爆發後，場上所有角色都將各自釋放一次衝擊波，基於釋放衝擊波的角色攻擊力的600%對附近的敵人造成傷害。該效果每2秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Tras usar una Habilidad Definitiva, todos los personajes en uso generan una onda de choque que inflige daño a los enemigos cercanos basado en el 600% del ATQ del personaje que liberó la onda de choque. Este efecto puede activarse una vez cada 2 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Après avoir utilisé un déchaînement élémentaire, tous les personnages de l'équipe déployés sur le champ de bataille libèrent une onde de choc, infligeant des DGT aux ennemis proches équivalant à 600 % de l'ATQ du personnage ayant libéré l'onde de choc. Cet effet peut être déclenché une fois toutes les 2 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Setelah melancarkan Elemental Burst, semua Karakter yang berada di medan pertempuran akan melancarkan satu serangan gelombang, dengan DMG sebesar 600% dari ATK Karakter yang melancarkan serangan gelombang tersebut, dan mengakibatkan DMG terhadap musuh di sekitar. Efek ini dapat terpicu setiap 2 detik, dan CD efek berlaku bagi seluruh anggota party.",
+        "jp": "元素爆発を発動すると、フィールド上全キャラクターが衝撃波を発動し、衝撃波を発動したキャラクター自身の攻撃力の600%分、周囲の敵にダメージを与える。この効果は2秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "원소폭발 발동 후 필드 내 모든 캐릭터는 충격파를 1회씩 방출해 주위의 적들에게 시전 캐릭터의 공격력 600%의 피해를 입힌다. 해당 효과는 2초마다 1회 발동되며 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Depois de liberar o Supremo, todos os Personagens no campo de batalha criarão uma Onda de Choque, baseada em 600% do Ataque do Personagem que desencadeou a Onda de Choque, causando Dano nos inimigos próximos. Esse efeito pode ocorrer uma vez a cada 2s, e todos os Personagens da Equipe compartilham o Tempo de Recarga.",
+        "ru": "После использования взрыва стихий все персонажи на поле боя создают ударную волну, которая наносит окружающим врагам урон, равный 600% от силы атаки персонажа, использовавшего ударную волну. Эффект возникает раз в 2 сек. Время отката общее для всех членов отряда.",
+        "th": "หลังจากปล่อยท่าไม้ตาย ตัวละครทั้งหมดที่อยู่ในการต่อสู้จะปล่อยคลื่นกระแทกออกมาหนึ่งครั้ง โดยจะมีความรุนแรงเท่ากับ 600% ของพลังโจมตีของตัวละครที่ปล่อยคลื่นกระแทก ซึ่งจะสร้างความเสียหายให้กับศัตรูที่อยู่ในบริเวณใกล้เคียง โดยที่เอฟเฟกต์นี้ จะใช้ได้มากสุดหนึ่งครั้ง ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Sau khi dùng kỹ năng nộ, tất cả nhân vật trong trận đều thi triển sóng xung kích một lần, căn cứ theo 600% lực tấn công của nhân vật thi triển sóng xung kích để gây sát thương cho kẻ địch ở gần. Hiệu ứng này mỗi 2s kích hoạt tối đa 1 lần, tất cả nhân vật trong đội đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

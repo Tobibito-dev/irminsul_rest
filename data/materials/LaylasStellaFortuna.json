@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Layla's Stella Fortuna",
+        "de": "Stella Fortuna von Layla",
+        "chs": "莱依拉的命星",
+        "cht": "萊依拉的命星",
+        "es": "Stella Fortuna de Laila",
+        "fr": "Stella Fortuna de Layla",
+        "id": "Layla's Stella Fortuna",
+        "jp": "レイラの星屑",
+        "kr": "레일라의 운명의 별",
+        "pt": "Stella Fortuna de Layla",
+        "ru": "Удача Лайлы",
+        "th": "ดวงดาวแห่งชีวิตของ Layla",
+        "vi": "Chòm Sao Của Layla"
+    },
+    "id": 1174,
+    "materialDesc": {
+        "en": "Layla's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Laylas Sternbild",
+        "chs": "莱依拉的命之座激活素材",
+        "cht": "萊依拉的命之座啟用素材",
+        "es": "Material de activación de constelación de Laila",
+        "fr": "Matériau d'activation de la constellation de Layla.",
+        "id": "Material aktivasi untuk konstelasi Layla",
+        "jp": "レイラの命ノ星座アンロック用素材",
+        "kr": "레일라의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Layla",
+        "ru": "Материал для активации созвездия Лайлы",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Layla",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Layla"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

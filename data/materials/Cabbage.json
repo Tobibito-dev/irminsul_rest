@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cabbage",
+        "de": "Weißkohl",
+        "chs": "卷心菜",
+        "cht": "高麗菜",
+        "es": "Repollo",
+        "fr": "Chou",
+        "id": "Cabbage",
+        "jp": "キャベツ",
+        "kr": "양배추",
+        "pt": "Repolho",
+        "ru": "Капуста",
+        "th": "Cabbage",
+        "vi": "Bắp Cải Cuộn"
+    },
+    "id": 100018,
+    "materialDesc": {
+        "en": "A layered, leafy vegetable. Said to have originally been an ornamental plant, it certainly looks great in the pot.",
+        "de": "Ein Gemüse mit vielen Schichten, das ursprünglich wohl als Topfpflanze großen Anklang gefunden hat. Macht sich wirklich gut im Topf.",
+        "chs": "层层相裹的蔬菜。据说曾经是观赏植物，如今在锅里的模样也很棒。",
+        "cht": "層層相裹的蔬菜。據說曾經是觀賞植物，如今在鍋裡的模樣也很棒。",
+        "es": "Un vegetal con capas. Dicen que originalmente era una planta ornamental. Su aspecto al ser cocido es bastante agradable.",
+        "fr": "Un légume à feuilles. D'après certains, il s'agissait d'une plante décorative autrefois. En tout cas, sa meilleure place est dans la casserole.",
+        "id": "Sayuran yang memiliki banyak lapisan. Dulunya banyak digunakan sebagai tumbuhan hias. Tidak dapat dipungkiri kalau sayur ini memang terlihat indah saat ditaruh di dalam pot.",
+        "jp": "何層にも重なった野菜。かつては鑑賞用植物だったそうだが、今では鍋に入れた姿も素晴らしいものになっている。",
+        "kr": "겹겹이 쌓여 있는 채소. 원래는 관상용 식물이었다고 한다. 솥 안에 있는 모양도 꽤 괜찮다",
+        "pt": "Um vegetal em camadas. Dizem ser originalmente uma planta ornamental. Sem dúvidas tem um ótimo aspecto dentro de uma panela.",
+        "ru": "Многослойный листовой овощ. Говорят, что изначально капуста была декоративным растением. Сейчас она в основном украшает только котелки с едой.",
+        "th": "ผักที่มีใบซ้อนทับกันเป็นชั้นๆ ว่ากันว่าเคยเป็นพืชที่มีความงดงาม ปัจจุบันเมื่อนำมาทำเป็นอาหารก็ดูดีไม่น้อย",
+        "vi": "Rau cuộn từng lớp. Nghe nói từng là cây cảnh, bây giờ hình dáng trong nồi cũng đẹp lắm."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

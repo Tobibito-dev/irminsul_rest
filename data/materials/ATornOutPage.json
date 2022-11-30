@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Torn Out Page",
+        "de": "Herausgerissene Seite",
+        "chs": "被撕下来的书页",
+        "cht": "被撕下來的書頁",
+        "es": "Página rota",
+        "fr": "Page déchirée",
+        "id": "Sobekan Halaman",
+        "jp": "破られたページ",
+        "kr": "찢겨나간 페이지",
+        "pt": "Uma Página Arrancada",
+        "ru": "Вырванная страница",
+        "th": "หน้ากระดาษที่ถูกฉีก",
+        "vi": "Trang sách bị xé"
+    },
+    "id": 100513,
+    "materialDesc": {
+        "en": "A page that seems to have been forcibly torn out of a book. It has been soaked in water, and the words on it have become illegible.",
+        "de": "Eine offensichtlich mit Gewalt aus einem Buch herausgerissene Seite. Sie ist so durchnässt, dass man die Schrift darauf nicht mehr lesen kann.",
+        "chs": "似乎是被强行撕下来的书页，已经被水浸透，上面的字迹完全看不清了。",
+        "cht": "似乎是被強行撕下來的書頁，已經被水浸透，上面的字跡完全看不清了。",
+        "es": "Una página que parece haber sido arrancada de un libro. Se ha empapado en agua y las palabras en ella se han vuelto ilegibles.",
+        "fr": "Une page qui semble avoir été arrachée d'un livre. Trempée, les mots imprimés dessus sont illisibles.",
+        "id": "Halaman yang dirobek paksa dari sebuah buku. Telah terendam dalam air sehingga tulisannya menjadi tidak jelas.",
+        "jp": "破られたページ、水に浸かったせいで、文字が読めない。",
+        "kr": "강제로 찢겨나간 듯한 페이지. 물에 흠뻑 젖어 쓰여 있는 글씨가 안 보인다",
+        "pt": "Uma página que parece ter sido arrancada de um livro. Ficou muito tempo submersa em água e as palavras acabaram ficando ilegíveis.",
+        "ru": "Страница, которая, кажется, была вырвана из книги. Она пропитана влагой, и слова на ней стали совсем неразборчивыми.",
+        "th": "ดูเหมือนว่าหน้ากระดาษนี้จะถูกฉีก ออกมาและโดนน้ำจนเปียก และลายมือบนกระดาษนั้นเลือนราง และมองเห็นไม่ชัดเจน",
+        "vi": "Trang sách bị xé toạc và ngâm lâu dưới nước, dòng chữ trên đó đã bị nhòe và không thể nhìn thấy."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

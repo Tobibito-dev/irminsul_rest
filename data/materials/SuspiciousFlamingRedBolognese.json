@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Flaming Red Bolognese",
+        "de": "Misslungene feurige Nudeln",
+        "chs": "奇怪的火火肉酱面",
+        "cht": "奇怪的火火肉醬麵",
+        "es": "Pasta a la boloñesa extraña",
+        "fr": "Pâtes à la bolognaise enflammées (suspectes)",
+        "id": "Suspicious Flaming Red Bolognese",
+        "jp": "微妙な完熟トマトのミートソース",
+        "kr": "이상한 불꽃 미트 스파게티",
+        "pt": "Macarrão Estranho à Bolonhesa Picante",
+        "ru": "Странная паста с томатным соусом",
+        "th": "Flaming Red Bolognese รสประหลาด",
+        "vi": "Mỳ Sốt Thịt Kỳ Lạ"
+    },
+    "id": 108015,
+    "materialDesc": {
+        "en": "Bolognese covered with a meat sauce. A bit chewy and annoyingly sticks to your teeth.",
+        "de": "Spaghetti mit richtig viel Soße. Die Stückchen darin sind etwas fest und bleiben am Gaumen kleben. Nicht sehr angenehm.",
+        "chs": "淋满肉酱的细面。口感有些稠厚，黏在牙齿上的感觉有点不妙。",
+        "cht": "淋滿肉醬的細麵。口感有些稠厚，黏在牙齒上的感覺有點不妙。",
+        "es": "Pasta con salsa boloñesa. Los espaguetis están un poco blandos y se meten entre los dientes.",
+        "fr": "Pâtes nappées d'une sauce à la viande. Cette dernière est caoutchouteuse et coince facilement entre les dents.",
+        "id": "Bolognese yang penuh dengan saus daging. Teksturnya kenyal, dan sering tersangkut di sela gigi, agak menyebalkan.",
+        "jp": "ミートソースたっぷりのスパゲッティ。濃厚な口当たりで、歯にくっつく感覚が少し不快。",
+        "kr": "다진 고기가 듬뿍 들어간 스파게티. 걸쭉하고 이에 달라붙는 식감이 좋지는 않다",
+        "pt": "Macarrão à Bolonhesa. Gruda muito nos dentes.",
+        "ru": "Спагетти, покрытое томатным соусом с фаршем. Тяжело жуётся и раздражающе липнет к зубам.",
+        "th": "โบโลเนสราดซอสเนื้อ ค่อนข้างเหนียวและติดฟันจนน่ารำคาญ",
+        "vi": "Sợi mì thấm đầy nước thịt. Hơi dính răng khó chịu."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

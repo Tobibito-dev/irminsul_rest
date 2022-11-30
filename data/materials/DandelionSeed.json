@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dandelion Seed",
+        "de": "Löwenzahnsamen",
+        "chs": "蒲公英籽",
+        "cht": "蒲公英籽",
+        "es": "Semillas de diente de león",
+        "fr": "Graines de pissenlit",
+        "id": "Dandelion Seed",
+        "jp": "蒲公英の種",
+        "kr": "민들레 씨앗",
+        "pt": "Sementes de Dandelion",
+        "ru": "Семена одуванчика",
+        "th": "Dandelion Seed",
+        "vi": "Hạt Bồ Công Anh"
+    },
+    "id": 100728,
+    "materialDesc": {
+        "en": "Dandelion Seeds that contain the wishes of the siblings Freki and Geri. May it go with the wind back to Mondstadt...",
+        "de": "Löwenzahnsamen mit den besten Wünschen der Geschwister Freki und Geri. Möge der Wind sie zurück nach Mondstadt bringen ...",
+        "chs": "寄托着弗莱琪姐弟心意的蒲公英籽。希望能随风飞回蒙德城…",
+        "cht": "寄託著弗萊琪姐弟心意的蒲公英籽。希望能隨風飛回蒙德城…",
+        "es": "Unas semillas de diente de león con los deseos de Freki y Geri. Que el viento las lleve hasta Mondstadt...",
+        "fr": "Graines de pissenlit qui renferment les souhaits de Freki et Geri. Que le vent les fasse voler jusqu'à Mondstadt...",
+        "id": "Dandelion Seed yang berisi harapan dari Freki dan Geri bersaudara. Semoga Dandelion Seed ini bisa terbawa angin hingga ke Mondstadt...",
+        "jp": "フレーキ姉弟の思いが込まれた蒲公英の種。風に乗ってモンド城へ戻ってほしい…",
+        "kr": "프레키와 게리 남매의 마음이 담긴 민들레 씨앗. 바람을 타고 몬드성으로 돌아갈 수 있길…",
+        "pt": "Sementes de Dandelion de Freki. Espera-se que elas voem com o vento de volta para Mondstadt...",
+        "ru": "Семена одуванчика, которые несут пожелания Фреки и Джерри. Пусть ветер унесёт их обратно в Мондштадт...",
+        "th": "เมล็ดดอก Dandelion ที่มีความปรารถนาของ Freki และน้องชาย ที่หวังว่าเมล็ดเหล่านี้จะพัดตามสายลมกลับไปยัง Mondstadt...",
+        "vi": "Hạt giống bồ công anh chứa đựng tấm lòng của chị em Freki. Hy vọng có thể nương theo gió bay về thành Mondstadt..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

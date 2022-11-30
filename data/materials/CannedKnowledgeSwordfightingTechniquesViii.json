@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Canned Knowledge \"Swordfighting Techniques VIII\"",
+        "de": "Wissenskonserve „Kampffähigkeit mit Einhändern – Teil VIII“",
+        "chs": "罐装知识「单手剑战斗技巧·八」",
+        "cht": "罐裝知識「單手劍戰鬥技巧·八」",
+        "es": "Cápsula de conocimiento: Técnicas de espada (VIII)",
+        "fr": "#Concentré de connaissances «{NON_BREAK_SPACE}Techniques d'escrime VIII »",
+        "id": "Kapsul Pengetahuan \"Teknik Bertarung Pedang Satu Tangan - Jilid VIII\"",
+        "jp": "缶詰知識「片手剣の戦闘技術·八」",
+        "kr": "항아리 지식 「한손검 전투 기술·8」",
+        "pt": "Conhecimento Enlatado - Técnicas de Esgrima — VIII",
+        "ru": "Капсула знаний «Техника фехтования на мечах VIII»",
+        "th": "ผลึกความรู้ \"ทักษะการต่อสู้ด้วยดาบ VIII\"",
+        "vi": "Hũ Tri Thức \"Kỹ Thuật Dùng Kiếm Đơn - 8\""
+    },
+    "id": 101931,
+    "materialDesc": {
+        "en": "Canned Knowledge labeled \"Swordfighting Techniques VIII.\" It was bought from Dori's booth at the price of 100,000 Mora at Paimon's instigation. You have no idea where the first seven in the series are, but things like \"Combat Techniques\" will always be useful. Well, probably.",
+        "de": "Eine Wissenskonserve mit der Bezeichnung „Kampffähigkeit mit Einhändern – Teil VIII“. Sie wurde auf Betreiben von Paimon an Doris Stand zum Preis von einhunderttausend Mora gekauft. Du hast keine Ahnung, wo die ersten sieben sind, aber Dinge wie „Kampftechniken“ werden immer nützlich sein. Wahrscheinlich.",
+        "chs": "名为「单手剑战斗技巧·八」的罐装知识，在派蒙的怂恿下以十万摩拉的价格从多莉摊位上购入。虽然不知道前七个在哪，但「战斗技巧」这种东西总会有用的…大概。",
+        "cht": "名為「單手劍戰鬥技巧·八」的罐裝知識，在派蒙的慫恿下以十萬摩拉的價格從多莉攤位上購入。雖然不知道前七個在哪，但「戰鬥技巧」這種東西總會有用的…大概。",
+        "es": "#Una cápsula de conocimiento con el nombre de “Técnicas de espada (VIII)”. Adquirida en el puesto de Dori durante la investigación de Paimon por el precio de 100{NON_BREAK_SPACE}000 Moras. No se sabe dónde están el resto de las cápsulas, pero siempre viene bien conocer técnicas de lucha. Bueno, al menos en teoría.",
+        "fr": "Un concentré de connaissances étiqueté « Techniques d'escrime VIII ». Il a été acheté au stand de Dori au prix de 100 000 moras sous les demandes répétées de Paimon. Vous n'avez aucune idée de l'endroit où se trouvent les sept premiers concentrés de cette série, mais apprendre des techniques de combat pourra toujours vous être utile... Enfin, probablement.",
+        "id": "Kapsul Pengetahuan yang bernama \"Teknik Bertarung Pedang Satu Tangan - Jilid VIII\". Dibeli dari stan Dori seharga 100.000 Mora atas dorongan Paimon. Kamu tidak tahu di mana tujuh seri pertama berada, tetapi hal-hal seperti \"Teknik Bertarung\" akan selalu berguna, kan. Yah, mungkin sih.",
+        "jp": "「片手剣の戦闘技術·八」という名の缶詰知識。パイモンにそそのかされて、ドリーから十万モラで購入した。前の七つがどこにあるかは分からないが、「戦闘技術」というからにはきっと役に立つだろう…多分。",
+        "kr": "「한손검 전투 기술·8」이라는 이름의 항아리 지식. 페이몬의 선동으로 도리의 노점에서 십만 모라를 주고 구매했다. 앞의 일곱 개는 어디 갔는지 모르겠지만 그래도 「전투 기술」이라면 유용하게 쓸 수 있지 않을까…",
+        "pt": "Conhecimentos Enlatados chamados de \"Técnicas de Esgrima — VIII\" que foram comprados na barraca de Dori por 100 mil Mora. Não se sabe onde estão os outros 7, mas as técnicas de combate são sempre úteis... ou não?",
+        "ru": "Капсула знаний под названием «Техника фехтования на мечах VIII», которую вы купили у Дори за 100 000 моры, соблазнившись уговорами Паймон. Неизвестно, где находятся предыдущие семь Капсул, но «техника фехтования» - штука полезная. Ну, наверное...",
+        "th": "ผลึกความรู้ \"ทักษะการต่อสู้ด้วยดาบ VIII\" ที่ซื้อจากแผงขายของของ Dori เพราะถูก Paimon คะยั้นคะยอ ถึงแม้จะไม่รู้ว่าเจ็ดอันก่อนหน้านี้อยู่ที่ไหน แต่ของอย่าง \"ทักษะการต่อสู้\" จะต้องมีประโยชน์แน่ ๆ... ละมั้ง",
+        "vi": "Hũ Tri Thức có tên là \"Kỹ Thuật Dùng Kiếm Đơn - 8\", được mua từ quầy Dori với giá 100.000 Mora với sự xúi giục của Paimon. Mặc dù không biết bảy cái trước ở đâu, nhưng \"kỹ năng chiến đấu\" là thứ luôn hữu dụng... có lẽ là vậy."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thoma",
+        "de": "Thoma",
+        "chs": "托马",
+        "cht": "托馬",
+        "es": "Thoma",
+        "fr": "Thomas",
+        "id": "Thoma",
+        "jp": "トーマ",
+        "kr": "토마",
+        "pt": "Thoma",
+        "ru": "Тома",
+        "th": "Thoma",
+        "vi": "Thoma"
+    },
+    "id": 1050,
+    "materialDesc": {
+        "en": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
+        "de": "Der Haushälter des Kamisato-Klans und ein in Inazuma bekannter „Vermittler“.",
+        "chs": "神里家的家政官，活跃在稻妻的「地头蛇」。",
+        "cht": "神里家的家政官，活躍在稻妻的「地頭蛇」。",
+        "es": "El amo de llaves del clan Kamisato y un intermediario muy activo en Inazuma.",
+        "fr": "L'employé de maison du Clan Kamisato. Un « négociateur » bien connu à Inazuma.",
+        "id": "Pengurus rumah tangga Klan Kamisato. Seorang \"kepala\" yang terkenal di Inazuma.",
+        "jp": "神里家の家司。稲妻で活躍する「顔役」でもある。",
+        "kr": "카미사토 가문의 가사 관리원, 이나즈마의 「유명인」이다",
+        "pt": "O Empregado do Clã Kamisato e animado Mediador de Inazuma.",
+        "ru": "Управляющий клана Камисато. Известный в Инадзуме «местный авторитет».",
+        "th": "พ่อบ้านผู้จัดการงานต่าง ๆ ภายในคฤหาสน์ของตระกูล Kamisato \"ผู้มีอิทธิพล\" ซึ่งเคลื่อนไหวใน Inazuma",
+        "vi": "Quản gia của nhà Kamisato, \"thổ địa\" của Inazuma."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Sakura Bloom",
+        "de": "Frische Sakura-Blüte",
+        "chs": "新鲜的绯樱绣球",
+        "cht": "新鮮的緋櫻繡球",
+        "es": "Pétalos de cerezo frescos",
+        "fr": "Fleur de cerisier fraîche",
+        "id": "Sakura Bloom Segar",
+        "jp": "新鮮な緋櫻毬",
+        "kr": "신선한 벚꽃 수구",
+        "pt": "Pétalas da Flor de Sakura Fresca",
+        "ru": "Свежий цвет сакуры",
+        "th": "Sakura Bloom สด ๆ",
+        "vi": "Tú Cầu Anh Đào Tươi"
+    },
+    "id": 101520,
+    "materialDesc": {
+        "en": "A fresh sakura bloom. One can't be sure how Julie is going to use it in her dish...",
+        "de": "Eine frische Sakura-Blüte. Man kann sich nicht sicher sein, wie Julie sie in ihrem Gericht verwenden wird ...",
+        "chs": "新鲜的绯樱绣球。不知道朱莉会怎么用它来做菜…",
+        "cht": "新鮮的緋櫻繡球。不知道朱莉會怎麼用它來做菜…",
+        "es": "Unos pétalos de cerezo muy frescos. ¿Qué hará Julie con ellos?",
+        "fr": "Une fleur de cerisier fraîche. Qui sait comment Julie va l'utiliser dans son plat...",
+        "id": "Sakura Bloom yang segar. Entah bagaimana Julie akan menggunakannya dalam masakan...",
+        "jp": "新鮮な緋櫻毬。ジュリーはどうやってこれを料理に使うのか…",
+        "kr": "신선한 벚꽃 수구. 줄리는 이 벚꽃 수구로 어떤 요리를 할까…",
+        "pt": "Pétalas da Flor de Sakura fresca. Não se sabe como Julie vai usá-la em seu prato...",
+        "ru": "Свежий цвет сакуры. Интересно, как использует его в готовке Джули...",
+        "th": "Sakura Bloom สด ๆ ไม่รู้ว่า Julie จะเอามันไปใช้ทำอาหารยังไงบ้าง...",
+        "vi": "Tú Cầu Anh Đào tươi, không biết Julie sẽ dùng để làm món gì..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

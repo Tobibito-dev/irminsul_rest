@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Klee's Wooden Sign",
+        "de": "Klees Holztafel",
+        "chs": "可莉的木牌",
+        "cht": "可莉的木牌",
+        "es": "Letrero de madera de Klee",
+        "fr": "Panneau de Klee",
+        "id": "Papan Kayu Klee",
+        "jp": "クレーの木札",
+        "kr": "클레의 목패",
+        "pt": "Placa de Madeira de Klee",
+        "ru": "Деревянный знак Кли",
+        "th": "แผ่นไม้ของ Klee",
+        "vi": "Biển gỗ của Klee"
+    },
+    "id": 100431,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

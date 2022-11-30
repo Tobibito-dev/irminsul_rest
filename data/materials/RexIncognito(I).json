@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rex Incognito (I)",
+        "de": "Rex Incognitus I",
+        "chs": "帝君尘游记·一",
+        "cht": "帝君塵遊記·一",
+        "es": "Rex Incognito (I)",
+        "fr": "L'Archon invisible - I",
+        "id": "Penyamaran Rex (I)",
+        "jp": "帝君遊塵記·一",
+        "kr": "제군의 속세 여행기·Ⅰ",
+        "pt": "Rex Incognito (I)",
+        "ru": "Властелин Инкогнито. Том I",
+        "th": "บันทึกการเดินทางราชาแห่งหิน I",
+        "vi": "Đế Quân Vi Hành I"
+    },
+    "id": 100586,
+    "materialDesc": {
+        "en": "A Liyue fantasy novel that tells the tales of Rex Lapis' incognito excursions in the mortal realm. Set in an age when the treasures of the world flocked forth, fact merges with fiction and both blend with old dreams in this charming tale set in the commercial port of Liyue.",
+        "de": "Ein Fantasieroman über Liyue. Erzählt wird von Rex Lapis, der sich in menschlicher Gestalt auf die Erde begibt. In der Ära des größten Reichtums spielt sich diese fiktive Erzählung mit wahren Elementen im Handelshafen ab.",
+        "chs": "璃月的幻想小说，讲述了岩王帝君化为凡形行走人间的旧事。天下珍宝尽来的时代里，或真或假的故事与旧梦在商港汇聚。",
+        "cht": "璃月的幻想小說，講述了岩王帝君化為凡形行走人間的舊事。天下珍寶盡來的時代裡，或真或假的故事與舊夢在商港彙聚。",
+        "es": "Una novela fantástica de Liyue en la que se relatan las visitas de Rex Lapis al reino de los mortales en una de sus formas reencarnadas. Ambientado en una época en la que el mundo estaba repleto de tesoros, las historias reales y ficticias se mezclan con los sueños antiguos en este cautivador relato que tiene lugar en el puerto comercial de Liyue.",
+        "fr": "Un roman fantastique populaire à Liyue qui raconte les voyages incognito du Souverain de la Roche dans le monde les mortels. Se déroulant à une époque où les trésors du monde entier convergeaient au Port de Liyue, cette histoire mélange fiction et réalité.",
+        "id": "Novel fantasi Liyue yang menceritakan kisah tentang Rex Lapis yang turun ke dunia fana dan menjadi manusia. Berlatar belakang di saat harta karun dunia berhamburan tidak ada habisnya, kisah yang tidak diketahui kebenarannya ini bertemu dengan mimpi tua di pelabuhan komersial Liyue.",
+        "jp": "璃月のファンタジー小説。岩王帝君が凡人の姿になり、人間の世界を旅したことを描写する小説。本当であれ嘘であれ、物語は世界の宝物と過去の夢と共に商業の港に集まる。",
+        "kr": "리월의 판타지 소설, 암왕제군이 평범한 사람으로 변해 속세를 활보하던 옛이야기이다. 보물이 모이던 시대엔 진실된 혹은 거짓된 이야기와 오래된 꿈들이 무역항에 모였었다",
+        "pt": "Um romance de fantasia de Liyue que conta as excursões incógnitas no reino mortal do Rex Lapis em forma humana. Numa época material, as histórias verdadeiras e falsas se misturam no Porto, junto com os sonhos antigos.",
+        "ru": "Фантастический роман Ли Юэ, повествующий о хождениях Властелина Камня в человеческом обличье среди смертных. В полный сокровищ век в торговом порту сошлись правда, вымысел и старые мечты.",
+        "th": "นิยายแฟนตาซีของ Liyue ที่บอกเล่าเรื่องราวในอดีตของราชาแห่งหินที่ได้แปลงกายเป็นคนธรรมดาลงมาในโลกมนุษย์ ในยุคที่สามารถแยกแยะได้ว่าสิ่งไหนจริงหรือไม่จริงนั้น เรื่องราวจริงหรือเท็จและฝันในอดีตต่างถูกรวบรวมไว้ที่ท่าเรือการค้าแห่งนี้",
+        "vi": "Tiểu thuyết viễn tưởng Liyue, kể lại câu chuyện Nham Vương Đế Quân hóa thành thường dân du hành khắp thế gian. Trong thời đại ngày nay, những câu chuyện thật thật giả giả vẫn luôn hội tụ về vùng đất thương nhân, cũng là đất cảng đầy mộng mơ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Potato Boat",
+        "de": "Misslungenes Kartoffelboot",
+        "chs": "奇怪的土豆船",
+        "cht": "奇怪的馬鈴薯船",
+        "es": "Barco de papa extraño",
+        "fr": "Bateau-patate (suspect)",
+        "id": "Suspicious Potato Boat",
+        "jp": "微妙なポテトボート",
+        "kr": "이상한 감자 보트",
+        "pt": "Navio de Batata Estranho",
+        "ru": "Странная картофельная лодочка",
+        "th": "Potato Boat รสประหลาด",
+        "vi": "Thuyền Khoai Tây Kỳ Lạ"
+    },
+    "id": 108430,
+    "materialDesc": {
+        "en": "A baked appetizer. The undercooked potato even has dirt on it... A failed attempt at cooking, it seems, and even the cheese that usually goes well with any other ingredients will not be able to save the day.",
+        "de": "Eine gebackene Vorspeise. Die Kartoffeln sind nur halbgar und an ihrer Oberfläche ist noch Erde zu erkennen ... Sieht aus, als könnte dieses Gericht nicht einmal durch Überbacken mit dem allmächtigen Käse zu neuem Leben erweckt werden.",
+        "chs": "烤制而成的小吃。土豆半生不熟，甚至还能在表面看到泥土的痕迹…看来就算是搭配万能的奶酪，也无法令这道料理起死回生了。",
+        "cht": "烤製而成的小吃。馬鈴薯半生不熟，甚至還能在表面看到泥土的痕跡…看來就算是搭配萬能的乳酪，也無法令這道料理起死回生了。",
+        "es": "Un aperitivo al horno. La papa está medio cocida, e incluso se ven restos de tierra en la superficie. Ni siquiera el sabor del queso todopoderoso pudo devolverle la vida a este plato.",
+        "fr": "Une collation préparée au four. Les pommes de terre sont à moitié cuites, et il est même possible de voir des traces de saleté à leur surface. Même le puissant goût de fromage n'est pas en mesure de redonner vie à ce plat.",
+        "id": "Makanan ringan yang dipanggang. Kentangnya masih setengah matang, bahkan permukaannya pun belum tampak terlalu bersih ... Sepertinya kalaupun \"diobati\" dengan keju yang sangat lezat pun, hidangan ini tidak bisa diselamatkan lagi.",
+        "jp": "焼き上げたお菓子。ジャガイモは半熟で、表面に土の跡が見えるほど…万能なチーズと組み合わせても、この料理の評判を救うことはできなさそうだ。",
+        "kr": "구워서 만든 간식. 감자는 익지 않은 데다 겉에는 흙이 묻어있다…. 마법의 치즈를 곁들여도 이 요리를 되살릴 순 없을 듯하다",
+        "pt": "Um aperitivo assado. As batatas estão meio cozidas e há até vestígios de terra na superfície. Nem mesmo o poderoso sabor do queijo conseguiu trazer esse prato de volta à vida.",
+        "ru": "Закуска, приготовленная на огне. Картофель не пропёкся, а ещё его забыли как следует промыть... Такое блюдо не спасёт даже самый прекрасный сыр...",
+        "th": "ขนมอบสำหรับทานเล่น มันฝรั่งที่กึ่งสุกกึ่งดิบ ทั้งยังมีรอยเปื้อนของเศษดินติดอยู่ด้วย... ดูเหมือนว่ากระทั่ง Cheese ที่เข้ากันได้กับทุกสิ่ง ก็ยังไม่อาจชุบชีวิตของเจ้าสิ่งนี้ขึ้นมาได้เลย",
+        "vi": "Món nướng ăn vặt. Khoai tây nửa sống nửa chín, thậm chí còn dính bụi bẩn... Xem ra dù có kết hợp với phô mai vạn năng cũng không thể khiến món ăn này hồi sinh được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fish-Flavored Toast",
+        "de": "Fischhäppchen auf Brot",
+        "chs": "鱼香吐司",
+        "cht": "魚香吐司",
+        "es": "Tostada de mariscos",
+        "fr": "Toast au poisson",
+        "id": "Fish-Flavored Toast",
+        "jp": "魚香トースト",
+        "kr": "어향 토스트",
+        "pt": "Torrada de Peixe",
+        "ru": "Рыбный бутерброд",
+        "th": "Fish-Flavored Toast",
+        "vi": "Bánh Cá Thơm Ngon"
+    },
+    "id": 108115,
+    "materialDesc": {
+        "en": "Klee's specialty. By way of apology for wantonly using her bombs to scare away the fish, Jean instructed Klee to make this toast for the fishermen. It's filling and tasty. Klee will never starve again, even after a whole day of blast fishing.",
+        "de": "Klees Spezialzubereitung. Damit sich Klee bei den Fischern dafür entschuldigen kann, wenn sie die Fische mit ihren lauten Explosionen vertreibt, hat Jean ihr beigebracht, wie sie dieses einfache Gericht zubereiten kann. Es ist ganz lecker und macht satt. Jetzt kann Klee den lieben langen Tag Fische in die Luft jagen und muss dabei nicht hungern.",
+        "chs": "可莉的特色料理。因为乱丢炸弹惊走了鱼，在琴的指导下，可莉认真地学做了这道吐司作为给渔人的赔礼。味道很好还管饱，从此以后，可莉炸一整天鱼也不会饿肚子了。",
+        "cht": "可莉的特色料理。因為亂丟炸彈嚇跑了魚，在琴的指導下，可莉認真地學做了這道吐司作為給漁人的賠禮。味道很好還吃得飽，從此以後，可莉炸一整天魚也不會餓肚子了。",
+        "es": "La especialidad de Klee. A modo de disculpa por usar sus bombas para ahuyentar a los peces, Jean enseñó a Klee a hacer esta tostada para los pescadores. Sacia y está deliciosa. Desde entonces, Klee nunca ha vuelto a pasar hambre, ni siquiera después de un día entero de pesca con bombas.",
+        "fr": "Spécialité culinaire de Klee. Depuis l'explosion de la rivière, Klee a préparé ce toast pour s'excuser auprès des pêcheurs sous les ordres de Jean. Grâce à ce délicieux plat nourrissant, la jeune fille n'a plus de petit creux même après avoir passé la journée à s'adonner à son passe-temps favori.",
+        "id": "Spesialisasi Klee. Sebagai permintaan maaf karena menggunakan bomnya untuk menakuti ikan, Jean memerintahkan Klee untuk membuat roti panggang ini untuk para nelayan. Sangat enak dan bisa membuat kenyang. Kini Klee tidak akan pernah kelaparan lagi bahkan setelah seharian memancing sekalipun.",
+        "jp": "クレーのオリジナル料理。爆弾を勝手に投げて魚を驚かせたクレーは、ジンの指導の下、このトーストを作って漁師たちに詫びを入れた。味がよく、満腹感を長く保つこの料理のおかげで、爆弾で魚が逃げても、クレーは怒られなくなった。",
+        "kr": "클레의 특제 요리. 폭탄을 마구 던져 물고기를 도망가게 한 클레는, 진의 지도 아래 이 토스트를 만들어 어부들에게 사과 했다. 맛이 좋고 포만감을 오래 유지할 수 있는 이 요리 덕에, 폭탄으로 물고기를 도망가게 해도, 클레는 굶을 걱정을 하지 않아도 된다",
+        "pt": "A especialidade da Klee. Como forma há pedir desculpas por usar suas bombas de maneira irresponsável para espantar os peixes, Jean instruiu Klee fazer torradas para os pescadores. Seu recheio é delicioso. Klee nunca mais irá passar fome, mesmo após um dia inteiro explodindo peixes.",
+        "ru": "Особое блюдо Кли. В наказание за необдуманное использование взрывчатки с целью распугать рыбу, Джинн заставила Кли приготовить эти бутерброды для пострадавших рыбаков. Они оказались чрезвычайно вкусными. Теперь Джинн может быть уверена в том, что Кли никогда не умрёт с голоду. Даже после насыщенного взрывами дня.",
+        "th": "เมนูพิเศษของ Klee เพราะได้ทิ้งระเบิดมั่วซั่วซะจนทำให้ ปลาตาย ภายใต้การชี้แนะของ Jean นั้น Klee ตั้งใจฝึกทำโทสต์จานนี้เพื่อให้เป็นของขวัญชดเชยแก่ชาวประมง รสชาติทั้งดีและอิ่มท้อง จากนี้ไป Klee สามารถระเบิดปลาได้ทั้งวันโดยที่ ไม่หิวเลยล่ะ",
+        "vi": "Món ăn đặc biệt của Klee. Là món bánh do Jean hướng dẫn Klee nấu để bồi thường cho ngư dân sau khi dùng bom đánh đuổi đàn cá. Hương vị rất ngon lại no bụng, từ nay về sau Klee có thể đánh bom cả ngày mà không lo sợ đói."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Chongyun: Spirit Blade",
+        "de": "Chongyun – Seelenklinge",
+        "chs": "重云·灵刃",
+        "cht": "重雲·靈刃",
+        "es": "Chongyun - Filo espiritual",
+        "fr": "Chongyun - Lame de l'esprit",
+        "id": "Chongyun: Spirit Blade",
+        "jp": "重雲·霊刃",
+        "kr": "중운·영도",
+        "pt": "Chongyun - Lâmina Espiritual",
+        "ru": "Духовные лезвия",
+        "th": "Chongyun - Spirit Blade",
+        "vi": "Chongyun - Linh nhẫn"
+    },
+    "id": 210040,
+    "materialDesc": {
+        "en": "Namecard style.\\nThis was originally a peachwood sword made of ice. But a big enough ice block makes a better exorcist's tool than peachwood.",
+        "de": "Ein Motiv für Namenskärtchen.\\nDieses Schwert aus Eis sollte eigentlich einem Holzschwert nachempfunden sein. In dieser Größe eignet es sich aber viel besser zum Vertreiben von Geistern als ein Holzschwert.",
+        "chs": "名片纹饰。\\n 本意只是用冰来制作桃木剑。不过做大了之后比起桃木更好驱魔了。",
+        "cht": "名片紋飾。\\n 本意只是用冰來製作桃木劍。不過做大了之後比起桃木更好驅魔了。",
+        "es": "Diseño de tarjeta de presentación.\\nOriginalmente era una espada de entrenamiento para exorcismos hecha de hielo, pero un bloque de hielo lo suficientemente grande es mejor herramienta de exorcismo que la propia espada.",
+        "fr": "Thème.\\nIl s'agissait juste au départ de créer une épée en pêcher. Mais une fois terminée, l'arme obtenue s'est avérée beaucoup plus efficace que le bois de pêcher pour procéder aux exorcismes, il faut le reconnaître.",
+        "id": "Style kartu nama.\\nAwalnya ini adalah pedang kayu persik yang terbuat dari es. Tapi ternyata lebih efektif mengusir roh jahat dengan balok es yang cukup besar daripada pedang kayu.",
+        "jp": "名刺の飾り紋。\\n氷で桃木剣を作りたかったが、結果思っていたより大きく作ったため、祓魔の面では桃木剣より使いやすい。",
+        "kr": "명함 스킨.\\n얼음으로 도목검을 만들자는 취지지만 크게 만들면 복숭아나무보다 귀신을 더 잘 쫓는다",
+        "pt": "Estilo de Cartão de Visita.\\nO significado original é espada de madeira de pessegueiro feita por gelo. Mas, uma vez concluída, a arma obtida provou ser muito mais eficaz que o pessegueiro para a realização de exorcismos, deve-se admitir.",
+        "ru": "Именная карта.\\nСначала Чун Юнь хотел сделать себе ритуальный меч из персикового дерева, но обычной глыбой льда изгонять демонов оказалось куда проще.",
+        "th": "ลายนามบัตร\\nความตั้งใจเดิมนั้นเป็นเพียงการนำน้ำแข็งมาสร้างดาบไม้พีช แต่พอทำออกมาใหญ่ก็พบว่าใช้กำราบอสูรได้ดีกว่าดาบไม้พีชตั้งเยอะเลย",
+        "vi": "Hoa văn danh thiếp.\\nÝ định ban đầu là dùng băng để làm kiếm gỗ đào. Nhưng sau này lại thấy nó trừ ma tốt hơn gỗ đào."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Skyrider Greatsword Chest",
+        "de": "Himmelsflug-Großschwert-Truhe",
+        "chs": "飞天大御剑宝箱",
+        "cht": "飛天大御劍寶箱",
+        "es": "Cofre de Gran Espada Surcacielos",
+        "fr": "Coffre de la Grande épée céleste",
+        "id": "Skyrider Greatsword Chest",
+        "jp": "飛天大御剣の箱",
+        "kr": "비천대어검 보물 상자",
+        "pt": "Baú do Espadão do Cavaleiro do Céu",
+        "ru": "Сундук с Большим мечом небесного всадника",
+        "th": "หีบสมบัติ Skyrider Greatsword",
+        "vi": "Rương Đại Kiếm Phi Thiên"
+    },
+    "id": 107005,
+    "materialDesc": {
+        "en": "This chest opens automatically, granting a Skyrider Greatsword.",
+        "de": "Öffnet sich beim Erscheinen automatisch. Enthält ein Himmelsflug-Großschwert.",
+        "chs": "进包自动开启，获得一把飞天大御剑",
+        "cht": "進包自動開啟，獲得一把飛天大御劍",
+        "es": "Este cofre se abre automáticamente, otorgando una Gran Espada Surcacielos",
+        "fr": "Ce coffre qui s'ouvre automatiquement contient une Grande épée céleste.",
+        "id": "Kotak ini terbuka secara otomatis, memberikan Skyrider Greatsword",
+        "jp": "飛天大御剣を獲得する。",
+        "kr": "배낭에 들어가면 자동으로 오픈되며, 비천대어검 한 자루를 획득하게 된다",
+        "pt": "Este baú se abre automaticamente, concedendo o Espadão do Cavaleiro do Céu",
+        "ru": "Этот сундук открывается автоматически и даёт двуручный меч Небесного всадника.",
+        "th": "ได้รับ Skyrider Greatsword หนึ่งเล่มซึ่งเมื่อเก็บเข้าช่องเก็บของแล้วจะเปิดใช้โดยอัตโนมัติ",
+        "vi": "Sẽ tự động mở khi cho vào túi, nhận được 1 thanh Đại Kiếm Phi Thiên"
+    },
+    "materialType": "MATERIAL_CHEST"
+}

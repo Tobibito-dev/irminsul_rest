@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "In Remembrance of Viridescent Fields",
+        "de": "Feldjägerblume",
+        "chs": "野花记忆的绿野",
+        "cht": "野花記憶的綠野",
+        "es": "Recuerdo de Flores Silvestres",
+        "fr": "Souvenir de fleur des champs",
+        "id": "In Remembrance of Viridescent Fields",
+        "jp": "野花の記憶の草原",
+        "kr": "야생화 기억 속의 푸른 들판",
+        "pt": "Lembrança de Flores Silvestres",
+        "ru": "Воспоминания об изумрудных лугах",
+        "th": "In Rememberance of Viridescent Field",
+        "vi": "Hoa Ký Ức Đồng Xanh"
+    },
+    "id": 24694,
+    "setId": 15002,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Flour",
+        "de": "Mehl",
+        "chs": "面粉",
+        "cht": "麵粉",
+        "es": "Harina",
+        "fr": "Farine",
+        "id": "Flour",
+        "jp": "小麦粉",
+        "kr": "밀가루",
+        "pt": "Farinha",
+        "ru": "Мука",
+        "th": "Flour",
+        "vi": "Bột Mì"
+    },
+    "id": 110001,
+    "materialDesc": {
+        "en": "A powder ground from wheat. No matter what it goes into, it brings a sense of satisfaction to the diner.",
+        "de": "Aus Weizen gemahlenes Pulver. Füllt jeden Magen, egal wozu es verwendet wird.",
+        "chs": "由小麦磨成的粉末。无论做成怎样的主食，都能给食客的胃带来片刻充实。",
+        "cht": "由小麥磨成的粉末。無論做成怎樣的主食，都能給食客的胃帶來片刻充實。",
+        "es": "Polvo resultante al moler trigo. Se haga lo que se haga con él, siempre causa una sensación de satisfacción al comensal.",
+        "fr": "Poudre moulue à partir de blé. Peu importe le type de plat qui l'utilise, elle permet de remplir le ventre efficacement.",
+        "id": "Bubuk yang terbuat dari gandum. Akan selalu memberikan kenikmatan bagi yang memakannya, tidak peduli dalam hidangan apa pun.",
+        "jp": "小麦をすりつぶした粉末。どのような主食を作っても、食べる人の胃に一時的な満足感を与えられる。",
+        "kr": "밀을 갈아 만들었다. 어떤 요리로 만들어도 잠깐의 충만함을 선사한다",
+        "pt": "Pó moído de trigo. Não importa que tipo de comida você faça, sempre trará uma grande satisfação no jantar.",
+        "ru": "Перемолотые в порошок пшеничные зёрна. Блюда из муки всегда очень сытные.",
+        "th": "ผงแป้งที่เกิดจากการโม่ธัญพืช ไม่ว่ามันจะถูกนำไปทำเป็นอะไร ก็รู้ได้เลยว่าคนที่ทานมันจะได้อิ่มท้องแน่นอน",
+        "vi": "Bột làm từ tiểu mạch. Làm thành món gì cũng giúp thực khách no bụng được một lúc."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

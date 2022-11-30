@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Flaming Flower Stamen",
+        "de": "Flammenblumenstaubblatt",
+        "chs": "烈焰花花蕊",
+        "cht": "烈焰花花蕊",
+        "es": "Pistilo de flor llameante",
+        "fr": "Pistil de fleur enflammée",
+        "id": "Flaming Flower Stamen",
+        "jp": "烈焔花の花蕊",
+        "kr": "화염꽃 꽃술",
+        "pt": "Flor Flamejante (Estame)",
+        "ru": "Пылающий цветок (тычинка)",
+        "th": "Flaming Flower Stamen",
+        "vi": "Nhụy Hoa Liệt Hỏa"
+    },
+    "id": 100053,
+    "materialDesc": {
+        "en": "The stamen of a fiercely burning flower. Even after being extinguished, it still emits heat.",
+        "de": "Äußerst scharf auf der Zunge. Dieses Staubblatt gibt sogar noch Wärme ab, nachdem es in Wasser gebadet wurde.",
+        "chs": "火辣辣的花芯。熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。",
+        "cht": "火辣辣的花芯。熊熊燃燒的炙熱花朵，即使被水澆熄了也隱隱地放出熱量。",
+        "es": "El pistilo de una flor en llamas. Aunque se apagara, continuaría emitiendo calor.",
+        "fr": "Un pistil de fleur enflammée. Il émet de la chaleur même éteint.",
+        "id": "Bunga yang terbakar dengan hebat. Tetap memancarkan hawa panas bahkan setelah lama dipetik.",
+        "jp": "アツアツの花蕊。勢いよく燃える花びらは、水をかけて消しても、かすかに熱を放ち続ける。",
+        "kr": "활활 타오르듯 뜨거운 꽃. 불타오르는 꽃잎은 물에 의해 꺼져도 은은한 열기를 뿜어낸다",
+        "pt": "O estame de uma flor ferozmente ardente. Mesmo depois de ser extinguida, ela ainda emite calor.",
+        "ru": "Пылающий ярким огнём цветок. Даже будучи потушенным, он всё равно продолжает испускать тепло.",
+        "th": "ดอกไม้เพลิงที่ปลดปล่อยการเผาไหม้ ถึงแม้จะถูกน้ำดับลงก็ยังสามารถปลดปล่อยความร้อนได้อยู่",
+        "vi": "Đóa hoa như ngọn lửa rực rỡ, cho dù bị nước dập tắt cũng vẫn tỏa ra nhiệt lượng cao."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

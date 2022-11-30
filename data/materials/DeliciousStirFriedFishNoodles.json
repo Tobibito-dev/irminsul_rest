@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Stir-Fried Fish Noodles",
+        "de": "Leckere Gebratene Bandnudeln mit Fisch",
+        "chs": "美味的干炒鱼河",
+        "cht": "美味的乾炒魚河",
+        "es": "Tallarines fritos con pescado deliciosos",
+        "fr": "Nouilles sautées au poisson (délicieuses)",
+        "id": "Delicious Stir-Fried Fish Noodles",
+        "jp": "美味しそうな魚肉の焼き麺",
+        "kr": "맛있는 생선 볶음면",
+        "pt": "Macarrão com Peixe Frito Delicioso",
+        "ru": "Вкусная жареная рыба с лапшой",
+        "th": "Stir-Fried Fish Noodles แสนอร่อย",
+        "vi": "Phở Xào Cá Ngon"
+    },
+    "id": 108187,
+    "materialDesc": {
+        "en": "A main dish with an intense flavor. The sumptuous, fresh look is already enough to leave people salivating, and one bite will surely lead to another. The smooth rice noodles and tender fish grant this meal a seat at any gourmet's table, its pedestrian ingredients notwithstanding.",
+        "de": "Ein reichhaltiges und schmackhaftes Hauptgericht. Das raffinierte, frische Aussehen des Gerichts lässt einem schon das Wasser im Munde zusammenlaufen und niemand kann nach nur einem Bissen aufhören. Die Nudeln sind weich und geschmeidig und passen hervorragend zur Weiche des Fisches. Zwar sind die Zutaten nicht sehr teuer, aber nur ein Meisterkoch kann dieses Gericht so perfekt zubereiten.",
+        "chs": "滋味浓郁的主食。饱满而鲜亮的外形早已引人垂涎欲滴，入口后的香味更是让人欲罢不能。河粉的柔滑更衬鱼肉的鲜弹，虽无名贵食材或特殊烹饪技法，它的美味放在宴席之中也不会逊色。",
+        "cht": "滋味濃郁的主食。飽滿而鮮亮的外形早已引人垂涎欲滴，入口後的香味更是讓人欲罷不能。河粉的柔滑更襯魚肉的鮮彈，雖無名貴食材或特殊烹飪技法，它的美味放在宴席之中也絲毫不遜色。",
+        "es": "Un plato principal con un sabor intenso. Su magnífica presentación es suficiente para que se te haga la boca agua y, una vez que empieces a comer, no podrás parar. Aunque son ingredientes sencillos, los fragantes tallarines de arroz y el tierno pescado otorgan a este plato un lugar en la mesa de cualquier gourmet que se precie.",
+        "fr": "Un plat de résistance aux saveurs intenses. Son apparence suffit à mettre l'eau à la bouche, et une bouchée ne sera jamais assez. Les nouilles de riz sont onctueuses et le poisson tendre. Malgré sa simplicité, cette assiette a toute sa place à la table des plus fins gourmets.",
+        "id": "Hidangan utama dengan rasa yang kuat. Tampilannya yang mewah dan segar sudah cukup untuk membuat orang tergoda, satu gigitan saja sudah pasti akan membuatmu menginginkan lebih. Terlepas dari bahan-bahannya yang biasa saja, namun mi yang lembut dan ikan yang empuk membuat makanan ini cocok dihidangkan di mana saja.",
+        "jp": "風味の強い主食。見た目は食欲をそそり、口にした後の香はたまらない。麺の滑らかさが魚の新鮮さを引き立てている。高価な食材や特別な調理法はないが、宴会などで出されても劣らない一品。",
+        "kr": "깊은 맛의 주식. 푸짐하고 맛깔나 보이는 비주얼은 군침 돌게 만들고, 먹었을 때 풍미는 무장해제 시켜버린다. 쌀국수의 부드러움은 생선 살의 탱탱함과 어우러져 비싼 식자재나 특이한 조리법은 없지만, 그 맛만큼은 잔칫상에 올려도 손색없다",
+        "pt": "Um prato principal com um sabor intenso. O aspecto suntuoso e fresco já é suficiente para deixar as pessoas salivando, e uma mordida certamente precisará ser dada após a outra. O macarrão de arroz suave e o peixe macio garantem a esta refeição um assento em qualquer mesa gourmet, apesar de não ser menos gostoso em situações de banquete.",
+        "ru": "Блюдо с насыщенным вкусом. От роскошного и яркого вида уже текут слюнки, а попробовав его, вы не сможете остановиться. Невзирая на заурядность ингредиентов и способа приготовления, мягкая рисовая лапша и нежная рыба не уступят ни одному блюду любого пиршества.",
+        "th": "อาหารจานหลักที่อุดมไปด้วยสารอาหาร ลักษณะภายนอกที่อวบอิ่มและสดใส ทำให้ผู้คนน้ำลายไหล ความหอมหลังจากที่เข้าไปในปากทำให้คนประทับใจจนไม่อยากลืม ความนุ่มลื่นของเส้นและความสดของเนื้อปลา แม้ว่าจะไม่มีชื่อเสียงหรือเทคนิคการปรุงอาหารพิเศษอะไร แต่ความอร่อยของมันไม่ได้ด้อยกว่าในอาหารในงานเลี้ยงเลยล่ะ",
+        "vi": "Món chính có vị đậm đà. Hương thơm không thể chối từ, sợi phở mềm mịn quyện với thịt cá tươi rói, tuy không có nguyên liệu quý hay kỹ thuật nấu nướng đặc biệt nhưng độ ngon của nó sẽ không thua kém các món ăn đãi tiệc."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

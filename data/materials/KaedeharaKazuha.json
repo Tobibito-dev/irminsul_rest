@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Kaedehara Kazuha",
+        "de": "Kaedehara Kazuha",
+        "chs": "枫原万叶",
+        "cht": "楓原萬葉",
+        "es": "Kaedehara Kazuha",
+        "fr": "Kaedehara Kazuha",
+        "id": "Kaedehara Kazuha",
+        "jp": "楓原万葉",
+        "kr": "카에데하라 카즈하",
+        "pt": "Kaedehara Kazuha",
+        "ru": "Каэдэхара Кадзуха",
+        "th": "Kaedehara Kazuha",
+        "vi": "Kaedehara Kazuha"
+    },
+    "id": 1047,
+    "materialDesc": {
+        "en": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+        "de": "Ein wandernder Samurai aus Inazuma, der momentan mit der Crux von Liyue unterwegs ist. Eine sanfte und sorglose Seele, deren Herz schwer wiegt, von vielen großen Bürden aus der Vergangenheit.",
+        "chs": "来自稻妻的浪人武士，如今栖身于璃月船队「南十字」中。性情温和而洒脱，心中埋藏着许多往事。",
+        "cht": "來自稻妻的浪人武士，如今棲身於璃月船隊「南十字」中。性情溫和而灑脫，心中埋藏著許多往事。",
+        "es": "Un samurái errante de Inazuma que actualmente se hospeda en la Flota Crux Meridianam de Liyue. El corazón de este amable y libre joven encierra sus muchas cargas del pasado.",
+        "fr": "Un samouraï errant d'Inazuma qui fait actuellement partie de la Flotte du Crux. Une âme douce et insouciante dont le cœur cache de nombreuses blessures.",
+        "id": "Seorang samurai pengembara dari Inazuma yang saat ini bergabung bersama dengan armada Crux Fleet Liyue. Di dalam jiwanya yang lembut dan riang, terdapat hati yang menyembunyikan banyak beban.",
+        "jp": "稲妻より訪れし浪人。今は璃月の「南十字」武装船隊と行動を共にしている。穏やかで浮世離れした性格だが、過去に経験した様々な出来事を心の内に秘めている。",
+        "kr": "이나즈마에서 온 떠돌이 무사. 현재 리월의 「남십자」 함대에 머물고 있다. 온화하고 소탈한 성격으로 마음속에 수많은 과거를 숨기고 있다",
+        "pt": "Um samurai errante de Inazuma que atualmente está com a Frota Crux de Liyue. Uma alma gentil e livre cujo coração esconde muitas feridas.",
+        "ru": "Ронин-самурай из Инадзумы, который нашёл приют на флоте Южного креста в Ли Юэ. Этот добрый и беззаботный молодой человек многое пережил в прошлом.",
+        "th": "ซามูไรพเนจรจาก Inazuma ตอนนี้อาศัยอยู่กับกองเรือ \"Crux\" ของ Liyue มีนิสัยอ่อนโยนและรักอิสระ เก็บงำเหตุการณ์ในอดีตมากมายไว้ในใจ",
+        "vi": "Ronin Samurai đến từ Inazuma, nay đã gia nhập đội thuyền \"Nam Thập Tự\" Liyue. Tính tình ôn hòa, hào sảng, trong lòng chất chứa nhiều chuyện xưa."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

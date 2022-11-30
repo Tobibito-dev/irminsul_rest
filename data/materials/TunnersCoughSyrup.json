@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tunner's Cough Syrup",
+        "de": "Tunners Hustenmedizin",
+        "chs": "特纳先生的止咳药",
+        "cht": "特納先生的止咳藥",
+        "es": "Jarabe para la tos de Tunner",
+        "fr": "Remède contre la toux de Tunner",
+        "id": "Obat Batuk Tunner",
+        "jp": "トゥナーの咳止め薬",
+        "kr": "터너 씨의 기침약",
+        "pt": "Xarope para tosse do Tunner",
+        "ru": "Сироп от кашля Таннера",
+        "th": "Tunner's Coughing Syrup",
+        "vi": "Thuốc ho cho ngài Tunner"
+    },
+    "id": 100351,
+    "materialDesc": {
+        "en": "Cough Syrup made from Sweet Flower that can moderately suppress cough. Due to its sweet and refreshing taste, the syrup is very popular among kids in Mondstadt. Some kids even wish they had a cough so they can get the syrup.",
+        "de": "Eine aus Zuckerblumen hergestellte Hustenmedizin, die in der Lage ist, Husten als Symptom zu lindern. Sie schmeckt süßlich und wirkt kühlend im Rachen. Deswegen mögen sie auch die Kinder in Mondstadt. Einige hoffen sogar auf einen Husten, um diese Medizin probieren zu dürfen.",
+        "chs": "用甜甜花制成的止咳药，能稍微缓解咳嗽。味道清凉微甜，很受蒙德城孩子们的欢迎，甚至有的孩子为了尝到这种药而期待着自己咳嗽。",
+        "cht": "用甜甜花製成的止咳藥，能稍微緩解咳嗽。味道清涼微甜，很受蒙德城孩子們的歡迎，甚至有的孩子為了嘗到這種藥而期待著自己咳嗽。",
+        "es": "Jarabe para la tos hecho de flor dulce que puede frenar la tos moderadamente. Debido a su sabor dulce y refrescante, es muy popular entre los niños en Mondstadt. Algunos niños incluso desean tener tos para poder beber el jarabe.",
+        "fr": "Un sirop contre la toux à base de fleurs sucrantes. Les enfants raffolent de son goût frais et sucré. Certains tomberaient malades rien que pour pouvoir y goûter.",
+        "id": "Sirup batuk yang terbuat dari Sweet Flower dan ampuh untuk mengurangi batuk-batuk. Sirup ini sangat populer di kalangan anak-anak di Mondstadt karena rasanya yang manis dan menyegarkan. Beberapa anak bahkan berharap mereka terkena batuk agar mereka bisa meminum ini.",
+        "jp": "スイートフラワーで作られた咳止めの薬。味は甘く、モンドの子供たちの間で大人気の薬。この薬を飲むために、咳が出る日を楽しみにする子供がいるくらい。",
+        "kr": "달콤달콤꽃으로 만든 기침약. 기침을 잠시 멈출 수 있다. 맛이 청량하고 달짝지근해 몬드성 아이들이 좋아한다. 어떤 아이는 기침약을 먹기 위해 기침하기를 바라기까지 한다",
+        "pt": "Xarope para tosse feito de Flor Doce que pode suprimir a tosse moderadamente. Devido ao seu sabor doce e refrescante, o xarope é muito popular entre as crianças de Mondstadt. Algumas crianças até desejam tossir para que possam pegar o xarope.",
+        "ru": "Сироп от кашля, приготовленный из цветка-сахарка. Детишкам настолько нравится этот сироп, что иногда они даже специально имитируют кашель, чтобы получить любимую сладость.",
+        "th": "ยาแก้ไอที่ทำขึ้นมาจาก Sweet Flower ซึ่งสามารถบรรเทาอาการไอได้ มีความเย็นสดชื่นและรสชาติที่หวานเล็กน้อย ได้รับความนิยมจากพวกเด็ก ๆ ใน Mondstadt เป็นอย่างมากจนถึงขนาดที่ว่าเด็กบางคนยอมที่จะป่วยเพื่อที่จะได้กินยานี้เลยทีเดียว",
+        "vi": "Thuốc được làm bằng Hoa Ngọt, có thể giảm nhẹ triệu chứng ho. Hương vị thanh mát ngọt dịu, rất được trẻ em Thành Mondstadt yêu thích, thậm chí nhiều đứa trẻ còn mong muốn mình bị bệnh để có thể uống được loại thuốc này."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

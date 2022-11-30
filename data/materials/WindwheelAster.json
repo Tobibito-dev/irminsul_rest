@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Windwheel Aster",
+        "de": "Windmühlenaster",
+        "chs": "风车菊",
+        "cht": "風車菊",
+        "es": "Margarita voladora",
+        "fr": "Chrysanthème à aubes",
+        "id": "Windwheel Aster",
+        "jp": "風車アスター",
+        "kr": "풍차 국화",
+        "pt": "Margaridas Voadoras",
+        "ru": "Ветряная астра",
+        "th": "Windwheel Aster",
+        "vi": "Cúc Cánh Quạt"
+    },
+    "id": 100024,
+    "materialDesc": {
+        "en": "A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are \"the visible winds.\"",
+        "de": "Eine Pflanze, die den Wind liebt. Für die Freiheit schätzenden Menschen von Mondstadt, die den Wind verehren, sind Windmühlenastern wie Wind, den man anfassen kann.",
+        "chs": "喜好风的植物。对于崇信风、本身也如风一般爽朗自在的蒙德人而言，风车菊便是「看得见的风」。",
+        "cht": "喜好風的植物。對於崇信風、本身也如風一般爽朗自在的蒙德人而言，風車菊便是「看得見的風」。",
+        "es": "Una planta que adora el viento. Para los orgullosos hijos del viento, o los habitantes de Mondstadt, las margaritas voladoras son los “vientos visibles”.",
+        "fr": "Une plante qui aime le vent. Pour les habitants de Mondstadt qui vénèrent le vent et la liberté, les chrysanthèmes à aubes sont les « vents visibles ».",
+        "id": "Tumbuhan yang mencintai angin. Bagi anak-anak angin dan warga Mondstadt, Windwheel Aster adalah \"angin yang terlihat\".",
+        "jp": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
+        "kr": "바람을 좋아하는 식물. 바람을 섬기고 바람처럼 호쾌하고 자유로운 몬드 사람에게 풍차 국화는 「눈에 보이는 바람」이다",
+        "pt": "Uma planta que adora o vento. Para os filhos orgulhosos do vento, ou os habitantes de Mondstadt, as Margaridas Voadoras são os \"ventos visíveis\".",
+        "ru": "Растение, которое больше всего на свете любит ветер. Жители Мондштадта, гордый народ ветров, также называют его «видимым ветром».",
+        "th": "พืชที่ชอบลม สำหรับผู้ซึ่งมีความเชื่อในสายลมอย่างชาว Mondstadt ที่มีความจริงใจซื่อตรงแล้ว Windwheel Aster ก็เปรียบดั่ง \"ลมที่มองเห็นได้\"",
+        "vi": "Loại thực vật thích gió. Đối với người dân Mondstadt sùng bái gió và bản thân cũng hào sảng như gió mà nói, cúc cánh quạt giống như \"Ngọn gió có thể nhìn thấy được\""
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

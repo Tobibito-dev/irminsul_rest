@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Roll-Roofed Fruit and Vegetable Cart",
+        "de": "Obst- und Gemüsewagen mit Rolldach",
+        "chs": "卷棚果蔬舆",
+        "cht": "卷棚果蔬輿",
+        "es": "Cobertizo para frutas y verduras",
+        "fr": "Étal itinérant de fruits et légumes",
+        "id": "Gerobak Buah & Sayuran dengan Tenda Gulung",
+        "jp": "巻き幌付き青果カート",
+        "kr": "둥근 과일 수레",
+        "pt": "Carrinho de Frutas e Vegetais Coberto",
+        "ru": "Крытая телега с фруктами и овощами",
+        "th": "เพิงหลังคาม้วนทรงโบราณสำหรับขายผักและผลไม้",
+        "vi": "Xe Bán Rau Quả Hình Vòm"
+    },
+    "id": 390307,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Roll-Roofed Fruit and Vegetable Cart.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Obst- und Gemüsewagen mit Rolldach“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「卷棚果蔬舆」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「捲棚果蔬輿」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Cobertizo para frutas y verduras.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication de l'étal itinérant de fruits et légumes.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Gerobak Buah & Sayuran dengan Tenda Gulung\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「巻き幌付き青果カート」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「둥근 과일 수레」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Carrinho de Frutas e Vegetais Coberto\".\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Крытая телега с фруктами и овощами».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"เพิงหลังคาม้วนทรงโบราณสำหรับขายผักและผลไม้\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Xe Bán Rau Quả Hình Vòm\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

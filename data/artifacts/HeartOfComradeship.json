@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Heart of Comradeship",
+        "de": "Sinn der Kameradschaft",
+        "chs": "故人之心",
+        "cht": "故人之心",
+        "es": "Corazón de la Amistad",
+        "fr": "Fleur du Voyageur",
+        "id": "Heart of Comradeship",
+        "jp": "故人の心",
+        "kr": "옛 벗의 마음",
+        "pt": "Coração de Camaradagem",
+        "ru": "Сердце товарищества",
+        "th": "Heart of Comradeship",
+        "vi": "Trái Tim Của Cố Nhân"
+    },
+    "id": 51544,
+    "setId": 10001,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "String of Pearls (V)",
+        "de": "Perlen der Liebe – Band V",
+        "chs": "连心珠·卷五",
+        "cht": "連心珠·卷五",
+        "es": "La pulsera de perlas (V)",
+        "fr": "Perle du cœur - Tome V",
+        "id": "Mutiara dalam Hati (V)",
+        "jp": "連心珠·5",
+        "kr": "연심주·권5",
+        "pt": "Pérola de Coração (V)",
+        "ru": "Жемчужная нить. Том V",
+        "th": "ไข่มุกแห่งดวงใจ (V)",
+        "vi": "Liên Tâm Châu (V)"
+    },
+    "id": 100787,
+    "materialDesc": {
+        "en": "The bandit lair in the dead of night is pitch-dark. The tyrant, the youth, and the lady grope in the dark in search of one another, and there, a perilous misunderstanding is about to play out...",
+        "de": "Im Lager der Banditen ist es stockdunkel. Der Despot, der Jüngling und die Geliebte tappen auf der Suche nacheinander im Dunkeln und ein gefährliches Missverständnis bahnt sich an ...",
+        "chs": "深夜的贼窝中伸手不见五指，恶霸、青年、女子，三人在黑暗中摸索着相互找寻，一场危险的误会即将上演…",
+        "cht": "深夜的賊窩中伸手不見五指，惡霸、青年、女子，三人在黑暗中摸索著相互找尋，一場危險的誤會即將上演…",
+        "es": "En medio de la oscuridad más absoluta, el villano, el joven y la doncella se buscan unos a otros. Un peligroso malentendido está a punto de suceder...",
+        "fr": "Il fait très sombre dans le repaire des bandits au milieu de la nuit. Le tyran, le jeune homme et la jeune fille tâtonnent dans le noir, à la recherche l'un de l'autre. Un terrible malentendu les attend...",
+        "id": "Suasana sarang bandit di tengah larutnya malam sangat gelap gulita. Sang tirani, pemuda, dan gadis muda hanya bisa meraba-raba di dalam kegelapan untuk saling mencari satu sama lain. Dan di sanalah, sebuah kesalahpahaman yang penuh bahaya akan terjadi...",
+        "jp": "深夜の悪党の拠点で、悪党と青年と女は暗闇の中手探り状態でいた。間もなく危険な誤解が上演する…",
+        "kr": "한밤중 까마득한 도적의 소굴에서 악당과 청년 그리고 그녀는 서로를 찾아 헤매고, 그들의 위험한 오해가 펼쳐진다…",
+        "pt": "O covil do bandido, na calada da noite, é escuro como breu. O tirano, o jovem e a dama tateiam no escuro em busca um do outro. Lá, um perigoso mal-entendido está prestes a acontecer...",
+        "ru": "Разбойничье логово, тёмная ночь... Злодей, молодой человек и девушка ищут друг друга во тьме. Вот-вот должно произойти опасное недоразумение...",
+        "th": "ในรังโจรในตอนกลางดึกที่มืดจนมองไม่เห็นนิ้วทั้งห้า คนพาล ชายหนุ่มและหญิงสาวตามหากันในความมืด ความเข้าใจผิดที่เป็นอันตรายกำลังจะเกิดขึ้น...",
+        "vi": "Trong sào huyệt tối đen như mực, giơ bàn tay lên không thấy rõ năm ngón, kẻ ác bá, chàng trai, cô gái, ba người mò mẫm tìm nhau trong bóng tối, một màn hiểu lầm đầy nguy hiểm sắp bắt đầu..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

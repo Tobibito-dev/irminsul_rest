@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bubu Pharmacy's Affidavit",
+        "de": "Attest der „Bubu-Hütte“",
+        "chs": "「不卜庐」的药理证明",
+        "cht": "「不卜廬」的藥理證明",
+        "es": "Declaración de la Farmacia Bubu",
+        "fr": "Certificat du Cottage Bubu",
+        "id": "Keterangan Tertulis dari Bubu Pharmacy",
+        "jp": "「不卜廬」の薬理認定",
+        "kr": "「불복려」의 약리 증명서",
+        "pt": "Declaração Juramentada do Chalé de Bubu",
+        "ru": "Заключение из хижины «Бубу»",
+        "th": "ใบรับรองด้านเภสัชวิทยาจากร้าน Bubu Pharmacy",
+        "vi": "Băng Chứng Của Nhà Thuốc Bubu"
+    },
+    "id": 100839,
+    "materialDesc": {
+        "en": "A pharmacological certification from Bubu Pharmacy.",
+        "de": "Von der „Bubu-Hütte“ erhaltenes Attest.",
+        "chs": "从「不卜庐」处得到的药理证明。",
+        "cht": "從「不卜廬」處得到的藥理證明。",
+        "es": "Una declaración farmacológica obtenida de la Farmacia Bubu.",
+        "fr": "Un certificat pharmacologique obtenu auprès du Cottage Bubu.",
+        "id": "Sertifikasi farmakologi dari Bubu Pharmacy.",
+        "jp": "「不卜廬」から入手した薬理認定。",
+        "kr": "「불복려」에서 획득한 약리 증명서",
+        "pt": "Uma certificação farmacêutica do Chalé de Bubu.",
+        "ru": "Фармацевтическое заключение, полученное в хижине «Бубу».",
+        "th": "ใบรับรองด้านเภสัชวิทยาจากร้าน Bubu Pharmacy",
+        "vi": "Chứng nhận dược lý nhận được từ chỗ \"Nhà Thuốc Bubu\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

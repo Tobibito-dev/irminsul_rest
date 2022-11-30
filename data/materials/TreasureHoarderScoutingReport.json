@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Treasure Hoarder Scouting Report",
+        "de": "Spähbericht der Schatzräuber",
+        "chs": "盗宝团的「侦察情报」",
+        "cht": "盜寶團的「偵察情報」",
+        "es": "Informe de exploración de los Ladrones de Tesoros",
+        "fr": "Rapport d'observation des Pilleurs de trésors",
+        "id": "Laporan Pengintaian Treasure Hoarder",
+        "jp": "宝盗団の「偵察情報」",
+        "kr": "보물 사냥단의 「정찰 정보」",
+        "pt": "Relatório de Exploração dos Ladrões de Tesouro",
+        "ru": "Разведывательные данные Похитителей сокровищ",
+        "th": "\"ข่าวกรองจากการลาดตระเวน\" ของกองโจรล่าสมบัติ",
+        "vi": "\"Tin Tình Báo Trinh Sát\" Của Đạo Bảo Đoàn"
+    },
+    "id": 100630,
+    "materialDesc": {
+        "en": "A letter obtained from Vile. It has the special mark of the Treasure Hoarders on it.",
+        "de": "Ein Brief, den du von Vile bekommen hast. Auf ihm ist das spezielle Zeichen der Schatzräuber zu sehen.",
+        "chs": "从薇尔那里拿到的信件，附有盗宝团的特别标记。",
+        "cht": "從薇爾那裡拿到的信件，附有盜寶團的特別標記。",
+        "es": "Una carta que obtuviste por medio de Vile. Tiene el emblema de los Ladrones de Tesoros.",
+        "fr": "Une lettre obtenue de Val. Elle porte la marque spéciale des Pilleurs de trésors.",
+        "id": "Sebuah surat dari Vile, yang memiliki tanda khusus Treasure Hoarder di atasnya.",
+        "jp": "ヴァルからもらった手紙。宝盗団の特別な印がついている。",
+        "kr": "베일에게서 가져온 편지, 보물 사냥단의 특별 표식이 부착돼 있다",
+        "pt": "Uma carta obtida de Vile, tem a marca especial dos Ladrões de Tesouro.",
+        "ru": "Письмо от Вэл. К нему приложена метка Похитителей сокровищ.",
+        "th": "จดหมายที่ได้มาจาก Vile มีสัญลักษณ์ของกองโจรล่าสมบัติด้วย",
+        "vi": "Bức thư lấy từ chỗ Vile, phía trên có ký hiệu đặc thù của Đạo Bảo Đoàn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Crab Roe Kourayaki",
+        "de": "Rezept: Krebsrogen-Kourayaki",
+        "chs": "食谱：蟹黄壳壳烧",
+        "cht": "食譜：蟹黃殼殼燒",
+        "es": "Receta: Caparazón de cangrejo con huevas",
+        "fr": "Recette : Kourayaki d'œufs de crabe",
+        "id": "Resep: Crab Roe Kourayaki",
+        "jp": "レシピ：かにみそ甲羅焼き",
+        "kr": "레시피: 게딱지 구이",
+        "pt": "Receita: Ovas de Caranguejo Assadas",
+        "ru": "Рецепт: Крабовый кораяки",
+        "th": "สูตรอาหาร: Crab Roe Kourayaki",
+        "vi": "Công Thức: Gạch Cua Xào"
+    },
+    "id": 109467,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Crab Roe Kourayaki.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Krebsrogen-Kourayaki“.",
+        "chs": "步骤详实的食谱，记载着「蟹黄壳壳烧」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「蟹黃殼殼燒」的製作方法。",
+        "es": "Receta paso a paso para hacer un caparazón de cangrejo con huevas.",
+        "fr": "Étapes de préparation du kourayaki d'œufs de crabe.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Crab Roe Kourayaki.",
+        "jp": "「かにみそ甲羅焼き」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「게딱지 구이」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Ovas de Caranguejo Assadas.",
+        "ru": "Подробный рецепт приготовления блюда «Крабовый кораяки».",
+        "th": "สูตรอธิบายวิธีทำ \"Crab Roe Kourayaki\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Gạch Cua Xào\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

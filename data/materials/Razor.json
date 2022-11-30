@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Razor",
+        "de": "Razor",
+        "chs": "雷泽",
+        "cht": "雷澤",
+        "es": "Razor",
+        "fr": "Razor",
+        "id": "Razor",
+        "jp": "レザー",
+        "kr": "레이저",
+        "pt": "Razor",
+        "ru": "Рэйзор",
+        "th": "Razor",
+        "vi": "Razor"
+    },
+    "id": 1020,
+    "materialDesc": {
+        "en": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+        "de": "Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.",
+        "chs": "住在蒙德地区奔狼领，远离城市与人群，和狼一同生活的少年。直觉锐利，身姿迅捷。",
+        "cht": "住在蒙德地區奔狼領，遠離城市與人群，和狼一起生活的少年。直覺銳利，身姿迅捷。",
+        "es": "Un niño que vive entre los lobos en el Reino de los Lobos de Mondstadt, lejos de la civilización. Es ágil como un relámpago.",
+        "fr": "Un jeune garçon qui vit sur le Territoire des Loups situé aux environs de Mondstadt, loin de la ville et des foules. Il possède un instinct et une agilité surprenante.",
+        "id": "Seorang anak laki-laki yang tinggal di daerah Mondstadt. Jauh dari peradaban manusia dan tinggal di kalangan antara serigala di Wolvendom, sangat lincah bagai kilat.",
+        "jp": "人間の町から離れた、モンド地域の奔狼領で狼と暮らす少年。勘が鋭く、動きが俊敏。",
+        "kr": "몬드 지역의 울프 영지에서 사람과 도시를 피해 늑대와 함께 생활하는 소년. 예리한 직감과 민첩한 몸놀림을 가지고 있다",
+        "pt": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+        "ru": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+        "th": "เด็กหนุ่มผู้ใช้ชีวิตร่วมกับหมาป่า ใน Wolvendom ซึ่งเป็นพื้นที่หนึ่งใน Mondstadt ที่ห่างไกลจากผู้คน มีปฏิกิริยาที่เฉียบแหลมและคล่องแคล่วว่องไว",
+        "vi": "Thiếu niên sống cùng sói trong Lang Lãnh thuộc Mondstadt, tránh xa thành phố và loài người. Có trực giác nhạy bén, hành động nhanh nhạy."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

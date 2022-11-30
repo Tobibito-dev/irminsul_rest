@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Satiety Gel",
+        "de": "Sättigungsgel",
+        "chs": "饱腹感凝胶",
+        "cht": "飽腹感凝膠",
+        "es": "Gel saciante",
+        "fr": "Gelée rassasiante",
+        "id": "Satiety Gel",
+        "jp": "満腹感ゼリー",
+        "kr": "포만감 젤",
+        "pt": "Gel Saciador",
+        "ru": "Сытный студень",
+        "th": "Satiety Gel",
+        "vi": "Gel No Bụng"
+    },
+    "id": 108339,
+    "materialDesc": {
+        "en": "Aloy's specialty. The cross-section looks perfect, its shape is regular, and it gives off a cool air. At first, Aloy seemed a bit apprehensive as to whether you'd enjoy this rather unique dessert, but she was relieved when you wolfed it all down in one go...",
+        "de": "Aloys Spezialzubereitung. Der Querschnitt sieht perfekt aus, seine Form ist gleichmäßig und er verströmt einen kühlen Duft. Zuerst schien Aloy etwas besorgt zu sein, ob dir diese einzigartige Nachspeise schmecken würde, aber sie war erleichtert, als du sie in einem Zug hinunterschlangst ...",
+        "chs": "埃洛伊的特色料理。切面完美，造型规整，散发着凉爽的气息。一开始，埃洛伊似乎很担心你能否接受这款外观与众不同的甜品，在看到你一口气吃光后，她总算松了口气…",
+        "cht": "#亞蘿伊的特色料理。切面完美，造型規整，散發著涼爽的氣息。一開始，亞蘿伊似乎很擔心{F#妳}{M#你}能否接受這款外觀與眾不同的甜品，在看到{F#妳}{M#你}一口氣吃光後，她總算鬆了口氣…",
+        "es": "La especialidad de Aloy. Los cortes son excelentes, el aspecto es uniforme y despide un aroma fresco. A Aloy le preocupaba que este postre tan distinto a los demás no te gustara, pero al ver cómo disfrutabas del primer bocado, se sintió aliviada.",
+        "fr": "Spécialité culinaire d'Aloy. La coupe est parfaite, la forme est régulière et le tout respire la fraîcheur. Aloy semblait inquiète que vous n'aimiez pas ce dessert à l'apparence particulière, mais le soulagement l'envahit quand elle vous voit le manger en une seule bouchée...",
+        "id": "Hidangan spesialisasi Aloy. Potongannya sempurna, wujudnya juga sesuai aturan dan rapi. Aromanya memancarkan hawa dingin yang menyejukkan. Awalnya Aloy agak khawatir apakah kamu dapat menerima camilan manis yang unik ini, tapi setelah melihat kamu melahapnya dalam sekali napas, dia pun menghela napas lega.",
+        "jp": "アーロイのオリジナル料理。切り口が完璧で、形がよく整い、涼やかな雰囲気をかもしだしている。最初、アーロイはあなたがこの特別な見た目のデザートを受け入れられるか心配していたが、一気に食べ尽くしたあなたを見て、彼女はほっとした…",
+        "kr": "에일로이의 특제 요리. 완벽한 절단면과 깔끔한 크기로 시원한 느낌을 준다. 처음엔 당신이 유별난 외관의 디저트를 받아들일 수 있을지 걱정했던 에일로이는, 단숨에 뚝딱한 당신의 모습에 그제야 겨우 안심한다…",
+        "pt": "Especialidade de Aloy. Os cortes são perfeitos, sua forma é regular, e emite um ar fresco. No começo, Aloy parecia um pouco apreensiva sobre se você gostaria dessa sobremesa única, mas ficou aliviada quando você engoliu tudo de uma vez...",
+        "ru": "Фирменное блюдо Элой. Идеальная техника нарезки, правильная форма и освежающая прохлада. Элой, похоже, беспокоилась, что вам не понравится этот необычный на вид десерт. Но когда она увидела, что вы съели его за один присест, она почувствовала облегчение...",
+        "th": "เมนูพิเศษของ Aloy ตัดพื้นผิวได้สมบูรณ์แบบ รูปร่างสมส่วน และมีไอเย็นออกมา ตอนแรก Aloy ดูเหมือนจะกังวลว่าคุณจะชอบขนมหวานที่มีเอกลักษณ์นี้หรือไม่ แต่เมื่อเห็นคุณกินหมดในคำเดียว เธอก็ถอนหายใจอย่างโล่งอก...",
+        "vi": "Món ăn đặc biệt của Aloy. Mặt cắt hoàn hảo, tạo hình đẹp mắt, tỏa ra hơi mát. Ban đầu, Aloy có vẻ lo lắng không biết bạn có thích món tráng miệng độc đáo này không, sau khi thấy bạn ăn hết, cô ấy mới thở phào nhẹ nhõm..."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

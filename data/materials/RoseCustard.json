@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Rose Custard",
+        "de": "Rosenmus",
+        "chs": "蔷薇奶糊",
+        "cht": "薔薇奶糊",
+        "es": "Natillas de rosa",
+        "fr": "Crème à la rose",
+        "id": "Rose Custard",
+        "jp": "ローズシュリカンド",
+        "kr": "장미 커스터드",
+        "pt": "Creme de Rosa",
+        "ru": "Заварной крем из роз",
+        "th": "Rose Custard",
+        "vi": "Sữa Trứng Tường Vi"
+    },
+    "id": 108471,
+    "materialDesc": {
+        "en": "A dessert made from fermented milk. Once the milk is fermented and filtered into yogurt, stir sugar in before garnishing with dried roses and chopped nuts. In the beginning, this dish was only popular among adventurers and traveling merchants, but now, it is served as breakfast and a tea-time dessert across Sumeru.",
+        "de": "Ein Dessert aus fermentierter Milch. Zuerst die Milch fermentieren und zu Joghurt filtrieren, dann Zucker hinzufügen und gut rühren, zuletzt mit getrockneten Rosen und gehackten Nüssen garnieren. Ursprünglich war dieses Gericht nur bei Abenteurern und reisenden Händlern beliebt, aber jetzt hat es sich in ganz Sumeru verbreitet. Es kann als Frühstück oder als Dessert am Nachmittag serviert werden.",
+        "chs": "由发酵乳制成的甜点。将牛奶发酵后过滤，制成酸奶后加糖搅匀，缀以蔷薇花干和坚果碎。这种吃法最初仅在四处奔波的冒险者和旅行商人之间流行，但现在已传遍整个须弥，不管是早餐还是午后甜点，都能见到它的身影。",
+        "cht": "由酪乳製成的甜點。將牛奶發酵後過濾，製成優酪乳後加糖攪拌均勻，綴以乾薔薇和碎堅果。這種吃法最初僅在四處奔波的冒險者和旅行商人之間流行，但現在已傳遍整個須彌，不管是早餐還是午後甜點，都能見到它的身影。",
+        "es": "Un bonito postre hecho con leche fermentada. Una vez fermentada la leche, se filtra y se procesa hasta convertirla en una especie de yogur. A continuación, se le añade azúcar y se decora con rosas y trocitos de nueces. Al principio, este postre solo era popular entre los viajeros y los comerciantes, pero ahora es muy común en toda Sumeru servirlo de desayuno o merienda.",
+        "fr": "Un dessert confectionné à partir de lait fermenté. Une fois que le lait fermenté est filtré pour faire du yaourt, ajoutez du sucre et mélangez bien avant d'y incorporer des roses séchées et des fruits secs. Cet encas qui était autrefois seulement apprécié des aventuriers et des marchands ambulants, est servi pour le petit déjeuner et le thé à travers tout Sumeru.",
+        "id": "Makanan pencuci mulut yang terbuat dari susu fermentasi. Setelah susunya terfermentasi dan dibuat menjadi yoghurt, aduk dengan gula lalu hias menggunakan mawar kering dan potongan kacang. Awalnya hidangan ini hanya populer di kalangan petualang dan pedagang keliling, tapi sekarang telah menjadi makanan sarapan dan pencuci mulut di seluruh Sumeru.",
+        "jp": "発酵乳で作られたデザート。牛乳を発酵させた後、ろ過してヨーグルトにする。そこに砂糖を加えて均等に混ぜ、乾燥させたローズと砕いたナッツを飾る。当初、この食べ方は冒険者と旅商人の間でしか流行らなかったが、今ではスメール全体に広がっており、朝ごはんにも、午後のデザートとしても、その姿が見られる。",
+        "kr": "발효유로 만든 디저트. 우유를 발효시킨 후 걸러 요구르트를 만들고, 설탕을 넣어 잘 젓다가 말린 장미꽃과 잘게 부순 견과류로 마무리한다. 초기에는 여기저기 뛰어다니는 모험가와 여행 상인들 사이에서만 유행하던 레시피가 현재는 수메르 전역으로 널리 퍼져 아침 식사든 오후 디저트든 어디서나 그 모습을 찾아볼 수 있다",
+        "pt": "Uma sobremesa feita de leite fermentado. Quando o leite é fermentado e filtrado para virar iogurte, misture o açúcar antes de guarnecer com rosas desidratadas e nozes picadas. No início, este prato era popular apenas entre aventureiros e comerciantes itinerantes, mas agora, é servida como café da manhã ou sobremesa da hora do chá por toda Sumeru.",
+        "ru": "Десерт, приготовленный из кисломолочных продуктов. Как только молоко сквасится и превратится в йогурт, добавьте сахар, а затем украсьте сушёными розами и измельчёнными орехами. Вначале это блюдо было популярно только среди искателей приключений и странствующих торговцев, но теперь его подают на завтрак и на десерт к чаю по всему Сумеру.",
+        "th": "ของหวานที่ทำจากนมหมัก กรองนมที่ได้จากการหมักและทำเป็นโยเกิร์ตแล้ว จากนั้นใส่น้ำตาลและผสมให้เข้ากัน โรยหน้าด้วยดอกกุหลาบแห้งและถั่วบด ในตอนแรก อาหารจานนี้เป็นที่นิยมในหมู่นักผจญภัยและพ่อค้าที่เดินทางเท่านั้น แต่ตอนนี้ทั่วทั้ง Sumeru ไม่ว่าจะเป็นช่วงเวลาอาหารเช้าหรือช่วงของหวานยามบ่ายต่างก็สามารถพบเห็นเมนูได้ทั้งสิ้น",
+        "vi": "Món tráng miệng làm từ sữa lên men. Sữa lên men xong đem lọc, sau khi làm sữa chua, trộn với đường, trang trí bằng tường vi khô và các loại hạt. Cách ăn này ban đầu chỉ phổ biến ở những nhà thám hiểm và thương nhân bôn ba khắp nơi. Nhưng giờ nó đã lưu truyền khắp Sumeru, có thể thấy bóng dáng của nó trong bữa ăn sáng và cả món tráng miệng buổi chiều."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

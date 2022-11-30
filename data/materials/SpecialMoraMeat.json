@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Mora Meat",
+        "de": "Besonderes Mora-Medaillon",
+        "chs": "特制的摩拉肉",
+        "cht": "特製的摩拉肉",
+        "es": "Carne de Mora especial",
+        "fr": "Viande-mora spéciale",
+        "id": "Mora Meat Spesial",
+        "jp": "特製モラミート",
+        "kr": "특제 모라육",
+        "pt": "Carne de Mora Especial",
+        "ru": "Особая лепёшка «Мора»",
+        "th": "Mora Meat สูตรพิเศษ",
+        "vi": "Thịt Mora Đặc Biệt"
+    },
+    "id": 100654,
+    "materialDesc": {
+        "en": "A serving of Mora Meat. Neither Mora nor Meat will be left if it gets cold.",
+        "de": "Ein Mora-Medaillon. Sobald es kalt ist, hat man weder Mora noch bringt einem das Medaillon etwas.",
+        "chs": "一份摩拉肉。冷了可能就既不富贵也不肉了。",
+        "cht": "一份摩拉肉。冷了可能就既不富貴也不肉了。",
+        "es": "Un plato de carne de mora. Si se enfría no vale nada.",
+        "fr": "Une portion de viande-mora. Il n'y aura pas de mora, ni de viande si on la laisse refroidir.",
+        "id": "Sepotong Mora Meat. Baik Mora maupun daging tidak akan terasa jika sudah dingin.",
+        "jp": "モラミートは、冷めてしまえばモラでもミートでもない。",
+        "kr": "모라육 일인분, 식으면 고급스러운 고기 맛을 잃을 것이다",
+        "pt": "Uma porção de Carne de Mora. Não vale nada se esfriar.",
+        "ru": "Лепёшка «Мора». Если она остынет, то не будет ни ценной, ни вкусной.",
+        "th": "Mora Meat จานนี้ หากทิ้งไว้จนเย็น ก็จะไม่มีราคาและเนื้อก็จะไม่ชุ่มฉ่ำอีกต่อไป",
+        "vi": "Một phần Thịt Mora. Nếu để nguội sẽ không còn là món ăn đắt giá và cũng không còn là thịt nữa rồi."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

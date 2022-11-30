@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Bard's Arrow Feather",
+        "de": "Pfeilfeder des Leierspielers",
+        "chs": "琴师的箭羽",
+        "cht": "琴師的箭羽",
+        "es": "Pluma del Bardo",
+        "fr": "Plume de flèche du lyriste",
+        "id": "Bard's Arrow Feather",
+        "jp": "琴師の矢羽",
+        "kr": "연주자의 화살깃",
+        "pt": "Pena de Flecha do Bardo",
+        "ru": "Оперение стрелы барда",
+        "th": "Bard's Arrow Feather",
+        "vi": "Mũi Tên Nhạc Sĩ"
+    },
+    "id": 23397,
+    "setId": 15003,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

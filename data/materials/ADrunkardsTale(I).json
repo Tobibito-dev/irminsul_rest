@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Drunkard's Tale (I)",
+        "de": "Erzählungen eines Betrunkenen I",
+        "chs": "醉客轶事·一",
+        "cht": "醉客軼事·一",
+        "es": "Cuentos de un borracho (I)",
+        "fr": "Chroniques d'un ivrogne - Partie I",
+        "id": "Kisah Pemabuk (I)",
+        "jp": "酔っぱらいの逸話·1",
+        "kr": "취객 일화·Ⅰ",
+        "pt": "Um Conto de Bêbados (I)",
+        "ru": "История пьяницы I",
+        "th": "เรื่องราวของลูกค้าขี้เมา-1",
+        "vi": "Chuyện Kẻ Say I"
+    },
+    "id": 100577,
+    "materialDesc": {
+        "en": "One of many popular tales told of Mondstadt's drinkers. This one is the story of a drunkard who stumbled into wolven territory and the lone, starving wolf he encountered there.",
+        "de": "Eine der Geschichten, die man sich unter den Trinkern in Mondstadt erzählt. Sie handelt von einem Säufer, der aus Versehen den Wald der Wölfe betritt, und dem hungrigen Wolf, auf den er trifft.",
+        "chs": "蒙德传扬的酒客故事之一，讲述了误入狼林的醉汉与饥饿的孤狼之间的故事。",
+        "cht": "蒙德傳揚的酒客故事之一，講述了誤入狼林的醉漢與饑餓的孤狼之間的故事。",
+        "es": "Uno de los muchos cuentos populares sobre los borrachos de Mondstadt. Esta es la historia de un borracho que se encontró con un lobo hambriento y solitario en el territorio de los lobos.",
+        "fr": "Une histoire racontée dans les tavernes de Mondstadt. Elle parle d'un ivrogne qui s'est perdu dans une forêt et d'un loup solitaire affamé.",
+        "id": "Salah satu dari banyak kisah populer yang diceritakan oleh peminum anggur di Mondstadt. Kisah ini adalah kisah tentang seorang pemabuk yang masuk ke hutan serigala dan bertemu dengan serigala kesepian yang kelaparan.",
+        "jp": "モンドで言い伝えられている酒飲みの物語の1つ。謝って狼の森に入ってしまった酔っぱらいと飢える狼を語った一冊。",
+        "kr": "몬드에서 전해 내려오는 취객의 이야기 중 하나. 늑대의 숲에 잘못 들어간 취객과 배고픈 외톨이 늑대의 이야기",
+        "pt": "Um dos muitos contos populares contados pelos bebedores de Mondstadt. Conta uma história entre um bêbado que tropeçou em território de lobos e um lobo solitário e faminto.",
+        "ru": "Популярная застольная байка Мондштадта. В ней рассказывается о забредшем в полный волков лес пьянице и голодном волке.",
+        "th": "หนึ่งในเรื่องเล่าของนักดื่มชาว Mondstadt ที่บอกเล่าเรื่องราวของคนเมาที่หลงเข้าไปในป่าแห่งหมาป่ากับหมาป่าโดดเดี่ยวผู้หิวโซ",
+        "vi": "Một trong những câu chuyện mà khách uống rượu lan truyền ở Mondstadt, kể về chuyện một kẻ say rượu lỡ đi vào rừng sói và một con sói đói khát."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

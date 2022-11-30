@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Curious Cube",
+        "de": "Seltsamer Würfel",
+        "chs": "奇特的「魔方」",
+        "cht": "奇特的「魔方」",
+        "es": "Cubo extraño",
+        "fr": "Cube étrange",
+        "id": "Kubus Aneh",
+        "jp": "不思議な「キューブ」",
+        "kr": "특이한 「큐브」",
+        "pt": "Cubo Curioso",
+        "ru": "Особый магический куб",
+        "th": "ลูกบาศก์ประหลาด",
+        "vi": "Rubic Kỳ Lạ"
+    },
+    "id": 101659,
+    "materialDesc": {
+        "en": "An unknown construct that you discovered in the depths of The Chasm. It resembles an intricately-made cube.",
+        "de": "Ein unbekanntes Konstrukt, das du in den Tiefen der Großen Kluft entdeckt hast. Es ähnelt einem kompliziert gebauten Würfel.",
+        "chs": "从层岩巨渊深处获得的不明构装物，看起来仿佛一个精巧的「魔方」。",
+        "cht": "從層岩巨淵深處獲得的不明構裝物，看起來彷彿一個精巧的「魔方」。",
+        "es": "Un objeto de estructura particular obtenido en las profundidades de la Sima. Parece un cubo elaborado con mucha sofisticación.",
+        "fr": "Un objet inconnu que vous avez obtenu dans les profondeurs du Gouffre. Il ressemble à un puzzle à la fois complexe et ingénieux en forme de cube.",
+        "id": "Konstruksi tak dikenal yang ditemukan di kedalaman Chasm. Bentuknya mirip dengan kubus yang dibuat dengan rumit.",
+        "jp": "層岩巨淵の奥深くにあった謎の構造物。一見すると、精巧な「キューブ」のようだ。",
+        "kr": "층암거연 깊은 곳에서 획득한 알 수 없는 장치. 정교한 「큐브」처럼 보인다",
+        "pt": "Uma estrutura que você descobriu nas profundezas do Despenhadeiro. Parece um cubo engenhoso.",
+        "ru": "Неизвестный предмет из глубин Разлома, который выглядит как куб тонкой работы.",
+        "th": "สิ่งของที่ไม่รู้ว่าคือสิ่งใดซึ่งได้มาจากส่วนลึกของ Chasm ดูแล้วเหมือนกับ \"ลูกบาศก์\" ที่วิจิตรงดงาม",
+        "vi": "Vật phẩm lấy được từ nơi sâu thẳm của Vực Đá Sâu, trong giống như một khối rubic tinh xảo."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

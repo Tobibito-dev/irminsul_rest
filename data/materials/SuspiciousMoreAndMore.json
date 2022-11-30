@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious More-and-More",
+        "de": "Misslungenes Nochvielmehr",
+        "chs": "奇怪的多多烧",
+        "cht": "奇怪的多多燒",
+        "es": "Más y más extraño",
+        "fr": "Fourre-tout exquis (suspect)",
+        "id": "Suspicious More-and-More",
+        "jp": "微妙なお好み焼き",
+        "kr": "이상한 다다야끼",
+        "pt": "Mais e Mais Estranho",
+        "ru": "Странный жареный тото",
+        "th": "More-and-More รสประหลาด",
+        "vi": "Toto Nướng Kỳ Lạ"
+    },
+    "id": 108333,
+    "materialDesc": {
+        "en": "A snack grilled on an iron plate. It certainly looks the part, but you start getting a bad feeling about this upon first bite. Guess you can't slack off when making food after all, huh?",
+        "de": "Ein Snack, der auf einer Eisenplatte gegrillt wird. Er sieht zwar gut aus, aber schon beim ersten Biss bekommt man ein ungutes Gefühl. Man darf bei der Zubereitung von Essen doch keine einzige Sekunde pfuschen, nicht wahr?",
+        "chs": "铁板烧制的小吃。外表看上去似乎还有模有样，但第一口就尝到了面疙瘩。果然做菜是偷不得懒的啊。",
+        "cht": "鐵板燒製的小吃。外表看起來似乎還有模有樣，但第一口就嚐到了麵疙瘩。果然做菜是偷不得懶的啊。",
+        "es": "Un aperitivo hecho a la plancha. El aspecto es más o menos aceptable, el problema es que solamente sabe a harina. Cocinar no es para holgazanes...",
+        "fr": "Un encas préparé sur une plaque chauffante. Il semblait réussi en apparence, mais la première bouchée est pâteuse. On ne peut pas faire les choses à moitié en cuisine.",
+        "id": "Camilan yang dipanggang di plat besi besar (teppan). Dari luar terlihat seperti makanan, tapi saat digigit, bulu kuduk langsung merinding dibuatnya. Membuat makanan memang tidak boleh dibuat tanpa menggunakan hati dan ogah-ogahan.",
+        "jp": "鉄板で焼き上げた食べ物。見た目は悪くないようだが、一口で小麦粉の固まりを食べてしまった。やはり料理をするには、手を抜いてはいけないようだ。",
+        "kr": "철판구이 요리. 겉은 그럴듯해 보이지만 한입 먹으면 바로 덩어리진 밀가루를 맛볼 수 있다. 역시 요리에는 게으름을 피워서는 안 된다",
+        "pt": "Um lanche grelhado em uma chapa de ferro. Certamente parece bom, mas você começa a ter um mau pressentimento sobre isso na primeira mordida. Talvez você não deva se distrair ao fazer comida, afinal de contas.",
+        "ru": "Закуска, приготовленная на тэппане. Внешне выглядит презентабельно, но на вкус напоминает комочек теста. На кухне ничего нельзя делать кое-как.",
+        "th": "อาหารว่างที่ย่างบนกระทะร้อน ดูจากภายนอกแล้วหน้าตาก็พอใช้ได้ แต่พอชิมคำแรกก็รู้สึกได้ถึงก้อนแป้ง การทำอาหารเนี่ยจะทำแบบลวก ๆ ไม่ได้นะ",
+        "vi": "Món ăn vặt được nướng trên chảo thép. Trông cũng ra dáng đấy, nhưng miếng đầu tiên là sẽ cảm nhận được độ cứng của bột. Đúng là nấu ăn không thể làm biếng được."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

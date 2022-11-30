@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Reverberating Key",
+        "de": "Tönender Schlüssel",
+        "chs": "余音之匙",
+        "cht": "餘音之匙",
+        "es": "Llave eufónica",
+        "fr": "Clé d'écho",
+        "id": "Kunci Bergaung",
+        "jp": "余韻の鍵",
+        "kr": "여음의 열쇠",
+        "pt": "Chave Reverberante",
+        "ru": "Эвфонический ключ",
+        "th": "กุญแจก้องกังวาน",
+        "vi": "Chìa Khóa Dư Âm"
+    },
+    "id": 101902,
+    "materialDesc": {
+        "en": "A key related to a certain mysterious plant. It seems to be able to open some door somewhere...",
+        "de": "Ein mit irgendeiner seltsamen Pflanze verknüpfter Schlüssel. Mit ihm sollte eine Tür geöffnet werden können ...",
+        "chs": "与某种奇妙植物有着关联的钥匙，似乎可以用来打开某道门扉…",
+        "cht": "與某種奇妙植物有著關聯的鑰匙，似乎可以用來打開某道門扉…",
+        "es": "Una llave relacionada con alguna planta extraña. Quizás sirva para abrir alguna puerta...",
+        "fr": "Une clé en lien avec une plante mystérieuse. Il semble qu'elle ouvre une porte à un certain endroit...",
+        "id": "Kunci yang berhubungan dengan tumbuhan misterius tertentu dan tampaknya bisa membuka pintu di suatu tempat ....",
+        "jp": "ある不思議な植物にまつわる鍵。どこかの扉を開けることができるようだが…",
+        "kr": "기묘한 식물과 연관된 열쇠. 어떤 문을 열 수 있을 듯하다…",
+        "pt": "Uma chave relacionada a alguma planta fantástica. Parece que ela pode abrir alguma porta...",
+        "ru": "Ключ, связанный с неким таинственным растением. Кажется, им можно открыть какую-то дверь...",
+        "th": "กุญแจที่เกี่ยวข้องกับพืชมหัศจรรย์บางชนิด ดูเหมือนมันจะใช้เปิดประตูสักบานได้นะ...",
+        "vi": "Chìa khóa có liên quan đến một loại cây kỳ diệu, hình như có thể dùng để mở cánh cửa nào đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

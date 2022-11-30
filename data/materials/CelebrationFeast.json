@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Celebration: Feast",
+        "de": "Feierlichkeit – Gelage",
+        "chs": "庆典·盛宴",
+        "cht": "慶典·盛宴",
+        "es": "Celebración - Festín",
+        "fr": "Célébration - Festin",
+        "id": "Perayaan: Feast",
+        "jp": "祭典·宴会",
+        "kr": "축제·연회",
+        "pt": "Celebração - Banquete",
+        "ru": "Великое пиршество",
+        "th": "การเฉลิมฉลอง - งานเลี้ยง",
+        "vi": "Lễ Hội - Tiệc Lớn"
+    },
+    "id": 210065,
+    "materialDesc": {
+        "en": "Namecard style.\\nExcellent!",
+        "de": "Ein Motiv für Namenskärtchen.\\nEinfach großartig!",
+        "chs": "名片纹饰。\\n好极了！",
+        "cht": "名片紋飾。\\n好極了！",
+        "es": "Diseño de tarjeta de presentación.\\n¡Bien!",
+        "fr": "Thème.\\nExcellent !",
+        "id": "Style kartu nama.\\nSempurna!",
+        "jp": "名刺の飾り紋。\\n素晴らしい！",
+        "kr": "명함 스킨.\\n신난다!",
+        "pt": "Estilo de Cartão de Visita.\\nExcelente!",
+        "ru": "Именная карта.\\nКак же хорошо!",
+        "th": "ลายนามบัตร\\nสุดยอดเลย!",
+        "vi": "Hoa văn danh thiếp.\\nTốt quá!"
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

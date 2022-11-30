@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thunder Sakura Crab",
+        "de": "Donner-Sakura-Krebs",
+        "chs": "生活在雷樱树旁的螃蟹",
+        "cht": "生活在雷櫻樹旁的螃蟹",
+        "es": "Cangrejo del Cerezo del Trueno",
+        "fr": "Crabe de cerisier tonnerre",
+        "id": "Kepiting Thunder Sakura",
+        "jp": "雷櫻の隣に生息するカニ",
+        "kr": "번개의 벚나무 근처에서 서식하는 꽃게",
+        "pt": "Caranguejo da Sakura do Trovão",
+        "ru": "Краб Громовой сакуры",
+        "th": "Thunder Sakura Crab",
+        "vi": "Cua Lôi Anh Đào"
+    },
+    "id": 101518,
+    "materialDesc": {
+        "en": "A crab that lives beside the Thunder Sakura. One wonders if it has any unique properties...",
+        "de": "Ein Krebs, der in der Nähe der Donner-Sakura lebt. Es ist schwer zu sagen, ob an dem Krebs noch etwas anderes besonders ist.",
+        "chs": "生活在雷樱树旁的螃蟹。不知道到底有什么特殊之处…",
+        "cht": "生活在雷櫻樹旁的螃蟹。不知道到底有什麼特殊之處…",
+        "es": "Cangrejo que habita en el Cerezo del Trueno. ¿Qué propiedades especiales tendrá?",
+        "fr": "Un crabe qui vit près des cerisiers tonnerres. On peut se demander s'il a des propriétés particulières...",
+        "id": "Seekor kepiting yang hidup di samping pohon Thunder Sakura. Entah ada keunikan apa di kepiting ini...",
+        "jp": "雷櫻の周辺に生息するカニ。どこが特別なのかは不明だ…",
+        "kr": "번개의 벚나무 근처에서 서식하는 꽃게, 대체 어떤 특별한 점이 있을까…",
+        "pt": "Um caranguejo que vive ao redor da Sakura do Trovão. Será que possui alguma propriedade única...",
+        "ru": "Краб, который живёт у Громовой сакуры. Нельзя не задуматься, есть ли у него особенные свойства...",
+        "th": "ปูที่อาศัยอยู่ข้างต้น Thunder Sakura ซึ่งไม่รู้ว่ามีความพิเศษอะไรกันแน่...",
+        "vi": "Con cua sinh sống ở cạnh cây Lôi Anh Đào, không biết có điểm gì đặc biệt..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

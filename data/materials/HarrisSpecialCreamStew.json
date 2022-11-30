@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Harris' Special Cream Stew",
+        "de": "Harrys Spezial-Sahneeintopf",
+        "chs": "哈里斯特制白汁时蔬烩肉",
+        "cht": "哈里斯特製白醬時蔬燴肉",
+        "es": "Guisado de temporada especial de Harris",
+        "fr": "Ragoût à la crème spécial de Harris",
+        "id": "Cream Stew Spesial Harris",
+        "jp": "ハリス特製ホワイトソースポトフ",
+        "kr": "해리스 특제 크림 스튜",
+        "pt": "Ensopado de Creme Especial do Harris",
+        "ru": "Особое сливочное рагу Харриса",
+        "th": "Cream Stew สูตรพิเศษของ Harris",
+        "vi": "Rau Củ Hầm Kem của Harris đặc chế"
+    },
+    "id": 100710,
+    "materialDesc": {
+        "en": "A dish of delicate texture stewed in fresh cream. So warm and comforting that it makes one feel at home.",
+        "de": "Mit frischer Sahne gekocht, sodass ein sanftes Gefühl auf der Zunge entsteht. Die cremige Wärme erinnert an die gute Küche aus Kindheitstagen.",
+        "chs": "新鲜奶油炖煮，口感松软，丝丝热气带来家一般的温暖。",
+        "cht": "新鮮奶油燉煮，口感鬆軟，絲絲熱氣帶來家一般的溫暖。",
+        "es": "Un guiso hecho con crema batida fresca. La carne se deshace en la boca.",
+        "fr": "Un plat à la texture délicate mijoté dans de la crème fraîche. Si chaleureux et réconfortant qu'une bouchée donne l'impression d'être chez soi.",
+        "id": "Dimasak dengan krim segar membuat teksturnya menjadi lembut, seakan membawa kehangatan di sebuah rumah.",
+        "jp": "新鮮なクリームで煮込んだ。食感は柔らかく、家にいるような温かさを感じる。",
+        "kr": "신선한 크림 스튜. 부드러운 식감과 따끈따끈한 열기에서 집 같은 온기가 느껴진다",
+        "pt": "Um prato de textura delicada cozido em creme fresco. Seu calor é confortante e leva uma pessoa a se sentir de volta em casa.",
+        "ru": "Нежное блюдо из мяса и овощей, тушёное в свежих сливках. Его тепло заставляет чувствовать себя как дома.",
+        "th": "สตูที่ปรุงด้วยครีมสดให้รสสัมผัสนุ่มลิ้น ความอุ่นของครีมทำให้รู้สึกได้ถึงความอบอุ่นเหมือนอยู่บ้าน",
+        "vi": "Được hầm với kem tươi, hương vị mềm mại, ấm áp mang đến sự ấm cúng như ở nhà."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Bamboo Shoot Soup",
+        "de": "Rezept: Bambussuppe mit Fleischeinlage",
+        "chs": "食谱：腌笃鲜",
+        "cht": "食譜：醃篤鮮",
+        "es": "Receta: Sopa de brotes de bambú",
+        "fr": "Recette : Soupe de porc aux pousses de bambou",
+        "id": "Resep: Bamboo Shoot Soup",
+        "jp": "レシピ：腌篤鮮",
+        "kr": "레시피: 죽순 수프",
+        "pt": "Receita: Sopa de Bambu",
+        "ru": "Рецепт: Свиной суп с бамбуком",
+        "th": "สูตรอาหาร: Salted Pork Soup",
+        "vi": "Công Thức: Măng Chua Tươi"
+    },
+    "id": 109425,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making Bamboo Shoot Soup.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Bambussuppe mit Fleischeinlage“.",
+        "chs": "步骤详实的食谱，记载着「腌笃鲜」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「醃篤鮮」的製作方法。",
+        "es": "Receta paso a paso para hacer una sopa de brotes de bambú.",
+        "fr": "Étapes de préparation de la soupe de porc aux pousses de bambou.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Bamboo Shoot Soup.",
+        "jp": "「腌篤鮮」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「죽순 수프」의 조리 방법이 적혀있다",
+        "pt": "Uma receita passo a passo detalhada para fazer Sopa de Bambu.",
+        "ru": "Подробный рецепт приготовления блюда «Свиной суп с бамбуком».",
+        "th": "สูตรอธิบายวิธีทำ \"Salted Pork Soup\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Măng Chua Tươi\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

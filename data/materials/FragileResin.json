@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fragile Resin",
+        "de": "Zerbrechliches Harz",
+        "chs": "脆弱树脂",
+        "cht": "脆弱樹脂",
+        "es": "Resina débil",
+        "fr": "Résine fragile",
+        "id": "Fragile Resin",
+        "jp": "脆弱樹脂",
+        "kr": "약한 레진",
+        "pt": "Resina Frágil",
+        "ru": "Слабая смола",
+        "th": "Fragile Resin",
+        "vi": "Nhựa Dễ Vỡ"
+    },
+    "id": 107009,
+    "materialDesc": {
+        "en": "An item used to restore Original Resin by 60 points.\\nThis crystalline substance pulsates with a little energy that can be absorbed by Original Resin.\\nThe flow of energies of all sorts is the source of many wonders and challenges in this world. Those same energies are also contained within this crystal.",
+        "de": "Ein Objekt zum Auffüllen von ursprünglichem Harz. Ein Stück stellt 60 Punkte wieder her.\\nEs ist ein kristalliner Körper, der eine geringe Menge Energie enthält, die vom ursprünglichen Harz aufgenommen werden kann.\\nDie Strömung vieler verschiedener Arten von Energien machen die Schönheit und die Herausforderungen dieser Welt aus. Auch in diesem kleinen Kristall fließen diese Energien.",
+        "chs": "可以补充原粹树脂的道具，一个能补充60点。\\n蕴含着少许能量的晶体，可以被原粹树脂吸收。\\n种种能量的流动构成了这个世界的诸多美好与挑战。这枚晶体中也蕴含着这些能量。",
+        "cht": "可以補充原粹樹脂的道具，一個能補充60點。\\n蘊含著少許能量的晶體，可以被原粹樹脂吸收。\\n種種能量的流動構成了這個世界的諸多美好與挑戰。這枚晶體中也蘊含著這些能量。",
+        "es": "Un objeto utilizado para cargar 60 puntos de Resina original.\\nUna sustancia cristalina que contiene un poco de energía que puede ser absorbida por la Resina original.\\nEl flujo de todo tipo de energías es la causa de muchas maravillas y también muchos desafíos en este mundo. Son esas mismas energías las que se mantienen dentro de este cristal.",
+        "fr": "Un objet qui peut être utilisé pour régénérer 60 Résines originelles.\\nOn peut sentir la douce énergie qui circule à l'intérieur de ce cristal.\\nIl contient les flux de toutes sortes d'énergies à l'origine de nombreuses merveilles et atrocités de ce monde.",
+        "id": "Barang yang digunakan untuk memulihkan 60 Original Resin.\\nKristal ini mempunyai sedikit energi yang bisa diserap oleh Original Resin.\\nBerbagai keajaiban tantangan di dunia ini berasal dari beragam energi yang mengalir tanpa henti. Energi dunia tersebut juga terkandung di dalam kristal ini.",
+        "jp": "天然樹脂の補充に使えるアイテム、1個につき60を補充できる。\\n少量のエネルギーが含まれている結晶、天然樹脂に吸収されることができる。\\n様々なエネルギーの流れはこの世界の美しさと挑戦を構築した。この結晶の中にもそういうエネルギーが含まれている。",
+        "kr": "퓨어 레진을 보충할 수 있는 아이템. 개당 60pt 보충 가능하다.\\n소량의 에너지가 담긴 결정체. 퓨어 레진에 흡수될 수 있다.\\n여러 에너지의 흐름이 이 세계의 많은 아름다움과 도전을 만들어냈다. 이 결정체에도 이런 에너지가 담겨있다",
+        "pt": "Um item usado para restaurar a Resina Original em 60 pontos.\\nEsta substância cristalina pulsa com um pouco de energia que pode ser absorvida pela Resina Original.\\nO fluxo de energias de todos os tipos é a fonte de muitas maravilhas e desafios neste mundo. Essas mesmas energias também estão contidas neste cristal.",
+        "ru": "Предмет, используемый для заряда Первородной смолы на 60 ед.\\nЭто кристаллическое вещество имеет небольшое количество энергии, способной зарядить Первородную смолу.\\nПоток всевозможных энергий является источником многих чудес и испытаний этого мира. Те же самые энергии содержатся и в этом кристалле.",
+        "th": "ไอเทมที่สามารถใช้เพื่อชาร์จ Original Resin โดยหนึ่งอันสามารถชาร์จได้ 60 แต้ม\\nคริสตัลที่มีพลังงานเบาบางอยู่ภายในและสามารถถูกดูดซับโดย Original Resin ได้\\nการไหลเวียนของพลังงานต่าง ๆ ก่อให้เกิดสิ่งที่สวยงามและความ ท้าทายมากมายในโลกนี้ ภายในคริสตัลนี้เองก็มีพลังงานเหล่านี้อยู่เหมือนกัน",
+        "vi": "Đạo cụ có thể bổ sung Nhựa Nguyên Chất, mỗi cái bổ sung 60 điểm.\\nTinh thể chứa một chút sức mạnh, có thể bị hấp thu bởi Nhựa Nguyên Chất.\\nSự lưu động của các năng lượng đã tạo nên nhiều kỳ quan và thử thách trên thế giới này. Trong tinh thể này cũng chứa những sức mạnh ấy."
+    },
+    "materialType": "MATERIAL_CONSUME_BATCH_USE"
+}

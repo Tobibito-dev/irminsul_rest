@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Qiqi's Stella Fortuna",
+        "de": "Stella Fortuna von Qiqi",
+        "chs": "七七的命星",
+        "cht": "七七的命星",
+        "es": "Stella Fortuna de Qiqi",
+        "fr": "Stella Fortuna de Qiqi",
+        "id": "Qiqi's Stella Fortuna",
+        "jp": "七七の星屑",
+        "kr": "치치의 운명의 별",
+        "pt": "Stella Fortuna de Qiqi",
+        "ru": "Удача Ци Ци",
+        "th": "ดวงดาวแห่งชีวิตของ Qiqi",
+        "vi": "Chòm Sao Của Qiqi"
+    },
+    "id": 1135,
+    "materialDesc": {
+        "en": "Qiqi's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Qiqis Sternbild",
+        "chs": "七七的命之座激活素材",
+        "cht": "七七的命之座啟用素材。",
+        "es": "Material de activación de constelación de Qiqi",
+        "fr": "Matériau d'activation de la constellation de Qiqi.",
+        "id": "Material aktivasi untuk konstelasi Qiqi",
+        "jp": "七七の命ノ星座アンロック用素材",
+        "kr": "치치의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação de Constelação de Qiqi",
+        "ru": "Материал для активации созвездия Ци Ци.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Qiqi",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Qiqi"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

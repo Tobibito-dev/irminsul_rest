@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Moonlit Bamboo Forest (III)",
+        "de": "Bambuswald im Mondenschein III",
+        "chs": "竹林月夜·三",
+        "cht": "竹林月夜·三",
+        "es": "El bosque de bambú a la luz de la luna (III)",
+        "fr": "Forêt de bambou au clair de lune - Partie III",
+        "id": "Rembulan Hutan Bambu (III)",
+        "jp": "竹林月夜·3",
+        "kr": "죽림월야·Ⅲ",
+        "pt": "Floresta de Bambu Enluarada (III)",
+        "ru": "Ночь в бамбуковом лесу III",
+        "th": "ป่าไผ่ใต้แสงจันทร์ยามค่ำคืน-3",
+        "vi": "Đêm Trăng Rừng Trúc III"
+    },
+    "id": 100575,
+    "materialDesc": {
+        "en": "Deep in the bamboo forest, reality has coincided with a story from the distant past. But the crossover ends as the bright moon reaches its peak in the night sky, and small-town boy disappears into an indescribable dream.",
+        "de": "Als der Mond seinen höchsten Stand erreicht, treffen ein alter Traum und die Wirklichkeit aufeinander. Der Junge fällt in einen tiefen Schlaf, der ihn in einen unbeschreiblichen Traum führt.",
+        "chs": "皓月高悬的竹林之夜，是旧日之梦与现实交汇的终点。少年在古老的故事中沉入了难以言喻的睡梦。",
+        "cht": "皓月高懸的竹林之夜，是舊日之夢與現實交匯的終點。少年在古老的故事中沉入了難以言喻的睡夢。",
+        "es": "En lo más profundo del bosque de bambú, la realidad se mezcla con los sueños del pasado. En esta historia, el joven se sume en un sueño con imágenes indescriptibles.",
+        "fr": "Lorsque la lune atteint son plus haut point, des rêves naufragés du passé se heurtent à la réalité. Le garçon tombe dans un sommeil profond qui le conduit dans un rêve particulier.",
+        "id": "Di kedalaman hutan bambu, masa kini telah menyatu dengan kisah dari masa lampau. Tetapi persilangan berakhir saat bulan yang bersinar terang itu mencapai titik tertingginya di langit, anak muda itu pun hanyut ke dalam mimpi yang tak dapat dilukiskan kata-kata.",
+        "jp": "月明かりの夜、竹林は過去の夢と現実が交錯した終点。少年は昔の物語の元で言葉では説明できない眠りについた。",
+        "kr": "밝은 달이 중천에 떠 있는 대나무 숲은 오래전 꿈과 현실이 만나는 종착점이다. 소년은 오래된 이야기 속에서 말로 표현하기 어려운 꿈에 빠지게 된다",
+        "pt": "Num bosque de bambu com a lua brilhante no céu, é uma boa altura de se cruzar os sonhos antigos e a realidade. O garoto adormeceu com as histórias antigas e sonhos descritíveis.",
+        "ru": "Под полной луной в глубине бамбуковой рощи реальность слилась с грёзами давно ушедших дней. Юноша уснул, и ему приснился невероятный сон.",
+        "th": "ป่าไผ่ในยามค่ำคืนมีดวงจันทร์ส่องแสงสว่างไสว ซึ่งเป็นการบรรจบกันของโลกแห่งความฝันในอดีตและความจริง ชายหนุ่มเข้าสู่ความฝันเกี่ยวกับเรื่องราวในอดีตที่ยากจะบรรยาย",
+        "vi": "Đêm khuya nơi rừng trúc, trăng treo trên cao sáng vằng vặc, là nơi giao nhau giữa giấc mộng ngày cũ và hiện thực. Thiếu niên chìm vào mộng mị với những câu chuyện xưa cũ khó nói thành lời."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

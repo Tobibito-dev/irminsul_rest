@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Instructions: Portable Waypoint",
+        "de": "Erläuterung: Tragbarer Teleportationspunkt",
+        "chs": "说明：口袋锚点",
+        "cht": "說明：口袋錨點",
+        "es": "Instrucciones: Teletransportador portátil",
+        "fr": "Instructions : Téléporteur de poche",
+        "id": "Panduan: Portable Waypoint",
+        "jp": "説明：ポケットワープポイント",
+        "kr": "설명서: 포켓 워프 포인트",
+        "pt": "Instruções: Teleporte Portátil",
+        "ru": "Инструкции: Карманный телепорт",
+        "th": "คู่มือ: Portable Waypoint",
+        "vi": "Giải Thích: Điểm Dịch Chuyển Bỏ Túi"
+    },
+    "id": 221005,
+    "materialDesc": {
+        "en": "Detailed step-by-step instructions for making a Portable Waypoint. With a Portable Waypoint, you can create a teleport waypoint wherever in the world you want.",
+        "de": "Anleitung mit detaillierten Schritten zur Herstellung von „tragbarer Teleportationspunkt“. Mit diesem praktischen Gerät im Gepäck kannst du deinen ganz persönlichen Teleportationspunkt auf der Karte einrichten.",
+        "chs": "步骤详实的说明，记载着「口袋锚点」的制作方法。利用口袋锚点，可以在世界各地设置自己的传送锚点。",
+        "cht": "步驟詳實的說明，記載著「口袋錨點」的製作方法。利用口袋錨點，可以在世界各地設置自己的傳送錨點。",
+        "es": "Instrucciones detalladas para fabricar un Teletransportador portátil. Puede utilizarse para establecer un nuevo Punto de teletransporte en cualquier parte del mundo.",
+        "fr": "Instructions détaillées pour la fabrication d'un Téléporteur de poche. Le Téléporteur de poche vous permet de créer un point de téléportation n'importe où dans le monde.",
+        "id": "Penjelasan terperinci tentang proses pembuatan \"Portable Waypoint\". Dengan Portable Waypoint, kamu bisa mengatur teleport waypoint-mu sendiri di seluruh dunia.",
+        "jp": "「ポケットワープポイント」の詳しい作り方が載っている説明書。ポケットワープポイントを利用して、世界各地に自分だけのワープポイントを設置することができる。",
+        "kr": "제작 과정이 자세히 적혀 있는 설명서로 「포켓 워프 포인트」의 제작 방법이 적혀있다. 포켓 워프 포인트를 사용해 월드 곳곳에 자신만의 워프 포인트를 설치할 수 있다",
+        "pt": "Instruções detalhadas de como fazer um Teleporte Portátil. É possível usa-lo no mundo como seu próprio Ponto de Teleporte.",
+        "ru": "Подробные инструкции по изготовлению предмета «Карманный телепорт». Используйте его, чтобы установить свою точку телепортации в любом месте мира.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง Portable Waypoint โดยละเอียด เมื่อใช้ Portable Waypoint คุณสามารถสร้างจุดเทเลพอร์ตที่ไหนก็ได้ตามที่คุณต้องการ",
+        "vi": "Bản vẽ mô tả chi tiết các bước làm \"Điểm Dịch Chuyển Bỏ Túi\". Có thể dùng để tự thiết lập điểm dịch chuyển tùy ý."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

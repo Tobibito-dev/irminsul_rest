@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Jade Mystery's Affidavit",
+        "de": "Authentizitäts-Beweis vom „Jademysterium“",
+        "chs": "「解翠行」的证明文书",
+        "cht": "「解翠行」的證明文書",
+        "es": "Declaración jurada de El Misterio del Jade",
+        "fr": "Certificat du Mystère des jades",
+        "id": "Keterangan Tertulis dari Jade Mystery",
+        "jp": "「解翠行」の証明書",
+        "kr": "「해취항」의 증빙 서류",
+        "pt": "Declaração Juramentada do Mistério do Jade",
+        "ru": "Сертификат из «Загадки нефрита»",
+        "th": "เอกสารรับรองจาก Jade Mystery",
+        "vi": "Giấy Chứng Nhận Từ \"Giải Thuý Hàng\""
+    },
+    "id": 100837,
+    "materialDesc": {
+        "en": "A written affidavit from The Jade Mystery.",
+        "de": "Vom „Jademysterium“ ausgestellter Authentizitätsbeweis.",
+        "chs": "从「解翠行」处得到的证明文书。",
+        "cht": "從「解翠行」處得到的證明文書。",
+        "es": "Una declaración obtenida de El Misterio del Jade.",
+        "fr": "Un certificat écrit provenant du Mystère des jades.",
+        "id": "Sebuah pernyataan tertulis dari Jade Mystery.",
+        "jp": "「解翠行」から入手した証明書。",
+        "kr": "「해취항」에서 획득한 증빙 서류",
+        "pt": "Uma Declaração Juramentada obtida do Mistério do Jade",
+        "ru": "Официальный сертификат, полученный из «Загадки нефрита».",
+        "th": "เอกสารรับรองที่ได้จาก Jade Mystery",
+        "vi": "Tài liệu chứng minh nhận được từ chỗ \"Giải Thúy Hàng\""
+    },
+    "materialType": "MATERIAL_QUEST"
+}

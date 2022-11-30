@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dried Fish",
+        "de": "Trockenfisch",
+        "chs": "鱼干",
+        "cht": "魚乾",
+        "es": "Pescado seco",
+        "fr": "Poisson séché",
+        "id": "Dried Fish",
+        "jp": "魚の干物",
+        "kr": "어포",
+        "pt": "Peixe Desidratado",
+        "ru": "Сушёная рыба",
+        "th": "Dried Fish",
+        "vi": "Cá Khô"
+    },
+    "id": 110013,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

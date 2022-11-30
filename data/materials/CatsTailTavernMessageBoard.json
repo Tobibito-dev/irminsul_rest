@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Cat's Tail Tavern Message Board",
+        "de": "Pinnwand der Taverne Zum Katzenschwanz",
+        "chs": "猫尾酒馆留言板",
+        "cht": "貓尾酒館留言板",
+        "es": "Tablón de anuncios de la taberna Cola de Gato",
+        "fr": "Forum de La Queue de Chat",
+        "id": "Papan Pesan Cat's Tail",
+        "jp": "キャッツテールの掲示板",
+        "kr": "캣테일 술집 메모판",
+        "pt": "Quadro de Mensagens da Taverna \"A Cauda do Gato\"",
+        "ru": "Доска объявлений",
+        "th": "กระดานข้อความของร้านเหล้า Cat's Tail",
+        "vi": "Bảng Nhắn Tin Quán Rượu Đuôi Mèo"
+    },
+    "id": 100187,
+    "materialDesc": {
+        "en": "Cat's Tail Tavern Message Board",
+        "de": "Pinnwand der Taverne Zum Katzenschwanz",
+        "chs": "猫尾酒馆留言板",
+        "cht": "貓尾酒館留言板。",
+        "es": "Tablón de anuncios de la taberna Cola de Gato",
+        "fr": "Forum de La Queue de Chat",
+        "id": "Papan Pesan Cat's Tail",
+        "jp": "キャッツテールの掲示板",
+        "kr": "캣테일 술집 메모판",
+        "pt": "Quadro de Mensagens da Taverna \"A Cauda do Gato\"",
+        "ru": "Доска объявлений",
+        "th": "กระดานข้อความของร้านเหล้า Cat's Tail",
+        "vi": "Bảng Nhắn Tin Quán Rượu Đuôi Mèo"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

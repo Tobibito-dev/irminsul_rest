@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Package of Fresh Flowers",
+        "de": "Paket voller Blumen",
+        "chs": "装有鲜花的包裹",
+        "cht": "裝有鮮花的包裹",
+        "es": "Paquete con flores frescas",
+        "fr": "Colis de fleurs fraîches",
+        "id": "Sebuket Bunga Segar",
+        "jp": "新鮮な生花が入った荷物",
+        "kr": "싱싱한 꽃이 들어있는 소포",
+        "pt": "Pacote com Flores Frescas",
+        "ru": "Упаковка свежих цветов",
+        "th": "กล่องดอกไม้สด",
+        "vi": "Chiếc túi có chứa hoa tươi"
+    },
+    "id": 100702,
+    "materialDesc": {
+        "en": "The package contains some flowers trimmed by Flora herself. One can almost smell their fragrance through the packaging.",
+        "de": "Ein Paket voll von frischen Blumen, die von Flora selbst geschnitten wurden. Man kann den lieblichen Duft des Pakets riechen, auch wenn man noch meterweit davon entfernt ist.",
+        "chs": "包裹内装有芙萝拉小姐亲手剪下的几枝鲜花，仿佛隔着盒子也能闻到花朵的芳馨。",
+        "cht": "包裹內裝有芙蘿拉小姐親手剪下的幾枝鮮花，彷彿隔著盒子也能聞到花朵的芳馨。",
+        "es": "Un paquete con flores cortadas por la misma Flora. Se puede oler su fragancia aun estando a cierta distancia de él.",
+        "fr": "Ce colis contient des fleurs coupées par Flora. On peut sentir leur doux parfum.",
+        "id": "Paket yang berisi bunga-bunga segar yang dipotong oleh Flora sendiri. Seseorang bahkan bisa mencium wangi bunga-bunga di dalam kotak tersebut dari luar.",
+        "jp": "荷物の中にはフローラが剪定した新鮮な花が入っている。箱ごしでも花の香りが伝わって来るようだ。",
+        "kr": "플로라가 직접 다듬은 꽃이 들어있는 소포. 상자 안에서 꽃향기가 새어 나오는 것만 같다",
+        "pt": "O pacote contém algumas flores cortadas por Flora. É possível sentir a fragrância delas mesmo a uma certa distância da caixa.",
+        "ru": "В эту коробку упакованы срезанные мисс Флорой свежие цветы. Вы будто можете почувствовать их аромат сквозь упаковку.",
+        "th": "ในกล่องมีดอกไม้ที่ Flora ตัดเองกับมือ ถึงแม้จะอยู่ในกล่อง แต่ดอกไม้ก็ยังคงส่งกลิ่นหอมออกมา",
+        "vi": "Chiếc túi đựng mấy nhành hoa tươi mà Flora tự tay cắt, tuy cách một chiếc hộp nhưng dường như vẫn ngửi thấy được hương thơm nồng nàn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

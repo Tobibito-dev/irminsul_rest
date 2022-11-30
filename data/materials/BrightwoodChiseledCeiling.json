@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Brightwood Chiseled Ceiling",
+        "de": "Gravierte Decke aus Hellholz",
+        "chs": "辉木刻斲天花板",
+        "cht": "輝木刻斲天花板",
+        "es": "Techo tallado de madera radiante",
+        "fr": "Plafond ciselé en bois radiant",
+        "id": "Langit-Langit Ukiran Brightwood",
+        "jp": "輝光の彫刻天井",
+        "kr": "빛나는 나무 원목 장식 천장",
+        "pt": "Teto de Madeira Radiante Entalhada",
+        "ru": "Резной потолок из сияющей древесины",
+        "th": "เพดานไม้ Brightwood แกะสลัก",
+        "vi": "Trần Nhà Điêu Khắc Gỗ Sáng"
+    },
+    "id": 380304,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making a Brightwood Chiseled Ceiling.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Gravierte Decke aus Hellholz“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「辉木刻斲天花板」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「輝木刻斲天花板」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar un Techo tallado de madera radiante.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication du plafond ciselé en bois radiant.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Langit-Langit Ukiran Brightwood.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「輝光の彫刻天井」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면. 「빛나는 나무 원목 장식 천장」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar Teto de Madeira Radiante Entalhada.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема изготовления предмета декора «Резной потолок из сияющей древесины».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"เพดานไม้ Brightwood แกะสลัก\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Trần Nhà Điêu Khắc Gỗ Sáng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

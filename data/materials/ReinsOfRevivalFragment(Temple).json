@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Reins of Revival Fragment (Temple)",
+        "de": "Fragment der Zügel der Auferstehung vor dem Tempel",
+        "chs": "庙前的苏生之辔碎片",
+        "cht": "廟前的蘇生之轡碎片",
+        "es": "Fragmento de Riendas del resurgimiento del Templo de la Noche Infinita",
+        "fr": "Fragment des rênes du renouveau (Temple)",
+        "id": "Pecahan Kendali Kebangkitan (Temple)",
+        "jp": "廟前の「蘇生手綱」の破片",
+        "kr": "사당 앞의 소생의 고삐 조각",
+        "pt": "Fragmento da Rédea da Ressurreição do Templo",
+        "ru": "Фрагмент Поводьев воскрешения (Храм)",
+        "th": "ชิ้นส่วน Reins of Revival จาก Evernight Temple",
+        "vi": "Mảnh Dây Cương Hồi Sinh Trước Đền"
+    },
+    "id": 100923,
+    "materialDesc": {
+        "en": "A fragment of the Reins of Revival. It has some special power.",
+        "de": "Ein Fragment der Zügel der Auferstehung. Es hat eine besondere Kraft.",
+        "chs": "苏生之辔的碎片，拥有特殊的力量。",
+        "cht": "蘇生之轡的碎片，擁有特殊的力量。",
+        "es": "Un fragmento de las Riendas del resurgimiento que posee un extraño poder.",
+        "fr": "Un fragment des rênes du renouveau. Il a un pouvoir spécial.",
+        "id": "Pecahan dari Kendali Kebangkitan. Mempunyai kekuatan khusus.",
+        "jp": "蘇生手綱の破片、特殊な力が秘められている。",
+        "kr": "소생의 고삐 조각. 특별한 힘이 있다",
+        "pt": "Um fragmento da Rédea da Ressurreição. Possui um poder especial.",
+        "ru": "Фрагмент Поводьев воскрешения. Наделён особой силой.",
+        "th": "ชิ้นส่วน Reins of Revival ที่มีพลังพิเศษ",
+        "vi": "Mảnh vỡ của Dây Cương Hồi Sinh, có sức mạnh đặc biệt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

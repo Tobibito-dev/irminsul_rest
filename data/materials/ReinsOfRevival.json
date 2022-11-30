@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Reins of Revival",
+        "de": "Zügel der Auferstehung",
+        "chs": "苏生之辔",
+        "cht": "蘇生之轡",
+        "es": "Riendas del resurgimiento",
+        "fr": "Rênes du renouveau",
+        "id": "Kendali Kebangkitan",
+        "jp": "蘇生手綱",
+        "kr": "소생의 고삐",
+        "pt": "Rédea da Ressurreição",
+        "ru": "Поводья воскрешения",
+        "th": "Reins of Revival",
+        "vi": "Dây Cương Hồi Sinh"
+    },
+    "id": 100925,
+    "materialDesc": {
+        "en": "The hereditary national treasure of Byakuyakoku. Apart from representing the highest authority in the land, it also confers the ability to control souls and this realm.",
+        "de": "Der vererbte Nationalschatz von Byakuyakoku. Er repräsentiert nicht nur die höchste Autorität im Land, sondern verleiht auch die Fähigkeit, Seelen und dieses Reich zu kontrollieren.",
+        "chs": "白夜国的传国之宝。除去执掌日夜之大权外，还能赐予持有者支配幽冥与现世的权力。",
+        "cht": "白夜國的傳國之寶。除去執掌日夜之大權外，還能賜予持有者支配幽冥與現世的權力。",
+        "es": "Un tesoro heredado del reino de Byakuya. Además del poder de dominar la noche blanca, también otorga a quien lo porte el poder de controlar las almas y este mundo.",
+        "fr": "Le trésor héréditaire de Byakuyakoku. En plus de représenter la plus haute autorité du pays, il confère également la capacité de contrôler les âmes et ce royaume.",
+        "id": "Harta warisan berharga Byakuyakoku. Selain karena mewakili otoritas tertinggi, juga dianugerahi kekuatan untuk mengendalikan jiwa di alam ini.",
+        "jp": "白夜国の国宝。昼と夜を操る力がある以外にも、所有者に幽冥と現世を支配する権力を賜る。",
+        "kr": "백야국의 국보. 소유자에게 낮과 밤을 관장하는 권력, 그리고 유명(幽冥)의 세계와 현세를 지배하는 권력을 준다",
+        "pt": "Um tesouro herdado do Reino de Byakuya. Além de representar a maior autoridade na terra, também concede a habilidade de controlar as almas deste reino.",
+        "ru": "Драгоценность, наследие Бякуякоку. Олицетворяет высшую власть в стране и наделяет способностью повелевать душами потустороннего мира.",
+        "th": "สมบัติประจำชาติของ Byakuyakoku นอกจากอำนาจในการควบคุมกลางวันและกลางคืนแล้ว ยังทำให้ผู้ครอบครองมีอำนาจในการควบคุมโลกเบื้องล่างและโลกปัจจุบันด้วย",
+        "vi": "Báu vật truyền thế của Vương Quốc Đêm Trắng, ngoài năng lực khống chế ngày đêm ra, sẽ còn cung cấp cho chủ sở hữu năng lực chi phối địa ngục và trần thế."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

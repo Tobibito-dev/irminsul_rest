@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Fish",
+        "de": "Frischer Fisch",
+        "chs": "新鲜的鱼肉",
+        "cht": "新鮮的魚肉",
+        "es": "Pescado fresco",
+        "fr": "Poisson frais",
+        "id": "Fish Segar Khas Thoma",
+        "jp": "新鮮な魚肉",
+        "kr": "신선한 생선 살코기",
+        "pt": "Peixe Fresco",
+        "ru": "Свежая рыба",
+        "th": "เนื้อปลาสด ๆ",
+        "vi": "Thịt Cá Tươi Ngon"
+    },
+    "id": 101603,
+    "materialDesc": {
+        "en": "Food that Thoma has prepared for the stray cats and dogs. A slightly fishy smell wafts off it.",
+        "de": "Das Essen, das Thoma für die streunenden Katzen vorbereitet hat.",
+        "chs": "托马为流浪猫猫准备的食物，闻起来有淡淡的鱼腥味。",
+        "cht": "托馬為流浪貓貓準備的食物，聞起來有淡淡的魚腥味。",
+        "es": "Una comida preparada por Thoma para los gatos callejeros. Tiene un ligero olor a pescado.",
+        "fr": "De la nourriture que Thomas a préparée pour les chiens et chats qui dégage une odeur de poisson.",
+        "id": "Makanan yang disiapkan Thoma untuk kucing dan anjing terlantar. Ada sedikit bau amis tercium dari ikan ini.",
+        "jp": "トーマが野良猫のために用意した食べ物。少し魚の匂いがする。",
+        "kr": "토마가 유기묘를 위해 준비한 음식. 옅은 생선 비린내가 난다",
+        "pt": "Comida que Thoma preparou para os gatos e cachorros de rua. Tem um cheiro sutil de peixe.",
+        "ru": "Еда, которую Тома приготовил для бездомных кошек. От неё исходит лёгкий аромат рыбы.",
+        "th": "อาหารที่ Thoma เตรียมมาให้แมวจรจัด มีกลิ่นคาวของปลาออกมาจาง ๆ",
+        "vi": "Thức ăn Thoma chuẩn bị cho những chú mèo hoang, nghe thoang thoảng mùi tanh của cá."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

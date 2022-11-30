@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Almighty Arataki Great and Glorious Drumalong Festival!",
+        "de": "Das große und spektakuläre Trommelfest von Arataki!",
+        "chs": "荒泷盛世豪鼓大祭典！",
+        "cht": "荒瀧盛世豪鼓大祭典！",
+        "es": "¡El Sublime y Glorioso Gran Festival de Tambores de Arataki!",
+        "fr": "Festival des tambours harmonieux du sublime Arataki !",
+        "id": "Festival Drum Arataki yang Paling Hebat dan Keren",
+        "jp": "荒瀧盛世豪鼓大祭典！",
+        "kr": "아라타키 천하제일 초호화 북 축제!",
+        "pt": "O Glorioso Festival de Tambores do Muito Respeitado Arataki",
+        "ru": "Грандиозный барабанный фестиваль великолепного Аратаки!",
+        "th": "มหกรรมเทศกาลตีกลองโห่ร้องแห่ง Arataki",
+        "vi": "Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất!"
+    },
+    "id": 101716,
+    "materialDesc": {
+        "en": "This is a most lavish invitation letter, whether in its construction or its content. The letter describes a large-scale, deep-rooted, nationally-acclaimed event in which you shall be a most important guest, the radiant star of the show.",
+        "de": "Dies ist ein äußerst aufwendig gestaltetes Einladungsschreiben, sowohl was den Aufbau als auch was den Inhalt betrifft. In dem Schreiben wird eine groß angelegte, tiefgreifende, landesweit beachtete Veranstaltung beschrieben, bei der du ein sehr wichtiger Gast sein wirst, oder, ganz wie Itto das sagen würde, der strahlendste Stern des Fests.",
+        "chs": "从款式到内容都很浮夸的邀请函，函中描绘了一场规模庞大、意义深远、堪称举国盛会般的大型活动，而你将作为尊贵的客人，成为盛会中最灿烂醒目的那颗明星。",
+        "cht": "#從款式到內容都很浮誇的邀請函，函中描繪了一場規模龐大、意義深遠、堪稱舉國盛會般的大型活動，而{F#妳}{M#你}將作為尊貴的客人，成為盛會中最燦爛醒目的那顆明星。",
+        "es": "#Una carta de invitación de lo más pomposa, tanto en diseño como en contenido. En ella se habla de un gran evento a escala nacional que resultará de lo más grandioso. Como {F#invitada}{M#invitado} de honor, tú serás la gran estrella del evento.",
+        "fr": "#Une lettre d'invitation dont la forme et le sujet sont des plus somptueux. Elle mentionne un événement de grande envergure à la symbolique profonde et à la renommée nationale auquel vous êtes {M#convié}{F#conviée} en tant qu'{M#invité}{F#invitée} d'honneur et star du spectacle.",
+        "id": "Surat undangan yang sangat mewah sekali dari segi tampilan dan isinya. Surat ini menggambarkan sebuah acara yang megah, bermakna dalam, serta berskala besar sekelas nasional. Sebagai tamu terhormat, kamu akan menjadi bintang tamu yang paling penting dan menarik perhatian.",
+        "jp": "作りも中身も非常に派手な招待状。大規模で意義深い、国を挙げた一大イベントとされている。賓客として招かれたあなたは、イベントで最も輝く星になるらしい。",
+        "kr": "양식부터 내용까지 전부 과장된 초대장. 초대장은 이 축제를 거대한 규모와 깊은 의미를 지닌 거국적 대형 이벤트라고 설명하고 있다. 당신은 존귀한 손님으로서 성대한 이번 축제의 가장 빛나는 주인공이 될 것이다",
+        "pt": "#Uma carta de convite um tanto extravagante em termos de estilo e conteúdo. Ela descreve um festival significante de grande escala e longo alcance, podendo ser considerado um evento nacional. Como {F#uma convidada}{M#um convidado} de honra, você será uma celebridade ilustre.",
+        "ru": "Судя по стилю и содержанию этого хвастливого письма, в скором времени в Инадзуме будет проводиться масштабнейшее, глубоко значимое, достойнейшее стоять в одном ряду с мировыми праздниками мероприятие. Вы приглашены в качестве почётного гостя, который станет главным украшением вечера.",
+        "th": "เป็นจดหมายเชิญที่เวอร์วังอลังการตั้งแต่ดีไซน์ยันเนื้อหา ในจดหมายเขียนอธิบายถึงกิจกรรมใหญ่ยักษ์ ที่ทรงคุณค่ามหาศาล เรียกได้ว่าเป็นงานใหญ่ระดับประเทศเลยล่ะ ซึ่งคุณก็คือแขกผู้มีเกียรติ ที่จะกลายเป็นดาวเด่นที่เปล่งประกายสุดในงานดวงนั้นไงล่ะ",
+        "vi": "Một bức thư mời hoa mỹ về cả hình thức lẫn nội dung, bức thư mô tả một sự kiện có quy mô lớn, ý nghĩa và có thể gọi là sự kiện quốc gia, là một vị khách quý, bạn sẽ trở thành một ngôi sao sáng lộng lẫy và bắt mắt nhất."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

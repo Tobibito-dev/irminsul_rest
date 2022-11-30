@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "History of Kings and Clans: Prologue",
+        "de": "Geschichte der Königshäuser – Prolog",
+        "chs": "列王与宗室史·序",
+        "cht": "列王與宗室史·序",
+        "es": "Historia de los reyes y los clanes: Prólogo",
+        "fr": "Histoire des rois et des clans - Prologue",
+        "id": "Sejarah Raja-Raja: Prolog",
+        "jp": "王と貴族の歴史·序",
+        "kr": "왕과 왕실사·차례",
+        "pt": "História dos Reis e Clãs - Prólogo",
+        "ru": "История королей и кланов. Пролог",
+        "th": "ตำนานของราชาและราชวงศ์ - อารัมภบท",
+        "vi": "Lịch Sử Vua Chúa và Tông Thất - Lời Tựa"
+    },
+    "id": 100409,
+    "materialDesc": {
+        "en": "A comprehensive history of Mondstadt edited and compiled by the Northland History Society.",
+        "de": "Ein Fachbuch mit mühevoll verfassten Darstellungen der Geschichte Mondstadts, die das Buch so akkurat wie möglich machen sollen. Editiert und herausgegeben wurde es vom Nördlichen Institut für Geschichte.",
+        "chs": "着力于翔实刻画悠久而跌宕起伏的蒙德历史的学术书籍，由北大陆历史学会联合编著。",
+        "cht": "著力於詳實刻畫悠久而跌宕起伏的蒙德歷史的學術書籍，由北大陸歷史學會聯合編著。",
+        "es": "Una obra académica que es un retrato extensivamente detallado y desinhibido de la historia de Mondstadt en coautoría con la Sociedad Histórica del Norte.",
+        "fr": "L'Histoire de Mondstadt dans un ouvrage complet rédigé par la Société des historiens du Nord.",
+        "id": "Sejarah komprehensif Mondstadt yang disunting dan dikompilasi oleh Northland History Society.",
+        "jp": "モンド歴史を記録して学術的書籍、北大陸の歴史学会によって編纂されたもの。",
+        "kr": "유구하고 기복이 많은 몬드의 역사를 사실적으로 묘사하기 위해 힘쓴 학술 서적. 북대륙 역사학회가 공동 편찬했다",
+        "pt": "Uma história abrangente de Mondstadt editada e compilada pela Sociedade de Histórica do Norte.",
+        "ru": "Полная история Мондштадта, собранная и изданная Северным историческим обществом.",
+        "th": "หนังสือวิชาการที่อัดแน่นไปด้วยการพรรณนาถึงประวัติศาสตร์อันยาวนานและอิสรภาพของ Mondstadt โดยมีสถาบันศึกษาจากแดนเหนือร่วมเรียบเรียงด้วย",
+        "vi": "Một cuốn sách học thuật tập trung vào mô tả chân thực và chi tiết về những thăng trầm của lịch sử Mondstadt, được biên soạn bởi Hiệp Hội Lịch Sử Đại Lục Phía Bắc."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

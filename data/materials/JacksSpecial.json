@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Jack's Special",
+        "de": "Jacks Spezialgetränk",
+        "chs": "杰克的特调酒",
+        "cht": "傑克的特調酒",
+        "es": "Bebida especial de Jack",
+        "fr": "Cocktail spécial de Jack",
+        "id": "Keahlian Jack",
+        "jp": "ジャックの特製カクテル",
+        "kr": "잭의 특제 칵테일",
+        "pt": "Especial de Jack",
+        "ru": "Фирменный коктейль Джека",
+        "th": "เครื่องดื่มสูตรพิเศษของ Jack",
+        "vi": "Rượu Đặc Chế Của Jack"
+    },
+    "id": 100359,
+    "materialDesc": {
+        "en": "A list of ingredients Jack needs for his cocktail. If other ingredients are used, what kind of result could one expect?",
+        "de": "Die Liste für die Zutaten, die Jack für sein Spezialgetränk braucht. Ob es etwas ausmachen würde, wenn man die Zutaten etwas anpassen würde?",
+        "chs": "杰克的特调酒所需物品的清单。如果采用其他材料的话，会有出乎意料的效果吗？",
+        "cht": "傑克的特調酒所需物品的清單。如果採用其他材料的話，會有出乎意料的效果嗎？",
+        "es": "Una lista de ingredientes necesarios para hacer la bebida especial de Jack. Usar diferentes ingredientes podría tener un resultado sorprendente.",
+        "fr": "Une liste d'ingrédients dont Jack a besoin pour son cocktail. Qu'est-ce que ça donnerait si elle venait à être modifiée ?",
+        "id": "Daftar bahan yang dibutuhkan Jack untuk koktailnya. Kalau bahan lain yang digunakan, hasilnya akan seperti apa ya?",
+        "jp": "ジャックの特製カクテルを作るために必要な材料が書いてあるリスト。他の材料を使ったら、どんな結果になるかな？",
+        "kr": "잭의 특제 칵테일을 만들 때 필요한 레시피. 만약 다른 재료를 사용한다면 뜻밖의 효과를 볼 수 있을까?",
+        "pt": "Uma lista de ingredientes que Jack precisa para o seu coquetel. Se outros ingredientes fossem usados, qual seria o resultado?",
+        "ru": "Список ингредиентов для фирменного коктейля Джека. Неправильные ингредиенты могут привести к удивительным результатам.",
+        "th": "รายการวัตถุดิบที่ต้องใช้ในการทำเครื่องดื่มสูตรพิเศษของ Jack ถ้าหากเลือกใช้วัตถุดิบอย่างอื่นล่ะก็ จะเกิดผลที่ไม่คาดคิดยังไงกันนะ?",
+        "vi": "Danh sách toàn bộ nguyên liệu để điều chế rượu của Jack. Nếu dùng các nguyên liệu khác, sẽ có hiệu quả bất ngờ chăng?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

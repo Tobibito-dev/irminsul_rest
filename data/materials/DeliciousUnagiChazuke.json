@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Delicious Unagi Chazuke",
+        "de": "Leckeres Unagi-Chazuke",
+        "chs": "美味的鳗肉茶泡饭",
+        "cht": "美味的鰻肉茶泡飯",
+        "es": "Arroz con anguila bañado en té delicioso",
+        "fr": "Chazuke à l'anguille (délicieux)",
+        "id": "Delicious Unagi Chazuke",
+        "jp": "美味しそうなうな茶漬け",
+        "kr": "맛있는 뱀장어 살코기 오차즈케",
+        "pt": "Carne Fresca Chazuke Deliciosa",
+        "ru": "Вкусный унаги тядзукэ",
+        "th": "Unagi Chazuke แสนอร่อย",
+        "vi": "Cơm Trà Xanh Thịt Lươn Ngon"
+    },
+    "id": 108357,
+    "materialDesc": {
+        "en": "A light and tasty main dish. The tea and soup weave an elegant, fragrant melody punctuated by the pure white grains, while the unagi, baptized in coal-fire, provides tender, gentle decoration to the mix. The various aromas of eel and tea and the light sweetness of rice mix well on your tongue into something truly sublime. A triple threat not to be trifled with, indeed.",
+        "de": "Ein einfaches und schmackhaftes Hauptgericht. Der Tee und die Suppe weben eine elegante, duftende Melodie, die von den reinen weißen Körnern unterstrichen wird, während der Unagi, der in Kohlefeuer getauft wurde, eine zarte, sanfte Ergänzung der Mischung darstellt. Die verschiedenen Aromen von Aal und Tee und die leichte Süße des Reises vermischen sich auf der Zunge zu etwas wirklich Erhabenem. Eine dreifache Versuchung, der niemand widerstehen kann.",
+        "chs": "清淡可口的主食。清茶与高汤混合出的香气静雅绵长，洁白的米饭颗粒分明，经过炭火洗礼的鳗肉则是软嫩细腻。交织于舌尖的鱼香与茶香，再加上清甜的米香，融合成一片曼妙滋味，大概没有人能够抵挡这样的三重诱惑吧。",
+        "cht": "清淡可口的主食。清茶與高湯混合出的香氣靜雅綿長，潔白的米飯顆粒分明，經過炭火洗禮的鰻肉則是軟嫩細膩。交織於舌尖的魚香與茶香，再加上清甜的米香，融合成一片曼妙滋味，大概沒有人能夠抵擋這樣的三重誘惑吧。",
+        "es": "Un plato principal ligero y sabroso. El aroma del té y del caldo despide una elegante fragancia en la que se distinguen los granos de arroz de un blanco inmaculado y donde la anguila, marcada en un fuego de carbón, proporciona un contrapunto suave y delicado. Los aromas del té y el pescado, junto con la dulzura del arroz, se entremezclan en un sabor tan sublime que nadie puede resistirse. Una amenaza triple con la que es mejor no jugar.",
+        "fr": "Un plat principal léger et goûteux. Le thé et le bouillon dégagent un goût élégant et parfumé, souligné par les grains de riz blanc immaculé, tandis que l'unagi, baptisée au feu de charbon de bois, s'ajoute délicatement au mélange. Les saveurs de l'anguille et du thé, ainsi que la douceur du riz s'entremêlent sur votre langue pour créer quelque chose de sublime. C'est une triple tentation à laquelle personne ne peut résister.",
+        "id": "Makanan pokok yang ringan dan lezat. Teh dan sup menenun melodi yang elegan dan harum, diiringi dengan butiran putih yang murni. Sementara unagi dibenamkan dalam panas arang, dan ini membuat dekorasinya lembut dalam campurannya. Perpaduan yang sempurna dari berbagai aroma belut dan teh, serta manisnya nasi yang ringan di lidah menjadi sesuatu yang benar-benar agung. Godaan lapis tiga memang tidak bisa dianggap remeh.",
+        "jp": "さっぱりとした主食。お茶と煮込んだ出汁のほんのりとした香り、白くふっくらと炊き上がったごはん、そして炭火の洗礼を受けた柔らかいうなぎ。魚とお茶の香りが舌の上で踊り、爽やかで甘い米の香りと共にさらに美味しく溶け合う。この三つの組み合わせによる誘惑に耐えられる者はいないだろう。",
+        "kr": "담백하고 맛있는 주식. 맑은 차와 육수가 어우러진 향기가 잔잔하고 길게 남는다. 새하얀 쌀밥은 고슬고슬하고, 숯불로 구운 뱀장어 살코기는 야들야들하다. 혀끝에서 섞이는 뱀장어의 맛과 차향, 그리고 향기로운 쌀밥까지 더하면 아름다운 맛이 탄생한다. 이런 삼단 콤보의 유혹을 거부할 수 있는 사람은 없다",
+        "pt": "Um prato principal leve e saboroso. O chá e a sopa tecem uma melodia elegante e perfumada marcada pelos grãos brancos puros, enquanto o unagi, batizado em fogo de carvão, proporciona uma decoração tenra e suave à mistura. Os vários aromas da enguia e do chá e a leve doçura do arroz se misturam bem em sua língua em algo verdadeiramente sublime. Realmente, uma ameaça tripla com a qual não se deve brincar.",
+        "ru": "Лёгкое и вкусное основное блюдо. Чай и суп сплетаются в элегантной, ароматной мелодии, подчёркнутой чистыми белыми зёрнами риса, в то время как унаги, пожаренный на углях, нежно дополняет блюдо. Ароматы угря, чая и лёгкой сладости риса сочетаются на языке в нечто поистине возвышенное. Наверное, никто не сможет устоять перед тройным соблазном.",
+        "th": "อาหารจานหลักที่มีรสชาติอ่อน ๆ สุดอร่อย ของใบชาสดใหม่ที่ชงในน้ำซุปร้อน ๆ ส่งกลิ่นหอมฟุ้งกระจายยาวนาน เม็ดข้าวสีขาวอวบที่แยกตัวกันอย่างชัดเจน บวกกับเนื้อปลาไหลที่ย่างบนเตาถ่านทำให้ได้รสสัมผัสที่เนียนละเอียด กลิ่นหอมของปลาและใบชาร่ายรำอยู่บนปลายลิ้นของคุณ รวมเข้ากับความหอมหวานของข้าว กลายเป็นรสชาติสุดอูมามิ คงไม่มีใครสามารถต้านทานแรงดึงดูดสามเท่านี้ได้หรอก",
+        "vi": "Món ăn chính thanh đạm vừa miệng. Hương thơm của trà và nước canh hòa quyện vào nhau, cơm trắng từng hạt dẻo mềm, thịt lươn đã qua chế biến rất thơm mềm. Vị thịt lươn và hương trà hội tụ ở đầu lưỡi, kèm thêm vị ngọt của hạt cơm, kết hợp thành một hương vị tuyệt vời, làm sao có thể cưỡng lại sức hút này chứ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

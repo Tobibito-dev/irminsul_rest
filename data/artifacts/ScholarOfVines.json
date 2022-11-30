@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Scholar of Vines",
+        "de": "Weiser des Dickichts",
+        "chs": "翠蔓的智者",
+        "cht": "翠蔓的智者",
+        "es": "Sabio de la Espesura",
+        "fr": "Érudit des lianes",
+        "id": "Scholar of Vines",
+        "jp": "翠蔓の知者",
+        "kr": "푸른 덩굴의 현자",
+        "pt": "Estudioso de Vinhas",
+        "ru": "Мудрец лозы",
+        "th": "Scholar of Vines",
+        "vi": "Trí Giả Của Rừng Xanh"
+    },
+    "id": 23627,
+    "setId": 15025,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

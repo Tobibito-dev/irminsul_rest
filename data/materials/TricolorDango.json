@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Tricolor Dango",
+        "de": "Dreifarbige Klößchen",
+        "chs": "三彩团子",
+        "cht": "三彩糰子",
+        "es": "Dango tricolor",
+        "fr": "Dango trois couleurs",
+        "id": "Tricolor Dango",
+        "jp": "三色団子",
+        "kr": "삼색 경단",
+        "pt": "Dango de Três Cores",
+        "ru": "Трёхцветное данго",
+        "th": "Tricolor Dango",
+        "vi": "Dango Ba Màu"
+    },
+    "id": 108253,
+    "materialDesc": {
+        "en": "A soft, glutinous snack. Glutinous rice has been ground into powder and rolled into a ball before being steamed. The Sakura Bloom and Snapdragon colors lend an extra liveliness to these dango.",
+        "de": "Ein weicher, klebriger Snack. Klebreis wurde zu Pulver gemahlen und zu einer Kugel gerollt, bevor er gedämpft wurde. Die Farben der Sakura-Blüte und von Goldfischkraut verleihen diesen Klößchen eine besondere Lebendigkeit.",
+        "chs": "软糯弹牙的点心。由磨成粉的糯米加水捏成球状，再蒸煮而成。绯樱绣球和金鱼草的颜色更是为团子带来了一丝活泼的气息。",
+        "cht": "軟糯彈牙的點心。由磨成粉的糯米加水捏成球狀，再蒸煮而成。緋櫻繡球和金魚草的顏色更是為糰子帶來了一絲活潑的氣息。",
+        "es": "Un suave y glutinoso aperitivo dulce. Unas esferas hechas con arroz glutinoso molido y agua, las cuales se cuecen al vapor. El color de los pétalos de cerezo y la flor dorada dotan al dango de un aspecto más vivaz.",
+        "fr": "Une collation sucrée et gluante. Le riz gluant a été réduit en poudre et roulé en boule avant d'être cuit à la vapeur. Les couleurs des fleurs de cerisier et des gueules-de-loup rendent ces dango encore plus agréables à regarder.",
+        "id": "Camilan dari ketan yang kenyal. Terbuat dari beras ketan yang digiling menjadi bubuk, lalu dipadatkan menjadi bola dan dikukus. Warna Sakura Bloom dan Snapdragon memberikan aura kehidupan pada dango ini.",
+        "jp": "柔らかで歯ごたえのある菓子。米粉と水を練って丸め、蒸した菓子。緋櫻毬とキンギョソウの色合いは、団子に楽し気な雰囲気を与えた。",
+        "kr": "말캉하고 쫀득쫀득한 디저트. 가루로 낸 찹쌀에 물을 섞어 동그란 모양으로 뭉친 후 삶으면 조리 성공. 벚꽃 수구와 금어초의 색상이 경단에 더욱 생기 넘치는 기운을 부여한다",
+        "pt": "Um lanche macio e glutinoso. O arroz glutinoso é moído até virar pó e enrolado em forma de bolinhos antes de ser cozido no vapor. As cores das Pétalas da Flor de Sakura e da Flor Crânio de Dragão conferem uma vivacidade adicional a esses dangos.",
+        "ru": "Мягкая и вязкая закуска. Из рисовой муки сделали тесто, слепили шарики и приготовили их на пару. Цвет сакуры и львиный зев сделали это данго особенно ярким.",
+        "th": "ขนมเหนียวนุ่ม ทำโดยนำข้าวเหนียวมาบดกับน้ำ นวดให้เป็นก้อนกลม แล้วนำไปนึ่ง สีของ Sakura Bloom และ Snapdragon นำบรรยากาศที่มีชีวิตชีวามาสู่ขนมก้อนกลม",
+        "vi": "Món điểm tâm mềm và dẻo. Được làm từ bột gạo nếp xay nhuyễn rồi thêm nước vo thành hình cầu, sau đó đem đi hấp chín. Tú Cầu Anh Đào và màu Cỏ Kim Ngư khiến viên điểm tâm này càng thêm sinh động."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

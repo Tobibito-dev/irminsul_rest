@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Timely Rain",
+        "de": "Lang ersehnter Regen",
+        "chs": "甘霖",
+        "cht": "甘霖",
+        "es": "Agua de mayo",
+        "fr": "Danse de la pluie",
+        "id": "Timely Rain",
+        "jp": "慈雨",
+        "kr": "단비",
+        "pt": "Doce Chuva",
+        "ru": "Благой дождь",
+        "th": "Timely Rain",
+        "vi": "Cam Lâm"
+    },
+    "id": 200223,
+    "materialDesc": {
+        "en": "When a character hits an opponent with an Elemental Burst, a Hydro Amber that will create falling rain in an AoE when shattered will be generated. This effect can be triggered once every 6s and this CD is shared between all party members.",
+        "de": "Erzeugt nach dem Treffen von Gegnern mit Spezialfähigkeiten einen Hydro-Bernstein, der nach dem Zerschlagen Regen verursacht. 6 s Abklingzeit für alle Truppenmitglieder.",
+        "chs": "角色的元素爆发命中敌人后，将会产生一个击碎后会造成局部降雨的水琥珀。该效果每6秒至多触发一次，队伍中所有角色共享冷却。",
+        "cht": "角色的元素爆發命中敵人後，將會產生一個擊碎後會造成局部降雨的水琥珀。該效果每6秒至多觸發一次，隊伍中所有角色共享冷卻。",
+        "es": "Al atacar a un enemigo con una Habilidad Definitiva, se crea un ámbar Hydro que provoca una lluvia cuando se destruye. Este efecto puede activarse una vez cada 6 s y el TdE se comparte entre todos los miembros del equipo.",
+        "fr": "Lorsqu'un personnage touche un ennemi avec un déchaînement élémentaire, un ambre Hydro est créé, qui fait tomber de la pluie sur une zone. Cet effet peut être déclenché une fois toutes les 6 s, et son TdR est partagé entre tous les personnages de l'équipe.",
+        "id": "Setelah Elemental Burst Karakter mengenai musuh, akan menciptakan sebuah Hydro Amber, yang dapat menurunkan hujan di area tertentu jika dipecahkan. Efek ini dapat terpicu setiap 6 detik, dan CD efek berlaku bagi seluruh anggota party.",
+        "jp": "キャラクターの元素爆発が敵に命中すると、砕くと雨を降らせる水の琥珀を生成する。この効果は6秒毎に1回のみ発動可能で、チーム全員がクールタイムを共有する。",
+        "kr": "캐릭터가 원소폭발로 적을 명중할 시 격파 후 일정 범위에 비를 내리는 물 호박을 생성한다. 해당 효과는 6초마다 1회 발동되며 파티 내 모든 캐릭터가 재사용 대기시간을 공유한다",
+        "pt": "Depois de um Personagem acertar o Supremo em um inimigo, será gerado um Âmbar Hydro que criará uma chuva no local quando quebrado. Esse efeito pode ocorrer uma vez a cada 6s e o Tempo de Recarga é compartilhado entre todos os Personagens.",
+        "ru": "Когда персонаж попадает по врагу взрывом стихий, появляется Гидро янтарь, который вызывает дождь, если его разбить. Эффект возникает раз в 6 сек. Время отката общее для всех членов отряда.",
+        "th": "หลังตัวละครปล่อยท่าไม้ตายโจมตีศัตรู จะทำให้หลังทุบให้แตกเพื่อสร้างสายฝนจะเกิด Hydro Amber เป็นบางส่วน เอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 6 วินาที ตัวละครทั้งหมดในทีมจะแชร์คูลดาวน์ร่วมกัน",
+        "vi": "Kỹ năng nộ của nhân vật sau khi trúng kẻ địch sẽ sản sinh một Thủy Hổ Phách, đánh vỡ sẽ tạo mưa. Hiệu ứng này mỗi 6s kích hoạt một lần, tất cả nhân vật đều dùng chung thời gian chờ kỹ năng."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

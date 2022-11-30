@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "The Saga of Hamavaran (II)",
+        "de": "Hamavarans Kriege II",
+        "chs": "哈玛瓦兰战记·二",
+        "cht": "哈瑪瓦蘭戰記·二",
+        "es": "Las guerras de Hamavaran (II)",
+        "fr": "Les guerres d'Hamavaran - II",
+        "id": "Perang Hamavaran (II)",
+        "jp": "ハマヴァラーン戦記·2",
+        "kr": "하마와란 전기·Ⅱ",
+        "pt": "Guerras Hamavaran (II)",
+        "ru": "Войны Хамаварана (II)",
+        "th": "สงคราม Hamavaran (II)",
+        "vi": "Chiến Ký Hamavaran II"
+    },
+    "id": 101531,
+    "materialDesc": {
+        "en": "\"'Ghost-calling'? Is that the same as 'spirit-warding' back home?\" With confusing questions swirling in his mind, Hamavaran begins to speak with his newfound traveling companion. An unexpected journey begins!",
+        "de": "„Geisterbeschwörung? Ist das dasselbe wie der Exorzismus in der Heimat?“ Mit dieser Frage im Kopf beginnt Hamavaran, mit seinem neu gefundenen Reisegefährten zu sprechen. Eine unerwartete Reise beginnt!",
+        "chs": "「『使鬼』？与家乡的『镇灵』差不多少吧？」怀着这样的疑惑，哈玛瓦兰与新来的旅伴攀谈起来…一场未尝预料的旅程，就此开端。",
+        "cht": "「『使鬼』？與家鄉的『鎮靈』差不多少吧？」懷著這樣的疑惑，哈瑪瓦蘭與新來的旅伴攀談起來…一場未曾預料的旅程，就此開端。",
+        "es": "“¿Invocación de fantasmas? ¿Es lo mismo que llamar a los espíritus en mi tierra natal?”. Con tantas dudas en su mente, Hamavaran comienza a hablar con su nuevo compañero de viaje. ¡Es el comienzo de una aventura inesperada!",
+        "fr": "Le « service aux fantômes », c'est la même chose que la « protection des esprits » dans ma patrie, non ? C'est avec ce doute en tête qu'Hamavaran commence à parler avec son nouveau compagnon de voyage. Un voyage inattendu les attend !",
+        "id": "\"'Pemanggilan hantu'? Apakah itu sama dengan 'mengusir hantu' di kampung halamanku?\" Dengan keraguan yang berputar di benaknya, Hamavaran mulai berbicara dengan teman seperjalanannya yang baru saja dia temukan. Perjalanan tak terduga dimulai!",
+        "jp": "「『使鬼』？故郷の『鎮霊』とあまり変わらないだろ？」このような疑問を抱きながら、ハマワランは新しい旅の仲間と話した…そして、予想外の旅がここで始まる。",
+        "kr": "「『사귀』? 고향의 「지니」와 비슷한 건가?」 이러한 의문을 품고 하마와란은 새로운 길동무와 대화를 나누기 시작한다… 예측불허의 여정이 지금부터 시작된다",
+        "pt": "\"Invocação de fantasmas? Isso é o mesmo que chamar os espíritos na minha terra natal?\" Com essa dúvida pairando em sua mente, Hamavaran começa a falar com seu novo companheiro de viagem. Uma jornada inesperada começa!",
+        "ru": "«\"Призывание призраков\"? Это то же самое, что и наше \"усмирение духов\"?» - С этой мыслью недоумевающий Хамаваран начал разговор с его новым спутником. Начинается неожиданное путешествие!",
+        "th": "\"\"ผีเหรอ\" มันน่าจะตัวเล็กพอๆ กับ \"วิญญาณ\" ในบ้านเกิดของฉันเลยล่ะ?\" ด้วยความสงสัยดังกล่าว Hamawaran จึงพูดคุยกับเพื่อนร่วมเดินทางคนใหม่... การเดินทางที่ไม่คาดคิดก็ได้เริ่มต้นขึ้น",
+        "vi": "\"Sứ Quỷ chắc không khác gì với Trấn Linh ở quê nhà đâu nhỉ?\" Mang theo thắc mắc này, Hamavaran bắt chuyện với người bạn đồng hành mới đến...một hành trình nằm ngoài dự đoán, cũng bắt đầu từ đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

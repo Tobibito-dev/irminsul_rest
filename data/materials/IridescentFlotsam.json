@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Iridescent Flotsam",
+        "de": "Schillerndes Treibgut",
+        "chs": "花簇簇的漂流物",
+        "cht": "花簇簇的漂流物",
+        "es": "Nacaracola a la deriva",
+        "fr": "Coquillage nacré",
+        "id": "Iridescent Flotsam",
+        "jp": "鮮やかな漂流物",
+        "kr": "화려한 표류물",
+        "pt": "Concha Iridescente",
+        "ru": "Перламутровая раковина",
+        "th": "Iridescent Flotsam",
+        "vi": "Vật Trôi Nổi Óng Ánh"
+    },
+    "id": 141,
+    "materialDesc": {
+        "en": "The shell of some sea creature, hard in texture and scattered in the Golden Apple Archipelago. As if affected by a certain power, its surface loses all its natural patterns and becomes iridescent instead.\\nCan be exchanged for treasure during \"Summertime Odyssey.\"",
+        "de": "Im Goldapfelarchipel zurückgelassene Schalen von Meereskreaturen mit einer harten Oberfläche. Wie von einer bestimmten Kraft bewirkt, haben sie ihre ursprünglichen Muster verloren und sind jetzt in ein regenbogenfarbenes Schillern getaucht.\\nTausche sie in der Aktion „Ein Sommeraufenthalt am Meer“ gegen wertvolle Schätze.",
+        "chs": "零星散落在金苹果群岛的海洋生物外壳，质地坚硬，像是被某种力量影响，失去了原本的花纹，呈现出斑斓瑰丽的色彩。\\n在「远海诗夏游纪」期间，可以用来换取宝物。",
+        "cht": "零星散落在金蘋果群島的海洋生物外殼，質地堅硬，像是被某種力量影響，失去了原本的花紋，呈現出斑斕瑰麗的色彩。\\n在「遠海詩夏遊紀」期間，可以用來換取寶物。",
+        "es": "El cascarón de una criatura marina disperso por todo el Archipiélago Manzana Dorada. Es muy duro y parece como si hubiera sido afectado por algún poder. Ha perdido sus patrones originales y ahora tiene un color magnífico.\\nSe puede canjear por otras recompensas en el evento «Una travesía estival».",
+        "fr": "#Une coquille dure appartenant à une créature marine. On la retrouve dans les quatre coins de l'Archipel de la pomme dorée. Sous l'influence d'un certain pouvoir, sa surface a troqué son motif original contre un rendu irisé.\\nÉchangez-les contre des objets précieux lors de l'événement «{NON_BREAK_SPACE}Séjour estival à la mer ».",
+        "id": "Cangkang keong beberapa makhluk laut, punya tekstur keras dan tersebar di Golden Apple Archipelago. Karena terpengaruh oleh sebuah kekuatan tertentu, pola alami cangkang ini hilang dan sebagai gantinya menjadi warna-warni.\\nDapat ditukar dengan berbagai harta selama event \"Perjalanan Laut di Musim Panas\".",
+        "jp": "金リンゴ群島に散らばる海洋生物の外殻。強靭で丈夫であり、とある力の影響を受けたことで本来の模様を失い、色鮮やかで壮麗な色を帯びるようになった。\\n「サマータイムオデッセイ」期間中、報酬の交換に使える。",
+        "kr": "금사과 제도에 흩어져 있는 단단한 껍질의 해양생물. 어떤 힘의 영향을 받아서인지 본래의 무늬 대신 알록달록한 빛을 띤다.\\n「여름 바다와 시의 여정」 이벤트 기간 동안 보물로 교환할 수 있다",
+        "pt": "Concha de uma criatura marinha deixada no Arquipélago de Maçã Dourada. Como se fosse afetada por uma certa força, ela perdeu seus padrões originais e se tornou iridescente.\\nVocê pode trocar essas conchas por tesouros valiosos durante o evento \"A Jornada do Mar de Verão\".",
+        "ru": "Раковины морских обитателей, разбросанные на архипелаге Золотого Яблока. Имеют жёсткую текстуру, будто они подверглись воздействию некой силы, потеряв свой первоначальный рисунок и приобретя другой великолепный цвет.\\nМожно обменять на награды в событии «Летнее морское путешествие».",
+        "th": "เปลือกหอยของสัตว์ทะเลที่กระจัดกระจายอยู่ที่หมู่เกาะ Golden Apple Archipelago พื้นผิวที่แข็งราวกับว่าได้รับผลกระทบจากพลังบางอย่าง ทำให้สูญเสียลวดลายดั้งเดิมไป และเผยให้เห็นสีสันที่งดงามตระการตา\\nสามารถใช้แลกเปลี่ยนสมบัติได้ในระหว่างช่วงกิจกรรม \"บทกวีคิมหันต์ กับการเดินทาง ณ ทะเลแสนไกล\"",
+        "vi": "Lớp vỏ sinh vật biển rải rác ở Quần Đảo Táo Vàng, chất vỏ cứng rắn, giống như chịu ảnh hưởng của nguồn sức mạnh nào đó nên mất đi hoa văn vốn có, để lộ ra một màu sắc óng ánh sặc sỡ.\\nTrong thời gian sự kiện \"Chuyến Đi Biển Ngày Hè\", có thể dùng để đổi báu vật."
+    },
+    "materialType": false
+}

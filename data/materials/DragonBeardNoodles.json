@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dragon Beard Noodles",
+        "de": "Drachenbartnudeln",
+        "chs": "龙须面",
+        "cht": "龍鬚麵",
+        "es": "Fideos barba de dragón",
+        "fr": "Barbe à dragon",
+        "id": "Dragon Beard Noodles",
+        "jp": "龍髭麺",
+        "kr": "용수면",
+        "pt": "Macarrão Barba de Dragão",
+        "ru": "Лапша «Борода дракона»",
+        "th": "Dragon Beard Noodles",
+        "vi": "Mì Râu Rồng"
+    },
+    "id": 108370,
+    "materialDesc": {
+        "en": "Noodles that are as slender as the hairs on a dragon's beard. The green onion is fried in a wok before the soup and condiments are added. Last in are the noodles, after which the lot is ladled out and plated up. The noodles must be skillfully hand-pulled multiple times before they become extremely thin — a technique that makes this dish the most challenging noodle recipe in Liyue.",
+        "de": "Nudeln, die so dünn sind wie die Haare eines Drachenbarts. Die Nudeln werden mit Frühlingszwiebeln unter Rühren gebraten, mit der Suppe und dem Gemüse vermischt und schließlich angerichtet. Der Teig muss mehrmals gedehnt und gefaltet werden, bevor er so fein wie Drachenbärte wird. Dies ist eines der kunstvollsten Nudelgerichte von Liyue.",
+        "chs": "细如龙须的面食。葱花炝锅后，加入高汤与配菜，最后下入面条，熟后捞出摆盘。面团须经历多次抻面，才能成为细如秋毫的龙须面，属于璃月面食中最为考究技艺的一品。",
+        "cht": "細如龍鬚的麵食。蔥花熗鍋後，加入高湯與配菜，最後下入麵條，熟後撈出擺盤。麵糰須經歷多次抻麵，才能成為細如秋毫的龍鬚麵，屬於璃月麵食中最為考驗技藝的一品。",
+        "es": "Unos fideos tan finos como la barba de un dragón. Tras saltear la cebolla, se añade el caldo y la guarnición, luego los fideos y, por último, se emplata cuando todo esté hecho. Solo haciendo bien la masa de los fideos se puede conseguir ese grosor tan fino como el de un pelo. La técnica para hacer este plato es una de las más difíciles de toda la gastronomía de Liyue.",
+        "fr": "Des nouilles aussi fines que les poils de la barbe d'un dragon. L'oignon vert est frit dans un wok avant d'ajouter le bouillon et l'accompagnement. En dernier viennent les nouilles, après quoi le plat est prêt à être servi. Les nouilles doivent être étirées plusieurs fois avant de devenir suffisamment fines.",
+        "id": "Mi yang tipis seperti rambut di janggut naga. Tumis bawang, lalu tambahkan kaldu dan bahan pendamping, dan masukkan mi untuk langkah terakhir. Hidangkan saat sudah matang. Adonan mi perlu ditarik dan direnggangkan berkali-kali agar bisa berbentuk seperti mi janggut naga. Mi ini adalah hidangan mi Liyue yang paling membutuhkan kemahiran memasak.",
+        "jp": "龍の髭のように細い麺類。ねぎを炒めた後、煮込んだ出汁と副菜を入れ、最後に麺を投入し、出来上がった品を器に盛りつける。何度も生地を伸ばさないと、立派な細い龍髭麺にはならない。璃月の麺類の中で、もっとも技術が試される一品である。",
+        "kr": "용의 수염처럼 가는 면 요리. 파를 불에 볶고, 육수와 재료를 넣는다. 마지막에 면을 넣고 익힌 뒤 접시에 담는다. 여러 차례에 걸쳐 면을 뽑아야 아기의 솜털만큼 가느다란 면을 만들 수 있다. 리월의 면 요리 중 가장 정교한 기술을 요하는 일품요리에 속한다",
+        "pt": "Macarrão que é tão fino quanto os pelos da barba de um dragão. A cebolinha verde é frita em um wok antes que a sopa e os condimentos sejam adicionados. O último a entrar é o macarrão, depois do qual é empanado e colocado em um prato. A técnica para fazer este prato é uma das mais difíceis de toda a gastronomia de Liyue.",
+        "ru": "Тонкая, как волоски в бороде дракона, лапша. Мелко нарезанный зелёный лук обжаривают в воке, затем добавляют бульон и овощи. Последней кладут лапшу, после чего всё содержимое вока выкладывают на тарелку. Только правильно приготовив тесто, можно сделать такую тонкую лапшу. Техника её приготовления одна из самых сложных в кухне Ли Юэ.",
+        "th": "เมนูบะหมี่ที่มีเส้นอันเรียวบางราวกับเครามังกร หลังจากหั่นหัวหอมและนำไปเจียวแล้ว จึงเติมน้ำซุปและเครื่องเคียง จากนั้นจึงใส่เส้นลงไปในตอนสุดท้าย เมื่อสุกแล้วจึงนำออกมาจัดใส่ชาม โดยแป้งที่ใช้จะต้องผ่านการยืดหลาย ๆ ครั้งก่อน ถึงจะได้ Dragon Beard Noodle (บะหมี่เครามังกร) ที่มีเส้นอันแสนเรียวบาง ถือเป็นหนึ่งในเมนูเส้นที่ต้องใช้ความพิถีพิถันอย่างที่สุดของ Liyue",
+        "vi": "Sợi mì mảnh như râu rồng. Cho hành đã thái, rồi đến nước dùng và các món ăn kèm vào nồi xong, cuối cùng mới cho mì vào, nấu chín vớt ra cho vào đĩa. Bột phải được kéo căng nhiều lần mới có thể trở nên mỏng như sợi mì râu rồng, là một trong những món ăn yêu cầu tay nghề bậc nhất trong các món mì ở Liyue."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

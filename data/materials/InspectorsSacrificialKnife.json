@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Inspector's Sacrificial Knife",
+        "de": "Zeremonielles Kundschafterlangschwert",
+        "chs": "督察长祭刀",
+        "cht": "督察長祭刀",
+        "es": "Daga larga del inspector",
+        "fr": "Grande dague de l'Inspecteur",
+        "id": "Inspector's Sacrificial Knife",
+        "jp": "検査官の刀",
+        "kr": "검사관의 제도",
+        "pt": "Faca Longa de Inspetor",
+        "ru": "Церемониальный нож инспектора",
+        "th": "Inspector's Sacrificial Knife",
+        "vi": "Dao Đô Thám Trưởng"
+    },
+    "id": 112031,
+    "materialDesc": {
+        "en": "In the hands of its lord, this fierce weapon has handled many \"debts.\" No one has eyes in the back of their heads, and this weapon and its related techniques are designed around that weakness.",
+        "de": "In der Hand ihres ursprünglichen Besitzers hat diese Waffe einst viele Schulden eingetragen. Da niemand Augen im Hinterkopf hat, wurde diese Waffe dazu entworfen, diese Schwäche wettzumachen.",
+        "chs": "在故主手中，曾处理过许多「债务」的凶恶武具。世上无人背后长眼，而这种兵器与相关的武艺则是针对这种弱点设计的。",
+        "cht": "在故主手中，曾處理過許多「債務」的兇惡武具。世上無人背後長眼，而這種兵器與相關的武藝則是針對這種弱點設計的。",
+        "es": "Un arma que se usó violentamente para recaudar muchas deudas. Nadie nace con ojos en la espalda, así que esta arma es perfecta para compensar esta carencia.",
+        "fr": "Une arme qui a servi à « régler des comptes ». Personne n'a les yeux derrière la tête, alors cette dague et ses techniques de maniement ont spécifiquement été conçues pour pallier à cette faiblesse.",
+        "id": "Pada tangan pemiliknya, senjata kejam ini telah menangani banyak \"utang\". Pandangan setiap orang memiliki sudut mati di belakang kepala mereka, dan senjata ini dibuat khusus untuk menyerang titik kelemahan tersebut.",
+        "jp": "元の主と共に数多くの「債務」を処理した恐ろしい武器。背中に目がある人は誰もいない、この武器はまさにこのために作られたのである。",
+        "kr": "옛 주인의 손에서 수많은 「채무」처리를 담당했던 흉악한 무기. 이 세상에 등에도 눈이 달린 사람은 없다. 그런데 이 무기와 관련 무예는 이런 약점을 겨냥하여 고안된 것이다",
+        "pt": "Uma arma que foi usada ferozmente para resolver muitas \"Dívidas\". Ninguém nasce com olhos atrás, então essa arma é perfeita para ser usada contra esse ponto fraco das pessoas.",
+        "ru": "В умелых руках это оружие раздало обратно немало «долгов». Ни у кого нет глаз на затылке. Боевые приёмы с Церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника.",
+        "th": "เจ้าของในอดีตเคยใช้มันเป็นอาวุธในการ \"ทวงหนี้\" และเพราะโลกนี้ไม่มีใครมองเห็นทางด้านหลังได้ เลยทำให้อาวุธนี้มีประโยชน์อย่างมาก",
+        "vi": "Vũ khí hung ác từng trải qua nhiều \"Nợ nần\". Người thường không có mắt mọc sau lưng, nhưng binh khí và võ nghệ này lại thiết kế để đối phó với nhược điểm đó."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

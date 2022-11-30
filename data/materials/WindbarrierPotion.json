@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Windbarrier Potion",
+        "de": "Windstilltrank",
+        "chs": "防风药剂",
+        "cht": "防風藥劑",
+        "es": "Poción cortavientos",
+        "fr": "Potion de résistance Anémo",
+        "id": "Windbarrier Potion",
+        "jp": "耐風薬剤",
+        "kr": "방풍 포션",
+        "pt": "Poção Contra o Vento",
+        "ru": "Зелье ветряного барьера",
+        "th": "Windbarrier Potion",
+        "vi": "Thuốc Kháng Phong"
+    },
+    "id": 111009,
+    "materialDesc": {
+        "en": "A mysterious potion that boosts Anemo RES and makes one able to withstand strong winds.\\nIt works wonders for adventurers out in the world and is even said to keep the cold away.",
+        "de": "Ein geheimnisvolles Mittel, das einen starken Wind aushalten lässt und den Anemo-Widerstand erhöht.\\nFür Abenteurer, die oft draußen übernachten, ist dieser Trank gut zu gebrauchen. Er soll auch gegen Erkältungen helfen.",
+        "chs": "让人抵抗强风的神秘药剂，能提升风元素抗性。\\n对于时常需要风餐露宿的冒险家来说，是非常实用的药剂。据说能防止风寒。",
+        "cht": "讓人抵抗強風的神秘藥劑，能提升風元素抗性。\\n對於時常需要餐風露宿的冒險家來說，是非常實用的藥劑。據說能防止風寒。",
+        "es": "Una misteriosa poción que aumenta la RES Anemo y ayuda a ser más resistente a los fuertes vientos.\\nIdeal para aquellos que buscan aventuras en todo el mundo. También dicen que funciona para mantener el frío bien lejos.",
+        "fr": "Une potion mystérieuse qui permet de résister aux vents forts et augmente la RÉS Anémo.\\nIdéale pour les voyageurs dormant à la belle étoile.",
+        "id": "Ramuan misterius yang meningkatkan Anemo RES dan membuatmu tahan terhadap angin kencang.\\nSangat ampuh untuk petualang dan katanya bahkan bisa mencegah pilek.",
+        "jp": "飲むと強風にも耐えられる不思議な薬剤。風元素耐性が上がる。\\nよく野宿をする冒険者にとって非常に便利な薬剤。風邪予防にも使えるらしい。",
+        "kr": "강풍을 견디게 하는 신비한 포션. 바람 원소 내성을 올릴 수 있다.\\n늘 비바람을 맞으며 노숙하는 모험가에게 아주 실용적인 포션이다. 한기를 막을 수 있다고 한다",
+        "pt": "Uma poção misteriosa que aumenta a RES Anemo e faz com que aguente ventos fortes.\\nIdeal para aqueles que vão em busca de aventuras pelo mundo. Dizem também que funciona para manter o frio longe.",
+        "ru": "Таинственное зелье, которое повышает Анемо сопротивление и стойкость к сильным ветрам.\\nМногие искатели приключений пользуются этим зельем в своих походах. Многие также уверены, что оно лечит простуду.",
+        "th": "ยาต้านลมแรง สามารถเพิ่มความต้านทานลมได้ \\nเป็นยาที่ช่วยนักผจญภัยได้อย่างดี และว่ากันว่าสามารถใช้ป้องกันความหนาวเย็นได้ด้วย",
+        "vi": "Thuốc thần bí giúp người ta chống lại gió lốc, tăng kháng Nguyên Tố Phong.\\nĐối với những Nhà Mạo Hiểm thường xuyên ăn ngủ bên ngoài mà nói, đây là loại thuốc cực kỳ hữu dụng. Nghe nó có thể phòng chống phong hàn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

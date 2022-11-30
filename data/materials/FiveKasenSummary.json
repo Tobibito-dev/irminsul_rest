@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Five Kasen Summary",
+        "de": "Informationszusammenfassung der Fünf Kasen",
+        "chs": "五歌仙资料汇总",
+        "cht": "五歌仙資料匯總",
+        "es": "Informe de los Cinco Kasen",
+        "fr": "Résumé des Cinq Kasen",
+        "id": "Ringkasan Lima Kasen",
+        "jp": "五歌仙の資料概要",
+        "kr": "다섯 가선 자료 모음",
+        "pt": "Sumário dos Cinco Kasen",
+        "ru": "Отчёт о Пяти Касэн",
+        "th": "สรุปข้อมูล Kasen ทั้งห้า",
+        "vi": "Tóm Lược Ngũ Ca Tiên"
+    },
+    "id": 101726,
+    "materialDesc": {
+        "en": "A summary of the information concerning the Five Kasen, which you got from Yae Publishing House's Hirayama.\\nAlthough the content is quite sparse, you can still get the gist of the Five Kasen and the great flair they had in their heyday.",
+        "de": "Eine Zusammenfassung der Informationen über die Fünf Kasen, die du von Hirayama aus dem Verlagshaus Yae erhalten hast.\\nObwohl der Inhalt recht spärlich ist, kannst du dennoch das Wesentliche über die Fünf Kasen und ihren großartigen Stil von damals erfahren.",
+        "chs": "由八重堂编辑长平山整理的五歌仙资料，用以帮助白垩老师完成五歌仙画像。\\n虽然内容十分有限，但仍能从中窥见当年五歌仙的风采。",
+        "cht": "由八重堂編輯長平山整理的五歌仙資料，用以説明白堊老師完成五歌仙畫像。\\n雖然內容十分有限，但仍能從中窺見當年五歌仙的風采。",
+        "es": "Una información sobre los Cinco Kasen compilada por Hirayama, el director editorial de la Editorial Yae, que podría ayudar a Calx a completar su retrato.\\nAunque su contenido es limitado, da algunas pistas sobre el aspecto de los Cinco Kasen.",
+        "fr": "Un document contenant des informations sur les Cinq Kasen compilées par Hirayama, l'éditeur en chef de la Chambre Yae. Celles-ci peuvent aider Calx à réaliser les portraits de ces poètes légendaires.\\nBien que son contenu soit peu fourni, il donne un aperçu de l'apparence et de la galanterie des Cinq Kasen.",
+        "id": "Ringkasan informasi tentang Lima Kasen yang kamu dapatkan dari Kepala Editor Hirayama, Yae Publishing House.\\nMeskipun isinya cukup memusingkan, kamu masih bisa memahami inti dari Lima Kasen dan betapa hebatnya mereka pada masa kejayaannya.",
+        "jp": "八重堂の平山編集主任がまとめた五歌仙の資料。白亜先生が五歌仙の絵画を完成させるのに役立つ。\\n限定的な内容ではあるが、当時の五歌仙の人品を垣間見ることができる。",
+        "kr": "백악 선생님을 도와 다섯 가선의 그림을 완성하기 위해 야에 출판사의 편집장 히라야마가 정리한 다섯 가선 자료.\\n제한적인 정보지만, 여전히 과거 다섯 가선의 기개를 충분히 엿볼 수 있다",
+        "pt": "Um resumo de informações sobre os Cinco Kasen que você conseguiu com Hirayama da Editora Yae.\\nApesar do conteúdo ser limitado, você consegue entender um pouco sobre os Cinco Kasen e a relevância deles na sua época.",
+        "ru": "Изложение сведений о Пяти Касэн главного редактора издательского дома Яэ Хираямы, которое должно помочь господину Мелу изобразить их.\\nДаже из такой краткой выжимки можно получить представление об изысканности Пяти Касэн.",
+        "th": "ข้อมูลของ Kasen ทั้งห้าที่รวบรวมขึ้นโดย Hirayama หัวหน้าบรรณาธิการของสำนักพิมพ์ Yae ใช้เพื่อช่วยให้อาจารย์ชอล์กขาววาดรูปของ Kasen ทั้งห้าได้สำเร็จ \\nแม้ว่าข้อมูลจะมีอยู่อย่างจำกัดมาก แต่ก็ยังสามารถเห็นถึงความรุ่งโรจน์ของ Kasen ทั้งห้าในอดีตได้",
+        "vi": "Tài liệu về Ngũ Ca Tiên do biên tập viên Hirayama của Nhà Xuất Bản Yae tổng hợp, dùng để giúp họa sĩ Vôi Trắng hoàn thành bức tranh Ngũ Ca Tiên.\\nTuy rằng nội dung có hạn, nhưng có thể nhìn thấy được phong thái của Ngũ Ca Tiên ngày đó."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

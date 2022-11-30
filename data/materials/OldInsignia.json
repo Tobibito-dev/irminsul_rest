@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Old Insignia",
+        "de": "Altes Abzeichen",
+        "chs": "老旧的徽记",
+        "cht": "老舊的徽記",
+        "es": "Insignia antigua",
+        "fr": "Vieil insigne",
+        "id": "Lencana Kuno",
+        "jp": "古びた記章",
+        "kr": "오래된 휘장",
+        "pt": "Insígnia Antiga",
+        "ru": "Старый шеврон",
+        "th": "ตราสัญลักษณ์อันเก่าซอมซ่อ",
+        "vi": "Phù Hiệu Cũ Kỹ"
+    },
+    "id": 101946,
+    "materialDesc": {
+        "en": "This looks like a Fatui insignia, but it's all scratched up somehow.",
+        "de": "Das sollte ein Abzeichen der Fatui sein, aber aus irgendeinem Grund ist es vollkommen zerkratzt.",
+        "chs": "应该是愚人众的徽记，但是不知道为何，上面布满划痕。",
+        "cht": "應該是愚人眾的徽記，但是不知道為何，上面佈滿劃痕。",
+        "es": "Debe de ser una insignia Fatui. Quién sabe por qué está llena de arañazos...",
+        "fr": "Un insigne qui ressemble à celui des Fatui, mais il est couvert de rayures pour une certaine raison.",
+        "id": "Sepertinya sih ini lencana yang dimiliki Fatui. Entah kenapa ada beberapa goresan di atasnya.",
+        "jp": "ファデュイの記章のはず。でも、なぜか傷だらけである。",
+        "kr": "우인단의 휘장인 듯하다. 하지만 어째서인지 표면에 스크래치가 잔뜩 나 있다",
+        "pt": "Uma insígnia que deve ser de um Fatuus. Mas você não sabe o motivo dela estar repleta de arranhões.",
+        "ru": "Похоже на шеврон Фатуи. Почему-то он весь исцарапан.",
+        "th": "น่าจะเป็นตราสัญลักษณ์ของ Fatui แต่ไม่รู้เพราะเหตุใด ด้านบนถึงเต็มไปด้วยรอยขีดข่วน",
+        "vi": "Chắc là phù hiệu của Fatui, nhưng không biết tại sao trên đó lại đầy vết xước."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

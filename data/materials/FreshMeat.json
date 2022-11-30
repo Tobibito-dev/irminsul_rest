@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fresh Meat",
+        "de": "Frisches rohes Geflügel",
+        "chs": "新鲜的禽肉",
+        "cht": "新鮮的禽肉",
+        "es": "Carne de ave fresca",
+        "fr": "Volaille fraîche",
+        "id": "Fowl Segar Khas Thoma",
+        "jp": "新鮮な鳥肉",
+        "kr": "신선한 새고기",
+        "pt": "Carne de Ave Fresca",
+        "ru": "Свежая птица",
+        "th": "Fowl สด ๆ",
+        "vi": "Thịt Gia Cầm Tươi"
+    },
+    "id": 101602,
+    "materialDesc": {
+        "en": "Food that Thoma has prepared for the stray cats and dogs. This should go like hotcakes.",
+        "de": "Das Essen, das Thoma für die streunenden Hunde vorbereitet hat.",
+        "chs": "托马为流浪狗狗准备的食物，应该会很受欢迎。",
+        "cht": "托馬為流浪狗狗準備的食物，應該會很受歡迎。",
+        "es": "Una comida preparada por Thoma para los perros callejeros. Seguro que les gustará mucho.",
+        "fr": "De la nourriture que Thomas a préparée pour les chiens et chats errants qui devraient se régaler avec.",
+        "id": "Makanan yang disiapkan Thoma untuk kucing dan anjing terlantar. Mereka pasti akan menyukainya.",
+        "jp": "トーマが野良犬のために用意した食べ物。とても人気がある。",
+        "kr": "토마가 유기견을 위해 준비한 음식. 분명 엄청 좋아해 줄 것이다",
+        "pt": "Comida que Thoma preparou para os gatos e cachorros de rua. Eles deverão gostar muito.",
+        "ru": "Еда, которую Тома приготовил для бездомных собак. Нет сомнений, что им понравится.",
+        "th": "อาหารที่ Thoma เตรียมมาให้สุนัขจรจัด พวกมันจะต้องชอบมากแน่ ๆ",
+        "vi": "Thức ăn Thoma chuẩn bị cho những chú chó hoang, chắc chúng sẽ rất thích."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

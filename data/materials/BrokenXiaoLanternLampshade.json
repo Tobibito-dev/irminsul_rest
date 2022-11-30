@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Broken Xiao Lantern Lampshade",
+        "de": "Kaputter Laternenschirm",
+        "chs": "坏掉的霄灯灯罩",
+        "cht": "壞掉的霄燈燈罩",
+        "es": "Linterna celeste rota",
+        "fr": "Lanterne céleste cassée",
+        "id": "Bungkus Lentera Xiao yang Rusak",
+        "jp": "壊れている霄灯の火屋",
+        "kr": "망가진 소등 등피",
+        "pt": "Lanterna Celeste Quebrada",
+        "ru": "Сломанный колпак небесного фонаря",
+        "th": "ตัวโคม Xiao ที่แตกหัก",
+        "vi": "Bao đèn Minh Tiêu bị hỏng"
+    },
+    "id": 100741,
+    "materialDesc": {
+        "en": "This was once a Xiao Lantern that carried someone's wishes. No one can say where it has flown since, but now there is naught left but its lampshade...",
+        "de": "Dies war einst eine Laterne, die den Wunsch von jemandem in den Himmel tragen sollte, doch nun ist nur noch ihr Schirm übrig ...",
+        "chs": "原本是一盏完整的霄灯，承载了某人的心愿。这盏灯不知飞过了多少地方，现在磨损得只剩下了灯罩…",
+        "cht": "原本是一盞完整的霄燈，承載了某人的心願。這盞燈不知飛過了多少地方，現在磨損得只剩下了燈罩…",
+        "es": "Era una linterna celeste que llevaba los deseos de una persona, pero ahora ya solo queda la pantalla. ¿Cuánta distancia habrá recorrido volando?",
+        "fr": "Une lanterne qui portait autrefois les vœux de son propriétaire. Personne ne sait par où elle est passée mais il n'en reste plus grand-chose à part son abat-jour...",
+        "id": "Dulunya ini adalah Lentera Xiao yang membawa harapan seseorang. Entah sudah berapa jauh lentera ini terbang, tetapi kini yang tersisa hanyalah kertas pembungkusnya saja...",
+        "jp": "本来は誰かの願い事が込められた霄灯だったが、色んな所を飛び回った故、破損して火屋だけになった…",
+        "kr": "누군가의 소원이 담겨있던 소등. 여기저기 날아다니며 파손돼서 지금은 등피만 남아 있다…",
+        "pt": "Antes era uma Lanterna Celeste completa que carregava o desejo de alguém. Não se sabe para quantos lugares ela voou, mas devido aos danos, não voa mais...",
+        "ru": "Некогда целый небесный фонарь, который нёс чьи-то мечты. Кто знает, где он успел побывать. Теперь от него остался лишь колпак...",
+        "th": "เดิมทีมันเคยเป็นโคม Xiao ที่มีความปรารถนาของใครบางคนอยู่ ไม่มีใครบอกได้ว่าโคมนี้ลอยไปมากี่ที่แล้ว แต่ตอนนี้ส่งที่เหลืออยู่เพียงแค่ตัวโคมเท่านั้น...",
+        "vi": "Vốn là một ngọn Đèn Tiêu hoàn chỉnh, chứa đựng tâm nguyện của một ai đó. Chiếc đèn này không biết đã bay qua bao nhiêu nơi, giờ đây chỉ còn lại lớp vỏ."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Nahida's Stella Fortuna",
+        "de": "Stella Fortuna von Nahida",
+        "chs": "纳西妲的命星",
+        "cht": "納西妲的命星",
+        "es": "Stella Fortuna de Nahida",
+        "fr": "Stella Fortuna de Nahida",
+        "id": "Stella Fortuna Nahida",
+        "jp": "ナヒーダの星屑",
+        "kr": "나히다의 운명의 별",
+        "pt": "Stella Fortuna de Nahida",
+        "ru": "Удача Нахиды",
+        "th": "ดวงดาวแห่งชีวิตของ Nahida",
+        "vi": "Chòm Sao Của Nahida"
+    },
+    "id": 1173,
+    "materialDesc": {
+        "en": "Nahida's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Nahidas Sternbild",
+        "chs": "纳西妲的命之座激活素材",
+        "cht": "納西妲的命之座啟用素材",
+        "es": "Material de activación de constelación de Nahida",
+        "fr": "Matériau d'activation de la constellation de Nahida.",
+        "id": "Material aktivasi untuk konstelasi Nahida",
+        "jp": "ナヒーダの命ノ星座アンロック用素材",
+        "kr": "나히다의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Nahida",
+        "ru": "Материал для активации созвездия Нахиды",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Nahida",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Nahida"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

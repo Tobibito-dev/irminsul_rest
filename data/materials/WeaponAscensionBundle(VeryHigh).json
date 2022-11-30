@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Weapon Ascension Bundle (Very High)",
+        "de": "Superwahlpaket für Waffenaufstieg",
+        "chs": "武器突破自选-超级",
+        "cht": "武器突破自選-超級",
+        "es": "Paquete de materiales de ascensión de arma (Muy alto)",
+        "fr": "Pack d'élévation d'arme (supérieur)",
+        "id": "Weapon Ascension Bundle (Very High)",
+        "jp": "武器突破選択-最高級",
+        "kr": "무기 돌파 셀렉션-스페셜",
+        "pt": "Pacote de Ascensão de Arma (Muito Alto)",
+        "ru": "Набор для возвышения оружия (Превос.)",
+        "th": "แพ็กเลื่อนขั้นอาวุธ - ขั้นสูงมาก",
+        "vi": "Túi tự chọn đột phá Vũ Khí - Siêu"
+    },
+    "id": 115027,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_CHEST_BATCH_USE"
+}

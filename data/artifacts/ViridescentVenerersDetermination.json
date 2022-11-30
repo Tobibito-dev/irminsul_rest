@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Viridescent Venerer's Determination",
+        "de": "Gelassenheit des Feldjägers",
+        "chs": "翠绿猎人的笃定",
+        "cht": "翠綠獵人的篤定",
+        "es": "Serenidad de la Cazadora Verde Esmeralda",
+        "fr": "Détermination de la Verte Chasseuse",
+        "id": "Viridescent Venerer's Determination",
+        "jp": "緑の狩人の決心",
+        "kr": "청록색 사냥꾼의 확신",
+        "pt": "Determinação do Caçador Verde",
+        "ru": "Решимость изумрудного охотника",
+        "th": "Viridescent Venerer's Determination",
+        "vi": "Thời Gian Của Thợ Săn"
+    },
+    "id": 24695,
+    "setId": 15002,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_SHOES",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

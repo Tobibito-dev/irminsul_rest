@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Black-Back Perch Stew",
+        "de": "Besonderer gekochter Schwarzrückenbarsch",
+        "chs": "特制的水煮黑背鲈",
+        "cht": "特製的水煮黑背鱸",
+        "es": "Estofado de perca de lomo negro especial",
+        "fr": "Marmite de perche à dos noir spéciale",
+        "id": "Black-Back Perch Stew Spesial",
+        "jp": "特製黒背スズキの唐辛子煮込み",
+        "kr": "특제 삶은 검정 농어",
+        "pt": "Ensopado de Poleiro com Dorso Negro Especial",
+        "ru": "Особый варёный чёрный окунь",
+        "th": "Black-Back Perch Stew สูตรพิเศษ",
+        "vi": "Cá Chép Đen Hấp Đặc Biệt"
+    },
+    "id": 100659,
+    "materialDesc": {
+        "en": "Fresh Black-Back Perch Stew. It will probably be inedible once it gets cold.",
+        "de": "Eine frische Portion gekochter Schwarzrückenbarsch, der kalt kaum mehr zu genießen wäre.",
+        "chs": "鲜美的一份水煮黑背鲈。水煮菜凉了应该就不能吃了吧。",
+        "cht": "鮮美的一份水煮黑背鱸。水煮菜涼了應該就不能吃了吧。",
+        "es": "Una ración de delicioso estofado de perca de lomo negro. Hay que comerlo mientras está caliente.",
+        "fr": "Une marmite de perche à dos noir. Ce ne sera pas bon quand ce sera froid.",
+        "id": "Black-Back Perch Stew yang segar. Mungkin tidak bisa dimakan saat sudah dingin.",
+        "jp": "新鮮な黒背スズキの唐辛子煮込み。煮込み料理は冷めたら食べられなくなるだろう。",
+        "kr": "신선한 삶은 검정 농어, 삶은 음식은 식으면 먹을 수 없겠지",
+        "pt": "Um Ensopado de Poleiro com Dorso Negro. Provavelmente não será mais comestível assim que ficar frio.",
+        "ru": "Свежий варёный чёрный окунь. Если это блюдо остынет, то станет несъедобным.",
+        "th": "Black-Back Perch Stew สดใหม่ ๆ หากทิ้งไว้จนเย็นแล้วจะทานไม่ได้",
+        "vi": "Cá Chép Đen Hấp tươi ngon. Món hấp mà để nguội sẽ không ăn được nữa."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Taiyaki",
+        "de": "Misslungenes Taiyaki",
+        "chs": "奇怪的日落鲷鱼烧",
+        "cht": "奇怪的日落鯛魚燒",
+        "es": "Taiyaki extraño",
+        "fr": "Taiyaki (suspect)",
+        "id": "Suspicious Taiyaki",
+        "jp": "微妙な夕暮れの鯛焼き",
+        "kr": "이상한 일몰 붕어빵",
+        "pt": "Taiyaki Estranho",
+        "ru": "Странный тайяки",
+        "th": "Taiyaki รสประหลาด",
+        "vi": "Bánh Cá Hoàng Hôn Kỳ Lạ"
+    },
+    "id": 108330,
+    "materialDesc": {
+        "en": "A snack shaped like a snapper. The filling is way too sweet, with a single small bite leaving you in dire need of some water to wash it all down. Even the sweetest of teeth will find stomaching this a rather tall order.",
+        "de": "Ein Snack in Form einer Brasse. Die Füllung ist viel zu süß und nach einem einzigen kleinen Bissen braucht man dringend etwas Wasser, um das Ganze herunterzuspülen. Selbst den Naschkatzen wird es schwerfallen, dies zu ertragen.",
+        "chs": "鲷鱼形状的点心。过分甜腻的内馅，仅仅尝上一小口，就需要猛喝一大杯水来缓和。就算是狂热的甜食爱好者，也难以承受这份甜蜜的负担。",
+        "cht": "鯛魚形狀的點心。過分甜膩的內餡，僅僅嚐上一小口，就需要猛喝一大杯水來緩和。就算是狂熱的甜食愛好者，也難以承受這份甜蜜的負擔。",
+        "es": "Un dulce con forma de pargo. Por cada bocado que le des al empalagoso relleno, necesitarás beber un vaso entero de agua. Ni los mayores aficionados al dulce pueden soportar este horror.",
+        "fr": "Un dessert en forme de poisson. Le fourrage est trop sucré et nécessite un grand verre d'eau pour faire passer le goût d'une seule petite bouchée. Même les amateurs de sucreries n'arriveraient pas à le terminer.",
+        "id": "Camilan berbentuk seperti ikan kakap. Isinya terlalu manis, satu gigitan kecil saja sudah cukup membuatmu menjadi haus untuk minum dan membersihkan semua rasa di mulutmu. Bahkan penyuka makanan manis pun akan kesulitan memakannya.",
+        "jp": "鯛の形をしたお菓子。あんこが甘すぎたため、小さな一口でも、水をたくさん飲んで緩和する必要がある。いくら狂熱的な甘味愛好家でも、この甘さに耐えることはできないだろう。",
+        "kr": "도미 모양의 디저트. 지나치게 달달한 맛에 조금만 먹어도 물을 벌컥벌컥 마시게 된다. 아무리 마니아라고 해도 이 달콤한 맛은 감당하기 힘들 듯하다",
+        "pt": "Um lanche em forma de pargo. O recheio é muito doce, com uma única mordidinha deixa você com uma necessidade extrema de um pouco de água para conseguir engolir. Nem mesmo os amantes de doces conseguem suportar este horror.",
+        "ru": "Пирожное в форме рыбы. Начинка слишком сладкая, а один маленький кусочек вызывает острое желание запить его. Слишком сладкий даже для самых ярых сладкоежек.",
+        "th": "ขนมทานเล่นรูปปลา ไส้ที่หวานและมันเยิ้มเกินไป เพียงกัดคำเล็ก ๆ ก็ต้องดื่มน้ำแก้วใหญ่ล้างคอตาม แม้แต่ผู้ที่รักของหวานเป็นชีวิตจิตใจก็ไม่อาจทนต่อความหวานระดับนี้ได้",
+        "vi": "Món điểm tâm hình cá. Phần nhân rất ngọt và béo ngậy, chỉ cần nếm một miếng nhỏ là phải uống ngay một ly nước lớn để đỡ ngán. Ngay cả những người thích đồ ngọt cũng khó có thể chịu được vì quá ngọt."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

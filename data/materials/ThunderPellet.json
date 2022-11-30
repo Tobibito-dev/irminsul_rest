@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Thunder Pellet",
+        "de": "Donnergraupel",
+        "chs": "鸣雷霰子",
+        "cht": "鳴雷霰子",
+        "es": "Granizo de tormenta",
+        "fr": "Grêle du tonnerre",
+        "id": "Thunder Pellet",
+        "jp": "雷鳴のあられ",
+        "kr": "뇌명 입자",
+        "pt": "Granizo do Trovão",
+        "ru": "Грозовой осколок",
+        "th": "Thunder Pellet",
+        "vi": "Khối Sấm"
+    },
+    "id": 127,
+    "materialDesc": {
+        "en": "A shard of concentrated violet lightning, fizzing with strange Electro energy. Can be exchanged for precious treasures during the \"Thunder Sojourn\" event.",
+        "de": "Ein Fragment eines verdichteten violetten Blitzschlags, in dem mysteriöse Elektro-Energie sprudelt. Kann während der Aktion „Spuren des Donners“ gegen wertvolle Schätze eingetauscht werden.",
+        "chs": "凝结着苍紫雷光的碎片，充满奇异的雷元素力量。在「谒索雷痕」期间，可以换取珍贵的宝物。",
+        "cht": "凝結著蒼紫雷光的碎片，充滿奇異的雷元素力量。在「謁索雷痕」期間，可以換取珍貴的寶物。",
+        "es": "Un fragmento con un brillo violeta rebosante de un misterioso poder Electro. Puede intercambiarse por otros objetos durante el evento «Colisión eléctrica».",
+        "fr": "Un fragment formé par la concentration d'éclairs violets qui émet une étrange énergie Électro. Il peut être échangé contre de précieux trésors lors de l'événement Fracas du tonnerre.",
+        "id": "Pecahan yang terbentuk dari kondensasi kilat ungu dan penuh dengan energi Electro yang aneh. Item ini dapat ditukarkan dengan harta berharga selama periode Event \"Persinggahan Petir\".",
+        "jp": "蒼紫の雷光を凝縮した欠片。不思議な雷元素の力を秘めている。イベント「雷痕を求めて」期間中に貴重な宝物と交換することができる。",
+        "kr": "보랏빛 뇌광을 발산하는 조각. 기이한 번개 원소의 힘이 깃들어있다. 「뇌흔을 찾아서」 이벤트 기간 동안 진귀한 보물과 교환할 수 있다",
+        "pt": "Um fragmento concentrado de raios violetas, cheios de estranha energia Electro. Pode ser trocado por tesouros preciosos durante o evento \"Colisão do Trovão\".",
+        "ru": "Осколок кристаллизовавшейся фиолетовой молнии, наполненный странной энергией Электро. Обменивается на драгоценные сокровища во время события «Грозовые отпечатки».",
+        "th": "ชิ้นส่วนสายฟ้าสีม่วง เต็มไปด้วยพลังธาตุไฟฟ้าที่แปลกประหลาด สามารถแลกเปลี่ยนเป็นสมบัติล้ำค่าในช่วงกิจกรรม \"ตามรอยสายฟ้า\"",
+        "vi": "Mảnh vỡ ngưng tụ lôi quang màu tím xanh, chứa đầy sức mạnh nguyên tố Lôi kỳ lạ. Bạn có thể đổi lấy những bảo vật quý giá trong khoảng thời gian \"Truy Tìm Vết Sấm\"."
+    },
+    "materialType": false
+}

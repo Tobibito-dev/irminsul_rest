@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Amidst the Fleeing Smoke",
+        "de": "„Unter verziehendem Rauch“",
+        "chs": "「于散逸的浮烟中」",
+        "cht": "「於散逸的浮煙中」",
+        "es": "Entre el humo disperso",
+        "fr": "« Au milieu de la fumée fuyante »",
+        "id": "Di Antara Kabut Asap",
+        "jp": "「消散する煙の中で」",
+        "kr": "「흩어진 연기 속에서」",
+        "pt": "Entre a Fumaça Dispersa",
+        "ru": "Средь струек дыма",
+        "th": "\"ฟุ้งกระจายในควันลอยล่อง\"",
+        "vi": "\"Trong Làn Khói Mờ Ảo\""
+    },
+    "id": 382231,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for making Amidst the Fleeing Smoke.\\nAfter using this item, you can view it in the Creation Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Herstellung von „Unter verziehendem Rauch“.\\nNach der Anwendung im Herstellungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「『于散逸的浮烟中』」的制作方法。\\n使用后可进入制作界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「『於散逸的浮煙中』」的製作方法。\\n使用後可進入製作介面查看。",
+        "es": "Plano detallado para fabricar “Entre el humo disperso”.\\nTras usarlo, entra en el menú de fabricación para verlo.",
+        "fr": "Étapes de fabrication d'« Au milieu de la fumée fuyante ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk membuat \"Di Tengah Asap yang Membumbung\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+        "jp": "「『消散する煙の中で』」の詳しい作り方が載っている設計図。\\n使用後、製作画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「『흩어진 연기 속에서』」의 제작 방법이 기재되어 있다.\\n사용 후 제작 화면 상세보기에서 확인할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como fabricar \"Entre a Fumaça Dispersa\".\\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+        "ru": "Подробная схема изготовления предмета декора «Средь струек дыма».\\nПосле использования чертежа вы можете перейти в меню создания для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีสร้าง \"ฟุ้งกระจายในควันลอยล่อง\"\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าเมนูการสร้างได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Trong Làn Khói Mờ Ảo\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_FORMULA"
+}

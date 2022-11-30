@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Judgment",
+        "de": "Richterspruch",
+        "chs": "裁决",
+        "cht": "裁決",
+        "es": "Juicio",
+        "fr": "Sentence",
+        "id": "Judgment",
+        "jp": "裁決",
+        "kr": "판결",
+        "pt": "Adjudicação",
+        "ru": "Вердикт",
+        "th": "Judgment",
+        "vi": "Phán Quyết"
+    },
+    "id": 200254,
+    "materialDesc": {
+        "en": "When an opponent is defeated, it will release a shockwave that deals AoE True DMG to other opponents.",
+        "de": "Eine Druckwelle entsteht beim Besiegen von Gegnern, die den Gegnern in der Umgebung tatsächlichen Flächenschaden zufügt.",
+        "chs": "敌人被击败时，会释放冲击波，对其他敌人造成范围真实伤害。",
+        "cht": "敵人被擊敗時，會釋放衝擊波，對其他敵人造成範圍真實傷害。",
+        "es": "Al derrotar a un enemigo, se genera una onda de choque que inflige Daño Verdadero en el AdE.",
+        "fr": "Lorsqu'un ennemi est vaincu, il libère une onde de choc qui inflige des DGT réels de zone aux ennemis à proximité.",
+        "id": "Saat musuh dikalahkan, akan muncul serangan gelombang yang mengakibatkan True DMG Area terhadap musuh lainnya.",
+        "jp": "敵が倒されると衝撃波が発動され、周囲の他の敵に範囲確定ダメージを与える。",
+        "kr": "적이 처치되면 충격파를 방출해 다른 적에게 범위 고정 피해를 준다",
+        "pt": "Quando um oponente é derrotado, ele irá liberar uma Onda de Choque que causa Dano Real em uma AdE a outros oponentes.",
+        "ru": "Побеждённый противник вызывает ударную волну, которая наносит истинный урон по площади другим противникам.",
+        "th": "เมื่อศัตรูถูกกำจัด จะปล่อยคลื่นกระแทกออกมา ทำให้เกิดความเสียหายจริงวงกว้างแก่ศัตรูตัวอื่น ๆ",
+        "vi": "Kẻ địch bị tiêu diệt sẽ phát ra sóng xung kích, gây sát thương chuẩn diện rộng cho kẻ địch khác."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

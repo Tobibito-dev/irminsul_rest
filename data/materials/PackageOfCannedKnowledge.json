@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Package of Canned Knowledge",
+        "de": "Paket voller Wissenskonserven",
+        "chs": "罐装知识包裹",
+        "cht": "罐裝知識包裹",
+        "es": "Paquete de conocimiento encapsulado",
+        "fr": "Paquet de concentrés de connaissances",
+        "id": "Sepaket Kapsul Pengetahuan",
+        "jp": "缶詰知識の袋",
+        "kr": "항아리 지식 보따리",
+        "pt": "Pacote de Conhecimentos Enlatados",
+        "ru": "Свёрток с Капсулами знаний",
+        "th": "ห่อสินค้าผลึกความรู้",
+        "vi": "Túi Hũ Tri Thức"
+    },
+    "id": 101930,
+    "materialDesc": {
+        "en": "Canned Knowledge purchased at Dori's booth with the Mora given to you by Alhaitham. Packaged as common commodities to keep it low-key.",
+        "de": "Durch Alhaitham finanziert hast du bei Doris Marktstand zahlreiche Wissenskonserven erstanden. Um sie vor den Augen und Ohren Unbeteiligter zu schützen, hast du sie in ein gewöhnlich wirkendes Warenpaket gelegt.",
+        "chs": "由艾尔海森出资，在多莉摊位上购入的数枚罐装知识，为了掩人耳目被放进了常见的商品包裹中。",
+        "cht": "由艾爾海森出資，在多莉攤位上購入的數枚罐裝知識，為了掩人耳目被放進了常見的商品包裹中。",
+        "es": "Cápsulas de conocimiento que compraste en el puesto de Dori con los fondos que te dio Alhacén. Dori tuvo el detalle de envolverlas como cualquier otro producto para que no llame la atención.",
+        "fr": "Des concentrés de connaissances achetés au stand de Dori avec les moras qui vous ont été donnés par Alhaitham. Ils ont été mis dans des emballages de produits ordinaires pour ne pas attirer le regard des gens.",
+        "id": "Kapsul Pengetahuan yang dibeli di stan Dori dengan memakai Mora yang diberikan Alhaitham padamu. Dikemas sebagai komoditas umum agar tetap terlihat sederhana.",
+        "jp": "アルハイゼンのモラを使って、ドリーのところから購入した缶詰知識。缶詰知識であることを隠すため、一般的な商品用の袋に入れられている。",
+        "kr": "알하이탐이 지원한 자금을 사용해 도리의 노점에서 구매한 항아리 지식. 사람들의 눈을 속이기 위해 평범한 상품용 보따리에 담았다",
+        "pt": "Conhecimentos Enlatados comprados por Alhaitham e colocados na barraca de Dori. Para que ninguém os perceba, eles foram colocados entre vários outros produtos super comuns.",
+        "ru": "Капсулы знаний, купленные у Дори на средства аль-Хайтама. Чтобы никто ничего не заподозрил, упакованы в обычный свёрток.",
+        "th": "ผลึกความรู้มากมายที่ซื้อจากแผงขายของของ Dori โดยที่ได้รับทุนสนับสนุนมาจาก Alhaitham ถูกใส่ไว้ในห่อสินค้าทั่วไปเพื่อปกปิดจากสายตาของผู้คน",
+        "vi": "Một vài Hũ Tri Thức được Alhaitham tài trợ và mua tại quầy Dori, vì để tránh tai mắt nên được bỏ vào túi hàng hóa bình thường."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "BP Pick 1 of 3 Test Bundle",
+        "de": "Erlebnispass-Testpaket „1 von 3“",
+        "chs": "BP三选一测试礼包",
+        "cht": "BP三選一測試禮包",
+        "es": "Paquete regalo de prueba de PB. Escoger 1 de 3",
+        "fr": "Packs PB (Choisissez en 1 sur 3)",
+        "id": "BP Pilih 1 dari 3 Test Bundle",
+        "jp": "テスト用BP選択ギフトパック",
+        "kr": "BP 3중 택1 테스트 패키지",
+        "pt": "PB Escolha 1 dos 3 Pacotes de Teste",
+        "ru": "test",
+        "th": "BP เลือก 1 ใน 3 แพ็กเกจทดสอบ",
+        "vi": "BP chọn 1 trong 3 Test gói quà"
+    },
+    "id": 116003,
+    "materialDesc": {
+        "en": "",
+        "de": "",
+        "chs": "",
+        "cht": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "jp": "",
+        "kr": "",
+        "pt": "",
+        "ru": "",
+        "th": "",
+        "vi": ""
+    },
+    "materialType": "MATERIAL_SELECTABLE_CHEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Onikabuto",
+        "de": "Onikabuto",
+        "chs": "鬼兜虫",
+        "cht": "鬼兜蟲",
+        "es": "Escaradiablo",
+        "fr": "Scarabuto",
+        "id": "Onikabuto",
+        "jp": "オニカブトムシ",
+        "kr": "귀신풍뎅이",
+        "pt": "Onikabuto",
+        "ru": "Оникабуто",
+        "th": "Onikabuto",
+        "vi": "Onikabuto"
+    },
+    "id": 101201,
+    "materialDesc": {
+        "en": "A strange beetle that inhabits areas rich with Electro energy. Its docile and sedentary temperament could not be more different from the fierce, demonic visage displayed on its armored shell.",
+        "de": "Ein seltsamer Käfer, der in Gebieten lebt, die reich an Elektro-Energie sind. Sein sanftmütiges und sesshaftes Temperament könnte nicht unterschiedlicher sein als die grimmige, dämonische Visage, die auf seinem Panzer zu sehen ist.",
+        "chs": "栖息在雷元素富集区域的奇异甲虫。与甲壳上宛如怒目而视的恶鬼之相相反，鬼兜虫其实非常温顺迟钝。",
+        "cht": "棲息在雷元素富集區域的奇異甲蟲。與甲殼上宛如怒目而視的惡鬼之相相反，鬼兜蟲其實非常溫順遲鈍。",
+        "es": "Un escarabajo extraño que habita en zonas donde abunda el elemento Electro. Podría decirse que su caparazón es lo contrario a la mirada enfurecida de un espíritu poseído, pues en realidad los escaradiablos tienen poco de malignos: son dóciles y lentos.",
+        "fr": "Un scarabée étrange qui peuple les zones riches en énergie Électro. Son tempérament docile et sédentaire ne pourrait pas contraster plus avec la forme féroce et démoniaque qui orne sa carapace.",
+        "id": "Kumbang aneh yang hidup di area yang kaya dengan energi Electro. Temperamennya yang jinak dan tenang sangat bertolak belakang dengan cangkang bajanya yang memiliki tampilan wajah garang seperti iblis.",
+        "jp": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
+        "kr": "번개 원소가 풍부한 곳에 서식하는 기이한 갑충류. 갑각에 있는 분노에 찬 악귀와는 달리, 사실 귀신풍뎅이는 무척 온순하고 굼뜬 곤충이다",
+        "pt": "Um escaravelho estranho que habita áreas ricas em energia Electro. Seu temperamento dócil e sedentário não poderia ser mais diferente da visão feroz e demoníaca exibida em sua casca blindada.",
+        "ru": "Необычный жук, который водится в богатых элементом Электро областях. Хоть и панцирь оникабуто напоминает злобного демона, сам жук миролюбив и медлителен.",
+        "th": "แมลงปีกแข็งแปลกประหลาดที่อาศัยอยู่ในพื้นที่ที่อุดมไปด้วยธาตุไฟฟ้า ตรงกันข้ามกับรูปลักษณ์ของวิญญาณชั่วร้ายที่อยู่บนกระดอง ความจริงแล้วมันเป็นสิ่งมีชีวิตที่อ่อนโยนและเฉื่อยชามาก",
+        "vi": "Giáp trùng kỳ lạ ngủ vùi trong khu vực hội tụ nguyên tố Lôi. Trái ngược với lớp vỏ hung tợn, Onikabuto thật ra rất hiền lành và chậm chạp."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

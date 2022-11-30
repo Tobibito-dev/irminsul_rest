@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Gliding Champion Cup",
+        "de": "Flugmeisterschaftspokal",
+        "chs": "飞行冠军奖杯",
+        "cht": "飛行冠軍獎盃",
+        "es": "Copa de Campeones de Vuelo",
+        "fr": "Trophée du Championnat de planage",
+        "id": "Piala Juara Meluncur",
+        "jp": "飛行チャンピオンのトロフィー",
+        "kr": "비행 챔피언 트로피",
+        "pt": "Copa dos Campeões de Planagem",
+        "ru": "Кубок Чемпиона Полётов",
+        "th": "Gliding Champion Cup",
+        "vi": "Cúp quán quân bay lượn"
+    },
+    "id": 100010,
+    "materialDesc": {
+        "en": "Awarded to the Mondstadt Gliding Competition Champion.",
+        "de": "Für den Gewinner der Flugmeisterschaften von Mondstadt.",
+        "chs": "会被颁发给蒙德城的飞行比赛冠军",
+        "cht": "會頒發給蒙德城的飛行比賽冠軍。",
+        "es": "Otorgado al Campeón de la Competición de Vuelo de Mondstadt.",
+        "fr": "Décerné au gagnant du Championnat de planage de Mondstadt.",
+        "id": "Penghargaan yang diberikan pada juara lomba meluncur di Mondstadt.",
+        "jp": "モンドの飛行チャンピオンに贈られるもの",
+        "kr": "몬드성의 비행 시합 우승자에게 수여된다",
+        "pt": "Concedido ao Campeão da Competição de Planagem de Mondstadt.",
+        "ru": "Награда Чемпиону Турнира по Полётам в Мондштадте.",
+        "th": "รางวัลของแชมป์การแข่งขันร่อนเวหาแห่งเมือง Mondstadt",
+        "vi": "Trao cho quán quân bay lượn thành Mondstadt."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

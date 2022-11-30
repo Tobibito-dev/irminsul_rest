@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ubiquity Net",
+        "de": "Netz der Ubiquität",
+        "chs": "「四方之网」",
+        "cht": "「四方之網」",
+        "es": "Red de la ubicuidad",
+        "fr": "Filet d'ubiquité",
+        "id": "Ubiquity Net",
+        "jp": "「四方の網」",
+        "kr": "「사방의 그물」",
+        "pt": "Rede Ubíqua",
+        "ru": "Сеть вездесущности",
+        "th": "Ubiquity Net",
+        "vi": "\"Lưới Bắt Thú\""
+    },
+    "id": 220046,
+    "materialDesc": {
+        "en": "A friend of Sango's used Kamuna Onmyoudou in a fit of inspiration to create this convenient little gadget. It is not powerful enough to capture criminals, but with a little aim, capturing little animals should be a cinch.",
+        "de": "Ein Freund von Sango wurde von anderen inspiriert und hat mithilfe von „Kamuna-Onmyoudou“ dieses praktische Ding entwickelt. Es ist nicht stark genug, um Verbrecher zu fangen, aber mit ein wenig Zielsicherheit sollte es ein Kinderspiel sein, kleine Tiere zu fangen.",
+        "chs": "珊瑚的友人受到启发后，借鉴了「惟神阴阳术」，制作出的方便道具。虽然力量不足以降伏犯罪，但只要认真瞄准的话，捕捉小动物不在话下。",
+        "cht": "珊瑚的友人受到啟發後，借鑑了「惟神陰陽術」，製作出的方便道具。雖然力量不足以降伏犯罪，但只要認真瞄準的話，捕捉小動物不在話下。",
+        "es": "Un objeto muy útil hecho por una amiga de Sango mediante la magia onmyoudou de Kamuna. Aunque no tiene el poder suficiente para subyugar el mal, capturar pequeños animales será pan comido siempre y cuando apuntes bien.",
+        "fr": "Une amie de Sango a utilisé la magie onmyoudou de Kamuna comme inspiration pour créer ce petit gadget pratique. Il n'est pas assez puissant pour capturer des criminels, mais en visant bien, vous devriez pouvoir capturer facilement de petits animaux.",
+        "id": "Teman Sango menggunakan Kamuna Onmyoudou sebagai inspirasi untuk membuat peralatan kecil yang nyaman ini. Benda ini tidak cukup kuat untuk menangkap penjahat, tetapi kalau membidik menggunakan alat ini dengan lebih hati-hati, menangkap hewan kecil seharusnya mudah saja.",
+        "jp": "珊瑚の友人が「惟神陰陽術」を参考して作らせた便利な道具。犯罪者を取り押さえるほどの力はないけど、動物くらいは余裕で捕獲できる。",
+        "kr": "산고의 친구가 영감을 얻어 「카무나 음양술」을 참고해 제작한 간편 아이템. 범인을 포박할 수는 없지만, 집중해 조준하면 동물쯤은 문제없다",
+        "pt": "Uma amiga da Sango usou os Onmyoudou de Kamuna em uma explosão de inspiração para criar este pequeno objeto conveniente. Não é poderoso o suficiente para capturar criminosos, mas com um pouco de pontaria, capturar pequenos animais deve ser uma tarefa fácil.",
+        "ru": "В порыве вдохновения подруга Санго использовала Камуна оммёдо для создания этого удобного небольшого инструмента. Его сил не хватит для ловли преступников, но поимка мелких животных не составит и труда.",
+        "th": "หลังจากที่เพื่อนของ Sango ได้รับแรงบันดาลใจ เขาใช้วิชาองเมียวของ Kamuna สร้างไอเทมแสนสะดวกชิ้นนี้ แม้ว่าพลังจะไม่เพียงพอที่จะจับคนร้ายได้ แต่หากเล็งแบบตั้งใจก็สามารถจับสิ่งมีชีวิตตัวน้อยได้อย่างแน่นอน",
+        "vi": "Bạn của Sango sau khi nhận được gợi ý, đã dùng \"Kamuna Onmyoudou\" chế tạo ra đạo cụ tiện lợi này. Nó không đủ mạnh để bắt tội phạm, nhưng chỉ cần nhắm chuẩn, thì việc bắt những động vật nhỏ cũng không phải vấn đề gì to tát."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

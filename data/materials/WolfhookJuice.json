@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wolfhook Juice",
+        "de": "Wolfshakensaft",
+        "chs": "冰钩钩果汁",
+        "cht": "冰鉤鉤果汁",
+        "es": "Jugo de gancho de lobo",
+        "fr": "Jus de baie à crochet glacé",
+        "id": "Wolfhook Juice",
+        "jp": "ググプラムのジュース",
+        "kr": "고리고리 주스",
+        "pt": "Suco de Gancho do Lobo",
+        "ru": "Сок из волчьих крюков",
+        "th": "Wolfhook Juice",
+        "vi": "Nước Ép Quả Móc Câu"
+    },
+    "id": 108149,
+    "materialDesc": {
+        "en": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Iced Wolfhook juice mixed with a pinch of other ingredients, forming a dreamy shade of violet.",
+        "de": "Ein frisches alkoholfreies Getränk, das sehr in Mode ist. Mit ein paar Eiswürfeln und einigen Zusätzen wird aus dem Wolfshakensaft ein traumhaft schmeckendes lila Erlebnis.",
+        "chs": "清新时尚的无酒精饮品。在鲜榨的钩钩果果汁中放入冰块并稍加调制，泛起梦幻般的紫色。",
+        "cht": "清新時尚的無酒精飲品。在鮮榨的鉤鉤果果汁中放入冰塊並稍加調製，泛起夢幻般的紫色。",
+        "es": "Una popular bebida sin alcohol, afrutada y recién exprimida. Está hecha con jugo de gancho de lobo helado mezclado con otros ingredientes, lo que le otorga su fantástico tono violeta.",
+        "fr": "Une boisson fraîche non alcoolisée très en vogue dernièrement. Ajoutez quelques glaçons dans du jus de baie à crochet fraîchement pressé et mélangez pour lui faire prendre une couleur violette.",
+        "id": "Minuman buah non-alkohol yang baru diperas dan menyegarkan. Jus Wolfhook yang dicampur dengan es batu dan sedikit bahan lain membentuk warna ungu yang indah menawan.",
+        "jp": "最近流行っているノンアルコールドリンク。搾りたてのググプラムのジュースに氷を入れた、幻の紫色のドリンク。",
+        "kr": "청량하고 예쁜 무알코올 음료. 생고리고리 열매 과즙을 얼음에 넣고 약간의 혼합을 가하여 몽환적인 보라빛을 띤다",
+        "pt": "Uma bebida sem álcool, estilosa e refrescante. Colocar uns gelos no suco de Gancho do Lobo produz uma cor de roxo onírica.",
+        "ru": "Модный свежевыжатый безалкогольный напиток. Сочетание сока из волчьих крюков, лёд и щепотка других ингредиентов даёт сказочный оттенок пурпурного.",
+        "th": "เครื่องดื่มไม่มีแอลกอฮอล์ที่สดชื่นและเป็นที่นิยมมาก น้ำผลไม้คั้นสด ๆ ที่ใส่น้ำแข็งลงไปและเพิ่มส่วนผสมเล็กน้อยเพื่อให้ได้สีม่วงในฝัน",
+        "vi": "Đồ uống không cồn tươi ngon sành điệu. Bỏ đá vào nước ép Quả Móc Câu và pha chế một chút, hiện ra màu tím mộng mơ."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

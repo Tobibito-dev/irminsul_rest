@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Repaired Comb",
+        "de": "Reparierter Kamm",
+        "chs": "修好的梳子",
+        "cht": "修好的梳子",
+        "es": "Peine reparado",
+        "fr": "Peigne réparé",
+        "id": "Sisir yang Sudah Diperbaiki",
+        "jp": "修理されたクシ",
+        "kr": "고쳐진 빗",
+        "pt": "Pente Consertado",
+        "ru": "Отремонтированный гребень",
+        "th": "หวีที่ซ่อมเสร็จแล้ว",
+        "vi": "Chiếc Lược Đã Sửa"
+    },
+    "id": 101605,
+    "materialDesc": {
+        "en": "The comb that Ningguang commissioned Mingxing Jewelry to repair. It belongs to a special informant. The damage to the comb was originally quite severe. The fact that it could be repaired to this extent is quite impressive indeed.",
+        "de": "Der Kamm, den Ningguang beim Warenhaus Mingxing in Auftrag gegeben hat, wurde repariert. Er gehört einem besonderen Informanten. Der Kamm war ursprünglich ziemlich stark beschädigt. Die Tatsache, dass er in diesem Ausmaß repariert werden konnte, ist schon ziemlich beeindruckend.",
+        "chs": "凝光委托「明星斋」修复的梳子，它属于一位有些特殊的情报人。据说梳子原来的损伤很严重，能复原到现在的程度实属不易。",
+        "cht": "凝光委託「明星齋」修復的梳子，它屬於一位有些特殊的情報人。據說梳子原來的損傷很嚴重，能復原到現在的程度實屬不易。",
+        "es": "Un peine cuya reparación le encargó Ninguang a Joyas Mingxing. Pertenece a un especial informante. Estaba en tan mal estado que es verdaderamente increíble que lo hayan podido reparar.",
+        "fr": "Le peigne que Ningguang a demandé à la Bijouterie Mingxing de réparer. Il appartient à un informateur spécial. Les dommages étaient très importants à l'origine. Le fait qu'il ait pu être réparé est assez impressionnant.",
+        "id": "Ningguang meminta Mingxing Jewelry untuk memperbaiki sisir milik seorang informan khusus ini. Sisir ini sebelumnya rusak parah. Perbaikannya memang sungguh mumpuni karena bisa dikembalikan ke keadaannya saat ini.",
+        "jp": "凝光が「明星斎」に修理の依頼をしたクシ。ある特殊な情報提供者の持ち物。クシの損傷が激しく、ここまで復元するのは容易ではなかったと言われている。",
+        "kr": "응광이 「명성재」에 수리를 의뢰한 빗. 특별한 정보 요원의 것이다. 빗이 많이 망가졌지만 이 정도 까지 복원된 것만으로도 쉬운 일이 아니다",
+        "pt": "Um pente que foi consertado pela Joalheria Mingxing a pedido de Ningguang. Ele pertence a uma pessoa com informações especiais. Devido aos danos que o pente sofreu, restaurá-lo não foi uma tarefa fácil.",
+        "ru": "Гребень, который Нин Гуан поручила отремонтировать ювелирному дому «Минсин». Он принадлежит одному особому осведомителю. Гребень был очень сильно повреждён. Просто чудо, что его удалось восстановить до такой степени.",
+        "th": "หวีที่ Ningguang ไหว้วานให้ \"Mingxing Jewelry\" ซ่อมให้ มันเป็นของเจ้าหน้าที่ข่าวกรองที่มีความพิเศษคนหนึ่ง ว่ากันว่าเดิมทีหวีชิ้นนี้เสียหายหนักมาก การจะซ่อมแซมให้กลับมาอยู่ในสภาพนี้ไม่ใช่เรื่องง่ายเลย",
+        "vi": "Chiếc lược mà Ningguang ủy thác cho \"Minh Tinh Trai\" sửa chữa, nó thuộc về một người cung cấp thông tin đặc biệt. Nghe nói chiếc lược này đã bị hư tổn nghiêm trọng, sửa được như thế này thật không dễ dàng gì."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

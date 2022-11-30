@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bennett's Stella Fortuna",
+        "de": "Stella Fortuna von Bennett",
+        "chs": "班尼特的命星",
+        "cht": "班尼特的命星",
+        "es": "Stella Fortuna de Bennett",
+        "fr": "Stella Fortuna de Bennett",
+        "id": "Bennett's Stella Fortuna",
+        "jp": "ベネットの星屑",
+        "kr": "베넷의 운명의 별",
+        "pt": "Stella Fortuna de Bennett",
+        "ru": "Удача Беннета",
+        "th": "ดวงดาวแห่งชีวิตของ Bennett",
+        "vi": "Chòm Sao Của Bennett"
+    },
+    "id": 1132,
+    "materialDesc": {
+        "en": "Bennett's Constellation Activation Material",
+        "de": "Material zum Aktivieren von Bennetts Sternbild",
+        "chs": "班尼特的命之座激活素材",
+        "cht": "班尼特的命之座啟用素材。",
+        "es": "Material de activación de constelación de Bennett",
+        "fr": "Matériau d'activation de la constellation de Bennett.",
+        "id": "Material aktivasi untuk konstelasi Bennett",
+        "jp": "ベネットの命ノ星座アンロック用素材",
+        "kr": "베넷의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Bennett",
+        "ru": "Материал для активации созвездия Беннета.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Bennett",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Bennett"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

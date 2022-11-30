@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Well-Equipped Study",
+        "de": "Gut ausgestattetes Arbeitszimmer",
+        "chs": "设施完备的书房",
+        "cht": "設施完備的書房",
+        "es": "Estudio bien equipado",
+        "fr": "Salle d'étude bien meublée",
+        "id": "Ruang Baca Lengkap",
+        "jp": "完備した書斎",
+        "kr": "풀옵션 서재",
+        "pt": "Estudo Bem Equipado",
+        "ru": "Хорошо оснащённый кабинет",
+        "th": "ห้องสมุดการศึกษาแบบรอบด้าน",
+        "vi": "Phòng Đọc Sách Tiện Nghi"
+    },
+    "id": 350016,
+    "materialDesc": {
+        "en": "A detailed step-by-step blueprint for setting up a Well-Equipped Study.\\nBooks line the wall in this Mondstadt-style study. Considering that the books are many but the users are few, splitting the books into proper categories is of particular importance.\\nAfter using this item, you can view it in the Placement Screen.",
+        "de": "Bauplan mit detaillierten Schritten zur Platzierung von „Gut ausgestattetes Arbeitszimmer“.\\nBücher säumen die Wand in diesem Arbeitszimmer im Mondstadt-Stil. In Anbetracht der Tatsache, dass es viele Bücher, aber nur wenige Leser gibt, ist die Einteilung der Bücher in geeignete Kategorien von besonderer Bedeutung.\\nNach der Anwendung im Platzierungsmenü zu finden.",
+        "chs": "步骤详实的图纸，记载着「设施完备的书房」的放置方法。\\n书盈一壁的蒙德书房。考虑到书本繁多，但使用书房的人较少，对书籍分类摆放尤为重要。\\n使用后可进入放置界面查看。",
+        "cht": "步驟詳實的圖紙，記載著「設施完備的書房」的放置方法。\\n書盈一壁的蒙德書房。考慮到書本繁多，但使用書房的人較少，對書籍分類擺放尤為重要。\\n使用後可進入放置介面查看。",
+        "es": "Plano detallado para colocar un Estudio bien equipado.\\nEn la pared de este estudio al estilo Mondstadt hay colocada una fila de libros. Teniendo en cuenta que hay muchos ejemplares, pero pocos lectores, es muy importante organizar adecuadamente los libros en categorías.\\nTras usarlo, entra en el menú de colocación para verlo.",
+        "fr": "Étapes de mise en place de la salle d'étude bien meublée.\\nDes livres tapissent le mur de ce bureau de style mondstadtois. Étant donné que les livres sont nombreux, mais que les lecteurs ne le sont pas, il est particulièrement important de diviser les livres en catégories appropriées.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.",
+        "id": "Blueprint yang berisi langkah-langkah untuk memasang \"Ruang Baca Lengkap\".\\nBuku-buku berjejer sepanjang dinding di ruang baca bergaya Mondstadt ini. Karena jumlah buku jauh lebih banyak dibanding pembacanya, sangat penting untuk meletakkan buku-buku ini sesuai kategorinya.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.",
+        "jp": "「完備した書斎」の詳しい配置方法が載っている設計図。\\n本で埋め尽くされたモンド書斎の壁。本の数は多いが、利用する人の数が少ないことを考えると、本を分類して並べることは特に重要になる。\\n使用後、配置画面で確認することができる。",
+        "kr": "작업 순서가 상세히 적힌 도면, 「풀옵션 서재」의 설치 방법이 기재되어 있다.\\n책이 가득한 몬드 서재. 책은 많지만 서재를 이용하는 사람이 많지 않은 상황에서는 책을 분류하고 배치하는 것이 특히 중요하다.\\n사용 후 배치 화면에서 확인 할 수 있다",
+        "pt": "Um diagrama que descreve passo a passo como instalar \"Escritório Bem Equipado\".\\nOs livros se alinham na parede dessa sala ao estilo de Mondstadt. Considerando que são muitos livros, mas poucos usuários, dividir os livros em categorias é de suma importância.\\nDepois de usar, você pode entrar na interface de colocação para ver.",
+        "ru": "Подробная схема размещения комплекта «Хорошо оснащённый кабинет».\\nКабинет в стиле Мондштадта, заполненный книгами. Учитывая, что книг много, а читателей мало, разделение книг на соответствующие категории имеет особое значение.\\nПосле использования чертежа вы можете перейти в меню расстановки для просмотра.",
+        "th": "แบบแปลนอธิบายวิธีจัดวาง \"ห้องสมุดการศึกษาแบบรอบด้าน\"\\nห้องหนังสือที่มีหนังสือเรียงรายกันอย่างละลานตาของ Mondstadt ถึงแม้จะมีหนังสืออยู่มากมาย แต่คนที่ใช้ห้องหนังสือกลับค่อนข้างน้อย การจัดเรียงหนังสือตามประเภทจึงมีความสำคัญเป็นอย่างยิ่ง\\nเมื่อใช้แล้วจะสามารถเข้าไปตรวจสอบในหน้าการจัดวางได้",
+        "vi": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Phòng Đọc Sách Tiện Nghi\".\\nThư phòng đầy sách ở Mondstadt. Sách quá nhiều nhưng lại ít người dùng thư phòng, nên việc phân loại sách là vô cùng quan trọng.\\nSau khi dùng có thể đến giao diện bày trí để xem."
+    },
+    "materialType": "MATERIAL_FURNITURE_SUITE_FORMULA"
+}

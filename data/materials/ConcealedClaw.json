@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Concealed Claw",
+        "de": "Kralle der versteckten Monster",
+        "chs": "隐兽指爪",
+        "cht": "隱獸指爪",
+        "es": "Garra oculta",
+        "fr": "Griffe dissimulée",
+        "id": "Concealed Claw",
+        "jp": "隠獣の指爪",
+        "kr": "맹수 발톱",
+        "pt": "Garra Escondida",
+        "ru": "Скрытый коготь",
+        "th": "Concealed Claw",
+        "vi": "Móng Vuốt Ma Thú"
+    },
+    "id": 112056,
+    "materialDesc": {
+        "en": "Residual body tissue left behind by one of the Riftwolves.\\nBy ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land.",
+        "de": "Restliches Körpergewebe, das von einem der Garmwölfe zurückgelassen wurde.\\nLogischerweise hätten diese Objekte, die dieser Welt so fremd sind, nicht zurückbleiben dürfen, nachdem diese abnormen Kreaturen vertrieben worden waren.",
+        "chs": "兽境群狼的残留身体组织。\\n按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。",
+        "cht": "獸境群狼的殘留身體組織。\\n按照常理來說，這種與此世不容的事物不應在這種異常造物被驅逐後，殘留於世才對。",
+        "es": "Tejido residual del cuerpo de un Acechador.\\nPor lógica, estos objetos, tan extraños para este mundo, no deberían haberse quedado aquí después de que estas insólitas criaturas fueran expulsadas.",
+        "fr": "Le tissu résiduel provenant du corps d'un canidé de faille.\\nEn toute logique, cet objet qui n'appartient guère à ce monde n'aurait pas dû subsister après l'anéantissement de ces créatures anormales.",
+        "id": "Jaringan tubuh yang tersisa dari salah satu Riftwolves.\\nMenurut logika, benda-benda yang begitu asing untuk dunia ini, seharusnya sudah tidak ada setelah makhluk abnormal ini diusir dari daratan.",
+        "jp": "獣域ウルブズが残した体の一部。\\n通常、このような異常創造生物が駆逐された後、これらの世に相容れないものが残るのは奇怪なことである。",
+        "kr": "수계 늑대 무리의 신체 조직.\\n이 세계가 허용할 수 없는 이러한 신체 일부는, 비정상적인 생명체가 처치되어 버린 후에 세계에 남아있어서는 안된다는 게 일반적인 생각이다",
+        "pt": "Tecido corporal deixado para trás por um dos Caninos da Fenda.\\nPor lógica ordinária, esses objetos, tão alienígenas para esse mundo, não deveriam ter ficado para trás após essas criaturas anormais terem sido expurgadas dessa terra.",
+        "ru": "Остатки телесных тканей, принадлежавших одному из волков Разрыва.\\nПо законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны.",
+        "th": "ชิ้นส่วนร่างกายที่หลงเหลืออยู่จากร่างของ Riftwolf\\nโดยทั่วไปแล้ว วัตถุที่เป็นสิ่งแปลกปลอมเหล่านี้ไม่ควรหลงเหลืออยู่ในโลกใบนี้ หลังจากสิ่งมีชีวิตที่ผิดปกติได้ถูกกำจัดไป",
+        "vi": "Mô cơ thể còn sót lại của bầy sói ma vật. \\nTheo lẽ thường, những thứ không tương thích với vùng đất này lẽ ra không nên sót lại sau khi bị trục xuất mới phải."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

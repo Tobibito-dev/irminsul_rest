@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Recipe: Teyvat Fried Egg",
+        "de": "Rezept: Teyvat-Spiegelei",
+        "chs": "食谱：提瓦特煎蛋",
+        "cht": "食譜：提瓦特煎蛋",
+        "es": "Receta: Huevo frito de Teyvat",
+        "fr": "Recette : Œuf au plat de Teyvat",
+        "id": "Resep: Teyvat Fried Egg",
+        "jp": "レシピ：テイワット風目玉焼き",
+        "kr": "레시피: 티바트 달걀 프라이",
+        "pt": "Receita: Ovo Frito de Teyvat",
+        "ru": "Рецепт: Яичница по-тейватски",
+        "th": "สูตรอาหาร: Teyvat Fried Egg",
+        "vi": "Công Thức: Trứng Chiên Teyvat"
+    },
+    "id": 109201,
+    "materialDesc": {
+        "en": "A detailed step-by-step recipe for making a Teyvat Fried Egg.",
+        "de": "Rezept mit detaillierten Schritten zur Zubereitung von „Teyvat-Spiegelei“.",
+        "chs": "步骤详实的食谱，记载着「提瓦特煎蛋」的制作方法。",
+        "cht": "步驟詳實的食譜，記載著「提瓦特煎蛋」的製作方法。",
+        "es": "Receta paso a paso para hacer un huevo frito de Teyvat.",
+        "fr": "Étapes de préparation de l'œuf au plat de Teyvat.",
+        "id": "Resep yang berisi langkah-langkah untuk membuat Teyvat Fried Egg.",
+        "jp": "「テイワット目玉焼き」の詳しい作り方が載っているレシピ。",
+        "kr": "조리 과정이 자세히 적혀 있는 레시피. 「티바트 달걀 프라이」의 조리 방법이 적혀있다",
+        "pt": "Receita passo a passo do \"Ovo Frito de Teyvat\".",
+        "ru": "Подробный рецепт приготовления блюда «Яичница по-тейватски».",
+        "th": "สูตรอธิบายวิธีทำ \"Teyvat Fried Egg\" โดยละเอียด",
+        "vi": "Công thức món ăn, ghi lại cách làm món \"Trứng Chiên Teyvat\"."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

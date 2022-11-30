@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fetters of the Dandelion Gladiator",
+        "de": "Fesseln des Löwenzahnkämpfers",
+        "chs": "狮牙斗士的枷锁",
+        "cht": "獅牙鬥士的枷鎖",
+        "es": "Grilletes de Diente de León",
+        "fr": "Entraves du Chevalier du Croc de Lion",
+        "id": "Fetters of the Dandelion Gladiator",
+        "jp": "獅牙戦士の枷",
+        "kr": "라이언 투사의 족쇄",
+        "pt": "Grilhões de Dandelion",
+        "ru": "Кандалы львиного клыка",
+        "th": "Fetters of the Dandelion Gladiator",
+        "vi": "Xiềng Xích Đấu Sĩ Nanh Sư Tử"
+    },
+    "id": 114009,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nIt's a human thing to exaggerate a hero's story, even to the point of elevating the fetters that once bound the hero to the level of an enemy of true freedom.\\nAs a result, these fetters were granted extraordinary powers.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nMenschen übertreiben gern bei Heldengeschichten. Das geht sogar so weit, dass selbst die Fesseln, die einen Helden einst gefangen hielten, zum Feind der Freiheit erhoben werden.\\nAus diesem Grund besitzen diese Ketten eine überaus große Kraft.",
+        "chs": "赋予武器突破之力的材料。\\n人们总是会对英雄的故事过分夸大啦。甚至是曾经束缚英雄的枷锁，都被升华到了自由之敌的高度。\\n因此这些锁链也拥有了非凡的力量。",
+        "cht": "賦予武器突破之力的素材。\\n人們總是會對英雄的故事過分誇大。甚至是曾經束縛英雄的枷鎖，都被昇華到了自由之敵的高度。\\n因此這些鎖鏈也擁有了非凡的力量。",
+        "es": "Material de ascensión de arma.\\nExagerar las historias de héroes es algo humano. Después de numerosas alteraciones de una leyenda popular, estos grilletes se hicieron famosos como símbolo de la lucha por la libertad. Más tarde, les fueron otorgados poderes extraordinarios.",
+        "fr": "Matériau d'élévation d'arme.\\nLes humains aiment exagérer les exploits de leurs héros, au point de faire de simples entraves de véritables ennemis de la liberté.\\nCelles-ci ont été donc bénies par des pouvoirs extraordinaires pour cette raison.",
+        "id": "Material Ascension Senjata.\\nMelebih-lebihkan kisah pahlawan adalah sifat manusia, bahkan sampai mengangkat rantai yang mengikat pahlawan sampai di tingkat di mana ia menjadi musuh kebebasan.\\nKarenanya, rantai ini juga memiliki kekuatan yang luar biasa.",
+        "jp": "武器に突破の力を付与する材料。\\n人々は英雄の物語を誇張して描く傾向がある。かつて英雄を束縛した枷まで、自由の敵として描かれている。\\nそのため、この枷も通常ではない力が付与された。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n사람들은 늘 영웅의 이야기를 과장한다. 심지어 과거 영웅을 속박했던 족쇄도 자유의 적으로 승화됐다.\\n때문에 이 족쇄도 비범한 힘을 지니게 되었다",
+        "pt": "Material de Ascensão de Armas.\\nOs humanos costumam gostar de exagerar na história de um herói. Depois de inúmeras alterações de uma lenda popular, estes grilhões ficaram famosos como símbolo da luta pela liberdade.\\nMais tarde, foram concedidos poderes extraordinários para essas correntes.",
+        "ru": "Материал возвышения оружия.\\nЛюди любят преувеличивать подвиги героев, они даже освобождают их от оков, что делали их врагами.\\nПоэтому этим оковам были даны необычайные силы.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nมนุษย์นั้นมักจะสร้างเรื่องเหล่าฮีโร่ให้ดูยิ่งใหญ่เกินจริงอยู่เสมอ แม้กระทั่งโซ่ที่เคยใช้จับกุมฮีโร่มาก่อน ก็ยังถูกเรียกว่าศัตรูของอิสรภาพ\\nเพราะงั้นเหล่าโซ่เหล็กพวกนี้ก็ได้รับ พลังที่มากมายไว้ครอบครองเช่นกัน",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nMọi người thường nói quá về câu chuyện của anh hùng. Thậm chí xiềng xích từng trói buộc anh hùng cũng bị cho rằng là bản chất của tự do.\\nCho nên xiềng xích cũng trở nên có sức mạnh phi phàm."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

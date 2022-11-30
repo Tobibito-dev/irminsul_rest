@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Realm Dispatch",
+        "de": "Kannenrapport",
+        "chs": "洞天关牒",
+        "cht": "洞天關牒",
+        "es": "Salvoconducto del mundo interior",
+        "fr": "Permis de transit de royaume",
+        "id": "Tanda Izin Masuk",
+        "jp": "洞天通行証",
+        "kr": "선계 초대장",
+        "pt": "Passagem do Paraíso Mágico",
+        "ru": "Допуск обители",
+        "th": "บัตรเชิญสู่อาณาจักร",
+        "vi": "Giấy Phép Động Tiên"
+    },
+    "id": 101515,
+    "materialDesc": {
+        "en": "A realm dispatch that you obtained from Tubby. It seems to be able to allow your companions to come and go in your realm as they please...\\nAfter acquiring this item, you can invite companions to reside in your Serenitea Pot from the Placement Screen.",
+        "de": "Ein Kannenrapport, den du von Knolle erhalten hast. Mit dieser Karte können deine Freunde ohne Einschränkung dein Kannenreich betreten oder verlassen.\\nNach dem Erhalten dieses Objekts kannst du im Platzierungsfenster deine Kameraden einladen, mit dir in die „Kanne der Vergänglichkeit“ zu kommen.",
+        "chs": "从阿圆处得到的「洞天关牒」。似乎可以用来让同伴们在洞天中自由来去…\\n获取此物品后，即可前往放置界面，邀请同伴入驻「尘歌壶」。",
+        "cht": "從阿圓處得到的「洞天關牒」。似乎可以用來讓同伴們在洞天中自由來去…\\n獲得此物品後，即可前往放置介面，邀請同伴入駐「塵歌壺」。",
+        "es": "Un salvoconducto del mundo interior que te dio Gordi. Sirve para autorizar el libre tránsito de acompañantes dentro de él.\\nAl obtenerlo, puedes invitar acompañantes a residir en tu Relajatetera a través de la interfaz de Colocación.",
+        "fr": "Un permis de transit obtenu de Taby. Il semble permettre à vos amis de pouvoir aller et venir à leur guise dans votre royaume...\\nAprès avoir acquis cet objet, vous pouvez inviter des compagnons à séjourner dans votre Sérénithéière à partir de l'interface de placement.",
+        "id": "Tanda Izin Masuk ke Alam Poci yang diberikan Tubby. Sepertinya bisa digunakan agar rekanmu bisa keluar masuk Alam Poci dengan bebas...\\nSetelah mendapat item ini, bukalah Menu Penempatan dan undang rekan untuk menetap di Serenitea Pot.",
+        "jp": "マルから入手した「洞天通行証」。洞天に仲間を自由に出入りさせることができるとの噂…\\n入手すると、配置画面で仲間を「塵歌壺」に招くことができるようになる。",
+        "kr": "포롱이에게서 받은 「선계 초대장」. 친구를 선계로 불러서 자유롭게 오갈 수 있게 해주는 것 같다….\\n아이템 획득 후 배치 화면에 진입해 「속세의 주전자」로 동료를 초대할 수 있다",
+        "pt": "Uma Passagem do Paraíso Mágico obtida de Tubby. Parece que é possível deixar seus amigos entrarem e saírem livremente do seu Paraíso Mágico...\\nDepois de obter esse item, será possível ir imediatamente para a Interface de Colocação e convidar seus amigos para o Bule de Relachá.",
+        "ru": "Допуск обители, который вы получили от Пухляша. Он позволит друзьям посещать вашу обитель в удобное для них время.\\nПосле получения этого предмета вы можете пригласить компаньонов поселиться в вашем Чайнике безмятежности на экране размещения.",
+        "th": "\"บัตรเชิญสู่อาณาจักร\" ที่ได้รับจาก Tubby ดูเหมือนว่าจะสามารถใช้เพื่อให้เพื่อนเดินทางมาเที่ยวในอาณาจักรได้อย่างอิสระ...\\nหลังได้รับไอเทมแล้ว ก็จะสามารถไปยังหน้าการจัดวาง เพื่อเชิญเพื่อนร่วมทางเข้าอาศัยใน \"Serenitea Pot\"",
+        "vi": "\"Giấy Phép Động Tiên\" lấy từ chỗ Tubby. Dường như có thể dùng để tự do đi lại trong Động Tiên...\\nSau khi nhận vật này có thể vào giao diện bày trí mời bạn đồng hành vào ở trong \"Ấm Trần Ca\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

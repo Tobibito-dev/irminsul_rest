@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Arana's Flower",
+        "de": "Blume von Arana",
+        "chs": "兰拉娜的花",
+        "cht": "蘭拉娜的花",
+        "es": "Flor de Arana",
+        "fr": "Fleur d'Arana",
+        "id": "Bunga Arana",
+        "jp": "アランラナの花",
+        "kr": "아란나의 꽃",
+        "pt": "Flor de Arana",
+        "ru": "Цветок Араны",
+        "th": "ดอกไม้ของ Arana",
+        "vi": "Hoa Arana"
+    },
+    "id": 101814,
+    "materialDesc": {
+        "en": "A flower gifted to you by Arana.\\nYou promised Arana that the evil shall be punished.",
+        "de": "Eine von Arana geschenkte Blume.\\nSie ist ein Versprechen an Arana, das Böse zu bestrafen.",
+        "chs": "兰拉娜赠送的花儿。\\n答应了兰拉娜，要惩罚恶人。",
+        "cht": "蘭拉娜贈送的花朵。\\n答應了蘭拉娜，要懲罰惡人。",
+        "es": "Una flor que te dio Arana.\\nLe prometiste que lucharás contra el mal pase lo que pase.",
+        "fr": "Une fleur offerte par Arana.\\nVous lui avez promis de châtier le mal.",
+        "id": "Bunga yang dihadiahkan oleh Arana.\\nKamu sudah berjanji kepada Arana untuk menghukum orang jahat.",
+        "jp": "アランラナから貰った花。\\n悪者を罰すると、アランラナと約束した。",
+        "kr": "아란나가 선물한 꽃.\\n악인을 벌하겠다고 아란나와 약속했다",
+        "pt": "Flor dada por Arana.\\nVocê prometeu a Arana que puniria o mal.",
+        "ru": "Цветок, подаренный Араной.\\nКак и обещано Аране, всё зло будет наказано.",
+        "th": "ดอกไม้ที่ Arana มอบให้\\nให้สัญญากับ Arana ไว้แล้ว ว่าจะลงทัณฑ์คนชั่วร้าย",
+        "vi": "Hoa của Arana tặng.\\nĐồng ý với Arana, phải trừng phạt kẻ ác."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

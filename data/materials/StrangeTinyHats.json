@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Strange Tiny Hats",
+        "de": "Seltsame kleine Mützen",
+        "chs": "奇怪的小型帽子",
+        "cht": "奇怪的小型帽子",
+        "es": "Sombreros diminutos extraños",
+        "fr": "Petits chapeaux étranges",
+        "id": "Topi Kecil Aneh",
+        "jp": "小さな変わった帽子",
+        "kr": "이상한 소형 모자",
+        "pt": "Chapéus Pequenos Estranhos",
+        "ru": "Странные шапочки",
+        "th": "หมวกจิ๋วประหลาด",
+        "vi": "Nón Nhỏ Kỳ Lạ"
+    },
+    "id": 120014,
+    "materialDesc": {
+        "en": "A pile of strange tiny hats. It is unclear who they were made for...",
+        "de": "Ein Stapel seltsamer kleiner Mützen. Wer die wohl tragen könnte ...",
+        "chs": "一堆奇怪的小型帽子。不知道是给谁戴的…",
+        "cht": "一堆奇怪的小型帽子。不知道是給誰戴的…",
+        "es": "Un montón de sombreros diminutos extraños. Se desconoce para quién se hicieron...",
+        "fr": "Une pile d'étranges petits chapeaux. On ne sait pas trop pour qui ils ont été fabriqués...",
+        "id": "Tumpukan topi kecil yang aneh. Entah dibuat untuk siapa ....",
+        "jp": "小さな変わった帽子の山。一体誰が被るのだろう…",
+        "kr": "이상한 소형 모자 더미. 누가 쓰는 걸까…",
+        "pt": "Uma pilha de chapéus pequenos estranhos. Não se sabe para quem foram feitos...",
+        "ru": "Много маленьких странных шапочек. Кто их носил?..",
+        "th": "หมวกจิ๋วประหลาดกองพะเนิน ไม่รู้ว่ามีไว้ให้ใครใส่...",
+        "vi": "Một đống những chiếc mũ nhỏ kỳ lạ. Không biết cho ai đội..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

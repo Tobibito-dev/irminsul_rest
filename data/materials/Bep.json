@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "BEP",
+        "de": "Erlebnispass-EP",
+        "chs": "纪行经验",
+        "cht": "紀行經驗",
+        "es": "EXP PB",
+        "fr": "EXP PB",
+        "id": "BEP",
+        "jp": "紀行経験",
+        "kr": "기행 경험치",
+        "pt": "EXP de PB",
+        "ru": "Опыт Боевого пропуска",
+        "th": "EXP BP",
+        "vi": "Kinh Nghiệm Nhật Ký Hành Trình"
+    },
+    "id": 116001,
+    "materialDesc": {
+        "en": "Your travel diary contains all that you have experienced in your long journey. These experiences shall someday become the stuff of song.",
+        "de": "In deinem Tagebuch hältst du alles fest, was du auf deinen Reisen erlebt hast. Dies ist der Stoff, aus dem Epen gemacht werden.",
+        "chs": "纪行即是将长旅中所经历的一切都记录下来。这些就是将被谱写成诗的素材。",
+        "cht": "紀行即是將長旅中所經歷的一切都記錄下來。這些就是將被譜寫成詩的素材。",
+        "es": "Tu diario de viaje contiene todo lo que has experimentado en tu largo viaje. Estas experiencias algún día se convertirán en canciones.",
+        "fr": "Votre carnet de voyage contient tout ce que vous avez vécu au cours de votre périple. Ces expériences deviendront un jour matière à chansons.",
+        "id": "Buku harian perjalananmu berisi tentang semua hal yang kamu alami selama perjalananmu. Pengalamanmu ini suatu hari nanti akan dituliskan menjadi sebuah lagu nyanyian.",
+        "jp": "紀行は長い旅の中で経験した全てを記録したものである。これらは詩の素材の一部。",
+        "kr": "기행은 오랜 여행 중 경험한 모든 것들을 기록한 것이다. 이것들은 시를 창작하기 위한 소재가 된다",
+        "pt": "Passe de Batalha contém tudo o que você experimentou em sua longa jornada. Um dia, essas experiências vão virar material de poema.",
+        "ru": "Ваш дневник содержит всё, что вы пережили в своём долгом путешествии. Эти истории когда-нибудь станут достоянием песен и стихов.",
+        "th": "บันทึกการเดินทางคือการบันทึกประสบการณ์ทั้งหมดในการเดินทางอันแสนยาวนาน ซึ่งบันทึกเหล่านี้จะถูกนำมาเป็นข้อมูลในการเขียนบทกวี",
+        "vi": "Nhật Ký Hành Trình sẽ ghi chép lại toàn bộ quá trình trải nghiệm thực tế, những tư liệu này sẽ dùng làm đề tài sáng tác thơ ca."
+    },
+    "materialType": "MATERIAL_CONSUME"
+}

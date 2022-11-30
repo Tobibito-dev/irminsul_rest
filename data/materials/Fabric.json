@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fabric",
+        "de": "Stoff",
+        "chs": "布匹",
+        "cht": "布匹",
+        "es": "Tela",
+        "fr": "Tissu",
+        "id": "Fabric",
+        "jp": "布材",
+        "kr": "직물",
+        "pt": "Tecido",
+        "ru": "Ткань",
+        "th": "ผ้า",
+        "vi": "Vải Vóc"
+    },
+    "id": 101401,
+    "materialDesc": {
+        "en": "Some fabric of fine make. It will surely be of use in making furnishings.",
+        "de": "Stoff von feiner Machart. Er wird sicherlich bei der Herstellung von Dekorationen verwendet werden.",
+        "chs": "优质的布匹。制作摆设时应该能派上用场。",
+        "cht": "優質的布匹。製作擺設時應該能派上用場。",
+        "es": "Una tela de excelente calidad. Será útil a la hora de fabricar decoraciones.",
+        "fr": "Une étoffe de qualité. Cet objet vous sera utile dans la fabrication de décorations.",
+        "id": "Kain berkualitas tinggi. Pasti bisa digunakan untuk membuat perabotan.",
+        "jp": "良質な布。調度品を製作する時に使えるかもしれない",
+        "kr": "질 좋은 직물. 장식 제작에 유용하게 쓰인다",
+        "pt": "Tecido de boa confecção. Certamente será útil para fazer Decorações.",
+        "ru": "Ткань хорошего качества. Безусловно пригодится для изготовления декора.",
+        "th": "ผ้าคุณภาพสูง สามารถนำไปใช้ในการตกแต่งได้",
+        "vi": "Vải chất lượng tốt, có thể dùng để chế tạo đồ trang trí."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

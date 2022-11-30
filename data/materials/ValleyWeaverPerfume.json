@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Valley Weaver Perfume",
+        "de": "Duftessenz „Bergbrokat“",
+        "chs": "「山阴锦簇」香膏",
+        "cht": "「山陰錦簇」香膏",
+        "es": "Perfume de tejedora de los valles",
+        "fr": "Baume de tisserande de la vallée",
+        "id": "Parfum Penenun Lembah",
+        "jp": "「山の花錦」香膏",
+        "kr": "「산음금족」 향고",
+        "pt": "Perfume de \"Tecedor dos Vales\"",
+        "ru": "Масло «Горной ткачихи»",
+        "th": "น้ำหอม \"Valley Weaver\"",
+        "vi": "Sáp thơm \"Sơn Âm Cẩm Thốc\""
+    },
+    "id": 100498,
+    "materialDesc": {
+        "en": "A perfume decocted from a special breed of Silk Flower.\\nIt releases a thick, oppressive aroma. They say that it is very popular among the daughters of wealthy families.",
+        "de": "Eine Duftessenz, die aus einer ganz besonderen Art Seidenblumen gewonnen wurde.\\nDieser edle Duft wird angeblich von Töchtern aus gutem Hause bevorzugt.",
+        "chs": "特殊品种的霓裳花手工熬制成的香膏。\\n这种浑厚凌人的芬芳，听说很受富家千金欢迎。",
+        "cht": "特殊品種的霓裳花手工熬製成的香膏。\\n這種渾厚凌人的芬芳，聽說很受富家千金歡迎。",
+        "es": "Un perfume extraído de una variedad especial de flor de seda.\\nEmite un aroma espeso y sofocante. Dicen que es muy popular entre las hijas de familias ricas.",
+        "fr": "Du parfum obtenu à partir d'une variété rare de fleur de soie.\\nSon odeur riche est très appréciée des jeunes filles de familles aisées.",
+        "id": "Parfum yang dibuat dari spesies Silk Flower khusus.\\nMengeluarkan aroma yang pekat. Dikatakan bahwa parfum ini sangat populer di kalangan para gadis dari keluarga kaya.",
+        "jp": "特殊な品種の霓裳花を使った手作り香膏。\\n濃厚な香り、お金持ちのお嬢さんのお気に入り。",
+        "kr": "특수한 예상꽃으로 만들어진 수제 향고.\\n무게감 있는 향기는 부잣집 아가씨들에게 인기가 많다고 한다",
+        "pt": "Um perfume decoctado de uma espécie especial de Flor de Seda.\\nEle libera um aroma espesso e opressivo. Dizem que é muito popular entre as filhas de famílias ricas.",
+        "ru": "Парфюм, изготовленный из особого вида шелковицы.\\nЕго вкус очень густой и насыщенный. Говорят, что этот аромат популярен среди девушек из богатых семей.",
+        "th": "น้ำหอมสกัดมือจากดอก Silk Flower ชนิดพิเศษ\\nกลิ่นหอมฉุนนี้ ว่ากันว่าเป็นที่นิยมในหมู่คนร่ำรวยเป็นอย่างมาก",
+        "vi": "Sáp thơm thủ công được làm từ giống hoa nghê thường đặc biệt.\\nHương thơm nồng nàn được các thiên kim tiểu thư giới phú hộ ưa thích."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bag of Clothes",
+        "de": "Tasche mit Kleidung",
+        "chs": "装衣服的纸包",
+        "cht": "裝衣服的紙包",
+        "es": "Paquete con ropa",
+        "fr": "Sac de vêtements",
+        "id": "Sekantong Pakaian",
+        "jp": "服の入った紙袋",
+        "kr": "옷을 담은 종이가방",
+        "pt": "Saco com roupas",
+        "ru": "Бумажный пакет для одежды",
+        "th": "ถุงกระดาษใส่เสื้อผ้า",
+        "vi": "Túi Đựng Trang Phục"
+    },
+    "id": 101663,
+    "materialDesc": {
+        "en": "A bag that contains Lyudochka's Fatui uniform. Considering the controversial nature of Fatui uniforms, it is best not to let other people see this.",
+        "de": "Eine Tasche, die Lyudochkas Fatui-Uniform enthält. Da die Fatui-Uniformen sehr umstritten sind, ist es am besten, wenn du sie nicht anderen Menschen zeigst.",
+        "chs": "装着柳达希卡愚人众队服的纸包。考虑到愚人众身份的敏感性，这件衣服还是不要轻易让其他人看到为好。",
+        "cht": "裝著柳達希卡愚人眾隊服的紙包。考慮到愚人眾身分敏感，這件衣服還是不要輕易讓其他人看到為好。",
+        "es": "Contiene el uniforme Fatui de Lyudochka. Teniendo en cuenta la mala reputación de los Fatui, será mejor que nadie vea esta ropa.",
+        "fr": "Un sac qui contient l'uniforme Fatui de Lyudochka. Compte tenu de la nature controversée des uniformes Fatui, il est préférable que personne ne le voie.",
+        "id": "Kantong yang berisi seragam Fatui Lyudochka. Mengingat pakaian ini dapat menimbulkan pro dan kontra, lebih baik jangan sampai ada orang lain yang melihatnya.",
+        "jp": "リュドヒカのファデュイ隊服が入った紙袋。ファデュイという立場は極めてデリケートなもの。あまり人に見られないほうが良いだろう。",
+        "kr": "류다치카의 우인단 제복이 담겨 있는 종이가방. 우인단 신분의 민감성을 고려해 다른 사람에게 보여주지 않는 게 좋을듯하다",
+        "pt": "Uma sacola que contém o uniforme Fatui de Lyudochka. Considerando a natureza controversa dos uniformes Fatui, é melhor não deixar que ninguém veja isso.",
+        "ru": "Пакет, в котором находится униформа Людочки. Учитывая репутацию Фатуи, лучше, чтобы другие не видели униформу.",
+        "th": "ถุงกระดาษที่บรรจุเครื่องแบบ Fatui ของ Lyudochka เอาไว้ เมื่อพิจารณาถึงสถานะของ Fatui ที่ค่อนข้างละเอียดอ่อน ทางที่ดีควรเก็บเสื้อผ้าชุดนี้ไว้ให้มิดชิดจะดีกว่า",
+        "vi": "Túi giấy chứa bộ đồng phục Fatui của Lyudochka. Vì thân phận Fatui khá nhạy cảm, tốt nhất không nên để người ta thấy được bộ đồ này."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

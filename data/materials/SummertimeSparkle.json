@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Summertime Sparkle",
+        "de": "Glänzende Darbietung",
+        "chs": "闪耀协奏",
+        "cht": "閃耀協奏",
+        "es": "Verano radiante",
+        "fr": "Été radieux",
+        "id": "Summertime Sparkle",
+        "jp": "サマータイムスパークル",
+        "kr": "빛나는 협주",
+        "pt": "Performance Brilhante",
+        "ru": "Летний блеск",
+        "th": "ซัมเมอร์ซ่าท้าร้อน",
+        "vi": "Mùa Hè Rực Rỡ"
+    },
+    "id": 340000,
+    "materialDesc": {
+        "en": "Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze.",
+        "de": "Barbaras Strandkleidung. Der hübsche kurze Rock strahlt fröhliche Sommerstimmung aus und trägt die frische Meeresluft mit sich.",
+        "chs": "芭芭拉的海滩装扮。洋溢着夏日活力的俏丽短裙，似乎散发着海洋的清爽气息。",
+        "cht": "芭芭拉的海灘裝扮。洋溢著夏日活力的俏麗短裙，似乎散發著海洋的清爽氣息。",
+        "es": "La vestimenta de playa de Bárbara. Este veraniego y hermoso minivestido recuerda a una fresca brisa estival.",
+        "fr": "Tenue de plage de Barbara. La jolie mini-jupe déborde de vitalité estivale et porte la fraîcheur de l'océan.",
+        "id": "Pakaian pantai Barbara. Rok pendek yang indah penuh dengan vitalitas musim panas dan seolah membawa suasana udara segar dari laut.",
+        "jp": "海辺をモチーフにしたバーバラの衣装。夏の活気溢れる煌びやかなスカートからは、爽やかな海の香りが漂ってくる。",
+        "kr": "바바라의 비치웨어. 상큼한 여름 분위기를 물씬 풍기는 예쁜 스커트로 시원한 바다 내음이 나는 듯하다",
+        "pt": "Vestuário de Barbara para a praia. É um lindo vestido curto com a energia do verão, parece emitir o cheiro relaxante do mar.",
+        "ru": "Пляжный наряд Барбары. Прекрасная юбка наполнена энергией лета и пропитана свежим воздухом океана.",
+        "th": "คอสตูมชายหาดของ Barbara กระโปรงสั้นสุดสวยงาม ที่เต็มไปด้วยความสดใสของฤดูร้อน และดูเหมือนจะแผ่ซ่านกลิ่นอาย อันเย็นสดชื่นของทะเลอีกด้วย",
+        "vi": "Phong cách bãi biển của Barbara. Váy ngắn tràn đầy sức sống, dường như toát ra hơi thở tươi mát của đại dương."
+    },
+    "materialType": "MATERIAL_COSTUME"
+}

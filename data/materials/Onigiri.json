@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Onigiri",
+        "de": "Onigiri",
+        "chs": "饭团",
+        "cht": "飯糰",
+        "es": "Onigiri",
+        "fr": "Onigiris",
+        "id": "Onigiri",
+        "jp": "おにぎり",
+        "kr": "주먹밥",
+        "pt": "Onigiri",
+        "ru": "Онигири",
+        "th": "Onigiri",
+        "vi": "Cơm Nắm"
+    },
+    "id": 108256,
+    "materialDesc": {
+        "en": "A portable dish made with rice. It is simple to make and remains delicious at room temperatures, which has made it very popular with civilians and soldiers alike.",
+        "de": "Ein Gericht für unterwegs, das mit Reis zubereitet wird. Es ist einfach zuzubereiten und bleibt auch bei Zimmertemperaturen köstlich, was es bei Zivilisten und Soldaten gleichermaßen sehr beliebt gemacht hat.",
+        "chs": "由米饭捏成的便携食物。制作简单，常温食用也无损其美味，因此得到兵士和民众的普遍欢迎。",
+        "cht": "由米飯捏成的便攜食物。製作簡單，常溫食用也無損其美味，因此得到兵士和民眾的普遍歡迎。",
+        "es": "Una comida hecha con arroz y muy fácil de llevar. Como es muy sencillo de hacer y puede comerse a temperatura ambiente, el onigiri goza de gran popularidad tanto entre los soldados como entre la gente común.",
+        "fr": "Un plat à emporter fait à base de riz. Il est simple à faire et reste délicieux à température ambiante, ce qui l'a rendu très populaire auprès des civils et des soldats.",
+        "id": "Makanan praktis yang terbuat dari nasi. Cara membuatnya cukup sederhana, dan rasanya juga tetap enak meskipun disimpan dalam suhu ruangan. Karena itulah, makanan ini sangat populer di kalangan warga dan prajurit.",
+        "jp": "お米を握って作られた携行食。作り方は簡単で、常温でも美味しく頂けるため、兵士や一般の人の間で広く親しまれている。",
+        "kr": "쌀로 뭉친 간편식. 제작 과정이 간단하고 상온에서 먹어도 맛에 변함이 없어 병사와 백성에게 보편적으로 사랑받는 음식",
+        "pt": "Um prato leve feito com arroz. É simples de fazer e permanece delicioso em temperatura ambiente, o que o tornou muito popular entre civis e soldados.",
+        "ru": "Блюдо из риса, которое удобно брать с собой. Это простое блюдо, вкусу которого не вредит комнатная температура, завоевало всеобщую любовь солдат и гражданских.",
+        "th": "อาหารจานด่วนที่ทำจากข้าว สามารถทำและรับประทานได้ง่ายในอุณหภูมิห้องโดยไม่ลดทอนความอร่อย จึงเป็นที่ชื่นชอบของทหารและชาวเมืองโดยทั่วไป",
+        "vi": "Thức ăn được làm từ cơm và rất tiện lợi khi mang theo. Chế biến đơn giản, bảo quản ở nhiệt độ thường cũng không làm mất đi hương vị vốn có của nó, vì thế món này rất được dân chúng và binh sĩ yêu thích."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

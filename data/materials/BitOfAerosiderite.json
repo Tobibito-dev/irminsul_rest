@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Bit of Aerosiderite",
+        "de": "Klumpen pechschwarzer Aerosiderit",
+        "chs": "漆黑陨铁的一角",
+        "cht": "漆黑隕鐵的一角",
+        "es": "Fragmento de siderita oscura",
+        "fr": "Fragment d'aérosidérite noire",
+        "id": "Bit of Aerosiderite",
+        "jp": "漆黒の隕鉄の一角",
+        "kr": "흑운철 일각",
+        "pt": "Fragmento de Aerosiderite",
+        "ru": "Осколок чёрного сидерита",
+        "th": "Bit of Aerosiderite",
+        "vi": "Một Góc Thiên Thạch Đen"
+    },
+    "id": 114023,
+    "materialDesc": {
+        "en": "Weapon Ascension Material.\\nThe coastal nations of Teyvat refer to the region beyond the protection of The Seven as the Dark Sea. It is said that many defeated gods refused to live under the new order of The Seven, so they fled to remote islands and became evil gods. However, their powers came from the same source as Rex Lapis, separate from this all-devouring darkness.",
+        "de": "Material mit der Kraft, Waffen aufsteigen zu lassen.\\nFür die Städte in Teyvat, die an das Meer grenzen, ist alles, was außerhalb des Landes ist, das „Dunkle Meer“. Viele der besiegten Archonten wollten sich nicht der neuen Ordnung der Sieben ergeben und sind auf entfernte Inseln geflohen. Ihre Kräfte haben trotzdem denselben Ursprung wie die von Rex Lapis. Deshalb ist sie anders als die dieses pechschwarzen Meteoreisens.",
+        "chs": "赋予武器突破之力的材料。\\n提瓦特沿海的诸国把超越七神庇护的外部称之为「暗之外海」，据说许多战败的魔神不愿意活在新的七神秩序之下，于是逃到了远岛，化作了邪神。不过它们的力量和岩王帝君的力量本就同源，和这个吞噬一切的漆黑并不一样。",
+        "cht": "賦予武器突破之力的材料。\\n提瓦特沿海的諸國把超越七神庇護的外部稱之為「暗之外海」，據說許多戰敗的魔神不願意活在新的七神秩序之下，於是逃到了遠島，化作了邪神。不過它們的力量和岩王帝君的力量本就同源，和這個吞噬一切的漆黑並不一樣。",
+        "es": "Material de ascensión de arma.\\nAlgunas zonas costeras de la región de Teyvat no reciben la protección de Los Siete Arcontes, y se las denomina el “Mar Oscuro”. Se dice que muchos arcontes derrotados se negaron a vivir bajo el nuevo orden de Los Siete, por lo que huyeron a islas remotas y se convirtieron en arcontes malvados. Sin embargo, sus poderes provenían de la misma fuente que Rex Lapis, es decir, de un lugar diferente al de las tinieblas que envuelven a ese Mar Oscuro.",
+        "fr": "Matériau d'élévation d'arme.\\n« Outre-mer » est le surnom des terres inconnues qui s'étendent au-delà de la côte de Teyvat. Jadis, de nombreuses anciennes divinités refusèrent de vivre sous l'ordre des Sept Archons et se réfugièrent dans des régions lointaines et devinrent maléfiques. Bien que l'histoire en soit ainsi, la source de leurs pouvoirs était la même que celle du Souverain de la Roche.",
+        "id": "Material Ascension Senjata.\\nNegara-negara pesisir Teyvat menyebut wilayah di luar perlindungan The Seven sebagai Laut Hitam. Dikatakan bahwa para Dewa yang dikalahkan menolak untuk hidup di bawah perintah The Seven, sehingga mereka melarikan diri ke kepulauan terpencil dan menjadi Dewa yang jahat. Namun, kekuatan mereka datang dari sumber yang sama seperti Rex Lapis, berbeda dari kegelapan yang melahap semuanya ini.",
+        "jp": "武器に突破の力を付与する材料。\\nテイワット沿海の国は七神の庇護を越えたところを「闇の外海」と呼んでいる。伝説によると、敗北した魔神たちが新たな七神の秩序の下で暮らしたくないと、遠い島々に逃げ、邪神となった。しかしそれらの力は岩王帝君の力とは本質的に同じもので、全てを呑みこんでしまうこの漆黒と全く違う。",
+        "kr": "무기에 돌파의 힘을 부여하는 재료.\\n티바트 연해의 국가들은 일곱 신의 가호를 벗어난 지역을 「어둠의 외해」라고 불러왔다. 패배한 마신들이 새로운 일곱 신이 정한 질서를 거부하여 머나먼 섬으로 도망가 사악한 신이 되었다고 한다. 하지만 그들의 힘과 암왕제군의 힘은 같은 부류로 모든 걸 집어삼키는 칠흑과는 다르다",
+        "pt": "Material de Ascensão de Armas.\\nOs países costeiros de Teyvat se referem à região além da proteção dos Sete como o Mar Sombrio. Dizia-se que muitos Arcontes derrotados se recusavam a viver sob a nova ordem dos Sete, então fugiram para ilhas remotas e se tornaram Arcontes do mal. No entanto, seus poderes vieram da mesma fonte que Rex Lapis, diferente da escuridão envolvente.",
+        "ru": "Материал возвышения оружия.\\nНароды, живущие на побережье Тейвата, называют регион, находящийся за пределами защиты Семерых Архонтов, Тёмным морем. Говорят, что там живут падшие боги, которые не хотели мириться с установленным Семерыми новым порядком. Они бежали на отдалённые острова и стали злыми богами. Но, помимо всепоглощающей тьмы, их силы произошли из того же источника, что и Властелина Камня.",
+        "th": "วัสดุเลื่อนขั้นอาวุธ\\nประเทศชายฝั่งของ Teyvat นั้นอ้างอิงถึงภูมิภาคที่อยู่นอกเหนือการคุ้มครองของเหล่าเทพว่าเป็น \"Dark Sea\" ว่ากันว่าเหล่าเทพที่พ่ายแพ้ในสงครามนั้นไม่ยอมอยู่ใต้อาณัติของเทพทั้งเจ็ด ดังนั้นจึงหลบหนีไปยังเกาะที่แสนไกลและกลายเป็นเทพปีศาจ แต่ว่าพลังของพวกเขาและราชาแห่งหินนั้นมีแหล่งที่มาเดียวกัน ไม่เหมือนกับสิ่งที่ถูกปกคลุมไปด้วยความมืดนี้",
+        "vi": "Nguyên liệu có sức mạnh đột phá vũ khí.\\nCác đất nước ven biển Teyvat gọi khu vực nằm ngoài sự bảo vệ của bảy vị thần là \"Vùng Biển Đen\", nghe nói rất nhiều Ma Thần chiến bại không muốn sống dưới trật tự của bảy vị thần mới nên đã chạy đến đảo xa, biến thành Tà Thần. Nhưng sức mạnh của họ vốn cùng nguồn gốc với Nham Vương Đế Quân, khác với chất màu đen ăn mòn mọi thứ này."
+    },
+    "materialType": "MATERIAL_AVATAR_MATERIAL"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Stratagem Shard",
+        "de": "Kampfstrategiesplitter",
+        "chs": "战策碎珀",
+        "cht": "戰策碎珀",
+        "es": "Esquirla estratégica",
+        "fr": "Éclat de stratagème",
+        "id": "Stratagem Shard",
+        "jp": "戦策砕珀",
+        "kr": "전략 조각",
+        "pt": "Fragmento de Estratagema",
+        "ru": "Осколок стратагемы",
+        "th": "Stratagem Shard",
+        "vi": "Mảnh Ngọc Chiến Lược"
+    },
+    "id": 142,
+    "materialDesc": {
+        "en": "A crystal that contains a deep and subtle power. Much like Cor Lapis, it has a pure Geo-gold hue. Its power can be activated to some extent within this space under The Chasm, thus helping to defeat monsters.\\nThis can be used in the \"Realms of Guile and War\" of \"Perilous Trails\" to draw Stratagems or allow characters who have fallen to take to the field once again.",
+        "de": "Ein Kristall, der eine tiefe und subtile Kraft besitzt. Ähnlich wie Cor Lapis hat er einen reinen Geo-Goldton. Seine Kraft kann bis zu einem gewissen Grad in diesem Raum unter der Großen Kluft aktiviert werden und hilft dir dabei, Monster zu besiegen.\\nEr kann in „Schlachtfeld der Listen und Kriege“ von „Unheilvoller Pfad“ verwendet werden, um Kampfstrategien zu ziehen oder ohnmächtigen Figuren zu ermöglichen, wieder auf das Schlachtfeld zu ziehen.",
+        "chs": "凝聚着深奥力量的晶体，如同石珀的碎块，有着纯粹的岩元素色彩。在层岩巨渊下方的这片空间中，似能激发出一定的力量，有助于战胜魔物。\\n在「危途疑踪」的「谲域战境」中，可以用来抽取「战策」，或是让倒下的角色重新上阵。",
+        "cht": "凝聚著深奧力量的晶體，如同石珀的碎塊，有著純粹的岩元素色彩。在層岩巨淵下方的這片空間中，似能激發出一定的力量，有助於戰勝魔物。\\n在「危途疑蹤」的「譎域戰境」中，可以用來抽取「戰策」，或是讓倒下的角色重新上陣。",
+        "es": "Un cristal que concentra una enigmática energía en su interior. Al igual que los fragmentos de cor lapis, en él se aprecia el más puro color del elemento Geo. Parece que en las profundidades de la Sima es capaz de emitir cierta energía que sirve para derrotar a los monstruos.\\nEn el Territorio estratégico de «Senderos peligrosos», podrás utilizarlo para conseguir tácticas combativas o hacer que los personajes derrotados regresen al campo de batalla.",
+        "fr": "Un cristal qui contient un pouvoir mystérieux. Tout comme le cœur de lapis, il a la couleur pure de l'élément Géo. Dans l'espace des profondeurs du Gouffre, il peut projeter une certaine force qui permet de vaincre les monstres.\\nDans le « Royaume des tactiques » du « Sentier périlleux », il peut être utilisé pour tirer des stratagèmes ou permettre aux personnages qui sont tombés de revenir au combat.",
+        "id": "Kristal yang menyembunyikan kekuatan besar. Seperti Cor Lapis, batu ini berwarna kuning Geo keemasan. Kekuatannya dapat aktif di ruang yang ada di bawah Chasm, dan dapat digunakan untuk mengalahkan monster.\\nKristal ini dapat digunakan di Domain \"Alam Ratapan dan Peperangan\" yang ada dalam event Jalur Berbahaya untuk membuka buff Stratagem, atau menghidupkan kembali Karakter yang gugur.",
+        "jp": "底知れぬ力が凝縮した結晶体。石珀の欠片の如く、純粋な岩元素の色彩を帯びている。層岩巨淵の地下空間においては、魔物を倒すための力を発揮できるようである。\\n「険路怪跡」の「詭域戦境」で、「戦策」を引いたり戦闘不能になったりしたキャラクターを再び出陣させることができる。",
+        "kr": "신비한 힘이 응집된 결정체. 콜 라피스의 조각과 같은 형상으로 순수한 바위 원소 색깔이 칠해져 있다. 층암거연 아래의 공간에서는 일정한 힘을 발휘할 수 있는 듯하다.\\n「위험한 길, 수상한 발자취」의 「기만과 전투의 영역」에서 「전략」을 뽑는데 사용하거나 전투 불능이 된 캐릭터를 다시 출전시키는 데 사용할 수 있다",
+        "pt": "Um cristal que possui um poder profundo e sutil. Tem um tom dourado muito parecido com a pedra Cor Lapis. Seu poder pode ser ativado até certo ponto neste espaço abaixo do Despenhadeiro, ajudando você a derrotar os monstros.\\nVocê pode usá-lo no Campo de Batalha Traiçoeiro da Trilha Perigosa para criar estratagemas ou permitir que personagens derrotados voltem para o campo de batalha.",
+        "ru": "Глубоко внутри этого кристалла таится загадочная сила. Его цвет похож на золотистый оттенок кор ляписа. Силу кристалла можно пробудить, находясь в пространстве, которое находится под Разломом, и использовать для победы над монстрами.\\nМожно использовать для получения стратагем или возврата павших персонажей на поле боя в «Опасной тропе» или «Королевствах лжи и раздора».",
+        "th": "ผลึกที่ควบแน่นไปด้วยพลังลึกลับ เป็นเหมือนกับชิ้นเศษเสี้ยวของ Cor Lapis ที่มีสีสันธาตุหินบริสุทธิ์ ในพื้นที่ใต้ Chasm ดูเหมือนว่ามันจะสามารถปลุกพลังบางอย่าง เพื่อช่วยให้เอาชนะมอนสเตอร์ได้\\nใน \"ดันเจี้ยนสงครามมายา\" ของกิจกรรม \"ร่องรอยพิศวงบนเส้นทางอันตราย\" สามารถใช้เพื่อสุ่ม \"กลยุทธ์\" หรือทำให้ตัวละครที่หมดสติกลับลงต่อสู้อีกครั้งได้",
+        "vi": "Tinh thể ngưng tụ sức mạnh bí truyền, giống như các mảnh Thạch Phách, có màu sắc của nguyên tố Nham thuần túy. Ở bên trong không gian dưới Vực Đá Sâu, dường như có thể kích hoạt sức mạnh nhất định, rất hữu ích cho việc đánh bại ma vật.\\nTrong \"Chiến Cảnh Dị Vực\" của \"Lộ Trình Nguy Hiểm\", có thể dùng để rút \"chiến lược\", hoặc giúp nhân vật ngã xuống tiếp tục ra trận."
+    },
+    "materialType": false
+}

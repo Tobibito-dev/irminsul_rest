@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Feather of Jagged Peaks",
+        "de": "Flügel der luftigen Gipfel",
+        "chs": "嵯峨群峰之翼",
+        "cht": "嵯峨群峰之翼",
+        "es": "Pluma de la Cordillera Escarpada",
+        "fr": "Plume des sommets escarpés",
+        "id": "Feather of Jagged Peaks",
+        "jp": "嵯峨連山の翼",
+        "kr": "험한 산봉우리의 날개",
+        "pt": "Asas do Pico da Montanha",
+        "ru": "Перо зубчатых пиков",
+        "th": "Feather of Jagged Peaks",
+        "vi": "Cánh Thái Sơn"
+    },
+    "id": 23497,
+    "setId": 15014,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

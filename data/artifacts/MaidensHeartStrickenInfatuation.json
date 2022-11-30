@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Maiden's Heart-Stricken Infatuation",
+        "de": "Sehnsucht der Maid",
+        "chs": "少女飘摇的思念",
+        "cht": "少女飄搖的思念",
+        "es": "Recuerdos de la Doncella",
+        "fr": "Pensée de la Demoiselle",
+        "id": "Maiden's Heart-Stricken Infatuation",
+        "jp": "少女の揺らぐ思い",
+        "kr": "소녀의 흔들리는 그리움",
+        "pt": "Lembranças da Donzela",
+        "ru": "Тоска юной девы",
+        "th": "Maiden's Heart-Stricken Infatuation",
+        "vi": "Ý Nghĩ Của Thiếu Nữ"
+    },
+    "id": 24792,
+    "setId": 14004,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

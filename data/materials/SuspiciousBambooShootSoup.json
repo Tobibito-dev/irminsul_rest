@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Bamboo Shoot Soup",
+        "de": "Misslungene Bambussuppe mit Fleischeinlage",
+        "chs": "奇怪的腌笃鲜",
+        "cht": "奇怪的醃篤鮮",
+        "es": "Sopa de brotes de bambú extraña",
+        "fr": "Soupe de porc aux pousses de bambou (suspecte)",
+        "id": "Suspicious Bamboo Shoot Soup",
+        "jp": "微妙な腌篤鮮",
+        "kr": "이상한 죽순 수프",
+        "pt": "Sopa de Bambu Estranha",
+        "ru": "Странный свиной суп с бамбуком",
+        "th": "Salted Pork Soup รสประหลาด",
+        "vi": "Măng Chua Tươi Kỳ Lạ"
+    },
+    "id": 108152,
+    "materialDesc": {
+        "en": "A soup dish that's been stewed for a good long while. The inexpert heat control has caused the fresh meat to be a bit tough, and the salty ham has covered the expected taste. The bamboo shoots, which have absorbed the flavors of both meats, are probably the only acceptable part of this dish.",
+        "de": "Eine Suppe, die lange geköchelt wird. Die Hitze scheint nicht gut reguliert worde zu sein, sodass das Fleisch recht zäh geworden ist. Der salzige Schinken verdeckt außerdem den eigentlichen Geschmack des Gerichts. Wenigstens haben die Bambussprossen den Geschmack der beiden Fleischsorten aufgenommen. So kann man wenigstens diese Zutat als nicht ganz verloren betrachten.",
+        "chs": "久经炖煮的汤羹。火候的掌握不当让鲜肉嚼起来有些柴硬，火腿的咸味也掩盖了应有的鲜味。这样看来，吸收了二者肉香的竹笋，算是勉强能被接受的一味食材了。",
+        "cht": "久經燉煮的湯羹。火候的掌握不當讓鮮肉口感變得有點柴，火腿的鹹味也掩蓋了應有的鮮味。這樣看來，吸收了二者肉香的竹筍，算是勉強能被接受的一味食材了。",
+        "es": "Un caldo hervido durante mucho tiempo. La carne se ha endurecido y su frescura es inapreciable debido a la sal del jamón. Los brotes de bambú, que han absorbido ambos sabores, son el único ingrediente aceptable.",
+        "fr": "Une soupe longuement mijotée. Un mauvais contrôle de la chaleur a rendu la viande fraîche un peu difficile à mâcher, et le jambon salé masque le goût attendu. Les pousses de bambou, qui ont absorbé les saveurs des deux viandes, sont probablement la seule partie acceptable de ce plat.",
+        "id": "Hidangan sup yang sudah lama direbus. Pengendalian panas yang tidak tepat menyebabkan daging segar menjadi agak keras, dan ham yang asin menutupi rasa. Sepertinya, rebung yang telah menyerap rasa kedua daging, mungkin satu-satunya bagian yang dapat diterima dari hidangan ini.",
+        "jp": "長い時間をかけて煮込んだスープ。火加減により肉は硬くなり、ソーセージの塩味が全ての素材の味を消した。2種類の肉の味がしみ込んだタケノコは、まだなんとか食べられるだろう。",
+        "kr": "오래 끓인 수프. 불조절에 실패하여 육질이 좀 질기고, 햄의 짠내에 신선한 맛이 가려졌다. 두 가지 고기 향이 밴 죽순은 그럭저럭 쓸 만한 식자재이다",
+        "pt": "Um prato de sopa que foi fervida durante muito tempo. O controle inexperiente do calor fez com que a carne fresca ficasse um pouco dura, e o presunto salgado cobriu o sabor esperado. Os brotos de bambu, que absorveram os sabores de ambas as carnes, são provavelmente a única parte aceitável deste prato.",
+        "ru": "Суп, варившийся долгое время. Из-за несоответствующего огневого режима свежее мясо стало жестковатым, и солёный привкус ветчины стал доминирующим в данном блюде. Побеги бамбука, впитавшие аромат обоих типов мяса, кажутся единственным съедобным ингредиентом здесь.",
+        "th": "ซุปที่ผ่านการตุ๋นเป็นเวลานาน เนื่องจากการคุมความร้อนที่ไม่ชำนาญนัก จึงทำให้เนื้อมีความเหนียวเล็กน้อย และความเค็มของแฮมก็กลบรสชาติเสียหมด ดูแล้วหน่อไม้ที่ดูดซับรสชาติของเนื้อทั้งสองชนิด น่าจะเป็นสิ่งเดียวที่พอจะรับได้ของอาหารจานนี้",
+        "vi": "Canh được hầm kỹ. Do canh lửa không tốt nên miếng thịt hơi khó nhai, vị mặn của giăm bông lấn áp độ tươi của món ăn. Xem ra chỉ có măng trúc ngấm hương vị của hai loại thịt nên tạm chấp nhận được."
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

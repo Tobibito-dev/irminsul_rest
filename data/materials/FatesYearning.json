@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fate's Yearning",
+        "de": "Schleierhafte Fügung",
+        "chs": "「缥缈仙缘」",
+        "cht": "「縹緲仙緣」",
+        "es": "Anhelo del destino",
+        "fr": "Désir du destin",
+        "id": "Kerinduan Takdir",
+        "jp": "「縹渺たる仙縁」",
+        "kr": "「표묘선연」",
+        "pt": "Anseio do Destino",
+        "ru": "«Тоскующая фортуна»",
+        "th": "\"Fate's Yearning\"",
+        "vi": "\"Phiêu Miểu Tiên Duyên\""
+    },
+    "id": 100489,
+    "materialDesc": {
+        "en": "Silk Flowers from which perfume used in the Rite of Parting is made.\\nIn the past, this strain would grow among cloud-ringed peaks. It is a reclusive species, and has a subtle yet enduring scent.",
+        "de": "Seidenblumen, die zur Herstellung der Duftessenz für den Adeptenabschied benötigt werden.\\nDiese Sorte wächst in Einsamkeit und Kälte. Ihr Duft ist sehr leicht, dafür langanhaltend.",
+        "chs": "用于制作「送仙典仪」所需香膏的霓裳花。\\n这个品种过去的生长环境在烟岚云岫。孤傲清冷，开花时香气寡淡，却极为持久。",
+        "cht": "用於製作「送仙典儀」所需香膏的霓裳花。\\n這個品種過去的生長環境在煙嵐雲岫。孤傲清冷，開花時香氣寡淡，卻極為持久。",
+        "es": "Flores de seda con las que se elabora el perfume utilizado en el Rito del Ascenso.\\nEn el pasado, esta variedad crecía entre los picos rodeados de nubes. Es una especie solitaria y tiene un aroma sutil pero duradero.",
+        "fr": "Des fleurs de soie dont le parfum a été extrait pour le rituel de la descente.\\nCette variété solitaire poussait sur des sommets entourés de nuages. Le parfum qu'elle émet est subtil et durable.",
+        "id": "Silk Flower yang digunakan untuk membuat parfum yang diperlukan dalam Rite of Parting.\\nDahulu kala, spesies ini tumbuh di puncak awan. Tumbuhan ini adalah spesies yang suka hidup sendiri, dan memiliki aroma yang halus namun abadi.",
+        "jp": "「送仙儀式」に必要な香膏の材料となる霓裳花。\\n霧に包まれた山に成長する品種。花が咲く時の香りは淡いが、かなり長く持つ。",
+        "kr": "「송신의례」에 필요한 향고를 만드는 데 쓰이는 예상꽃.\\n이 품종은 원래 흐릿한 운무가 자욱한 산에서 나며, 고고하고 범접하기 어려운 느낌을 준다. 꽃이 필 때 향이 담박하지만 매우 오래간다",
+        "pt": "Flores de Seda das quais é feito o perfume usado no Ritual de Ascensão, esta espécie crescia em meio aos picos nebulosos. É uma espécie reclusa, e tem um sútil, porém, duradouro aroma.",
+        "ru": "Шелковица, из которой изготавливают ароматические масла для Церемонии Вознесения.\\nЭтот вид растёт среди горных пиков, покрытых облаками. Он очень скрытен и испускает тонкий и слабый аромат.",
+        "th": "น้ำหอมของดอก Silk Flower ที่สำหรับใช้ในการทำ \"พิธีส่งเซียน\"\\nเมื่อก่อนดอกชนิดนี้เติบโตบนภูเขาท่ามกลางเมฆหมอก สันโดษและเมื่อดอกบานจะส่งกลิ่นหอมอ่อน ๆ แต่หอมนาน",
+        "vi": "Hoa nghê thường được dùng để chế tạo sáp thơm trong \"Điển Lễ Tiễn Tiên\".\\nLoài này sinh trưởng ở vùng mây mù núi cao mát lạnh, hương hoa nhẹ nhàng, giữ mùi lâu."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

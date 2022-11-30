@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Record of Sisi and Chaoxi's Conversation",
+        "de": "Aufzeichnung des Gesprächs zwischen Sisi und Chaoxi",
+        "chs": "思思与潮汐的对话记录",
+        "cht": "思思與潮汐的對話記錄",
+        "es": "Conversación entre Sisi y Chaoxi",
+        "fr": "Conversation entre Sisi et Chaoxi",
+        "id": "Rekaman Pembicaraan Sisi dan Chaoxi",
+        "jp": "思思と潮汐の会話記録",
+        "kr": "상아와 조석의 대화 기록",
+        "pt": "Um Registro da Conversa de Sisi e Chaoxi",
+        "ru": "Разговор Сы Сы и Чао Си",
+        "th": "บันทึกการสนทนาของ Sisi และ Chaoxi",
+        "vi": "Ghi chép về cuộc đối thoại giữa Sisi với Chaoxi"
+    },
+    "id": 100504,
+    "materialDesc": {
+        "en": "A record of Sisi and Chaoxi's conversation. At first glance, the impression it makes is one of endless evasion, and of avoiding the brunt of work...",
+        "de": "Die Aufzeichnung eines Gesprächs zwischen Sisi und Chaoxi. Beim Überfliegen scheinen Ausflüchte und Ausreden das Hauptthema zu sein.",
+        "chs": "思思与潮汐的对话记录。粗略看过后，给人印象最深的只有无尽的逃避，还有避重就轻…",
+        "cht": "思思與潮汐的對話記錄。粗略看過後，給人印象最深的只有無盡的逃避，還有避重就輕…",
+        "es": "Un registro de la conversación entre Sisi y Chaoxi. A primera vista, es un diálogo en el que se andan por las ramas con una excusa tras otra...",
+        "fr": "Le compte-rendu de la conversation entre Sisi et Chaoxi. Ce dernier donne l'impression de tourner autour du pot...",
+        "id": "Riwayat percakapan antara Sisi dan Chaoxi. Percakapan mereka memberikan kesan seolah mereka sedang mencari alasan untuk menghindari suatu pekerjaan yang merepotkan...",
+        "jp": "思思と潮汐の会話記録。読むと果てしない逃避と逃避しか印象に残らない…",
+        "kr": "상아와 조석의 대화 기록. 대충 훑어보면 힘든 것은 회피하고 쉬운 것만 골라 하려는 모습이 기억에 남는다…",
+        "pt": "Um registro da conversa de Sisi e Chaoxi. À primeira vista, a impressão que causa é de evasão interminável e de evitar o peso do trabalho...",
+        "ru": "Запись разговора Сы Сы и Чао Си. На первый взгляд кажется, что это бесконечное уклонение от тяжёлой ручной работы...",
+        "th": "บันทึกการสนทนาของ Sisi และ Chaoxi หลังจากที่ดูคร่าว ๆ แล้วสิ่งที่ติดอยู่ในความทรงจำมากที่สุดมีเพียงการหลีกเลี่ยงที่ไม่รู้จบ และยังเลี่ยงงานหนักไปทำงานเบา",
+        "vi": "Sau khi xem qua ghi chép về cuộc đối thoại giữa Sisi với Chaoxi, ấn tượng để lại cho người đọc là sự trốn tránh..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

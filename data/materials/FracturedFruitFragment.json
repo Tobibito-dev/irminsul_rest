@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fractured Fruit Fragment",
+        "de": "Frucht-Bruchstück",
+        "chs": "碎果裂片",
+        "cht": "碎果裂片",
+        "es": "Pedazo de fruto fragmentado",
+        "fr": "Bris de fruit fracturé",
+        "id": "Fractured Fruit Fragment",
+        "jp": "砕実裂片",
+        "kr": "부서진 열매 파편",
+        "pt": "Fragmento de Fruta Fraturada",
+        "ru": "Фрагмент раздробленного плода",
+        "th": "Fractured Fruit Fragment",
+        "vi": "Lá Mảnh Quả"
+    },
+    "id": 200239,
+    "materialDesc": {
+        "en": "A small piece of an Irminsul Fruit. You can somewhat feel the energy that flows gradually from its broken sections.",
+        "de": "Kleines Fragment einer Irminsul-Frucht. Man kann spüren, wie ganz gemächlich etwas Energie durch die angebrochene Oberfläche dringt.",
+        "chs": "小型的地脉之果碎片，似乎能感受到断面处缓缓流动着能量。",
+        "cht": "小型的地脈之果碎片，似乎能感受到斷面處緩緩流動著能量。",
+        "es": "Un trozo pequeño de un fragmento de fruto ley. Casi se puede sentir la energía que emana gradualmente de su superficie.",
+        "fr": "Un petit fragment de fruit des lignes énergétiques. On peut sentir de l'énergie chaude circuler depuis son côté brisé.",
+        "id": "Bagian kecil dari irminsul Fruit. Kamu bisa merasakan energi yang terkandung di dalamnya melalui retakannya.",
+        "jp": "小型地脈の実の欠片、断面から緩やかに流れるエネルギーを感じる。",
+        "kr": "소형 지맥의 열매 조각. 절단면으로부터 천천히 흐르는 에너지가 느껴지는 듯하다",
+        "pt": "Um pequeno pedaço de Fragmento do Fruto da Linha Ley. Você sente um pouco da Energia que emana gradualmente de suas áreas danificadas.",
+        "ru": "Небольшой кусочек плода Ирминсуля. Прикоснитесь к излому, чтобы почувствовать, как из него мерно течёт энергия элементов.",
+        "th": "ชิ้นส่วน Irminsul Fruit ขนาดเล็ก ดูเหมือนจะรู้สึกได้ถึงพลังงานที่ค่อย ๆ ไหลออกมาจากหน้าตัด",
+        "vi": "Mảnh Quả Địa Mạch, có thể cảm nhận được nguồn năng lượng chảy trong đó."
+    },
+    "materialType": "MATERIAL_CHANNELLER_SLAB_BUFF"
+}

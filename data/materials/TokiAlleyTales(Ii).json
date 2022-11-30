@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Toki Alley Tales (II)",
+        "de": "Geschichten aus der Tokigasse – Teil II",
+        "chs": "鹮巷物语·二",
+        "cht": "䴉巷物語·二",
+        "es": "La novela de la Calle del Ibis (II)",
+        "fr": "Contes de l'Allée Toki - II",
+        "id": "Kisah Gang Toki (II)",
+        "jp": "朱鷺町物語·二",
+        "kr": "따오기 골목 모노가타리·II",
+        "pt": "Contos da Rua Toki (II)",
+        "ru": "Рассказы улицы Токи (II)",
+        "th": "เรื่องราวแห่งตรอก Toki (II)",
+        "vi": "Câu Chuyện Hẻm Ibis 2"
+    },
+    "id": 101509,
+    "materialDesc": {
+        "en": "Mother once warned that a beautiful face can hide deceptive intentions. If she looks as lovely as the moonlight, she must either be a fox spirit, or some old bake-neko hag of significant power — Tanuki Historical Commentary",
+        "de": "Mutter lehrte einst, dass schöne Frauen sehr geschickt in der Täuschung sind. Wenn sie so schön ist wie das Mondlicht, muss sie entweder ein Fuchsgeist sein oder eine alte Bakeneko-Hexe mit bedeutenden Fähigkeiten. – Überlieferte Weisheit der Tanuki",
+        "chs": "家母曾有教谕：美貌的女子多精通骗术。由是举一反三可得：美貌如月光般的女人，其真面目莫非狐妖，要么便是修为不浅化猫婆婆咯。——狸史氏评",
+        "cht": "家母曾有教諭：美貌的女子多精通騙術。由是舉一反三可得：美貌如月光般的女人，其真面目若非狐妖，則為便是修為不淺化貓婆婆囉。——狸史氏評",
+        "es": "Mi madre me enseñó que las mujeres hermosas son las mejores mintiendo. Por eso, si una mujer es bella como la luz de la luna, seguramente se trate de un kitsune o de una vieja y hábil bruja que se ha transformado en gato —comentario histórico de un tanuki.",
+        "fr": "Mère a enseigné un jour que les femmes charmantes sont très douées pour tromper. Si elle est aussi belle que le clair de lune, elle doit être soit un esprit renard, soit une vieille sorcière d'une grande habileté. — Commentaire historique d'un Tanuki",
+        "id": "Ibu pernah mengajarkan bahwa wanita berparas cantik jauh lebih pintar menipu. Jika dia cantik seperti cahaya rembulan, dia pasti roh rubah, atau bake-neko tua yang berilmu tinggi. — Tafsiran Sejarah Tanuki",
+        "jp": "母の教えによると、美人は騙し上手が多い。同じ道理で考えれば、月光のように美しい女性は、狐の妖怪か、修行を積んだ化け猫のどっちかだ。——狸歴史家より",
+        "kr": "어머니가 하신 말씀이 있다: 아름다운 여인은 속임수에 능한 경우가 대부분이다. 해서 이에 따라 미루어 보건대: 달빛처럼 아름다운 여인은 여우 요괴가 아니라, 수행이 부족한 할미 고양이일 수도 있다는 것. ——너구리 사씨 평",
+        "pt": "Minha mãe ensinou que mulheres amáveis são muito mais hábeis em enganações. Se ela é amável como a luz da Lua, ela deve ser ou um espírito de raposa, ou então uma bruxa bakeneko velha de enormes habilidades - Comentário Histórico Tanuki",
+        "ru": "Мать однажды мне сказала: милые женщины искусно владеют обманом. Если она прелестна во сиянии луны, стало быть, она либо лисица-оборотень, либо же очень умелая плутовка-бакэнэко. - Исторический комментарий тануки",
+        "th": "คุณแม่เคยสอนไว้ว่า หญิงงามมารยาร้อยเล่มเกวียน เปรียบได้กับ: หญิงสาวที่งดงามดุจแสงจันทร์ แต่โฉมหน้าที่แท้จริงนั่นไม่ต่างจากปีศาจจิ้งจอกหรือปีศาจแมวบาเกะเนะโกะที่บำเพ็ญเพียรมาอย่างดี - คำอธิบายทางประวัติศาสตร์ของทานูกิ",
+        "vi": "Mẹ từng nói: Phụ nữ càng đẹp càng giỏi lừa gạt người khác. Vì vậy, phụ nữ xinh đẹp nếu không phải là hồ ly hiện thân thì cũng là do tu vi chưa đủ để hóa thân thôi. - Tanuki"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Letter for Dongdong",
+        "de": "Brief an Dongdong",
+        "chs": "给东东的信",
+        "cht": "給東東的信",
+        "es": "Carta para Dongdong",
+        "fr": "Lettre à Dongdong",
+        "id": "Surat untuk Dongdong",
+        "jp": "トントンへの手紙",
+        "kr": "동동에게 전하는 편지",
+        "pt": "Carta para Dongdong",
+        "ru": "Письмо для Дундуна",
+        "th": "จดหมายถึง Dongdong",
+        "vi": "Thư gửi cho Dongdong"
+    },
+    "id": 100229,
+    "materialDesc": {
+        "en": "A letter treasured by Dongdong from Qingce Village. It seems to be a letter from his father.",
+        "de": "Ein von Dongdong im Qingce-Dorf hochgeschätzter Brief, der anscheinend von seinem Vater stammt.",
+        "chs": "轻策庄的东东珍藏的信件，似乎是他的父亲寄回来的家书。",
+        "cht": "輕策莊的東東珍藏的信件，似乎是他的父親寄回來的家書。",
+        "es": "Cartas que colecciona Dongdong, de la Aldea Chingtsé. Al parecer, es una correspondencia con su padre.",
+        "fr": "Une lettre que Dongdong du Village de Qingce chérit de tout son cœur. Elle semble avoir été rédigée par son père.",
+        "id": "Sebuah surat yang berharga bagi Dongdong dari Mt. Qingce. Sepertinya berasal dari ayahnya...",
+        "jp": "軽策荘のトントンの手紙。彼の父からの家書らしい。",
+        "kr": "경책산장의 동동이 아끼는 편지. 그의 아버지가 쓴 편지 같다",
+        "pt": "Uma carta estimada por Dongdong do Monte. Qingce. Parece ser uma carta de seu pai.",
+        "ru": "Письмо, которое хранит Дундун из деревни Цинцэ. Скорее всего, оно написано его отцом.",
+        "th": "จดหมายล่ำค่าของหนูน้อย Dongdong แห่งหมู่บ้าน Qingce Village ดูเหมือนว่าจะเป็นจดหมายที่พ่อของเขาส่งกลับมา",
+        "vi": "Bức thư quý giá của Dongdong Khinh Sách Trang, dường như là từ người bố của anh ấy gửi về nhà."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Potion",
+        "de": "Trank",
+        "chs": "药剂",
+        "cht": "藥劑",
+        "es": "Poción",
+        "fr": "Potion",
+        "id": "Potion",
+        "jp": "薬剤",
+        "kr": "포션",
+        "pt": "Poção",
+        "ru": "Зелье",
+        "th": "น้ำยาโพชั่น",
+        "vi": "Thuốc"
+    },
+    "id": 100108,
+    "materialDesc": {
+        "en": "Lisa has asked you to give this to Barbara.",
+        "de": "Von Lisa an Barbara.",
+        "chs": "丽莎拜托主角带给芭芭拉",
+        "cht": "麗莎拜託主角帶給芭芭拉。",
+        "es": "Lisa te ha pedido que le entregues esto a Bárbara.",
+        "fr": "Lisa vous a demandé de donner cet objet à Barbara.",
+        "id": "Lisa memintamu untuk memberikan ini pada Barbara",
+        "jp": "バーバラに届けてほしいと、リサが主人公に頼んだもの",
+        "kr": "리사가 바바라에게 전해달라고 주인공에게 부탁했다",
+        "pt": "A Lisa pediu para você entregar isso a Barbara.",
+        "ru": "Лиза попросила отдать его Барбаре.",
+        "th": "Lisa ขอให้คุณมอบสิ่งนี้ให้กับ Barbara",
+        "vi": "Lisa nhờ bạn đem đến cho Barbara."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

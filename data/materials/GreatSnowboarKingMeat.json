@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Great Snowboar King Meat",
+        "de": "Schnee-Eber-Fleisch",
+        "chs": "「大雪猪王」的肉",
+        "cht": "「大雪豬王」的肉",
+        "es": "Carne del Rey Jabalí de las Nieves",
+        "fr": "Viande du Roi sangliers des neiges",
+        "id": "Daging Great Snowboar King",
+        "jp": "「雪のイノシシ王」の肉",
+        "kr": "「설산 멧돼지 왕」의 고기",
+        "pt": "Carne do Grande Rei Javali da Neve",
+        "ru": "Мясо Короля снежных кабанов",
+        "th": "Great Snowboar King Meat",
+        "vi": "Thịt của \"Vua Heo Tuyết\""
+    },
+    "id": 100636,
+    "materialDesc": {
+        "en": "Exquisite flavor, rich in fat. This cut of meat is exceptionally delicious, regardless of preferred cooking technique.\\nOnly the most ancient of creatures, the sturdiest of the boars deserves to be called a king.",
+        "de": "Ein festes, von Fett durchzogenes Fleisch, das am besten gebraten oder gekocht schmeckt.\\nNur durch jahrelanges langsames Wachsen und Reifen steigt dieses Fleisch in die „Königsklasse“ auf.",
+        "chs": "口感紧致，油脂丰富，无论是煎炸烹煮都味道极佳的肉。\\n只有熬过了漫长年月，足够强壮的走豕才会被人们称为「王」。",
+        "cht": "口感緊致，油脂豐富，無論是煎炸烹煮都味道極佳的肉。\\n只有熬過了漫長年月，足夠強壯的豬才會被人們稱為「王」。",
+        "es": "Una carne de textura firme y rica en grasas. No importa cómo se cocine, su sabor siempre es excelente.\\nSolo los jabalíes muy fuertes y que han vivido una larga vida reciben el título de rey.",
+        "fr": "Viande à la saveur exquise et riche en matières grasses. Ce morceau est exceptionnel, quelle que soit la méthode de cuisson.\\nCréature des plus anciennes, le plus robuste des sangliers des neiges mérite bien son titre de « roi ».",
+        "id": "Rasanya gurih, kandungan lemaknya banyak, rasanya nikmat saat digoreng ataupun direbus.\\nHanya mereka yang bisa bertahan untuk waktu lama, yang pantas disebut sebagai \"raja\".",
+        "jp": "噛み応えがあり、油がよく乗っている、どんな調理法でも美味しさを引き出せる肉。\\n長い時を耐え忍び、強靭な身体を持ったイノシシだけが人から「王」と呼ばれる。",
+        "kr": "쫄깃하고 지방이 풍부해 어떻게 요리하든 맛이 끝내주는 고기.\\n오랜 세월을 견뎌 강해진 멧돼지만이 「왕」이라 불린다",
+        "pt": "Rica em gordura e com um maravilhoso sabor. Essa carne é excepcionalmente deliciosa, independentmenete da técnica que se usa para cozinhá-la.\\nApenas os javalis mais fortes e que viveram uma longa vida merecem o título de \"rei\".",
+        "ru": "Имеет толстый слой жира и обладает изысканным вкусом. Это мясо тяжело испортить вне зависимости от выбранной техники приготовления.\\nТолько самый древний и сильный кабан заслуживает называться «королём».",
+        "th": "เนื้อที่มีรสชาติแสนอร่อย และอุดมไปด้วยไขมัน ไม่ว่าจะนำมาทอดหรือต้มก็อร่อยเป็นที่สุด\\nเฉพาะหมูป่าที่เก่าแก่และแข็งแกร่งที่สุดเท่านั้น ถึงจะสมควรได้รับการขนานนามว่าเป็น \"ราชา\"",
+        "vi": "Chắc thịt, nhiều mỡ, thịt có vị thơm ngon dù chiên hay nấu.\\nChỉ những con heo đi bộ lâu năm và đủ sức khỏe mới được gọi là \"vua\"."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

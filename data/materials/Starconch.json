@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Starconch",
+        "de": "Sternmuschel",
+        "chs": "星螺",
+        "cht": "星螺",
+        "es": "Caracola estelar",
+        "fr": "Conque d'étoile",
+        "id": "Starconch",
+        "jp": "星螺",
+        "kr": "별소라",
+        "pt": "Conchas Estreladas",
+        "ru": "Звёздная ракушка",
+        "th": "Starconch",
+        "vi": "Ốc Sao"
+    },
+    "id": 100033,
+    "materialDesc": {
+        "en": "Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea.",
+        "de": "Eine Muschel, die die Flut an den Strand gespült hat. Hält man sie ans Ohr, hört man das verheißungsvolle Rauschen des Meeres.",
+        "chs": "随着海潮来到沙滩上的螺。将耳朵凑近空壳，能听见海充满思念的呼唤。",
+        "cht": "隨著海潮來到沙灘上的螺。將耳朵湊近空殼，能聽見海充滿思念的呼喚。",
+        "es": "Caracola vacía arrastrada por la marea hasta la orilla de una playa. Acércatela al oído y escucha los anhelos del mar.",
+        "fr": "Un coquillage creux échoué sur la plage. Plaquez-le contre votre oreille et vous entendrez l'appel de la mer.",
+        "id": "Kerang kosong yang dibawa ke pantai oleh ombak pasang. Dekatkan ke telinga, dan kamu akan mendengar suara lautan.",
+        "jp": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
+        "kr": "해류를 타고 바닷가로 떠밀려 온 소라. 빈 껍데기를 귓가에 대면 무언가를 그리워하는 듯한 바다의 소리를 들을 수 있다",
+        "pt": "Conchas do mar vazias trazidas para terra pelas marés. Segure-o perto do ouvido e ouça os apelos do mar.",
+        "ru": "Пустая ракушка, которую принесло на берег с приливом. Приложите её к уху - и вы услышите зов тоскующего моря.",
+        "th": "เปลือกหอยที่ถูกพัดมาจากทะเลถึงหาดทราย เพียงแค่นำมันมาแนบกับหู ก็จะได้ยินเสียงร้องเรียกจากทะเล",
+        "vi": "Ốc dạt vào bờ theo những cơn thủy triều. Đặt vào gần tai có thể nghe được tiếng gọi của biển."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

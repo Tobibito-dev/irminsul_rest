@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Aloy's Stella Fortuna",
+        "de": "Stella Fortuna von Aloy",
+        "chs": "埃洛伊的命星",
+        "cht": "亞蘿伊的命星",
+        "es": "Stella Fortuna de Aloy",
+        "fr": "Stella Fortuna d'Aloy",
+        "id": "Aloy's Stella Fortuna",
+        "jp": "アーロイの星屑",
+        "kr": "에일로이의 운명의 별",
+        "pt": "Stella Fortuna de Alloy",
+        "ru": "Удача Элой",
+        "th": "ดวงดาวแห่งชีวิตของ Aloy",
+        "vi": "Chòm Sao Của Aloy"
+    },
+    "id": 1162,
+    "materialDesc": {
+        "en": "Aloy's Constellation Activation Material",
+        "de": "Aloys Material zum Aktivieren von Sternbildern",
+        "chs": "埃洛伊的命之座激活素材",
+        "cht": "亞蘿伊的命之座啟用素材",
+        "es": "Material de activación de constelación de Aloy",
+        "fr": "Matériau d'activation de la constellation d'Aloy.",
+        "id": "Material aktivasi untuk konstelasi Aloy",
+        "jp": "アーロイの命ノ星座アンロック用素材",
+        "kr": "에일로이의 운명의 자리 활성화 소재",
+        "pt": "Material de Ativação da Constelação de Aloy",
+        "ru": "Материал для активации созвездия Элой.",
+        "th": "วัสดุสำหรับเปิดใช้งานกลุ่มดาวของ Aloy",
+        "vi": "Nguyên liệu kích hoạt cung mệnh Aloy"
+    },
+    "materialType": "MATERIAL_TALENT"
+}

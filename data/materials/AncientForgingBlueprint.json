@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ancient Forging Blueprint",
+        "de": "Alter Schmiedeplan",
+        "chs": "古老的锻造图谱",
+        "cht": "古老的鍛造圖譜",
+        "es": "Plano para forja antiguo",
+        "fr": "Ancien plan de forge",
+        "id": "Blueprint Kuno untuk Forge",
+        "jp": "古代の鍛造図",
+        "kr": "오래된 단조 설계도",
+        "pt": "Diagrama de Forja Antigo",
+        "ru": "Древний кузнечный чертёж",
+        "th": "แบบแปลนการตีขึ้นรูปโบราณ",
+        "vi": "Bản Vẽ Rèn Đúc Cổ Xưa"
+    },
+    "id": 101732,
+    "materialDesc": {
+        "en": "An ancient forging blueprint. The Shogun once ordered the Kaedehara Clan to forge a Goshintou according to it.\\nAfter being soaked in water, it becomes clear that some of the text has been blurred — someone tampered with the blueprint, dooming the forging to failure and triggering the tragedy that followed...",
+        "de": "Ein sehr alter Schmiedeplan. Der Shougun befahl dem Kaedehara-Klan einst, ein Goshintou nach diesem Muster zu schmieden.\\nNachdem es in Wasser eingeweicht wurde, stellte sich heraus, dass ein Teil des Textes verschwommen ist. Jemand hat das Muster abgeändert, was zum Scheitern des Schmiedens führte und die folgende Tragödie auslöste ...",
+        "chs": "一卷古老的锻造图谱，将军曾命令枫原家依照它锻造御神刀。\\n经过浸泡后，图谱上有一些文字变得模糊了——有人通过篡改它，导致了锻刀失败，并引发了后续的一系列惨剧…",
+        "cht": "一卷古老的鍛造圖譜，將軍曾命令楓原家依照它鍛造御神刀。\\n經過浸泡後，圖譜上有一些文字變得模糊了——有人透過篡改它，導致了鍛刀失敗，並引發了後續的一系列慘劇…",
+        "es": "Un antiguo plano de forja que la Shogun entregó al clan Kaedehara para que forjara una espada goshintou.\\nTras haberse mojado, se pueden distinguir algunas palabras. Más tarde, hubo quien modificó las instrucciones y, en consecuencia, fue imposible hacer la espada, lo que trajo consigo toda una serie de tragedias...",
+        "fr": "Un plan de forge très ancien. La Shogun a un jour ordonné au Clan Kaedehara de forger un goshintou d'après ce plan.\\nAprès avoir été trempé dans l'eau, une partie de l'encre est devenue trouble. De toute évidence, quelqu'un a trafiqué ce plan pour faire échouer le travail des forgerons du clan, ce qui a déclenché la tragédie qui s'ensuivit...",
+        "id": "Blueprint tempa yang sangat tua. Shogun pernah memerintahkan Klan Kaedehara untuk menempa Goshintou sesuai dengan blueprint itu.\\nSetelah direndam dalam air, jelas terlihat bahwa beberapa tulisan sudah tak dapat dibaca lagi — seseorang sepertinya merusak blueprint ini, membuat penempaannya menjadi gagal dan memicu beragam tragedi ....",
+        "jp": "かつて将軍はこの古代の鍛造図に基づいて「御神刀」を作るよう、楓原家に命じた。\\n水に浸されたこの鍛造図は、一部の文字がぼやけてしまっている。誰かが設計図を改変したせいで鍛造は失敗し、一連の悲劇を引き起こす結果となった…",
+        "kr": "오래된 단조 설계도. 과거 쇼군은 카에데하라 가문에 이 설계도에 따라 고신토(御神刀)의 단조를 명했다.\\n물에 젖은 탓에 설계도의 일부 문자가 희미해졌다——과거 누군가가 설계도를 조작했고 그 결과, 고신토 단조에 실패해서 일련의 참극을 빚어냈다…",
+        "pt": "Um diagrama antigo de forjamento. No passado, a Shogun ordenou que o Clã Kaedehara forjasse uma Goshintou de acordo com ele.\\nApós ser mergulhado na água, se torna claro que partes do texto ficaram manchadas. Isso quer dizer que alguém alterou o diagrama, fazendo com que o forjamento fracassasse e desencadeando a tragédia subsequente...",
+        "ru": "Древний кузнечный чертёж. Однажды сёгун приказала клану Каэдэхара выковать госинто согласно этому чертежу.\\nПосле смачивания в воде оказалось, что некоторые из слов текста размыты - кто-то преднамеренно испортил чертёж, чем обрёк ковку клинка на неудачу и вызвал череду последующих несчастий...",
+        "th": "แบบแปลนการตีขึ้นรูปโบราณม้วนหนึ่ง โชกุนเคยสั่งให้ตระกูล Kaedehara สร้าง Goshintou ขึ้นมาตามแบบแปลนนี้\\nหลังจากผ่านการแช่ ตัวอักษรบางส่วนบนแบบแปลนจึงเลือนรางไป มีคนทำการดัดแปลงมัน ซึ่งนำไปสู่ความล้มเหลวในการตีดาบ ก่อให้เกิดโศกนาฏกรรมที่ตามมาอีก",
+        "vi": "Một bản vẽ cổ xưa, Shogun từng ra lệnh nhà Kaedehara dựa theo đó để rèn ra Goshintou.\\nSau khi bị ngâm nước, một số chữ trên bản vẽ đã trở nên mờ nhạt... Có người đã cố ý sửa đổi nó, dẫn đến việc rèn đao thất bại, và hàng loạt thảm kịch phía sau đó..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

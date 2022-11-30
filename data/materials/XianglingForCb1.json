@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xiangling - for CB1",
+        "de": "Xiangling – für CB1",
+        "chs": "(test)香菱-cb1用",
+        "cht": "香菱",
+        "es": "Xiangling-Para cb1",
+        "fr": "Xiangling - pour bêta-test 1",
+        "id": "Xiangling",
+        "jp": "香菱",
+        "kr": "향릉-cb1",
+        "pt": "Xiangling",
+        "ru": "Сян Лин (CB1)",
+        "th": "Xiangling - cb1 ใช้",
+        "vi": "Xiangling-cho cb1"
+    },
+    "id": 3005,
+    "materialDesc": {
+        "en": "Get Lv.15 Xiangling",
+        "de": "Xiangling St. 15 erhalten.",
+        "chs": "(test)获得15级角色香菱",
+        "cht": "獲得15級角色香菱。",
+        "es": "Obtén a Xiangling Niv. 15",
+        "fr": "Xiangling Niv.15 obtenue.",
+        "id": "Mendapatkan Xiangling Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)",
+        "jp": "Lv15の香菱を獲得する",
+        "kr": "Lv.15 향릉 획득",
+        "pt": "Obteve Xiangling Nv.15",
+        "ru": "Получите Сян Лин 15 уровня",
+        "th": "ได้รับ Xiangling Lv.15",
+        "vi": "Nhận Xiangling cấp 15"
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

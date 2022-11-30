@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "\"Snow on the Hearth\"",
+        "de": "„Schnee auf dem Herd“",
+        "chs": "「红炉一点雪」",
+        "cht": "「紅爐一點雪」",
+        "es": "Nieve en la chimenea",
+        "fr": "« Neige sur la fournaise »",
+        "id": "\"Snow on the Hearth\"",
+        "jp": "「紅炉一点雪」",
+        "kr": "「홍로일점설」",
+        "pt": "\"Neve na Lareira\"",
+        "ru": "«Снег на горне»",
+        "th": "\"Snow on the Hearth\"",
+        "vi": "Lò Hồng Chấm Tuyết"
+    },
+    "id": 108300,
+    "materialDesc": {
+        "en": "Kamisato Ayaka's specialty. This is almost like a small, lovely, and intricate artwork, with its pale red outer coat covering the feelings that the young maiden began to harbor from that moment on. If one had the honor of enjoying such a treat while having tea with a princess as graceful and noble as a white heron, one would surely yearn to have that moment stretch into eternity.",
+        "de": "Kamisato Ayakas Spezialzubereitung. Es ist fast wie ein kleines, wunderschönes und kompliziertes Kunstwerk, das mit seinem blassroten Mantel das Gefühl verdeckt, das das junge Mädchen von diesem Moment an zu hegen begann. Wenn man die Ehre hätte, ein solches Gericht zu genießen, während man mit einer Prinzessin, die so anmutig und edel wie ein weißer Reiher ist, Tee trinkt, würde man sich sicherlich danach sehnen, diesen Moment bis in die Ewigkeit auszudehnen.",
+        "chs": "神里绫华的特色料理。仿佛是一件娇小可爱的精致艺术品，薄红色的外衣包裹着的，是少女自那一刻起暗生的情愫。如果能与那位优雅如高岭白鹭般的公主一起边品茶边享用的话，大概会贪心地想要时间永远停驻吧。",
+        "cht": "神里綾華的特色料理。彷彿是一件嬌小可愛的精緻藝術品，薄紅色的外衣包裹著的，是少女自那一刻起暗生的情愫。如果能與那位優雅如高嶺白鷺般的公主一起邊品茶邊享用的話，大概會貪心地想要時間永遠停駐吧。",
+        "es": "La especialidad de Kamisato Ayaka. Es como si se tratase de una pequeña obra de arte adorable y compleja. Tiene una cobertura colorada y pálida que transmite la misma sensación que sentía la joven al cocinar este plato. Si alguien tuviera la oportunidad de deleitarse con tal manjar mientras se toma un té con una princesa tan elegante y noble como la Princesa Garza, seguro que desearía que ese momento durase para siempre.",
+        "fr": "Spécialité culinaire de Kamisato Ayaka. On dirait une véritable petite œuvre d'art exquise et charmante, enveloppée dans un mince manteau rouge pâle, qui recouvre l'amour secret de la jeune fille à ce moment. Si vous aviez l'honneur de savourer un tel plat en sirotant le thé avec une princesse aussi élégante et gracieuse qu'un héron blanc comme compagnie, vous aspireriez sûrement à ce que ce moment dure pour l'éternité.",
+        "id": "Spesialisasi Kamisato Ayaka. Hidangan ini hampir seperti sebuah karya seni kecil yang indah dan rumit, dengan bagian luarnya yang berwarna merah pucat, menutupi perasaan terpendam seorang gadis muda. Jika seseorang mendapat kehormatan untuk menikmati hidangan seperti ini sambil minum teh dengan seorang putri yang anggun dan mulia bagaikan bangau putih, dia pasti akan mendambakan agar momen itu berlangsung selamanya.",
+        "jp": "神里綾華のオリジナル料理。まるで小さな可愛らしい工芸品のようだ。ほのかに赤い衣は、乙女心を象徴している。白鷺の如く優雅な姫君とお茶を楽しめるなら、時間を永遠に止めたいという欲張りな考えが生まれるかもしれない。",
+        "kr": "카미사토 아야카의 특제 요리. 마치 귀엽고 앙증맞은 예술품 같다. 은은한 붉은색의 겉 부분이 감싸고 있는 건 소녀의 마음속에서 피어오른 진심 어린 사랑이리라. 그 우아하고 고상한 백로 같은 공주와 차를 마시면서 이 요리를 즐길 수 있다면, 그 누구든 탐욕스럽게 시간이 영원히 멈추길 바라게 되겠지",
+        "pt": "A especialidade de Kamisato Ayaka. É quase como uma pequena obra de arte adorável e complexa, com sua cobertura vermelha e pálida transmitindo a sensação que a jovem donzela começou a ter a partir daquele momento. Se alguém tivesse a honra de saborear esse prato enquanto toma chá com uma princesa tão graciosa e nobre como uma garça-real branca, certamente desejaria que esse momento se estendesse pela eternidade.",
+        "ru": "Особое блюдо Камисато Аяки. Оно словно маленькое, милое и филигранное произведение искусства в своём бледно-красном наряде, которое скрывает зарождающееся в молодой девушке чувство. Любой, кому бы выпала честь насладиться такой трапезой и чаем вместе с изящной и благородной, словно белая цапля, принцессой, всем сердцем бы пожелал, чтобы этот прекрасный момент длился вечно.",
+        "th": "เมนูพิเศษของ Kamisato Ayaka ดูคล้ายกับผลงานศิลปะขนาดเล็กสุดน่ารัก ที่ห่อด้วยเสื้อคลุมสีแดงบาง ๆ ซึ่งสื่อถึงความรู้สึกของหญิงสาวที่เริ่มมีตั้งแต่วินาทีนั้นเป็นต้นมา หากใครได้รับเกียรติให้ลิ้มลองอาหารจานนี้ ในขณะที่จิบชาร่วมกับเจ้าหญิงผู้สูงส่งและสง่างาม ราวกับนกกระเรียนขาวบนหน้าผาล่ะก็ ผู้นั้นคงอยากหยุดช่วงเวลานั้นเอาไว้ตลอดกาล",
+        "vi": "Món ăn đặc biệt của Kamisato Ayaka. Tựa như một tác phẩm nghệ thuật tinh tế nhỏ nhắn xinh xắn, được bọc trong một lớp áo mỏng màu đỏ, như tấm chân tình của người thiếu nữ lúc mới yêu. Nếu có vinh dự thưởng thức một món ăn như vậy trong khi nhâm nhi một tách trà với nàng công chúa duyên dáng và quý phái, ắt hẳn sẽ khao khát khoảnh khắc đó cứ như vậy kéo dài mãi mãi."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

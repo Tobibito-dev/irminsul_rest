@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Suspicious Fish With Cream Sauce",
+        "de": "Misslungener Fisch in Milchsoße",
+        "chs": "奇怪的奶酱鲜鱼",
+        "cht": "奇怪的奶醬鮮魚",
+        "es": "Pescado a la crema extraño",
+        "fr": "Poisson à la crème (suspect)",
+        "id": "Suspicious Fish with Cream Sauce",
+        "jp": "微妙な魚のクリームソース",
+        "kr": "이상한 크림소스 생선",
+        "pt": "Peixe ao Creme Estranho",
+        "ru": "Странная рыба в сливочном соусе",
+        "th": "Fish with Cream Sauce รสประหลาด",
+        "vi": "Cá Tươi Sốt Kem Kỳ Lạ"
+    },
+    "id": 108433,
+    "materialDesc": {
+        "en": "A fish dish served in sauce. The outside was burnt in searing hot oil. It is rather hard not to notice the sharp contrast between the charcoal-black fish and the milk-white sauce. Only the meat inside seems edible... Wait, what's with this sourness?",
+        "de": "Fischgericht mit Soße. Eine zu hohe Temperatur hat dazu geführt, dass die Haut des Fisch völlig verkohlt ist, im Kontrast zur weißen Soße kann man sagen, man hätte den Unterschied schwarz auf weiß. Der einzige Ausweg ist die Haut zu entfernen und das Fischfleisch zu probieren ... Ihh, warum ist das denn so sauer?",
+        "chs": "佐以酱汁的鱼料理。过热的油温导致鱼皮已经发黑了，与白色的酱汁形成对比，可谓是黑白分明。只好放弃鱼皮，尝一尝鱼肉…咦，这酸味是怎么回事？",
+        "cht": "佐以醬汁的魚料理。過熱的油溫導致魚皮已經發黑了，與白色的醬汁形成對比，可謂是黑白分明。只好放棄魚皮，嚐一嚐魚肉…咦，這酸味是怎麼回事？",
+        "es": "Un plato de pescado servido en salsa. El exterior estaba quemado por el aceite sobrecalentado. Es bastante difícil no notar el fuerte contraste entre el pescado negro como el carbón y la salsa blanca como la leche. Solo la carne del interior parece comestible... Espera, ¿a qué se debe esta acidez?",
+        "fr": "Un plat de poisson servi en sauce. L'extérieur a été carbonisé par l'huile bouillante dans laquelle il a cuit. Il est assez difficile de ne pas remarquer le contraste saisissant entre le poisson noir comme du charbon et la sauce blanche comme du lait. Seule la viande à l'intérieur semble pouvoir être mangée... Si l'on arrive à faire abstraction de ce goût acide à la provenance indéterminée.",
+        "id": "Hidangan ikan yang dilumuri dengan saus. Suhu minyak yang terlalu panas membuat kulit ikannya jadi gosong, dan menampilkan perbedaan warna hitam dan putih yang terlampau kontras dengan sausnya. Kalau sudah begini, terpaksa deh membuang kulitnya dan makan dagingnya saja ... Hei, kok rasanya jadi asam begini?",
+        "jp": "魚にソースをかけた料理。過度な高温によって魚の皮が真っ黒になり、白いソースと激しいコントラストを生んでいる。皮は諦めて、身を食べてみよう…ん？この酸っぱい味は何…？",
+        "kr": "소스를 곁들인 생선요리. 과열된 기름으로 까맣게 그을린 생선 껍질이 흰 소스와 선명한 대비를 이루고 있어 흑백이 분명하다. 생선 껍질은 포기하고 생선 살코기를 한입 베어 물면… 잠깐, 이 신맛은 대체 뭐야?",
+        "pt": "Um prato de peixe servido com molho. O exterior foi queimado com óleo superaquecido. É muito difícil não notar o forte contraste entre o peixe queimado e o molho branco leitoso. Só a carne dentro parece comestível... Espere, que acidez toda é essa?",
+        "ru": "Рыба, сервированная сливочным соусом. Масло перегрели, и вместо золотистой корочки получилась чёрная. Какой яркий контраст с белым соусом. Ладно, не будем трогать корочку, попробуем лучше саму рыбу... М? Что за кислятина?",
+        "th": "เมนูปลาในน้ำซอส น้ำมันที่ร้อนเกินไปทำให้ผิวหนังของปลาไหม้เกรียม ช่างตัดกันกับน้ำซอสสีขาวเสียเหลือเกิน ในเมื่อต่างกันขนาดนี้ คงทำได้แค่มองข้ามหนังปลาไป แล้วลองชิมเนื้อปลาแทน... เอ๋ รสชาติเปรี้ยว ๆ นี่มันอะไรกัน?",
+        "vi": "Món cá được kết hợp với nước sốt. Nhiệt độ dầu quá nóng đã làm cho da cá chuyển sang màu đen, tương phản với nước sốt có màu trắng, có thể nói là đen trắng lẫn lộn. Đành phải bỏ đi lớp da cá để thử một miếng thịt cá... Úi, vị chua này là sao đây?"
+    },
+    "materialType": "MATERIAL_NOTICE_ADD_HP"
+}

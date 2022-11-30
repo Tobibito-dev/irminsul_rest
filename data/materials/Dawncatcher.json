@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dawncatcher",
+        "de": "Dämmerfänger",
+        "chs": "擒霞客",
+        "cht": "擒霞客",
+        "es": "Atrapaauroras",
+        "fr": "Attrape-aube",
+        "id": "Dawncatcher",
+        "jp": "擒霞客",
+        "kr": "노을빛 구피",
+        "pt": "Apanhador da Aurora",
+        "ru": "Ловец зари",
+        "th": "Dawncatcher",
+        "vi": "Cá Bình Minh"
+    },
+    "id": 131004,
+    "materialDesc": {
+        "en": "A rare species of Medaka that has a brilliant sheen. It seems like a variant species of the normal Medaka, but it has a very different appearance and living habits.\\nThere is a rumor that these fish have the mystical ability to predict the weather. If they leap out of the water to catch the dawn's first light as it pierces the skies, then there will surely be a fine, sunny day to come.",
+        "de": "Eine seltene Art von Medaka, die einen glänzenden Schimmer hat. Sie scheint eine Variante des normalen Medakas zu sein, aber sie hat ein ganz anderes Aussehen und Lebensgewohnheiten.\\nEs gibt ein Gerücht, dass diese Fische die mystische Fähigkeit haben, das Wetter vorherzusagen. Wenn sie aus dem Wasser springen, um das erste Licht der Morgendämmerung einzufangen, wenn es den Himmel durchdringt, dann wird es mit Sicherheit einen schönen, sonnigen Tag geben.",
+        "chs": "体表浮现着斑斓霞光的珍稀鳉鱼，看似普通花鳉的变种，但无论是习性还是外观都有不小区别。\\n在民间传闻中，这种鱼儿还有预测天气的神异能力。每个晨光刺破天际的时刻，若能见到它们跃出水面、将小小身躯撞入第一缕朝霞，那意味着接下来，人们将会享受到一整日的好晴天。",
+        "cht": "體表浮現著斑斕霞光的珍稀鱂魚，看似普通花鱂的變種，但無論是習性還是外觀都有不小區別。\\n在民間傳聞中，這種魚兒還有預測天氣的神異能力。每個晨光刺破天際的時刻，若能見到牠們躍出水面、將小小身軀撞入第一縷朝霞，那意味著接下來，人們將會享受到一整日的好晴天。",
+        "es": "Una subespecie de medaka con escamas relucientes. Parece ser una variación de los medakas normales, pero su apariencia y sus costumbres son muy distintas.\\nHay un rumor sobre la supuesta habilidad de estos peces para predecir el tiempo: si saltan del agua para rozar la primera luz del amanecer que atraviesa los cielos, será un día soleado.",
+        "fr": "Un médaka rare aux couleurs multiples rappelant un coucher de soleil. Bien que ressemblant à quelque espèce commune de médakas, il diffère des médakas ordinaires aussi bien par son aspect que par son comportement.\\nCe poisson a dans les légendes populaires le don d'indiquer le temps qu'il va faire : si quelqu'un, à l'heure où le soleil perce l'horizon, en aperçoit un sauter dans l'eau au milieu de la brume matinale, alors la journée sera belle.",
+        "id": "Jenis ikan medaka langka dengan warna tubuh yang berkilau. Sejenis varian lain dari ikan medaka biasa, tetapi kebiasaan dan penampilannya berbeda jauh.\\nMenurut legenda rakyat, ikan jenis ini memiliki kemampuan meramal cuaca. Konon saat muncul sinar matahari pertama di pagi hari, kalau tubuh kecil ikan ini melompat dan memantulkan sinar matahari itu, berarti orang-orang akan menikmati hari yang cerah sepanjang hari.",
+        "jp": "色鮮やかな霞光を放つ珍しいグッピー。普通のグッピーの変種のように見えるが、習性と見た目が大きく違う。\\n民間の噂によると、この魚は天気を予報できる不思議な能力を持っているようだ。朝日が空に輝き始める時、彼らは水面から飛び出し、小さな体で初の朝霞に飛び向かった場合、一日中いい天気になるという。",
+        "kr": "몸에 알록달록한 노을빛을 띠는 진귀한 구피. 변종 구피처럼 보이지만, 습성과 생김새 모두 다소 차이가 있다.\\n속설에 따르면 날씨를 예측하는 신기한 능력이 있는데, 매일 아침 햇살이 막 지평선에서 나와 비출 때 첫 아침노을을 향해 물 밖으로 튀어 오르는 것을 본다면 온종일 화창한 날씨를 즐길 수 있다는 뜻이다",
+        "pt": "Uma espécie rara de Medaka com um brilho intenso. Parece uma espécie variante do Medaka normal, mas tem uma aparência e hábitos de vida muito diferentes.\\nHá um boato de que esses peixes têm a habilidade mística de prever o clima. Se eles pularem para fora da água para pegar a primeira luz do amanhecer enquanto ela atravessa os céus, então certamente haverá um belo dia ensolarado por vir.",
+        "ru": "Редкая оризия с красочными узорами на теле. Похожа на обычную оризию, но отличается внешним видом и повадками.\\nГоворят, будто эта рыба может предсказывать погоду. Если вы увидите, как она выпрыгивает из воды при первых лучах утреннего солнца, значит, весь день будет стоять прекрасная погода.",
+        "th": "ปลา Medaka หายากที่มีแสงเรืองรองบนร่างของมัน ดูเผิน ๆ อาจเหมือนปลา Medaka ที่กลายพันธุ์ แต่ไม่ว่าจะเป็นนิสัยหรือรูปลักษณ์ภายนอกของพวกมันก็มีความแตกต่างกันอยู่ไม่น้อยทีเดียว\\nชาวบ้านเล่าขานกันว่า ปลาชนิดนี้มีความสามารถในการทำนายสภาพอากาศได้อย่างอัศจรรย์ เมื่อแสงแรกของวันทอดผ่านผืนฟ้า หากพบปลาชนิดนี้กระโจนขึ้นมาเหนือผิวน้ำเพื่ออาบแสงแรกแห่งวันแล้วล่ะก็ หมายความว่าทุกคนจะได้เพลิดเพลินไปกับวันที่ฟ้าสดใสตลอดทั้งวันเลยล่ะ",
+        "vi": "Loài cá hiếm với lớp vảy óng ánh rực rỡ, trông giống như một biến thể của loài cá Khổng Tước thông thường, nhưng cả tập tính và hình dáng của nó đều có sự khác biệt không nhỏ.\\nDân gian đồn thổi, loài cá này còn có khả năng dự đoán thời tiết rất kỳ diệu. Vào mỗi khoảnh khắc khi ánh ban mai xuyên qua bầu trời, nếu có thể nhìn thấy chúng nhảy lên khỏi mặt nước và đắm mình vào tia nắng bình minh đầu tiên, điều đó có nghĩa là mọi người sẽ được tận hưởng một ngày nắng đẹp."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

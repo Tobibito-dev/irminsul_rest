@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Dendro-Processed Berry",
+        "de": "Von einem Dendro-Schleim geschluckte Beere",
+        "chs": "被草史莱姆吞下去过的树莓",
+        "cht": "被草史萊姆吞下去過的樹莓",
+        "es": "Baya Dendro-procesada",
+        "fr": "Baie ingérée par un Dendroblob",
+        "id": "Berry yang Ditelan Dendro Slime",
+        "jp": "草スライムに呑み込まれたラズベリー",
+        "kr": "풀 슬라임이 삼켰던 라즈베리",
+        "pt": "Baga Pré-Digerida",
+        "ru": "Недопереваренные ягоды",
+        "th": "Berries ที่ถูก Dendro Slime กลืนลงไป",
+        "vi": "Quả mâm xôi bị Slime Thảo ăn"
+    },
+    "id": 100454,
+    "materialDesc": {
+        "en": "It's a berry that's been digested by a Dendro Slime. From the outside, it appears the same as any other ordinary berry. Will using it for herbal medicine really have any effect?",
+        "de": "Eine Beere, die von einem Dendro-Schleim geschluckt und auf natürlichem Wege wieder ausgeschieden wurde. Sieht ganz nach einer gewöhnlichen Beere aus. Ob sie wirklich einen medizinischen Effekt haben wird?",
+        "chs": "被草史莱姆吞下过肚子的树莓，外表看起来…似乎和平常的树莓没什么区别。用这个入药，真的能治病吗？",
+        "cht": "被草史萊姆吞下過肚子的樹莓，外表看起來…似乎和平常的樹莓沒什麼區別。用這個入藥，真的能治病嗎？",
+        "es": "Es una baya digerida por un Slime Dendro. Por fuera se ve igual que cualquier otra baya común. ¿Usarlo como medicina realmente tendrá algún efecto?",
+        "fr": "Une baie qui a été ingérée par un Dendroblob. Son apparence est identique à une baie ordinaire. C'est à se demander si elle possède vraiment des propriétés curatives...",
+        "id": "Berry yang pernah ditelan dan dicerna oleh Dendro Slime. Penampilannya terlihat sama seperti berry biasa. Apakah berry ini benar-benar bagus digunakan sebagai obat herbal?",
+        "jp": "草スライムに呑み込まれたラズベリー、見た目は…普通のラズベリーとほとんど変わらない。これを薬に使って本当に病気を治せるだろうか？",
+        "kr": "풀 슬라임이 삼켰던 라즈베리. 겉모습은…일반 라즈베리랑 다를 게 없어 보인다. 이걸로 약을 만들면 정말 병을 고칠 수 있을까?",
+        "pt": "Uma baga digerida por um Slime Dendro. Por fora, parece uma baga comum como qualquer outra. Será que usá-lo como erva medicinal terá algum efeito?",
+        "ru": "Это ягода, переваренная Дендро слаймом. Снаружи она выглядит так же, как любая другая обычная ягода. Каков же будет эффект, если использовать её в медицинских целях?",
+        "th": "Berries ที่ถูก Dendro Slime กลืนลงไป ภายนอกดูแล้ว...ก็ไม่ต่างอะไรกับ Berries ธรรมดา หากนำมาทำเป็นยาแล้วจะรักษาโรค ได้จริงรึเปล่า?",
+        "vi": "Quả mâm xôi bị Slime Thảo nuốt vào bụng, có vẻ ngoài không khác biệt so với quả mâm xôi thông thường. Dùng thứ này để chế thuốc liệu có hiệu quả không?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

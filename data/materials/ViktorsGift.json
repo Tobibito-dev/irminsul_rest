@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Viktor's Gift",
+        "de": "Viktors Geschenk",
+        "chs": "维克多的礼物",
+        "cht": "維克多的禮物",
+        "es": "Regalo de Viktor",
+        "fr": "Cadeau de Victor",
+        "id": "Hadiah Viktor",
+        "jp": "ヴィクトルのプレゼント",
+        "kr": "빅토르의 선물",
+        "pt": "Presente de Viktor",
+        "ru": "Подарок Виктора",
+        "th": "ของขวัญของ Victor",
+        "vi": "Món Quà Của Viktor"
+    },
+    "id": 101677,
+    "materialDesc": {
+        "en": "A gift you got from Viktor. He seems to have also put a letter under the gift box.",
+        "de": "Ein Geschenk, das du von Viktor bekommen hast. Er scheint auch einen Brief unten in die Geschenkschachtel gelegt zu haben.",
+        "chs": "从维克多那里拿到的礼物。他似乎还在礼物盒底下放了一封信…",
+        "cht": "從維克多那裡拿到的禮物。他似乎還在禮物盒底下放了一封信…",
+        "es": "Un regalo que te dio Viktor. Parece que puso una carta en el fondo de la caja.",
+        "fr": "Un cadeau que vous avez obtenu de la part de Viktor. On dirait qu'il a également ajouté une lettre sous le coffret.",
+        "id": "Hadiah yang kamu terima dari Viktor. Sepertinya dia juga menaruh sepucuk surat di bawah kotak hadiah ini.",
+        "jp": "ヴィクトルから貰ったプレゼント。彼はギフトボックスの底に手紙を入れているようだ…",
+        "kr": "빅토르에게 받은 선물. 선물 상자 아래에 편지도 넣어둔 것 같다…",
+        "pt": "Um presente de Viktor. Ele parece ter deixado uma carta no fundo da caixa de presente...",
+        "ru": "Подарок, который вам дал Виктор. Кажется, внизу прикреплено письмо...",
+        "th": "ของขวัญที่ได้รับมาจาก Victor ดูเหมือนว่าเขาจะใส่จดหมายฉบับนึงไว้ใต้กล่องของขวัญด้วย...",
+        "vi": "Món quà nhận được từ chỗ Viktor. Hình như dưới đáy hộp quà còn có một bức thư..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

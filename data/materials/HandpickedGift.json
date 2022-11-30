@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Handpicked Gift",
+        "de": "Sorgfältig ausgewähltes Geschenk",
+        "chs": "精心挑选的礼物",
+        "cht": "精心挑選的禮物",
+        "es": "Regalo cuidadosamente escogido",
+        "fr": "Cadeau choisi avec soin",
+        "id": "Hadiah Pilihan Bersama",
+        "jp": "厳選したプレゼント",
+        "kr": "정성껏 고른 선물",
+        "pt": "Presente Escolhido Cuidadosamente",
+        "ru": "Тщательно подобранный подарок",
+        "th": "ของขวัญที่เลือกอย่างตั้งใจ",
+        "vi": "Quà Tâm Đắc"
+    },
+    "id": 100746,
+    "materialDesc": {
+        "en": "A gift you chose together with Noelle. Hopefully, it will help bring Bea and Quinn together...",
+        "de": "Ein Geschenk, das du zusammen mit Noelle ausgesucht hast. Hoffentlich wird es helfen, Bea und Quinn zusammenzubringen ...",
+        "chs": "和诺艾尔一起挑选的礼物。希望它能够成为连接贝雅小姐和昆恩先生的红线…",
+        "cht": "和諾艾爾一起挑選的禮物。希望它能夠成為連起貝雅小姐和昆恩先生的紅線…",
+        "es": "Un regalo que elegiste junto a Noelle. Con suerte, ayudará a que Beatrix y Quinn acorten las distancias...",
+        "fr": "Un cadeau que vous avez soigneusement choisi avec Noëlle. Avec un peu de chance, il rapprochera Béatrice et Quinn.",
+        "id": "Hadiah yang kamu pilih bersama-sama dengan Noelle. Semoga benda ini bisa membantu Bea dan Quinn bersatu...",
+        "jp": "ノエルと共に選んだプレゼント。これがベアトリーチェとクインの運命の赤い糸になるといいが…",
+        "kr": "노엘과 함께 고른 선물. 이걸로 베아트리체와 퀸의 관계가 더 가까워지길…",
+        "pt": "Um presente que você escolheu junto com Noelle. Talvez ele possa fazer bea e Quinn ficarem juntos...",
+        "ru": "Подарок, который вы выбирали вместе с Ноэлль. Хоть бы он помог Беатрис и Куинну быть вместе...",
+        "th": "ของขวัญที่เลือกด้วยกันกับ Noelle หวังว่ามันจะสามารถเป็นเหมือนด้ายแดงแห่งโชคชะตาที่เชื่อมโยงคุณ Bea และคุณ Quinn เข้าด้วยกัน",
+        "vi": "Món quà cùng Noelle lựa chọn. Hy vọng nó có thể mai mối cho Beatrice và Quinn..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

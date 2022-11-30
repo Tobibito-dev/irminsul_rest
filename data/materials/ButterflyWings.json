@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Butterfly Wings",
+        "de": "Schmetterlingsflügel",
+        "chs": "蝴蝶翅膀",
+        "cht": "蝴蝶翅膀",
+        "es": "Alas de mariposa",
+        "fr": "Ailes de papillon",
+        "id": "Butterfly Wings",
+        "jp": "蝶々の羽",
+        "kr": "나비 날개",
+        "pt": "Asas de Borboleta",
+        "ru": "Крылья бабочки",
+        "th": "Butterfly Wings",
+        "vi": "Cánh Bướm"
+    },
+    "id": 100072,
+    "materialDesc": {
+        "en": "Brightly colored wings. The powder that falls from them shimmers a little. Perhaps this is what allows them to fly?",
+        "de": "Bunte Flügel von Schmetterlingen. Wenn man genau hinsieht, bemerkt man, dass der herunterrieselnde Staub leuchtet. Vielleicht können Schmetterlinge damit ja besser fliegen.",
+        "chs": "色彩靓丽的翅膀。散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。",
+        "cht": "色彩靚麗的翅膀。散落的鱗粉微微地發著光，或許是讓蝴蝶能輕快飛翔的成分。",
+        "es": "Alas de colores brillantes. El polvo que cae de ellas brilla sin cesar. ¿Quizás esto es lo que les permite volar?",
+        "fr": "Une jolie paire d'ailes colorées. La poudre scintillante qui en tombe est peut-être ce qui permet aux papillons de voler ?",
+        "id": "Sayap kupu-kupu yang berwarna cerah dan terang. Serbuk yang berjatuhan dari sayap ini berkilauan indah. Apa mungkin serbuk ini yang membuat kupu-kupu dapat terbang?",
+        "jp": "色鮮やかな羽。落ちた鱗粉が微かな光を放っている。もしかしたら蝶々が軽やかに飛ぶための成分かもしれない。",
+        "kr": "색이 아름다운 날개. 날개의 비늘에서 은은한 빛이 난다. 나비를 날 수 있게 하는 성분일지도 모른다",
+        "pt": "Asas coloridas. O pó que cai deles brilha um pouco. Talvez seja isso que lhes permita voar?",
+        "ru": "Ярко окрашенные крылья покрыты светящейся пылью. Может быть, именно благодаря ей бабочки могут летать?",
+        "th": "ปีกสีรุ้ง ผงที่ร่วงลงมาจากมันจะส่องเป็นประกายเล็กน้อย บางทีนี่อาจจะเป็นสิ่งที่ทำให้ผีเสื้อบินได้",
+        "vi": "Đôi cách sặc sỡ màu sắc. Phát ra ánh sáng nhẹ nhàng."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Taliesin's Manuscript",
+        "de": "Taliesins Manuskript",
+        "chs": "塔列辛的诗稿",
+        "cht": "塔列辛的詩稿",
+        "es": "Borrador del poema de Taliesin",
+        "fr": "Manuscrit de Taliesin",
+        "id": "Naskah Taliesin",
+        "jp": "タリエシンの詩稿",
+        "kr": "탈리에신의 시 원고",
+        "pt": "Manuscrito de Taliesin",
+        "ru": "Рукопись Талиесина",
+        "th": "ร่างบทกวีของ Taliesin",
+        "vi": "Bản Thảo Của Taliesin"
+    },
+    "id": 101734,
+    "materialDesc": {
+        "en": "A very thick poetic manuscript. If you were to give it a generous review, it would be \"mediocre,\" while an honest review would see it getting a \"hard to read.\" It resembles bone-dry historical records more than it does poetry.",
+        "de": "Ein sehr dickes poetisches Manuskript. Wenn du es großzügig bewerten würdest, wäre es „mittelmäßig“, während es bei einer ehrlichen Rezension ein „schwer zu lesen“ bekommen würde. Es ähnelt eher knochentrockenen historischen Aufzeichnungen als der Poesie.",
+        "chs": "厚厚的一叠诗稿，内容往好评价质量平平，如实评论则呕哑难读。比起诗歌不如更像枯燥的历史记录。",
+        "cht": "厚厚的一疊詩稿，內容往好評價品質平平，如實評論則嘔啞難讀。比起詩歌不如更像枯燥的歷史記錄。",
+        "es": "Un grueso manuscrito de poesía. El contenido no está mal, pero es de calidad media. De hecho, nadie disfrutaría leyendo los comentarios verídicos. Más que un poemario, esto parece un soporífero libro de historia.",
+        "fr": "Un manuscrit de poèmes très épais. En étant généreux, on pourrait qualifier son contenu de tout juste passable. Cependant, un critique plus honnête le décrirait comme un « calvaire à la lecture ». Cet ouvrage se lit davantage comme un livre d'histoire soporifique plutôt qu'un recueil de poèmes.",
+        "id": "Sebuah naskah puisi yang sangat tebal. Kalau kamu memberi ulasan yang murah hati, maka mungkin naskah itu bisa dianggap \"biasa saja\", sementara ulasan yang jujur akan menganggapnya sebagai naskah yang \"sulit untuk dibaca.\" Naskah ini lebih menyerupai catatan sejarah yang sudah tua daripada puisi.",
+        "jp": "分厚い詩の草稿。その内容は良く言えば凡庸で、正直に言えば実に読みにくい。詩歌というより、退屈な史料というべきだ。",
+        "kr": "두꺼운 시 원고. 내용은 좋게 말하면 평범하고, 솔직하게 평가하면 읽기가 힘들다. 시보다는 따분한 역사기록에 가깝다",
+        "pt": "Um manuscrito poético grosso. O conteúdo não está ruim, mas se fosse para ter sua opinião sincera, sua qualidade é mediana. Entretanto, sua opinião honesta é de que seria uma leitura difícil. Parece mais um registro histórico seco do que poesia.",
+        "ru": "Толстая рукопись со стихами. Её содержимое в лучшем случае можно охарактеризовать как заурядное. Ну а по правде стихи эти - до боли тяжёлое чтиво, которое, скорее, напоминает исторические заметки, нежели поэзию.",
+        "th": "ร่างบทกวีเล่มหนาปึก เนื้อหามีคุณภาพของการประเมินอยู่ในระดับปานกลาง และความคิดเห็นตามความจริงกลับหยาบคายไม่น่าอ่าน มันเหมือนบันทึกทางประวัติศาสตร์ที่น่าเบื่อมากกว่าบทกวีเสียอีก",
+        "vi": "Bản thảo thơ dày cộm, nếu đánh giá một cách nương tay thì là chất lượng tầm thường, nếu gắt gao hơn thì có thể nói rằng rất khó đọc. Thay vì gọi là thơ, chi bằng gọi là ghi chép lịch sử khô khan thì đúng hơn."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

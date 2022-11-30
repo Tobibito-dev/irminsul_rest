@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "NRE (Menu 30)",
+        "de": "Praktischer Nahrungsbeutel Nr. 30",
+        "chs": "叁零式·便携营养袋",
+        "cht": "參零式·隨身營養袋",
+        "es": "Bolsita nutritiva (Versión n.º 30)",
+        "fr": "Poche nutritive V30",
+        "id": "NRE (Menu 30)",
+        "jp": "三〇式·携帯式栄養袋",
+        "kr": "삼공식·영양키트",
+        "pt": "Bolsa Nutritiva (V. 30)",
+        "ru": "Сухпаёк (Меню № 30)",
+        "th": "NRE (Menu 30)",
+        "vi": "Túi Dinh Dưỡng Bỏ Túi - Mẫu 30"
+    },
+    "id": 220008,
+    "materialDesc": {
+        "en": "A handy meal-in-a-pouch that can transform most foods into instantly absorbable nutritional matter. Despite the fact that it can greatly increase the efficiency of nutritional intake, most knights aren't too keen to put their food in it...",
+        "de": "Kann die meisten Nahrungsmittel in sofort absorbierbare Nährstoffe umwandeln. Obwohl dieses Objekt die Effizienz der Nahrungsaufnahme erheblich steigern kann, sind die meisten Ritter nicht allzu sehr darauf erpicht, ihre Nahrung in diese Erfindung zu legen ...",
+        "chs": "能将大部分美食转化为能瞬间摄入的「营养物质」。尽管能大大提高营养补充的效率，但愿意使用它的骑士似乎不多…",
+        "cht": "能將大部分美食轉化為能瞬間攝入的「營養物質」。儘管能大大提高營養補充的效率，但願意使用它的騎士似乎不多…",
+        "es": "Transforma la mayoría de los alimentos en nutrientes que se pueden ingerir inmediatamente. Aunque aumenta notablemente la eficiencia nutricional, no muchos están dispuestos a probarlo...",
+        "fr": "Cet outil est capable de transformer en un éclair la plupart des plats en « matières à haute teneur nutritive ». Bien que cette invention constitue un atout indéniable, très peu de chevaliers sont enclins à l'utiliser...",
+        "id": "Dapat mengubah sebagian besar jenis makanan menjadi \"nutrisi\" yang dapat langsung diserap. Meskipun benda ini dapat meningkatkan efisiensi suplemen nutrisi, tidak banyak Knight yang mau menggunakannya...",
+        "jp": "ほとんどの美食を瞬時に摂取可能な「栄養物質」に変化させる。栄養摂取の効率を大きく上昇させるが、積極的に使いたい騎士は多くないようだ…",
+        "kr": "대부분의 요리를 순식간에 섭취할 수 있는 「영양물질」로 바꿔준다. 영양 보충 효과를 대폭 상승시켜준다고 하지만, 이를 사용하고 싶어 하는 기사는 많지 않은 것 같다…",
+        "pt": "Esta bolsa prática pode transformar a maioria dos alimentos em matéria absorvível nutritiva imediatamente. Apesar da sua capacidade de aumentar enormemente a eficiência da ingestão nutricional, a maioria dos cavaleiros não estão muito interessados em colocar seus alimentos nela...",
+        "ru": "Удобная вещь, которая может превратить почти любую еду в быстро усвояемое «питательное вещество». Несмотря на её способность повышать пищевую ценность продуктов, рыцарей, желающих воспользоваться портативным сухпайком, не так много...",
+        "th": "สามารถเปลี่ยนอาหารส่วนใหญ่ให้เป็น \"สารอาหาร\" ที่สามารถดูดซึมได้อย่างรวดเร็ว ถึงแม้จะสามารถเพิ่มประสิทธิภาพในการดูดซึมสารอาหารได้ แต่ดูเหมือนอัศวินที่เต็มใจใช้มันมีไม่มากนัก...",
+        "vi": "Có thể nhanh chóng chuyển hóa thực phẩm thành những \"vật chất dinh dưỡng\". Tuy rằng có thể tăng khả năng hấp thụ dinh dưỡng, nhưng có rất ít kỵ sĩ muốn sử dụng nó..."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

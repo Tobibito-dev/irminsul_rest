@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Roaming",
+        "de": "Errungenschaft – Umherwandern",
+        "chs": "成就·漫行",
+        "cht": "成就·漫行",
+        "es": "Logro - Itinerante",
+        "fr": "Succès - Errance",
+        "id": "Achievement: Berkelana",
+        "jp": "アチーブメント·漫遊",
+        "kr": "업적·만행",
+        "pt": "Conquista — Itinerante",
+        "ru": "Странствие",
+        "th": "ความสำเร็จ - ล่องโลกา",
+        "vi": "Thành tựu - Dạo Bước"
+    },
+    "id": 210128,
+    "materialDesc": {
+        "en": "Namecard style.\\nEvery journey and memory is a unique miracle that only belongs to the traveler.",
+        "de": "Ein Motiv für Namenskärtchen.\\nJede Reise, jede Erinnerung, sie alle gehören nur den Reisenden, sind einzigartige Wunder.",
+        "chs": "名片纹饰。\\n每一段旅途、每一段回忆，都是只属于旅人的、独一无二的奇迹。",
+        "cht": "名片紋飾。\\n每一段旅途、每一段回憶，都是只屬於旅人的、獨一無二的奇蹟。",
+        "es": "Diseño de tarjeta de presentación.\\nCada viaje y cada recuerdo son un milagro único que solo pertenece a quien emprende ese viaje.",
+        "fr": "Thème.\\nChaque voyage et chaque souvenir est un miracle unique qui n'appartient qu'au voyageur.",
+        "id": "Style Kartu Nama.\\nSebuah perjalanan, sepenggal ingatan. Semua ini hanya milik Pengembara, keajaiban yang tiada duanya.",
+        "jp": "名刺の飾り紋。\\nすべての旅、そしてすべての思い出は、旅人だけの唯一無二の奇跡。",
+        "kr": "명함 스킨.\\n모든 여정과 추억은 여행자만의 유일무이한 기적이다",
+        "pt": "#Estilo de Cartão de Visita.\\nCada jornada, cada memória, todo milagre pertence àquel{F#a}{M#e} que viaja.",
+        "ru": "Именная карта.\\nКаждое странствие и память о нём - единственное в своём роде волшебство, которое принадлежит лишь путешественнику.",
+        "th": "ลายนามบัตร\\nทุกการเดินทาง ทุกช่วงความทรงจำ ต่างก็เป็นของผู้ที่เดินทาง และเป็นปาฏิหาริย์ที่มีเพียงหนึ่งเดียว",
+        "vi": "Hoa văn danh thiếp.\\nMỗi một chặng hành trình, mỗi một quãng ký ức, đều là những kỳ tích độc nhất vô nhị, chỉ thuộc về riêng người lữ khách."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

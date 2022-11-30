@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Goblet of Chiseled Crag",
+        "de": "Krug aus Felsgestein",
+        "chs": "巉岩琢塑之樽",
+        "cht": "巉岩琢塑之樽",
+        "es": "Cáliz del Escultor de Montañas",
+        "fr": "Coupe en roche escarpée",
+        "id": "Goblet of Chiseled Crag",
+        "jp": "危岩磐石の杯",
+        "kr": "위암 반석의 술잔",
+        "pt": "Taça do Escultor de Pedra",
+        "ru": "Кубок из резного камня",
+        "th": "Goblet of Chiseled Crag",
+        "vi": "Ly Ngọc Bàn Thạch"
+    },
+    "id": 23496,
+    "setId": 15014,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_RING",
+    "rankLevel": 4,
+    "maxLevel": "ITEM_RELIQUARY"
+}

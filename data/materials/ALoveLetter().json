@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "A Love Letter(?)",
+        "de": "Ein Liebesbrief?",
+        "chs": "似乎是一封情信",
+        "cht": "似乎是一封情書",
+        "es": "Algo parecido a una carta de amor",
+        "fr": "Une lettre d'amour (?)",
+        "id": "Sepucuk Surat Cinta...?",
+        "jp": "恋文のような手紙",
+        "kr": "연애 편지?",
+        "pt": "Parece ser uma carta emocional",
+        "ru": "Любовное письмо?",
+        "th": "จดหมายรัก (เหรอ?)",
+        "vi": "Như Là Bức Thư Tình"
+    },
+    "id": 100903,
+    "materialDesc": {
+        "en": "A letter that Hiiragi Chisato has written for Kujou Kamaji. She would be mad if you opened it up without her permission...",
+        "de": "Ein Brief, den Hiiragi Chisato für Kujou Kamaji geschrieben hat. Sie wäre sauer, wenn du ihn ohne ihre Erlaubnis öffnest ...",
+        "chs": "柊千里写给九条镰治的信，私自拆开的话会让千里小姐生气的吧？",
+        "cht": "柊千里寫給九條鐮治的信，私自拆開的話會惹千里小姐生氣吧？",
+        "es": "Una carta para Kujou Kamaji escrita por Hiiragi Chisato. Si la abres sin permiso, podrías enojar a Chisato.",
+        "fr": "Une lettre que Hiiragi Chisato a écrite pour Kujou Kamaji. Elle serait fâchée si vous l'ouvriez sans sa permission...",
+        "id": "Sepucuk surat yang ditulis Hiiragi Chisato untuk Kujou Kamaji. Dia akan marah kalau kamu membukanya tanpa izin...",
+        "jp": "柊千里が九条鎌治向けに書いた手紙。勝手に開いたら千里が怒るかも？",
+        "kr": "히이라기 치사토가 쿠죠 카마지에게 쓴 편지, 함부로 열어 보면 치사토 아가씨가 화를 낼지도?",
+        "pt": "Uma carta que Hiiragi Chisato escreveu para Kujou Kamaji. Ela ficaria brava se você abrisse sem a permissão dela...",
+        "ru": "Письмо, написанное Хийраги Тисато для Кудзё Камадзи. Если вы прочтёте его без разрешения, она рассердится.",
+        "th": "จดหมายที่ Hiiragi Chisato เขียนถึง Kujou Kamaji น่าจะโดนเธอโกรธแน่ ๆ ถ้าเปิดอ่านโดยไม่ได้รับอนุญาต...",
+        "vi": "Thư của Hiiragi Chisato viết cho Kujou Kamaji, không biết tự ý mở ra xem thì tiểu thư có giận không nhỉ?"
+    },
+    "materialType": "MATERIAL_QUEST"
+}

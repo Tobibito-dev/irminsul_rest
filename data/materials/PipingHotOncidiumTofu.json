@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Piping-Hot Oncidium Tofu",
+        "de": "Heißer Oncidium-Tofu",
+        "chs": "热腾腾的文心豆腐",
+        "cht": "熱騰騰的文心豆腐",
+        "es": "Tofu oncidium muy caliente",
+        "fr": "Tofu oncidium bien chaud",
+        "id": "Oncidium Tofu Panas",
+        "jp": "熱々の文心豆腐",
+        "kr": "따끈따끈한 문심 두부",
+        "pt": "Tofu de Oncidium Muito Quente",
+        "ru": "Тофу «Вэньсинь» с пылу с жару",
+        "th": "Oncidium Tofu ร้อน ๆ",
+        "vi": "Đậu Hũ Tâm Ý Nóng Hổi"
+    },
+    "id": 100983,
+    "materialDesc": {
+        "en": "Oncidium Tofu made using the Supreme Cuisine Machine. One wonders what flavors this is going to have...",
+        "de": "Ein Oncidium-Tofu, zubereitet mit der Edlen Küchenmaschine. Man fragt sich, welche Geschmacksrichtungen das haben wird ...",
+        "chs": "用「机关烹饪神机」烹饪出的「文心豆腐」。不知道吃起来味道如何…",
+        "cht": "用「機關烹飪神機」烹飪出的「文心豆腐」。不知道吃起來味道如何…",
+        "es": "Un tofu oncidium hecho con la cocinadora mecánica suprema. ¿A qué sabrá?",
+        "fr": "Du tofu oncidium cuisiné avec le cuiseur suprême de Souffle-Nuages. Qui sait quel goût ce plat aura ?",
+        "id": "Oncidium Tofu yang dibuat dengan menggunakan Supreme Cuisine Machine. Orang-orang pasti akan penasaran dengan rasanya...",
+        "jp": "「からくり調理神器」で作った「文心豆腐」。どんな味なのかは分からない…",
+        "kr": "「요리 기계장치」로 요리한 「문심 두부」. 과연 그 맛은 어떨까…",
+        "pt": "Um Tofu de Oncidium feito com a Máquina de Culinária Suprema. Não se sabe que gosto terá...",
+        "ru": "Тофу «Вэньсинь», приготовленный с помощью Чуда кулинарной машинерии. Интересно, какое оно на вкус...",
+        "th": "Oncidium Tofu ที่ทำด้วย \"กลไกทำอาหารมหัศจรรย์\" ไม่รู้ว่าพอทานแล้วรสชาติจะเป็นยังไงนะ...",
+        "vi": "Đậu Hũ Tâm Ý nấu từ Cơ Quan Nấu Nướng Thần Kỳ. Không biết mùi vị thế nào..."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

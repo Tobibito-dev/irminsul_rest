@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Lumenstone Adjuvant",
+        "de": "Lumenstein-Katalysator",
+        "chs": "流明石触媒",
+        "cht": "流明石觸媒",
+        "es": "Canalizador lumínico",
+        "fr": "Adjuvant de pierre de lumen",
+        "id": "Lumenstone Adjuvant",
+        "jp": "流明石の触媒",
+        "kr": "유명석 촉매",
+        "pt": "Condutor de Pedra Lúmen",
+        "ru": "Адъювант светоносного камня",
+        "th": "ตัวเร่งปฏิกิริยา Lumenstone",
+        "vi": "Chất Xúc Tác Lưu Minh Thạch"
+    },
+    "id": 220048,
+    "materialDesc": {
+        "en": "When equipped in The Chasm's Underground Mines, this precious crystal can provide illumination.\\n\\nIt has many similarities to the Glazed Sand Crystal that may only be found within The Chasm, but it stores even greater power within it.\\nMay it be as a sun in your palm, lighting the way through the lightless tunnels and bringing comfort where all is dark.",
+        "de": "Ein seltener Kristall. Wenn du diesen Kristall in „Große Kluft – Unterirdische Minen“ anlegst, beleuchtet er deine Umgebung.\\n\\nSeine Zusammensetzung weist einige Gemeinsamkeiten mit dem Kristallsand aus der Großen Kluft auf. Aber in ihm steckt eine viel stärkere Macht.\\nHoffentlich kann dieser Kristall wie eine kleine Sonne deinen Weg erhellen und dir während der Erkundung in der Dunkelheit einigen Trost spenden.",
+        "chs": "「层岩巨渊·地下矿区」中装备时，能够提供光照的珍贵晶体。\\n\\n在成分上与仅在层岩巨渊出产的琉璃晶砂有相当的共同之处，但其中含有更加浓烈的力量。\\n但愿它能如同掌心的小太阳一样，为黑暗中的跋涉带来些许光亮、些许慰藉。",
+        "cht": "「層岩巨淵·地下礦區」中裝備時，能夠提供光照的珍貴晶體。\\n\\n在成分上與僅在層岩巨淵出產的琉璃晶砂有相當的共同之處，但其中含有更加濃烈的力量。\\n但願它能如同掌心的小太陽一樣，為黑暗中的跋涉帶來些許光亮、些許慰藉。",
+        "es": "Un piedra preciosa capaz de proporcionar luz al llevarla equipada en las Minas Subterráneas de la Sima.\\n\\nSu composición comparte algunas características con la arena cristalizada de la Sima, pero esta piedra contiene un poder aún mayor.\\nOjalá te sirva como un sol en miniatura que ilumina tu camino y facilita tu exploración de la oscuridad.",
+        "fr": "Une pierre précieuse capable d'émettre de la lumière lorsqu'elle est portée dans les Mines souterraines du Gouffre.\\n\\nBien que sa composition partage certaines caractéristiques avec les cristaux émaillés du Gouffre, cette pierre contient un pouvoir encore plus grand.\\nQu'il soit comme un soleil dans votre paume, éclairant le chemin à travers les tunnels sans lumière et apportant du réconfort là où tout est sombre.",
+        "id": "Saat digunakan di Chasm: Tambang Bawah Tanah, kristal ini bisa memancarkan cahaya.\\n\\nMemiliki banyak kemiripan dengan Glazed Sand Crystal yang hanya bisa ditemukan di dalam Chasm, tapi punya lebih banyak kekuatan yang terkandung di dalamnya.\\nBiarlah dia menjadi matahari di tanganmu yang bisa menyinari setiap langkahmu melewati terowongan gelap dan membawa kenyamanan di saat semua menjadi gelap.",
+        "jp": "「層岩巨淵·地下鉱区」で身に着けると、光を放つ貴重な結晶。\\n\\n組成において、層岩巨淵の特産である琉璃晶砂とはかなりの共通点があるが、より強烈な力が秘められている。\\n手のひらに乗った小さな太陽のように、暗闇の中を歩む人にささやかな安らぎと光を与えてくれることを願う。",
+        "kr": "「층암거연·지하 광구」에서 장착 시, 광원을 제공할 수 있는 진귀한 결정체.\\n\\n성분은 층암거연에서 산출되는 유리 모래와 매우 비슷하지만, 더욱 강렬한 힘이 담겨 있다.\\n유명 수정석이 손안의 작은 태양처럼 어둠 속의 길을 비추고 위안이 되길 바란다",
+        "pt": "Quando equipado nas Minas Subterrâneas do Despenhadeiro, este precioso cristal é capaz de fornecer iluminação.\\n\\nPossui muitas semelhanças ao Cristal de Areia Vitrificada que só é possível de ser encontrado dentro do Despenhadeiro, mas armazena ainda mais poder dentro dele.\\nQue seja como um sol bem na palma de sua mão, iluminando o caminho através dos túneis sem luz e trazendo conforto onde tudo for escuro.",
+        "ru": "Ценный кристалл, который в Подземных шахтах Разлома излучает свет, будучи экипированным.\\n\\nПо своему составу он схож с кристаллами глазурного песка, добываемыми только в Разломе, но заключает в себе куда большую силу.\\nПусть это будет маленькое солнце на ладони, дающее свет и утешение во тьме.",
+        "th": "คริสตัลล้ำค่าที่สามารถให้แสงสว่างได้เมื่อสวมใส่ในพื้นที่เหมืองใต้ดิน Chasm\\n\\nในแง่ขององค์ประกอบแล้วนั้นมีความคล้ายกันกับ Glazed Sand Crystal ที่มีเพียงใน Chasm แต่มันมีพลังที่เข้มข้นมากกว่า\\nก็หวังว่ามันจะเป็นเหมือนดวงตะวันในฝ่ามือ ที่ช่วยนำแสงสว่างและความสะดวกสบายบางส่วนมาให้คุณได้ในช่วงระยะเวลาที่เดินทางในความมืดนะ",
+        "vi": "Tinh thể quý có thể chiếu sáng khi trang bị trong Vực Đá Sâu - Khu Mỏ Ngầm.\\nVề thành phần có điểm tương đồng với Tinh Thể Lưu Ly chỉ sản sinh tại Vực Đá Sâu, nhưng trong đó chứa đựng nhiều sức mạnh hơn.\\nHy vọng nó có thể giống như mặt trời nhỏ trong bàn tay, đem lại một ít ánh sáng, một ít an ủi cho hành trình trong bóng tối."
+    },
+    "materialType": "MATERIAL_WIDGET"
+}

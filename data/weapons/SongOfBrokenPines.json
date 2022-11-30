@@ -1,0 +1,1525 @@
+{
+    "name": {
+        "en": "Song of Broken Pines",
+        "de": "Kiefernklang",
+        "chs": "松籁响起之时",
+        "cht": "松籟響起之時",
+        "es": "Oda de los Pinos",
+        "fr": "Ode au chant du vent",
+        "id": "Song of Broken Pines",
+        "jp": "松韻の響く頃",
+        "kr": "송뢰가 울릴 무렵",
+        "pt": "Canção dos Pinhos",
+        "ru": "Песнь разбитых сосен",
+        "th": "Song of Broken Pines",
+        "vi": "Tiếng Gió Trong Rừng Thông"
+    },
+    "id": 12503,
+    "type": "WEAPON_CLAYMORE",
+    "rankLevel": 5,
+    "baseStats": [
+        {
+            "type": "FIGHT_PROP_BASE_ATTACK",
+            "value": 49.137699127197266
+        },
+        {
+            "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+            "value": 0.04500000178813934
+        }
+    ],
+    "curve": {
+        "1": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "2": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.097000002861023,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "3": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.194000005722046,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "4": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.2920000553131104,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.0,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "5": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.3910000324249268,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "6": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.4900000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "7": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.590999960899353,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "8": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.6920000314712524,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "9": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.7929999828338623,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.1619999408721924,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "10": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.8949999809265137,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "11": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 1.9980000257492065,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "12": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.1019999980926514,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "13": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.2060000896453857,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "14": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.309999942779541,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.3630000352859497,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "15": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.4149999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "16": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.5209999084472656,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "17": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.627000093460083,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "18": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.7339999675750732,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "19": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.8410000801086426,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.565000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "20": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 2.9489998817443848,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "21": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.056999921798706,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "22": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.1649999618530273,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "23": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.2739999294281006,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "24": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.384000062942505,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.7669999599456787,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "25": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.493000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "26": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.6040000915527344,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "27": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.7139999866485596,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "28": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.825000047683716,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "29": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 3.937000036239624,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 1.968999981880188,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "30": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.048999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "31": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.160999774932861,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "32": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.2729997634887695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "33": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.386000156402588,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "34": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.499000072479248,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.1710000038146973,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "35": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.61299991607666,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "36": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.7270002365112305,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "37": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.841000080108643,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "38": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 4.955999851226807,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "39": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.071000099182129,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.372999906539917,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "40": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.185999870300293,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "41": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.301000118255615,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "42": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.416999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "43": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.5329999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "44": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.650000095367432,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.575000047683716,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "45": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.767000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "46": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 5.883999824523926,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "47": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.000999927520752,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "48": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.118000030517578,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "49": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.236000061035156,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.7769999504089355,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "50": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.354000091552734,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "51": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.4730000495910645,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "52": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.5920000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "53": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.710000038146973,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "54": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.829999923706055,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 2.9790000915527344,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "55": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 6.948999881744385,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "56": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.068999767303467,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "57": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.189000129699707,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "58": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.309000015258789,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "59": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.428999900817871,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.180999994277954,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "60": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.550000190734863,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "61": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.671000003814697,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "62": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.791999816894531,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "63": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 7.913000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "64": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.03499984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.382999897003174,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "65": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.156999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "66": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.279000282287598,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "67": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.401000022888184,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "68": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.52400016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "69": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.645999908447266,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.5850000381469727,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "70": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.769000053405762,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "71": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 8.892999649047852,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "72": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.015999794006348,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "73": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.140000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "74": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.262999534606934,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.7860000133514404,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "75": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.38700008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "76": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.51200008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "77": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.63599967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "78": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.76099967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "79": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 9.88599967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 3.98799991607666,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "80": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.01099967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "81": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.13599967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "82": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.26099967956543,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "83": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.38700008392334,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "84": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.512999534606934,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.190000057220459,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "85": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.638999938964844,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "86": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.765000343322754,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "87": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 10.892000198364258,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "88": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.017999649047852,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "89": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.145000457763672,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.392000198364258,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "90": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.272000312805176,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "91": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.39900016784668,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "92": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.527000427246094,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "93": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.654000282287598,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "94": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.781999588012695,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.593999862670898,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "95": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 11.90999984741211,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "96": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 12.038000106811523,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "97": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 12.166000366210938,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "98": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 12.295000076293945,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "99": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 12.423999786376953,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.796000003814697,
+                "arith": "ARITH_MULTI"
+            }
+        ],
+        "100": [
+            {
+                "type": "FIGHT_PROP_BASE_ATTACK",
+                "value": 12.552000045776367,
+                "arith": "ARITH_MULTI"
+            },
+            {
+                "type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "value": 4.998000144958496,
+                "arith": "ARITH_MULTI"
+            }
+        ]
+    },
+    "promote": [
+        {
+            "weaponPromoteId": 12503,
+            "costItems": [
+                {},
+                {},
+                {}
+            ],
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 20,
+            "promoteLevel": 0
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 1,
+            "costItems": [
+                {
+                    "id": 114001,
+                    "count": 5
+                },
+                {
+                    "id": 112014,
+                    "count": 5
+                },
+                {
+                    "id": 112005,
+                    "count": 3
+                }
+            ],
+            "coinCost": 10000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 31.100000381469727
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 40,
+            "requiredPlayerLevel": 15
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 2,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 5
+                },
+                {
+                    "id": 112014,
+                    "count": 18
+                },
+                {
+                    "id": 112005,
+                    "count": 12
+                }
+            ],
+            "coinCost": 20000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 62.20000076293945
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 50,
+            "requiredPlayerLevel": 25
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 3,
+            "costItems": [
+                {
+                    "id": 114002,
+                    "count": 9
+                },
+                {
+                    "id": 112015,
+                    "count": 9
+                },
+                {
+                    "id": 112006,
+                    "count": 9
+                }
+            ],
+            "coinCost": 30000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 93.4000015258789
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 60,
+            "requiredPlayerLevel": 30
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 4,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 5
+                },
+                {
+                    "id": 112015,
+                    "count": 18
+                },
+                {
+                    "id": 112006,
+                    "count": 14
+                }
+            ],
+            "coinCost": 45000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 124.5
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 70,
+            "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114003,
+                    "count": 9
+                },
+                {
+                    "id": 112016,
+                    "count": 14
+                },
+                {
+                    "id": 112007,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 12503,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114004,
+                    "count": 6
+                },
+                {
+                    "id": 112016,
+                    "count": 27
+                },
+                {
+                    "id": 112007,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
+        }
+    ],
+    "desc": {
+        "en": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
+        "de": "Ein Großschwert so leicht wie Gras, das vom Wind bewegt wird, und so gewaltig wie ein Orkan, der Bäume entwurzelt.",
+        "chs": "如同翻弄草木的息吹一般轻盈的大剑，如同吹倒树木的飓风一般摧枯拉朽的武器。",
+        "cht": "如同翻弄草木的息吹一般輕盈的大劍，如同吹倒樹木的颶風一般摧枯拉朽的武器。",
+        "es": "Un mandoble que juguetea con las plantas y los árboles como el soplido de una ligera brisa y, al mismo tiempo, es capaz de derribarlos como un abrumador tornado.",
+        "fr": "Un espadon aussi léger que la brise soufflant sur l'herbe, mais aussi puissant qu'un ouragan.",
+        "id": "Pedang besar seringan angin yang meniup dedaunan dengan lembut, tapi juga bagaikan angin topan yang ganas dan tanpa ampun bagi mereka yang korup.",
+        "jp": "草木を撫でる風のように軽い大剣だが、その破壊力は木々を吹き飛ばす竜巻を想起させるほど強大なものである。",
+        "kr": "풀과 나무를 어루만지는 산들바람처럼 가볍지만, 나무를 쓰러뜨리는 폭풍처럼 아주 강력한 무기이다",
+        "pt": "Uma espada grande tão leve quanto o suspiro de grama na brisa, mas tão impiedosa para os corruptos quanto um tufão.",
+        "ru": "Двуручный меч. Лёгкий, словно ласкающий траву ветерок, но готов сокрушающим ураганом обрушиться на зло.",
+        "th": "ดาบใหญ่เรียวบางที่ดูเหมือนกับว่าจะสามารถพลิกได้ด้วยลมปากเป่า อาวุธที่ตัดและทำลายทุกสิ่งได้ดั่งพายุเฮอริเคนที่โค่นต้นไม้ใหญ่ลงได้ราวกับเศษไม้ที่ผุพัง",
+        "vi": "Đại kiếm có nhát chém mềm mại như hơi thở của cỏ cây, là vũ khí có sức mạnh như bão tố quật ngã cây cối."
+    },
+    "flavor": {
+        "en": "\nThere was once a popular folk song that went like this:\n\"Toss to the bard all the coins you can spare,\"\n\"Give your bouquet to yon maiden so fair,\"\n\"Take wine so bitter it makes the tears flow,\"\n\"Drink to the yesterday now been and gone, and sing for tomorrow that comes with the dawn.\"\n\nIn the land where songs and music carry on the wind, the people have merry yet sensitive souls.\nIt is said that there were times in history when the tyrant Decarabian and the ruling aristocrats would ban certain chords and tunes,\nFor discerning people could sense the spirit of resistance that lay behind the music of the bards and singers.\nSongs and hymns had also indeed been used before as a way for rebels to communicate.\n\nIn the days of the ruling aristocracy, the Church that revered the Anemo Archon was once split in twain by a schism:\nOn one side stood the clergy, who ate at the lords' table, and overturned the archon's statues with them even as they wrote songs and hymns of praise.\nOn the other stood the saints, who held no clerical office, and who walked the streets, the wine cellars, and the world beyond the walls.\nThese saints drank cheap moonshine, blessing the slave and the plebeian with the original holy manuscripts that circulated amongst the people and with words that the wind brought to them.\nAnd while they did so, they penned forbidden songs and poetry.\n\nWhen the gladiator from a foreign land arose together with the re-awakened Anemo Archon and raised the banner of rebellion,\nThe aged saint known as the Nameless Shepherd mobilized the true adherents of the Church of Favonius.\nTogether with many others, they spilled their martyred blood upon these emerald fields.\nAnd together, they sang a rallying cry to save the nation, the hitherto-unsung half of that folk song of old:\n\n\"Leave the keen steel to those who will give their lives for the fight,\"\n\"Prepare the thieves' gallows,\"\n\"Sharpen your rusted arrows,\"\n\"For when the music sounds, we shoot the beasts down.\"\n",
+        "de": "\nEs gab einmal ein bekanntes Volkslied, das so ging:\n„Wirf deine Münze dem Barden und dem Dichter zu,“\n„den Blumenstrauß gib der holden Maid.“\n„Trink Wein so bitter, dass deine Tränen fließen,“\n„trink auf das bereits vergangene Gestern und singe für ein besseres Morgen.“\n\nIn dem Land, in dem Lieder und Musik vom Wind getragen werden, haben die Menschen zwar fröhliche, dennoch sensible Seelen.\nMan sagt, dass es in der Geschichte Zeiten gab, in denen der Tyrann Decabarian und die herrschenden Aristokraten bestimmte Akkorde und Melodien verboten hätten.\nDenn aufmerksame Menschen konnten den Geist des Widerstands spüren, der hinter der Musik der Barden und Sänger lag.\nLieder und Hymnen wurden in der Tat auch schon früher als Kommunikationsmittel unter Rebellen verwendet.\n\nIn den Tagen der herrschenden Aristokratie war die Gemeinde, die den Gott des Windes verehrte, einst in zwei Gruppierungen gespalten:\nAuf der einen Seite standen die Geistlichen, die am Tisch der Herren aßen und mit ihnen die Götterstatuen umwarfen, während sie Lieder und Lobeshymnen schrieben.\nAuf der anderen Seite standen die Heiligen, die kein klerikales Amt bekleideten und frei durch die Straßen, die Weinkeller und die Welt jenseits der Mauern gingen.\nDiese Heiligen tranken billigen Spiritus und segneten Sklaven und Pöbel mit den heiligen Originalmanuskripten, die unter den Menschen umgingen, und mit Worten, die der Wind ihnen brachte.\nUnd während sie das taten, schrieben sie verbotene Lieder und Gedichte.\n\nAls der Gladiator aus einem fremden Land zusammen mit dem Gott des Windes erwachte und das Banner der Rebellion hisste,\nmobilisierte der betagte Heilige, bekannt als der Namenlose Hirte, die wahren Anhänger der Favonius-Kathedrale.\nZusammen mit vielen anderen haben sie ihr Blut auf diesen moosgrünen Feldern vergossen.\nGemeinsam stimmten sie zu einem Schlachtruf zur Rettung der Nation an, der bisher unbekannten Hälfte dieses alten Volksliedes:\n\n„Überlasse den scharfen Stahl denjenigen, die bereit sind, ihr Leben für den Kampf zu opfern.“\n„Überlass dem Dieb den Galgen.“\n„Schärfe die rostigen Pfeilspitzen.“\n„Denn wenn die Musik erklingt, schießen wir die Bestien nieder.“\n",
+        "chs": null,
+        "cht": "\n以前有一首在民間流行的歌，是這麼唱的：\n「將凹陷的鐵錢丟給遠方來的歌手與詩人」\n「將花束獻給那少女」\n「將令人落淚的苦酒」\n「獻給無法挽回的昨日，將歌聲獻給未來」\n\n在詩歌與音樂隨風而行的國度，人們有著樂天而敏感的靈魂。\n據說在過去的一些時期，孤王與宗室會禁止一些和弦與曲調，\n因為敏銳的人能從行詩人與歌手的音樂中感受到叛逆的信號，\n歌曲與唱詩確實也曾被用作抗爭者聯絡的方式。\n\n而在宗室統治的時期，敬奉風神的教會曾經分裂成這樣兩派：\n與王侯們隨行共飲，一同推翻神像，譜寫頌詞與聖歌的教會，\n以及沒有神職者之名的聖徒。他們在地窖街巷與高牆外行走，\n喝廉價烈酒，依人們手中流轉的聖書原典與隨風而來的話語，\n祝福著平民與奴隸，譜寫著不被允許的詩與歌。\n\n當異國的角鬥奴隨著風之神的甦醒奮起，揭起叛逆的大旗時，\n被稱為無名牧者的年長聖徒迅速動員了西風教會真正的教眾，\n最終又與不少人一同，用自己的鮮血灌溉了這片青翠的大地。\n而救國起事的信號，是這首小曲在那之前不曾唱出的另一半。\n\n「將尖銳的鐵片留給值得獻出生命的戰鬥」\n「將絞刑架留給小賊」\n「將生銹的箭頭磨利」\n「留到松籟響起之時，將那衣冠禽獸射落」\n",
+        "es": "\nEn el pasado, había una canción folclórica muy popular que decía así:\n“Lanza al bardo itinerante tus monedas más desgastadas\nRegala a la doncella sus flores más amadas\nAgarra un vaso del vino más amargo\nY brinda por el ayer, pues el mañana despertará de su letargo”.\n\nEn el reino en el que la poesía y la música fluyen con el viento, las personas tienen un alma libre y, al mismo tiempo, sensible.\nSe dice que, en ciertas épocas del pasado, el tirano Decarabian y la aristocracia gobernante prohibieron algunas melodías y notas musicales.\nEsto se debía a que las personas con un oído muy agudo eran capaces de discernir en la música de los bardos y los cantantes señales que alentaban a la rebelión.\nDe hecho, se sabe que la música y la poesía fueron una forma de comunicación entre los rebeldes.\n\nEn la época del gobierno de la aristocracia, la Iglesia, que adoraba con gran devoción al Arconte Anemo, se dividió en dos ramas:\nPor un lado estaban los clérigos aliados de la nobleza, que, junto a ella, derribaron las estatuas del Arconte y compusieron odas e himnos de alabanza.\nPor otro, los llamados “santos”, que no ocupaban puestos clericales y vivían en las bodegas, las calles y fuera de las murallas de la ciudad.\nEstos últimos, que, a diferencia de los clérigos, solo se podían permitir vino barato, ofrecían sus bendiciones a la gente de a pie y a los esclavos con las sagradas escrituras originales en mano, las cuales llegaron al pueblo siendo transportadas por el viento.\nAdemás de ello, también compusieron poemas y canciones prohibidas.\n\nCuando la gladiadora esclavizada de una tierra extranjera despertó junto al Arconte Anemo para alzar el estandarte de la rebelión,\nun anciano santo conocido como el “Pastor sin nombre” movilizó a los verdaderos fieles de la Iglesia de Favonius.\nFinalmente, junto a muchos otros, derramaron su santa sangre sobre estas tierras esmeralda.\nY, para salvar a la nación, cantaron los gritos de guerra que se convirtieron en la segunda parte de aquella popular canción:\n\n“Entrega el acero más afilado a quien daría su vida para luchar\nQue los ladrones utilicen las horcas para a otros colgar\nAfila tus flechas oxidadas\nPues cuando la música suene, las bestias serán cazadas”.\n",
+        "fr": "\nUne chanson autrefois populaire était ainsi écrite :\n« Au barde venu de loin, offre tes sapèques ; »\n« À la fille que tu aimes, offre ce bouquet ; »\n« Quant au vin amer qui fait pleurer les hommes, »\n« Offre-le au jour passé, et chante pour le lendemain ! »\n\nLes gens du royaume où chants et musiques s'élèvent dans les cieux sont d'un naturel sensible autant qu'insouciant.\nOn raconte qu'il fut un temps où le tyran Décabarian et l'aristocratie au pouvoir bannirent certains chants et ballades.\nEn effet, ils craignaient que, sensible au signal caché dans certaines paroles des bardes et poètes, la populace ne ressente l'esprit de résistance qui s'en dégageait.\nCar il fut un temps où poèmes et chansons servirent de moyen de communication aux rebelles...\n\nOr durant le règne de l'aristocratie, l'Église vénérant l'Archon Anémo se scinda en deux courants.\nL'un s'assit à la table des nobles, festoyant à leur côté, et brisant les statues de l'Archon tout en continuant à écrire louanges et chants en son nom ;\nl'autre était composé des vrais apôtres, qui n'avaient aucune position dans le clergé, et parcouraient librement les rues, les celliers et le monde à l'extérieur des murs.\nCes saints hommes buvaient l'alcool bon marché, bénissant l'esclave et la plèbe à l'aide des écrits sacrés qui circulaient parmi le peuple, usant des mots que les vents avaient apportés.\nEt ainsi faisant, ils écrivirent chants et poèmes prohibés.\n\nEt lorsque le gladiateur des terres lointaines s'éveilla avec l'Archon Anémo et brandit la bannière de la rébellion,\nle vénérable saint appelé « Berger sans nom » mobilisa les vrais fidèles de l'Église de Favonius.\nEt, rejoints par les masses, ils couvrirent de leur sang de martyrs ces terres couleur d'émeraude.\nEt leur cri de ralliement, qui allait sauver une nation, était l'autre moitié de ce chant qui n'avait jamais été chanté auparavant.\n\n« Au guerrier qui va se sacrifier, laisse l'acier affûté ; »\n« Pour le voleur, prépare le gibet ; »\n« Pour ton arc, polis tes flèches rouillées ; »\n« Car lorsque retentira la musique, les bêtes seront abattues. »\n",
+        "id": "\nDahulu kala ada lagu rakyat terkenal yang berbunyi seperti ini:\n\"Lemparkan kepada penyair, seluruh Iron Coin yang bisa kamu berikan\"\n\"Berikan buketmu pada gadismu,\"\n\"Ambillah anggur yang pahit yang bisa membuat air matamu mengalir,\"\n\"Minumlah untuk hari kemarin yang sudah berakhir dan bernyanyilah untuk hari esok yang datang bersamaan dengan fajar.\"\n\nDi daratan di mana lagu dan musik dibawa oleh angin, orang-orang memiliki jiwa yang optimis dan sensitif.\nDikatakan bahwa di masa lalu saat seorang tiran Decarabian dan para bangsawan melarang beberapa lagu dan nada,\nKarena orang yang peka bisa merasakan semangat perlawanan yang ada di balik musik para penyanyi dan penyair,\nLagu dan puisi memang telah digunakan sebagai cara bagi para pemberontak untuk berkomunikasi.\n\nSelama masa bangsawan, gereja yang memuja Archon Anemo pernah terbagi menjadi dua:\nDi satu sisi terdapat para pendeta yang minum bersama dengan para pangeran, dan menjatuhkan patung Archon bersama mereka bahkan ketika mereka menulis lagu dan nyanyian pujian,\nDi sisi lain terdapat orang-orang kudus, yang tidak memiliki jabatan sebagai pendeta atau semacamnya, berjalan di jalanan, gudang anggur, dan di balik tembok tinggi,\nOrang-orang kudus ini meminum anggur murahan, memberkati budak dan orang biasa dengan naskah suci asli yang beredar di antara orang-orang dan dengan kata-kata yang dibawa angin kepada mereka,\nDan saat mereka melakukannya, mereka juga menulis puisi dan lagu yang dilarang tersebut.\n\nSaat seorang gladiator dari tanah asing bangkit bersama Archon Anemo, dan mengibarkan panji pemberontakan,\nSeorang yang kudus namun sudah berumur, dikenal sebagai Gembala Tanpa Nama, memobilisasi pengikut sejati Church of Favonius,\nBersama dengan yang lainnya, mereka menumpahkan darah martir mereka ke tanah yang hijau ini.\nDan bersama, mereka menyanyikan seruan untuk menyelamatkan bangsa, bagian dari lagu kecil yang tidak dinyanyikan sebelumnya.\n\n\"Tinggalkan potongan besi tajam itu untuk mereka yang bersedia memberikan hidup mereka untuk bertarung,\"\n\"Siapkan tiang gantungan untuk pencuri,\"\n\"Asah anak panahmu yang berkarat,\"\n\"Karena saat musik bersuara, kami akan menembak jatuh para monster.\"\n",
+        "jp": "\n昔、平民の間にある歌が流行っていた。\n「凹んだ硬貨を遠方から来た歌手と詩人にあげよう」\n「花束を少女に渡そう」\n「涙が出るほどの苦いお酒で」\n「取り戻せない昨日に乾杯しよう、歌声を未来に捧げよう」\n\n詩歌と音楽が風と共に流れる国では、人々は楽観的で敏感な魂を持っていた。\n話によると、孤独な王と貴族が一部の和音と調の使用を禁止する時期があった。\n敏感な人々が詩人や歌手の音楽から反逆の意志を感じ取ることができ、\n実際に歌と詩は抗争者の連絡方法として使われていたからだ。\n\n貴族が統治していた時代、風神を敬う教会が二つに分かれた。\n一つは貴族と呑み交わし、神像を倒し、頌詞と聖歌を書いた教会。\nもう一つは聖職者という名を持たない信徒。\n彼らは地下街と高い壁の外で行動し、安酒を飲む。そして平民の間に伝わる聖書原典と風と共に流れてきた言葉で、\n平民と奴隷たちのために祈り、禁じられた詩と歌を書いた。\n\n異国の奴隷剣闘士が風の神と共に蘇り、反旗を掲げた。\n無名の牧者と呼ばれる年寄りの聖徒が、西風教会の真の教徒を集め、\n彼らと共に自らの血でこの青い土地を潤した。\nその反逆の合図は、まさに今まで歌うのを許されなかった歌の残り部分だった。\n\n「鋭い鉄片は命懸けの戦いまで取っておこう」\n「絞首台は小賊のために残そう」\n「錆びた矢先は研いでおこう」\n「松韻の響く頃、低劣な者を撃ち落とそう」\n",
+        "kr": "\n예전에 민간에 유행했던 노래가 있다.\n「움푹 꺼진 철전을 먼 곳에서 온 가수와 시인에게 넘기고」\n「꽃다발을 그 소녀에게 바치자」\n「눈물이 나올 만큼 쓴 술을」\n「되돌릴 수 없는 어제에 바치고, 노래를 미래에 바치자」\n\n시와 음악이 바람을 따라 퍼지는 나라에서 사람들의 영혼은 낙천적이고 민감하다.\n옛날, 어떤 기간 동안 외로운 왕과 왕실에서는 악기 연주와 노래를 금지했다고 한다.\n예리한 사람들이 시인과 가수의 음악에서 반역의 신호를 읽을 수 있었기 때문이다.\n노래와 시는 항쟁하는 자들의 연락 방식으로 사용되었다.\n\n그리고 왕실이 통치하던 시기, 바람신을 모시던 성당은 두 파로 분열된 적이 있었다.\n왕후들을 따라 술을 나누며 신상을 뒤엎고 찬송가와 성가를 쓴 성당과,\n성직자 직분이 없던 성도들이었다. 그들은 땅굴과 거리, 높은 성벽 밖을 돌아다니며\n저렴한 독주를 마시고, 사람들에게 돌던 성서 원전과 바람에 따라 퍼진 말들에 따라\n평민과 노예를 축복하고, 허락 받지 않은 시와 노래를 지었다.\n\n이국의 격투 노예가 부활한 바람신을 따라 깨어나 반역의 기치를 들었을 때,\n이름 없는 목자로 불리던 나이 많은 신도는 페보니우스 성당의 진정한 신도들을 신속히 동원했다.\n그는 많은 사람들과 함께 자신의 피로 이 푸른 대지를 적셨다.\n그리고 예전에 불리지 못한 이 노래의 반쪽은 거사를 일으켜 나라를 구하자는 신호였다.\n\n「날카로운 쇠붙이를 생명을 바칠 만한 전투를 위해 남기자」\n「교수대를 좀도둑에게 넘기고」\n「녹이 슨 하살 촉을 날카롭게 갈아」\n「송뢰가 울릴 무렵, 그 옷 짐승을 쏘아 떨어뜨리자」\n",
+        "pt": "\nExistia uma música popular que dizia assim:\n\"Jogue para o bardo todas as Moedas de Ferro que você tem.\"\n\"Dê um buquê para a donzela tão linda.\"\n\"Um vinho tão amargo que me traz lágrimas aos olhos.\"\n\"Beba para homenagear o ontem que já passou e cante para o futuro.\"\n\nEm um país onde baladas e músicas andam com o vento, os habitantes têm alma alegre e sensível.\nDiziam que no passado, o tirano Decarabian e os aristocratas governantes proibiam certos acordes e melodias\nPorque apenas as pessoas sensíveis sentem o sinal de rebelião a partir das músicas dos cantores e poetas.\nSe sabe que músicas e hinos foram usados antes como forma de comunicação entre os rebeldes.\n\nNo entanto, durante o reinado da aristocracia, a Igreja que venerava o Arconte Anemo se dividiu em duas correntes:\nEm um lado estavam os clérigos, aliados da nobreza que junto a ela derrubaram as Estátuas do Arconte enquanto escreviam músicas de louvor,\nDo outro, estavam os santos, que não ocupavam cargos clericais e que andavam pelas ruas, pelas adegas e pelo mundo além das paredes.\nEstes santos só podiam beber vinho barato, abençoando os plebeus e os escravos com os manuscritos sagrados originais que circulavam entre o povo e com as palavras que o vento lhes trazia.\nE enquanto o faziam, também escreveram músicas e poemas proibidos.\n\nQuando a gladiadora escravizada de um país estrangeiro despertou com o Arconte Anemo, ela levantou a bandeira da rebelião,\nO santo ancião conhecido como 'Pastor sem Nome' mobilizou os verdadeiros fiéis da Igreja de Favonius,\nE no final, junto com outras pessoas, ele regava esta terra amada com o seu sangue...\nUm grito da guerra, que também servia como o sinal de salvar a nação, fazia parte dessa música que nunca tinha sido cantada antes.\n\n\"Deixe o aço mais afiado para aqueles que darão suas vidas para lutar.\"\n\"Prepare as forcas para os ladrões,\"\n\"Afie suas flechas enferrujadas,\"\n\"Pois quando a música soar, nós atiraremos nas bestas.\"\n",
+        "ru": "\nКогда-то среди людей был популярен один фольклорный мотив:\n«Барду заплатите чеканной монетой,\nПодарите букет прекрасной даме.\nПлача от горечи, возьмите красное вино\nИ выпейте за вчерашнее, дарованное и прошедшее, и спойте о новом дне, что приходит с рассветом».\n\nВ землях, где ветер несёт музыку и песни, у людей тёплые, но ранимые души.\nПоговаривают о временах, когда злой тиран Декарабиан и правящие аристократы запрещали некоторые стихи и мелодии,\nпотому что отчаявшиеся люди могли почувствовать дух сопротивления, скрывающийся за музыкой бардов и певцов.\nВ древности музыка и гимны действительно использовались для тайной коммуникации среди мятежников.\n\nВо времена правящей аристократии церковь, почитавшая Анемо Архонта, раскололась.\nС одной стороны стояло духовенство, которое пировало за столами лордов и опрокидывало с ними статуи Архонта, продолжая писать песни и гимны восхваления.\nС другой стороны стояли святые, которые не занимали канцелярских должностей и бродили по улицам, винным погребам и пустошам за стенами.\nЭти святые пили дешёвый самогон, благословляя рабов и плебеев эксцентричными священными рукописями, которые разносились среди людей, и словами, которые им приносил ветер.\nЗанимаясь этим, они продолжали писать запрещённые песни и стихи.\n\nКогда гладиатор из далёких земель воспрял вслед за очнувшимся Анемо Архонтом и поднял знамя восстания,\nпожилой святой, известный как Безымянный пастырь, тут же собрал истинных сторонников церкви Фавония.\nВместе со многими другими они проливали свою мученическую кровь на изумрудные поля.\nИ во имя спасения нации они пели объединяющую песнь, запрещённый до этого времени куплет древней народной песни:\n\n«Оставь острую сталь тем, кто отдаст свои жизни за бой,\nПриготовь виселицу для воров,\nНаточи свои ржавые стрелы,\nЧтобы, когда музыка заиграет, мы смогли сразить чудовище тирании».\n",
+        "th": "\nเมื่อก่อนมีเพลง ๆ หนึ่งที่ดังมาในหมู่ชาวบ้าน ซึ่งร้องแบบนี้:\n\"โยนเหรียญที่เว้าแหว่งนั้นให้นักร้องและนักกวีที่มาจากแดนไกล\"\n\"มอบช่อดอกไม้ให้กับหญิงสาว\"\n\"นำเหล้าสุดขมที่ทำคนร่ำไห้\"\n\"มอบให้แด่วันวานที่ไม่มีทางกลับคืน นำเสียงเพลงมอบให้แก่วันข้างหน้า\"\n\nในประเทศที่มีเพลงและดนตรีพัดผ่านไปตามลม ผู้คนมีจิตวิญญาณที่รื่นเริงและละเอียดอ่อน\nกล่าวกันว่าบางยุคสมัยในอดีตนั้น มีกษัตริย์ผู้โดดเดี่ยวและเหล่าราชวงศ์ที่ห้ามไม่ให้เล่นท่วงทำนองบางอย่าง\nเพราะคนที่เฉียบแหลมจะสามารถรู้สึกได้ถึงสัญญาณของการต่อต้านจากบทเพลงของกวีและนักร้อง\nบทเพลงและบทกวีได้ถูกนำมาใช้เป็นวิธีสื่อสารกันของผู้ประท้วง\n\nและในยุคการปกครองของราชวงศ์ การบูชาเทพแห่งสายลมของคริสตจักรนั้นได้เคยถูกแบ่งออกเป็นสองฝ่ายดังนี้:\nคริสตจักรที่ร่วมดื่มกับเหล่าชนชั้นสูง และขณะเดียวกันก็โค่นล้มเทวรูป เขียนคำสดุดีและเพลงสรรเสริญ\nรวมถึงฝ่ายนักบุญที่ไม่มีเสมียนฝ่ายกิจการศาสนา พวกเขาเดินไปตามถนน กำแพงและห้องเก็บเหล้าใต้ดิน\nดื่มเหล้าราคาถูก ใช้คัมภีร์ศักดิ์สิทธิ์ต้นฉบับซึ่งหมุนเวียนอยู่ท่ามกลางผู้คนและถ้อยคำที่ลมพัดพามา\nให้พรแก่คนทั่วไปและทาส เขียนบทกวีและบทเพลงที่ไม่ได้รับอนุญาต\n\nเมื่อนักสู้จากต่างแดนลุกขึ้นสู้พร้อมกับเทพแห่งลมที่ตื่นจากการหลับไหล และยกธงของการต่อต้านขึ้น\nนักบุญสูงวัยที่เป็นที่รู้จักกันในนามบาทหลวงนิรนาม ได้ระดมสาวกตัวจริงของโบสถ์ Favonius\nในที่สุดเมื่อรวมตัวกับผู้คนมากมายแล้ว เขาได้ใช้เลือดสด ๆ ของตัวเองหยดลงไปยังพื้นแผ่นดินอันเขียวขจีผืนนี้\nและสัญญาณที่ช่วยกอบกู้ประเทศชาติคือครึ่งหนึ่งของเพลงที่ไม่ได้เคยร้องมาก่อน\n\n\"เก็บเหล็กแหลมเอาไว้ให้กับผู้ที่จะมอบชีวิตให้สำหรับการสู้รบ\"\n\"เก็บกรงเหล็กตะแลงแกงไว้ให้กับโจร\"\n\"ลับคมหัวลูกธนูที่ขึ้นสนิม\"\n\"เก็บไว้จนเมื่อเสียงต้นสนลู่ลมดังขึ้น ก็จะยิงสัตว์ร้ายให้ล้มลง\"\n",
+        "vi": "\nTrước đây có một ca khúc rất phổ biến trong dân gian, được hát như thế này:\n\"Ném những đồng xu cũ nát cho những ca sĩ và nhà thơ đến từ phương xa\"\n\"Tặng bó hoa cho nàng thiếu nữ\"\n\"Chén rượu đắng khiến người ta rơi lệ\"\n\"Tặng cho ngày hôm qua không thể tìm lại, đem tiếng hát dành tặng cho tương lai\"\n\nỞ đất nước mà thơ ca và âm nhạc bay theo gió, con người có linh hồn vô tư và nhạy cảm.\nNghe nói vào một số thời kỳ trước đây, Cô Vương và giới quý tộc cấm một số hợp âm và giai điệu,\nBởi người nhạy bén có thể cảm nhận được tín hiệu phản nghịch từ trong âm nhạc của nhà thơ và ca sĩ,\nCa khúc và lời thơ cũng đã từng được sử dụng như một cách liên lạc của những kẻ chống đối.\n\nTrong thời kỳ thống trị của giới quý tộc, giáo hội thờ phụng Phong Thần từng tách thành hai phái như sau:\nGiáo hội uống rượu cùng với vương hầu, lật đổ tượng thần, viết những bài hát ca tụng và thánh ca.\nCòn những thánh đồ không có chức danh. Họ đi lại trên những con hẻm nhỏ và phía ngoài những bức tường cao,\nUống cốc rượu mạnh giá rẻ, dựa theo bản gốc cuốn sách thánh lưu truyền trong tay người dân và những lời nói đến từ những cơn gió,\nChúc phúc cho người dân và những nô lệ, viết ra những lời thơ và bài hát bị cấm.\n\nKhi nô lệ giác đấu vùng dậy cùng với sự thức tỉnh của Phong Thần, khi họ giương cao ngọn cờ phản nghịch,\nThánh đồ cao tuổi được mệnh danh là mục sư vô danh đã nhanh chóng huy động các thành viên thực sự của giáo hội Tây Phong,\nCuối cùng lại cùng với nhiều người tưới đẫm vùng đất xanh tươi này bằng chính máu của mình.\nCòn nửa kia của bài hát nhỏ này, chính là tín hiệu cứu nước, chưa từng được hát lên trước đó.\n\n\"Giữ lại mảnh sắt sắc bén cho trận chiến đáng để hy sinh mạng sống\"\n\"Giữ lại giá treo cổ cho tên trộm\"\n\"Mài sắc mũi tên gỉ\"\n\"Ở lại cho đến khi tiếng tiêu vang lên bắn hạ đám mặt người dạ thú kia\"\n"
+    }
+}

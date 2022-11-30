@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Auction Information",
+        "de": "Auktionsmaterial",
+        "chs": "拍卖会资料",
+        "cht": "拍賣會資料",
+        "es": "Información sobre la subasta",
+        "fr": "Brochure d'enchère",
+        "id": "Informasi Pelelangan",
+        "jp": "オークションの資料",
+        "kr": "경매 자료",
+        "pt": "Materiais do Leilão",
+        "ru": "Информация об аукционе",
+        "th": "ข้อมูลงานประมูล",
+        "vi": "Thông Tin Đấu Giá"
+    },
+    "id": 120115,
+    "materialDesc": {
+        "en": "Information regarding an auction that Dori collected and compiled. You can find details concerning the Canned Knowledge auction being held in the desert here.",
+        "de": "Von Dori gesammelte und geordnete Informationen zu der Auktion. Darauf sind Informationen zur in der Wüste abgehaltenen Auktion von Wissenskonserven verzeichnet.",
+        "chs": "由多莉收集和整理的拍卖会信息，上面记录了在沙漠举办的罐装知识拍卖会的信息。",
+        "cht": "由多莉收集和整理的拍賣會資料，上面記錄了在沙漠舉辦的罐裝知識拍賣會的資料。",
+        "es": "Información sobre una subasta que ha recopilado Dori. Contiene detalles sobre la subasta de cápsulas de conocimiento que tiene lugar en el desierto.",
+        "fr": "Des informations sur une vente aux enchères rassemblées par Dori. Elles pourront vous renseigner sur la vente aux enchères de concentrés de connaissances qui se tiendra dans le désert.",
+        "id": "Informasi tentang lelang yang dikumpulkan dan disusun oleh Dori. Isinya mencatat informasi pelelangan Kapsul Pengetahuan yang diadakan di padang pasir.",
+        "jp": "ドリーが集めて整理したオークションの資料。砂漠で開催される缶詰知識オークションの情報が記されている。",
+        "kr": "도리가 수집하고 정리한 경매 정보. 사막에서 열린 항아리 지식 경매에 관한 정보가 기록되어 있다",
+        "pt": "Informações a respeito de um leilão que Dori organizou. Nele estão escritas as informações sobre o leilão de Conhecimento Enlatado que será realizado no deserto.",
+        "ru": "Информация об аукционе, который организовала Дори. Подробности об аукционе капсул знаний, который проводится в пустыне, можно найти здесь.",
+        "th": "ข้อมูลงานประมูลที่รวบรวมและจัดเรียงโดย Dori ด้านในมีบันทึกข้อมูลงานประมูลของผลึกความรู้ที่จัดทำขึ้นในทะเลทราย",
+        "vi": "Thông tin đấu giá được Dori thu thập và sắp xếp, bên trên có ghi thông tin buổi đấu giá Hũ Tri Thức tổ chức ở sa mạc."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

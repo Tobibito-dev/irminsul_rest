@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shrimp Meat",
+        "de": "Garnelenfleisch",
+        "chs": "虾仁",
+        "cht": "蝦仁",
+        "es": "Camarón",
+        "fr": "Crevette",
+        "id": "Shrimp Meat",
+        "jp": "エビのむき身",
+        "kr": "생새우살",
+        "pt": "Camarão",
+        "ru": "Мясо креветки",
+        "th": "Shrimp Meat",
+        "vi": "Tôm Bóc Nõn"
+    },
+    "id": 100093,
+    "materialDesc": {
+        "en": "A whole piece of deep sea shrimp meat, full of nutrients and bursting with delicious flavor.",
+        "de": "Garnelenfleisch aus den Tiefen der Meere. Es hat wertvolle Inhaltsstoffe und einen überwältigenden, frischen Geschmack.",
+        "chs": "饱满的深海虾仁。拥有丰富的营养与压倒性的鲜美风味。",
+        "cht": "飽滿的深海蝦仁。擁有豐富的營養與壓倒性的鮮美風味。",
+        "es": "Un camarón de gran tamaño procedente del mar. Muy nutritivo y con un increíble sabor.",
+        "fr": "Une crevette des fonds marins, délicieuse et pleine de nutriments.",
+        "id": "Sepotong daging utuh udang laut yang segar, penuh nutrisi dan rasa yang lezat.",
+        "jp": "深海エビのむき身。豊富な栄養と圧倒的な食感が特徴。",
+        "kr": "탱탱한 심해 생새우살. 영양가가 풍부하며 엄청나게 싱싱한 풍미를 자랑한다",
+        "pt": "Um pedaço inteiro de carne de um camarão das profundezas do oceano, cheio de nutrientes e encharcado e um delicioso sabor.",
+        "ru": "Сытное мясо глубоководной креветки. Богато питательными веществами и отличается превосходным вкусом.",
+        "th": "กุ้งจากทะเลลึกที่อุดมไปด้วยคุณค่าทางโภชนาการและรสชาติที่สดอร่อย",
+        "vi": "Tôm nõn béo mọng được đánh bắt từ biển sâu. Loài hải sản giàu chất dinh dưỡng cùng hương vị khó quên."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

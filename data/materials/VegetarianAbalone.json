@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Vegetarian Abalone",
+        "de": "Vegetarische Seeohren",
+        "chs": "素鲍鱼",
+        "cht": "素鮑魚",
+        "es": "Abulón vegetariano",
+        "fr": "Ormeau végétarien",
+        "id": "Vegetarian Abalone",
+        "jp": "松茸のアワビもどき",
+        "kr": "채식 전복",
+        "pt": "Abalone Vegetariano",
+        "ru": "Вегетарианские мидии",
+        "th": "Vegetarian Abalone",
+        "vi": "Bào Ngư Chay"
+    },
+    "id": 108189,
+    "materialDesc": {
+        "en": "A vegetarian dish with a rich flavor. The matsutake has been sliced thin and fried till golden before pouring the sauce. The matsutake meat is sumptuous and has flavor to match that of fresh abalone — almost enough to make you think it was the real thing.",
+        "de": "Ein vegetarisches Gericht mit kräftigem Geschmack. Zunächst einmal werden Matsutake in feine Scheiben geschnitten und gebraten, bis sie goldbraun sind. Schön aneinandergelegt werden sie mit Soße übergossen. Die Pilze bleiben dann richtig saftig und sind ein Genuss beim Kauen. Da sagen selbst Fleischliebhaber nicht Nein.",
+        "chs": "滋味浓郁的素食。将松茸切成薄片，煎至焦黄后倒入酱汁。松茸肉质饱满，嚼上去有着鲍鱼般鲜香的滋味，是一道近乎能够以假乱真的菜肴。",
+        "cht": "滋味濃郁的素食。將松茸切成薄片，煎至焦黃後倒入醬汁。松茸肉質飽滿，嚼上去有著鮑魚般鮮香的滋味，是一道近乎能夠以假亂真的菜餚。",
+        "es": "Una comida vegetariana de sabor intenso. El matsutake se corta en láminas, se saltea hasta que esté dorado y se mete en la salsa. Debido a su carnosa textura, comer matsutake es como comer un abulón muy fresco. Así, al menos, podrás engañar un poco al estómago...",
+        "fr": "Un plat végétarien riche en saveurs. Les matsutake ont été émincés et frits jusqu'à ce qu'ils soient dorés avant que la sauce ne soit versée. La fausse viande de matsutake est généreuse et possède un goût similaire à celui de l'ormeau, assez pour vous faire croire qu'il s'agit du fruit de mer.",
+        "id": "Sebuah hidangan vegetarian yang kaya akan rasa. Jamur Matsutake dipotong tipis dan digoreng hingga berwarna keemasan, kemudian tuangkan saus ke atasnya. Tekstur jamur Matsutake yang sangat empuk membuatmu seperti sedang memakan abalon segar... Daging tiruan ini benar-benar mirip dengan aslinya.",
+        "jp": "味が濃厚な菜食。松茸を薄切りにし、焦げ茶色に炒めた後、ソースを入れる。松茸は、噛むとアワビのような食感と香りで、ほぼ本物のアワビに近い料理。",
+        "kr": "풍미가 깊은 채식요리, 송이버섯을 얇게 썰어 노릇해질 때까지 굽고 소스를 붓는다. 두툼해 씹으면 전복 맛이 나는 송이버섯으로 만들어서 채식요리지만 진짜 전복처럼 느껴진다",
+        "pt": "Um prato vegetariano com um sabor delicioso. O matsutake foi fatiado bem fino e frito até dourar, antes de o molho ser colocado. A carne do matsutake é sumptuosa, e tem um sabor que combina com o sabor fresco do abalone - quase o suficiente para fazer você pensar que era o próprio.",
+        "ru": "Овощное блюдо с насыщенным вкусом. Гриб мацутакэ нарезан тонкими ломтиками, обжарен до золотистого цвета и полит соусом. Мякоть мацутакэ плотная и по вкусу так сильно напоминает мидии, что эти два блюда можно спутать.",
+        "th": "อาหารมังสวิรัติรสชาติเข้มข้น เห็ดมัตสึทาเกะที่หั่นบาง ๆ และทอดจนเหลืองกรอบจากนั้นราดซอสลงไป เมื่อกัดเข้าไปแล้วรู้สึกเหมือนได้ทานรสชาติของเป๋าฮื้อสด ๆ ซึ่งเหมือนซะจนทำให้คิดว่าได้ทานของจริงเลยทีเดียว",
+        "vi": "Một món chay có vị đậm đà. Cắt nhung tùng thành từng lát mỏng, chiên cho đến khi chín vàng rồi rưới nước sốt lên. khi ăn có vị của bào ngư. Món ăn này hoàn toàn có thể thay thế cho món mặn."
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wyatt's Black Key",
+        "de": "Wyatts schwarzer Schlüssel",
+        "chs": "怀尔德的黑色钥匙",
+        "cht": "懷爾德的黑色鑰匙",
+        "es": "Llave negra de Wyatt",
+        "fr": "Clé noire de Wyatt",
+        "id": "Kunci Hitam Wyatt",
+        "jp": "ワイアットの黒い鍵",
+        "kr": "와이엇의 검은 열쇠",
+        "pt": "Chave Preta de Wyatt",
+        "ru": "Чёрный ключ",
+        "th": "Wyatt's Black Key",
+        "vi": "Chìa Khóa Đen Của Wyatt"
+    },
+    "id": 100302,
+    "materialDesc": {
+        "en": "A key to the warehouse's gates kept by Wyatt. The likeliness of him losing it is next to him losing his slim wallet.",
+        "de": "Ein Schlüssel von Wyatt, mit dem man das Tor zum Lager öffnet. Er ist so leicht zu verlieren, dass man sich wundert, ihn überhaupt einmal in der Tasche gehabt zu haben.",
+        "chs": "由怀尔德保管的钥匙，用来打开仓库的大门。易丢程度仅次于干瘪的钱包。",
+        "cht": "由懷爾德保管的鑰匙，用來打開倉庫的大門。易丟程度僅次於乾癟的錢包。",
+        "es": "Una llave para las puertas del almacén resguardada por Wyatt. La probabilidad de que la pierda es casi la misma que la de perder su cartera.",
+        "fr": "Une clé appartenant à Wyatt, qui sert à ouvrir la porte de l'entrepôt. Il est facile de la perdre.",
+        "id": "Kunci untuk gerbang gudang yang dipegang oleh Wyatt. Kemungkinan dia menghilangkannya sama dengan kemungkinan dia menghilangkan dompetnya yang tipis.",
+        "jp": "ワイアットが管理している倉庫の鍵。彼の空っぽな財布に次いで、よく彼に落とされる。",
+        "kr": "와이엇이 보관 중인 창고 열쇠. 텅텅 빈 지갑 다음으로 자주 잃어버린다",
+        "pt": "Uma chave para os portões do armazém mantidos pelo Wyatt. A probabilidade de ele perder a chave é quase a de perder sua carteira.",
+        "ru": "Ключ от склада, который хранит Уайатт. Вероятность того, что он потеряет его, равна тому, что он потеряет свой тонкий кошелек.",
+        "th": "กุญแจที่ถูกเก็บไว้โดย Wyatt ใช้เพื่อเปิดประตูใหญ่ของโรงเก็บของ ง่ายต่อการสูญหายพอ ๆ กับกระเป๋าตังค์ที่ไม่มีเงิน",
+        "vi": "Chìa khóa do Wyatt bảo quản, dùng để mở cửa lớn của kho. Dễ mất giống như túi tiền lép xẹp."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

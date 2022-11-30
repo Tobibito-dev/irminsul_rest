@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Goods Invoice",
+        "de": "Warenverzeichnis",
+        "chs": "货物单",
+        "cht": "貨物單",
+        "es": "Factura de mercancías",
+        "fr": "Manifeste",
+        "id": "Tagihan Barang",
+        "jp": "注文書",
+        "kr": "상품 리스트",
+        "pt": "Pedidos de Mercadorias",
+        "ru": "Товарная накладная",
+        "th": "รายการสินค้า",
+        "vi": "Hóa đơn hàng"
+    },
+    "id": 100485,
+    "materialDesc": {
+        "en": "An invoice with information of goods recorded on it. With only a few simple goods listed on it, someone must have selected these items.",
+        "de": "Papiere mit Daten über zu liefernde Waren. Es handelt sich ganz einfach um ein paar Informationen bezüglich einiger Waren, die wohl von jemandem ausgesucht worden sind.",
+        "chs": "记载着货物信息的单据。只有简单的几项货物信息，看起来似乎是人为挑选出来的。",
+        "cht": "記載著貨物資訊的單據。只有簡單的幾項貨物資訊，看起來似乎是人為挑選出來的。",
+        "es": "Una factura con información de mercancía. Contiene información sencilla de los productos. Alguien debe haberlos seleccionado.",
+        "fr": "Un manifeste sur lequel figurent les données relatives aux cargaisons. Il est relativement court, comme si quelqu'un avait choisi chaque ligne avec soin.",
+        "id": "Tagihan yang berisi informasi tentang riwayat barang-barang. Hanya ada beberapa barang yang terdaftar di sini, seseorang pasti sudah memilih barang-barang tersebut.",
+        "jp": "荷物の情報が記されている紙。簡単な情報しかなく、誰かによって選別されたものだと考えられる。",
+        "kr": "상품 정보가 적혀있는 영수증. 몇 가지 간단한 상품 정보만 있을 뿐이다. 일부러 골라낸 것처럼 보인다",
+        "pt": "Uma fatura com informações de mercadorias registradas nela. Com apenas alguns itens simples listados, alguém deve ter selecionado esses itens.",
+        "ru": "Чек с записанной на нём информацией о товарах. Упоминания всего нескольких простых товаров говорят о том, что кто-то кропотливо подошёл к их выбору.",
+        "th": "เอกสารบันทึกข้อมูลสินค้า ซึ่งมีข้อมูลสินค้าเพียงไม่กี่รายการ ดูเหมือนจะมีคนเลือกออกมา",
+        "vi": "Hóa đơn ghi lại thông tin hàng hóa. Chỉ cần lướt qua vài dòng có thể đoán được đây đều là những thứ được con người lựa chọn thủ công."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

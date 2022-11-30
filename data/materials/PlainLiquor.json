@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Plain Liquor",
+        "de": "Ungewöhnliches Getränk",
+        "chs": "看上去很平常的酒",
+        "cht": "看起來很平常的酒",
+        "es": "Licor común",
+        "fr": "Liqueur ordinaire",
+        "id": "Anggur Biasa Saja",
+        "jp": "普通なお酒",
+        "kr": "평범해 보이는 술",
+        "pt": "Licor Bastante Comum",
+        "ru": "На вид очень обычное вино",
+        "th": "Plain Liquor",
+        "vi": "Rượu trông rất bình thường"
+    },
+    "id": 100330,
+    "materialDesc": {
+        "en": "A common alcoholic drink available anywhere.",
+        "de": "Ein Getränk, wie man es überall zu sehen bekommt.",
+        "chs": "十分平常的酒，随时随地都能喝到。",
+        "cht": "十分平常的酒，隨時隨地都能喝到。",
+        "es": "Una bebida alcohólica común disponible en cualquier lugar.",
+        "fr": "Une liqueur répandue que vous pouvez trouver partout.",
+        "id": "Minuman beralkohol umum yang tersedia di mana-mana.",
+        "jp": "とても普通なお酒。どこでも買える。",
+        "kr": "이보다 더 평범할 수는 없다. 어디서나 볼 수 있는 술이다",
+        "pt": "Uma bebida alcoólica disponível em qualquer lugar.",
+        "ru": "Самый распространённый алкогольный напиток в городе.",
+        "th": "เหล้าธรรมดาทั่วไป สามารถหาดื่มได้ทุกที่ทุกเวลา",
+        "vi": "Rượu bình thường, ở đâu cũng có thể uống được."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

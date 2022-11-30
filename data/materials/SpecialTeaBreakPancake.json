@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Special Tea Break Pancake",
+        "de": "Besondere Landeierkuchen",
+        "chs": "特制的庄园烤松饼",
+        "cht": "特製的莊園烤鬆餅",
+        "es": "Panqueques especiales",
+        "fr": "Pancakes spéciaux",
+        "id": "Tea Break Pancake Spesial",
+        "jp": "特製午後のパンケーキ",
+        "kr": "특제 장원 팬케익",
+        "pt": "Panqueca do Chá da Tarde Especial",
+        "ru": "Особые блинчики к чаю",
+        "th": "Tea Break Pancake สูตรพิเศษ",
+        "vi": "Bánh Xốp Đặc Biệt"
+    },
+    "id": 100655,
+    "materialDesc": {
+        "en": "Tea Break Pancake that has just had syrup drizzled over it. Time to serve it to the customers, and fast.",
+        "de": "Landeierkuchen, denen gerade eine Portion Sirup verabreicht wurde. Sie sollten den Gaumen der Besteller so schnell wie möglich erreichen.",
+        "chs": "刚刚淋上糖浆的庄园烤松饼。应该趁早送给顾客享用。",
+        "cht": "剛剛淋上糖漿的莊園烤鬆餅。應該趁早送給顧客享用。",
+        "es": "Unos panqueques a los que se les acaba de añadir sirope. Hay que entregarlos al cliente cuanto antes.",
+        "fr": "Des pancakes pour la pause du thé sur lesquels on vient de verser du sirop. Vite, vite ! Il faut les servir rapidement.",
+        "id": "Tea Break Pancake dengan topping sirup. Harus disajikan kepada tamu dengan cepat.",
+        "jp": "ついさっきシロップをかけた午後のパンケーキ。早くお客さんに提供しなければ。",
+        "kr": "방금 시럽을 뿌린 장원 팬케익, 최대한 빨리 손님한테 배달해야 한다",
+        "pt": "Uma Panqueca do Chá da Tarde que acabou de ser regada com calda. É hora de servi-la aos convidados, e rápido.",
+        "ru": "Блинчики к чаю, только что политые сиропом. Нужно поскорее доставить их клиенту.",
+        "th": "Tea Break Pancake ที่เพิ่งราดไซรัป ควรรีบส่งให้ลูกค้าทานตอนร้อน ๆ",
+        "vi": "Bánh Xốp vừa được rưới nước đường. Phải nhanh tay mang cho thực khách thưởng thức."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

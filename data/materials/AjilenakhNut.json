@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Ajilenakh Nut",
+        "de": "Dattel",
+        "chs": "枣椰",
+        "cht": "棗椰",
+        "es": "Dátil",
+        "fr": "Noix d'ajilenakh",
+        "id": "Ajilenakh Nut",
+        "jp": "デーツ",
+        "kr": "대추야자",
+        "pt": "Tâmara",
+        "ru": "Орехи аджиленах",
+        "th": "Ajilenakh Nut",
+        "vi": "Quả Ajilenakh"
+    },
+    "id": 101221,
+    "materialDesc": {
+        "en": "A fruit that grows on evergreen trees within desert oases. The flesh under the tough skin is thick, sweet, and delicious, making it an important food source amongst the desert peoples.",
+        "de": "Früchte immergrüner Bäume, die in Wüstenoasen wachsen. Unter der harten Fruchtschale findet sich seidenweiches, üppiges, wohlschmeckend süßes Fruchtfleisch. Für die Bewohner des Sandmeeres ist diese Art von Frucht eine bedeutende Nahrungsquelle.",
+        "chs": "沙漠绿洲中的常绿乔木结出的果实。坚硬果皮下的果肉肉质绵厚，甘甜可口，对沙海子民而言是重要的食物来源。",
+        "cht": "沙漠綠洲中的常綠喬木結出的果實。堅硬果皮下的果肉肉質綿厚，甘甜可口，對沙海子民而言是重要的食物來源。",
+        "es": "El fruto de un árbol de hoja perenne que crece en los oasis del desierto. La carne que se encuentra bajo su dura piel es gruesa, dulce y deliciosa. Es una importante fuente de alimento para los habitantes del desierto.",
+        "fr": "Un fruit qui pousse sur les arbres à feuilles persistantes dans les oasis du désert. La chair sous sa peau dure est épaisse, sucrée et délicieuse, ce qui en fait une source de nourriture importante parmi les peuples du désert.",
+        "id": "Buah yang tumbuh dari pohon yang selalu berwarna hijau di oasis padang pasir. Buah yang terletak di bawah permukaan kulitnya yang keras dan tebal terasa manis dan lezat. Merupakan sumber makanan yang sangat penting bagi penduduk padang pasir.",
+        "jp": "砂漠のオアシスに育つ常緑樹に実る果実。硬い皮の中にある果肉の質感は食べ応えがあり、甘くて美味しい。砂海の民にとっては重要な食料の一つ。",
+        "kr": "사막 오아시스에서 자라는 상록 교목의 열매. 단단한 껍질에 부드러운 과육과 달콤한 맛 덕분에 모래바다 주민들의 중요한 식량 자원이 되었다",
+        "pt": "A fruta das árvores verdejantes dos oásis no deserto. A carne sob sua espessa casca é doce e deliciosa, fazendo dela uma importante fonte de alimento entre o povo das areias.",
+        "ru": "Плод, растущий на вечнозелёных деревьях в оазисах пустыни. Мякоть под жёсткой кожурой плотная, сладкая и вкусная, что делает его важным источником пищи для жителей пустыни.",
+        "th": "ผลไม้จากต้นไม้สีเขียวชอุ่มที่เติบโตท่ามกลางโอเอซิสในทะเลทราย ภายใต้เปลือกนอกที่แข็งกระด้าง มีเนื้อในที่อ่อนนุ่มและหวานอร่อยอยู่ภายใน เป็นแหล่งอาหารที่สำคัญของชาวทะเลทราย",
+        "vi": "Quả của cây thường xanh trong ốc đảo sa mạc. Dưới lớp vỏ cứng là lớp thịt dày, ngọt và thơm ngon, là nguồn lương thực quan trọng của người dân nơi biển cát."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

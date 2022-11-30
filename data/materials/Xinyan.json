@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Xinyan",
+        "de": "Xinyan",
+        "chs": "辛焱",
+        "cht": "辛焱",
+        "es": "Xinyan",
+        "fr": "Xinyan",
+        "id": "Xinyan",
+        "jp": "辛炎",
+        "kr": "신염",
+        "pt": "Xinyan",
+        "ru": "Синь Янь",
+        "th": "Xinyan",
+        "vi": "Xinyan"
+    },
+    "id": 1044,
+    "materialDesc": {
+        "en": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+        "de": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
+        "chs": "璃月港唯一的摇滚乐手，以音乐和热情歌颂着对「成见」的反抗。",
+        "cht": "璃月港唯一的搖滾樂手，以音樂和熱情歌頌著對「成見」的反抗。",
+        "es": "La única rockera de Liyue. A través de la música y la pasión de sus canciones, hace una crítica de los prejuicios de la sociedad.",
+        "fr": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+        "id": "Musisi rock 'n' roll satu-satunya di Liyue, kecintaannya yang unik terhadap musik dapat memutarbalikkan pemahaman-pemahaman masyarakat yang kaku.",
+        "jp": "璃月港唯一のロックミュージシャン。音楽と情熱で「先入観」への反抗を歌う。",
+        "kr": "리월의 유일한 로커(Rocker), 음악과 열정으로 「편견」에 대한 반항을 노래한다",
+        "pt": "A única roqueira do Porto de Liyue, ela usa sua música e canções apaixonadas para resistir aos preconceitos.",
+        "ru": "Единственный рок-музыкант Ли Юэ. Своей вдохновляющей музыкой и пением она выражает протест предубеждениям.",
+        "th": "นักดนตรีร็อกแอนด์โรลเพียงหนึ่งเดียวของท่าเรือ Liyue ผู้ใช้เสียงดนตรีและความเร่าร้อนร้องเพลงเพื่อต่อต้าน \"อคติ\"",
+        "vi": "Nghệ sĩ rock duy nhất ở cảng Liyue, dùng âm nhạc và niềm đam mê hát lên chống lại những \"định kiến\"."
+    },
+    "materialType": "MATERIAL_AVATAR"
+}

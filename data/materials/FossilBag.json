@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Fossil Bag",
+        "de": "Tasche mit Fossilien",
+        "chs": "装着化石的袋子",
+        "cht": "裝著化石的袋子",
+        "es": "Saco con un fósil",
+        "fr": "Sac avec fossile",
+        "id": "Tas Berisi Fosil",
+        "jp": "化石が入った袋",
+        "kr": "화석 담긴 주머니",
+        "pt": "Saco com Fóssil",
+        "ru": "Сумка с окаменелостями",
+        "th": "Fossil Bag",
+        "vi": "Túi Đựng Hóa Thạch"
+    },
+    "id": 100984,
+    "materialDesc": {
+        "en": "A bag containing the suspected fossil of the Lunar Leviathan. Give it to Kujirai Momiji... though one wonders if she can accept this reality.",
+        "de": "Eine Tasche, die das mutmaßliche Fossil des Mond-Leviathans enthält. Gib sie Kujirai Momiji ... obwohl man sich fragt, ob sie diese Realität akzeptieren kann.",
+        "chs": "装有疑似「海中月」化石的袋子，把它带给鲸井椛看看吧，不知道她能否接受这个现实。",
+        "cht": "裝有疑似「海中月」化石的袋子，把它帶給鯨井椛看看吧，不知道她能否接受這個現實。",
+        "es": "Un saco que contiene lo que, se sospecha, es el fósil del leviatán lunar. Dáselo a Kujirai Momiji, aunque tal vez no sea capaz de aceptar la realidad.",
+        "fr": "Un sac contenant le fossile présumé du léviathan lunaire. Remettez-le à Kujirai Momiji, peut-être qu'elle acceptera les faits.",
+        "id": "Sebuah tas berisi fosil yang kemungkinan adalah fosil dari Lunar Leviathan. Berikan tas ini pada Kujirai Momiji... meskipun kita tidak tahu apa reaksinya setelah melihat kenyataan ini.",
+        "jp": "「海中月」の化石が入った袋。鯨井椛に渡してみよう。彼女はこの現実を受け入れられるだろうか。",
+        "kr": "「해중월」로 추정되는 화석이 담긴 주머니. 쿠지라이 모미지에게 가져가 보자. 쿠지라이 모미지가 이 사실을 받아들일지는 모르겠지만, 일단 그녀에게 가져가 보자",
+        "pt": "Um saco contendo o suspeito fóssil do Leviatã Lunar. Dê ele à Kujirai Momiji, mas não se sabe se ela será capaz de aceitar essa realidade.",
+        "ru": "Сумка, в которой предположительно находится окаменелость Лунного левиафана. Отдайте его Кудзирай Момидзи... Интересно, сможет ли она поверить в это.",
+        "th": "ถุงที่ใส่ของที่ดูเหมือนจะเป็นฟอสซิลของ Lunar Leviathan เอาไว้ นำมันไปให้ Kujirai Momiji ดูเถอะ ไม่รู้ว่าเธอจะยอมรับความจริงนี้ได้ไหม...",
+        "vi": "Túi đựng hóa thạch trông giống \"Ánh Trăng Biển\", mang nó cho Kujirai Momiji xem thử đi, không biết cô ấy có chấp nhận được hiện thực này không."
+    },
+    "materialType": "MATERIAL_QUEST"
+}

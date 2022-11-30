@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Achievement: Full Bloom",
+        "de": "Errungenschaft – Volle Blüte",
+        "chs": "成就·繁花",
+        "cht": "成就·繁花",
+        "es": "Logro - Florecimiento",
+        "fr": "Succès - Pleine floraison",
+        "id": "Achievement: Mekar Sepenuhnya",
+        "jp": "アチーブメント·繁花",
+        "kr": "업적·무성한 꽃",
+        "pt": "Conquista: Florescimento",
+        "ru": "Пышное цветение",
+        "th": "ความสำเร็จ - มวลบุปผา",
+        "vi": "Thành Tựu - Trăm Hoa Đua Nở"
+    },
+    "id": 210089,
+    "materialDesc": {
+        "en": "Namecard style.\\nGather ye then soil from all corners of the universe, and from it may countless flowers grow.",
+        "de": "Ein Motiv für Namenskärtchen.\\nSammelt Erde aus allen Ecken des Universums und pflanzt unzählige Blumen darauf.",
+        "chs": "名片纹饰。\\n宇宙四方各取土一坯，养育天地万花。",
+        "cht": "名片紋飾。\\n宇宙四方各取土一坯，養育天地萬花。",
+        "es": "Diseño de tarjeta de presentación.\\nLas flores del mundo brotan en la tierra traída de todos los rincones del universo.",
+        "fr": "Thème.\\nRassemblez la terre des quatre coins de l'univers, et d'elle pourront pousser d'innombrables fleurs.",
+        "id": "Style Kartu Nama.\\nBerkumpullah tanah dari seluruh penjuru alam semesta, dan di situlah bunga yang tak terhitung jumlahnya akan tumbuh.",
+        "jp": "名刺の飾り紋。\\n天地四方の土壌を集め、無数の花を咲かせる。",
+        "kr": "명함 스킨\\n우주의 네 부분에서 흙을 취해 온 세상의 꽃을 키우리",
+        "pt": "Estilo de Cartão de Visita.\\nColete o solo de todos os cantos do universo, e a partir dele incontáveis flores podem crescer.",
+        "ru": "Именная карта.\\nНаберите земли со всех сторон света, и пусть на ней вырастут бесчисленные цветы.",
+        "th": "ลายนามบัตร \\nนำชิ้นส่วนของแผ่นดินจากแต่ละด้านของจักรวาลทั้งสี่ มาหล่อเลี้ยงสวรรค์โลกและมวลบุปผา",
+        "vi": "Hoa văn danh thiếp. \\nLấy đất từ khắp mọi nơi trong vũ trụ và từ đó mọc lên vô số những bông hoa."
+    },
+    "materialType": "MATERIAL_NAMECARD"
+}

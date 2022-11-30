@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Wonder Core",
+        "de": "Wunderkern",
+        "chs": "千奇核心",
+        "cht": "千奇核心",
+        "es": "Núcleo de los prodigios",
+        "fr": "Noyau des merveilles",
+        "id": "Wonder Core",
+        "jp": "千奇核心",
+        "kr": "기묘한 코어",
+        "pt": "Núcleo Maravilhoso",
+        "ru": "Ядро чудес",
+        "th": "Wonder Core",
+        "vi": "Lõi Thần Kỳ"
+    },
+    "id": 101611,
+    "materialDesc": {
+        "en": "The core component to the Jade Chamber's mechanisms. When combined with Adepti Sigils, they can be used as the control center of the Jade Chamber.",
+        "de": "Der Kern der mechanischen Struktur vom Jadegemach. Sobald man ihn mit den Adeptentalismanen versieht, kann er als Kontrollzentrum des Jadegemachs dienen.",
+        "chs": "群玉阁机械结构的核心，与仙家符箓结合后，可以用作群玉阁的控制中枢。",
+        "cht": "群玉閣機械結構的核心，與仙家符籙結合後，可以用作群玉閣的控制中樞。",
+        "es": "El corazón de la estructura mecánica de la Cámara de Jade, ya que forma su centro de control tras combinarse con el talismán de los Adeptus.",
+        "fr": "Un des composants clés de la structure mécanique de la Chambre de Jade. Utilisé avec un blason des Adeptes, il sert de centre de contrôle du bâtiment.",
+        "id": "Komponen inti struktur mekanisme Jade Chamber. Jika digabungkan dengan Adepti Sigil, dapat berfungsi sebagai pusat kendali Jade Chamber.",
+        "jp": "群玉閣の機械構造の核。仙家呪符と組み合わせることで、群玉閣の制御中枢として使用することができる。",
+        "kr": "군옥각 기계 구조의 코어. 선가 부적과 결합해서 군옥각의 제어 중추로 사용할 수 있다",
+        "pt": "Componente central dos mecanismos da Câmara de Jade. Quando combinado com Selos Adepti, pode ser usado como centro de controle da Câmara de Jade.",
+        "ru": "Основной компонент механизмов Нефритового дворца. В сочетании с Талисманом Адептов он образует центр управления.",
+        "th": "แกนกลางโครงสร้างของ Jade Chamber เมื่อผสานกับ Adepti Sigil แล้ว สามารถใช้เป็นศูนย์กลางในการควบคุม Jade Chamber ได้",
+        "vi": "Lõi của kết cấu máy móc trong Quần Ngọc Các, sau khi kết hợp với Bùa Chú Tiên Gia có thể dùng làm trung tâm điều khiển Quần Ngọc Các."
+    },
+    "materialType": "MATERIAL_QUEST"
+}
