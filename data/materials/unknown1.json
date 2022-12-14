@@ -14,7 +14,7 @@
         "th": "",
         "vi": ""
     },
-    "id": 2800,
+    "id": 205,
     "materialDesc": {
         "en": "",
         "de": "",
@@ -30,5 +30,5 @@
         "th": "",
         "vi": ""
     },
-    "materialType": "MATERIAL_ADSORBATE"
+    "materialType": false
 }

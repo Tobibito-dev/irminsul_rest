@@ -4,7 +4,7 @@
         "de": "Löwenzahnsamen",
         "chs": "蒲公英籽",
         "cht": "蒲公英籽",
-        "es": "Semillas de diente de león",
+        "es": "Semilla de diente de león",
         "fr": "Graines de pissenlit",
         "id": "Dandelion Seed",
         "jp": "蒲公英の種",
@@ -14,21 +14,21 @@
         "th": "Dandelion Seed",
         "vi": "Hạt Bồ Công Anh"
     },
-    "id": 100728,
+    "id": 100057,
     "materialDesc": {
-        "en": "Dandelion Seeds that contain the wishes of the siblings Freki and Geri. May it go with the wind back to Mondstadt...",
-        "de": "Löwenzahnsamen mit den besten Wünschen der Geschwister Freki und Geri. Möge der Wind sie zurück nach Mondstadt bringen ...",
-        "chs": "寄托着弗莱琪姐弟心意的蒲公英籽。希望能随风飞回蒙德城…",
-        "cht": "寄託著弗萊琪姐弟心意的蒲公英籽。希望能隨風飛回蒙德城…",
-        "es": "Unas semillas de diente de león con los deseos de Freki y Geri. Que el viento las lleve hasta Mondstadt...",
-        "fr": "Graines de pissenlit qui renferment les souhaits de Freki et Geri. Que le vent les fasse voler jusqu'à Mondstadt...",
-        "id": "Dandelion Seed yang berisi harapan dari Freki dan Geri bersaudara. Semoga Dandelion Seed ini bisa terbawa angin hingga ke Mondstadt...",
-        "jp": "フレーキ姉弟の思いが込まれた蒲公英の種。風に乗ってモンド城へ戻ってほしい…",
-        "kr": "프레키와 게리 남매의 마음이 담긴 민들레 씨앗. 바람을 타고 몬드성으로 돌아갈 수 있길…",
-        "pt": "Sementes de Dandelion de Freki. Espera-se que elas voem com o vento de volta para Mondstadt...",
-        "ru": "Семена одуванчика, которые несут пожелания Фреки и Джерри. Пусть ветер унесёт их обратно в Мондштадт...",
-        "th": "เมล็ดดอก Dandelion ที่มีความปรารถนาของ Freki และน้องชาย ที่หวังว่าเมล็ดเหล่านี้จะพัดตามสายลมกลับไปยัง Mondstadt...",
-        "vi": "Hạt giống bồ công anh chứa đựng tấm lòng của chị em Freki. Hy vọng có thể nương theo gió bay về thành Mondstadt..."
+        "en": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within.",
+        "de": "Viele kleine Samen, die im Wind tanzen. Selbst ohne ihre Flügel zeugen sie von einer weiten Reise.",
+        "chs": "随风而行的细小种子。即使拔去了旅行的羽絮，其中也寄宿着远方的希望吧。",
+        "cht": "隨風而行的細小種子。即使拔去了旅行的羽絮，其中也寄宿著遠方的希望吧。",
+        "es": "Una semilla que vuela con el viento. Aunque no tenga alas para volar lejos, tiene la esperanza de poder ser desplazada por el viento a algún sitio remoto.",
+        "fr": "Des graines qui volent au gré du vent. Même dépourvues d'aigrettes, elles désirent être emportées très loin.",
+        "id": "Biji kecil yang menaiki angin. Tanpa sayapnya pun, ia masih memegang harapan yang jauh di dalamnya.",
+        "jp": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
+        "kr": "바람을 타고 날아다니는 작은 씨앗. 설령 솜털을 뽑더라도 이 작은 씨앗 안엔 멀리 날아가고자 하는 소망이 깃들어 있지 않을까…",
+        "pt": "Sementes que são levadas pelos ventos. Uma vez que suas asas são removidas, elas anseiam por terras distantes.",
+        "ru": "Крошечные семена, парящие на ветру. Даже без своих мнимых крыльев они продолжают мечтать о дальних краях.",
+        "th": "เมล็ดเม็ดเล็กๆที่ลอยมากับสายลม แม้ว่าจะดึงปีกของมันออกไป มันก็ยังโอบกอดความหวังจากแดนไกลไว้อยู่ดี",
+        "vi": "Loại hạt nhỏ bay trong gió. Mang theo tâm tư và hy vọng người lữ hành ký gửi."
     },
-    "materialType": "MATERIAL_QUEST"
+    "materialType": "MATERIAL_EXCHANGE"
 }

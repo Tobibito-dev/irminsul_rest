@@ -14,10 +14,10 @@
         "th": "Gambler's Feathered Accessory",
         "vi": "Lông Vũ Con Bạc"
     },
-    "id": 58524,
+    "id": 58420,
     "setId": 10008,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

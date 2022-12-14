@@ -14,10 +14,10 @@
         "th": "Conductor's Top Hat",
         "vi": "Nón Chỉ Huy"
     },
-    "id": 23398,
+    "id": 77530,
     "setId": 15003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

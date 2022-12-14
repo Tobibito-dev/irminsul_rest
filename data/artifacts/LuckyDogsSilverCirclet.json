@@ -14,10 +14,10 @@
         "th": "Lucky Dog's Silver Circlet",
         "vi": "Vòng Bạc May Mắn"
     },
-    "id": 61434,
+    "id": 61330,
     "setId": 10011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Gambler's Dice Cup",
         "vi": "Xúc Xắc Con Bạc"
     },
-    "id": 58514,
+    "id": 58410,
     "setId": 10008,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,21 +14,21 @@
         "th": "ความสนุกของเทศกาล",
         "vi": "Độ Náo Nhiệt Lễ Hội"
     },
-    "id": 147,
+    "id": 116,
     "materialDesc": {
-        "en": "Weinlesefest Festive Fever",
-        "de": "Festlichkeit des Weinlesefests",
-        "chs": "归风佳酿节节庆热度",
-        "cht": "歸風佳釀節節慶熱度",
-        "es": "Fiebre festiva del Festival de la Vendimia.",
-        "fr": "Fièvre festive du Weinlesefest",
-        "id": "Weinlesefest Festive Fever",
-        "jp": "ブリーズブリュー祭の賑わい度",
-        "kr": "돌아온 바람의 와인 축제 열기",
-        "pt": "Animação do Festival do Festvinho",
-        "ru": "Ажиотаж на Празднике вина",
-        "th": "ความสนุกของเทศกาลหมักไวน์ Weinlesefest",
-        "vi": "Độ Náo Nhiệt Lễ Hội Của \"Mùa Gió Rượu Giao Hòa\""
+        "en": "The festive mood during Lantern Rite. Perhaps the atmosphere on the day of the Rite will be better the higher the Festive Fever is...",
+        "de": "Die Festlichkeit während des Laternenrituals. Vielleicht steigt mit dem Festfieber auch die Stimmung am Ritualtag ...",
+        "chs": "海灯节期间的节庆热度。节庆热度越高的话，或许海灯节的节日氛围也会更热烈吧…",
+        "cht": "海燈節期間的節慶熱度。節慶熱度越高的話，或許海燈節的節日氛圍也會更熱烈吧…",
+        "es": "La fiebre festiva alcanzada durante el Rito de la Linterna. Cuanto más alta sea, más festiva será la atmósfera del Rito de la Linterna.",
+        "fr": "L'humeur du Festival des lanternes. Faites monter la fièvre festive, et l'ambiance avec...",
+        "id": "Suasana festival saat Lantern Rite berlangsung. Mungkin suasana di festival Lantern Rite akan semakin marak seiring bertambahnya Festive Fever ini...",
+        "jp": "海灯祭期間中の賑わい度。賑わい度が上がれば、海灯祭もより盛り上がるだろう…",
+        "kr": "해등절 기간의 축제 열기. 축제 열기가 높을수록 해등절의 축제 분위기가 더 달아오른다…",
+        "pt": "A febre festiva alcançada durante o Ritual de Lanternas. O clima no dia do Ritual será melhor quanto mais alta for a Febre Festiva...",
+        "ru": "Праздничное настроение во время Праздника морских фонарей. Возможно, чем выше поднимется праздничный ажиотаж, тем веселее будет на празднике...",
+        "th": "ความสนุกในช่วงเทศกาล Lantern Rite ยิ่งระดับความสนุกสูงเท่าไหร่ บรรยากาศของเทศกาลก็จะยิ่งคึกคักขึ้นเท่านั้น...",
+        "vi": "Độ Náo Nhiệt Lễ Hội trong thời gian Tết Hải Đăng. Độ Náo Nhiệt Lễ Hội càng cao, có lẽ bầu không khí của Tết Hải Đăng cũng sẽ càng náo nhiệt..."
     },
     "materialType": false
 }

@@ -14,10 +14,10 @@
         "th": "Adventurer's Golden Goblet",
         "vi": "Ly Nhà Mạo Hiểm"
     },
-    "id": 60414,
+    "id": 60310,
     "setId": 10010,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Shimi Chazuke",
+        "de": "Shinmi-Chazuke",
+        "chs": "真味茶泡饭",
+        "cht": "真味茶泡飯",
+        "es": "Chazuke auténtico",
+        "fr": "Chazuke authentique",
+        "id": "Shimi Chazuke",
+        "jp": "真味茶漬け",
+        "kr": "진미 오차즈케",
+        "pt": "Chazuke Autêntico",
+        "ru": "Cими тядзукэ",
+        "th": "Shimi Chazuke",
+        "vi": "Shimi Chazuke"
+    },
+    "id": 108479,
+    "materialDesc": {
+        "en": "Wanderer's specialty. The mildly bitter fragrance of tea and the refreshingly sweet aroma of rice are perfectly blended together, leaving you to wolf it down insatiably. How did he manage to cook something so extraordinary? Ah, your expression must have betrayed this thought to him, for his face suddenly turns grim: \"Have you finished yet? Stop gawking and go wash the dishes now.\"",
+        "de": "Spezialzubereitung des Wanderers. Die leicht bittere Note des Tees und das erfrischend süße Aroma von Reis verschmelzen perfekt zu einer Einheit, wenn man einmal begonnen hat es zu essen, will man nicht mehr aufhören. Wie schafft er solche Küchenkunst? Als hätte er deine Gedanken gehört, macht er plötzlich ein düsteres Gesicht und sagt: „Worauf wartest du? Spül nach dem Essen schleunigst das Geschirr.“",
+        "chs": "流浪者的特色料理。微苦的茶香与清甜的米饭浑然一体，吃上一口就停不下来。如此高超的厨艺，他是怎么做到的？似乎察觉到了你的内心想法，只见他脸色一沉：「还等什么？吃完了就赶快去洗碗。」",
+        "cht": "#流浪者的特色料理。微苦的茶香與清甜的米飯渾然一體，吃上一口就停不下來。如此高超的廚藝，他是怎麼做到的？似乎察覺到了{F#妳}{M#你}的內心想法，只見他臉色一沉：「還等什麼？吃完了就趕快去洗碗。」",
+        "es": "La especialidad del Trotamundos. El amargo regusto del té y el dulce paladar del arroz se combinan para dar lugar a un manjar que se volverá casi adictivo después del primer bocado. ¿Dónde habrá aprendido a dominar así las artes culinarias? Como si pudiera adivinar lo que estás pensando, el Trotamundos te dirige una mirada severa: “¿Qué esperas? Si has acabado, ve a lavar el cuenco”.",
+        "fr": "Spécialité culinaire du Nomade.\\nLa légère amertume du thé et la douceur du riz se marient à la perfection, vous n'en faites qu'une bouchée. Comment a-t-il réussi à cuisiner un plat aussi délicieux ? Votre expression a sûrement trahi vos pensées, car son visage s'est assombri. « Tu as fini ? Arrête de rêvasser et va plutôt faire la vaisselle. »",
+        "id": "Masakan andalan Wanderer. Aroma teh yang sedikit pahit dan aroma nasi yang manis dan menyegarkan terpadu sempurna dan akan membuatmu melahapnya tanpa henti. Bagaimana dia bisa memasak sesuatu yang luar biasa seperti ini? Ah, sepertinya dia sudah berhasil membaca pikiranmu, karena ekspresi wajahnya tiba-tiba berubah muram: \"Kamu sudah selesai makan? Jangan melamun lagi, pergi cuci piring sekarang.\"",
+        "jp": "放浪者のオリジナル料理。ほろ苦いお茶の香りとすっきりと甘い米の風味が絡め合い、一口食べたら止まらない。こんなにすごい料理スキルを、彼は一体どうやって手にしたのだろう？この心の声が聞こえたのか、彼は表情を暗くしてこういった。「何をモタモタしてるんだい？食べ終わったんなら、さっさと皿を洗いに行ってきなよ。」",
+        "kr": "방랑자의 특제 요리. 씁쓸한 차향과 달콤한 쌀알이 혼연일체가 되어 한 번 먹으면 멈출 수 없는 맛을 탄생시켰다. 이런 엄청난 요리를 대체 어떻게 만들었을까? 그 생각을 읽었는지 방랑자는 낯빛을 흐렸다. 「뭘 봐? 다 먹었으면 가서 설거지나 해」",
+        "pt": "A especialidade do Andarilho. A fragrância levemente amarga do chá e o aroma doce e refrescante do arroz combinam-se perfeitamente. É impossível não terminar o prato inteiro depois de experimentá-lo. Como ele conseguiu cozinhar algo tão extraordinário? Ah, sua expressão deve ter deixado esse pensamento transparecer, pois o rosto dele de repente fica sombrio: \"Você já terminou? Pare de ficar boquiaberto e vá lavar a louça agora.\"",
+        "ru": "Фирменное блюдо Странника. Мягкая горечь чая и освежающая сладость риса в сочетании дают такой превосходный вкус, что вы просто не можете остановиться. И как ему удалось приготовить столь изысканное блюдо? Должно быть, Странник прочитал этот вопрос в ваших глазах, и его лицо вдруг помрачнело: «Ну что, всё? Тогда быстро иди мыть посуду».",
+        "th": "เมนูพิเศษของผู้พเนจร กลิ่นชาที่ขมเล็กน้อยและข้าวรสหวานถูกผสมผสานเข้าด้วยกัน เมื่อกินเข้าไปหนึ่งคำคุณจะไม่อาจหยุดปากได้อีกต่อไป ทักษะการทำอาหารชั้นยอดเช่นนี้ เขาทำได้ยังไงกันนะ? เหมือนเขาจะสัมผัสได้ถึงความคิดของคุณ เห็นเพียงสีหน้าเคร่งขรึม \"รออะไรอยู่ล่ะ? กินเสร็จแล้วก็รีบไปล้างจานสิ\"",
+        "vi": "Món ăn đặc sắc của Kẻ Lang Thang. Vị trà có chút đắng kết hợp với vị ngọt mát của cơm, ăn thử một miếng là không muốn dừng lại. Tài nấu nướng cao siêu như vậy, anh ta đã làm thế nào chứ? Dường như đọc được suy nghĩ của bạn, sắc mặt của anh trầm xuống: \"Còn đợi gì nữa? Ăn xong thì mau đi rửa bát đi.\""
+    },
+    "materialType": "MATERIAL_FOOD"
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Amethyst Crown",
+        "de": "Amethystkrone",
+        "chs": "紫晶的花冠",
+        "cht": "紫晶的花冠",
+        "es": "Corona de Amatista",
+        "fr": "Couronne d'améthyste",
+        "id": "Amethyst Crown",
+        "jp": "紫晶の花冠",
+        "kr": "자수정 화관",
+        "pt": "Coroa Ametista",
+        "ru": "Аметистовый венец",
+        "th": "Amethyst Crown",
+        "vi": "Vương Miện Tử Tinh"
+    },
+    "id": 28533,
+    "setId": 15028,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_DRESS",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

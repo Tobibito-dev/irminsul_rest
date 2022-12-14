@@ -1,0 +1,34 @@
+{
+    "name": {
+        "en": "Eel Meat",
+        "de": "Aalfleisch",
+        "chs": "鳗肉",
+        "cht": "鰻肉",
+        "es": "Anguila",
+        "fr": "Anguille",
+        "id": "Eel Meat",
+        "jp": "ウナギ肉",
+        "kr": "뱀장어 살코기",
+        "pt": "Carne Unagi",
+        "ru": "Угорь",
+        "th": "Eel Meat",
+        "vi": "Thịt Lươn"
+    },
+    "id": 100095,
+    "materialDesc": {
+        "en": "The fresh meat of an Unagi/Eel. If handled properly, it can be used to make fresh, lovely food.",
+        "de": "Das frische Fleisch eines Unagi. Wenn es richtig behandelt wird, kann es für die Zubereitung von frischem, herrlichem Essen verwendet werden.",
+        "chs": "陆鳗鳗的新鲜肉块。经过适当调理，可以做成极其鲜美的佳肴。",
+        "cht": "陸鰻鰻的新鮮肉塊。經過適當調理，可以做成極其鮮美的佳餚。",
+        "es": "Carne de anguila fresca. Si se prepara correctamente, puede usarse para hacer un plato muy sabroso.",
+        "fr": "Un morceau de chair d'unagi qui une fois cuisiné offre une saveur inimitable.",
+        "id": "Daging segar Unagi, bisa dibuat menjadi makanan yang segar dan enak jika pengolahannya dilakukan secara tepat.",
+        "jp": "陸ウナギの新鮮な肉。適切な調理をすると美味しい料理になる。",
+        "kr": "육지 뱀장어의 신선한 살코기. 알맞게 조리하면 훌륭한 요리가 된다",
+        "pt": "Carne fresca de um Unagi. Se manuseada adequadamente, pode ser utilizada para fazer comida fresca deliciosa.",
+        "ru": "Свежее мясо унаги. При правильном обращении из него можно приготовить прекрасные свежие блюда.",
+        "th": "ชิ้นเนื้อปลาไหลสด หลังจากเตรียมอย่างเหมาะสมแล้ว ก็สามารถนำไปปรุงเป็นอาหารจานอร่อยได้",
+        "vi": "Thịt lươn tươi ngon, qua chế biến sẽ tạo thành món ngon tuyệt vời."
+    },
+    "materialType": "MATERIAL_EXCHANGE"
+}

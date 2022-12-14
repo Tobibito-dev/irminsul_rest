@@ -67,7 +67,7 @@
         "jp": "チーム全員の与える治療効果+<color=#3399CCFF>15%～20%</color>、継続時間300秒。 マルチプレイ中、自分のキャラクターにのみ有効。",
         "kr": "파티 내 모든 캐릭터의 치유 보너스가 <color=#3399CCFF>15%-20%</color> 증가한다. 지속 시간: 300초 다인 모드 시 자신의 캐릭터에만 적용된다",
         "pt": "Aumenta o Bônus de Cura de todos os membros da equipe em <color=#3399CCFF>15% - 20%</color> por 300s. No modo multijogador, este efeito é aplicado apenas ao(s) seu(s) próprio(s) personagem(ns)",
-        "ru": "Увеличивает бонус лечения всех членов отряда на <color=#3399CCFF>15%-20%</color> на 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
+        "ru": "Увеличивает бонус лечения всех членов отряда на <color=#3399CCFF>15%-20%</color> в течение 300 сек. В совместном режиме этот эффект применяется только к вашему персонажу.",
         "th": "โบนัสการรักษาของตัวละครทั้งหมดในทีมเพิ่มขึ้น <color=#3399CCFF>15%-20%</color> เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
         "vi": "Khả năng tăng trị liệu của tất cả nhân vật trong đội tăng thêm <color=#3399CCFF>15%-20%</color>, duy trì 300 giây. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
     }

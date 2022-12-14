@@ -14,10 +14,10 @@
         "th": "Scholar's Glasses",
         "vi": "Mảnh Kính Học Sĩ"
     },
-    "id": 62534,
+    "id": 62430,
     "setId": 10012,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

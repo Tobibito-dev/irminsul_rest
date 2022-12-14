@@ -14,10 +14,10 @@
         "th": "Tiny Miracle's Hourglass",
         "vi": "Cát Kỳ Tích"
     },
-    "id": 54554,
+    "id": 54450,
     "setId": 10004,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

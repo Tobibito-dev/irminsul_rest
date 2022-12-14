@@ -14,10 +14,10 @@
         "th": "Martial Artist's Water Hourglass",
         "vi": "Đồng Hồ Nước Võ Nhân"
     },
-    "id": 56554,
+    "id": 56450,
     "setId": 10006,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Sundial of the Sojourner",
         "vi": "Hòn Đá Phát Sáng"
     },
-    "id": 51554,
+    "id": 51450,
     "setId": 10001,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

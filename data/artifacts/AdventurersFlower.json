@@ -14,10 +14,10 @@
         "th": "Adventurer's Flower",
         "vi": "Hoa Nhà Mạo Hiểm"
     },
-    "id": 60444,
+    "id": 60340,
     "setId": 10010,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

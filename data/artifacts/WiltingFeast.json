@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Wilting Feast",
+        "de": "Festmahl des Verfalls",
+        "chs": "谢落的筵席",
+        "cht": "謝落的筵席",
+        "es": "Festín del Marchitamiento",
+        "fr": "Fête du flétrissement",
+        "id": "Wilting Feast",
+        "jp": "落謝の宴席",
+        "kr": "시들어버린 연회",
+        "pt": "Banquete dos Agradecimentos",
+        "ru": "Угасающий пир",
+        "th": "Wilting Feast",
+        "vi": "Tiệc Rượu Suy Tàn"
+    },
+    "id": 28523,
+    "setId": 15028,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_NECKLACE",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

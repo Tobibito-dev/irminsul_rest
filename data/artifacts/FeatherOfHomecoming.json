@@ -14,10 +14,10 @@
         "th": "Feather of Homecoming",
         "vi": "Lông Vũ Hồi Hương"
     },
-    "id": 51524,
+    "id": 51420,
     "setId": 10001,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "A Time of Insight",
         "vi": "Thời Hạn Của Hiền Trí"
     },
-    "id": 23630,
+    "id": 20553,
     "setId": 15025,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

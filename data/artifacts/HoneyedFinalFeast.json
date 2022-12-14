@@ -14,10 +14,10 @@
         "th": "Honeyed Final Feast",
         "vi": "Bữa Cuối Ngọt Ngào"
     },
-    "id": 23636,
+    "id": 21513,
     "setId": 15026,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

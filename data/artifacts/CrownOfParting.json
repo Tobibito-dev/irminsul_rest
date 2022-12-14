@@ -14,10 +14,10 @@
         "th": "Crown of Parting",
         "vi": "Chiếc Nón Từ Biệt"
     },
-    "id": 51534,
+    "id": 51430,
     "setId": 10001,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

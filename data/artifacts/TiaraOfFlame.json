@@ -14,10 +14,10 @@
         "th": "Tiara of Flame",
         "vi": "Nón Tế Lửa"
     },
-    "id": 83534,
+    "id": 83430,
     "setId": 15009,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

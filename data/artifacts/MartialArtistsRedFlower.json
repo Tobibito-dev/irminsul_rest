@@ -14,10 +14,10 @@
         "th": "Martial Artist's Red Flower",
         "vi": "Hoa Võ Nhân"
     },
-    "id": 56544,
+    "id": 56440,
     "setId": 10006,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Tiara of Torrents",
         "vi": "Nón Tế Thủy"
     },
-    "id": 84534,
+    "id": 84430,
     "setId": 15010,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

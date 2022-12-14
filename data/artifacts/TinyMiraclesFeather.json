@@ -14,10 +14,10 @@
         "th": "Tiny Miracle's Feather",
         "vi": "Lông Vũ Kỳ Tích"
     },
-    "id": 54524,
+    "id": 54420,
     "setId": 10004,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

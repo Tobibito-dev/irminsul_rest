@@ -14,10 +14,10 @@
         "th": "Tiara of Frost",
         "vi": "Nón Tế Băng"
     },
-    "id": 87534,
+    "id": 87430,
     "setId": 15013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

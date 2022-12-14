@@ -14,10 +14,10 @@
         "th": "Scholar's Bookmark",
         "vi": "Kẹp Sách Học Sĩ"
     },
-    "id": 62544,
+    "id": 62440,
     "setId": 10012,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

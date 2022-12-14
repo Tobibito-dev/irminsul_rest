@@ -14,10 +14,10 @@
         "th": "Goblet of the Sojourner",
         "vi": "Chiếc Ly Dị Quốc"
     },
-    "id": 51514,
+    "id": 51410,
     "setId": 10001,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

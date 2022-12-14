@@ -14,10 +14,10 @@
         "th": "Prospect of the Brave",
         "vi": "Sự Mong Đợi Của Dũng Sĩ"
     },
-    "id": 52524,
+    "id": 52420,
     "setId": 10002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

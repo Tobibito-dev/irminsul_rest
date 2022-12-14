@@ -14,10 +14,10 @@
         "th": "Fortitude of the Brave",
         "vi": "Sự Kiên Nghị Của Dũng Sĩ"
     },
-    "id": 52554,
+    "id": 52450,
     "setId": 10002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

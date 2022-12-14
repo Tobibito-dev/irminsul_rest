@@ -14,10 +14,10 @@
         "th": "Lucky Dog's Hourglass",
         "vi": "Đồng Hồ Cát May Mắn"
     },
-    "id": 61454,
+    "id": 61350,
     "setId": 10011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

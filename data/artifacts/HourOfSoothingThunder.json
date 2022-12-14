@@ -14,10 +14,10 @@
         "th": "Hour of Soothing Thunder",
         "vi": "Khoảnh Khắc Bình Lôi"
     },
-    "id": 23450,
+    "id": 72550,
     "setId": 14002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

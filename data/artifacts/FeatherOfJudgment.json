@@ -14,10 +14,10 @@
         "th": "Feather of Judgment",
         "vi": "Lông Vũ Phán Quyết"
     },
-    "id": 23637,
+    "id": 21523,
     "setId": 15026,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

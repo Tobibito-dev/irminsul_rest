@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "The First Days of the City of Kings",
+        "de": "Erste Tage der Stadt der Könige",
+        "chs": "众王之都的开端",
+        "cht": "眾王之都的開端",
+        "es": "Inicios de la Capital de los Reyes",
+        "fr": "Aube de la cité des rois",
+        "id": "The First Days of the City of Kings",
+        "jp": "諸王の都の始まり",
+        "kr": "왕의 도시의 탄생",
+        "pt": "Início da Capital dos Reis",
+        "ru": "Рождение города королей",
+        "th": "The First Days of the City of Kings",
+        "vi": "Khởi Đầu Của Vương Đô Vua"
+    },
+    "id": 27543,
+    "setId": 15027,
+    "itemType": "ITEM_RELIQUARY",
+    "equipType": "EQUIP_BRACER",
+    "rankLevel": 5,
+    "maxLevel": "ITEM_RELIQUARY"
+}

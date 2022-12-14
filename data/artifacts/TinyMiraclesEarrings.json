@@ -14,10 +14,10 @@
         "th": "Tiny Miracle's Earrings",
         "vi": "Bông Tai Kỳ Tích"
     },
-    "id": 54534,
+    "id": 54430,
     "setId": 10004,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

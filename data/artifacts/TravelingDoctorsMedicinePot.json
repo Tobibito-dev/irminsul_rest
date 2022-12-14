@@ -14,10 +14,10 @@
         "th": "Traveling Doctor's Medicine Pot",
         "vi": "Bình Thuốc Thầy Thuốc"
     },
-    "id": 63414,
+    "id": 63310,
     "setId": 10013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -6,7 +6,7 @@
         "cht": "遊醫的銀蓮",
         "es": "Loto de Plata de la Médica Itinerante",
         "fr": "Anémone du Médecin itinérant",
-        "id": "Traveling Doctor's Windflower",
+        "id": "Traveling Doctor's Silver Lotus",
         "jp": "医者のアネモネ",
         "kr": "떠돌이 의사의 은련",
         "pt": "Lótus de Prata do Doutor Viajante",
@@ -14,10 +14,10 @@
         "th": "Traveling Doctor's Silver Lotus",
         "vi": "Cúc Hoạ Mi Thầy Thuốc"
     },
-    "id": 63444,
+    "id": 63340,
     "setId": 10013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

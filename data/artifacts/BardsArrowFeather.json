@@ -14,10 +14,10 @@
         "th": "Bard's Arrow Feather",
         "vi": "Mũi Tên Nhạc Sĩ"
     },
-    "id": 23397,
+    "id": 77520,
     "setId": 15003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

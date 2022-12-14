@@ -14,10 +14,10 @@
         "th": "Wisdom of Lavawalker",
         "vi": "Trí Tuệ Người Vượt Lửa"
     },
-    "id": 23438,
+    "id": 73530,
     "setId": 14003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

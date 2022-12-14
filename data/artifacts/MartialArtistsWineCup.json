@@ -14,10 +14,10 @@
         "th": "Martial Artist's Wine Cup",
         "vi": "Ly Rượu Võ Nhân"
     },
-    "id": 56514,
+    "id": 56410,
     "setId": 10006,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

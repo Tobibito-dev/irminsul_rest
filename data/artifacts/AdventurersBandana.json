@@ -14,10 +14,10 @@
         "th": "Adventurer's Bandana",
         "vi": "Khăn Nhà Mạo Hiểm"
     },
-    "id": 60434,
+    "id": 60330,
     "setId": 10010,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

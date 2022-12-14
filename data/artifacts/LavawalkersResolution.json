@@ -14,10 +14,10 @@
         "th": "Resolution of Lavawalker",
         "vi": "Sự Từ Chối Của Người Vượt Lửa"
     },
-    "id": 23439,
+    "id": 73540,
     "setId": 14003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Lucky Dog's Goblet",
         "vi": "Ly May Mắn"
     },
-    "id": 61414,
+    "id": 61310,
     "setId": 10011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

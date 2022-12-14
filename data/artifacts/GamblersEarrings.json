@@ -14,10 +14,10 @@
         "th": "Gambler's Earrings",
         "vi": "Hoa Tai Con Bạc"
     },
-    "id": 58534,
+    "id": 58430,
     "setId": 10008,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

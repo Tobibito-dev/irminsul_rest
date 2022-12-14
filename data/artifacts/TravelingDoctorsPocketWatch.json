@@ -14,10 +14,10 @@
         "th": "Traveling Doctor's Pocket Watch",
         "vi": "Đồng Hồ Thầy Thuốc"
     },
-    "id": 63454,
+    "id": 63350,
     "setId": 10013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Tiara of Thunder",
         "vi": "Nón Tế Lôi"
     },
-    "id": 85534,
+    "id": 85430,
     "setId": 15011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

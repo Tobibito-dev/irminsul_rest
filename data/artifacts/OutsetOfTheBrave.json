@@ -14,10 +14,10 @@
         "th": "Outset of the Brave",
         "vi": "Hành Trình Của Dũng Sĩ"
     },
-    "id": 52514,
+    "id": 52410,
     "setId": 10002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

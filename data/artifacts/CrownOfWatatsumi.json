@@ -14,10 +14,10 @@
         "th": "Crown of Watatsumi",
         "vi": "Vương Miện Watatsumi"
     },
-    "id": 23598,
+    "id": 96533,
     "setId": 15022,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

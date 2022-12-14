@@ -14,10 +14,10 @@
         "th": "Exile's Feather",
         "vi": "Lông Vũ Kẻ Lưu Đày"
     },
-    "id": 59524,
+    "id": 59420,
     "setId": 10009,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Solar Relic",
         "vi": "Di Vật Mặt Trời"
     },
-    "id": 23610,
+    "id": 97553,
     "setId": 15023,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

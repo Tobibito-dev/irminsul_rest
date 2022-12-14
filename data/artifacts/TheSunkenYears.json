@@ -14,10 +14,10 @@
         "th": "The Sunken Years",
         "vi": "Năm Tháng Vàng Son"
     },
-    "id": 23640,
+    "id": 21553,
     "setId": 15026,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

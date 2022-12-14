@@ -14,10 +14,10 @@
         "th": "Traveling Doctor's Owl Feather",
         "vi": "Lông Vũ Thầy Thuốc"
     },
-    "id": 63424,
+    "id": 63320,
     "setId": 10013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

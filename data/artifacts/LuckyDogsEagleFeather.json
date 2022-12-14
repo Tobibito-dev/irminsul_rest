@@ -14,10 +14,10 @@
         "th": "Lucky Dog's Eagle Feather",
         "vi": "Lông Ưng May Mắn"
     },
-    "id": 61424,
+    "id": 61320,
     "setId": 10011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

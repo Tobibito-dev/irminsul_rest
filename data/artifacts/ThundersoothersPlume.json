@@ -14,10 +14,10 @@
         "th": "Thundersoother's Plume",
         "vi": "Lông Vũ Bình Lôi"
     },
-    "id": 23447,
+    "id": 72520,
     "setId": 14002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

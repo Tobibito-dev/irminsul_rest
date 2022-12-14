@@ -14,10 +14,10 @@
         "th": "Crown of The Brave",
         "vi": "Vương Miện Dũng Sĩ"
     },
-    "id": 52534,
+    "id": 52430,
     "setId": 10002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

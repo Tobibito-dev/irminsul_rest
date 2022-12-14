@@ -14,10 +14,10 @@
         "th": "Torment of Lavawalker",
         "vi": "Sự Dằn Vặt Của Người Vượt Lửa"
     },
-    "id": 23440,
+    "id": 73550,
     "setId": 14003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Adventurer's Tail Feather",
         "vi": "Lông Vũ Nhà Mạo Hiểm"
     },
-    "id": 60424,
+    "id": 60320,
     "setId": 10010,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

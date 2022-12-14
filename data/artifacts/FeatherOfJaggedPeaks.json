@@ -14,10 +14,10 @@
         "th": "Feather of Jagged Peaks",
         "vi": "Cánh Thái Sơn"
     },
-    "id": 23497,
+    "id": 88520,
     "setId": 15014,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

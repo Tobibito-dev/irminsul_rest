@@ -14,10 +14,10 @@
         "th": "Heart of Comradeship",
         "vi": "Trái Tim Của Cố Nhân"
     },
-    "id": 51544,
+    "id": 51440,
     "setId": 10001,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

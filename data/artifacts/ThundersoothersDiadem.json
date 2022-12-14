@@ -14,10 +14,10 @@
         "th": "Thundersoother's Diadem",
         "vi": "Nón Bình Lôi"
     },
-    "id": 23448,
+    "id": 72530,
     "setId": 14002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

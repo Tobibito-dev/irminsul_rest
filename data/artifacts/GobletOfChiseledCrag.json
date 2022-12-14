@@ -14,10 +14,10 @@
         "th": "Goblet of Chiseled Crag",
         "vi": "Ly Ngọc Bàn Thạch"
     },
-    "id": 23496,
+    "id": 88510,
     "setId": 15014,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

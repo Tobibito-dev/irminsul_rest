@@ -14,10 +14,10 @@
         "th": "Troupe's Dawnlight",
         "vi": "Ánh Sáng Của Ban Nhạc"
     },
-    "id": 23399,
+    "id": 77540,
     "setId": 15003,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

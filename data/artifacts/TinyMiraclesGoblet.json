@@ -14,10 +14,10 @@
         "th": "Tiny Miracle's Goblet",
         "vi": "Ly Kỳ Tích"
     },
-    "id": 54514,
+    "id": 54410,
     "setId": 10004,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

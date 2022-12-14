@@ -14,10 +14,10 @@
         "th": "Medal of The Brave",
         "vi": "Huy Chương Dũng Sĩ"
     },
-    "id": 52544,
+    "id": 52440,
     "setId": 10002,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

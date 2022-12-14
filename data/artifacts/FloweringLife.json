@@ -14,10 +14,10 @@
         "th": "Flowering Life",
         "vi": "Tinh Hoa Sinh Linh"
     },
-    "id": 23609,
+    "id": 97543,
     "setId": 15023,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -14,10 +14,10 @@
         "th": "Martial Artist's Bandana",
         "vi": "Khăn Võ Nhân"
     },
-    "id": 56534,
+    "id": 56430,
     "setId": 10006,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

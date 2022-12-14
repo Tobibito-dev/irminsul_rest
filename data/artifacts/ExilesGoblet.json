@@ -14,10 +14,10 @@
         "th": "Exile's Goblet",
         "vi": "Ly Kẻ Lưu Đày"
     },
-    "id": 59514,
+    "id": 59410,
     "setId": 10009,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_RING",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

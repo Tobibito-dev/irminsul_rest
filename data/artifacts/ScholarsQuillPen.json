@@ -14,10 +14,10 @@
         "th": "Scholar's Quill Pen",
         "vi": "Bút Lông Học Sĩ"
     },
-    "id": 62524,
+    "id": 62420,
     "setId": 10012,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

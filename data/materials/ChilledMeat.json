@@ -6,7 +6,7 @@
         "cht": "「冷鮮肉」",
         "es": "Carne congelada",
         "fr": "Viande congelée",
-        "id": "Daging Dingin",
+        "id": "Chilled Meat",
         "jp": "「冷製鮮肉」",
         "kr": "「냉동 생고기」",
         "pt": "Carne Fresca Fria",
@@ -14,7 +14,7 @@
         "th": "\"Chilled Meat\"",
         "vi": "Thịt Tươi Lạnh"
     },
-    "id": 100705,
+    "id": 100094,
     "materialDesc": {
         "en": "Rare, fresh meat.\\nThis species of boar is recorded to have gone extinct several hundred years ago and has been preserved by the extreme temperatures on Dragonspine. For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness.",
         "de": "Ein sehr seltenes, delikates Fleisch.\\nEs kommt von einer Spezies, die angeblich bereits seit Hunderten von Jahren ausgestorben ist und hat sich dank des extrem kalten Wetters auf dem Drachengrat so gut erhalten. Für viele Feinschmecker aus allen Teilen Teyvats ist dieses Fleisch der Heilige Gral unter den Fleischsorten.",
@@ -30,5 +30,5 @@
         "th": "เนื้อที่หายากและอร่อย \\nหมูป่าสายพันธุ์นี้ได้รับการบันทึกว่าสูญพันธุ์ไปเมื่อหลายร้อยปีก่อน แต่ได้รับการรักษาไว้โดยอุณหภูมิที่เย็นจัดบนเทือกเขา Dragonspine สำหรับนักชิมของ Teyvat แล้ว นี่คือวัตถุดิบอันศักดิ์สิทธิ์ที่ไม่อาจบรรยายได้",
         "vi": "Loại thịt tươi ngon hiếm có.\\nTheo ghi chép, đây là giống lợn tuyệt chủng mấy trăm năm trước được bảo tồn nhờ thời tiết khắc nghiệt ở Long Tích Tuyết Sơn. Đối với những người sành ăn ở Teyvat, nó là một món ăn thần thánh tuyệt vời."
     },
-    "materialType": "MATERIAL_QUEST"
+    "materialType": "MATERIAL_EXCHANGE"
 }

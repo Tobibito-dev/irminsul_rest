@@ -14,10 +14,10 @@
         "th": "Exile's Pocket Watch",
         "vi": "Đồng Hồ Kẻ Lưu Đày"
     },
-    "id": 59554,
+    "id": 59450,
     "setId": 10009,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_SHOES",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

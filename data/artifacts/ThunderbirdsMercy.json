@@ -4,7 +4,7 @@
         "de": "Erbarmen des Donnervogels",
         "chs": "雷鸟的怜悯",
         "cht": "雷鳥的憐憫",
-        "es": "Misericordia del Pájaro del Trueno",
+        "es": "Misericordia del Ave del Trueno",
         "fr": "Compassion de l'Oiselle du tonnerre",
         "id": "Thunderbird's Mercy",
         "jp": "雷鳥の憐み",
@@ -14,7 +14,7 @@
         "th": "Thunderbird's Mercy",
         "vi": "Sự Thương Hại Của Lôi Điểu"
     },
-    "id": 24754,
+    "id": 79540,
     "setId": 15005,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",

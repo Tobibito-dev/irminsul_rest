@@ -14,10 +14,10 @@
         "th": "Traveling Doctor's Handkerchief",
         "vi": "Khăn Thầy Thuốc"
     },
-    "id": 63434,
+    "id": 63330,
     "setId": 10013,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

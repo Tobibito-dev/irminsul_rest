@@ -14,10 +14,10 @@
         "th": "Thundering Poise",
         "vi": "Diện Mạo Sấm Sét"
     },
-    "id": 23608,
+    "id": 97533,
     "setId": 15023,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }

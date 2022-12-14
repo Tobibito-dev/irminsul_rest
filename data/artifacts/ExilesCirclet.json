@@ -14,10 +14,10 @@
         "th": "Exile's Circlet",
         "vi": "Vương Miện Kẻ Lưu Đày"
     },
-    "id": 59534,
+    "id": 59430,
     "setId": 10009,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_DRESS",
-    "rankLevel": 5,
+    "rankLevel": 4,
     "maxLevel": "ITEM_RELIQUARY"
 }

@@ -2,29 +2,29 @@
     "name": {
         "en": "Primordial Jade Cutter",
         "de": "Moosgrüner Fels",
-        "chs": "None",
+        "chs": "磐岩结绿",
         "cht": "磐岩結綠",
         "es": "Cortador de Jade Primordial",
         "fr": "Coupeur de jade primordial",
         "id": "Primordial Jade Cutter",
-        "jp": "磐岩の緑",
-        "kr": "이끼 대검",
+        "jp": "磐岩結緑",
+        "kr": "반암결록",
         "pt": "Cortador de Jade Primordial",
-        "ru": "Древний Нефритовый Резак",
+        "ru": "Драгоценный омут",
         "th": "Primordial Jade Cutter",
-        "vi": "Nham Kết Lục"
+        "vi": "Bàn Nham Kết Lục"
     },
-    "id": 11506,
+    "id": 11505,
     "type": "WEAPON_SWORD_ONE_HAND",
     "rankLevel": 5,
     "baseStats": [
         {
             "type": "FIGHT_PROP_BASE_ATTACK",
-            "value": 23.2450008392334
+            "value": 44.33580017089844
         },
         {
-            "type": null,
-            "value": 0
+            "type": "FIGHT_PROP_CRITICAL",
+            "value": 0.09600000083446503
         }
     ],
     "curve": {
@@ -35,7 +35,7 @@
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.0,
                 "arith": "ARITH_MULTI"
             }
@@ -43,11 +43,11 @@
         "2": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.0759999752044678,
+                "value": 1.0789999961853027,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.0,
                 "arith": "ARITH_MULTI"
             }
@@ -55,11 +55,11 @@
         "3": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.1519999504089355,
+                "value": 1.159000039100647,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.0,
                 "arith": "ARITH_MULTI"
             }
@@ -67,11 +67,11 @@
         "4": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.2280000448226929,
+                "value": 1.2380000352859497,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.0,
                 "arith": "ARITH_MULTI"
             }
@@ -79,11 +79,11 @@
         "5": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.3029999732971191,
+                "value": 1.3170000314712524,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.1619999408721924,
                 "arith": "ARITH_MULTI"
             }
@@ -91,11 +91,11 @@
         "6": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.378999948501587,
+                "value": 1.3949999809265137,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.1619999408721924,
                 "arith": "ARITH_MULTI"
             }
@@ -103,11 +103,11 @@
         "7": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.4539999961853027,
+                "value": 1.4739999771118164,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.1619999408721924,
                 "arith": "ARITH_MULTI"
             }
@@ -115,11 +115,11 @@
         "8": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.5290000438690186,
+                "value": 1.5520000457763672,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.1619999408721924,
                 "arith": "ARITH_MULTI"
             }
@@ -127,11 +127,11 @@
         "9": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.6039999723434448,
+                "value": 1.63100004196167,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.1619999408721924,
                 "arith": "ARITH_MULTI"
             }
@@ -139,11 +139,11 @@
         "10": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.6790000200271606,
+                "value": 1.7089999914169312,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.3630000352859497,
                 "arith": "ARITH_MULTI"
             }
@@ -151,11 +151,11 @@
         "11": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.753999948501587,
+                "value": 1.7869999408721924,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.3630000352859497,
                 "arith": "ARITH_MULTI"
             }
@@ -163,11 +163,11 @@
         "12": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.8279999494552612,
+                "value": 1.8650000095367432,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.3630000352859497,
                 "arith": "ARITH_MULTI"
             }
@@ -175,11 +175,11 @@
         "13": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.902999997138977,
+                "value": 1.9420000314712524,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.3630000352859497,
                 "arith": "ARITH_MULTI"
             }
@@ -187,11 +187,11 @@
         "14": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 1.9769999980926514,
+                "value": 2.0199999809265137,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.3630000352859497,
                 "arith": "ARITH_MULTI"
             }
@@ -199,11 +199,11 @@
         "15": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.0510001182556152,
+                "value": 2.0980000495910645,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.565000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -211,11 +211,11 @@
         "16": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.125,
+                "value": 2.174999952316284,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.565000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -223,11 +223,11 @@
         "17": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.1989998817443848,
+                "value": 2.253000020980835,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.565000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -235,11 +235,11 @@
         "18": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.2730000019073486,
+                "value": 2.3299999237060547,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.565000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -247,11 +247,11 @@
         "19": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.3469998836517334,
+                "value": 2.4079999923706055,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.565000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -259,11 +259,11 @@
         "20": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.4200000762939453,
+                "value": 2.484999895095825,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.7669999599456787,
                 "arith": "ARITH_MULTI"
             }
@@ -271,11 +271,11 @@
         "21": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.493000030517578,
+                "value": 2.562000036239624,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.7669999599456787,
                 "arith": "ARITH_MULTI"
             }
@@ -283,11 +283,11 @@
         "22": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.566999912261963,
+                "value": 2.6389999389648438,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.7669999599456787,
                 "arith": "ARITH_MULTI"
             }
@@ -295,11 +295,11 @@
         "23": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.640000104904175,
+                "value": 2.7170000076293945,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.7669999599456787,
                 "arith": "ARITH_MULTI"
             }
@@ -307,11 +307,11 @@
         "24": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.7130000591278076,
+                "value": 2.7939999103546143,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.7669999599456787,
                 "arith": "ARITH_MULTI"
             }
@@ -319,11 +319,11 @@
         "25": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.7860000133514404,
+                "value": 2.871000051498413,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.968999981880188,
                 "arith": "ARITH_MULTI"
             }
@@ -331,11 +331,11 @@
         "26": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.8589999675750732,
+                "value": 2.947999954223633,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.968999981880188,
                 "arith": "ARITH_MULTI"
             }
@@ -343,11 +343,11 @@
         "27": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 2.930999994277954,
+                "value": 3.0260000228881836,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.968999981880188,
                 "arith": "ARITH_MULTI"
             }
@@ -355,11 +355,11 @@
         "28": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.003999948501587,
+                "value": 3.1029999256134033,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.968999981880188,
                 "arith": "ARITH_MULTI"
             }
@@ -367,11 +367,11 @@
         "29": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.0759999752044678,
+                "value": 3.180000066757202,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 1.968999981880188,
                 "arith": "ARITH_MULTI"
             }
@@ -379,11 +379,11 @@
         "30": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.1480000019073486,
+                "value": 3.256999969482422,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.1710000038146973,
                 "arith": "ARITH_MULTI"
             }
@@ -391,11 +391,11 @@
         "31": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.2209999561309814,
+                "value": 3.3340001106262207,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.1710000038146973,
                 "arith": "ARITH_MULTI"
             }
@@ -403,11 +403,11 @@
         "32": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.2929999828338623,
+                "value": 3.4119999408721924,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.1710000038146973,
                 "arith": "ARITH_MULTI"
             }
@@ -415,11 +415,11 @@
         "33": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.365000009536743,
+                "value": 3.489000082015991,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.1710000038146973,
                 "arith": "ARITH_MULTI"
             }
@@ -427,11 +427,11 @@
         "34": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.437000036239624,
+                "value": 3.565999984741211,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.1710000038146973,
                 "arith": "ARITH_MULTI"
             }
@@ -439,11 +439,11 @@
         "35": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.507999897003174,
+                "value": 3.6440000534057617,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.372999906539917,
                 "arith": "ARITH_MULTI"
             }
@@ -451,11 +451,11 @@
         "36": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.5799999237060547,
+                "value": 3.7209999561309814,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.372999906539917,
                 "arith": "ARITH_MULTI"
             }
@@ -463,11 +463,11 @@
         "37": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.6519999504089355,
+                "value": 3.7980000972747803,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.372999906539917,
                 "arith": "ARITH_MULTI"
             }
@@ -475,11 +475,11 @@
         "38": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.7230000495910645,
+                "value": 3.875999927520752,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.372999906539917,
                 "arith": "ARITH_MULTI"
             }
@@ -487,11 +487,11 @@
         "39": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.7939999103546143,
+                "value": 3.953000068664551,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.372999906539917,
                 "arith": "ARITH_MULTI"
             }
@@ -499,11 +499,11 @@
         "40": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.865999937057495,
+                "value": 4.031000137329102,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.575000047683716,
                 "arith": "ARITH_MULTI"
             }
@@ -511,11 +511,11 @@
         "41": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 3.937000036239624,
+                "value": 4.109000205993652,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.575000047683716,
                 "arith": "ARITH_MULTI"
             }
@@ -523,11 +523,11 @@
         "42": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.007999897003174,
+                "value": 4.185999870300293,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.575000047683716,
                 "arith": "ARITH_MULTI"
             }
@@ -535,11 +535,11 @@
         "43": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.078999996185303,
+                "value": 4.263999938964844,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.575000047683716,
                 "arith": "ARITH_MULTI"
             }
@@ -547,11 +547,11 @@
         "44": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.150000095367432,
+                "value": 4.3420000076293945,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.575000047683716,
                 "arith": "ARITH_MULTI"
             }
@@ -559,11 +559,11 @@
         "45": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.2210001945495605,
+                "value": 4.419000148773193,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -571,11 +571,11 @@
         "46": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.290999889373779,
+                "value": 4.497000217437744,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -583,11 +583,11 @@
         "47": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.361999988555908,
+                "value": 4.574999809265137,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -595,11 +595,11 @@
         "48": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.433000087738037,
+                "value": 4.6529998779296875,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -607,11 +607,11 @@
         "49": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.502999782562256,
+                "value": 4.730999946594238,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -619,11 +619,11 @@
         "50": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.573999881744385,
+                "value": 4.809999942779541,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -631,11 +631,11 @@
         "51": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.644000053405762,
+                "value": 4.888000011444092,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -643,11 +643,11 @@
         "52": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.714000225067139,
+                "value": 4.966000080108643,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -655,11 +655,11 @@
         "53": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.783999919891357,
+                "value": 5.044000148773193,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -667,11 +667,11 @@
         "54": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.855000019073486,
+                "value": 5.123000144958496,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -679,11 +679,11 @@
         "55": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.925000190734863,
+                "value": 5.201000213623047,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -691,11 +691,11 @@
         "56": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 4.994999885559082,
+                "value": 5.28000020980835,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -703,11 +703,11 @@
         "57": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.065000057220459,
+                "value": 5.359000205993652,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -715,11 +715,11 @@
         "58": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.133999824523926,
+                "value": 5.436999797821045,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -727,11 +727,11 @@
         "59": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.203999996185303,
+                "value": 5.515999794006348,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -739,11 +739,11 @@
         "60": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.27400016784668,
+                "value": 5.59499979019165,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -751,11 +751,11 @@
         "61": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.343999862670898,
+                "value": 5.673999786376953,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -763,11 +763,11 @@
         "62": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.413000106811523,
+                "value": 5.752999782562256,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -775,11 +775,11 @@
         "63": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.482999801635742,
+                "value": 5.833000183105469,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -787,11 +787,11 @@
         "64": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.552000045776367,
+                "value": 5.9120001792907715,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -799,11 +799,11 @@
         "65": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.622000217437744,
+                "value": 5.991000175476074,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -811,11 +811,11 @@
         "66": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.690999984741211,
+                "value": 6.071000099182129,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -823,11 +823,11 @@
         "67": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.761000156402588,
+                "value": 6.150000095367432,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -835,11 +835,11 @@
         "68": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.829999923706055,
+                "value": 6.230000019073486,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -847,11 +847,11 @@
         "69": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.89900016784668,
+                "value": 6.309999942779541,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -859,11 +859,11 @@
         "70": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 5.9679999351501465,
+                "value": 6.389999866485596,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -871,11 +871,11 @@
         "71": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.038000106811523,
+                "value": 6.46999979019165,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -883,11 +883,11 @@
         "72": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.10699987411499,
+                "value": 6.550000190734863,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -895,11 +895,11 @@
         "73": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.176000118255615,
+                "value": 6.630000114440918,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -907,11 +907,11 @@
         "74": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.244999885559082,
+                "value": 6.710000038146973,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -919,11 +919,11 @@
         "75": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.314000129699707,
+                "value": 6.790999889373779,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -931,11 +931,11 @@
         "76": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.382999897003174,
+                "value": 6.870999813079834,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -943,11 +943,11 @@
         "77": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.452000141143799,
+                "value": 6.952000141143799,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -955,11 +955,11 @@
         "78": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.520999908447266,
+                "value": 7.0329999923706055,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -967,11 +967,11 @@
         "79": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.590000152587891,
+                "value": 7.11299991607666,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -979,11 +979,11 @@
         "80": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.658999919891357,
+                "value": 7.193999767303467,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -991,11 +991,11 @@
         "81": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.7270002365112305,
+                "value": 7.275000095367432,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -1003,11 +1003,11 @@
         "82": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.796000003814697,
+                "value": 7.35699987411499,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -1015,11 +1015,11 @@
         "83": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.864999771118164,
+                "value": 7.438000202178955,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -1027,11 +1027,11 @@
         "84": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 6.934000015258789,
+                "value": 7.519000053405762,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -1039,11 +1039,11 @@
         "85": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.002999782562256,
+                "value": 7.60099983215332,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -1051,11 +1051,11 @@
         "86": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.071000099182129,
+                "value": 7.682000160217285,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -1063,11 +1063,11 @@
         "87": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.139999866485596,
+                "value": 7.763999938964844,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -1075,11 +1075,11 @@
         "88": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.209000110626221,
+                "value": 7.8460001945495605,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -1087,11 +1087,11 @@
         "89": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.2769999504089355,
+                "value": 7.927999973297119,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -1099,11 +1099,11 @@
         "90": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.3460001945495605,
+                "value": 8.010000228881836,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -1111,11 +1111,11 @@
         "91": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.414999961853027,
+                "value": 8.092000007629395,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -1123,11 +1123,11 @@
         "92": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.482999801635742,
+                "value": 8.173999786376953,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -1135,11 +1135,11 @@
         "93": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.552000045776367,
+                "value": 8.256999969482422,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -1147,11 +1147,11 @@
         "94": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.620999813079834,
+                "value": 8.33899974822998,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -1159,11 +1159,11 @@
         "95": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.689000129699707,
+                "value": 8.42199993133545,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1171,11 +1171,11 @@
         "96": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.757999897003174,
+                "value": 8.505000114440918,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1183,11 +1183,11 @@
         "97": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.827000141143799,
+                "value": 8.588000297546387,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1195,11 +1195,11 @@
         "98": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.894999980926514,
+                "value": 8.670999526977539,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1207,11 +1207,11 @@
         "99": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 7.964000225067139,
+                "value": 8.753999710083008,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1219,11 +1219,11 @@
         "100": [
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "value": 8.032999992370605,
+                "value": 8.836999893188477,
                 "arith": "ARITH_MULTI"
             },
             {
-                "type": null,
+                "type": "FIGHT_PROP_CRITICAL",
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }
@@ -1231,7 +1231,7 @@
     },
     "promote": [
         {
-            "weaponPromoteId": 11101,
+            "weaponPromoteId": 11505,
             "costItems": [
                 {},
                 {},
@@ -1258,26 +1258,27 @@
             "promoteLevel": 0
         },
         {
-            "weaponPromoteId": 11101,
+            "weaponPromoteId": 11505,
             "promoteLevel": 1,
             "costItems": [
                 {
-                    "id": 114001,
-                    "count": 1
+                    "id": 114017,
+                    "count": 5
                 },
                 {
-                    "id": 112014,
-                    "count": 1
+                    "id": 112026,
+                    "count": 5
                 },
                 {
-                    "id": 112011,
-                    "count": 1
+                    "id": 112035,
+                    "count": 3
                 }
             ],
+            "coinCost": 10000,
             "addProps": [
                 {
                     "propType": "FIGHT_PROP_BASE_ATTACK",
-                    "value": 11.699999809265137
+                    "value": 31.100000381469727
                 },
                 {
                     "propType": "FIGHT_PROP_CRITICAL"
@@ -1296,27 +1297,27 @@
             "requiredPlayerLevel": 15
         },
         {
-            "weaponPromoteId": 11101,
+            "weaponPromoteId": 11505,
             "promoteLevel": 2,
             "costItems": [
                 {
-                    "id": 114002,
-                    "count": 1
+                    "id": 114018,
+                    "count": 5
                 },
                 {
-                    "id": 112014,
-                    "count": 4
+                    "id": 112026,
+                    "count": 18
                 },
                 {
-                    "id": 112011,
-                    "count": 2
+                    "id": 112035,
+                    "count": 12
                 }
             ],
-            "coinCost": 5000,
+            "coinCost": 20000,
             "addProps": [
                 {
                     "propType": "FIGHT_PROP_BASE_ATTACK",
-                    "value": 23.299999237060547
+                    "value": 62.20000076293945
                 },
                 {
                     "propType": "FIGHT_PROP_CRITICAL"
@@ -1335,27 +1336,27 @@
             "requiredPlayerLevel": 25
         },
         {
-            "weaponPromoteId": 11101,
+            "weaponPromoteId": 11505,
             "promoteLevel": 3,
             "costItems": [
                 {
-                    "id": 114002,
-                    "count": 2
+                    "id": 114018,
+                    "count": 9
                 },
                 {
-                    "id": 112015,
-                    "count": 2
+                    "id": 112027,
+                    "count": 9
                 },
                 {
-                    "id": 112012,
-                    "count": 2
+                    "id": 112036,
+                    "count": 9
                 }
             ],
-            "coinCost": 5000,
+            "coinCost": 30000,
             "addProps": [
                 {
                     "propType": "FIGHT_PROP_BASE_ATTACK",
-                    "value": 35.0
+                    "value": 93.4000015258789
                 },
                 {
                     "propType": "FIGHT_PROP_CRITICAL"
@@ -1374,27 +1375,27 @@
             "requiredPlayerLevel": 30
         },
         {
-            "weaponPromoteId": 11101,
+            "weaponPromoteId": 11505,
             "promoteLevel": 4,
             "costItems": [
                 {
-                    "id": 114003,
-                    "count": 1
+                    "id": 114019,
+                    "count": 5
                 },
                 {
-                    "id": 112015,
-                    "count": 4
+                    "id": 112027,
+                    "count": 18
                 },
                 {
-                    "id": 112012,
-                    "count": 3
+                    "id": 112036,
+                    "count": 14
                 }
             ],
-            "coinCost": 10000,
+            "coinCost": 45000,
             "addProps": [
                 {
                     "propType": "FIGHT_PROP_BASE_ATTACK",
-                    "value": 46.70000076293945
+                    "value": 124.5
                 },
                 {
                     "propType": "FIGHT_PROP_CRITICAL"
@@ -1411,36 +1412,114 @@
             ],
             "unlockMaxLevel": 70,
             "requiredPlayerLevel": 35
+        },
+        {
+            "weaponPromoteId": 11505,
+            "promoteLevel": 5,
+            "costItems": [
+                {
+                    "id": 114019,
+                    "count": 9
+                },
+                {
+                    "id": 112028,
+                    "count": 14
+                },
+                {
+                    "id": 112037,
+                    "count": 9
+                }
+            ],
+            "coinCost": 55000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 155.60000610351562
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 80,
+            "requiredPlayerLevel": 40
+        },
+        {
+            "weaponPromoteId": 11505,
+            "promoteLevel": 6,
+            "costItems": [
+                {
+                    "id": 114020,
+                    "count": 6
+                },
+                {
+                    "id": 112028,
+                    "count": 27
+                },
+                {
+                    "id": 112037,
+                    "count": 18
+                }
+            ],
+            "coinCost": 65000,
+            "addProps": [
+                {
+                    "propType": "FIGHT_PROP_BASE_ATTACK",
+                    "value": 186.6999969482422
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL"
+                },
+                {
+                    "propType": "FIGHT_PROP_CRITICAL_HURT"
+                },
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+                },
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+                }
+            ],
+            "unlockMaxLevel": 90,
+            "requiredPlayerLevel": 50
         }
     ],
     "desc": {
-        "en": "A great claymore that was once covered in moss, but turned crystal clear after both blessed and admonished by the Geo Archon.",
-        "de": "Ein vom Moos grün gefärbtes Schwert aus Stein, das vom Gott des Gesteins gesegnet wurde und dadurch so scharf schneidet wie geschliffene Jade.",
-        "chs": "None",
-        "cht": "苔蘚染綠的岩刀，受了岩之神的勸誡與祝福後變得如翠玉般透徹。",
-        "es": "Un gran claymore cubierto de musgo que fue bendecido y aprobado por el Dios de la Roca. Su aspecto aburrido y pesado esconde su letalidad.",
-        "fr": "Une épée de roche qui était autrefois recouverte de mousses, mais il devient limpide comme le jade vert après avoir été bénie et persuadée par l'Archon Anémo.",
-        "id": "Pedang besar yang sebelumnya tertutup oleh lumut, tetapi kini bersinar kembali dengan jernih setelah diberkati dan ditegur oleh Dewa Tanah.",
-        "jp": "コケで緑に染まった岩刀、岩の神の助言と祝福を受けた後、翠玉のように透き通る形になった。",
-        "kr": "이끼가 파릇파릇한 바위칼은 바위의 신의 훈계와 축복을 받아 옥처럼 투명해졌다",
-        "pt": "Um grande claymore que já foi coberto de musgo, mas ficou cristalino depois de ser abençoado e admoestado pelo Arconte Geo.",
-        "ru": "Огромный двуручный меч, который когда-то был покрыт мхом, но стал кристально чистым после благословения и увещевания архонтом земли.",
-        "th": "ดาบหินที่เต็มไปด้วยตะไคร่น้ำ กลายเป็นสวยใสราวกับหยกหลังจากได้รับคำแนะนำและพรจาก the God of Earth",
-        "vi": "Thanh đao bị rêu phong bám phủ, sau khi nhận được sự chúc phúc và khuyên giải của Nham Thần thì trở nên trong xanh như ngọc."
+        "en": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
+        "de": "Ein rituelles Schwert, das aus reinster Jade gehauen wurde. Man meint, ein leichtes Stöhnen zu vernehmen, während man es schwingt.",
+        "chs": "由纯净的翠玉精琢细雕而成的仪礼宝剑，挥舞时剑风中似有叹息之声。",
+        "cht": "由純淨的翠玉精琢細雕而成的儀禮寶劍，揮舞時劍風中似有嘆息之聲。",
+        "es": "Una espada para ceremonias hecha con esencia de jade puro muy finamente tallado. El viento que se produce al blandirla emite un sonido parecido al de un suspiro.",
+        "fr": "Une épée cérémonielle taillée dans le jade le plus pur. On peut presque entendre son soupir lorsqu'elle tourne dans le vent.",
+        "id": "Pedang upacara yang diukir dari giok murni. Suara ayunannya seperti suara desahan napas yang samar.",
+        "jp": "穢れの無い翠玉によって彫られた宝剣。振るうと、嘆息が漏れ出るかのような風音が聞こえる。",
+        "kr": "순수한 비취옥을 섬세하게 조각해 만든 의례 보검. 검을 휘두르면 탄식의 소리가 들리는 듯하다",
+        "pt": "Uma espada para cerimônias feita com essência de jade puro esculpido delicadamente. O ar que produz quando balança emite um som parecido a um suspiro.",
+        "ru": "Ритуальный меч, искусно вырезанный из чистейшего нефрита и покрытый изящными гравировками. Иногда кажется, что при взмахе им можно услышать тихий вздох ветра.",
+        "th": "ดาบสำหรับพิธีการที่แกะสลักมาจากหยกบริสุทธิ์อย่างประณีต เมื่อแกว่งดาบไปมาในสายลม จะมีเสียงที่คล้ายกับเสียงลมหายใจ",
+        "vi": "Thanh kiếm được dùng trong nghi lễ, được chạm khắc cẩn thận từ ngọc bích tinh khiết, khi vung lên, âm thanh giống như tiếng thở dài trong gió."
     },
     "flavor": {
-        "en": "Test\n",
-        "de": "Test\n",
+        "en": "\nThey say that when Liyue first arose, Rex Lapis once walked the land with a sword hewn from jade.\nDespite the constant wear and tear of age, the jade edge, so bathed in blood, still retained a polished sheen as if brand-new.\nThe blood was washed away in the rain of a thousand years, yet the thoughts and grudges that gathered about it could not be so easily eliminated.\n\n\"Nephrite has the soul of the Bishui's gentle heart, and will in time cleanse itself of the remnant grudges within.\"\n\"But who will ease the agony that the jade itself feels for having become an instrument of slaughter?\"\n\nThese words of a friend long-forgotten were both lament and sigh.\nBut the inexorable gears of destiny would drown out those compassionate words.\n\nIn the passing of many long years, many became mortal foes who once made merry together,\nWhile those who betrayed one another or fought to the death would come to share a drink, their hatred dispelled.\nSo it was also with this precious sword, carved as it once was to be given as an expensive gift to a certain someone.\nThis jade too was once cut for love of peace and luxury.\n\nWhen wine vessels are filled with blood, and when tender feelings are ripped asunder by cold ambition and reduced to dust on the wind,\nGifts ungiven and bonds unspoken will become sharp blades with which to cleave erstwhile friends.",
+        "de": "\nLegenden besagen, dass Rex Lapis mit einem aus reiner Jade gehauenen Schwert durch Liyue wandelte, als die Stadt ihre erste Blüte erfuhr.\nTrotz all der Strapazen über die Jahre und all des Blutes, in das es getränkt wurde, behielt es seine leuchtende Klinge, als wäre sie neu.\nDas Blut konnte über die Jahrtausende abgewaschen werden. Der damit einhergehende Groll und Hass jedoch blieben haften.\n\n„Der grüne Kristall hat die Seele und die Sanftmut des Wassers und wird sich von dem bösen Groll, der ihn befallen hat, befreien.“\n„Wie soll sich diese wunderschöne Jade aber von dem Schmerz befreien, den sie als Werkzeug des Todes erfährt?“\n\nDiese Worte eines längst vergessenen Freundes waren klagevoll und seufzend.\nDas unaufhaltsame Schicksal übertönte letzten Endes die Worte des Mitgefühls.\n\nIn all den vergangenen Jahren haben Feinde, die bis auf den Tod kämpften, einst glücklich zusammengelebt.\nFreunde wandten sich gegeneinander und Feinde begannen, die Becher in gemeinsamer Freude zu heben.\nAuch dieses kostbare Schwert wurde für einen neu gewonnen Freund aus dem Gestein gehauen und ihm als Geschenk überreicht.\nDieser moosgrüne Fels wurde geschaffen, um Frieden und Wohlergehen zu symbolisieren.\n\nWenn die Weinkelche mit Blut gefüllt sind und zarte Gefühle durch kalte Gier zerrissen und im Wind zu Staub zerfetzt werden,\ndann werden auch nicht überreichte Geschenke und hintergangene Freundschaft zu einer scharfen Klinge, die auf einstige Gefährten gerichtet ist.",
         "chs": null,
-        "cht": "測試\n",
-        "es": "Prueba\n",
-        "fr": "Test\n",
-        "id": "Ujian\n",
-        "jp": "テスト\n",
-        "kr": "테스트\n",
-        "pt": "Teste\n",
-        "ru": "Тест\n",
-        "th": "ทดสอบ \n",
-        "vi": "Thử nghiệm\n"
+        "cht": "\n據說在璃月初興時，帝君曾執翠玉琢成之劍行走大地。\n在年歲不停的磨礪下，血洗的碧綠劍鋒仍舊閃亮如新，\n鮮血隨千年雨水而去，凝結的思念與怨恨卻難以滌除。\n\n「結綠擁有碧水的魂靈與柔情，自能清洗殘留於其上的宿怨」\n「但以美玉之身被塑成殺戮之器的傷痛，又有誰能撫平呢？」\n\n淡忘了名字的故友曾如是嗟怨，如是玩嘆息，\n但無可阻遏的命途終於淹沒了惻隱的言語。\n\n在過於悠久的年月裡，浴血死鬥的仇敵也曾言歡同樂，\n終將反目的摯友、仇恨消弭的死敵也會相約舉杯一醉。\n這柄寶劍也是在那時，作為贈予某人的貴禮雕琢而成，\n名為「結綠」的翠玉，身受削鑿本是為了和平與華貴。\n\n當酒器被血水溢滿，溫情被冷酷的欲望撕碎，化作塵埃飛散，\n未能送出的贈禮，未能訴說的友誼，亦成了斬向舊友的利刃。",
+        "es": "\nCuenta la leyenda que, en la época en que Liyue estaba empezando a prosperar, Rex Lapis caminaba por la tierra con una espada tallada en jade.\nComo fue afilada durante años sin parar, el ensangrentado filo esmeralda de la espada nunca perdió su brillo.\nLa sangre que la cubría sí se fue diluyendo con el tiempo, pero el deseo y el resentimiento, que ya habían coagulado, nunca se pudieron limpiar.\n\n“El jade tiene un alma y un temperamento similares a los de unas aguas turquesas, pues puede purificar su propio odio remanente.\nAhora bien, ¿quién puede aplacar el dolor de un arma de jade hecha para matar?”\n\nAsí se lamentó una vez un viejo amigo cuyo nombre había olvidado.\nSin embargo, el inexorable destino acabó ahogando aquellas palabras de compasión.\n\nTras un tiempo demasiado largo, los dos enemigos, que en el pasado se habían batido en una sangrienta batalla, hicieron las paces y charlaron pacífica y alegremente.\nAl final, su enemistad y el odio que se tenían desapareció, e incluso llegaron a reunirse para beber juntos.\nEsta espada fue un obsequio hecho en aquella época para cierta persona.\nSu jade fue esculpido y tallado precisamente para representar la paz y la riqueza.\n\nCuando las copas de vino se llenaron de sangre, los crueles deseos rompieron en pedazos las buenas intenciones y las transformaron en un polvo que salió volando.\nEntonces, aquel obsequio que no fue entregado y aquella amistad que nunca llegó a ser se convirtieron en el filo que blandió contra su viejo amigo.",
+        "fr": "\nIl est dit que lorsque naquit Liyue, le Souverain de la Roche parcourait les terres, une épée taillée dans le jade à son côté.\nMalgré l'usure des années, le tranchant du jade, qui avait baigné dans le sang, conservait le même éclat qu'au premier jour.\nLe sang avait été lavé par les pluies de milliers d'années ; mais les pensées et les rancunes accumulées ne s'effaçaient pas si aisément.\n\n« Le Coupeur possède l'âme et le tempérament du jade, et se purifiera avec le temps des rancunes qui existent encore en son sein. »\n« Mais qui apaisera l'agonie que ressentira le jade une fois devenu un instrument de massacre ? »\n\nCes mots d'un ami oublié depuis longtemps étaient à la fois lamentations et soupirs,\nmais les rouages inexorables du destin noieraient ces paroles compatissantes.\n\nLes années passèrent, les anciens amis devenant ennemis jurés,\nceux qui s'étaient un jour trahis ou battus à mort trinquant désormais, toute leur haine ayant disparu.\nIl en était de même de cette précieuse épée, sculptée autrefois pour être offerte en guise de cadeau somptueux.\nCe jade fût également taillé par amour de la paix et du luxe.\n\nQuand les coupes à vin se remplissent de sang et que les bons sentiments sont déchirés par la froide ambition, et réduits à l'état de simple poussière dans le vent,\nalors les cadeaux qui n'ont point été offerts et les amitiés qui n'ont point été clamées deviennent les lames tranchantes avec lesquelles percer les amis d'antan.",
+        "id": "\nSebuah legenda bercerita bahwa pada awal mula Liyue, Rex Lapis menginjakkan kakinya di dataran Liyue dengan pedang dari giok.\nMeskipun pedang ini telah digunakan selama bertahun-tahun, pedang bermandikan darah ini tetap terlihat seperti baru.\nDarah di pedang itu mungkin bisa tersapu bersih oleh air hujan, tetapi ingatan dan rasa dendam yang berkumpul sulit dihilangkan.\n\n\"Nephrite mengandung jiwa dan hati Bishui yang lembut, dan sisa-sisa perasaan dendam di dalamnya akan dibersihkan oleh waktu.\"\n\"Tapi siapa yang sanggup meredakan kepedihan giok itu, yang digunakan untuk merenggut nyawa makhluk lain?\"\n\nYang tersisa dari kata-kata teman lama yang terlupakan ini hanyalah penyesalan dan helaan napas.\nTapi roda takdir yang terus berputar akan menghancurkan kalimat lembut tersebut.\n\nSeiring berjalannya waktu yang panjang, banyak kawan yang akhirnya berubah menjadi musuh bebuyutan,\nDan yang dulunya mengkhianati satu sama lain dan bertarung mempertaruhkan nyawa, malah minum bersama tanpa ada rasa dendam.\nSama seperti pedang giok ini, yang ditempa menjadi sebuah hadiah yang mahal untuk seseorang yang istimewa.\nGiok ini juga dulunya diambil demi kedamaian dan kemewahan.\n\nSaat cangkir anggur terisi darah, dan saat hati yang lembut dihancurkan oleh ambisi gelap, menjadi debu yang tertiup angin,\nHadiah yang belum sempat diberikan, kata-kata persahabatan yang belum sempat diucapakan, akan menjadi pedang tajam yang memisahkan dua orang sahabat.",
+        "jp": "\n璃月が創られた時、帝君は玉石の剣を持ち、大地を歩んだと言われている。\n歳月の試練を潜り抜いて尚、血で洗った濃緑の剣は未だに輝きを保つ、\n血は千年もの雨とともに流れ、詰まった思いと恨みは容易に払えない。\n\n「玉石は碧色の水の魂と優しさを持ち、残された宿怨を洗い流す」\n「だが、殺戮の武器にされた美玉の痛みは、誰が慰めてあげられるのか？」\n\n名を忘れた友は、ため息と共に不平を吐いた。\nだが、止まる事のない運命はその惻隠の言葉をもかき消した。\n\n長い年月を跨ぎ、血まみれに死闘を交わした敵とも喜びを分け合い、\nやがて裏切るであろう親友、憎しみが消えた宿敵とも一杯飲み交わせるだろう。\nこの宝剣もその時、誰かの贈り物として磨き上げられ、\n「結緑」と名付けられた緑の玉石も、元は平和と華麗のために彫琢されたもの。\n\n酒器が血で溢れ、温情が冷酷な欲望によって引き裂かれ、塵と化して飛び散った。\n贈り損ねた贈り物、伝え損ねた友情、共に旧友へと向ける刃となった。",
+        "kr": "\n리월 초창기에 제군은 옥으로 만든 검을 들고 대지를 거닐었다고 한다.\n세월의 끝없는 시련 속에서도 피로 씻은 청록색 검 끝은 새것처럼 반짝였다.\n피는 천 년의 빗물과 함께 씻겨졌지만, 서려 있는 그리움과 원한은 씻어 낼 수 없었다.\n\n「결록은 벽색 물의 영혼과 부드러움으로 남겨진 숙원을 스스로 씻어낼 수 있다」\n「그러나 살상의 무기가 되어버린 옥의 고통은 누가 위로해줄 수 있는가?」\n\n이름을 잊은 옛 친구는 이렇게 탄식했다.\n하지만 막을 수 없는 운명은 결국 측은의 말을 삼켰다.\n\n오랜 세월이 흐르면서, 피 튀기는 사투를 벌였던 적들과도 기쁨을 나누고,\n배반한 친구와 원한을 지운 숙적과도 술 한 잔 나눌 수 있었다.\n이 보검도 그때 누군가의 선물로 조각되었고\n「결록」이라는 옥은 평화와 부귀를 위해 깎아진 것이다.\n\n술그릇에 피가 넘치자 따뜻했던 마음은 냉혹한 욕망에 의해 갈기갈기 찢기고 먼지처럼 흩어졌다.\n전하지 못한 선물과 말하지 못한 우정도 옛 친구를 베는 날카로운 칼날이 되었다.",
+        "pt": "\nDizem que na época que Liyue estava prosperando, Rex Lapis andava pela terra com uma espada entalhada em jade.\nApesar de ter sido utilizada incessantemente pelos anos, a ponta coberta de sangue sempre foi afiada, mantendo seu brilho como se fosse nova.\nO sangue que a cobria foi disperso pelos anos e pela água, mas as memórias e ódios condensados nela nunca foram limpos.\n\n\"O jade tem alma e temperamento como o de uma água esverdeada, pois pode limpar o próprio rancor em si.\"\n\"Mas quem aliviará a agonia da jade por ter se tornado um instrumento de massacre?\"\n\nEssas palavras de um amigo há muito esquecido eram tanto um lamento quanto um suspiro.\nMas as inexoráveis engrenagens do destino abafariam essas palavras de compaixão.\n\nCom o passar de vários anos, muitos que outrora se divertiam juntos se tornaram inimigos mortais,\nEnquanto aqueles que traíram o próximo ou lutaram até a morte passaram a dividir uma bebida após o fim de seu ódio.\nO mesmo aconteceu com esta espada preciosa, entalhada como se fosse um presente caro a ser dado a uma certa pessoa.\nEste jade também foi cortado por amor à paz e ao luxo.\n\nQuando as taças de vinho estão cheias de sangue e sentimentos ternos são dilacerados pela ambição fria e reduzidos a pó lançado ao vento,\nOs presentes não dados e os sentimentos não declarados se tornarão lâminas afiadas com as quais amigos antigos serão separados.",
+        "ru": "\nГоворят, что когда Ли Юэ только закладывался, Властелин Камня ходил по земле с зелёным нефритовым мечом.\nХотя клинок и был отполирован годами, ярко-зелёное остриё, что часто вкушало кровь врагов, по-прежнему сверкало, как новое.\nАлая кровь тысячи лет смывалась дождевой водой, но от воспоминаний и ненависти так легко не избавиться.\n\n«Драгоценный нефрит обладает душой и нежностью реки Бишуй и сам может смыть давние обиды, что остались на его поверхности.»\n«Но кто смоет скорбь прекрасного нефрита, обращённого в орудие убийства?»\n\nСтарый друг, чьё имя забыто, некогда горевал и тяжело вздыхал,\nНо судьба, которой невозможно препятствовать, в конце концов заглушила слова сочувствия.\n\nДолгое, долгое время он проливал кровь врагов, которые когда-то были друзьями,\nВедь в конце концов и отвернувшийся друг, и отпустивший ненависть враг могут выпить вместе.\nВ те времена меч создавался и обрабатывался как ценный дар некоему человеку.\nДрагоценный зелёный нефрит изначально был вырезан для мира и роскоши.\n\nНо винные бокалы переполнились кровью, доброта была растерзана чёрствыми желаниями и развеяна прахом,\nКогда он, непреподнесённый дар, невысказанный знак дружбы, стал клинком, что отсёк голову старому другу.",
+        "th": "\nว่ากันว่าในตอนที่ Liyue ก่อตั้งขึ้นใหม่ ๆ ราชาแห่งหินเคยท่องไปบนผืนดินพร้อมกับดาบที่ทำจากหยก\nหลังเวลาเนิ่นนานผ่านไป คมดาบหยกที่อาบไปด้วยเลือดก็ยังคงแวววาวเหมือนใหม่\nเลือดถูกสายฝนนานนับพันปีชะล้างไปจนหมด แต่ความคิดและความโกรธแค้นที่สะสม ยากที่จะชะล้างออกไปได้\n\n\"หยกแข็งมีจิตวิญญาณและความอ่อนโยนของ Bishui มันสามารถชะล้างความแค้นที่หลงเหลืออยู่ด้วยตนเอง\"\n\"แต่ใครจะสามารถลบล้างความเจ็บปวดของหยกงาม ที่ถูกนำมาใช้เป็นเครื่องมือสังหารได้?\"\n\nคำพูดของเพื่อนที่ถูกลืมชื่อไปนานแล้ว เต็มไปด้วยความเศร้าใจและความรำพึงรำพัน\nแต่วงล้อแห่งโชคชะตาที่ไม่อาจหลีกเลี่ยงได้ ก็กลบคำพูดที่เต็มไปด้วยความเห็นใจนี้จนหมดสิ้น\n\nในช่วงเวลาหลายปีที่ผ่านมา ผู้ที่เคยร่วมสุขกลับต้องมาห้ำหั่นกัน\nในขณะที่ศัตรูคู่อาฆาตที่เคยต่อสู้กัน กลับมาร่วมดื่มกัน และความเกลียดชังของพวกเขาได้สลายไป\nดาบล้ำค่าเล่มนี้ได้ถูกแกะสลักขึ้นในเวลานั้น เพื่อมอบเป็นของขวัญล้ำค่าให้กับใครบางคน\nหยกชิ้นนี้ได้ถูกเจียระไนขึ้นเพื่อความสงบสุขและความหรูหรา\n\nเมื่อภาชนะบรรจุไวน์เต็มไปด้วยเลือด ความรู้สึกอันอบอุ่นได้ถูกความทะเยอทะยานอันหนาวเหน็บทำลายไปจนสิ้น เหลือเพียงฝุ่นธุลีที่ปลิวไปตามลม\nของขวัญที่ไม่ได้มอบถึงมือผู้รับ และมิตรภาพที่ยังไม่เอื้อนเอ่ย กลับกลายเป็นดาบแหลมคมที่กั้นอยู่ระหว่างเพื่อนทั้งสอง",
+        "vi": "\nNgười ta nói rằng thuở sơ khai tại Liyue, đế quân từng đi khắp đại lục với một thanh kiếm cắt từ ngọc.\nSau nhiều năm tôi luyện, thanh kiếm xanh ngọc bích tắm máu vẫn sáng bóng như mới,\nMáu đã trôi theo mưa ngàn năm, nhưng bao tâm tư, oán hận đọng lại khó mà rửa trôi.\n\n\"Kết Lục có tâm hồn và sự dịu dàng của nước trong, nó có thể tẩy sạch những mối hận thù cũ còn sót lại trên đó.\"\n\"Nhưng nỗi đau thân hình ngọc bích xinh đẹp bị biến thành vũ khí tàn sát kia ai có thể chữa lành?\"\n\nNgười bạn cũ quên tên từng uất ức thở dài,\nNhưng số phận là thứ không thể ngăn cản, cuối cùng đã nhấn chìm đi những lời bi thương.\n\nTrong những năm tháng dài đằng đẵng, những kẻ thù trong cuộc chiến chết chóc đẫm máu cũng từng nói chuyện vui vẻ với nhau.\nNhững người bạn từng mâu thuẫn, những kẻ thù truyền kiếp với thù hận cũng sẽ gặp nhau để nâng ly và uống say.\nThanh kiếm này cũng được chạm khắc vào thời điểm đó như một món quà cho ai đó,\nViên ngọc bích có tên \"Kết Lục\", được tạo ra vì hòa bình và phú quý.\n\nKhi bình rượu ngập tràn máu, hơi ấm bị dục vọng lạnh lùng xé nát, hóa thành cát bụi và phân tán khắp nơi, \nNhững món quà không thể trao, tình bạn không thể nói ra cũng đã trở thành con dao sắc bén đối với những người bạn cũ."
     }
 }

@@ -14,10 +14,10 @@
         "th": "Lucky Dog's Clover",
         "vi": "Hoa May Mắn"
     },
-    "id": 61444,
+    "id": 61340,
     "setId": 10011,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_BRACER",
-    "rankLevel": 4,
+    "rankLevel": 3,
     "maxLevel": "ITEM_RELIQUARY"
 }

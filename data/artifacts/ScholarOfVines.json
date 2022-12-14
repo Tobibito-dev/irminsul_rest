@@ -14,10 +14,10 @@
         "th": "Scholar of Vines",
         "vi": "Trí Giả Của Rừng Xanh"
     },
-    "id": 23627,
+    "id": 20523,
     "setId": 15025,
     "itemType": "ITEM_RELIQUARY",
     "equipType": "EQUIP_NECKLACE",
-    "rankLevel": 4,
+    "rankLevel": 5,
     "maxLevel": "ITEM_RELIQUARY"
 }
