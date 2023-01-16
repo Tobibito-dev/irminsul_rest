@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15023,
+    "sortId": 80,
+    "equipAffixId": 215023,
+    "name": {
+        "en": "Vermillion Hereafter",
+        "de": "Vergangenheit des Zinnobers"
+    },
+    "icon": "UI_RelicIcon_15023_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5127,
+        5128
+    ],
+    "containsIds": [
+        97442,
+        97422,
+        97452,
+        97412,
+        97432
+    ],
+    "textList": [
+        2550361214,
+        160031931
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "ATK +18%.",
+                "de": "Erhöht den ANG um 18 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                    "value": 0.18000000715255737
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.18000000715255737,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_AttackUpWhenHPdown",
+            "description": {
+                "en": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+                "de": "Verleiht Figuren nach Anwendung von Spezialfähigkeiten den 16 s anhaltenden Effekt „Schleichlicht“: Erhöht den ANG der jeweiligen Figur anfänglich um 8 %. Erhöht den ANG der Figur bei jedem LP-Verlust zusätzlich um 10 %, 0,8 s Abklingzeit. 4 ANG-Boni auf diese Weise möglich. Beendet den Effekt „Schleichlicht“ beim Auswechseln der Figur. Entfernt bei erneuter Anwendung der Spezialfähigkeit während der Wirkungsdauer von „Schleichlicht“ den bisherigen Effekt „Schleichlicht“ vollständig."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                16.0,
+                0.07999999821186066,
+                0.10000000149011612,
+                4.0,
+                0.800000011920929,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Flowering Life",
+            "de": "Essenz des Lebens"
+        },
+        "id": 97543,
+        "icon": "UI_RelicIcon_15023_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Feather of Nascent Light",
+            "de": "Feder des Schleichlichts"
+        },
+        "id": 97523,
+        "icon": "UI_RelicIcon_15023_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Solar Relic",
+            "de": "Relikt der Sonne"
+        },
+        "id": 97553,
+        "icon": "UI_RelicIcon_15023_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Moment of the Pact",
+            "de": "Augenblick des Pakts"
+        },
+        "id": 97513,
+        "icon": "UI_RelicIcon_15023_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Thundering Poise",
+            "de": "Gelassenheit des Donners"
+        },
+        "id": 97533,
+        "icon": "UI_RelicIcon_15023_3"
+    }
+}

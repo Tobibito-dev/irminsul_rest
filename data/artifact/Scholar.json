@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10012,
+    "sortId": 33,
+    "equipAffixId": 210012,
+    "name": {
+        "en": "Scholar",
+        "de": "Gelehrter"
+    },
+    "icon": "UI_RelicIcon_10012_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [],
+    "containsIds": [
+        62140,
+        62120,
+        62150,
+        62110,
+        62130
+    ],
+    "textList": [
+        1407486230,
+        1160154787
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Energy Recharge +20%",
+                "de": "Erhöht die Aufladerate um 20 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                    "value": 0.20000000298023224
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_RestoreEnergyGainExtraEnergyForTeam",
+            "description": {
+                "en": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.",
+                "de": "Stellt allen Truppenmitgliedern mit Bögen und Katalysatoren beim Erhalten von Elementarteilchen und Elementarkristallen zusätzlich 3 Punkte Elementarenergie wieder her. 3 s Abklingzeit."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                3.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Scholar's Bookmark",
+            "de": "Gelehrtenlesezeichen"
+        },
+        "id": 62440,
+        "icon": "UI_RelicIcon_10012_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Scholar's Quill Pen",
+            "de": "Gelehrtenfeder"
+        },
+        "id": 62420,
+        "icon": "UI_RelicIcon_10012_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Scholar's Clock",
+            "de": "Gelehrtentischuhr"
+        },
+        "id": 62450,
+        "icon": "UI_RelicIcon_10012_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Scholar's Ink Cup",
+            "de": "Gelehrten-Tintenfass"
+        },
+        "id": 62410,
+        "icon": "UI_RelicIcon_10012_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Scholar's Lens",
+            "de": "Gelehrtenmonokel"
+        },
+        "id": 62430,
+        "icon": "UI_RelicIcon_10012_3"
+    }
+}

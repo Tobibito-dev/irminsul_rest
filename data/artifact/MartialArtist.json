@@ -1,0 +1,114 @@
+{
+    "templateType": "artifact",
+    "id": 10006,
+    "sortId": 31,
+    "equipAffixId": 210006,
+    "name": {
+        "en": "Martial Artist",
+        "de": "Kampfkünstler"
+    },
+    "icon": "UI_RelicIcon_10006_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [],
+    "containsIds": [
+        56140,
+        56120,
+        56150,
+        56110,
+        56130
+    ],
+    "textList": [
+        2301958078,
+        1744056099
+    ],
+    "setEffects": [
+        {
+            "openConfig": "Relic_AtkAndExtraAtkUp",
+            "description": {
+                "en": "Increases Normal Attack and Charged Attack DMG by 15%.",
+                "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.15000000596046448,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_SkillEnhanceNormalAtkAndExtraAtk",
+            "description": {
+                "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+                "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 s lang um 25 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                8.0,
+                1.0,
+                0.25,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Martial Artist's Red Flower",
+            "de": "Rote Kampfkünstlerblume"
+        },
+        "id": 56440,
+        "icon": "UI_RelicIcon_10006_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Martial Artist's Feather Accessory",
+            "de": "Kampfkünstler-Federschmuck"
+        },
+        "id": 56420,
+        "icon": "UI_RelicIcon_10006_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Martial Artist's Water Hourglass",
+            "de": "Kampfkünstler-Wasseruhr"
+        },
+        "id": 56450,
+        "icon": "UI_RelicIcon_10006_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Martial Artist's Wine Cup",
+            "de": "Kampfkünstler-Weinkelch"
+        },
+        "id": 56410,
+        "icon": "UI_RelicIcon_10006_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Martial Artist's Bandana",
+            "de": "Kampfkünstler-Kopftuch"
+        },
+        "id": 56430,
+        "icon": "UI_RelicIcon_10006_3"
+    }
+}

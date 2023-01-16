@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15016,
+    "sortId": 67,
+    "equipAffixId": 215016,
+    "name": {
+        "en": "Heart of Depth",
+        "de": "Tief im Herzen"
+    },
+    "icon": "UI_RelicIcon_15016_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5122,
+        5123
+    ],
+    "containsIds": [
+        90340,
+        90320,
+        90350,
+        90310,
+        90330
+    ],
+    "textList": [
+        744843214,
+        2102945267
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Hydro DMG Bonus +15%",
+                "de": "Erhöht den Hydro-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_WaterSkillEnhanceNormalAtkAndExtraAtk",
+            "description": {
+                "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+                "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 15 s lang um 30 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                1.0,
+                15.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Gilded Corsage",
+            "de": "Vergoldete Brosche"
+        },
+        "id": 90540,
+        "icon": "UI_RelicIcon_15016_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Gust of Nostalgia",
+            "de": "Nostalgische Brise"
+        },
+        "id": 90520,
+        "icon": "UI_RelicIcon_15016_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Copper Compass",
+            "de": "Kupferkompass"
+        },
+        "id": 90550,
+        "icon": "UI_RelicIcon_15016_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Goblet of Thundering Deep",
+            "de": "Kelch der hohen Wellen"
+        },
+        "id": 90510,
+        "icon": "UI_RelicIcon_15016_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Wine-Stained Tricorne",
+            "de": "Weinverschmierte Kapitänsmütze"
+        },
+        "id": 90530,
+        "icon": "UI_RelicIcon_15016_3"
+    }
+}

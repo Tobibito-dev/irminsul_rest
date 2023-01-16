@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10003,
+    "sortId": 29,
+    "equipAffixId": 210003,
+    "name": {
+        "en": "Defender's Will",
+        "de": "Beschützerinstinkt"
+    },
+    "icon": "UI_RelicIcon_10003_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [],
+    "containsIds": [
+        53140,
+        53120,
+        53150,
+        53110,
+        53130
+    ],
+    "textList": [
+        232496686,
+        594914603
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "DEF +30%",
+                "de": "Erhöht die VTD um 30 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+                    "value": 0.30000001192092896
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_AbsorbTeamElemResist",
+            "description": {
+                "en": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
+                "de": "Erhöht für jedes unterschiedliche Element der eigenen Figuren in der Truppe den eigenen WDS des jeweiligen Elements um 30 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Guardian's Flower",
+            "de": "Wächterblume"
+        },
+        "id": 53440,
+        "icon": "UI_RelicIcon_10003_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Guardian's Sigil",
+            "de": "Wächterabzeichen"
+        },
+        "id": 53420,
+        "icon": "UI_RelicIcon_10003_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Guardian's Clock",
+            "de": "Wächtertischuhr"
+        },
+        "id": 53450,
+        "icon": "UI_RelicIcon_10003_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Guardian's Vessel",
+            "de": "Wächterflachmann"
+        },
+        "id": 53410,
+        "icon": "UI_RelicIcon_10003_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Guardian's Band",
+            "de": "Wächterband"
+        },
+        "id": 53430,
+        "icon": "UI_RelicIcon_10003_3"
+    }
+}

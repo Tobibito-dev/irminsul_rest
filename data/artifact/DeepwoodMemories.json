@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15025,
+    "sortId": 84,
+    "equipAffixId": 215025,
+    "name": {
+        "en": "Deepwood Memories",
+        "de": "Erinnerungen des tiefen Waldes"
+    },
+    "icon": "UI_RelicIcon_15025_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5052,
+        5053
+    ],
+    "containsIds": [
+        20442,
+        20422,
+        20452,
+        20412,
+        20432
+    ],
+    "textList": [
+        235669822,
+        2351156307
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Dendro DMG Bonus +15%.",
+                "de": "Erhöht den Dendro-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.15000000596046448,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ReactionGrassEnhance",
+            "description": {
+                "en": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+                "de": "Verringert nach Treffern mit der Elementarfähigkeit oder Spezialfähigkeit den Dendro-WDS des Ziels 8 s lang um 30 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                8.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Labyrinth Wayfarer",
+            "de": "Besucher des Labyrinths"
+        },
+        "id": 20543,
+        "icon": "UI_RelicIcon_15025_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Scholar of Vines",
+            "de": "Weiser des Dickichts"
+        },
+        "id": 20523,
+        "icon": "UI_RelicIcon_15025_2"
+    },
+    "sands": {
+        "name": {
+            "en": "A Time of Insight",
+            "de": "Zeitmesser der Weisheit"
+        },
+        "id": 20553,
+        "icon": "UI_RelicIcon_15025_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Lamp of the Lost",
+            "de": "Lampe des Verirrten"
+        },
+        "id": 20513,
+        "icon": "UI_RelicIcon_15025_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Laurel Coronet",
+            "de": "Unschätzbarer Lorbeerkranz"
+        },
+        "id": 20533,
+        "icon": "UI_RelicIcon_15025_3"
+    }
+}

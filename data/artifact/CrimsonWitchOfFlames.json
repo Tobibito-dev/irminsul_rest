@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15006,
+    "sortId": 62,
+    "equipAffixId": 215006,
+    "name": {
+        "en": "Crimson Witch of Flames",
+        "de": "Brennende Pyro-Hexe"
+    },
+    "icon": "UI_RelicIcon_15006_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5109,
+        5110
+    ],
+    "containsIds": [
+        80340,
+        80320,
+        80350,
+        80310,
+        80330
+    ],
+    "textList": [
+        2097515030,
+        731621371
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Pyro DMG Bonus +15%",
+                "de": "Erhöht den Pyro-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ReactionFireEnhance",
+            "description": {
+                "en": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+                "de": "Erhöht den mit den Reaktionen „Überladen“, „In Flammen“ und „Flammenspross“ verursachten Schaden um 40 % und den den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.4000000059604645,
+                0.15000000596046448,
+                0.15000000596046448,
+                0.5,
+                10.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Witch's Flower of Blaze",
+            "de": "Blume der Pyro-Hexe"
+        },
+        "id": 80540,
+        "icon": "UI_RelicIcon_15006_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Witch's Ever-Burning Plume",
+            "de": "Feder der Pyro-Hexe"
+        },
+        "id": 80520,
+        "icon": "UI_RelicIcon_15006_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Witch's End Time",
+            "de": "Stunde der Vernichtung"
+        },
+        "id": 80550,
+        "icon": "UI_RelicIcon_15006_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Witch's Heart Flames",
+            "de": "Herz der Pyro-Hexe"
+        },
+        "id": 80510,
+        "icon": "UI_RelicIcon_15006_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Witch's Scorching Hat",
+            "de": "Brennender Hexenhut"
+        },
+        "id": 80530,
+        "icon": "UI_RelicIcon_15006_3"
+    }
+}

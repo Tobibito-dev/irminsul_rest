@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15026,
+    "sortId": 85,
+    "equipAffixId": 215026,
+    "name": {
+        "en": "Gilded Dreams",
+        "de": "Vergoldeter Traum"
+    },
+    "icon": "UI_RelicIcon_15026_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5052,
+        5053
+    ],
+    "containsIds": [
+        21442,
+        21422,
+        21452,
+        21412,
+        21432
+    ],
+    "textList": [
+        1245570190,
+        2786980939
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Increases Elemental Mastery by 80.",
+                "de": "Erhöht die Elementarkunde um 80 Punkte."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                    "value": 80.0
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                80.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ElemMasteryGathering",
+            "description": {
+                "en": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+                "de": "Verleiht der damit ausgerüsteten Figur nach Auslösen einer Elementarreaktion entsprechend den Elementartypen anderer Figuren in der Truppe unterschiedliche Boni, die 8 s halten: Die Anwesenheit von je 1 Figur des gleichen Elementartyps erhöht den ANG um 14 %. Die Anwesenheit von je 1 Figur unterschiedlichen Elementartyps erhöht die Elementarkunde um 50 Punkte. Für jeden dieser Boni werden bis zu 3 Figuren mit gleichem oder unterschiedlichem Elementartyp gewertet. Diese Effekte treten auch in Kraft, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist, 8 s Abklingzeit."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.14000000059604645,
+                50.0,
+                8.0,
+                8.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Dreaming Steelbloom",
+            "de": "Metallblüte im Traum"
+        },
+        "id": 21543,
+        "icon": "UI_RelicIcon_15026_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Feather of Judgment",
+            "de": "Feder des Urteils"
+        },
+        "id": 21523,
+        "icon": "UI_RelicIcon_15026_2"
+    },
+    "sands": {
+        "name": {
+            "en": "The Sunken Years",
+            "de": "Goldene Jahre"
+        },
+        "id": 21553,
+        "icon": "UI_RelicIcon_15026_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Honeyed Final Feast",
+            "de": "Honigsüßes Abschlussfest"
+        },
+        "id": 21513,
+        "icon": "UI_RelicIcon_15026_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Shadow of the Sand King",
+            "de": "Schatten des Sandkönigs"
+        },
+        "id": 21533,
+        "icon": "UI_RelicIcon_15026_3"
+    }
+}

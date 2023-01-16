@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10013,
+    "sortId": 9,
+    "equipAffixId": 210013,
+    "name": {
+        "en": "Traveling Doctor",
+        "de": "Wanderarzt"
+    },
+    "icon": "UI_RelicIcon_10013_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [],
+    "containsIds": [
+        63140,
+        63120,
+        63150,
+        63110,
+        63130
+    ],
+    "textList": [
+        568790406,
+        3607087251
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Increases incoming healing by 20%.",
+                "de": "Erhöht den passiven Heileffekt der Figur um 20 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_HEALED_ADD",
+                    "value": 0.20000000298023224
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_UltHealSelf",
+            "description": {
+                "en": "Using Elemental Burst restores 20% HP.",
+                "de": "Stellt bei Anwendung von Spezialfähigkeiten 20 % LP wieder her."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Traveling Doctor's Silver Lotus",
+            "de": "Wanderarztanemone"
+        },
+        "id": 63340,
+        "icon": "UI_RelicIcon_10013_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Traveling Doctor's Owl Feather",
+            "de": "Wanderarzt-Eulenfeder"
+        },
+        "id": 63320,
+        "icon": "UI_RelicIcon_10013_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Traveling Doctor's Pocket Watch",
+            "de": "Wanderarzt-Taschenuhr"
+        },
+        "id": 63350,
+        "icon": "UI_RelicIcon_10013_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Traveling Doctor's Medicine Pot",
+            "de": "Wanderarztkrug"
+        },
+        "id": 63310,
+        "icon": "UI_RelicIcon_10013_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Traveling Doctor's Handkerchief",
+            "de": "Wanderarzttuch"
+        },
+        "id": 63330,
+        "icon": "UI_RelicIcon_10013_3"
+    }
+}

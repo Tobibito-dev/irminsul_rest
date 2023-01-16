@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15027,
+    "sortId": 88,
+    "equipAffixId": 215027,
+    "name": {
+        "en": "Desert Pavilion Chronicle",
+        "de": "Chronik des Wüstenpavillons"
+    },
+    "icon": "UI_RelicIcon_15027_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5062,
+        5063
+    ],
+    "containsIds": [
+        27442,
+        27422,
+        27452,
+        27412,
+        27432
+    ],
+    "textList": [
+        294255758,
+        4086792275
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Anemo DMG Bonus +15%",
+                "de": "Erhöht den Anemo-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.15000000596046448,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ExtraAttackCauseSpeedAndDamage",
+            "description": {
+                "en": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
+                "de": "Erhöht die Standardangriffs-GSW der damit ausgerüsteten Figur nach dem Treffen von Gegnern mit heftigen Schlägen um 10 % und erhöht den von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 40 %, hält 15 s."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.10000000149011612,
+                0.4000000059604645,
+                15.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "The First Days of the City of Kings",
+            "de": "Erste Tage der Stadt der Könige"
+        },
+        "id": 27543,
+        "icon": "UI_RelicIcon_15027_4"
+    },
+    "feather": {
+        "name": {
+            "en": "End of the Golden Realm",
+            "de": "Ende des goldenen Reiches"
+        },
+        "id": 27523,
+        "icon": "UI_RelicIcon_15027_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Timepiece of the Lost Path",
+            "de": "Zeitmesser des verlorenen Pfades"
+        },
+        "id": 27553,
+        "icon": "UI_RelicIcon_15027_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Defender of the Enchanting Dream",
+            "de": "Verteidiger des verzaubernden Traums"
+        },
+        "id": 27513,
+        "icon": "UI_RelicIcon_15027_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Legacy of the Desert High-Born",
+            "de": "Erbe der Hochwohlgeborenen der Wüste"
+        },
+        "id": 27533,
+        "icon": "UI_RelicIcon_15027_3"
+    }
+}

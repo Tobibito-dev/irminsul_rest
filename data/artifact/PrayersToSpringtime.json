@@ -1,0 +1,81 @@
+{
+    "templateType": "artifact",
+    "id": 15013,
+    "sortId": 37,
+    "equipAffixId": 215013,
+    "name": {
+        "en": "Prayers to Springtime",
+        "de": "Eisopfer"
+    },
+    "icon": "UI_RelicIcon_15013_3",
+    "setRequirement": [
+        1
+    ],
+    "setAbilities": [],
+    "containsIds": [
+        87330
+    ],
+    "textList": [
+        2222490622,
+        3773807931
+    ],
+    "setEffects": [
+        {
+            "openConfig": "Relic_IceResistance",
+            "description": {
+                "en": "Affected by Cryo for 40% less time.",
+                "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kryo-Attribut um 40 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.4000000059604645,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Doesn't exist on this Item",
+            "description": "Doesn't exist on this Item",
+            "props": "Doesn't exist on this Item",
+            "parameters": "Doesn't exist on this Item",
+            "level": "Doesn't exist on this Item"
+        }
+    ],
+    "flower": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "feather": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "sands": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "goblet": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "circlet": {
+        "name": {
+            "en": "Tiara of Frost",
+            "de": "Eisopferdiadem"
+        },
+        "id": 87430,
+        "icon": "UI_RelicIcon_15013_3"
+    }
+}

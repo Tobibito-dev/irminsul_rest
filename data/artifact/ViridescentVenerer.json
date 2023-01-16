@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15002,
+    "sortId": 59,
+    "equipAffixId": 215002,
+    "name": {
+        "en": "Viridescent Venerer",
+        "de": "Grünlicher Schatten"
+    },
+    "icon": "UI_RelicIcon_15002_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5011,
+        5012
+    ],
+    "containsIds": [
+        76340,
+        76320,
+        76350,
+        76310,
+        76330
+    ],
+    "textList": [
+        3418857494,
+        3906211907
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Anemo DMG Bonus +15%",
+                "de": "Erhöht den Anemo-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ReactionWindEnhance",
+            "description": {
+                "en": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+                "de": "Erhöht den mit Verwirbelungen verursachten Schaden um 60 %. Verringert den dem jeweiligen Element in der Verwirbelung entsprechenden WDS des betroffenen Gegners 10 s lang um 40 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.6000000238418579,
+                0.4000000059604645,
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "In Remembrance of Viridescent Fields",
+            "de": "Feldjägerblume"
+        },
+        "id": 76540,
+        "icon": "UI_RelicIcon_15002_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Viridescent Arrow Feather",
+            "de": "Feldjäger-Pfeilfeder"
+        },
+        "id": 76520,
+        "icon": "UI_RelicIcon_15002_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Viridescent Venerer's Determination",
+            "de": "Gelassenheit des Feldjägers"
+        },
+        "id": 76550,
+        "icon": "UI_RelicIcon_15002_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Viridescent Venerer's Vessel",
+            "de": "Feldjäger-Flachmann"
+        },
+        "id": 76510,
+        "icon": "UI_RelicIcon_15002_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Viridescent Venerer's Diadem",
+            "de": "Feldjägerhut"
+        },
+        "id": 76530,
+        "icon": "UI_RelicIcon_15002_3"
+    }
+}

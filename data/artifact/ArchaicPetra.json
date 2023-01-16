@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15014,
+    "sortId": 65,
+    "equipAffixId": 215014,
+    "name": {
+        "en": "Archaic Petra",
+        "de": "Archaischer Fels"
+    },
+    "icon": "UI_RelicIcon_15014_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5104,
+        5105
+    ],
+    "containsIds": [
+        88340,
+        88320,
+        88350,
+        88310,
+        88330
+    ],
+    "textList": [
+        2664577174,
+        592694043
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Gain a 15% Geo DMG Bonus.",
+                "de": "Erhöht den Geo-Schaden um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_ElementDmgUpAfterCrystalShield",
+            "description": {
+                "en": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+                "de": "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.3499999940395355,
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Flower of Creviced Cliff",
+            "de": "Blüte der splitternden Felsen"
+        },
+        "id": 88540,
+        "icon": "UI_RelicIcon_15014_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Feather of Jagged Peaks",
+            "de": "Flügel der luftigen Gipfel"
+        },
+        "id": 88520,
+        "icon": "UI_RelicIcon_15014_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Sundial of Enduring Jade",
+            "de": "Sonnenuhr der düsteren Jade"
+        },
+        "id": 88550,
+        "icon": "UI_RelicIcon_15014_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Goblet of Chiseled Crag",
+            "de": "Krug aus Felsgestein"
+        },
+        "id": 88510,
+        "icon": "UI_RelicIcon_15014_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Mask of Solitude Basalt",
+            "de": "Maske des starren Gesteins"
+        },
+        "id": 88530,
+        "icon": "UI_RelicIcon_15014_3"
+    }
+}

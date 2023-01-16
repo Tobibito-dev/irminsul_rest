@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15018,
+    "sortId": 69,
+    "equipAffixId": 215018,
+    "name": {
+        "en": "Pale Flame",
+        "de": "Fahle Flammen"
+    },
+    "icon": "UI_RelicIcon_15018_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5016,
+        5017
+    ],
+    "containsIds": [
+        92340,
+        92320,
+        92350,
+        92310,
+        92330
+    ],
+    "textList": [
+        3846340430,
+        220839051
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Physical DMG is increased by 25%.",
+                "de": "Erhöht den verursachten physischen Schaden um 25 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                    "value": 0.25
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_AttackUpWhenNormalAtkAndExtraAtkHit",
+            "description": {
+                "en": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+                "de": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 7 s lang um 9 %, 2-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Effekt des Sets mit 2 Teilen beim Erreichen des Limits von 2 Stapelungen um 100 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.09000000357627869,
+                7.0,
+                0.30000001192092896,
+                0.25,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Stainless Bloom",
+            "de": "Blume der Reinheit"
+        },
+        "id": 92540,
+        "icon": "UI_RelicIcon_15018_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Wise Doctor's Pinion",
+            "de": "Feder der Genesung"
+        },
+        "id": 92520,
+        "icon": "UI_RelicIcon_15018_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Moment of Cessation",
+            "de": "Uhr des Stillstands"
+        },
+        "id": 92550,
+        "icon": "UI_RelicIcon_15018_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Surpassing Cup",
+            "de": "Kelch der Überbietung"
+        },
+        "id": 92510,
+        "icon": "UI_RelicIcon_15018_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Mocking Mask",
+            "de": "Maske der Heiterkeit"
+        },
+        "id": 92530,
+        "icon": "UI_RelicIcon_15018_3"
+    }
+}

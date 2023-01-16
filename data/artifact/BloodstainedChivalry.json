@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 15008,
+    "sortId": 64,
+    "equipAffixId": 215008,
+    "name": {
+        "en": "Bloodstained Chivalry",
+        "de": "Blutiger Weg eines Ritters"
+    },
+    "icon": "UI_RelicIcon_15008_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5113,
+        5114
+    ],
+    "containsIds": [
+        82340,
+        82320,
+        82350,
+        82310,
+        82330
+    ],
+    "textList": [
+        3776130198,
+        2723354699
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Physical DMG +25%",
+                "de": "Erhöht den verursachten physischen Schaden um 25 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                    "value": 0.25
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_KillEnhanceExtraAtk",
+            "description": {
+                "en": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+                "de": "Verbraucht beim Besiegen von Gegnern 10 s lang für die Anwendung von heftigen Schlägen keine Ausdauer und erhöht den mit heftigen Schlägen verursachten Schaden um 50 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                10.0,
+                0.5,
+                -5.0,
+                0.10000000149011612,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Bloodstained Flower of Iron",
+            "de": "Herz des Blutbefleckten"
+        },
+        "id": 82540,
+        "icon": "UI_RelicIcon_15008_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Bloodstained Black Plume",
+            "de": "Feder des Blutbefleckten"
+        },
+        "id": 82520,
+        "icon": "UI_RelicIcon_15008_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Bloodstained Final Hour",
+            "de": "Uhr des Blutbefleckten"
+        },
+        "id": 82550,
+        "icon": "UI_RelicIcon_15008_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Bloodstained Chevalier's Goblet",
+            "de": "Kelch des Blutbefleckten"
+        },
+        "id": 82510,
+        "icon": "UI_RelicIcon_15008_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Bloodstained Iron Mask",
+            "de": "Eisenmaske des Blutbefleckten"
+        },
+        "id": 82530,
+        "icon": "UI_RelicIcon_15008_3"
+    }
+}

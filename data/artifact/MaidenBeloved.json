@@ -1,0 +1,120 @@
+{
+    "templateType": "artifact",
+    "id": 14004,
+    "sortId": 57,
+    "equipAffixId": 214004,
+    "name": {
+        "en": "Maiden Beloved",
+        "de": "Ins Herz geschlossenes Mädchen"
+    },
+    "icon": "UI_RelicIcon_14004_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": [
+        5011,
+        5012
+    ],
+    "containsIds": [
+        74340,
+        74320,
+        74350,
+        74310,
+        74330
+    ],
+    "textList": [
+        401042630,
+        150564555
+    ],
+    "setEffects": [
+        {
+            "openConfig": "",
+            "description": {
+                "en": "Character Healing Effectiveness +15%",
+                "de": "Erhöht den aktiven Heileffekt der Figur um 15 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_HEAL_ADD",
+                    "value": 0.15000000596046448
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "openConfig": "Relic_SkillEnhanceCured",
+            "description": {
+                "en": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+                "de": "Erhöht den passiven Heilungseffekt aller Truppenmitglieder nach Anwendung von Elementarfähigkeiten oder Spezialfähigkeiten 10 s lang um 20 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "level": 1
+        }
+    ],
+    "flower": {
+        "name": {
+            "en": "Maiden's Distant Love",
+            "de": "Kindlichkeit der Maid"
+        },
+        "id": 74540,
+        "icon": "UI_RelicIcon_14004_4"
+    },
+    "feather": {
+        "name": {
+            "en": "Maiden's Heart-Stricken Infatuation",
+            "de": "Sehnsucht der Maid"
+        },
+        "id": 74520,
+        "icon": "UI_RelicIcon_14004_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Maiden's Passing Youth",
+            "de": "Morgen der Maid"
+        },
+        "id": 74550,
+        "icon": "UI_RelicIcon_14004_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Maiden's Fleeting Leisure",
+            "de": "Muße der Maid"
+        },
+        "id": 74510,
+        "icon": "UI_RelicIcon_14004_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Maiden's Fading Beauty",
+            "de": "Vergänglichkeit der Maid"
+        },
+        "id": 74530,
+        "icon": "UI_RelicIcon_14004_3"
+    }
+}
