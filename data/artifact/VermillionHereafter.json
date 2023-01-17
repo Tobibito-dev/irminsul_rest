@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15023,
     "sortId": 80,
-    "equipAffixId": 215023,
     "name": {
         "en": "Vermillion Hereafter",
         "de": "Vergangenheit des Zinnobers"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5127,
-        5128
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         97442,
         97422,
@@ -27,8 +23,8 @@
         2550361214,
         160031931
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "ATK +18%.",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_AttackUpWhenHPdown",
             "description": {
                 "en": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Flowering Life",
-            "de": "Essenz des Lebens"
-        },
-        "id": 97543,
-        "icon": "UI_RelicIcon_15023_4"
     },
-    "feather": {
-        "name": {
-            "en": "Feather of Nascent Light",
-            "de": "Feder des Schleichlichts"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Flowering Life",
+                "de": "Essenz des Lebens"
+            },
+            "id": 97543,
+            "icon": "UI_RelicIcon_15023_4"
         },
-        "id": 97523,
-        "icon": "UI_RelicIcon_15023_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Solar Relic",
-            "de": "Relikt der Sonne"
+        "feather": {
+            "name": {
+                "en": "Feather of Nascent Light",
+                "de": "Feder des Schleichlichts"
+            },
+            "id": 97523,
+            "icon": "UI_RelicIcon_15023_2"
         },
-        "id": 97553,
-        "icon": "UI_RelicIcon_15023_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Moment of the Pact",
-            "de": "Augenblick des Pakts"
+        "sands": {
+            "name": {
+                "en": "Solar Relic",
+                "de": "Relikt der Sonne"
+            },
+            "id": 97553,
+            "icon": "UI_RelicIcon_15023_5"
         },
-        "id": 97513,
-        "icon": "UI_RelicIcon_15023_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Thundering Poise",
-            "de": "Gelassenheit des Donners"
+        "goblet": {
+            "name": {
+                "en": "Moment of the Pact",
+                "de": "Augenblick des Pakts"
+            },
+            "id": 97513,
+            "icon": "UI_RelicIcon_15023_1"
         },
-        "id": 97533,
-        "icon": "UI_RelicIcon_15023_3"
+        "circlet": {
+            "name": {
+                "en": "Thundering Poise",
+                "de": "Gelassenheit des Donners"
+            },
+            "id": 97533,
+            "icon": "UI_RelicIcon_15023_3"
+        }
     }
 }

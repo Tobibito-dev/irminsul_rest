@@ -999,7 +999,7 @@
                 "value": 9.092000007629395,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1009,7 +1009,7 @@
                 "value": 9.173999786376953,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

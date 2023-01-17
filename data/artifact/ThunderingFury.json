@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15005,
     "sortId": 61,
-    "equipAffixId": 215005,
     "name": {
         "en": "Thundering Fury",
         "de": "Donnernder Zorn"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5005,
-        5006
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         79340,
         79320,
@@ -27,8 +23,8 @@
         1140176206,
         580927259
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Electro DMG Bonus +15%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_ReactionElectricEnhance",
             "description": {
                 "en": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Thunderbird's Mercy",
-            "de": "Erbarmen des Donnervogels"
-        },
-        "id": 79540,
-        "icon": "UI_RelicIcon_15005_4"
     },
-    "feather": {
-        "name": {
-            "en": "Survivor of Catastrophe",
-            "de": "Überlebende des Unwetters"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Thunderbird's Mercy",
+                "de": "Erbarmen des Donnervogels"
+            },
+            "id": 79540,
+            "icon": "UI_RelicIcon_15005_4"
         },
-        "id": 79520,
-        "icon": "UI_RelicIcon_15005_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Hourglass of Thunder",
-            "de": "Donneruhr"
+        "feather": {
+            "name": {
+                "en": "Survivor of Catastrophe",
+                "de": "Überlebende des Unwetters"
+            },
+            "id": 79520,
+            "icon": "UI_RelicIcon_15005_2"
         },
-        "id": 79550,
-        "icon": "UI_RelicIcon_15005_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Omen of Thunderstorm",
-            "de": "Omen des Blitzes"
+        "sands": {
+            "name": {
+                "en": "Hourglass of Thunder",
+                "de": "Donneruhr"
+            },
+            "id": 79550,
+            "icon": "UI_RelicIcon_15005_5"
         },
-        "id": 79510,
-        "icon": "UI_RelicIcon_15005_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Thunder Summoner's Crown",
-            "de": "Donnerkrone"
+        "goblet": {
+            "name": {
+                "en": "Omen of Thunderstorm",
+                "de": "Omen des Blitzes"
+            },
+            "id": 79510,
+            "icon": "UI_RelicIcon_15005_1"
         },
-        "id": 79530,
-        "icon": "UI_RelicIcon_15005_3"
+        "circlet": {
+            "name": {
+                "en": "Thunder Summoner's Crown",
+                "de": "Donnerkrone"
+            },
+            "id": 79530,
+            "icon": "UI_RelicIcon_15005_3"
+        }
     }
 }

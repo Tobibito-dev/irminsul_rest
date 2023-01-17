@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 14003,
     "sortId": 56,
-    "equipAffixId": 214003,
     "name": {
         "en": "Lavawalker",
         "de": "Feuer durchwandernder Heiliger"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5109,
-        5110
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         73340,
         73320,
@@ -27,8 +23,8 @@
         351271598,
         2828057235
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Pyro RES increased by 40%.",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_DamageUpAgainstFireAndBurning",
             "description": {
                 "en": "Increases DMG against opponents affected by Pyro by 35%.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Lavawalker's Resolution",
-            "de": "Entschlossenheit des Lavaläufers"
-        },
-        "id": 73540,
-        "icon": "UI_RelicIcon_14003_4"
     },
-    "feather": {
-        "name": {
-            "en": "Lavawalker's Salvation",
-            "de": "Entsagung des Lavaläufers"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Lavawalker's Resolution",
+                "de": "Entschlossenheit des Lavaläufers"
+            },
+            "id": 73540,
+            "icon": "UI_RelicIcon_14003_4"
         },
-        "id": 73520,
-        "icon": "UI_RelicIcon_14003_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Lavawalker's Torment",
-            "de": "Mühsal des Lavaläufers"
+        "feather": {
+            "name": {
+                "en": "Lavawalker's Salvation",
+                "de": "Entsagung des Lavaläufers"
+            },
+            "id": 73520,
+            "icon": "UI_RelicIcon_14003_2"
         },
-        "id": 73550,
-        "icon": "UI_RelicIcon_14003_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Lavawalker's Epiphany",
-            "de": "Erleuchtung des Lavaläufers"
+        "sands": {
+            "name": {
+                "en": "Lavawalker's Torment",
+                "de": "Mühsal des Lavaläufers"
+            },
+            "id": 73550,
+            "icon": "UI_RelicIcon_14003_5"
         },
-        "id": 73510,
-        "icon": "UI_RelicIcon_14003_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Lavawalker's Wisdom",
-            "de": "Vernunft des Lavaläufers"
+        "goblet": {
+            "name": {
+                "en": "Lavawalker's Epiphany",
+                "de": "Erleuchtung des Lavaläufers"
+            },
+            "id": 73510,
+            "icon": "UI_RelicIcon_14003_1"
         },
-        "id": 73530,
-        "icon": "UI_RelicIcon_14003_3"
+        "circlet": {
+            "name": {
+                "en": "Lavawalker's Wisdom",
+                "de": "Vernunft des Lavaläufers"
+            },
+            "id": 73530,
+            "icon": "UI_RelicIcon_14003_3"
+        }
     }
 }

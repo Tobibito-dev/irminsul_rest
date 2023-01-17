@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15027,
     "sortId": 88,
-    "equipAffixId": 215027,
     "name": {
         "en": "Desert Pavilion Chronicle",
         "de": "Chronik des Wüstenpavillons"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5062,
-        5063
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         27442,
         27422,
@@ -27,8 +23,8 @@
         294255758,
         4086792275
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Anemo DMG Bonus +15%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_ExtraAttackCauseSpeedAndDamage",
             "description": {
                 "en": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "The First Days of the City of Kings",
-            "de": "Erste Tage der Stadt der Könige"
-        },
-        "id": 27543,
-        "icon": "UI_RelicIcon_15027_4"
     },
-    "feather": {
-        "name": {
-            "en": "End of the Golden Realm",
-            "de": "Ende des goldenen Reiches"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "The First Days of the City of Kings",
+                "de": "Erste Tage der Stadt der Könige"
+            },
+            "id": 27543,
+            "icon": "UI_RelicIcon_15027_4"
         },
-        "id": 27523,
-        "icon": "UI_RelicIcon_15027_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Timepiece of the Lost Path",
-            "de": "Zeitmesser des verlorenen Pfades"
+        "feather": {
+            "name": {
+                "en": "End of the Golden Realm",
+                "de": "Ende des goldenen Reiches"
+            },
+            "id": 27523,
+            "icon": "UI_RelicIcon_15027_2"
         },
-        "id": 27553,
-        "icon": "UI_RelicIcon_15027_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Defender of the Enchanting Dream",
-            "de": "Verteidiger des verzaubernden Traums"
+        "sands": {
+            "name": {
+                "en": "Timepiece of the Lost Path",
+                "de": "Zeitmesser des verlorenen Pfades"
+            },
+            "id": 27553,
+            "icon": "UI_RelicIcon_15027_5"
         },
-        "id": 27513,
-        "icon": "UI_RelicIcon_15027_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Legacy of the Desert High-Born",
-            "de": "Erbe der Hochwohlgeborenen der Wüste"
+        "goblet": {
+            "name": {
+                "en": "Defender of the Enchanting Dream",
+                "de": "Verteidiger des verzaubernden Traums"
+            },
+            "id": 27513,
+            "icon": "UI_RelicIcon_15027_1"
         },
-        "id": 27533,
-        "icon": "UI_RelicIcon_15027_3"
+        "circlet": {
+            "name": {
+                "en": "Legacy of the Desert High-Born",
+                "de": "Erbe der Hochwohlgeborenen der Wüste"
+            },
+            "id": 27533,
+            "icon": "UI_RelicIcon_15027_3"
+        }
     }
 }

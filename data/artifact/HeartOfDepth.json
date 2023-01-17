@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15016,
     "sortId": 67,
-    "equipAffixId": 215016,
     "name": {
         "en": "Heart of Depth",
         "de": "Tief im Herzen"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5122,
-        5123
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         90340,
         90320,
@@ -27,8 +23,8 @@
         744843214,
         2102945267
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Hydro DMG Bonus +15%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_WaterSkillEnhanceNormalAtkAndExtraAtk",
             "description": {
                 "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Gilded Corsage",
-            "de": "Vergoldete Brosche"
-        },
-        "id": 90540,
-        "icon": "UI_RelicIcon_15016_4"
     },
-    "feather": {
-        "name": {
-            "en": "Gust of Nostalgia",
-            "de": "Nostalgische Brise"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Gilded Corsage",
+                "de": "Vergoldete Brosche"
+            },
+            "id": 90540,
+            "icon": "UI_RelicIcon_15016_4"
         },
-        "id": 90520,
-        "icon": "UI_RelicIcon_15016_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Copper Compass",
-            "de": "Kupferkompass"
+        "feather": {
+            "name": {
+                "en": "Gust of Nostalgia",
+                "de": "Nostalgische Brise"
+            },
+            "id": 90520,
+            "icon": "UI_RelicIcon_15016_2"
         },
-        "id": 90550,
-        "icon": "UI_RelicIcon_15016_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Goblet of Thundering Deep",
-            "de": "Kelch der hohen Wellen"
+        "sands": {
+            "name": {
+                "en": "Copper Compass",
+                "de": "Kupferkompass"
+            },
+            "id": 90550,
+            "icon": "UI_RelicIcon_15016_5"
         },
-        "id": 90510,
-        "icon": "UI_RelicIcon_15016_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Wine-Stained Tricorne",
-            "de": "Weinverschmierte Kapitänsmütze"
+        "goblet": {
+            "name": {
+                "en": "Goblet of Thundering Deep",
+                "de": "Kelch der hohen Wellen"
+            },
+            "id": 90510,
+            "icon": "UI_RelicIcon_15016_1"
         },
-        "id": 90530,
-        "icon": "UI_RelicIcon_15016_3"
+        "circlet": {
+            "name": {
+                "en": "Wine-Stained Tricorne",
+                "de": "Weinverschmierte Kapitänsmütze"
+            },
+            "id": 90530,
+            "icon": "UI_RelicIcon_15016_3"
+        }
     }
 }

@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 14004,
     "sortId": 57,
-    "equipAffixId": 214004,
     "name": {
         "en": "Maiden Beloved",
         "de": "Ins Herz geschlossenes Mädchen"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5011,
-        5012
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         74340,
         74320,
@@ -27,8 +23,8 @@
         401042630,
         150564555
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Character Healing Effectiveness +15%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_SkillEnhanceCured",
             "description": {
                 "en": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Maiden's Distant Love",
-            "de": "Kindlichkeit der Maid"
-        },
-        "id": 74540,
-        "icon": "UI_RelicIcon_14004_4"
     },
-    "feather": {
-        "name": {
-            "en": "Maiden's Heart-Stricken Infatuation",
-            "de": "Sehnsucht der Maid"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Maiden's Distant Love",
+                "de": "Kindlichkeit der Maid"
+            },
+            "id": 74540,
+            "icon": "UI_RelicIcon_14004_4"
         },
-        "id": 74520,
-        "icon": "UI_RelicIcon_14004_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Maiden's Passing Youth",
-            "de": "Morgen der Maid"
+        "feather": {
+            "name": {
+                "en": "Maiden's Heart-Stricken Infatuation",
+                "de": "Sehnsucht der Maid"
+            },
+            "id": 74520,
+            "icon": "UI_RelicIcon_14004_2"
         },
-        "id": 74550,
-        "icon": "UI_RelicIcon_14004_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Maiden's Fleeting Leisure",
-            "de": "Muße der Maid"
+        "sands": {
+            "name": {
+                "en": "Maiden's Passing Youth",
+                "de": "Morgen der Maid"
+            },
+            "id": 74550,
+            "icon": "UI_RelicIcon_14004_5"
         },
-        "id": 74510,
-        "icon": "UI_RelicIcon_14004_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Maiden's Fading Beauty",
-            "de": "Vergänglichkeit der Maid"
+        "goblet": {
+            "name": {
+                "en": "Maiden's Fleeting Leisure",
+                "de": "Muße der Maid"
+            },
+            "id": 74510,
+            "icon": "UI_RelicIcon_14004_1"
         },
-        "id": 74530,
-        "icon": "UI_RelicIcon_14004_3"
+        "circlet": {
+            "name": {
+                "en": "Maiden's Fading Beauty",
+                "de": "Vergänglichkeit der Maid"
+            },
+            "id": 74530,
+            "icon": "UI_RelicIcon_14004_3"
+        }
     }
 }

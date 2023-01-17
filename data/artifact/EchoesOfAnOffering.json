@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15024,
     "sortId": 81,
-    "equipAffixId": 215024,
     "name": {
         "en": "Echoes of an Offering",
         "de": "Echo des Opferfests"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5127,
-        5128
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         98442,
         98422,
@@ -27,8 +23,8 @@
         260761190,
         2264156139
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "ATK +18%.",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_AttackWithExtraDamage",
             "description": {
                 "en": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
@@ -73,48 +69,49 @@
                 0.20000000298023224,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Soulscent Bloom",
-            "de": "Blüte des Seelendufts"
-        },
-        "id": 98543,
-        "icon": "UI_RelicIcon_15024_4"
     },
-    "feather": {
-        "name": {
-            "en": "Jade Leaf",
-            "de": "Blatt der Jade"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Soulscent Bloom",
+                "de": "Blüte des Seelendufts"
+            },
+            "id": 98543,
+            "icon": "UI_RelicIcon_15024_4"
         },
-        "id": 98523,
-        "icon": "UI_RelicIcon_15024_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Symbol of Felicitation",
-            "de": "Zeichen des Rituals"
+        "feather": {
+            "name": {
+                "en": "Jade Leaf",
+                "de": "Blatt der Jade"
+            },
+            "id": 98523,
+            "icon": "UI_RelicIcon_15024_2"
         },
-        "id": 98553,
-        "icon": "UI_RelicIcon_15024_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Chalice of the Font",
-            "de": "Kelch der Quelle"
+        "sands": {
+            "name": {
+                "en": "Symbol of Felicitation",
+                "de": "Zeichen des Rituals"
+            },
+            "id": 98553,
+            "icon": "UI_RelicIcon_15024_5"
         },
-        "id": 98513,
-        "icon": "UI_RelicIcon_15024_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Flowing Rings",
-            "de": "Ring der Strömung"
+        "goblet": {
+            "name": {
+                "en": "Chalice of the Font",
+                "de": "Kelch der Quelle"
+            },
+            "id": 98513,
+            "icon": "UI_RelicIcon_15024_1"
         },
-        "id": 98533,
-        "icon": "UI_RelicIcon_15024_3"
+        "circlet": {
+            "name": {
+                "en": "Flowing Rings",
+                "de": "Ring der Strömung"
+            },
+            "id": 98533,
+            "icon": "UI_RelicIcon_15024_3"
+        }
     }
 }

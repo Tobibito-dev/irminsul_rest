@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15003,
     "sortId": 60,
-    "equipAffixId": 215003,
     "name": {
         "en": "Wanderer's Troupe",
         "de": "Wanderorchester"
@@ -12,7 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         77340,
         77320,
@@ -24,8 +23,8 @@
         2602151358,
         205455459
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Increases Elemental Mastery by 80.",
@@ -50,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relci_RangerAttackUp",
             "description": {
                 "en": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
@@ -70,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Troupe's Dawnlight",
-            "de": "Morgenlicht des Ensembles"
-        },
-        "id": 77540,
-        "icon": "UI_RelicIcon_15003_4"
     },
-    "feather": {
-        "name": {
-            "en": "Bard's Arrow Feather",
-            "de": "Pfeilfeder des Leierspielers"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Troupe's Dawnlight",
+                "de": "Morgenlicht des Ensembles"
+            },
+            "id": 77540,
+            "icon": "UI_RelicIcon_15003_4"
         },
-        "id": 77520,
-        "icon": "UI_RelicIcon_15003_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Concert's Final Hour",
-            "de": "Fall des Vorhangs"
+        "feather": {
+            "name": {
+                "en": "Bard's Arrow Feather",
+                "de": "Pfeilfeder des Leierspielers"
+            },
+            "id": 77520,
+            "icon": "UI_RelicIcon_15003_2"
         },
-        "id": 77550,
-        "icon": "UI_RelicIcon_15003_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Wanderer's String-Kettle",
-            "de": "Bardenflasche"
+        "sands": {
+            "name": {
+                "en": "Concert's Final Hour",
+                "de": "Fall des Vorhangs"
+            },
+            "id": 77550,
+            "icon": "UI_RelicIcon_15003_5"
         },
-        "id": 77510,
-        "icon": "UI_RelicIcon_15003_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Conductor's Top Hat",
-            "de": "Trachtenhut des Dirigenten"
+        "goblet": {
+            "name": {
+                "en": "Wanderer's String-Kettle",
+                "de": "Bardenflasche"
+            },
+            "id": 77510,
+            "icon": "UI_RelicIcon_15003_1"
         },
-        "id": 77530,
-        "icon": "UI_RelicIcon_15003_3"
+        "circlet": {
+            "name": {
+                "en": "Conductor's Top Hat",
+                "de": "Trachtenhut des Dirigenten"
+            },
+            "id": 77530,
+            "icon": "UI_RelicIcon_15003_3"
+        }
     }
 }

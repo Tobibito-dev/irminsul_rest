@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 10003,
     "sortId": 29,
-    "equipAffixId": 210003,
     "name": {
         "en": "Defender's Will",
         "de": "Beschützerinstinkt"
@@ -12,7 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         53140,
         53120,
@@ -24,8 +23,8 @@
         232496686,
         594914603
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "DEF +30%",
@@ -50,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_AbsorbTeamElemResist",
             "description": {
                 "en": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
@@ -70,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Guardian's Flower",
-            "de": "Wächterblume"
-        },
-        "id": 53440,
-        "icon": "UI_RelicIcon_10003_4"
     },
-    "feather": {
-        "name": {
-            "en": "Guardian's Sigil",
-            "de": "Wächterabzeichen"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Guardian's Flower",
+                "de": "Wächterblume"
+            },
+            "id": 53440,
+            "icon": "UI_RelicIcon_10003_4"
         },
-        "id": 53420,
-        "icon": "UI_RelicIcon_10003_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Guardian's Clock",
-            "de": "Wächtertischuhr"
+        "feather": {
+            "name": {
+                "en": "Guardian's Sigil",
+                "de": "Wächterabzeichen"
+            },
+            "id": 53420,
+            "icon": "UI_RelicIcon_10003_2"
         },
-        "id": 53450,
-        "icon": "UI_RelicIcon_10003_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Guardian's Vessel",
-            "de": "Wächterflachmann"
+        "sands": {
+            "name": {
+                "en": "Guardian's Clock",
+                "de": "Wächtertischuhr"
+            },
+            "id": 53450,
+            "icon": "UI_RelicIcon_10003_5"
         },
-        "id": 53410,
-        "icon": "UI_RelicIcon_10003_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Guardian's Band",
-            "de": "Wächterband"
+        "goblet": {
+            "name": {
+                "en": "Guardian's Vessel",
+                "de": "Wächterflachmann"
+            },
+            "id": 53410,
+            "icon": "UI_RelicIcon_10003_1"
         },
-        "id": 53430,
-        "icon": "UI_RelicIcon_10003_3"
+        "circlet": {
+            "name": {
+                "en": "Guardian's Band",
+                "de": "Wächterband"
+            },
+            "id": 53430,
+            "icon": "UI_RelicIcon_10003_3"
+        }
     }
 }

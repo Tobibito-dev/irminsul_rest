@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15009,
     "sortId": 34,
-    "equipAffixId": 215009,
     "name": {
         "en": "Prayers for Illumination",
         "de": "Feueropfer"
@@ -11,7 +10,7 @@
     "setRequirement": [
         1
     ],
-    "setAbilities": [],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         83330
     ],
@@ -19,8 +18,8 @@
         1600414334,
         1178752179
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "1": {
             "openConfig": "Relic_FireResistance",
             "description": {
                 "en": "Affected by Pyro for 40% less time.",
@@ -41,41 +40,36 @@
                 0.0,
                 0.0
             ]
-        },
-        {
-            "openConfig": "Doesn't exist on this Item",
-            "description": "Doesn't exist on this Item",
-            "props": "Doesn't exist on this Item",
-            "parameters": "Doesn't exist on this Item",
-            "level": "Doesn't exist on this Item"
         }
-    ],
-    "flower": {
-        "name": "Step Type Error: unexpected data type in template",
-        "id": "Step Type Error: unexpected data type in template",
-        "icon": "Step Type Error: unexpected data type in template"
     },
-    "feather": {
-        "name": "Step Type Error: unexpected data type in template",
-        "id": "Step Type Error: unexpected data type in template",
-        "icon": "Step Type Error: unexpected data type in template"
-    },
-    "sands": {
-        "name": "Step Type Error: unexpected data type in template",
-        "id": "Step Type Error: unexpected data type in template",
-        "icon": "Step Type Error: unexpected data type in template"
-    },
-    "goblet": {
-        "name": "Step Type Error: unexpected data type in template",
-        "id": "Step Type Error: unexpected data type in template",
-        "icon": "Step Type Error: unexpected data type in template"
-    },
-    "circlet": {
-        "name": {
-            "en": "Tiara of Flame",
-            "de": "Feueropferdiadem"
+    "setPieces": {
+        "flower": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
         },
-        "id": 83430,
-        "icon": "UI_RelicIcon_15009_3"
+        "feather": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "sands": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "goblet": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "circlet": {
+            "name": {
+                "en": "Tiara of Flame",
+                "de": "Feueropferdiadem"
+            },
+            "id": 83430,
+            "icon": "UI_RelicIcon_15009_3"
+        }
     }
 }

@@ -996,20 +996,20 @@
         },
         "99": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 10.22700023651123,
+                "value": 7.882999897003174,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_PHYSICAL_ADD_HURT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "100": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 10.324000358581543,
+                "value": 7.949999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_PHYSICAL_ADD_HURT": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

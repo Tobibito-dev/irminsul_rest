@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15020,
     "sortId": 73,
-    "equipAffixId": 215020,
     "name": {
         "en": "Emblem of Severed Fate",
         "de": "Wappen des getrennten Schicksals"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5202,
-        5203
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         94442,
         94422,
@@ -27,8 +23,8 @@
         178637006,
         3063165291
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Energy Recharge +20%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_ElementalBurstUpByChargeEfficiency",
             "description": {
                 "en": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Magnificent Tsuba",
-            "de": "Prunkvolles Stichblatt"
-        },
-        "id": 94543,
-        "icon": "UI_RelicIcon_15020_4"
     },
-    "feather": {
-        "name": {
-            "en": "Sundered Feather",
-            "de": "Abgetrennte Feder"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Magnificent Tsuba",
+                "de": "Prunkvolles Stichblatt"
+            },
+            "id": 94543,
+            "icon": "UI_RelicIcon_15020_4"
         },
-        "id": 94523,
-        "icon": "UI_RelicIcon_15020_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Storm Cage",
-            "de": "Blitzwolkenkäfig"
+        "feather": {
+            "name": {
+                "en": "Sundered Feather",
+                "de": "Abgetrennte Feder"
+            },
+            "id": 94523,
+            "icon": "UI_RelicIcon_15020_2"
         },
-        "id": 94553,
-        "icon": "UI_RelicIcon_15020_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Scarlet Vessel",
-            "de": "Krug mit dunkelroten Blumen"
+        "sands": {
+            "name": {
+                "en": "Storm Cage",
+                "de": "Blitzwolkenkäfig"
+            },
+            "id": 94553,
+            "icon": "UI_RelicIcon_15020_5"
         },
-        "id": 94513,
-        "icon": "UI_RelicIcon_15020_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Ornate Kabuto",
-            "de": "Verzierter Helm"
+        "goblet": {
+            "name": {
+                "en": "Scarlet Vessel",
+                "de": "Krug mit dunkelroten Blumen"
+            },
+            "id": 94513,
+            "icon": "UI_RelicIcon_15020_1"
         },
-        "id": 94533,
-        "icon": "UI_RelicIcon_15020_3"
+        "circlet": {
+            "name": {
+                "en": "Ornate Kabuto",
+                "de": "Verzierter Helm"
+            },
+            "id": 94533,
+            "icon": "UI_RelicIcon_15020_3"
+        }
     }
 }

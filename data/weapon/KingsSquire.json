@@ -1009,7 +1009,7 @@
                 "value": 7.949999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CHARGE_EFFICIENCY": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

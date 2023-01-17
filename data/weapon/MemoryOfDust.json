@@ -516,500 +516,500 @@
         },
         "51": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.644000053405762,
+                "value": 5.453000068664551,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "52": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.714000225067139,
+                "value": 5.546000003814697,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "53": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.783999919891357,
+                "value": 5.638000011444092,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "54": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.855000019073486,
+                "value": 5.730999946594238,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "55": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.925000190734863,
+                "value": 5.824999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "56": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.994999885559082,
+                "value": 5.918000221252441,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "57": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.065000057220459,
+                "value": 6.011000156402588,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "58": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.133999824523926,
+                "value": 6.105000019073486,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "59": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.203999996185303,
+                "value": 6.197999954223633,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "60": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.27400016784668,
+                "value": 6.291999816894531,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "61": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.343999862670898,
+                "value": 6.386000156402588,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "62": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.413000106811523,
+                "value": 6.480000019073486,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "63": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.482999801635742,
+                "value": 6.574999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "64": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.552000045776367,
+                "value": 6.669000148773193,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "65": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.622000217437744,
+                "value": 6.763000011444092,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "66": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.690999984741211,
+                "value": 6.857999801635742,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "67": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.761000156402588,
+                "value": 6.953000068664551,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "68": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.829999923706055,
+                "value": 7.047999858856201,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "69": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.89900016784668,
+                "value": 7.14300012588501,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "70": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.9679999351501465,
+                "value": 7.23799991607666,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "71": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.038000106811523,
+                "value": 7.334000110626221,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "72": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.10699987411499,
+                "value": 7.428999900817871,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "73": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.176000118255615,
+                "value": 7.525000095367432,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "74": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.244999885559082,
+                "value": 7.620999813079834,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "75": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.314000129699707,
+                "value": 7.7170000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "76": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.382999897003174,
+                "value": 7.813000202178955,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "77": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.452000141143799,
+                "value": 7.908999919891357,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "78": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.520999908447266,
+                "value": 8.005000114440918,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "79": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.590000152587891,
+                "value": 8.10200023651123,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "80": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.658999919891357,
+                "value": 8.199000358581543,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "81": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.7270002365112305,
+                "value": 8.295000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "82": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.796000003814697,
+                "value": 8.392000198364258,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "83": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.864999771118164,
+                "value": 8.48900032043457,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "84": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.934000015258789,
+                "value": 8.586999893188477,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "85": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.002999782562256,
+                "value": 8.684000015258789,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "86": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.071000099182129,
+                "value": 8.781999588012695,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "87": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.139999866485596,
+                "value": 8.878999710083008,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "88": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.209000110626221,
+                "value": 8.97700023651123,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "89": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.2769999504089355,
+                "value": 9.074999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "90": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.3460001945495605,
+                "value": 9.17300033569336,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "91": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.414999961853027,
+                "value": 9.270999908447266,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "92": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.482999801635742,
+                "value": 9.369999885559082,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "93": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.552000045776367,
+                "value": 9.468000411987305,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "94": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.620999813079834,
+                "value": 9.567000389099121,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "95": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.689000129699707,
+                "value": 9.666000366210938,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "96": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.757999897003174,
+                "value": 9.765000343322754,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "97": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.827000141143799,
+                "value": 9.86400032043457,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "98": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.894999980926514,
+                "value": 9.963000297546387,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "99": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.964000225067139,
+                "value": 10.062000274658203,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "100": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.032999992370605,
+                "value": 10.161999702453613,
                 "arith": "ARITH_MULTI"
             },
-            "Step Type Error: unexpected data type in template": {
+            "FIGHT_PROP_ATTACK_PERCENT": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

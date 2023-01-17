@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 14001,
     "sortId": 54,
-    "equipAffixId": 214001,
     "name": {
         "en": "Blizzard Strayer",
         "de": "Im Schnee irrender Recke"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5122,
-        5123
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         71340,
         71320,
@@ -27,8 +23,8 @@
         1641249022,
         3455611563
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Cryo DMG Bonus +15%",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_CriticUpAgainstIceAndFrozen",
             "description": {
                 "en": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Snowswept Memory",
-            "de": "Gedenken des Schneetreibens"
-        },
-        "id": 71540,
-        "icon": "UI_RelicIcon_14001_4"
     },
-    "feather": {
-        "name": {
-            "en": "Icebreaker's Resolve",
-            "de": "Resolution des Schneestapfers"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Snowswept Memory",
+                "de": "Gedenken des Schneetreibens"
+            },
+            "id": 71540,
+            "icon": "UI_RelicIcon_14001_4"
         },
-        "id": 71520,
-        "icon": "UI_RelicIcon_14001_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Frozen Homeland's Demise",
-            "de": "Niedergang der eisigen Heimat"
+        "feather": {
+            "name": {
+                "en": "Icebreaker's Resolve",
+                "de": "Resolution des Schneestapfers"
+            },
+            "id": 71520,
+            "icon": "UI_RelicIcon_14001_2"
         },
-        "id": 71550,
-        "icon": "UI_RelicIcon_14001_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Frost-Weaved Dignity",
-            "de": "Erhabenheit des Frostwebers"
+        "sands": {
+            "name": {
+                "en": "Frozen Homeland's Demise",
+                "de": "Niedergang der eisigen Heimat"
+            },
+            "id": 71550,
+            "icon": "UI_RelicIcon_14001_5"
         },
-        "id": 71510,
-        "icon": "UI_RelicIcon_14001_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Broken Rime's Echo",
-            "de": "Echo des Eisbrechers"
+        "goblet": {
+            "name": {
+                "en": "Frost-Weaved Dignity",
+                "de": "Erhabenheit des Frostwebers"
+            },
+            "id": 71510,
+            "icon": "UI_RelicIcon_14001_1"
         },
-        "id": 71530,
-        "icon": "UI_RelicIcon_14001_3"
+        "circlet": {
+            "name": {
+                "en": "Broken Rime's Echo",
+                "de": "Echo des Eisbrechers"
+            },
+            "id": 71530,
+            "icon": "UI_RelicIcon_14001_3"
+        }
     }
 }

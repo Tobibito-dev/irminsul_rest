@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15017,
     "sortId": 68,
-    "equipAffixId": 215017,
     "name": {
         "en": "Tenacity of the Millelith",
         "de": "Zähigkeit der Millelithen"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5016,
-        5017
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         91340,
         91320,
@@ -27,8 +23,8 @@
         3006628830,
         1301524275
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "HP increased by 20%.",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_ShieldCostUpWhenElementalArtHit",
             "description": {
                 "en": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Flower of Accolades",
-            "de": "Belobigungsblume"
-        },
-        "id": 91540,
-        "icon": "UI_RelicIcon_15017_4"
     },
-    "feather": {
-        "name": {
-            "en": "Ceremonial War-Plume",
-            "de": "Bekundungsfeder"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Flower of Accolades",
+                "de": "Belobigungsblume"
+            },
+            "id": 91540,
+            "icon": "UI_RelicIcon_15017_4"
         },
-        "id": 91520,
-        "icon": "UI_RelicIcon_15017_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Orichalceous Time-Dial",
-            "de": "Kupferne Sonnenuhr"
+        "feather": {
+            "name": {
+                "en": "Ceremonial War-Plume",
+                "de": "Bekundungsfeder"
+            },
+            "id": 91520,
+            "icon": "UI_RelicIcon_15017_2"
         },
-        "id": 91550,
-        "icon": "UI_RelicIcon_15017_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Noble's Pledging Vessel",
-            "de": "Edler Schwurkrug"
+        "sands": {
+            "name": {
+                "en": "Orichalceous Time-Dial",
+                "de": "Kupferne Sonnenuhr"
+            },
+            "id": 91550,
+            "icon": "UI_RelicIcon_15017_5"
         },
-        "id": 91510,
-        "icon": "UI_RelicIcon_15017_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "General's Ancient Helm",
-            "de": "Generalshelm"
+        "goblet": {
+            "name": {
+                "en": "Noble's Pledging Vessel",
+                "de": "Edler Schwurkrug"
+            },
+            "id": 91510,
+            "icon": "UI_RelicIcon_15017_1"
         },
-        "id": 91530,
-        "icon": "UI_RelicIcon_15017_3"
+        "circlet": {
+            "name": {
+                "en": "General's Ancient Helm",
+                "de": "Generalshelm"
+            },
+            "id": 91530,
+            "icon": "UI_RelicIcon_15017_3"
+        }
     }
 }

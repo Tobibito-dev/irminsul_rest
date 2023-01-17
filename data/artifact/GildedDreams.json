@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 15026,
     "sortId": 85,
-    "equipAffixId": 215026,
     "name": {
         "en": "Gilded Dreams",
         "de": "Vergoldeter Traum"
@@ -12,10 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [
-        5052,
-        5053
-    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         21442,
         21422,
@@ -27,8 +23,8 @@
         1245570190,
         2786980939
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "Increases Elemental Mastery by 80.",
@@ -53,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_ElemMasteryGathering",
             "description": {
                 "en": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
@@ -73,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Dreaming Steelbloom",
-            "de": "Metallblüte im Traum"
-        },
-        "id": 21543,
-        "icon": "UI_RelicIcon_15026_4"
     },
-    "feather": {
-        "name": {
-            "en": "Feather of Judgment",
-            "de": "Feder des Urteils"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Dreaming Steelbloom",
+                "de": "Metallblüte im Traum"
+            },
+            "id": 21543,
+            "icon": "UI_RelicIcon_15026_4"
         },
-        "id": 21523,
-        "icon": "UI_RelicIcon_15026_2"
-    },
-    "sands": {
-        "name": {
-            "en": "The Sunken Years",
-            "de": "Goldene Jahre"
+        "feather": {
+            "name": {
+                "en": "Feather of Judgment",
+                "de": "Feder des Urteils"
+            },
+            "id": 21523,
+            "icon": "UI_RelicIcon_15026_2"
         },
-        "id": 21553,
-        "icon": "UI_RelicIcon_15026_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Honeyed Final Feast",
-            "de": "Honigsüßes Abschlussfest"
+        "sands": {
+            "name": {
+                "en": "The Sunken Years",
+                "de": "Goldene Jahre"
+            },
+            "id": 21553,
+            "icon": "UI_RelicIcon_15026_5"
         },
-        "id": 21513,
-        "icon": "UI_RelicIcon_15026_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Shadow of the Sand King",
-            "de": "Schatten des Sandkönigs"
+        "goblet": {
+            "name": {
+                "en": "Honeyed Final Feast",
+                "de": "Honigsüßes Abschlussfest"
+            },
+            "id": 21513,
+            "icon": "UI_RelicIcon_15026_1"
         },
-        "id": 21533,
-        "icon": "UI_RelicIcon_15026_3"
+        "circlet": {
+            "name": {
+                "en": "Shadow of the Sand King",
+                "de": "Schatten des Sandkönigs"
+            },
+            "id": 21533,
+            "icon": "UI_RelicIcon_15026_3"
+        }
     }
 }

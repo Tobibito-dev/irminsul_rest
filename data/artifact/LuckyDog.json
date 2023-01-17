@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 10011,
     "sortId": 8,
-    "equipAffixId": 210011,
     "name": {
         "en": "Lucky Dog",
         "de": "Glückspilz"
@@ -12,7 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         61140,
         61120,
@@ -24,8 +23,8 @@
         4021451694,
         1065267667
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "DEF increased by 100.",
@@ -50,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_CoinHealSelf",
             "description": {
                 "en": "Picking up Mora restores 300 HP.",
@@ -70,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Lucky Dog's Clover",
-            "de": "Glücksklee"
-        },
-        "id": 61340,
-        "icon": "UI_RelicIcon_10011_4"
     },
-    "feather": {
-        "name": {
-            "en": "Lucky Dog's Eagle Feather",
-            "de": "Glücksfeder"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Lucky Dog's Clover",
+                "de": "Glücksklee"
+            },
+            "id": 61340,
+            "icon": "UI_RelicIcon_10011_4"
         },
-        "id": 61320,
-        "icon": "UI_RelicIcon_10011_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Lucky Dog's Hourglass",
-            "de": "Glückssanduhr"
+        "feather": {
+            "name": {
+                "en": "Lucky Dog's Eagle Feather",
+                "de": "Glücksfeder"
+            },
+            "id": 61320,
+            "icon": "UI_RelicIcon_10011_2"
         },
-        "id": 61350,
-        "icon": "UI_RelicIcon_10011_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Lucky Dog's Goblet",
-            "de": "Glückskelch"
+        "sands": {
+            "name": {
+                "en": "Lucky Dog's Hourglass",
+                "de": "Glückssanduhr"
+            },
+            "id": 61350,
+            "icon": "UI_RelicIcon_10011_5"
         },
-        "id": 61310,
-        "icon": "UI_RelicIcon_10011_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Lucky Dog's Silver Circlet",
-            "de": "Silberner Glückshaarreif"
+        "goblet": {
+            "name": {
+                "en": "Lucky Dog's Goblet",
+                "de": "Glückskelch"
+            },
+            "id": 61310,
+            "icon": "UI_RelicIcon_10011_1"
         },
-        "id": 61330,
-        "icon": "UI_RelicIcon_10011_3"
+        "circlet": {
+            "name": {
+                "en": "Lucky Dog's Silver Circlet",
+                "de": "Silberner Glückshaarreif"
+            },
+            "id": 61330,
+            "icon": "UI_RelicIcon_10011_3"
+        }
     }
 }

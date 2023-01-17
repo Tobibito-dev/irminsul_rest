@@ -2,7 +2,6 @@
     "templateType": "artifact",
     "id": 10002,
     "sortId": 30,
-    "equipAffixId": 210002,
     "name": {
         "en": "Brave Heart",
         "de": "Wagemut"
@@ -12,7 +11,7 @@
         2,
         4
     ],
-    "setAbilities": [],
+    "setAbilities": "Step Type Error: unexpected data type in template",
     "containsIds": [
         52140,
         52120,
@@ -24,8 +23,8 @@
         3286811710,
         2520149811
     ],
-    "setEffects": [
-        {
+    "setEffects": {
+        "2": {
             "openConfig": "",
             "description": {
                 "en": "ATK +18%.",
@@ -50,7 +49,7 @@
                 0.0
             ]
         },
-        {
+        "4": {
             "openConfig": "Relic_GiantKiller",
             "description": {
                 "en": "Increases DMG by 30% against opponents with more than 50% HP.",
@@ -70,48 +69,49 @@
                 0.0,
                 0.0,
                 0.0
-            ],
-            "level": 1
+            ]
         }
-    ],
-    "flower": {
-        "name": {
-            "en": "Medal of the Brave",
-            "de": "Reckenmedaille"
-        },
-        "id": 52440,
-        "icon": "UI_RelicIcon_10002_4"
     },
-    "feather": {
-        "name": {
-            "en": "Prospect of the Brave",
-            "de": "Erwartungen des Recken"
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Medal of the Brave",
+                "de": "Reckenmedaille"
+            },
+            "id": 52440,
+            "icon": "UI_RelicIcon_10002_4"
         },
-        "id": 52420,
-        "icon": "UI_RelicIcon_10002_2"
-    },
-    "sands": {
-        "name": {
-            "en": "Fortitude of the Brave",
-            "de": "Entschlossenheit des Recken"
+        "feather": {
+            "name": {
+                "en": "Prospect of the Brave",
+                "de": "Erwartungen des Recken"
+            },
+            "id": 52420,
+            "icon": "UI_RelicIcon_10002_2"
         },
-        "id": 52450,
-        "icon": "UI_RelicIcon_10002_5"
-    },
-    "goblet": {
-        "name": {
-            "en": "Outset of the Brave",
-            "de": "Schritte des Recken"
+        "sands": {
+            "name": {
+                "en": "Fortitude of the Brave",
+                "de": "Entschlossenheit des Recken"
+            },
+            "id": 52450,
+            "icon": "UI_RelicIcon_10002_5"
         },
-        "id": 52410,
-        "icon": "UI_RelicIcon_10002_1"
-    },
-    "circlet": {
-        "name": {
-            "en": "Crown of the Brave",
-            "de": "Reckenhaarreif"
+        "goblet": {
+            "name": {
+                "en": "Outset of the Brave",
+                "de": "Schritte des Recken"
+            },
+            "id": 52410,
+            "icon": "UI_RelicIcon_10002_1"
         },
-        "id": 52430,
-        "icon": "UI_RelicIcon_10002_3"
+        "circlet": {
+            "name": {
+                "en": "Crown of the Brave",
+                "de": "Reckenhaarreif"
+            },
+            "id": 52430,
+            "icon": "UI_RelicIcon_10002_3"
+        }
     }
 }
