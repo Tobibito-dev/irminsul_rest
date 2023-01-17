@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10007,
+    "sortId": 27,
+    "name": {
+        "en": "Instructor",
+        "de": "Ausbilder"
+    },
+    "icon": "UI_RelicIcon_10007_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        57140,
+        57120,
+        57150,
+        57110,
+        57130
+    ],
+    "textList": [
+        2152781502,
+        1666101139
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "Increases Elemental Mastery by 80.",
+                "de": "Erhöht Elementarkunde um 80 Punkte."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                    "value": 80.0
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_ReactionGainExtraElemMasteryForTeam",
+            "description": {
+                "en": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.",
+                "de": "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8 s lang um 120 Punkte."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                8.0,
+                120.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Instructor's Brooch",
+                "de": "Ausbilderbrosche"
+            },
+            "id": 57440,
+            "icon": "UI_RelicIcon_10007_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Instructor's Feather Accessory",
+                "de": "Ausbilderfederschmuck"
+            },
+            "id": 57420,
+            "icon": "UI_RelicIcon_10007_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Instructor's Pocket Watch",
+                "de": "Ausbilderstoppuhr"
+            },
+            "id": 57450,
+            "icon": "UI_RelicIcon_10007_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Instructor's Tea Cup",
+                "de": "Ausbilderteetasse"
+            },
+            "id": 57410,
+            "icon": "UI_RelicIcon_10007_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Instructor's Cap",
+                "de": "Ausbilderhut"
+            },
+            "id": 57430,
+            "icon": "UI_RelicIcon_10007_3"
+        }
+    }
+}

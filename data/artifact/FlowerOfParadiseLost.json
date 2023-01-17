@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15028,
+    "sortId": 89,
+    "name": {
+        "en": "Flower of Paradise Lost",
+        "de": "Blumen des verlorenen Paradieses"
+    },
+    "icon": "UI_RelicIcon_15028_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        28442,
+        28422,
+        28452,
+        28412,
+        28432
+    ],
+    "textList": [
+        429562510,
+        2358985011
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "Increases Elemental Mastery by 80.",
+                "de": "Erhöht Elementarkunde um 80 Punkte."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                    "value": 80.0
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_OvergrowReactionEnhance",
+            "description": {
+                "en": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
+                "de": "Erhöht den durch die damit ausgerüstete Figur mit den Reaktionen Sprießen, Supraspross und Flammenspross verursachten Schaden um 40 %. Zusätzlich wird dieser Bonus nach Auslösen der Reaktionen Sprießen, Supraspross oder Flammenspross der damit ausgerüsteten Figur um 25 % erhöht, hält 10 s, 4-fach stapelbar, 1 s Abklingzeit. Dieser Effekt kann auch dann ausgelöst werden, wenn sich die damit ausgerüstete Figur inaktiv in der Truppe befindet."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.4000000059604645,
+                0.4000000059604645,
+                0.4000000059604645,
+                10.0,
+                4.0,
+                0.25,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Ay-Khanoum's Myriad",
+                "de": "Pracht von Ay-Khanoum"
+            },
+            "id": 28543,
+            "icon": "UI_RelicIcon_15028_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Wilting Feast",
+                "de": "Festmahl des Verfalls"
+            },
+            "id": 28523,
+            "icon": "UI_RelicIcon_15028_2"
+        },
+        "sands": {
+            "name": {
+                "en": "A Moment Congealed",
+                "de": "Geronnener Moment"
+            },
+            "id": 28553,
+            "icon": "UI_RelicIcon_15028_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Secret-Keeper's Magic Bottle",
+                "de": "Zauberflasche des Geheimnisbewahrers"
+            },
+            "id": 28513,
+            "icon": "UI_RelicIcon_15028_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Amethyst Crown",
+                "de": "Amethystkrone"
+            },
+            "id": 28533,
+            "icon": "UI_RelicIcon_15028_3"
+        }
+    }
+}

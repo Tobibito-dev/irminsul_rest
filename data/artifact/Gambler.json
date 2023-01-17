@@ -1,0 +1,114 @@
+{
+    "templateType": "artifact",
+    "id": 10008,
+    "sortId": 32,
+    "name": {
+        "en": "Gambler",
+        "de": "Glücksspieler"
+    },
+    "icon": "UI_RelicIcon_10008_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        58240,
+        58220,
+        58250,
+        58210,
+        58230
+    ],
+    "textList": [
+        3435100542,
+        3500507723
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "Relic_SkillDamageUp",
+            "description": {
+                "en": "Increases Elemental Skill DMG by 20%.",
+                "de": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_KillingRefreshSkill",
+            "description": {
+                "en": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+                "de": "Überspringt die Abklingzeit der Elementarfähigkeit beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100 %. 15 s Abklingzeit."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                15.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Gambler's Brooch",
+                "de": "Glücksspielbrosche"
+            },
+            "id": 58440,
+            "icon": "UI_RelicIcon_10008_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Gambler's Feather Accessory",
+                "de": "Glücksspiel-Federschmuck"
+            },
+            "id": 58420,
+            "icon": "UI_RelicIcon_10008_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Gambler's Pocket Watch",
+                "de": "Glücksspiel-Taschenuhr"
+            },
+            "id": 58450,
+            "icon": "UI_RelicIcon_10008_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Gambler's Dice Cup",
+                "de": "Glücksspiel-Würfelbecher"
+            },
+            "id": 58410,
+            "icon": "UI_RelicIcon_10008_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Gambler's Earrings",
+                "de": "Glücksspiel-Ohrringe"
+            },
+            "id": 58430,
+            "icon": "UI_RelicIcon_10008_3"
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "templateType": "artifact",
+    "id": 15007,
+    "sortId": 63,
+    "name": {
+        "en": "Noblesse Oblige",
+        "de": "Altes Hofritual"
+    },
+    "icon": "UI_RelicIcon_15007_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        81340,
+        81320,
+        81350,
+        81310,
+        81330
+    ],
+    "textList": [
+        1950711078,
+        2003140467
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "Relic_ElementalBurstUp",
+            "description": {
+                "en": "Elemental Burst DMG +20%",
+                "de": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_TeamAtkupAfterElementalBurst",
+            "description": {
+                "en": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+                "de": "Erhöht den ANG aller Truppenmitglieder nach Anwendung von Spezialfähigkeiten 12 s lang um 20 %, nicht stapelbar."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                12.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Royal Flora",
+                "de": "Königliche Blume"
+            },
+            "id": 81540,
+            "icon": "UI_RelicIcon_15007_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Royal Plume",
+                "de": "Königliche Feder"
+            },
+            "id": 81520,
+            "icon": "UI_RelicIcon_15007_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Royal Pocket Watch",
+                "de": "Königliche Uhr"
+            },
+            "id": 81550,
+            "icon": "UI_RelicIcon_15007_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Royal Silver Urn",
+                "de": "Königlicher Silberkrug"
+            },
+            "id": 81510,
+            "icon": "UI_RelicIcon_15007_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Royal Masque",
+                "de": "Königliche Maske"
+            },
+            "id": 81530,
+            "icon": "UI_RelicIcon_15007_3"
+        }
+    }
+}

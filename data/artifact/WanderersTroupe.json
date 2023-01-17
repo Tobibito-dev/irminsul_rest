@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15003,
+    "sortId": 60,
+    "name": {
+        "en": "Wanderer's Troupe",
+        "de": "Wanderorchester"
+    },
+    "icon": "UI_RelicIcon_15003_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        77340,
+        77320,
+        77350,
+        77310,
+        77330
+    ],
+    "textList": [
+        2602151358,
+        205455459
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "Increases Elemental Mastery by 80.",
+                "de": "Erhöht Elementarkunde um 80 Punkte."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+                    "value": 80.0
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relci_RangerAttackUp",
+            "description": {
+                "en": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+                "de": "Erhöht den mit heftigen Schlägen verursachten Schaden, wenn die Figur einen Katalysator oder einen Bogen trägt, um 35 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.3499999940395355,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Troupe's Dawnlight",
+                "de": "Morgenlicht des Ensembles"
+            },
+            "id": 77540,
+            "icon": "UI_RelicIcon_15003_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Bard's Arrow Feather",
+                "de": "Pfeilfeder des Leierspielers"
+            },
+            "id": 77520,
+            "icon": "UI_RelicIcon_15003_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Concert's Final Hour",
+                "de": "Fall des Vorhangs"
+            },
+            "id": 77550,
+            "icon": "UI_RelicIcon_15003_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Wanderer's String-Kettle",
+                "de": "Bardenflasche"
+            },
+            "id": 77510,
+            "icon": "UI_RelicIcon_15003_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Conductor's Top Hat",
+                "de": "Trachtenhut des Dirigenten"
+            },
+            "id": 77530,
+            "icon": "UI_RelicIcon_15003_3"
+        }
+    }
+}

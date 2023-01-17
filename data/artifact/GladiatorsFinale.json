@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15001,
+    "sortId": 58,
+    "name": {
+        "en": "Gladiator's Finale",
+        "de": "Verbeugung des Gladiators"
+    },
+    "icon": "UI_RelicIcon_15001_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        75340,
+        75320,
+        75350,
+        75310,
+        75330
+    ],
+    "textList": [
+        1890216262,
+        522318403
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "ATK +18%.",
+                "de": "Erhöht den ANG um 18 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                    "value": 0.18000000715255737
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_MeleeAttackUp",
+            "description": {
+                "en": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+                "de": "Erhöht den mit Standardangriffen verursachten Schaden, wenn die mit diesem Artefaktset ausgestattete Figur einen Einhänder, einen Zweihänder oder eine Stangenwaffe trägt, um 35 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.3499999940395355,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Gladiator's Nostalgia",
+                "de": "Nostalgie des Gladiators"
+            },
+            "id": 75540,
+            "icon": "UI_RelicIcon_15001_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Gladiator's Destiny",
+                "de": "Zuflucht des Gladiators"
+            },
+            "id": 75520,
+            "icon": "UI_RelicIcon_15001_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Gladiator's Longing",
+                "de": "Zuversicht des Gladiators"
+            },
+            "id": 75550,
+            "icon": "UI_RelicIcon_15001_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Gladiator's Intoxication",
+                "de": "Rausch des Gladiators"
+            },
+            "id": 75510,
+            "icon": "UI_RelicIcon_15001_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Gladiator's Triumphus",
+                "de": "Triumph des Gladiators"
+            },
+            "id": 75530,
+            "icon": "UI_RelicIcon_15001_3"
+        }
+    }
+}

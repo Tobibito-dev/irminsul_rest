@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15021,
+    "sortId": 76,
+    "name": {
+        "en": "Husk of Opulent Dreams",
+        "de": "Schale der üppigen Träume"
+    },
+    "icon": "UI_RelicIcon_15021_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        95442,
+        95422,
+        95452,
+        95412,
+        95432
+    ],
+    "textList": [
+        771272886,
+        3712988195
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "DEF +30%",
+                "de": "Erhöht die VTD um 30 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+                    "value": 0.30000001192092896
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_RaiseDefenceAndRock",
+            "description": {
+                "en": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+                "de": "Die mit diesem Artefaktset ausgerüsteten Figuren erhalten unter den folgenden Umständen den Effekt „Neugier“: Aktuelle Figuren erhalten mit 0,3 s Abklingzeit eine Stapelung beim Treffen von Gegnern mit Geo-Angriffen, während die inaktiven Figuren in der Truppe alle 3 s eine Stapelung erhalten. 4-fach stapelbar. Jede Stapelung verleiht einen VTD-Bonus von 6 % und einen Geo-Schadens-Bonus von 6 %. Wenn kein neuer Effekt der „Neugier“ hinzukommt, erlischt alle 6 s eine Stapelung dieses Effekts."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                3.0,
+                0.05999999865889549,
+                0.05999999865889549,
+                6.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Bloom Times",
+                "de": "Blüte der Glorie"
+            },
+            "id": 95543,
+            "icon": "UI_RelicIcon_15021_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Plume of Luxury",
+                "de": "Feder der Opulenz"
+            },
+            "id": 95523,
+            "icon": "UI_RelicIcon_15021_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Song of Life",
+                "de": "Lied der Vergänglichkeit"
+            },
+            "id": 95553,
+            "icon": "UI_RelicIcon_15021_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Calabash of Awakening",
+                "de": "Kalebasse des Erwachens"
+            },
+            "id": 95513,
+            "icon": "UI_RelicIcon_15021_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Skeletal Hat",
+                "de": "Hut des Vagabunden"
+            },
+            "id": 95533,
+            "icon": "UI_RelicIcon_15021_3"
+        }
+    }
+}

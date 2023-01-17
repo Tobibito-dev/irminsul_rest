@@ -1,0 +1,75 @@
+{
+    "templateType": "artifact",
+    "id": 15010,
+    "sortId": 35,
+    "name": {
+        "en": "Prayers for Destiny",
+        "de": "Wasseropfer"
+    },
+    "icon": "UI_RelicIcon_15010_3",
+    "setRequirement": [
+        1
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        84330
+    ],
+    "textList": [
+        1799147854,
+        2961475019
+    ],
+    "setEffects": {
+        "1": {
+            "openConfig": "Relic_WaterResistance",
+            "description": {
+                "en": "Affected by Hydro for 40% less time.",
+                "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.4000000059604645,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "feather": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "sands": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "goblet": {
+            "name": "Step Type Error: unexpected data type in template",
+            "id": "Step Type Error: unexpected data type in template",
+            "icon": "Step Type Error: unexpected data type in template"
+        },
+        "circlet": {
+            "name": {
+                "en": "Tiara of Torrents",
+                "de": "Wasseropferdiadem"
+            },
+            "id": 84430,
+            "icon": "UI_RelicIcon_15010_3"
+        }
+    }
+}

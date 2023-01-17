@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10009,
+    "sortId": 28,
+    "name": {
+        "en": "The Exile",
+        "de": "Verbannter"
+    },
+    "icon": "UI_RelicIcon_10009_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        59140,
+        59120,
+        59150,
+        59110,
+        59130
+    ],
+    "textList": [
+        1523555942,
+        3039984011
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "Energy Recharge +20%",
+                "de": "Erhöht die Aufladerate um 20 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                    "value": 0.20000000298023224
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_UltGainEnergyForTeam",
+            "description": {
+                "en": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+                "de": "Stellt allen Truppenmitgliedern (außer sich selbst) bei Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 2 Punkte Elementarenergie wieder her, nicht stapelbar."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                2.0,
+                6.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Exile's Flower",
+                "de": "Blume des Verbannten"
+            },
+            "id": 59440,
+            "icon": "UI_RelicIcon_10009_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Exile's Feather",
+                "de": "Feder des Verbannten"
+            },
+            "id": 59420,
+            "icon": "UI_RelicIcon_10009_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Exile's Pocket Watch",
+                "de": "Taschenuhr des Verbannten"
+            },
+            "id": 59450,
+            "icon": "UI_RelicIcon_10009_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Exile's Goblet",
+                "de": "Kelch des Verbannten"
+            },
+            "id": 59410,
+            "icon": "UI_RelicIcon_10009_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Exile's Circlet",
+                "de": "Haarreif des Verbannten"
+            },
+            "id": 59430,
+            "icon": "UI_RelicIcon_10009_3"
+        }
+    }
+}

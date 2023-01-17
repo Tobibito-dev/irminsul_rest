@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 10001,
+    "sortId": 24,
+    "name": {
+        "en": "Resolution of Sojourner",
+        "de": "Fernweh"
+    },
+    "icon": "UI_RelicIcon_10001_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        51140,
+        51120,
+        51150,
+        51110,
+        51130
+    ],
+    "textList": [
+        3554068574,
+        3930680251
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "ATK +18%.",
+                "de": "Erhöht den ANG um 18 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                    "value": 0.18000000715255737
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_ExtraAtkCritUp",
+            "description": {
+                "en": "Increases Charged Attack CRIT Rate by 30%.",
+                "de": "Erhöht die KT heftiger Schläge um 30 %."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.30000001192092896,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Heart of Comradeship",
+                "de": "Sinn der Kameradschaft"
+            },
+            "id": 51440,
+            "icon": "UI_RelicIcon_10001_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Feather of Homecoming",
+                "de": "Feder der Heimkehr"
+            },
+            "id": 51420,
+            "icon": "UI_RelicIcon_10001_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Sundial of the Sojourner",
+                "de": "Stein der Lichtjagd"
+            },
+            "id": 51450,
+            "icon": "UI_RelicIcon_10001_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Goblet of the Sojourner",
+                "de": "Kelch der Fremde"
+            },
+            "id": 51410,
+            "icon": "UI_RelicIcon_10001_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Crown of Parting",
+                "de": "Kranz des Abschieds"
+            },
+            "id": 51430,
+            "icon": "UI_RelicIcon_10001_3"
+        }
+    }
+}

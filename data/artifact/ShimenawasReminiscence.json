@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15019,
+    "sortId": 72,
+    "name": {
+        "en": "Shimenawa's Reminiscence",
+        "de": "Gedenken an Shimenawa"
+    },
+    "icon": "UI_RelicIcon_15019_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        93442,
+        93422,
+        93452,
+        93412,
+        93432
+    ],
+    "textList": [
+        3379981326,
+        1909146235
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "ATK +18%.",
+                "de": "Erhöht den ANG um 18 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                    "value": 0.18000000715255737
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_NormalDamageUpIfCostEnergy",
+            "description": {
+                "en": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+                "de": "Verringert bei Anwendung einer Elementarfähigkeit die Elementarenergie um 15 Punkte, wenn die Figur mindestens 15 Punkte Elementarenergie besitzt. Erhöht daraufhin den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden 10 s lang um 50 %. Dieser Effekt wird während der Wirkungsdauer nicht erneut ausgelöst."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                15.0,
+                0.5,
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Entangling Bloom",
+                "de": "Umschlingende Blume"
+            },
+            "id": 93543,
+            "icon": "UI_RelicIcon_15019_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Shaft of Remembrance",
+                "de": "Pfeil des Andenkens"
+            },
+            "id": 93523,
+            "icon": "UI_RelicIcon_15019_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Morning Dew's Moment",
+                "de": "Augenblick des Morgentaus"
+            },
+            "id": 93553,
+            "icon": "UI_RelicIcon_15019_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Hopeful Heart",
+                "de": "Herz voller Hoffnung"
+            },
+            "id": 93513,
+            "icon": "UI_RelicIcon_15019_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Capricious Visage",
+                "de": "Wechselhafte Maske"
+            },
+            "id": 93533,
+            "icon": "UI_RelicIcon_15019_3"
+        }
+    }
+}

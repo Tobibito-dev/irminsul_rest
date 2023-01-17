@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15024,
+    "sortId": 81,
+    "name": {
+        "en": "Echoes of an Offering",
+        "de": "Echo des Opferfests"
+    },
+    "icon": "UI_RelicIcon_15024_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        98442,
+        98422,
+        98452,
+        98412,
+        98432
+    ],
+    "textList": [
+        260761190,
+        2264156139
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "ATK +18%.",
+                "de": "Erhöht den ANG um 18 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+                    "value": 0.18000000715255737
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.18000000715255737,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_AttackWithExtraDamage",
+            "description": {
+                "en": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
+                "de": "Löst beim Treffen von Gegnern mit Standardangriffen mit einer Wahrscheinlichkeit von 36 % „Talritual“ aus: Erhöht den mit Standardangriffen verursachten Schaden um 70 % ANG. Erlischt 0,05 s nach dem Verursachen von Schaden mit Standardangriffen. Erhöht, wenn der Effekt bei einem Standardangriff nicht ausgelöst wird, die Chance, dass er beim nächsten Mal ausgelöst wird, um 20 %, 0,2 s Abklingzeit."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.36000001430511475,
+                0.699999988079071,
+                0.05000000074505806,
+                0.20000000298023224,
+                0.20000000298023224,
+                0.20000000298023224,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Soulscent Bloom",
+                "de": "Blüte des Seelendufts"
+            },
+            "id": 98543,
+            "icon": "UI_RelicIcon_15024_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Jade Leaf",
+                "de": "Blatt der Jade"
+            },
+            "id": 98523,
+            "icon": "UI_RelicIcon_15024_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Symbol of Felicitation",
+                "de": "Zeichen des Rituals"
+            },
+            "id": 98553,
+            "icon": "UI_RelicIcon_15024_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Chalice of the Font",
+                "de": "Kelch der Quelle"
+            },
+            "id": 98513,
+            "icon": "UI_RelicIcon_15024_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "Flowing Rings",
+                "de": "Ring der Strömung"
+            },
+            "id": 98533,
+            "icon": "UI_RelicIcon_15024_3"
+        }
+    }
+}

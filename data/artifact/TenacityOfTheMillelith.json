@@ -1,0 +1,117 @@
+{
+    "templateType": "artifact",
+    "id": 15017,
+    "sortId": 68,
+    "name": {
+        "en": "Tenacity of the Millelith",
+        "de": "Zähigkeit der Millelithen"
+    },
+    "icon": "UI_RelicIcon_15017_4",
+    "setRequirement": [
+        2,
+        4
+    ],
+    "setAbilities": "Step Type Error: unexpected data type in template",
+    "containsIds": [
+        91340,
+        91320,
+        91350,
+        91310,
+        91330
+    ],
+    "textList": [
+        3006628830,
+        1301524275
+    ],
+    "setEffects": {
+        "2": {
+            "openConfig": "",
+            "description": {
+                "en": "HP increased by 20%.",
+                "de": "Erhöht die LP um 20 %."
+            },
+            "props": [
+                {
+                    "propType": "FIGHT_PROP_HP_PERCENT",
+                    "value": 0.20000000298023224
+                },
+                {},
+                {}
+            ],
+            "parameters": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "openConfig": "Relic_ShieldCostUpWhenElementalArtHit",
+            "description": {
+                "en": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+                "de": "Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten den ANG aller Truppenmitglieder in der Nähe um 20 % sowie die Schildeffizienz um 30 %, hält 3 s, 0,5 s Abklingzeit. Die Figur mit diesem Artefaktset kann diesen Effekt auch auslösen, wenn sie inaktiv in der Truppe ist."
+            },
+            "props": [
+                {},
+                {},
+                {}
+            ],
+            "parameters": [
+                0.20000000298023224,
+                0.30000001192092896,
+                3.0,
+                0.5,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "setPieces": {
+        "flower": {
+            "name": {
+                "en": "Flower of Accolades",
+                "de": "Belobigungsblume"
+            },
+            "id": 91540,
+            "icon": "UI_RelicIcon_15017_4"
+        },
+        "feather": {
+            "name": {
+                "en": "Ceremonial War-Plume",
+                "de": "Bekundungsfeder"
+            },
+            "id": 91520,
+            "icon": "UI_RelicIcon_15017_2"
+        },
+        "sands": {
+            "name": {
+                "en": "Orichalceous Time-Dial",
+                "de": "Kupferne Sonnenuhr"
+            },
+            "id": 91550,
+            "icon": "UI_RelicIcon_15017_5"
+        },
+        "goblet": {
+            "name": {
+                "en": "Noble's Pledging Vessel",
+                "de": "Edler Schwurkrug"
+            },
+            "id": 91510,
+            "icon": "UI_RelicIcon_15017_1"
+        },
+        "circlet": {
+            "name": {
+                "en": "General's Ancient Helm",
+                "de": "Generalshelm"
+            },
+            "id": 91530,
+            "icon": "UI_RelicIcon_15017_3"
+        }
+    }
+}
