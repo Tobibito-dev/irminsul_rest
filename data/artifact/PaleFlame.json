@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15018,
     "sortId": 69,
+    "equipAffixId": 215018,
     "name": {
         "en": "Pale Flame",
         "de": "Fahle Flammen"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5016,
+        5017
+    ],
     "containsIds": [
         92340,
         92320,
@@ -23,8 +27,8 @@
         3846340430,
         220839051
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Physical DMG is increased by 25%.",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_AttackUpWhenNormalAtkAndExtraAtkHit",
             "description": {
                 "en": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Stainless Bloom",
+            "de": "Blume der Reinheit"
+        },
+        "id": 92540,
+        "icon": "UI_RelicIcon_15018_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Stainless Bloom",
-                "de": "Blume der Reinheit"
-            },
-            "id": 92540,
-            "icon": "UI_RelicIcon_15018_4"
+    "feather": {
+        "name": {
+            "en": "Wise Doctor's Pinion",
+            "de": "Feder der Genesung"
         },
-        "feather": {
-            "name": {
-                "en": "Wise Doctor's Pinion",
-                "de": "Feder der Genesung"
-            },
-            "id": 92520,
-            "icon": "UI_RelicIcon_15018_2"
+        "id": 92520,
+        "icon": "UI_RelicIcon_15018_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Moment of Cessation",
+            "de": "Uhr des Stillstands"
         },
-        "sands": {
-            "name": {
-                "en": "Moment of Cessation",
-                "de": "Uhr des Stillstands"
-            },
-            "id": 92550,
-            "icon": "UI_RelicIcon_15018_5"
+        "id": 92550,
+        "icon": "UI_RelicIcon_15018_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Surpassing Cup",
+            "de": "Kelch der Überbietung"
         },
-        "goblet": {
-            "name": {
-                "en": "Surpassing Cup",
-                "de": "Kelch der Überbietung"
-            },
-            "id": 92510,
-            "icon": "UI_RelicIcon_15018_1"
+        "id": 92510,
+        "icon": "UI_RelicIcon_15018_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Mocking Mask",
+            "de": "Maske der Heiterkeit"
         },
-        "circlet": {
-            "name": {
-                "en": "Mocking Mask",
-                "de": "Maske der Heiterkeit"
-            },
-            "id": 92530,
-            "icon": "UI_RelicIcon_15018_3"
-        }
+        "id": 92530,
+        "icon": "UI_RelicIcon_15018_3"
     }
 }

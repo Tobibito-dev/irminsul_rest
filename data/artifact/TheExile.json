@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10009,
     "sortId": 28,
+    "equipAffixId": 210009,
     "name": {
         "en": "The Exile",
         "de": "Verbannter"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         59140,
         59120,
@@ -23,8 +24,8 @@
         1523555942,
         3039984011
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Energy Recharge +20%",
@@ -49,7 +50,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_UltGainEnergyForTeam",
             "description": {
                 "en": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
@@ -69,49 +70,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Exile's Flower",
+            "de": "Blume des Verbannten"
+        },
+        "id": 59440,
+        "icon": "UI_RelicIcon_10009_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Exile's Flower",
-                "de": "Blume des Verbannten"
-            },
-            "id": 59440,
-            "icon": "UI_RelicIcon_10009_4"
+    "feather": {
+        "name": {
+            "en": "Exile's Feather",
+            "de": "Feder des Verbannten"
         },
-        "feather": {
-            "name": {
-                "en": "Exile's Feather",
-                "de": "Feder des Verbannten"
-            },
-            "id": 59420,
-            "icon": "UI_RelicIcon_10009_2"
+        "id": 59420,
+        "icon": "UI_RelicIcon_10009_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Exile's Pocket Watch",
+            "de": "Taschenuhr des Verbannten"
         },
-        "sands": {
-            "name": {
-                "en": "Exile's Pocket Watch",
-                "de": "Taschenuhr des Verbannten"
-            },
-            "id": 59450,
-            "icon": "UI_RelicIcon_10009_5"
+        "id": 59450,
+        "icon": "UI_RelicIcon_10009_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Exile's Goblet",
+            "de": "Kelch des Verbannten"
         },
-        "goblet": {
-            "name": {
-                "en": "Exile's Goblet",
-                "de": "Kelch des Verbannten"
-            },
-            "id": 59410,
-            "icon": "UI_RelicIcon_10009_1"
+        "id": 59410,
+        "icon": "UI_RelicIcon_10009_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Exile's Circlet",
+            "de": "Haarreif des Verbannten"
         },
-        "circlet": {
-            "name": {
-                "en": "Exile's Circlet",
-                "de": "Haarreif des Verbannten"
-            },
-            "id": 59430,
-            "icon": "UI_RelicIcon_10009_3"
-        }
+        "id": 59430,
+        "icon": "UI_RelicIcon_10009_3"
     }
 }

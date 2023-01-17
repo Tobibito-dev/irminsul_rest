@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15006,
     "sortId": 62,
+    "equipAffixId": 215006,
     "name": {
         "en": "Crimson Witch of Flames",
         "de": "Brennende Pyro-Hexe"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5109,
+        5110
+    ],
     "containsIds": [
         80340,
         80320,
@@ -23,8 +27,8 @@
         2097515030,
         731621371
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Pyro DMG Bonus +15%",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ReactionFireEnhance",
             "description": {
                 "en": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Witch's Flower of Blaze",
+            "de": "Blume der Pyro-Hexe"
+        },
+        "id": 80540,
+        "icon": "UI_RelicIcon_15006_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Witch's Flower of Blaze",
-                "de": "Blume der Pyro-Hexe"
-            },
-            "id": 80540,
-            "icon": "UI_RelicIcon_15006_4"
+    "feather": {
+        "name": {
+            "en": "Witch's Ever-Burning Plume",
+            "de": "Feder der Pyro-Hexe"
         },
-        "feather": {
-            "name": {
-                "en": "Witch's Ever-Burning Plume",
-                "de": "Feder der Pyro-Hexe"
-            },
-            "id": 80520,
-            "icon": "UI_RelicIcon_15006_2"
+        "id": 80520,
+        "icon": "UI_RelicIcon_15006_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Witch's End Time",
+            "de": "Stunde der Vernichtung"
         },
-        "sands": {
-            "name": {
-                "en": "Witch's End Time",
-                "de": "Stunde der Vernichtung"
-            },
-            "id": 80550,
-            "icon": "UI_RelicIcon_15006_5"
+        "id": 80550,
+        "icon": "UI_RelicIcon_15006_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Witch's Heart Flames",
+            "de": "Herz der Pyro-Hexe"
         },
-        "goblet": {
-            "name": {
-                "en": "Witch's Heart Flames",
-                "de": "Herz der Pyro-Hexe"
-            },
-            "id": 80510,
-            "icon": "UI_RelicIcon_15006_1"
+        "id": 80510,
+        "icon": "UI_RelicIcon_15006_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Witch's Scorching Hat",
+            "de": "Brennender Hexenhut"
         },
-        "circlet": {
-            "name": {
-                "en": "Witch's Scorching Hat",
-                "de": "Brennender Hexenhut"
-            },
-            "id": 80530,
-            "icon": "UI_RelicIcon_15006_3"
-        }
+        "id": 80530,
+        "icon": "UI_RelicIcon_15006_3"
     }
 }

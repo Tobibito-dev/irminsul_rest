@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15002,
     "sortId": 59,
+    "equipAffixId": 215002,
     "name": {
         "en": "Viridescent Venerer",
         "de": "Grünlicher Schatten"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5011,
+        5012
+    ],
     "containsIds": [
         76340,
         76320,
@@ -23,8 +27,8 @@
         3418857494,
         3906211907
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Anemo DMG Bonus +15%",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ReactionWindEnhance",
             "description": {
                 "en": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "In Remembrance of Viridescent Fields",
+            "de": "Feldjägerblume"
+        },
+        "id": 76540,
+        "icon": "UI_RelicIcon_15002_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "In Remembrance of Viridescent Fields",
-                "de": "Feldjägerblume"
-            },
-            "id": 76540,
-            "icon": "UI_RelicIcon_15002_4"
+    "feather": {
+        "name": {
+            "en": "Viridescent Arrow Feather",
+            "de": "Feldjäger-Pfeilfeder"
         },
-        "feather": {
-            "name": {
-                "en": "Viridescent Arrow Feather",
-                "de": "Feldjäger-Pfeilfeder"
-            },
-            "id": 76520,
-            "icon": "UI_RelicIcon_15002_2"
+        "id": 76520,
+        "icon": "UI_RelicIcon_15002_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Viridescent Venerer's Determination",
+            "de": "Gelassenheit des Feldjägers"
         },
-        "sands": {
-            "name": {
-                "en": "Viridescent Venerer's Determination",
-                "de": "Gelassenheit des Feldjägers"
-            },
-            "id": 76550,
-            "icon": "UI_RelicIcon_15002_5"
+        "id": 76550,
+        "icon": "UI_RelicIcon_15002_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Viridescent Venerer's Vessel",
+            "de": "Feldjäger-Flachmann"
         },
-        "goblet": {
-            "name": {
-                "en": "Viridescent Venerer's Vessel",
-                "de": "Feldjäger-Flachmann"
-            },
-            "id": 76510,
-            "icon": "UI_RelicIcon_15002_1"
+        "id": 76510,
+        "icon": "UI_RelicIcon_15002_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Viridescent Venerer's Diadem",
+            "de": "Feldjägerhut"
         },
-        "circlet": {
-            "name": {
-                "en": "Viridescent Venerer's Diadem",
-                "de": "Feldjägerhut"
-            },
-            "id": 76530,
-            "icon": "UI_RelicIcon_15002_3"
-        }
+        "id": 76530,
+        "icon": "UI_RelicIcon_15002_3"
     }
 }

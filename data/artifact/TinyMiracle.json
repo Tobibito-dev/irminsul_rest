@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10004,
     "sortId": 25,
+    "equipAffixId": 210004,
     "name": {
         "en": "Tiny Miracle",
         "de": "Wunder"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         54140,
         54120,
@@ -23,8 +24,8 @@
         2558816190,
         1164604419
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "Relic_AllElemResistUp",
             "description": {
                 "en": "All Elemental RES increased by 20%.",
@@ -46,7 +47,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ElemDmgEnhanceElemResist",
             "description": {
                 "en": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.",
@@ -66,49 +67,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Tiny Miracle's Flower",
+            "de": "Wunderblume"
+        },
+        "id": 54440,
+        "icon": "UI_RelicIcon_10004_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Tiny Miracle's Flower",
-                "de": "Wunderblume"
-            },
-            "id": 54440,
-            "icon": "UI_RelicIcon_10004_4"
+    "feather": {
+        "name": {
+            "en": "Tiny Miracle's Feather",
+            "de": "Wunderfeder"
         },
-        "feather": {
-            "name": {
-                "en": "Tiny Miracle's Feather",
-                "de": "Wunderfeder"
-            },
-            "id": 54420,
-            "icon": "UI_RelicIcon_10004_2"
+        "id": 54420,
+        "icon": "UI_RelicIcon_10004_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Tiny Miracle's Hourglass",
+            "de": "Wundersanduhr"
         },
-        "sands": {
-            "name": {
-                "en": "Tiny Miracle's Hourglass",
-                "de": "Wundersanduhr"
-            },
-            "id": 54450,
-            "icon": "UI_RelicIcon_10004_5"
+        "id": 54450,
+        "icon": "UI_RelicIcon_10004_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Tiny Miracle's Goblet",
+            "de": "Wunderkelch"
         },
-        "goblet": {
-            "name": {
-                "en": "Tiny Miracle's Goblet",
-                "de": "Wunderkelch"
-            },
-            "id": 54410,
-            "icon": "UI_RelicIcon_10004_1"
+        "id": 54410,
+        "icon": "UI_RelicIcon_10004_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Tiny Miracle's Earrings",
+            "de": "Wunderohrhänger"
         },
-        "circlet": {
-            "name": {
-                "en": "Tiny Miracle's Earrings",
-                "de": "Wunderohrhänger"
-            },
-            "id": 54430,
-            "icon": "UI_RelicIcon_10004_3"
-        }
+        "id": 54430,
+        "icon": "UI_RelicIcon_10004_3"
     }
 }

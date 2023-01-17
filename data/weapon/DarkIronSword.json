@@ -499,7 +499,7 @@
                 "value": 4.502999782562256,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
@@ -509,7 +509,7 @@
                 "value": 4.573999881744385,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -519,7 +519,7 @@
                 "value": 4.644000053405762,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -529,7 +529,7 @@
                 "value": 4.714000225067139,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -539,7 +539,7 @@
                 "value": 4.783999919891357,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -549,7 +549,7 @@
                 "value": 4.855000019073486,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
@@ -559,7 +559,7 @@
                 "value": 4.925000190734863,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -569,7 +569,7 @@
                 "value": 4.994999885559082,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -579,7 +579,7 @@
                 "value": 5.065000057220459,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -589,7 +589,7 @@
                 "value": 5.133999824523926,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -599,7 +599,7 @@
                 "value": 5.203999996185303,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
@@ -609,7 +609,7 @@
                 "value": 5.27400016784668,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -619,7 +619,7 @@
                 "value": 5.343999862670898,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -629,7 +629,7 @@
                 "value": 5.413000106811523,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -639,7 +639,7 @@
                 "value": 5.482999801635742,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -649,7 +649,7 @@
                 "value": 5.552000045776367,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
@@ -659,7 +659,7 @@
                 "value": 5.622000217437744,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -669,7 +669,7 @@
                 "value": 5.690999984741211,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -679,7 +679,7 @@
                 "value": 5.761000156402588,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -689,7 +689,7 @@
                 "value": 5.829999923706055,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -699,7 +699,7 @@
                 "value": 5.89900016784668,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
@@ -709,7 +709,7 @@
                 "value": 5.9679999351501465,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -719,7 +719,7 @@
                 "value": 6.038000106811523,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -729,7 +729,7 @@
                 "value": 6.10699987411499,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -739,7 +739,7 @@
                 "value": 6.176000118255615,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -749,7 +749,7 @@
                 "value": 6.244999885559082,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
@@ -759,7 +759,7 @@
                 "value": 6.314000129699707,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -769,7 +769,7 @@
                 "value": 6.382999897003174,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -779,7 +779,7 @@
                 "value": 6.452000141143799,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -789,7 +789,7 @@
                 "value": 6.520999908447266,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -799,7 +799,7 @@
                 "value": 6.590000152587891,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
@@ -809,7 +809,7 @@
                 "value": 6.658999919891357,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -819,7 +819,7 @@
                 "value": 6.7270002365112305,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -829,7 +829,7 @@
                 "value": 6.796000003814697,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -839,7 +839,7 @@
                 "value": 6.864999771118164,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -849,7 +849,7 @@
                 "value": 6.934000015258789,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
@@ -859,7 +859,7 @@
                 "value": 7.002999782562256,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -869,7 +869,7 @@
                 "value": 7.071000099182129,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -879,7 +879,7 @@
                 "value": 7.139999866485596,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -889,7 +889,7 @@
                 "value": 7.209000110626221,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -899,7 +899,7 @@
                 "value": 7.2769999504089355,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
@@ -909,7 +909,7 @@
                 "value": 7.3460001945495605,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -919,7 +919,7 @@
                 "value": 7.414999961853027,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -929,7 +929,7 @@
                 "value": 7.482999801635742,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -939,7 +939,7 @@
                 "value": 7.552000045776367,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -949,7 +949,7 @@
                 "value": 7.620999813079834,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
@@ -959,7 +959,7 @@
                 "value": 7.689000129699707,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -969,7 +969,7 @@
                 "value": 7.757999897003174,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -979,7 +979,7 @@
                 "value": 7.827000141143799,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_HP_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -989,7 +989,7 @@
                 "value": 7.894999980926514,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_DEFENSE_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -999,7 +999,7 @@
                 "value": 7.964000225067139,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_DEFENSE_PERCENT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1009,7 +1009,7 @@
                 "value": 8.032999992370605,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ELEMENT_MASTERY": {
+            "FIGHT_PROP_DEFENSE_PERCENT": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

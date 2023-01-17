@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15014,
     "sortId": 65,
+    "equipAffixId": 215014,
     "name": {
         "en": "Archaic Petra",
         "de": "Archaischer Fels"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5104,
+        5105
+    ],
     "containsIds": [
         88340,
         88320,
@@ -23,8 +27,8 @@
         2664577174,
         592694043
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Gain a 15% Geo DMG Bonus.",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ElementDmgUpAfterCrystalShield",
             "description": {
                 "en": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Flower of Creviced Cliff",
+            "de": "Blüte der splitternden Felsen"
+        },
+        "id": 88540,
+        "icon": "UI_RelicIcon_15014_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Flower of Creviced Cliff",
-                "de": "Blüte der splitternden Felsen"
-            },
-            "id": 88540,
-            "icon": "UI_RelicIcon_15014_4"
+    "feather": {
+        "name": {
+            "en": "Feather of Jagged Peaks",
+            "de": "Flügel der luftigen Gipfel"
         },
-        "feather": {
-            "name": {
-                "en": "Feather of Jagged Peaks",
-                "de": "Flügel der luftigen Gipfel"
-            },
-            "id": 88520,
-            "icon": "UI_RelicIcon_15014_2"
+        "id": 88520,
+        "icon": "UI_RelicIcon_15014_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Sundial of Enduring Jade",
+            "de": "Sonnenuhr der düsteren Jade"
         },
-        "sands": {
-            "name": {
-                "en": "Sundial of Enduring Jade",
-                "de": "Sonnenuhr der düsteren Jade"
-            },
-            "id": 88550,
-            "icon": "UI_RelicIcon_15014_5"
+        "id": 88550,
+        "icon": "UI_RelicIcon_15014_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Goblet of Chiseled Crag",
+            "de": "Krug aus Felsgestein"
         },
-        "goblet": {
-            "name": {
-                "en": "Goblet of Chiseled Crag",
-                "de": "Krug aus Felsgestein"
-            },
-            "id": 88510,
-            "icon": "UI_RelicIcon_15014_1"
+        "id": 88510,
+        "icon": "UI_RelicIcon_15014_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Mask of Solitude Basalt",
+            "de": "Maske des starren Gesteins"
         },
-        "circlet": {
-            "name": {
-                "en": "Mask of Solitude Basalt",
-                "de": "Maske des starren Gesteins"
-            },
-            "id": 88530,
-            "icon": "UI_RelicIcon_15014_3"
-        }
+        "id": 88530,
+        "icon": "UI_RelicIcon_15014_3"
     }
 }

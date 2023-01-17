@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10006,
     "sortId": 31,
+    "equipAffixId": 210006,
     "name": {
         "en": "Martial Artist",
         "de": "Kampfkünstler"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         56140,
         56120,
@@ -23,8 +24,8 @@
         2301958078,
         1744056099
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "Relic_AtkAndExtraAtkUp",
             "description": {
                 "en": "Increases Normal Attack and Charged Attack DMG by 15%.",
@@ -46,7 +47,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_SkillEnhanceNormalAtkAndExtraAtk",
             "description": {
                 "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
@@ -66,49 +67,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Martial Artist's Red Flower",
+            "de": "Rote Kampfkünstlerblume"
+        },
+        "id": 56440,
+        "icon": "UI_RelicIcon_10006_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Martial Artist's Red Flower",
-                "de": "Rote Kampfkünstlerblume"
-            },
-            "id": 56440,
-            "icon": "UI_RelicIcon_10006_4"
+    "feather": {
+        "name": {
+            "en": "Martial Artist's Feather Accessory",
+            "de": "Kampfkünstler-Federschmuck"
         },
-        "feather": {
-            "name": {
-                "en": "Martial Artist's Feather Accessory",
-                "de": "Kampfkünstler-Federschmuck"
-            },
-            "id": 56420,
-            "icon": "UI_RelicIcon_10006_2"
+        "id": 56420,
+        "icon": "UI_RelicIcon_10006_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Martial Artist's Water Hourglass",
+            "de": "Kampfkünstler-Wasseruhr"
         },
-        "sands": {
-            "name": {
-                "en": "Martial Artist's Water Hourglass",
-                "de": "Kampfkünstler-Wasseruhr"
-            },
-            "id": 56450,
-            "icon": "UI_RelicIcon_10006_5"
+        "id": 56450,
+        "icon": "UI_RelicIcon_10006_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Martial Artist's Wine Cup",
+            "de": "Kampfkünstler-Weinkelch"
         },
-        "goblet": {
-            "name": {
-                "en": "Martial Artist's Wine Cup",
-                "de": "Kampfkünstler-Weinkelch"
-            },
-            "id": 56410,
-            "icon": "UI_RelicIcon_10006_1"
+        "id": 56410,
+        "icon": "UI_RelicIcon_10006_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Martial Artist's Bandana",
+            "de": "Kampfkünstler-Kopftuch"
         },
-        "circlet": {
-            "name": {
-                "en": "Martial Artist's Bandana",
-                "de": "Kampfkünstler-Kopftuch"
-            },
-            "id": 56430,
-            "icon": "UI_RelicIcon_10006_3"
-        }
+        "id": 56430,
+        "icon": "UI_RelicIcon_10006_3"
     }
 }

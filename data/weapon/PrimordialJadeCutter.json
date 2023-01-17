@@ -576,440 +576,440 @@
         },
         "57": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.359000205993652,
+                "value": 6.011000156402588,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "58": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.436999797821045,
+                "value": 6.105000019073486,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "59": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.515999794006348,
+                "value": 6.197999954223633,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "60": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.59499979019165,
+                "value": 6.291999816894531,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "61": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.673999786376953,
+                "value": 6.386000156402588,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "62": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.752999782562256,
+                "value": 6.480000019073486,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "63": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.833000183105469,
+                "value": 6.574999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "64": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.9120001792907715,
+                "value": 6.669000148773193,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "65": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.991000175476074,
+                "value": 6.763000011444092,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "66": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.071000099182129,
+                "value": 6.857999801635742,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "67": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.150000095367432,
+                "value": 6.953000068664551,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "68": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.230000019073486,
+                "value": 7.047999858856201,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "69": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.309999942779541,
+                "value": 7.14300012588501,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "70": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.389999866485596,
+                "value": 7.23799991607666,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "71": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.46999979019165,
+                "value": 7.334000110626221,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "72": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.550000190734863,
+                "value": 7.428999900817871,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "73": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.630000114440918,
+                "value": 7.525000095367432,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "74": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.710000038146973,
+                "value": 7.620999813079834,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "75": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.790999889373779,
+                "value": 7.7170000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "76": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.870999813079834,
+                "value": 7.813000202178955,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "77": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.952000141143799,
+                "value": 7.908999919891357,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "78": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.0329999923706055,
+                "value": 8.005000114440918,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "79": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.11299991607666,
+                "value": 8.10200023651123,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "80": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.193999767303467,
+                "value": 8.199000358581543,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "81": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.275000095367432,
+                "value": 8.295000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "82": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.35699987411499,
+                "value": 8.392000198364258,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "83": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.438000202178955,
+                "value": 8.48900032043457,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "84": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.519000053405762,
+                "value": 8.586999893188477,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "85": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.60099983215332,
+                "value": 8.684000015258789,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "86": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.682000160217285,
+                "value": 8.781999588012695,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "87": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.763999938964844,
+                "value": 8.878999710083008,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "88": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.8460001945495605,
+                "value": 8.97700023651123,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "89": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.927999973297119,
+                "value": 9.074999809265137,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "90": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.010000228881836,
+                "value": 9.17300033569336,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "91": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.092000007629395,
+                "value": 9.270999908447266,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "92": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.173999786376953,
+                "value": 9.369999885559082,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "93": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.256999969482422,
+                "value": 9.468000411987305,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "94": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.33899974822998,
+                "value": 9.567000389099121,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "95": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.42199993133545,
+                "value": 9.666000366210938,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "96": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.505000114440918,
+                "value": 9.765000343322754,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "97": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.588000297546387,
+                "value": 9.86400032043457,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "98": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.670999526977539,
+                "value": 9.963000297546387,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "99": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.753999710083008,
+                "value": 10.062000274658203,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "100": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.836999893188477,
+                "value": 10.161999702453613,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

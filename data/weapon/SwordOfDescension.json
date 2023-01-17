@@ -486,530 +486,530 @@
         },
         "48": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.433000087738037,
+                "value": 5.755000114440918,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
         },
         "49": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.502999782562256,
+                "value": 5.861000061035156,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.7769999504089355,
                 "arith": "ARITH_MULTI"
             }
         },
         "50": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.573999881744385,
+                "value": 5.9679999351501465,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "51": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.644000053405762,
+                "value": 6.073999881744385,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "52": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.714000225067139,
+                "value": 6.181000232696533,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "53": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.783999919891357,
+                "value": 6.288000106811523,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "54": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.855000019073486,
+                "value": 6.394999980926514,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 2.9790000915527344,
                 "arith": "ARITH_MULTI"
             }
         },
         "55": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.925000190734863,
+                "value": 6.501999855041504,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "56": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 4.994999885559082,
+                "value": 6.609000205993652,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "57": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.065000057220459,
+                "value": 6.7170000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "58": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.133999824523926,
+                "value": 6.823999881744385,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "59": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.203999996185303,
+                "value": 6.932000160217285,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.180999994277954,
                 "arith": "ARITH_MULTI"
             }
         },
         "60": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.27400016784668,
+                "value": 7.039000034332275,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "61": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.343999862670898,
+                "value": 7.146999835968018,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "62": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.413000106811523,
+                "value": 7.255000114440918,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "63": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.482999801635742,
+                "value": 7.36299991607666,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "64": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.552000045776367,
+                "value": 7.4710001945495605,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.382999897003174,
                 "arith": "ARITH_MULTI"
             }
         },
         "65": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.622000217437744,
+                "value": 7.578999996185303,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "66": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.690999984741211,
+                "value": 7.686999797821045,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "67": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.761000156402588,
+                "value": 7.795000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "68": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.829999923706055,
+                "value": 7.9039998054504395,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "69": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.89900016784668,
+                "value": 8.01200008392334,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.5850000381469727,
                 "arith": "ARITH_MULTI"
             }
         },
         "70": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 5.9679999351501465,
+                "value": 8.119999885559082,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "71": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.038000106811523,
+                "value": 8.229000091552734,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "72": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.10699987411499,
+                "value": 8.338000297546387,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "73": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.176000118255615,
+                "value": 8.446000099182129,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "74": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.244999885559082,
+                "value": 8.555000305175781,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.7860000133514404,
                 "arith": "ARITH_MULTI"
             }
         },
         "75": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.314000129699707,
+                "value": 8.663999557495117,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "76": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.382999897003174,
+                "value": 8.77299976348877,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "77": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.452000141143799,
+                "value": 8.881999969482422,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "78": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.520999908447266,
+                "value": 8.991000175476074,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "79": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.590000152587891,
+                "value": 9.100000381469727,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 3.98799991607666,
                 "arith": "ARITH_MULTI"
             }
         },
         "80": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.658999919891357,
+                "value": 9.208999633789062,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "81": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.7270002365112305,
+                "value": 9.319000244140625,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "82": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.796000003814697,
+                "value": 9.428000450134277,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "83": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.864999771118164,
+                "value": 9.536999702453613,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "84": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 6.934000015258789,
+                "value": 9.647000312805176,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.190000057220459,
                 "arith": "ARITH_MULTI"
             }
         },
         "85": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.002999782562256,
+                "value": 9.755999565124512,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "86": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.071000099182129,
+                "value": 9.866000175476074,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "87": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.139999866485596,
+                "value": 9.975000381469727,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "88": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.209000110626221,
+                "value": 10.085000038146973,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "89": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.2769999504089355,
+                "value": 10.194999694824219,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.392000198364258,
                 "arith": "ARITH_MULTI"
             }
         },
         "90": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.3460001945495605,
+                "value": 10.305000305175781,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "91": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.414999961853027,
+                "value": 10.413999557495117,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "92": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.482999801635742,
+                "value": 10.52400016784668,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "93": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.552000045776367,
+                "value": 10.633999824523926,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "94": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.620999813079834,
+                "value": 10.744000434875488,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.593999862670898,
                 "arith": "ARITH_MULTI"
             }
         },
         "95": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.689000129699707,
+                "value": 10.854000091552734,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "96": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.757999897003174,
+                "value": 10.96399974822998,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "97": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.827000141143799,
+                "value": 11.074000358581543,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "98": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.894999980926514,
+                "value": 11.184000015258789,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "99": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 7.964000225067139,
+                "value": 11.295000076293945,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "100": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 8.032999992370605,
+                "value": 11.404999732971191,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_ATTACK_PERCENT": {
+            "FIGHT_PROP_ELEMENT_MASTERY": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

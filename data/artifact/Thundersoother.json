@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 14002,
     "sortId": 55,
+    "equipAffixId": 214002,
     "name": {
         "en": "Thundersoother",
         "de": "Donner beruhigender Weiser"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5005,
+        5006
+    ],
     "containsIds": [
         72340,
         72320,
@@ -23,8 +27,8 @@
         1192561894,
         1968896091
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Electro RES increased by 40%.",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_DamageUpAgainstElectric",
             "description": {
                 "en": "Increases DMG against opponents affected by Electro by 35%.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Thundersoother's Heart",
+            "de": "Herz des Donnerbändigers"
+        },
+        "id": 72540,
+        "icon": "UI_RelicIcon_14002_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Thundersoother's Heart",
-                "de": "Herz des Donnerbändigers"
-            },
-            "id": 72540,
-            "icon": "UI_RelicIcon_14002_4"
+    "feather": {
+        "name": {
+            "en": "Thundersoother's Plume",
+            "de": "Feder des Donnerbändigers"
         },
-        "feather": {
-            "name": {
-                "en": "Thundersoother's Plume",
-                "de": "Feder des Donnerbändigers"
-            },
-            "id": 72520,
-            "icon": "UI_RelicIcon_14002_2"
+        "id": 72520,
+        "icon": "UI_RelicIcon_14002_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Hour of Soothing Thunder",
+            "de": "Stunde des Donnerbändigers"
         },
-        "sands": {
-            "name": {
-                "en": "Hour of Soothing Thunder",
-                "de": "Stunde des Donnerbändigers"
-            },
-            "id": 72550,
-            "icon": "UI_RelicIcon_14002_5"
+        "id": 72550,
+        "icon": "UI_RelicIcon_14002_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Thundersoother's Goblet",
+            "de": "Kelch des Donnerbändigers"
         },
-        "goblet": {
-            "name": {
-                "en": "Thundersoother's Goblet",
-                "de": "Kelch des Donnerbändigers"
-            },
-            "id": 72510,
-            "icon": "UI_RelicIcon_14002_1"
+        "id": 72510,
+        "icon": "UI_RelicIcon_14002_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Thundersoother's Diadem",
+            "de": "Krone des Donnerbändigers"
         },
-        "circlet": {
-            "name": {
-                "en": "Thundersoother's Diadem",
-                "de": "Krone des Donnerbändigers"
-            },
-            "id": 72530,
-            "icon": "UI_RelicIcon_14002_3"
-        }
+        "id": 72530,
+        "icon": "UI_RelicIcon_14002_3"
     }
 }

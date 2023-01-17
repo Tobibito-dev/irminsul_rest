@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15011,
     "sortId": 36,
+    "equipAffixId": 215011,
     "name": {
         "en": "Prayers for Wisdom",
         "de": "Blitzopfer"
@@ -10,7 +11,7 @@
     "setRequirement": [
         1
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         85330
     ],
@@ -18,8 +19,8 @@
         3683910422,
         1198100419
     ],
-    "setEffects": {
-        "1": {
+    "setEffects": [
+        {
             "openConfig": "Relic_ElectricResistance",
             "description": {
                 "en": "Affected by Electro for 40% less time.",
@@ -40,36 +41,41 @@
                 0.0,
                 0.0
             ]
+        },
+        {
+            "openConfig": "Doesn't exist on this Item",
+            "description": "Doesn't exist on this Item",
+            "props": "Doesn't exist on this Item",
+            "parameters": "Doesn't exist on this Item",
+            "level": "Doesn't exist on this Item"
         }
+    ],
+    "flower": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
     },
-    "setPieces": {
-        "flower": {
-            "name": "Step Type Error: unexpected data type in template",
-            "id": "Step Type Error: unexpected data type in template",
-            "icon": "Step Type Error: unexpected data type in template"
+    "feather": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "sands": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "goblet": {
+        "name": "Step Type Error: unexpected data type in template",
+        "id": "Step Type Error: unexpected data type in template",
+        "icon": "Step Type Error: unexpected data type in template"
+    },
+    "circlet": {
+        "name": {
+            "en": "Tiara of Thunder",
+            "de": "Blitzopferdiadem"
         },
-        "feather": {
-            "name": "Step Type Error: unexpected data type in template",
-            "id": "Step Type Error: unexpected data type in template",
-            "icon": "Step Type Error: unexpected data type in template"
-        },
-        "sands": {
-            "name": "Step Type Error: unexpected data type in template",
-            "id": "Step Type Error: unexpected data type in template",
-            "icon": "Step Type Error: unexpected data type in template"
-        },
-        "goblet": {
-            "name": "Step Type Error: unexpected data type in template",
-            "id": "Step Type Error: unexpected data type in template",
-            "icon": "Step Type Error: unexpected data type in template"
-        },
-        "circlet": {
-            "name": {
-                "en": "Tiara of Thunder",
-                "de": "Blitzopferdiadem"
-            },
-            "id": 85430,
-            "icon": "UI_RelicIcon_15011_3"
-        }
+        "id": 85430,
+        "icon": "UI_RelicIcon_15011_3"
     }
 }

@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15015,
     "sortId": 66,
+    "equipAffixId": 215015,
     "name": {
         "en": "Retracing Bolide",
         "de": "Umgekehrter Meteor"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5104,
+        5105
+    ],
     "containsIds": [
         89340,
         89320,
@@ -23,8 +27,8 @@
         3519135894,
         3824293219
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Increases Shield Strength by 35%.",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ShieldEnhanceAtk",
             "description": {
                 "en": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Summer Night's Bloom",
+            "de": "Sommerfestbrosche"
+        },
+        "id": 89540,
+        "icon": "UI_RelicIcon_15015_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Summer Night's Bloom",
-                "de": "Sommerfestbrosche"
-            },
-            "id": 89540,
-            "icon": "UI_RelicIcon_15015_4"
+    "feather": {
+        "name": {
+            "en": "Summer Night's Finale",
+            "de": "Ende des Sommerfestes"
         },
-        "feather": {
-            "name": {
-                "en": "Summer Night's Finale",
-                "de": "Ende des Sommerfestes"
-            },
-            "id": 89520,
-            "icon": "UI_RelicIcon_15015_2"
+        "id": 89520,
+        "icon": "UI_RelicIcon_15015_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Summer Night's Moment",
+            "de": "Sommerfestuhr"
         },
-        "sands": {
-            "name": {
-                "en": "Summer Night's Moment",
-                "de": "Sommerfestuhr"
-            },
-            "id": 89550,
-            "icon": "UI_RelicIcon_15015_5"
+        "id": 89550,
+        "icon": "UI_RelicIcon_15015_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Summer Night's Waterballoon",
+            "de": "Sommerfest-Wasserballon"
         },
-        "goblet": {
-            "name": {
-                "en": "Summer Night's Waterballoon",
-                "de": "Sommerfest-Wasserballon"
-            },
-            "id": 89510,
-            "icon": "UI_RelicIcon_15015_1"
+        "id": 89510,
+        "icon": "UI_RelicIcon_15015_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Summer Night's Mask",
+            "de": "Sommerfestmaske"
         },
-        "circlet": {
-            "name": {
-                "en": "Summer Night's Mask",
-                "de": "Sommerfestmaske"
-            },
-            "id": 89530,
-            "icon": "UI_RelicIcon_15015_3"
-        }
+        "id": 89530,
+        "icon": "UI_RelicIcon_15015_3"
     }
 }

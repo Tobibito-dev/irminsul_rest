@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10010,
     "sortId": 7,
+    "equipAffixId": 210010,
     "name": {
         "en": "Adventurer",
         "de": "Abenteurer"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         60140,
         60120,
@@ -23,8 +24,8 @@
         1817050462,
         575390611
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Max HP increased by 1000.",
@@ -49,7 +50,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ChestHealSelf",
             "description": {
                 "en": "Opening a chest regenerates 30% Max HP over 5s.",
@@ -69,49 +70,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Adventurer's Flower",
+            "de": "Blume eines Abenteurers"
+        },
+        "id": 60340,
+        "icon": "UI_RelicIcon_10010_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Adventurer's Flower",
-                "de": "Blume eines Abenteurers"
-            },
-            "id": 60340,
-            "icon": "UI_RelicIcon_10010_4"
+    "feather": {
+        "name": {
+            "en": "Adventurer's Tail Feather",
+            "de": "Abenteurerschwanzfeder"
         },
-        "feather": {
-            "name": {
-                "en": "Adventurer's Tail Feather",
-                "de": "Abenteurerschwanzfeder"
-            },
-            "id": 60320,
-            "icon": "UI_RelicIcon_10010_2"
+        "id": 60320,
+        "icon": "UI_RelicIcon_10010_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Adventurer's Pocket Watch",
+            "de": "Taschenuhr eines Abenteurers"
         },
-        "sands": {
-            "name": {
-                "en": "Adventurer's Pocket Watch",
-                "de": "Taschenuhr eines Abenteurers"
-            },
-            "id": 60350,
-            "icon": "UI_RelicIcon_10010_5"
+        "id": 60350,
+        "icon": "UI_RelicIcon_10010_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Adventurer's Golden Goblet",
+            "de": "Goldkelch eines Abenteurers"
         },
-        "goblet": {
-            "name": {
-                "en": "Adventurer's Golden Goblet",
-                "de": "Goldkelch eines Abenteurers"
-            },
-            "id": 60310,
-            "icon": "UI_RelicIcon_10010_1"
+        "id": 60310,
+        "icon": "UI_RelicIcon_10010_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Adventurer's Bandana",
+            "de": "Kopftuch eines Abenteurers"
         },
-        "circlet": {
-            "name": {
-                "en": "Adventurer's Bandana",
-                "de": "Kopftuch eines Abenteurers"
-            },
-            "id": 60330,
-            "icon": "UI_RelicIcon_10010_3"
-        }
+        "id": 60330,
+        "icon": "UI_RelicIcon_10010_3"
     }
 }

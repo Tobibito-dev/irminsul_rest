@@ -969,7 +969,7 @@
                 "value": 8.843999862670898,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -979,7 +979,7 @@
                 "value": 8.927000045776367,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -989,7 +989,7 @@
                 "value": 9.008999824523926,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -999,7 +999,7 @@
                 "value": 9.092000007629395,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
@@ -1009,7 +1009,7 @@
                 "value": 9.173999786376953,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL_HURT": {
+            "FIGHT_PROP_CHARGE_EFFICIENCY": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }

@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10005,
     "sortId": 26,
+    "equipAffixId": 210005,
     "name": {
         "en": "Berserker",
         "de": "Berserker"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         55140,
         55120,
@@ -23,8 +24,8 @@
         1440602798,
         3934658059
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "CRIT Rate +12%",
@@ -49,7 +50,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_LowHPGainExtraCritRate",
             "description": {
                 "en": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
@@ -69,49 +70,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Berserker's Rose",
+            "de": "Berserkerrose"
+        },
+        "id": 55440,
+        "icon": "UI_RelicIcon_10005_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Berserker's Rose",
-                "de": "Berserkerrose"
-            },
-            "id": 55440,
-            "icon": "UI_RelicIcon_10005_4"
+    "feather": {
+        "name": {
+            "en": "Berserker's Indigo Feather",
+            "de": "Berserkerfeder"
         },
-        "feather": {
-            "name": {
-                "en": "Berserker's Indigo Feather",
-                "de": "Berserkerfeder"
-            },
-            "id": 55420,
-            "icon": "UI_RelicIcon_10005_2"
+        "id": 55420,
+        "icon": "UI_RelicIcon_10005_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Berserker's Timepiece",
+            "de": "Berserkersanduhr"
         },
-        "sands": {
-            "name": {
-                "en": "Berserker's Timepiece",
-                "de": "Berserkersanduhr"
-            },
-            "id": 55450,
-            "icon": "UI_RelicIcon_10005_5"
+        "id": 55450,
+        "icon": "UI_RelicIcon_10005_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Berserker's Bone Goblet",
+            "de": "Berserkertrinkhorn"
         },
-        "goblet": {
-            "name": {
-                "en": "Berserker's Bone Goblet",
-                "de": "Berserkertrinkhorn"
-            },
-            "id": 55410,
-            "icon": "UI_RelicIcon_10005_1"
+        "id": 55410,
+        "icon": "UI_RelicIcon_10005_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Berserker's Battle Mask",
+            "de": "Furchteinflößende Berserkermaske"
         },
-        "circlet": {
-            "name": {
-                "en": "Berserker's Battle Mask",
-                "de": "Furchteinflößende Berserkermaske"
-            },
-            "id": 55430,
-            "icon": "UI_RelicIcon_10005_3"
-        }
+        "id": 55430,
+        "icon": "UI_RelicIcon_10005_3"
     }
 }

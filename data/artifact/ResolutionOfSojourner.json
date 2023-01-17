@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 10001,
     "sortId": 24,
+    "equipAffixId": 210001,
     "name": {
         "en": "Resolution of Sojourner",
         "de": "Fernweh"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         51140,
         51120,
@@ -23,8 +24,8 @@
         3554068574,
         3930680251
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "ATK +18%.",
@@ -49,7 +50,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_ExtraAtkCritUp",
             "description": {
                 "en": "Increases Charged Attack CRIT Rate by 30%.",
@@ -69,49 +70,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Heart of Comradeship",
+            "de": "Sinn der Kameradschaft"
+        },
+        "id": 51440,
+        "icon": "UI_RelicIcon_10001_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Heart of Comradeship",
-                "de": "Sinn der Kameradschaft"
-            },
-            "id": 51440,
-            "icon": "UI_RelicIcon_10001_4"
+    "feather": {
+        "name": {
+            "en": "Feather of Homecoming",
+            "de": "Feder der Heimkehr"
         },
-        "feather": {
-            "name": {
-                "en": "Feather of Homecoming",
-                "de": "Feder der Heimkehr"
-            },
-            "id": 51420,
-            "icon": "UI_RelicIcon_10001_2"
+        "id": 51420,
+        "icon": "UI_RelicIcon_10001_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Sundial of the Sojourner",
+            "de": "Stein der Lichtjagd"
         },
-        "sands": {
-            "name": {
-                "en": "Sundial of the Sojourner",
-                "de": "Stein der Lichtjagd"
-            },
-            "id": 51450,
-            "icon": "UI_RelicIcon_10001_5"
+        "id": 51450,
+        "icon": "UI_RelicIcon_10001_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Goblet of the Sojourner",
+            "de": "Kelch der Fremde"
         },
-        "goblet": {
-            "name": {
-                "en": "Goblet of the Sojourner",
-                "de": "Kelch der Fremde"
-            },
-            "id": 51410,
-            "icon": "UI_RelicIcon_10001_1"
+        "id": 51410,
+        "icon": "UI_RelicIcon_10001_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Crown of Parting",
+            "de": "Kranz des Abschieds"
         },
-        "circlet": {
-            "name": {
-                "en": "Crown of Parting",
-                "de": "Kranz des Abschieds"
-            },
-            "id": 51430,
-            "icon": "UI_RelicIcon_10001_3"
-        }
+        "id": 51430,
+        "icon": "UI_RelicIcon_10001_3"
     }
 }

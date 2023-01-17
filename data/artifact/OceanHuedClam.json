@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15022,
     "sortId": 77,
+    "equipAffixId": 215022,
     "name": {
         "en": "Ocean-Hued Clam",
         "de": "Meeresmuschel"
@@ -11,7 +12,10 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [
+        5206,
+        5207
+    ],
     "containsIds": [
         96442,
         96422,
@@ -23,8 +27,8 @@
         652463502,
         3326279315
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "Healing Bonus +15%.",
@@ -49,7 +53,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_HealAndHolyNova",
             "description": {
                 "en": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
@@ -69,49 +73,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Sea-Dyed Blossom",
+            "de": "Meerfarbene Blüte"
+        },
+        "id": 96543,
+        "icon": "UI_RelicIcon_15022_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Sea-Dyed Blossom",
-                "de": "Meerfarbene Blüte"
-            },
-            "id": 96543,
-            "icon": "UI_RelicIcon_15022_4"
+    "feather": {
+        "name": {
+            "en": "Deep Palace's Plume",
+            "de": "Feder des Tiefenpalasts"
         },
-        "feather": {
-            "name": {
-                "en": "Deep Palace's Plume",
-                "de": "Feder des Tiefenpalasts"
-            },
-            "id": 96523,
-            "icon": "UI_RelicIcon_15022_2"
+        "id": 96523,
+        "icon": "UI_RelicIcon_15022_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Cowry of Parting",
+            "de": "Muschel des Abschieds"
         },
-        "sands": {
-            "name": {
-                "en": "Cowry of Parting",
-                "de": "Muschel des Abschieds"
-            },
-            "id": 96553,
-            "icon": "UI_RelicIcon_15022_5"
+        "id": 96553,
+        "icon": "UI_RelicIcon_15022_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Pearl Cage",
+            "de": "Perlenkäfig"
         },
-        "goblet": {
-            "name": {
-                "en": "Pearl Cage",
-                "de": "Perlenkäfig"
-            },
-            "id": 96513,
-            "icon": "UI_RelicIcon_15022_1"
+        "id": 96513,
+        "icon": "UI_RelicIcon_15022_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Crown of Watatsumi",
+            "de": "Krone von Watatsumi"
         },
-        "circlet": {
-            "name": {
-                "en": "Crown of Watatsumi",
-                "de": "Krone von Watatsumi"
-            },
-            "id": 96533,
-            "icon": "UI_RelicIcon_15022_3"
-        }
+        "id": 96533,
+        "icon": "UI_RelicIcon_15022_3"
     }
 }

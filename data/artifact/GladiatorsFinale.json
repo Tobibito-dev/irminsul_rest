@@ -2,6 +2,7 @@
     "templateType": "artifact",
     "id": 15001,
     "sortId": 58,
+    "equipAffixId": 215001,
     "name": {
         "en": "Gladiator's Finale",
         "de": "Verbeugung des Gladiators"
@@ -11,7 +12,7 @@
         2,
         4
     ],
-    "setAbilities": "Step Type Error: unexpected data type in template",
+    "setAbilities": [],
     "containsIds": [
         75340,
         75320,
@@ -23,8 +24,8 @@
         1890216262,
         522318403
     ],
-    "setEffects": {
-        "2": {
+    "setEffects": [
+        {
             "openConfig": "",
             "description": {
                 "en": "ATK +18%.",
@@ -49,7 +50,7 @@
                 0.0
             ]
         },
-        "4": {
+        {
             "openConfig": "Relic_MeleeAttackUp",
             "description": {
                 "en": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
@@ -69,49 +70,48 @@
                 0.0,
                 0.0,
                 0.0
-            ]
+            ],
+            "level": 1
         }
+    ],
+    "flower": {
+        "name": {
+            "en": "Gladiator's Nostalgia",
+            "de": "Nostalgie des Gladiators"
+        },
+        "id": 75540,
+        "icon": "UI_RelicIcon_15001_4"
     },
-    "setPieces": {
-        "flower": {
-            "name": {
-                "en": "Gladiator's Nostalgia",
-                "de": "Nostalgie des Gladiators"
-            },
-            "id": 75540,
-            "icon": "UI_RelicIcon_15001_4"
+    "feather": {
+        "name": {
+            "en": "Gladiator's Destiny",
+            "de": "Zuflucht des Gladiators"
         },
-        "feather": {
-            "name": {
-                "en": "Gladiator's Destiny",
-                "de": "Zuflucht des Gladiators"
-            },
-            "id": 75520,
-            "icon": "UI_RelicIcon_15001_2"
+        "id": 75520,
+        "icon": "UI_RelicIcon_15001_2"
+    },
+    "sands": {
+        "name": {
+            "en": "Gladiator's Longing",
+            "de": "Zuversicht des Gladiators"
         },
-        "sands": {
-            "name": {
-                "en": "Gladiator's Longing",
-                "de": "Zuversicht des Gladiators"
-            },
-            "id": 75550,
-            "icon": "UI_RelicIcon_15001_5"
+        "id": 75550,
+        "icon": "UI_RelicIcon_15001_5"
+    },
+    "goblet": {
+        "name": {
+            "en": "Gladiator's Intoxication",
+            "de": "Rausch des Gladiators"
         },
-        "goblet": {
-            "name": {
-                "en": "Gladiator's Intoxication",
-                "de": "Rausch des Gladiators"
-            },
-            "id": 75510,
-            "icon": "UI_RelicIcon_15001_1"
+        "id": 75510,
+        "icon": "UI_RelicIcon_15001_1"
+    },
+    "circlet": {
+        "name": {
+            "en": "Gladiator's Triumphus",
+            "de": "Triumph des Gladiators"
         },
-        "circlet": {
-            "name": {
-                "en": "Gladiator's Triumphus",
-                "de": "Triumph des Gladiators"
-            },
-            "id": 75530,
-            "icon": "UI_RelicIcon_15001_3"
-        }
+        "id": 75530,
+        "icon": "UI_RelicIcon_15001_3"
     }
 }

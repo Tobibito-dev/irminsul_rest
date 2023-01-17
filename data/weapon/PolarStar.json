@@ -989,27 +989,27 @@
                 "value": 9.963000297546387,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_CRITICAL_HURT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "99": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 10.062000274658203,
+                "value": 8.753999710083008,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_CRITICAL_HURT": {
                 "value": 4.796000003814697,
                 "arith": "ARITH_MULTI"
             }
         },
         "100": {
             "FIGHT_PROP_BASE_ATTACK": {
-                "value": 10.161999702453613,
+                "value": 8.836999893188477,
                 "arith": "ARITH_MULTI"
             },
-            "FIGHT_PROP_CRITICAL": {
+            "FIGHT_PROP_CRITICAL_HURT": {
                 "value": 4.998000144958496,
                 "arith": "ARITH_MULTI"
             }
